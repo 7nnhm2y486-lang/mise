@@ -1,0 +1,75 @@
+{
+ "id": "romeu-e-julieta",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 5,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "guavapaste",
+   "role": "sweet"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "cheese",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Romeu e Julieta",
+  "blurb": "Queso blanco fresco con goiabada. El postre más simple y querido de Brasil.",
+  "ing": [
+   {
+    "n": "goiabada (pasta de guayaba)",
+    "note": "en lonchas de 1 cm"
+   },
+   {
+    "n": "queso Minas fresco o queso blanco",
+    "note": "en lonchas de 1 cm"
+   }
+  ],
+  "steps": [
+   "Corta la goiabada y el queso en lonchas del mismo tamaño.",
+   "Pon una loncha de goiabada sobre cada loncha de queso.",
+   "Sirve a temperatura ambiente.",
+   "Si quieres, calienta 1 minuto en una sartén para que el queso se ablande.",
+   "Sirve enseguida."
+  ],
+  "tips": [
+   "El contraste salado y dulce es la gracia; usa un queso suave.",
+   "Con goiabada cascão, más rústica, queda aún mejor."
+  ],
+  "video": "romeu e julieta sobremesa"
+ },
+ "en": {
+  "name": "Romeu e Julieta (Cheese and Guava Paste)",
+  "blurb": "Fresh white cheese with guava paste. Brazil's simplest, best-loved dessert.",
+  "ing": [
+   {
+    "n": "goiabada (guava paste)",
+    "note": "in 1 cm slices"
+   },
+   {
+    "n": "Minas or fresh white cheese",
+    "note": "in 1 cm slices"
+   }
+  ],
+  "steps": [
+   "Cut the guava paste and cheese into slices of the same size.",
+   "Lay a slice of guava paste on each slice of cheese.",
+   "Serve at room temperature.",
+   "If you like, warm 1 minute in a frying pan to soften the cheese.",
+   "Serve at once."
+  ],
+  "tips": [
+   "The salty-sweet contrast is the point; use a mild cheese.",
+   "With rustic goiabada cascão it's even better."
+  ],
+  "video": "romeu e julieta dessert"
+ },
+ "added": "2026-09-30"
+}

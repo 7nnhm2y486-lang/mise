@@ -1,0 +1,155 @@
+{
+ "id": "bolinho-de-chuva",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 30,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Bolinho de chuva",
+  "blurb": "Buñuelos de masa simple fritos y rebozados en azúcar con canela. Lo que se hace en casa en las tardes de lluvia.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "azúcar para rebozar"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Bate los huevos con 100 g de azúcar. Añade la leche.",
+   "Añade la harina, el polvo de hornear y la sal y mezcla hasta tener una masa espesa.",
+   "Calienta el aceite a 170 °C.",
+   "Deja caer cucharadas de masa en el aceite y fríe 3 minutos, hasta que estén dorados.",
+   "Escurre y reboza en el azúcar mezclado con la canela."
+  ],
+  "tips": [
+   "El aceite no debe estar muy caliente o se queman por fuera y quedan crudos dentro.",
+   "Usa dos cucharas para que caigan redondos."
+  ],
+  "video": "bolinho de chuva receita"
+ },
+ "en": {
+  "name": "Bolinho de Chuva (Brazilian Rainy-Day Doughnuts)",
+  "blurb": "Simple fried dough balls rolled in cinnamon sugar. What gets made at home on rainy afternoons.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "sugar for coating"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Whisk the eggs with 100 g of sugar. Add the milk.",
+   "Add the flour, baking powder and salt and mix to a thick batter.",
+   "Heat the oil to 170 °C.",
+   "Drop spoonfuls of batter into the oil and fry 3 minutes, until golden.",
+   "Drain and roll in the sugar mixed with the cinnamon."
+  ],
+  "tips": [
+   "The oil shouldn't be too hot or they burn outside and stay raw inside.",
+   "Use two spoons so they drop in round."
+  ],
+  "video": "bolinho de chuva recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,201 @@
+{
+ "id": "galinhada",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Galinhada",
+  "blurb": "Arroz amarillo cocido con pollo en una sola olla. Plato de Goiás, para domingos y fiestas.",
+  "ing": [
+   {
+    "n": "muslos y contramuslos de pollo"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "limón",
+    "note": "en jugo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "cúrcuma"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "agua caliente"
+   },
+   {
+    "n": "granos de maíz"
+   },
+   {
+    "n": "perejil",
+    "note": "picados"
+   }
+  ],
+  "steps": [
+   "Adoba el pollo con el ajo, el limón y la sal 30 minutos.",
+   "Dora el pollo en el aceite 10 minutos. Añade la cebolla y la cúrcuma y cuece 3 minutos.",
+   "Añade el tomate y cuece 5 minutos.",
+   "Añade el arroz, mezcla y añade el agua caliente. Tapa y cuece 20 minutos a fuego bajo.",
+   "Añade el maíz, tapa 5 minutos y termina con las hierbas."
+  ],
+  "tips": [
+   "Debe quedar húmedo; si se seca, añade un poco de agua caliente.",
+   "En Goiás se usa azafrán de la tierra, que es cúrcuma."
+  ],
+  "video": "galinhada goiana receita"
+ },
+ "en": {
+  "name": "Galinhada (Brazilian Chicken and Rice)",
+  "blurb": "Yellow rice cooked with chicken in one pot. A dish from Goiás for Sundays and parties.",
+  "ing": [
+   {
+    "n": "chicken thighs and drumsticks"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "lime",
+    "note": "juiced"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "turmeric"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "hot water"
+   },
+   {
+    "n": "sweetcorn kernels"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Season the chicken with the garlic, lime and salt for 30 minutes.",
+   "Brown the chicken in the oil for 10 minutes. Add the onion and turmeric and cook 3 minutes.",
+   "Add the tomato and cook 5 minutes.",
+   "Add the rice, stir and add the hot water. Cover and cook 20 minutes on low.",
+   "Add the corn, cover for 5 minutes and finish with the herbs."
+  ],
+  "tips": [
+   "It should stay moist; if it dries, add a little hot water.",
+   "In Goiás they use 'saffron of the land', which is turmeric."
+  ],
+  "video": "galinhada recipe"
+ },
+ "added": "2026-09-30"
+}

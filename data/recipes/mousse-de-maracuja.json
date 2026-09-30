@@ -1,0 +1,97 @@
+{
+ "id": "mousse-de-maracuja",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 15,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 395,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "cream",
+   "role": "aerate"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "fruit",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "fruit",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Mousse de maracuyá",
+  "blurb": "Mousse de tres ingredientes que cuaja con la acidez del maracuyá. El postre rápido de Brasil.",
+  "ing": [
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "crema de leche"
+   },
+   {
+    "n": "jugo concentrado de maracuyá"
+   },
+   {
+    "n": "maracuyás",
+    "note": "la pulpa"
+   }
+  ],
+  "steps": [
+   "Licúa la leche condensada, la crema y el jugo de maracuyá 3 minutos, hasta que espese.",
+   "Reparte en 8 copas.",
+   "Refrigera al menos 3 horas.",
+   "Cubre con la pulpa de maracuyá con sus semillas.",
+   "Sirve frío."
+  ],
+  "tips": [
+   "El jugo debe ser concentrado, sin agua añadida, o no cuaja.",
+   "Si queda líquido tras licuar, bate 1 minuto más."
+  ],
+  "video": "mousse de maracujá receita"
+ },
+ "en": {
+  "name": "Mousse de Maracujá (Passion Fruit Mousse)",
+  "blurb": "A three-ingredient mousse that sets with the acidity of passion fruit. Brazil's quick dessert.",
+  "ing": [
+   {
+    "n": "condensed milk"
+   },
+   {
+    "n": "cream"
+   },
+   {
+    "n": "concentrated passion fruit juice"
+   },
+   {
+    "n": "passion fruits",
+    "note": "the pulp"
+   }
+  ],
+  "steps": [
+   "Blend the condensed milk, cream and passion fruit juice for 3 minutes, until thick.",
+   "Divide between 8 glasses.",
+   "Refrigerate at least 3 hours.",
+   "Top with the passion fruit pulp and seeds.",
+   "Serve cold."
+  ],
+  "tips": [
+   "The juice must be concentrated, with no added water, or it won't set.",
+   "If it's still runny after blending, blend 1 minute more."
+  ],
+  "video": "passion fruit mousse recipe"
+ },
+ "added": "2026-09-30"
+}

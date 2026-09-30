@@ -1,0 +1,137 @@
+{
+ "id": "feijao-caseiro",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "side",
+ "time": 120,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Feijão caseiro",
+  "blurb": "El frijol de todos los días en Brasil, con ajo frito y laurel. Va con arroz blanco en cada almuerzo.",
+  "ing": [
+   {
+    "n": "frijoles carioca o pintos",
+    "note": "remojados 8 horas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "hojas de laurel"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece los frijoles en el agua con el laurel 90 minutos, hasta que estén tiernos.",
+   "Fríe la cebolla y el ajo en el aceite 5 minutos, hasta que estén dorados.",
+   "Añade 2 cucharones de frijoles al sofrito, aplástalos y devuelve todo a la olla.",
+   "Añade la sal y cuece 15 minutos más, hasta que el caldo espese.",
+   "Retira el laurel y sirve con arroz."
+  ],
+  "tips": [
+   "Aplastar parte de los frijoles es lo que espesa el caldo.",
+   "En olla a presión, 30 minutos bastan en el primer paso."
+  ],
+  "video": "feijão caseiro receita"
+ },
+ "en": {
+  "name": "Feijão (Everyday Brazilian Beans)",
+  "blurb": "The everyday bean of Brazil, with fried garlic and bay. Served with white rice at every lunch.",
+  "ing": [
+   {
+    "n": "carioca or pinto beans",
+    "note": "soaked 8 hours"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the beans in the water with the bay for 90 minutes, until tender.",
+   "Fry the onion and garlic in the oil for 5 minutes, until golden.",
+   "Add 2 ladles of beans to the pan, mash them and tip everything back into the pot.",
+   "Add the salt and cook 15 minutes more, until the liquid thickens.",
+   "Remove the bay and serve with rice."
+  ],
+  "tips": [
+   "Mashing some of the beans is what thickens the liquid.",
+   "In a pressure cooker, 30 minutes is enough for the first step."
+  ],
+  "video": "brazilian beans recipe"
+ },
+ "added": "2026-09-30"
+}

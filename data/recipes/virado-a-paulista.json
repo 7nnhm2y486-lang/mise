@@ -1,0 +1,189 @@
+{
+ "id": "virado-a-paulista",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sausage",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "plantain",
+   "role": "serve"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Virado à paulista",
+  "blurb": "Tutu de frijol con chuleta, linguiça, col, huevo frito y banana. El plato de los lunes en São Paulo.",
+  "ing": [
+   {
+    "n": "frijoles cocidos",
+    "note": "con su caldo"
+   },
+   {
+    "n": "harina de mandioca"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "chuletas de cerdo"
+   },
+   {
+    "n": "linguiça (salchicha de cerdo)"
+   },
+   {
+    "n": "col rizada (couve)",
+    "note": "en tiras finas"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "plátanos (bananas)",
+    "note": "fritas en rodajas"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla y el ajo en el aceite 4 minutos. Añade los frijoles con su caldo y aplasta ligeramente.",
+   "Añade la harina de mandioca poco a poco, removiendo, hasta que espese como un puré. Sala.",
+   "Asa las chuletas y la linguiça en una sartén 10 minutos, hasta que estén doradas.",
+   "Saltea la col en la misma sartén 2 minutos y fríe los huevos.",
+   "Sirve el tutu con la chuleta, la linguiça, la col, el huevo y la banana frita."
+  ],
+  "tips": [
+   "Fríe las bananas en el aceite de las chuletas: toman sabor.",
+   "Es un plato contundente: con arroz blanco al lado queda completo."
+  ],
+  "video": "virado à paulista receita"
+ },
+ "en": {
+  "name": "Virado à Paulista (São Paulo Monday Plate)",
+  "blurb": "Bean tutu with pork chop, linguiça, greens, fried egg and banana. São Paulo's Monday dish.",
+  "ing": [
+   {
+    "n": "cooked beans",
+    "note": "with their liquid"
+   },
+   {
+    "n": "cassava flour"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "pork chops"
+   },
+   {
+    "n": "linguiça (pork sausage)"
+   },
+   {
+    "n": "collard greens (couve)",
+    "note": "finely shredded"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "bananas",
+    "note": "sliced and fried"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion and garlic in the oil for 4 minutes. Add the beans with their liquid and mash lightly.",
+   "Add the cassava flour a little at a time, stirring, until as thick as mash. Salt.",
+   "Fry the chops and linguiça in a frying pan for 10 minutes, until browned.",
+   "Toss the greens in the same pan for 2 minutes and fry the eggs.",
+   "Serve the tutu with the chop, linguiça, greens, egg and fried banana."
+  ],
+  "tips": [
+   "Fry the bananas in the fat left from the chops: they pick up flavour.",
+   "It's a hearty plate: with white rice on the side it's complete."
+  ],
+  "video": "virado a paulista recipe"
+ },
+ "added": "2026-09-30"
+}

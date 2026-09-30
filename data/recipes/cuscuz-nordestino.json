@@ -1,0 +1,95 @@
+{
+ "id": "cuscuz-nordestino",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 25,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Cuscuz nordestino",
+  "blurb": "Copos de maíz humedecidos y cocidos al vapor en cuscuzera, con mantequilla. El desayuno del nordeste de Brasil.",
+  "ing": [
+   {
+    "n": "flocão de maíz (harina de maíz en copos)"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "mantequilla"
+   }
+  ],
+  "steps": [
+   "Mezcla el flocão con la sal y el agua poco a poco, hasta que parezca arena húmeda.",
+   "Deja reposar 10 minutos.",
+   "Pon agua en la base de la cuscuzera o de una olla vaporera y llena la parte de arriba con el maíz sin apretar.",
+   "Tapa y cuece al vapor 10 minutos, hasta que suba el aroma a maíz.",
+   "Desmolda y sirve caliente con la mantequilla por encima."
+  ],
+  "tips": [
+   "No aprietes el maíz en la cuscuzera o queda pesado.",
+   "Se acompaña con huevo frito, queso coalho o carne seca."
+  ],
+  "video": "cuscuz nordestino receita"
+ },
+ "en": {
+  "name": "Cuscuz Nordestino (Steamed Corn Cake)",
+  "blurb": "Flaked corn moistened and steamed in a cuscuzeira, with butter. Breakfast in northeastern Brazil.",
+  "ing": [
+   {
+    "n": "flaked cornmeal (flocão)"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "butter"
+   }
+  ],
+  "steps": [
+   "Mix the flocão with the salt and add the water gradually until it looks like damp sand.",
+   "Leave 10 minutes.",
+   "Put water in the base of the cuscuzeira or a steamer and loosely fill the top with the corn.",
+   "Cover and steam 10 minutes, until it smells of corn.",
+   "Turn out and serve hot with the butter on top."
+  ],
+  "tips": [
+   "Don't pack the corn in the steamer or it turns heavy.",
+   "Served with fried egg, coalho cheese or dried beef."
+  ],
+  "video": "cuscuz nordestino recipe"
+ },
+ "added": "2026-09-30"
+}

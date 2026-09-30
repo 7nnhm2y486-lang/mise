@@ -1,0 +1,135 @@
+{
+ "id": "canjica",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 180,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "hominy",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 395,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "peanut",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Canjica",
+  "blurb": "Maíz blanco cocido en leche con coco, canela y maní. Postre de las fiestas juninas en Brasil.",
+  "ing": [
+   {
+    "n": "canjica (maíz blanco pelado)",
+    "note": "remojada 12 horas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "maní tostado",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Cuece la canjica en el agua 2 horas, hasta que esté tierna. Añade agua si baja.",
+   "Escurre la mayor parte del agua.",
+   "Añade la leche, la leche condensada, la leche de coco y la canela y cuece 30 minutos, removiendo, hasta que espese.",
+   "Añade la mitad del maní.",
+   "Sirve caliente o fría con el resto del maní por encima."
+  ],
+  "tips": [
+   "En olla a presión el primer paso tarda 40 minutos.",
+   "Espesa al enfriar; aligérala con leche."
+  ],
+  "video": "canjica festa junina receita"
+ },
+ "en": {
+  "name": "Canjica (Hominy Pudding)",
+  "blurb": "White hominy cooked in milk with coconut, cinnamon and peanuts. A dessert of Brazil's June festivals.",
+  "ing": [
+   {
+    "n": "white hominy corn (canjica)",
+    "note": "soaked 12 hours"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "condensed milk"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "roasted peanuts",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Boil the hominy in the water for 2 hours, until tender. Top up the water if needed.",
+   "Drain off most of the water.",
+   "Add the milk, condensed milk, coconut milk and cinnamon and cook 30 minutes, stirring, until thick.",
+   "Stir in half the peanuts.",
+   "Serve hot or cold with the rest of the peanuts on top."
+  ],
+  "tips": [
+   "In a pressure cooker the first step takes 40 minutes.",
+   "It thickens as it cools; loosen with milk."
+  ],
+  "video": "canjica recipe"
+ },
+ "added": "2026-09-30"
+}

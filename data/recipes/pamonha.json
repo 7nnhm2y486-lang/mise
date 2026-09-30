@@ -1,0 +1,95 @@
+{
+ "id": "pamonha",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 90,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 10,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pamonha dulce",
+  "blurb": "Pasta de maíz tierno con coco y azúcar, envuelta en su hoja y hervida. Merienda de las fiestas de junio.",
+  "ing": [
+   {
+    "n": "mazorcas de maíz tierno con sus hojas"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Saca las hojas con cuidado y guarda las mejores. Desgrana el maíz.",
+   "Licúa los granos con la leche de coco hasta tener una pasta espesa.",
+   "Mezcla con el azúcar y la sal.",
+   "Dobla dos hojas en forma de bolsa, rellena con 4 cucharadas de pasta y ata con tiras de hoja.",
+   "Cuece en agua hirviendo 40 minutos."
+  ],
+  "tips": [
+   "El agua debe estar hirviendo al meter las pamonhas o se deshacen.",
+   "Se comen calientes o frías."
+  ],
+  "video": "pamonha doce receita"
+ },
+ "en": {
+  "name": "Pamonha (Sweet Corn Parcels)",
+  "blurb": "A paste of young corn with coconut and sugar, wrapped in husk and boiled. A June-festival snack.",
+  "ing": [
+   {
+    "n": "young corn cobs with their husks"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Carefully remove the husks and keep the best. Cut off the kernels.",
+   "Blend the kernels with the coconut milk to a thick paste.",
+   "Mix with the sugar and salt.",
+   "Fold two husks into a pouch, fill with 4 tablespoons of paste and tie with strips of husk.",
+   "Boil in water for 40 minutes."
+  ],
+  "tips": [
+   "The water must be boiling when the pamonhas go in or they fall apart.",
+   "Eat them warm or cold."
+  ],
+  "video": "pamonha recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,141 @@
+{
+ "id": "tutu-de-feijao",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "side",
+ "time": 30,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 100,
+   "u": "g",
+   "k": "bacon",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "scallion",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Tutu de feijão",
+  "blurb": "Frijoles licuados espesados con harina de mandioca y tocino frito. De Minas Gerais.",
+  "ing": [
+   {
+    "n": "tocino ahumado",
+    "note": "en dados"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "frijoles cocidos",
+    "note": "con 300 ml de su caldo"
+   },
+   {
+    "n": "harina de mandioca"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cebolletas",
+    "note": "picadas"
+   }
+  ],
+  "steps": [
+   "Fríe el tocino 5 minutos en una olla. Añade la cebolla y el ajo y cuece 4 minutos.",
+   "Licúa los frijoles con su caldo.",
+   "Añade el puré de frijoles a la olla y calienta.",
+   "Añade la harina de mandioca poco a poco, removiendo, hasta que espese como un puré firme. Sala.",
+   "Termina con las cebolletas."
+  ],
+  "tips": [
+   "Añade la harina despacio: espesa rápido.",
+   "Se sirve con chuleta, col salteada y huevo."
+  ],
+  "video": "tutu de feijão mineiro"
+ },
+ "en": {
+  "name": "Tutu de Feijão (Brazilian Bean Mash)",
+  "blurb": "Blended beans thickened with cassava flour and crisp bacon. From Minas Gerais.",
+  "ing": [
+   {
+    "n": "smoked bacon",
+    "note": "diced"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "cooked beans",
+    "note": "with 300 ml of their liquid"
+   },
+   {
+    "n": "cassava flour"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "scallions",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Fry the bacon for 5 minutes in a pot. Add the onion and garlic and cook 4 minutes.",
+   "Blend the beans with their liquid.",
+   "Add the bean purée to the pot and heat.",
+   "Add the cassava flour a little at a time, stirring, until as thick as a firm mash. Salt.",
+   "Finish with the scallions."
+  ],
+  "tips": [
+   "Add the flour slowly: it thickens fast.",
+   "Served with pork chop, sautéed greens and egg."
+  ],
+  "video": "tutu de feijao recipe"
+ },
+ "added": "2026-09-30"
+}
