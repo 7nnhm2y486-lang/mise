@@ -1,0 +1,199 @@
+{
+ "id": "picadillo",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 700,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Picadillo",
+  "blurb": "Carne molida guisada con jitomate, papa, zanahoria y chícharos. Comida de casa: sobre arroz, en tacos o para rellenar chiles.",
+  "ing": [
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "picada"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "jitomates",
+    "note": "licuados"
+   },
+   {
+    "n": "papas",
+    "note": "en cubos pequeños"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en cubos pequeños"
+   },
+   {
+    "n": "chícharos"
+   },
+   {
+    "n": "chile serrano"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Dora la carne en el aceite a fuego alto 8 minutos, sin moverla al principio, hasta que suelte su jugo y se dore.",
+   "Añade la cebolla, el ajo y el serrano y cocina 4 minutos.",
+   "Añade el jitomate licuado y el comino y cocina 5 minutos.",
+   "Añade la papa, la zanahoria, el agua y la sal. Tapa y cuece 12 minutos.",
+   "Añade los chícharos y cocina 5 minutos más sin tapa, hasta que la papa esté tierna y quede poco líquido."
+  ],
+  "tips": [
+   "Dorar la carne en una capa sin moverla le da el sabor tostado; revuelta desde el principio solo se cuece en su jugo.",
+   "Cubos pequeños de verdura para que se cuezan al mismo tiempo que se reduce la salsa."
+  ],
+  "video": "picadillo mexicano receta"
+ },
+ "en": {
+  "name": "Mexican Picadillo",
+  "blurb": "Ground beef stewed with tomato, potato, carrot and peas. Home cooking: over rice, in tacos or to stuff chiles.",
+  "ing": [
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "white onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "tomatoes",
+    "note": "blended"
+   },
+   {
+    "n": "potatoes",
+    "note": "small dice"
+   },
+   {
+    "n": "carrots",
+    "note": "small dice"
+   },
+   {
+    "n": "peas"
+   },
+   {
+    "n": "serrano chile"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Brown the meat in the oil over high heat for 8 minutes, not stirring at first, until it releases its juices and browns.",
+   "Add the onion, garlic and serrano and cook 4 minutes.",
+   "Add the blended tomato and the cumin and cook 5 minutes.",
+   "Add the potato, carrot, water and salt. Cover and cook 12 minutes.",
+   "Add the peas and cook 5 minutes more uncovered, until the potato is tender and little liquid remains."
+  ],
+  "tips": [
+   "Browning the meat in one layer without stirring gives it the toasted flavor; stirred from the start it just stews in its juices.",
+   "Small dice so the vegetables cook in the time it takes the sauce to reduce."
+  ],
+  "video": "mexican picadillo recipe"
+ },
+ "added": "2026-09-30"
+}

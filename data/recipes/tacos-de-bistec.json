@@ -1,0 +1,165 @@
+{
+ "id": "tacos-de-bistec",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "pepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "bunch",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "hotsauce",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Tacos de bistec",
+  "blurb": "Bistec delgado a la plancha muy caliente, picado fino, en tortilla doble con cebolla y cilantro. El taco de trompo más sencillo.",
+  "ing": [
+   {
+    "n": "bistec de res delgado",
+    "note": "sirloin o arrachera"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "media en rodajas, media picada"
+   },
+   {
+    "n": "tortillas de maíz",
+    "note": "pequeñas"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "salsa verde o taquera"
+   },
+   {
+    "n": "limones"
+   }
+  ],
+  "steps": [
+   "Seca la carne, sálala y pimiéntala.",
+   "Calienta una plancha o sartén de hierro hasta que humee. Añade el aceite y la carne en una capa.",
+   "Cocina 1-2 minutos por lado hasta dorar. Saca y deja reposar 3 minutos.",
+   "En la misma plancha, dora la cebolla en rodajas 5 minutos en la grasa de la carne.",
+   "Pica la carne en trozos pequeños y regrésala a la plancha 30 segundos para que se impregne del jugo.",
+   "Sirve en dos tortillas calientes con cebolla picada, cilantro, salsa y limón."
+  ],
+  "tips": [
+   "El bistec delgado se cuece en segundos: la plancha tiene que estar muy caliente para dorar antes de que se seque.",
+   "Picar después de cocer, no antes: así queda jugoso."
+  ],
+  "video": "tacos de bistec receta"
+ },
+ "en": {
+  "name": "Steak Tacos",
+  "blurb": "Thin steak seared on a smoking-hot griddle, chopped fine and served in doubled tortillas with onion and cilantro.",
+  "ing": [
+   {
+    "n": "thin beef steak",
+    "note": "sirloin or skirt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "white onion",
+    "note": "half sliced, half chopped"
+   },
+   {
+    "n": "corn tortillas",
+    "note": "small"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "salsa verde or taco salsa"
+   },
+   {
+    "n": "limes"
+   }
+  ],
+  "steps": [
+   "Pat the meat dry and season with salt and pepper.",
+   "Heat a griddle or cast-iron skillet until smoking. Add the oil and the meat in one layer.",
+   "Cook 1-2 minutes per side until browned. Remove and rest 3 minutes.",
+   "On the same griddle, brown the sliced onion for 5 minutes in the meat fat.",
+   "Chop the meat into small pieces and return it to the griddle for 30 seconds to soak up the juices.",
+   "Serve in two warm tortillas with chopped onion, cilantro, salsa and lime."
+  ],
+  "tips": [
+   "Thin steak cooks in seconds: the griddle must be very hot so it browns before it dries out.",
+   "Chop after cooking, not before: that keeps it juicy."
+  ],
+  "video": "steak tacos recipe mexican"
+ },
+ "added": "2026-09-30"
+}

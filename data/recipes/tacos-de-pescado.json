@@ -1,0 +1,211 @@
+{
+ "id": "tacos-de-pescado",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "beer",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "mayo",
+   "role": "sauce"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "crema",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "chipotle",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "hotsauce",
+   "role": "sauce"
+  }
+ ],
+ "es": {
+  "name": "Tacos de pescado estilo Baja",
+  "blurb": "Pescado en capeado de cerveza, frito hasta crujir, en tortilla de maíz con col, crema de chipotle y limón. Ensenada en un taco.",
+  "ing": [
+   {
+    "n": "pescado blanco firme",
+    "note": "en tiras"
+   },
+   {
+    "n": "harina"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "cerveza clara fría"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "tortillas de maíz"
+   },
+   {
+    "n": "col",
+    "note": "en tiras finas"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "crema"
+   },
+   {
+    "n": "adobo de chipotle"
+   },
+   {
+    "n": "limones"
+   },
+   {
+    "n": "pico de gallo o salsa"
+   }
+  ],
+  "steps": [
+   "Mezcla la mayonesa, la crema y el adobo de chipotle.",
+   "Bate la harina, el polvo de hornear y la sal con la cerveza fría hasta tener una pasta como de hot cakes. Deja unos grumos.",
+   "Calienta el aceite a 185 °C. Seca el pescado, sálalo, pásalo por la pasta y fríelo 3-4 minutos hasta que esté dorado y suene hueco.",
+   "Escurre sobre una rejilla, no sobre papel.",
+   "Calienta las tortillas y arma: col, pescado, crema de chipotle, salsa y limón."
+  ],
+  "tips": [
+   "La cerveza fría y la pasta con grumos dan un capeado ligero: el gas y el frío frenan el gluten.",
+   "La rejilla mantiene crujiente la parte de abajo; el papel la ablanda con el vapor.",
+   "Sin gluten: usa harina de arroz y agua mineral en vez de harina y cerveza."
+  ],
+  "video": "tacos de pescado estilo ensenada"
+ },
+ "en": {
+  "name": "Baja Fish Tacos",
+  "blurb": "Beer-battered fish fried until crackling, in corn tortillas with cabbage, chipotle crema and lime. Ensenada in a taco.",
+  "ing": [
+   {
+    "n": "firm white fish",
+    "note": "in strips"
+   },
+   {
+    "n": "flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "cold lager"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "corn tortillas"
+   },
+   {
+    "n": "cabbage",
+    "note": "finely shredded"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "crema"
+   },
+   {
+    "n": "chipotle adobo sauce"
+   },
+   {
+    "n": "limes"
+   },
+   {
+    "n": "pico de gallo or salsa"
+   }
+  ],
+  "steps": [
+   "Mix the mayonnaise, crema and chipotle adobo.",
+   "Whisk the flour, baking powder and salt with the cold beer into a pancake-batter consistency. Leave some lumps.",
+   "Heat the oil to 185 °C. Pat the fish dry, salt it, dip it in the batter and fry 3-4 minutes until golden and hollow-sounding.",
+   "Drain on a rack, not on paper.",
+   "Warm the tortillas and build: cabbage, fish, chipotle crema, salsa and lime."
+  ],
+  "tips": [
+   "Cold beer and a lumpy batter make a light crust: the bubbles and the cold slow the gluten.",
+   "A rack keeps the bottom crisp; paper steams it soft.",
+   "Gluten-free: use rice flour and sparkling water instead of flour and beer."
+  ],
+  "video": "baja fish tacos recipe"
+ },
+ "added": "2026-09-30"
+}

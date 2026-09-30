@@ -1,0 +1,129 @@
+{
+ "id": "salsa-taquera",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 20,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 15,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomatillo",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "whitevinegar",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Salsa taquera de chile de árbol",
+  "blurb": "La salsa roja delgada y muy picante de la taquería. Chile de árbol frito, tomatillo asado y un chorrito de vinagre.",
+  "ing": [
+   {
+    "n": "chiles de árbol secos"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "vinagre blanco"
+   }
+  ],
+  "steps": [
+   "Fríe los chiles en el aceite a fuego bajo 30 segundos, moviendo, hasta que cambien de rojo a rojo oscuro. No más: quemados amargan.",
+   "Asa los tomatillos y el ajo en un comal hasta que estén blandos y manchados.",
+   "Licúa todo con el agua, la sal y el vinagre hasta que quede lisa.",
+   "Deja enfriar: se espesa un poco y el picante se asienta."
+  ],
+  "tips": [
+   "El vinagre no es para que sepa a vinagre: es para que dure una semana en el refrigerador y levante el chile.",
+   "Si quedó demasiado picante, añade otro tomatillo asado."
+  ],
+  "video": "salsa de chile de arbol taquera"
+ },
+ "en": {
+  "name": "Árbol Chile Taco Salsa",
+  "blurb": "The thin, fiery red salsa of the taquería. Fried árbol chiles, charred tomatillo and a splash of vinegar.",
+  "ing": [
+   {
+    "n": "dried árbol chiles"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "white vinegar"
+   }
+  ],
+  "steps": [
+   "Fry the chiles in the oil over low heat for 30 seconds, stirring, until they go from red to dark red. No longer: burned, they turn bitter.",
+   "Char the tomatillos and garlic on a griddle until soft and blistered.",
+   "Blend everything with the water, salt and vinegar until smooth.",
+   "Let it cool: it thickens a little and the heat settles."
+  ],
+  "tips": [
+   "The vinegar isn't there to taste of vinegar: it keeps the salsa a week in the fridge and lifts the chile.",
+   "If it's too hot, blend in another charred tomatillo."
+  ],
+  "video": "arbol chile salsa taqueria"
+ },
+ "added": "2026-09-30"
+}

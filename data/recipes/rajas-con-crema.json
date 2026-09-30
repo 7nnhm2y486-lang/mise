@@ -1,0 +1,137 @@
+{
+ "id": "rajas-con-crema",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "side",
+ "time": 35,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "crema",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "cheese",
+   "role": "fat"
+  },
+  {
+   "q": 0.75,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Rajas con crema",
+  "blurb": "Tiras de poblano asado con elote y cebolla en crema. Van en tacos, sobre arroz o como guarnición de cualquier carne.",
+  "ing": [
+   {
+    "n": "chiles poblanos"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "en plumas"
+   },
+   {
+    "n": "elotes",
+    "note": "desgranados"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "crema mexicana"
+   },
+   {
+    "n": "queso Oaxaca o Chihuahua",
+    "note": "rallado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Asa los poblanos en la llama hasta que estén negros, sudalos en una bolsa 10 minutos, pélalos y córtalos en tiras.",
+   "Sofríe la cebolla en la mantequilla 6 minutos hasta que esté blanda.",
+   "Añade el elote y cocina 4 minutos.",
+   "Añade las rajas, la crema y la sal, y cocina a fuego bajo 5 minutos.",
+   "Añade el queso, tapa y apaga el fuego. Sirve cuando se haya derretido."
+  ],
+  "tips": [
+   "No laves los chiles para pelarlos: el agua se lleva el sabor asado. Usa un trapo.",
+   "Fuego bajo con la crema: si hierve fuerte se corta."
+  ],
+  "video": "rajas con crema receta"
+ },
+ "en": {
+  "name": "Poblano Strips in Cream",
+  "blurb": "Roasted poblano strips with corn and onion in crema. For tacos, over rice, or next to any meat.",
+  "ing": [
+   {
+    "n": "poblano chiles"
+   },
+   {
+    "n": "white onion",
+    "note": "sliced"
+   },
+   {
+    "n": "ears of corn",
+    "note": "kernels cut off"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "Mexican crema"
+   },
+   {
+    "n": "Oaxaca or Chihuahua cheese",
+    "note": "grated"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Char the poblanos over the flame until black, sweat them in a bag for 10 minutes, peel and cut into strips.",
+   "Cook the onion in the butter for 6 minutes until soft.",
+   "Add the corn and cook 4 minutes.",
+   "Add the strips, crema and salt and cook over low heat for 5 minutes.",
+   "Add the cheese, cover and turn off the heat. Serve once it's melted."
+  ],
+  "tips": [
+   "Don't rinse the chiles to peel them: water washes off the roasted flavor. Use a towel.",
+   "Low heat with the crema: a hard boil splits it."
+  ],
+  "video": "rajas con crema recipe"
+ },
+ "added": "2026-09-30"
+}

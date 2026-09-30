@@ -1,0 +1,177 @@
+{
+ "id": "frijoles-charros",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "bacon",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sausage",
+   "role": "protein"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Frijoles charros",
+  "blurb": "Frijoles pintos en su caldo con tocino, chorizo, jitomate y jalapeño. El acompañante de la carne asada del norte.",
+  "ing": [
+   {
+    "n": "frijoles pintos cocidos con su líquido de cocción"
+   },
+   {
+    "n": "tocino",
+    "note": "en trozos"
+   },
+   {
+    "n": "chorizo"
+   },
+   {
+    "n": "salchichas",
+    "note": "en rodajas"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "picada"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "jitomate",
+    "note": "picado"
+   },
+   {
+    "n": "chiles jalapeños",
+    "note": "picados"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Dora el tocino a fuego medio hasta que suelte la grasa y esté crujiente, 6 minutos.",
+   "Añade el chorizo y cocina 4 minutos, deshaciéndolo. Añade la salchicha y dora 2 minutos.",
+   "Añade la cebolla, el ajo y el jalapeño y cocina 4 minutos. Añade el jitomate y cocina 5 minutos.",
+   "Vierte los frijoles con su caldo y cuece a fuego bajo 20 minutos.",
+   "Ajusta la sal y añade el cilantro al final."
+  ],
+  "tips": [
+   "El caldo de los frijoles es la base: si usas de lata, añade un poco de agua y no los escurras.",
+   "Deben quedar caldosos, no espesos como refritos."
+  ],
+  "video": "frijoles charros receta"
+ },
+ "en": {
+  "name": "Charro Beans",
+  "blurb": "Pinto beans in their broth with bacon, chorizo, tomato and jalapeño. The northern Mexican side for carne asada.",
+  "ing": [
+   {
+    "n": "cooked pinto beans with their cooking liquid"
+   },
+   {
+    "n": "bacon",
+    "note": "chopped"
+   },
+   {
+    "n": "chorizo"
+   },
+   {
+    "n": "frankfurters",
+    "note": "sliced"
+   },
+   {
+    "n": "white onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "tomato",
+    "note": "chopped"
+   },
+   {
+    "n": "jalapeños",
+    "note": "chopped"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the bacon over medium heat until the fat renders and it's crisp, 6 minutes.",
+   "Add the chorizo and cook 4 minutes, breaking it up. Add the frankfurters and brown 2 minutes.",
+   "Add the onion, garlic and jalapeño and cook 4 minutes. Add the tomato and cook 5 minutes.",
+   "Pour in the beans with their broth and simmer on low for 20 minutes.",
+   "Adjust the salt and add the cilantro at the end."
+  ],
+  "tips": [
+   "The bean broth is the base: if using canned, add a little water and don't drain them.",
+   "They should be brothy, not thick like refried beans."
+  ],
+  "video": "charro beans recipe"
+ },
+ "added": "2026-09-30"
+}

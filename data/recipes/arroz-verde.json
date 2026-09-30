@@ -1,0 +1,157 @@
+{
+ "id": "arroz-verde",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "side",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Arroz verde",
+  "blurb": "Arroz frito y cocido en un licuado de poblano, cilantro y perejil. Mismo método que el rojo, sabor más fresco.",
+  "ing": [
+   {
+    "n": "arroz de grano largo"
+   },
+   {
+    "n": "chiles poblanos",
+    "note": "sin semillas"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "cebolla blanca"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Enjuaga el arroz y escúrrelo 10 minutos.",
+   "Licúa los poblanos crudos, las hierbas, la cebolla y el ajo con 250 ml del caldo.",
+   "Fríe el arroz en el aceite 6 minutos, moviendo, hasta que esté blanco opaco y suene a arena. Que no se dore mucho: el color verde se ensucia.",
+   "Añade el licuado, el resto del caldo y la sal. Hierve, tapa y cocina al mínimo 18 minutos.",
+   "Reposa 5 minutos tapado y esponja con un tenedor."
+  ],
+  "tips": [
+   "El poblano crudo da color más brillante que el asado.",
+   "Si el licuado tiene fibras, cuélalo."
+  ],
+  "video": "arroz verde mexicano"
+ },
+ "en": {
+  "name": "Green Rice",
+  "blurb": "Rice fried and then cooked in a purée of poblano, cilantro and parsley. The same method as red rice, a fresher flavor.",
+  "ing": [
+   {
+    "n": "long-grain rice"
+   },
+   {
+    "n": "poblano chiles",
+    "note": "seeded"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "white onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Rinse the rice and let it drain for 10 minutes.",
+   "Blend the raw poblanos, herbs, onion and garlic with 250 ml of the stock.",
+   "Fry the rice in the oil for 6 minutes, stirring, until opaque white and sandy-sounding. Don't let it brown much: it muddies the green.",
+   "Add the purée, the rest of the stock and the salt. Bring to a boil, cover and cook on the lowest heat for 18 minutes.",
+   "Rest 5 minutes covered and fluff with a fork."
+  ],
+  "tips": [
+   "Raw poblano gives a brighter color than roasted.",
+   "If the purée is stringy, strain it."
+  ],
+  "video": "arroz verde recipe"
+ },
+ "added": "2026-09-30"
+}

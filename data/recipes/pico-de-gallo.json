@@ -1,0 +1,127 @@
+{
+ "id": "pico-de-gallo",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 15,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pico de gallo",
+  "blurb": "Jitomate, cebolla, chile y cilantro picados a cuchillo, con limón y sal. La salsa fresca que no se licúa y se come el mismo día.",
+  "ing": [
+   {
+    "n": "jitomates saladet",
+    "note": "sin semillas, en cubos"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "picada fina"
+   },
+   {
+    "n": "chiles serranos",
+    "note": "picados"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Quita las semillas y el agua de los jitomates antes de picarlos: si no, la salsa queda aguada.",
+   "Enjuaga la cebolla picada en un colador con agua fría y escúrrela. Le quita el golpe crudo.",
+   "Mezcla todo con el jugo de limón y la sal.",
+   "Deja reposar 10 minutos para que suelte jugo, prueba y ajusta sal y limón."
+  ],
+  "tips": [
+   "Cuchillo, no procesador: el procesador rompe las células y todo suelta agua.",
+   "Se come el mismo día; al siguiente el jitomate está harinoso."
+  ],
+  "video": "pico de gallo receta"
+ },
+ "en": {
+  "name": "Pico de Gallo",
+  "blurb": "Tomato, onion, chile and cilantro chopped by hand with lime and salt. The fresh salsa that never sees a blender and is eaten the same day.",
+  "ing": [
+   {
+    "n": "Roma tomatoes",
+    "note": "seeded, diced"
+   },
+   {
+    "n": "white onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "serrano chiles",
+    "note": "chopped"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Remove the seeds and juice from the tomatoes before dicing: otherwise the salsa turns watery.",
+   "Rinse the chopped onion in a sieve under cold water and drain. It takes the raw bite off.",
+   "Mix everything with the lime juice and salt.",
+   "Let it sit 10 minutes to release its juices, taste and adjust salt and lime."
+  ],
+  "tips": [
+   "Knife, not food processor: the processor bursts the cells and everything weeps.",
+   "Eat it the same day; by the next the tomato turns mealy."
+  ],
+  "video": "pico de gallo recipe"
+ },
+ "added": "2026-09-30"
+}

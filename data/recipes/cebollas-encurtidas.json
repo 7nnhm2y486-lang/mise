@@ -1,0 +1,123 @@
+{
+ "id": "cebollas-encurtidas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "side",
+ "time": 10,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "cidervinegar",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Cebolla morada encurtida",
+  "blurb": "Cebolla morada en jugo de naranja agria que en media hora se vuelve rosa brillante. Acompaña cochinita, tacos y casi todo.",
+  "ing": [
+   {
+    "n": "cebollas moradas",
+    "note": "en plumas finas"
+   },
+   {
+    "n": "naranjas agrias o limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "vinagre de manzana"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "orégano mexicano"
+   },
+   {
+    "n": "chile habanero",
+    "note": "opcional, en tiras"
+   }
+  ],
+  "steps": [
+   "Pon la cebolla en un colador y vierte encima agua hirviendo. Escurre.",
+   "Mézclala con el jugo, el vinagre, la sal, el orégano y el habanero.",
+   "Deja reposar al menos 30 minutos a temperatura ambiente, moviendo una vez.",
+   "Guarda en frasco en el refrigerador hasta 1 semana."
+  ],
+  "tips": [
+   "El agua hirviendo suaviza la cebolla y ayuda a que tome el color rosa más rápido.",
+   "Sin naranja agria, usa mitad jugo de naranja y mitad de limón."
+  ],
+  "video": "cebolla morada encurtida yucateca"
+ },
+ "en": {
+  "name": "Pickled Red Onions",
+  "blurb": "Red onion in sour-orange juice that turns bright pink in half an hour. It goes with cochinita, tacos and nearly everything.",
+  "ing": [
+   {
+    "n": "red onions",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "sour oranges or limes",
+    "note": "juiced"
+   },
+   {
+    "n": "cider vinegar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "Mexican oregano"
+   },
+   {
+    "n": "habanero chile",
+    "note": "optional, in strips"
+   }
+  ],
+  "steps": [
+   "Put the onion in a sieve and pour boiling water over it. Drain.",
+   "Toss with the juice, vinegar, salt, oregano and habanero.",
+   "Let it sit at least 30 minutes at room temperature, stirring once.",
+   "Keep in a jar in the fridge for up to 1 week."
+  ],
+  "tips": [
+   "The boiling water softens the onion and helps it turn pink faster.",
+   "No sour oranges? Use half orange juice, half lime juice."
+  ],
+  "video": "pickled red onions yucatan"
+ },
+ "added": "2026-09-30"
+}

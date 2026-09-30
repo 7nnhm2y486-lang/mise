@@ -1,0 +1,165 @@
+{
+ "id": "calabacitas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "side",
+ "time": 25,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Calabacitas a la mexicana",
+  "blurb": "Calabacita, elote y jitomate guisados juntos hasta que la calabaza está tierna pero todavía tiene forma. Guarnición de diario.",
+  "ing": [
+   {
+    "n": "calabacitas",
+    "note": "en cubos"
+   },
+   {
+    "n": "jitomate",
+    "note": "picado"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "picada"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "chile serrano"
+   },
+   {
+    "n": "elote",
+    "note": "desgranado"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "queso fresco",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo y el serrano en el aceite 4 minutos.",
+   "Añade el jitomate y cocina 5 minutos hasta que se deshaga.",
+   "Añade la calabacita, el elote y la sal. Tapa y cocina a fuego medio-bajo 8 minutos.",
+   "Destapa y cocina 3 minutos más para evaporar el exceso de líquido.",
+   "Sirve con queso fresco desmoronado."
+  ],
+  "tips": [
+   "La calabacita suelta mucha agua: por eso el jitomate se cocina antes, para que no quede un caldo.",
+   "Para una comida completa, añade pollo deshebrado al final."
+  ],
+  "video": "calabacitas a la mexicana"
+ },
+ "en": {
+  "name": "Mexican-Style Zucchini",
+  "blurb": "Squash, corn and tomato stewed together until the squash is tender but still holds its shape. An everyday side.",
+  "ing": [
+   {
+    "n": "Mexican squash or zucchini",
+    "note": "diced"
+   },
+   {
+    "n": "tomato",
+    "note": "chopped"
+   },
+   {
+    "n": "white onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "serrano chile"
+   },
+   {
+    "n": "ear of corn",
+    "note": "kernels cut off"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "queso fresco",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic and serrano in the oil for 4 minutes.",
+   "Add the tomato and cook for 5 minutes until it breaks down.",
+   "Add the squash, corn and salt. Cover and cook over medium-low heat for 8 minutes.",
+   "Uncover and cook 3 minutes more to evaporate the excess liquid.",
+   "Serve with crumbled queso fresco."
+  ],
+  "tips": [
+   "Squash gives off a lot of water: that's why the tomato cooks first, so you don't end up with soup.",
+   "For a full meal, stir in shredded chicken at the end."
+  ],
+  "video": "calabacitas recipe mexican"
+ },
+ "added": "2026-09-30"
+}
