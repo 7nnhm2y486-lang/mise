@@ -1,0 +1,157 @@
+{
+ "id": "llauchas",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 120,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 7,
+   "u": "g",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "glaze"
+  }
+ ],
+ "es": {
+  "name": "Llauchas paceñas",
+  "blurb": "Empanadas abiertas rellenas de queso con ají, horneadas. Se comen calientes en las mañanas de La Paz.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "queso fresco",
+    "note": "rallado"
+   },
+   {
+    "n": "ají colorado molido"
+   },
+   {
+    "n": "huevo batido"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la levadura, el azúcar, la sal, el agua y la manteca. Amasa 8 minutos y deja levar 1 hora.",
+   "Mezcla el queso con el ají.",
+   "Divide la masa en 12 y estira discos de 12 cm.",
+   "Pon queso en el centro y pliega los bordes hacia arriba formando una corona abierta.",
+   "Pinta con el huevo y hornea a 200 °C 15 minutos."
+  ],
+  "tips": [
+   "Cómelas recién horneadas, con el queso fundido.",
+   "Ajusta el ají al gusto."
+  ],
+  "video": "llauchas paceñas"
+ },
+ "en": {
+  "name": "Llauchas (Bolivian Cheese Pastries)",
+  "blurb": "Open pastries filled with cheese and ají, baked. Eaten hot on La Paz mornings.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "dried yeast"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "fresh white cheese",
+    "note": "grated"
+   },
+   {
+    "n": "red ají paste"
+   },
+   {
+    "n": "beaten egg"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar, salt, water and lard. Knead 8 minutes and rise 1 hour.",
+   "Mix the cheese with the ají.",
+   "Divide the dough into 12 and roll 12 cm discs.",
+   "Put cheese in the centre and pleat the edges up into an open crown.",
+   "Brush with the egg and bake at 200 °C for 15 minutes."
+  ],
+  "tips": [
+   "Eat them straight from the oven, with the cheese melted.",
+   "Adjust the ají to taste."
+  ],
+  "video": "bolivian llauchas"
+ },
+ "added": "2026-09-30"
+}

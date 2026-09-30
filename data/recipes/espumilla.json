@@ -1,0 +1,97 @@
+{
+ "id": "espumilla",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 20,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "eggwhite",
+   "role": "aerate"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "guavapaste",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Espumilla de guayaba",
+  "blurb": "Merengue crudo batido con guayaba, servido en cucurucho. Se vende en las calles de Quito.",
+  "ing": [
+   {
+    "n": "claras de huevo pasteurizadas"
+   },
+   {
+    "n": "pasta de guayaba",
+    "note": "derretida"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Derrite la pasta de guayaba a fuego bajo con 2 cucharadas de agua. Deja enfriar.",
+   "Bate las claras con la sal a punto de nieve.",
+   "Añade el azúcar poco a poco y bate hasta que brille.",
+   "Añade la guayaba y bate 3 minutos más, hasta que esté firme.",
+   "Sirve de inmediato en vasitos o cucuruchos."
+  ],
+  "tips": [
+   "Usa claras pasteurizadas porque no se cuecen.",
+   "Se desinfla con las horas: sírvela recién hecha."
+  ],
+  "video": "espumilla de guayaba quiteña"
+ },
+ "en": {
+  "name": "Espumilla (Ecuadorian Guava Meringue)",
+  "blurb": "Uncooked meringue whipped with guava, served in a cone. Sold on the streets of Quito.",
+  "ing": [
+   {
+    "n": "pasteurised egg whites"
+   },
+   {
+    "n": "guava paste",
+    "note": "melted"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Melt the guava paste on low with 2 tablespoons of water. Cool.",
+   "Whisk the whites with the salt to stiff peaks.",
+   "Add the sugar gradually and whisk until glossy.",
+   "Add the guava and whisk 3 minutes more, until firm.",
+   "Serve at once in cups or cones."
+  ],
+  "tips": [
+   "Use pasteurised whites because they aren't cooked.",
+   "It deflates over time: serve it freshly made."
+  ],
+  "video": "ecuadorian espumilla"
+ },
+ "added": "2026-09-30"
+}

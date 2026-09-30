@@ -1,0 +1,227 @@
+{
+ "id": "caldo-de-bolas-de-verde",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 120,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "peanut",
+   "role": "enrich"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "enrich"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Caldo de bolas de verde",
+  "blurb": "Caldo de costilla con bolas de plátano verde rellenas de carne, maní y huevo. El caldo más querido de la costa ecuatoriana.",
+  "ing": [
+   {
+    "n": "costilla de res"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "plátanos verdes"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "achiote molido"
+   },
+   {
+    "n": "cebolla colorada",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "maní tostado molido"
+   },
+   {
+    "n": "huevos duros",
+    "note": "picados"
+   },
+   {
+    "n": "mazorcas",
+    "note": "en rodajas"
+   },
+   {
+    "n": "yuca",
+    "note": "en trozos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Cuece la costilla en el agua con 2 cucharaditas de sal 60 minutos.",
+   "Sofríe la cebolla, el ajo y el achiote en el aceite 5 minutos. Añade la carne molida y cocina 8 minutos. Mezcla con el maní y el huevo.",
+   "Ralla los plátanos crudos y amasa con 250 ml de caldo tibio y el resto de la sal.",
+   "Forma bolas de masa, hazles un hueco, rellena con la carne y cierra.",
+   "Añade al caldo la yuca, el maíz y las bolas y cuece 25 minutos. Termina con el cilantro."
+  ],
+  "tips": [
+   "Unta las manos con aceite para formar las bolas.",
+   "No remuevas los primeros 10 minutos para que las bolas no se rompan."
+  ],
+  "video": "caldo de bolas de verde"
+ },
+ "en": {
+  "name": "Caldo de Bolas de Verde (Stuffed Plantain Dumpling Soup)",
+  "blurb": "Short rib broth with green plantain dumplings stuffed with beef, peanut and egg. Coastal Ecuador's best-loved soup.",
+  "ing": [
+   {
+    "n": "beef short ribs"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "green plantains"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "minced beef"
+   },
+   {
+    "n": "ground roasted peanuts"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "chopped"
+   },
+   {
+    "n": "corn cobs",
+    "note": "in rounds"
+   },
+   {
+    "n": "cassava",
+    "note": "in chunks"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Simmer the ribs in the water with 2 teaspoons of salt for 60 minutes.",
+   "Cook the onion, garlic and annatto in the oil for 5 minutes. Add the minced beef and cook 8 minutes. Mix with the peanuts and egg.",
+   "Grate the raw plantains and knead with 250 ml of warm broth and the remaining salt.",
+   "Shape balls of dough, make a hollow, fill with the beef and seal.",
+   "Add the cassava, corn and dumplings to the broth and simmer 25 minutes. Finish with the coriander."
+  ],
+  "tips": [
+   "Oil your hands to shape the dumplings.",
+   "Don't stir for the first 10 minutes so the dumplings don't break."
+  ],
+  "video": "ecuadorian plantain dumpling soup"
+ },
+ "added": "2026-09-30"
+}

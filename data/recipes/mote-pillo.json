@@ -1,0 +1,145 @@
+{
+ "id": "mote-pillo",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "hominy",
+   "role": "structure"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Mote pillo",
+  "blurb": "Mote salteado con cebolla, achiote y huevo revuelto. Desayuno de Cuenca.",
+  "ing": [
+   {
+    "n": "mote cocido"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "cebollas blancas largas",
+    "note": "picadas"
+   },
+   {
+    "n": "achiote molido"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla y el achiote en la mantequilla 4 minutos.",
+   "Añade el mote y saltea 5 minutos.",
+   "Bate los huevos con la leche y la sal y añádelos.",
+   "Remueve 2 minutos, hasta que cuajen suaves. Termina con el cilantro."
+  ],
+  "tips": [
+   "Retira del fuego cuando el huevo aún esté jugoso.",
+   "Sírvelo con café, como en Cuenca."
+  ],
+  "video": "mote pillo cuencano"
+ },
+ "en": {
+  "name": "Mote Pillo (Hominy with Scrambled Egg)",
+  "blurb": "Hominy sautéed with spring onion, annatto and scrambled egg. Breakfast in Cuenca.",
+  "ing": [
+   {
+    "n": "cooked hominy"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "spring onions",
+    "note": "chopped"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Cook the spring onion and annatto in the butter for 4 minutes.",
+   "Add the hominy and sauté 5 minutes.",
+   "Whisk the eggs with the milk and salt and add them.",
+   "Stir 2 minutes, until softly set. Finish with the coriander."
+  ],
+  "tips": [
+   "Take it off the heat while the egg is still moist.",
+   "Serve with coffee, as in Cuenca."
+  ],
+  "video": "ecuadorian mote pillo"
+ },
+ "added": "2026-09-30"
+}

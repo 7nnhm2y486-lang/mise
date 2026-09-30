@@ -1,0 +1,105 @@
+{
+ "id": "somo",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 150,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "hominy",
+   "role": "structure"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Somó",
+  "blurb": "Refresco de maíz blanco cocido con canela y clavo, servido con los granos. Bebida cruceña.",
+  "ing": [
+   {
+    "n": "maíz blanco pelado"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "clavos de olor"
+   }
+  ],
+  "steps": [
+   "Remoja el maíz 12 horas y escúrrelo.",
+   "Cuécelo en el agua con la canela y el clavo 2 horas, hasta que esté tierno.",
+   "Añade el azúcar y deja enfriar.",
+   "Sirve frío con los granos en el vaso."
+  ],
+  "tips": [
+   "Añade agua si reduce demasiado.",
+   "Se conserva 3 días en la nevera."
+  ],
+  "video": "somó cruceño"
+ },
+ "en": {
+  "name": "Somó (Bolivian White Corn Cooler)",
+  "blurb": "A cooler of cooked white corn with cinnamon and clove, served with the kernels. A drink from Santa Cruz.",
+  "ing": [
+   {
+    "n": "hulled white corn"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "cloves"
+   }
+  ],
+  "steps": [
+   "Soak the corn 12 hours and drain.",
+   "Simmer it in the water with the cinnamon and cloves for 2 hours, until tender.",
+   "Add the sugar and cool.",
+   "Serve cold with the kernels in the glass."
+  ],
+  "tips": [
+   "Add water if it reduces too much.",
+   "It keeps 3 days in the fridge."
+  ],
+  "video": "bolivian somo drink"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,195 @@
+{
+ "id": "guatita",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "main",
+ "time": 180,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "peanutbutter",
+   "role": "sauce"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Guatita",
+  "blurb": "Callo de res tierno en una salsa espesa de maní con papas. Plato de huecas guayaquileñas.",
+  "ing": [
+   {
+    "n": "mondongo (callo de res) limpio"
+   },
+   {
+    "n": "limones"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla colorada",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "achiote molido"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "pasta de maní sin azúcar"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "papas",
+    "note": "en cubos"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Frota el mondongo con el limón, enjuágalo y cuécelo en el agua 2 horas. Córtalo en cuadritos y guarda 500 ml del caldo.",
+   "Sofríe la cebolla, el ajo, el achiote y el comino en el aceite 6 minutos.",
+   "Disuelve la pasta de maní en la leche y añádela con el caldo reservado.",
+   "Añade el mondongo, las papas y la sal y cuece 25 minutos, removiendo, hasta que la salsa espese."
+  ],
+  "tips": [
+   "En olla a presión el mondongo tarda 45 minutos.",
+   "Sírvela con arroz blanco."
+  ],
+  "video": "guatita ecuatoriana"
+ },
+ "en": {
+  "name": "Guatita (Ecuadorian Tripe in Peanut Sauce)",
+  "blurb": "Tender beef tripe in a thick peanut sauce with potatoes. A dish of Guayaquil's small eateries.",
+  "ing": [
+   {
+    "n": "cleaned beef tripe"
+   },
+   {
+    "n": "limes"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "unsweetened peanut butter"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "potatoes",
+    "note": "cubed"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Rub the tripe with the lime, rinse and simmer in the water for 2 hours. Cut into small squares and keep 500 ml of the broth.",
+   "Cook the onion, garlic, annatto and cumin in the oil for 6 minutes.",
+   "Dissolve the peanut butter in the milk and add it with the reserved broth.",
+   "Add the tripe, potatoes and salt and simmer 25 minutes, stirring, until the sauce thickens."
+  ],
+  "tips": [
+   "In a pressure cooker the tripe takes 45 minutes.",
+   "Serve with white rice."
+  ],
+  "video": "ecuadorian guatita"
+ },
+ "added": "2026-09-30"
+}

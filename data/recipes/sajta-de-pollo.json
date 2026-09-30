@@ -1,0 +1,201 @@
+{
+ "id": "sajta-de-pollo",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 90,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Sajta de pollo",
+  "blurb": "Pollo en una salsa amarilla picante de ají, con ensalada de tomate y cebolla. Plato festivo paceño.",
+  "ing": [
+   {
+    "n": "pollo en presas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebollas",
+    "note": "picadas"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ají amarillo molido"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "tomates",
+    "note": "en rodajas"
+   },
+   {
+    "n": "cebolla (para la ensalada)",
+    "note": "en aros"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo en el agua con la sal 30 minutos. Guarda el caldo.",
+   "Sofríe la cebolla, el ajo, el ají y el comino en el aceite 10 minutos.",
+   "Añade el pollo y 500 ml del caldo y cuece 25 minutos.",
+   "Añade las arvejas y cuece 5 minutos.",
+   "Sirve con la ensalada de tomate, cebolla y perejil."
+  ],
+  "tips": [
+   "Tradicionalmente se acompaña con arroz blanco.",
+   "El ají amarillo pica: ajusta la cantidad."
+  ],
+  "video": "sajta de pollo boliviana"
+ },
+ "en": {
+  "name": "Sajta de Pollo (Bolivian Yellow Chilli Chicken)",
+  "blurb": "Chicken in a spicy yellow ají sauce, with tomato and onion salad. A festive La Paz dish.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onions",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "green peas"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "tomatoes",
+    "note": "sliced"
+   },
+   {
+    "n": "onion (for the salad)",
+    "note": "in rings"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken in the water with the salt for 30 minutes. Keep the broth.",
+   "Cook the onion, garlic, ají and cumin in the oil for 10 minutes.",
+   "Add the chicken and 500 ml of the broth and simmer 25 minutes.",
+   "Add the peas and cook 5 minutes.",
+   "Serve with the tomato, onion and parsley salad."
+  ],
+  "tips": [
+   "It's traditionally served with rice.",
+   "Ají amarillo is hot: adjust the amount."
+  ],
+  "video": "bolivian sajta de pollo"
+ },
+ "added": "2026-09-30"
+}

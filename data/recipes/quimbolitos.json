@@ -1,0 +1,155 @@
+{
+ "id": "quimbolitos",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 90,
+ "serves": 16,
+ "ing": [
+  {
+   "q": 120,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "garnish"
+  },
+  {
+   "q": 16,
+   "u": "leaf",
+   "k": "veg",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Quimbolitos",
+  "blurb": "Bizcochitos de maíz con queso y pasas cocidos al vapor en hoja de achira. Se toman con café en la sierra ecuatoriana.",
+  "ing": [
+   {
+    "n": "mantequilla blanda"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "harina de maíz fina"
+   },
+   {
+    "n": "queso fresco",
+    "note": "rallado"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "hojas de achira o de plátano"
+   }
+  ],
+  "steps": [
+   "Bate la mantequilla con el azúcar hasta que esté cremosa. Añade los huevos de uno en uno.",
+   "Añade la harina de maíz, el queso, la leche y el polvo de hornear.",
+   "Pon 2 cucharadas de masa en cada hoja, añade unas pasas y dobla.",
+   "Cuécelos al vapor 45 minutos, hasta que estén firmes."
+  ],
+  "tips": [
+   "No los llenes de más: la masa crece al cocer.",
+   "Se conservan 2 días y se recalientan al vapor."
+  ],
+  "video": "quimbolitos ecuatorianos"
+ },
+ "en": {
+  "name": "Quimbolitos (Ecuadorian Steamed Corn Cakes)",
+  "blurb": "Little corn cakes with cheese and raisins steamed in achira leaves. Eaten with coffee in the Ecuadorian highlands.",
+  "ing": [
+   {
+    "n": "soft butter"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "fine cornmeal"
+   },
+   {
+    "n": "fresh white cheese",
+    "note": "grated"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "achira or banana leaves"
+   }
+  ],
+  "steps": [
+   "Beat the butter with the sugar until creamy. Add the eggs one at a time.",
+   "Add the cornmeal, cheese, milk and baking powder.",
+   "Put 2 tablespoons of batter on each leaf, add a few raisins and fold.",
+   "Steam 45 minutes, until firm."
+  ],
+  "tips": [
+   "Don't overfill: the batter rises as it cooks.",
+   "They keep 2 days and reheat by steaming."
+  ],
+  "video": "ecuadorian quimbolitos"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,95 @@
+{
+ "id": "masaco-de-platano",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Masaco de plátano",
+  "blurb": "Plátano verde frito y machacado con queso. Desayuno del oriente boliviano.",
+  "ing": [
+   {
+    "n": "plátanos verdes"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "queso fresco",
+    "note": "rallado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Pela los plátanos, córtalos en trozos y fríelos en la manteca 10 minutos, hasta que estén tiernos.",
+   "Machácalos en un mortero con la sal.",
+   "Añade el queso y machaca hasta que se mezcle.",
+   "Forma bolas y sirve caliente."
+  ],
+  "tips": [
+   "Machaca en caliente para que el queso se funda.",
+   "Se acompaña con café."
+  ],
+  "video": "masaco de plátano"
+ },
+ "en": {
+  "name": "Masaco de Plátano (Bolivian Mashed Plantain with Cheese)",
+  "blurb": "Green plantain fried and pounded with cheese. Breakfast in eastern Bolivia.",
+  "ing": [
+   {
+    "n": "green plantains"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "fresh white cheese",
+    "note": "grated"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Peel the plantains, cut into chunks and fry in the lard for 10 minutes, until tender.",
+   "Pound them in a mortar with the salt.",
+   "Add the cheese and pound until blended.",
+   "Shape into balls and serve hot."
+  ],
+  "tips": [
+   "Pound while hot so the cheese melts.",
+   "Serve with coffee."
+  ],
+  "video": "bolivian masaco"
+ },
+ "added": "2026-09-30"
+}

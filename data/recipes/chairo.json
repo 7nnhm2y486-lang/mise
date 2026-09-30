@@ -1,0 +1,239 @@
+{
+ "id": "chairo",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 120,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "cookedwheat",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Chairo paceño",
+  "blurb": "Sopa espesa de carne con chuño, trigo, habas y verduras. La sopa del altiplano de La Paz.",
+  "ing": [
+   {
+    "n": "carne de res con hueso"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ají amarillo molido"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "chuño",
+    "note": "remojado y picado"
+   },
+   {
+    "n": "papas",
+    "note": "en cubos"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en dados"
+   },
+   {
+    "n": "trigo pelado"
+   },
+   {
+    "n": "habas"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "hierbabuena",
+    "note": "picada"
+   }
+  ],
+  "steps": [
+   "Cuece la carne en el agua con la sal 60 minutos.",
+   "Añade el trigo y cuece 20 minutos.",
+   "Sofríe la cebolla, el ajo, el ají y el comino en el aceite 6 minutos y añádelo a la olla.",
+   "Añade el chuño, las papas, la zanahoria, las habas y el orégano y cuece 25 minutos.",
+   "Termina con la hierbabuena."
+  ],
+  "tips": [
+   "Remoja el chuño 12 horas y cambia el agua para quitar el amargor.",
+   "Debe quedar espeso."
+  ],
+  "video": "chairo paceño"
+ },
+ "en": {
+  "name": "Chairo (Bolivian Highland Soup)",
+  "blurb": "A thick beef soup with chuño, wheat, broad beans and vegetables. The soup of La Paz's high plateau.",
+  "ing": [
+   {
+    "n": "bone-in beef"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "freeze-dried potato (chuño)",
+    "note": "soaked and chopped"
+   },
+   {
+    "n": "potatoes",
+    "note": "cubed"
+   },
+   {
+    "n": "carrots",
+    "note": "diced"
+   },
+   {
+    "n": "hulled wheat"
+   },
+   {
+    "n": "broad beans"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "mint",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Simmer the beef in the water with the salt for 60 minutes.",
+   "Add the wheat and cook 20 minutes.",
+   "Cook the onion, garlic, ají and cumin in the oil for 6 minutes and add to the pot.",
+   "Add the chuño, potatoes, carrot, broad beans and oregano and simmer 25 minutes.",
+   "Finish with the mint."
+  ],
+  "tips": [
+   "Soak the chuño 12 hours, changing the water, to remove bitterness.",
+   "It should be thick."
+  ],
+  "video": "bolivian chairo soup"
+ },
+ "added": "2026-09-30"
+}
