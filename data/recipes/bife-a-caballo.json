@@ -1,0 +1,107 @@
+{
+ "id": "bife-a-caballo",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 20,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 2,
+   "u": "piece",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "pepper",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Bife a caballo",
+  "blurb": "Un bife jugoso con un huevo frito encima. Plato de bodegón porteño.",
+  "ing": [
+   {
+    "n": "bifes de lomo alto de 2 cm"
+   },
+   {
+    "n": "sal gruesa"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "pimienta"
+   }
+  ],
+  "steps": [
+   "Saca los bifes de la nevera 20 minutos antes. Sécalos y sálalos.",
+   "Calienta una sartén de hierro con 1 cucharada de aceite hasta que humee.",
+   "Cocina los bifes 3 minutos por lado para que queden jugosos. Deja reposar 5 minutos.",
+   "Fríe los huevos en el aceite restante con la yema líquida.",
+   "Pon un huevo sobre cada bife y termina con pimienta."
+  ],
+  "tips": [
+   "Sala la carne justo antes de cocinarla para que forme costra.",
+   "La yema líquida hace de salsa: no la cocines de más."
+  ],
+  "video": "bife a caballo"
+ },
+ "en": {
+  "name": "Bife a Caballo (Steak with Fried Egg)",
+  "blurb": "A juicy steak topped with a fried egg. A Buenos Aires tavern classic.",
+  "ing": [
+   {
+    "n": "sirloin steaks, 2 cm thick"
+   },
+   {
+    "n": "coarse salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "pepper"
+   }
+  ],
+  "steps": [
+   "Take the steaks out of the fridge 20 minutes ahead. Pat dry and salt them.",
+   "Heat a cast-iron pan with 1 tablespoon of oil until smoking.",
+   "Cook the steaks 3 minutes per side for medium-rare. Rest 5 minutes.",
+   "Fry the eggs in the remaining oil, keeping the yolks runny.",
+   "Put an egg on each steak and finish with pepper."
+  ],
+  "tips": [
+   "Salt the steak just before cooking so it forms a crust.",
+   "The runny yolk is the sauce: don't overcook it."
+  ],
+  "video": "bife a caballo steak and egg"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,108 @@
+{
+ "id": "faina",
+ "country": "Uruguay",
+ "countryEs": "Argentina",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 180,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "pepper",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Fainá",
+  "blurb": "Torta finísima de harina de garbanzo, crujiente por fuera. En Uruguay y Argentina se come sobre la pizza.",
+  "ing": [
+   {
+    "n": "harina de garbanzo"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Bate la harina de garbanzo con el agua y la sal hasta que no queden grumos. Deja reposar 2 horas.",
+   "Retira la espuma de la superficie y añade 3 cucharadas de aceite.",
+   "Calienta una bandeja de 30 cm con el resto del aceite en el horno a 250 °C 5 minutos.",
+   "Vierte la mezcla y hornea 20 minutos, hasta que esté dorada y con bordes crujientes.",
+   "Termina con pimienta y corta en porciones."
+  ],
+  "tips": [
+   "La capa debe tener menos de 1 cm para que quede crujiente.",
+   "El reposo evita que quede arenosa."
+  ],
+  "video": "fainá de garbanzo"
+ },
+ "en": {
+  "name": "Fainá (Chickpea Flatbread)",
+  "blurb": "A very thin chickpea-flour flatbread, crisp at the edges. In Uruguay and Argentina it's eaten on top of pizza.",
+  "ing": [
+   {
+    "n": "chickpea flour"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Whisk the chickpea flour with the water and salt until smooth. Rest 2 hours.",
+   "Skim the foam off the top and add 3 tablespoons of oil.",
+   "Heat a 30 cm tray with the rest of the oil in the oven at 250 °C for 5 minutes.",
+   "Pour in the batter and bake 20 minutes, until golden with crisp edges.",
+   "Finish with pepper and cut into pieces."
+  ],
+  "tips": [
+   "Keep it under 1 cm deep so it crisps.",
+   "Resting the batter stops it tasting gritty."
+  ],
+  "video": "faina chickpea flatbread uruguay"
+ },
+ "added": "2026-09-30"
+}

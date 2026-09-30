@@ -1,0 +1,215 @@
+{
+ "id": "estofado-argentino",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "winered",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "mushroom",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "pasta",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Estofado argentino",
+  "blurb": "Carne cocida despacio en vino tinto y tomate, servida sobre fideos. El almuerzo de domingo en muchas casas argentinas.",
+  "ing": [
+   {
+    "n": "carne de res para estofar (roast beef o nalga)"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebollas",
+    "note": "picadas"
+   },
+   {
+    "n": "pimiento rojo",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en rodajas"
+   },
+   {
+    "n": "vino tinto"
+   },
+   {
+    "n": "tomate triturado"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "champiñones",
+    "note": "en láminas"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "fideos secos para servir"
+   }
+  ],
+  "steps": [
+   "Corta la carne en trozos de 5 cm y dórala en el aceite en tandas. Sácala.",
+   "Sofríe la cebolla, el pimiento, el ajo y la zanahoria 10 minutos.",
+   "Añade el vino y deja reducir 3 minutos.",
+   "Vuelve a poner la carne con el tomate, el laurel, el orégano y la sal. Tapa y cuece 90 minutos a fuego bajo.",
+   "Añade los champiñones los últimos 15 minutos.",
+   "Cuece los fideos y sírvelos con el estofado por encima."
+  ],
+  "tips": [
+   "Queda aún mejor al día siguiente.",
+   "Si espesa demasiado, añade un poco de agua caliente."
+  ],
+  "video": "estofado argentino con fideos"
+ },
+ "en": {
+  "name": "Estofado (Argentine Beef Stew)",
+  "blurb": "Beef braised slowly in red wine and tomato, served over pasta. Sunday lunch in many Argentine homes.",
+  "ing": [
+   {
+    "n": "beef braising cut"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onions",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "carrots",
+    "note": "sliced"
+   },
+   {
+    "n": "red wine"
+   },
+   {
+    "n": "crushed tomatoes"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "mushrooms",
+    "note": "sliced"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "dried pasta to serve"
+   }
+  ],
+  "steps": [
+   "Cut the beef into 5 cm pieces and brown it in the oil in batches. Remove.",
+   "Cook the onion, pepper, garlic and carrot for 10 minutes.",
+   "Add the wine and reduce for 3 minutes.",
+   "Return the beef with the tomato, bay, oregano and salt. Cover and simmer 90 minutes on low.",
+   "Add the mushrooms for the last 15 minutes.",
+   "Cook the pasta and serve with the stew on top."
+  ],
+  "tips": [
+   "It's even better the next day.",
+   "If it gets too thick, add a little hot water."
+  ],
+  "video": "argentine estofado with pasta"
+ },
+ "added": "2026-09-30"
+}

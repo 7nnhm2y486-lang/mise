@@ -1,0 +1,79 @@
+{
+ "id": "submarino",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 5,
+ "serves": 1,
+ "ing": [
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "milkchocolate",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Submarino",
+  "blurb": "Leche bien caliente con una barrita de chocolate que se hunde y se derrite en el vaso. La merienda de los chicos argentinos.",
+  "ing": [
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "chocolate con leche en barrita"
+   },
+   {
+    "n": "azúcar"
+   }
+  ],
+  "steps": [
+   "Calienta la leche con el azúcar hasta que humee, sin que hierva.",
+   "Sírvela en un vaso alto.",
+   "Hunde la barrita de chocolate y remueve hasta que se derrita."
+  ],
+  "tips": [
+   "Remueve bien el fondo: el chocolate se asienta.",
+   "No dejes hervir la leche o se forma nata."
+  ],
+  "video": "submarino argentino"
+ },
+ "en": {
+  "name": "Submarino (Argentine Hot Chocolate)",
+  "blurb": "Steaming milk with a chocolate bar that sinks and melts in the glass. The Argentine kids' afternoon treat.",
+  "ing": [
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "milk chocolate bar"
+   },
+   {
+    "n": "sugar"
+   }
+  ],
+  "steps": [
+   "Heat the milk with the sugar until steaming, without boiling.",
+   "Pour into a tall glass.",
+   "Sink the chocolate bar and stir until it melts."
+  ],
+  "tips": [
+   "Stir the bottom well: the chocolate settles.",
+   "Don't let the milk boil or a skin forms."
+  ],
+  "video": "submarino argentine hot chocolate"
+ },
+ "added": "2026-09-30"
+}

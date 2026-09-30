@@ -1,0 +1,201 @@
+{
+ "id": "guiso-de-arroz",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Guiso de arroz",
+  "blurb": "El guiso de todos los inviernos en Argentina: arroz cocido en el jugo de la carne con pimiento y tomate.",
+  "ing": [
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "carne de res para guiso en dados"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento rojo",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "zanahoria",
+    "note": "en dados"
+   },
+   {
+    "n": "tomates",
+    "note": "rallados"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "arroz de grano largo"
+   },
+   {
+    "n": "agua caliente"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Dora la carne en el aceite a fuego fuerte 6 minutos. Sácala.",
+   "Sofríe la cebolla, el pimiento, el ajo y la zanahoria 8 minutos.",
+   "Vuelve a poner la carne, añade el tomate, el pimentón, el orégano y la sal, y cuece 20 minutos tapado con la mitad del agua.",
+   "Añade el arroz y el resto del agua, y cuece 18 minutos a fuego medio, removiendo de vez en cuando.",
+   "Apaga y deja reposar 5 minutos: debe quedar caldoso."
+  ],
+  "tips": [
+   "Añade el agua siempre caliente para no cortar la cocción del arroz.",
+   "Queda mejor un poco caldoso: el arroz sigue absorbiendo al reposar."
+  ],
+  "video": "guiso de arroz argentino"
+ },
+ "en": {
+  "name": "Guiso de Arroz (Argentine Rice Stew)",
+  "blurb": "Argentina's winter staple: rice cooked in the meat's juices with pepper and tomato.",
+  "ing": [
+   {
+    "n": "oil"
+   },
+   {
+    "n": "beef stewing meat, diced"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "carrot",
+    "note": "diced"
+   },
+   {
+    "n": "tomatoes",
+    "note": "grated"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "long-grain rice"
+   },
+   {
+    "n": "hot water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Brown the beef in the oil over high heat for 6 minutes. Remove.",
+   "Cook the onion, pepper, garlic and carrot for 8 minutes.",
+   "Return the beef, add the tomato, paprika, oregano and salt, and simmer covered for 20 minutes with half the water.",
+   "Add the rice and the rest of the water, and cook 18 minutes over medium heat, stirring now and then.",
+   "Turn off and rest 5 minutes: it should stay soupy."
+  ],
+  "tips": [
+   "Always add hot water so the rice keeps cooking evenly.",
+   "It's best a little loose: the rice keeps absorbing as it rests."
+  ],
+  "video": "argentine guiso de arroz"
+ },
+ "added": "2026-09-30"
+}

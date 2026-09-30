@@ -1,0 +1,107 @@
+{
+ "id": "bizcochitos-de-grasa",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 90,
+ "serves": 40,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Bizcochitos de grasa",
+  "blurb": "Galletitas saladas hojaldradas que acompañan el mate en toda Argentina.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "grasa de cerdo"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la levadura, la sal, el agua y 50 g de grasa. Amasa 8 minutos y deja reposar 30 minutos.",
+   "Estira en un rectángulo, unta con 50 g de grasa, dobla en tres y vuelve a estirar.",
+   "Repite con los 50 g restantes de grasa y dobla en tres otra vez.",
+   "Estira a 1 cm, corta círculos de 4 cm y pincha cada uno con un tenedor.",
+   "Deja levar 20 minutos y hornea a 200 °C 20 minutos, hasta que estén dorados."
+  ],
+  "tips": [
+   "Guárdalos en lata: duran crujientes varios días.",
+   "Pincharlos evita que se inflen como bollos."
+  ],
+  "video": "bizcochitos de grasa caseros"
+ },
+ "en": {
+  "name": "Bizcochitos de Grasa (Lard Biscuits)",
+  "blurb": "Flaky savoury little biscuits that go with mate all over Argentina.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "dried yeast"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, salt, water and 50 g of lard. Knead 8 minutes and rest 30 minutes.",
+   "Roll into a rectangle, spread with 50 g of lard, fold in three and roll again.",
+   "Repeat with the remaining 50 g of lard and fold in three again.",
+   "Roll to 1 cm, cut 4 cm rounds and prick each with a fork.",
+   "Prove 20 minutes and bake at 200 °C for 20 minutes, until golden."
+  ],
+  "tips": [
+   "Keep them in a tin: they stay crisp for days.",
+   "Pricking stops them puffing up like rolls."
+  ],
+  "video": "argentine bizcochitos de grasa"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,117 @@
+{
+ "id": "mazamorra-argentina",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 180,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "hominy",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Mazamorra argentina",
+  "blurb": "Maíz blanco cocido despacio con leche y azúcar. Postre criollo que se toma caliente o frío.",
+  "ing": [
+   {
+    "n": "maíz blanco partido (maíz pisado)"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "esencia de vainilla"
+   },
+   {
+    "n": "rama de canela"
+   }
+  ],
+  "steps": [
+   "Remoja el maíz 12 horas en agua fría y escúrrelo.",
+   "Cuécelo en el agua con la canela 2 horas a fuego bajo, hasta que esté tierno.",
+   "Añade la leche y el azúcar, y cuece 20 minutos más removiendo.",
+   "Retira la canela, añade la vainilla y sirve caliente o frío."
+  ],
+  "tips": [
+   "Si se espesa al enfriar, añade un poco de leche.",
+   "Remueve a menudo al final para que no se pegue."
+  ],
+  "video": "mazamorra criolla argentina"
+ },
+ "en": {
+  "name": "Mazamorra (Argentine Hominy Pudding)",
+  "blurb": "White hominy simmered slowly with milk and sugar. A creole dessert eaten warm or cold.",
+  "ing": [
+   {
+    "n": "dried cracked white hominy"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "cinnamon stick"
+   }
+  ],
+  "steps": [
+   "Soak the hominy for 12 hours in cold water and drain.",
+   "Simmer it in the water with the cinnamon for 2 hours on low, until tender.",
+   "Add the milk and sugar and cook 20 minutes more, stirring.",
+   "Remove the cinnamon, add the vanilla and serve warm or cold."
+  ],
+  "tips": [
+   "If it thickens as it cools, add a little milk.",
+   "Stir often at the end so it doesn't catch."
+  ],
+  "video": "argentine mazamorra hominy dessert"
+ },
+ "added": "2026-09-30"
+}

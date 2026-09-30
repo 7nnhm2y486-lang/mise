@@ -1,0 +1,191 @@
+{
+ "id": "tarta-de-choclo",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 70,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "mozzarella",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Tarta de choclo",
+  "blurb": "Tarta de masa casera con relleno cremoso de choclo y queso. Infaltable en las rotiserías argentinas.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "mantequilla fría"
+   },
+   {
+    "n": "agua fría"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "mantequilla (para el relleno)"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "harina de trigo (para el relleno)"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "granos de choclo"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "mozzarella en cubos"
+   },
+   {
+    "n": "nuez moscada"
+   }
+  ],
+  "steps": [
+   "Frota la harina, la sal y la mantequilla fría hasta que parezca arena. Añade el agua, une la masa y refrigera 20 minutos.",
+   "Sofríe la cebolla en la mantequilla del relleno 5 minutos. Añade la harina, cuece 1 minuto y agrega la leche batiendo hasta espesar.",
+   "Añade el choclo y la nuez moscada. Deja entibiar y agrega los huevos y la mozzarella.",
+   "Forra un molde de 24 cm con la masa, rellena y hornea a 190 °C 35 minutos, hasta que esté dorada."
+  ],
+  "tips": [
+   "Tritura la mitad del choclo para un relleno más cremoso.",
+   "Déjala reposar 10 minutos antes de cortar."
+  ],
+  "video": "tarta de choclo argentina"
+ },
+ "en": {
+  "name": "Tarta de Choclo (Sweetcorn Pie)",
+  "blurb": "A homemade pastry case with a creamy corn and cheese filling. A fixture of Argentine deli counters.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "cold butter"
+   },
+   {
+    "n": "cold water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "butter (for the filling)"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "plain flour (for the filling)"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "sweetcorn kernels"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "mozzarella, cubed"
+   },
+   {
+    "n": "nutmeg"
+   }
+  ],
+  "steps": [
+   "Rub the flour, salt and cold butter together until sandy. Add the water, bring the dough together and chill 20 minutes.",
+   "Cook the onion in the filling butter for 5 minutes. Add the flour, cook 1 minute and whisk in the milk until thick.",
+   "Add the corn and nutmeg. Let it cool slightly, then add the eggs and mozzarella.",
+   "Line a 24 cm tin with the pastry, fill and bake at 190 °C for 35 minutes, until golden."
+  ],
+  "tips": [
+   "Blend half the corn for a creamier filling.",
+   "Rest 10 minutes before slicing."
+  ],
+  "video": "argentine sweetcorn pie"
+ },
+ "added": "2026-09-30"
+}

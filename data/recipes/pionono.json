@@ -1,0 +1,119 @@
+{
+ "id": "pionono",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 40,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "dulcedeleche",
+   "role": "spread"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "icingsugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Pionono con dulce de leche",
+  "blurb": "Bizcochuelo finísimo enrollado con dulce de leche. Un clásico de cumpleaños argentino.",
+  "ing": [
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "esencia de vainilla"
+   },
+   {
+    "n": "dulce de leche"
+   },
+   {
+    "n": "azúcar glas"
+   }
+  ],
+  "steps": [
+   "Bate los huevos con el azúcar 8 minutos, hasta que tripliquen el volumen. Añade la vainilla.",
+   "Incorpora la harina tamizada con movimientos envolventes.",
+   "Extiende en una bandeja de 30 x 40 cm con papel y hornea a 200 °C 8 minutos.",
+   "Vuelca sobre un paño con azúcar glas, retira el papel y enrolla en caliente con el paño. Deja enfriar.",
+   "Desenrolla, unta con el dulce de leche y vuelve a enrollar. Espolvorea azúcar glas."
+  ],
+  "tips": [
+   "Enrollarlo caliente evita que se agriete después.",
+   "No lo hornees de más: debe quedar flexible."
+  ],
+  "video": "pionono dulce de leche"
+ },
+ "en": {
+  "name": "Pionono (Dulce de Leche Roll)",
+  "blurb": "A paper-thin sponge rolled up with dulce de leche. A classic Argentine birthday cake.",
+  "ing": [
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "dulce de leche"
+   },
+   {
+    "n": "icing sugar"
+   }
+  ],
+  "steps": [
+   "Whisk the eggs with the sugar for 8 minutes, until tripled in volume. Add the vanilla.",
+   "Fold in the sifted flour.",
+   "Spread in a 30 x 40 cm lined tray and bake at 200 °C for 8 minutes.",
+   "Turn onto a tea towel dusted with icing sugar, peel off the paper and roll up warm in the towel. Cool.",
+   "Unroll, spread with the dulce de leche and roll up again. Dust with icing sugar."
+  ],
+  "tips": [
+   "Rolling it warm stops it cracking later.",
+   "Don't overbake: it needs to stay flexible."
+  ],
+  "video": "pionono argentine sponge roll"
+ },
+ "added": "2026-09-30"
+}

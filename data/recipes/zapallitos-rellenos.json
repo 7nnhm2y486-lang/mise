@@ -1,0 +1,157 @@
+{
+ "id": "zapallitos-rellenos",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 8,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "breadcrumbs",
+   "role": "binder"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "parmesan",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "pepper",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Zapallitos rellenos",
+  "blurb": "Zapallitos redondos rellenos de carne y gratinados con queso. Comida de casa argentina.",
+  "ing": [
+   {
+    "n": "zapallitos redondos"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "carne picada de res"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "pan rallado"
+   },
+   {
+    "n": "queso rallado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta"
+   }
+  ],
+  "steps": [
+   "Hierve los zapallitos enteros 8 minutos. Córtales una tapa y vacíalos con una cuchara.",
+   "Pica la pulpa y sofríela con la cebolla en el aceite 5 minutos. Añade la carne y cocina 8 minutos.",
+   "Retira del fuego, añade el huevo, la mitad del pan rallado, la sal y la pimienta.",
+   "Rellena los zapallitos y cubre con el queso y el resto del pan rallado.",
+   "Hornea a 200 °C 20 minutos, hasta que estén gratinados."
+  ],
+  "tips": [
+   "Pon los zapallitos boca abajo 5 minutos tras hervirlos para que suelten el agua.",
+   "Si no hay zapallitos redondos, usa calabacines largos cortados a lo largo."
+  ],
+  "video": "zapallitos rellenos de carne"
+ },
+ "en": {
+  "name": "Zapallitos Rellenos (Stuffed Round Courgettes)",
+  "blurb": "Round courgettes stuffed with beef and gratinéed with cheese. Argentine home cooking.",
+  "ing": [
+   {
+    "n": "round courgettes"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "minced beef"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "breadcrumbs"
+   },
+   {
+    "n": "grated parmesan"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "pepper"
+   }
+  ],
+  "steps": [
+   "Boil the courgettes whole for 8 minutes. Cut off a lid and scoop them out.",
+   "Chop the flesh and cook it with the onion in the oil for 5 minutes. Add the beef and cook 8 minutes.",
+   "Off the heat, add the egg, half the breadcrumbs, the salt and pepper.",
+   "Fill the courgettes and top with the cheese and remaining breadcrumbs.",
+   "Bake at 200 °C for 20 minutes, until browned."
+  ],
+  "tips": [
+   "Stand the courgettes upside down for 5 minutes after boiling so they drain.",
+   "No round ones? Use long courgettes halved lengthways."
+  ],
+  "video": "stuffed round zucchini argentina"
+ },
+ "added": "2026-09-30"
+}
