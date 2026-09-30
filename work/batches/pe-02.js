@@ -193,7 +193,7 @@ module.exports = [
     [2,"tbsp","ajipaste","aromatic","pasta de ají panca","ají panca paste"],
     [1,"","tomato","aromatic","tomate","tomato","picado","chopped"],
     [1,"tsp","herb","aromatic","orégano seco","dried oregano"],
-    [1.5,"l","fishstock","liquid","caldo de pescado o de cabezas de camarón","fish or shrimp-head stock"],
+    [1.5,"l","fishstock","liquid","caldo de pescado","fish stock"],
     [500,"g","potato","structure","papas amarillas","yellow potatoes","en cubos","cubed"],
     [2,"","corn","protein","choclos","ears of corn","en rodajas","in rounds"],
     [60,"g","rice","thicken","arroz","rice"],
