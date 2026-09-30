@@ -1,0 +1,107 @@
+{
+ "id": "masato",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 60,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Masato de arroz",
+  "blurb": "Bebida de arroz dulce y ligeramente fermentada con canela y clavo. Se toma en Bogotá con almojábanas.",
+  "ing": [
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "clavos de olor"
+   }
+  ],
+  "steps": [
+   "Remoja el arroz 8 horas y escúrrelo.",
+   "Cuécelo en 1 l de agua con la canela y el clavo 30 minutos, hasta que esté muy blando.",
+   "Licúa con el resto del agua y cuela. Añade el azúcar.",
+   "Deja reposar tapado a temperatura ambiente 2 días para que fermente un poco.",
+   "Refrigera y sirve frío."
+  ],
+  "tips": [
+   "Pruébalo cada día: debe quedar ligeramente ácido y espumoso.",
+   "Una vez frío, se conserva 4 días en la nevera."
+  ],
+  "video": "masato de arroz colombiano"
+ },
+ "en": {
+  "name": "Masato (Colombian Fermented Rice Drink)",
+  "blurb": "A sweet, lightly fermented rice drink with cinnamon and clove. Drunk in Bogotá with almojábanas.",
+  "ing": [
+   {
+    "n": "rice"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "cloves"
+   }
+  ],
+  "steps": [
+   "Soak the rice 8 hours and drain.",
+   "Simmer it in 1 l of the water with the cinnamon and cloves for 30 minutes, until very soft.",
+   "Blend with the rest of the water and strain. Add the sugar.",
+   "Leave covered at room temperature for 2 days to ferment slightly.",
+   "Chill and serve cold."
+  ],
+  "tips": [
+   "Taste it each day: it should be slightly tangy and fizzy.",
+   "Once chilled, it keeps 4 days in the fridge."
+  ],
+  "video": "colombian masato"
+ },
+ "added": "2026-09-30"
+}

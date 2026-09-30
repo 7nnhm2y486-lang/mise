@@ -1,0 +1,173 @@
+{
+ "id": "empanadas-de-pipian",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 90,
+ "serves": 20,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "peanut",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Empanadas de pipián",
+  "blurb": "Empanaditas de maíz rellenas de papa guisada con maní y achiote. Orgullo de Popayán.",
+  "ing": [
+   {
+    "n": "papa colorada"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebollas largas",
+    "note": "picadas"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "achiote molido"
+   },
+   {
+    "n": "maní tostado",
+    "note": "molido"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "harina de maíz precocida"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Cuece la papa 20 minutos, pélala y aplástala en trozos.",
+   "Sofríe la cebolla, el tomate y el achiote en el aceite 8 minutos. Añade la papa, el maní y 1 cucharadita de sal.",
+   "Amasa la harina con el agua y el resto de la sal. Deja reposar 10 minutos.",
+   "Forma discos finos, rellena, dobla y sella con un vaso.",
+   "Fríe a 180 °C 4 minutos, hasta que estén doradas."
+  ],
+  "tips": [
+   "Sírvelas recién fritas.",
+   "Aplana la masa entre dos plásticos para que quede fina."
+  ],
+  "video": "empanadas de pipián payanesas"
+ },
+ "en": {
+  "name": "Empanadas de Pipián (Potato Peanut Empanadas)",
+  "blurb": "Small corn empanadas filled with potato stewed with peanut and annatto. The pride of Popayán.",
+  "ing": [
+   {
+    "n": "red potatoes"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "spring onions",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "roasted peanuts",
+    "note": "ground"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "precooked cornmeal"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Boil the potatoes 20 minutes, peel and crush roughly.",
+   "Cook the spring onion, tomato and annatto in the oil for 8 minutes. Add the potato, peanuts and 1 teaspoon of salt.",
+   "Knead the cornmeal with the water and the rest of the salt. Rest 10 minutes.",
+   "Shape thin discs, fill, fold and seal with a glass.",
+   "Fry at 180 °C for 4 minutes, until golden."
+  ],
+  "tips": [
+   "Serve them straight from the fryer.",
+   "Flatten the dough between two sheets of plastic so it's thin."
+  ],
+  "video": "colombian pipian empanadas"
+ },
+ "added": "2026-09-30"
+}

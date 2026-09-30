@@ -1,0 +1,79 @@
+{
+ "id": "agua-de-panela",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 15,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Agua de panela",
+  "blurb": "Panela disuelta en agua, caliente con limón o fría. La bebida de todos los días en Colombia.",
+  "ing": [
+   {
+    "n": "panela"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "limones"
+   }
+  ],
+  "steps": [
+   "Hierve el agua con la panela 10 minutos, hasta que se disuelva.",
+   "Sirve caliente con unas gotas de limón.",
+   "Para tomarla fría, deja enfriar y sirve con hielo y limón."
+  ],
+  "tips": [
+   "Caliente es remedio para el resfriado.",
+   "Fría con limón se llama limonada de panela."
+  ],
+  "video": "agua de panela"
+ },
+ "en": {
+  "name": "Agua de Panela (Hot or Iced Cane Sugar Drink)",
+  "blurb": "Panela dissolved in water, hot with lime or iced. Colombia's everyday drink.",
+  "ing": [
+   {
+    "n": "panela (unrefined cane sugar)"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "limes"
+   }
+  ],
+  "steps": [
+   "Boil the water with the panela for 10 minutes, until dissolved.",
+   "Serve hot with a squeeze of lime.",
+   "To drink it cold, let it cool and serve over ice with lime."
+  ],
+  "tips": [
+   "Hot, it's a home remedy for colds.",
+   "Iced with lime, it's called panela limeade."
+  ],
+  "video": "colombian agua de panela"
+ },
+ "added": "2026-09-30"
+}

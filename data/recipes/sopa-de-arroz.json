@@ -1,0 +1,203 @@
+{
+ "id": "sopa-de-arroz",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 50,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Sopa de arroz",
+  "blurb": "Sopa de costilla con arroz, papa y verduras. El primer plato del corrientazo colombiano.",
+  "ing": [
+   {
+    "n": "costilla de res"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebollas largas",
+    "note": "picadas"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "papas",
+    "note": "en cubos"
+   },
+   {
+    "n": "zanahoria",
+    "note": "en dados"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece la costilla en el agua con la sal 60 minutos.",
+   "Sofríe la cebolla, el tomate y el ajo en el aceite 8 minutos y añádelo al caldo.",
+   "Añade el arroz, la papa y la zanahoria y cuece 18 minutos.",
+   "Añade las arvejas y cuece 5 minutos más.",
+   "Termina con el cilantro."
+  ],
+  "tips": [
+   "Añade agua si el arroz absorbe demasiado caldo.",
+   "En olla a presión la costilla tarda 25 minutos."
+  ],
+  "video": "sopa de arroz colombiana"
+ },
+ "en": {
+  "name": "Sopa de Arroz (Colombian Rice Soup)",
+  "blurb": "Short rib soup with rice, potato and vegetables. The first course of Colombia's set lunch.",
+  "ing": [
+   {
+    "n": "beef short ribs"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "spring onions",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "potatoes",
+    "note": "cubed"
+   },
+   {
+    "n": "carrot",
+    "note": "diced"
+   },
+   {
+    "n": "green peas"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the ribs in the water with the salt for 60 minutes.",
+   "Cook the spring onion, tomato and garlic in the oil for 8 minutes and add to the broth.",
+   "Add the rice, potato and carrot and cook 18 minutes.",
+   "Add the peas and cook 5 minutes more.",
+   "Finish with the coriander."
+  ],
+  "tips": [
+   "Add water if the rice soaks up too much broth.",
+   "In a pressure cooker the ribs take 25 minutes."
+  ],
+  "video": "colombian rice soup"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,93 @@
+{
+ "id": "cuajada-con-melao",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "queso",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Cuajada con melao",
+  "blurb": "Cuajada fresca bañada en melao de panela con canela. El postre más sencillo y querido de Boyacá y Cundinamarca.",
+  "ing": [
+   {
+    "n": "cuajada fresca",
+    "note": "en rebanadas"
+   },
+   {
+    "n": "panela"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "rama de canela"
+   }
+  ],
+  "steps": [
+   "Hierve la panela con el agua y la canela 15 minutos, hasta tener un melao espeso.",
+   "Deja entibiar y retira la canela.",
+   "Sirve la cuajada en rebanadas con el melao por encima."
+  ],
+  "tips": [
+   "El melao espesa al enfriar: no lo reduzcas de más.",
+   "Sírvelo con la cuajada bien fría y el melao tibio."
+  ],
+  "video": "cuajada con melao"
+ },
+ "en": {
+  "name": "Cuajada con Melao (Fresh Curd with Cane Syrup)",
+  "blurb": "Fresh curd cheese drenched in panela syrup with cinnamon. The simplest, best-loved dessert of Boyacá and Cundinamarca.",
+  "ing": [
+   {
+    "n": "fresh curd cheese",
+    "note": "sliced"
+   },
+   {
+    "n": "panela (unrefined cane sugar)"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cinnamon stick"
+   }
+  ],
+  "steps": [
+   "Boil the panela with the water and cinnamon for 15 minutes, into a thick syrup.",
+   "Let it cool slightly and remove the cinnamon.",
+   "Serve the curd in slices with the syrup poured over."
+  ],
+  "tips": [
+   "The syrup thickens as it cools: don't over-reduce it.",
+   "Serve the curd well chilled and the syrup warm."
+  ],
+  "video": "colombian curd cane syrup"
+ },
+ "added": "2026-09-30"
+}

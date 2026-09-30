@@ -1,0 +1,119 @@
+{
+ "id": "envueltos-de-mazorca",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "side",
+ "time": 90,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 6,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "cornhusk",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Envueltos de mazorca",
+  "blurb": "Masa de maíz tierno con queso, envuelta en su hoja y cocida al vapor. Acompañan el chocolate en el altiplano colombiano.",
+  "ing": [
+   {
+    "n": "mazorcas tiernas",
+    "note": "desgranadas"
+   },
+   {
+    "n": "hojas de mazorca frescas"
+   },
+   {
+    "n": "mantequilla derretida"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "queso campesino rallado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Muele los granos de maíz hasta tener una masa gruesa.",
+   "Mezcla con la mantequilla, el azúcar, el queso y la sal.",
+   "Pon 2 cucharadas de masa en cada hoja y envuelve, doblando las puntas.",
+   "Cuécelos al vapor 60 minutos, hasta que la masa esté firme."
+  ],
+  "tips": [
+   "Si la masa queda muy líquida, añade un poco de harina de maíz.",
+   "Se recalientan en la sartén hasta que la hoja se tueste."
+  ],
+  "video": "envueltos de mazorca colombianos"
+ },
+ "en": {
+  "name": "Envueltos de Mazorca (Colombian Sweet Corn Parcels)",
+  "blurb": "Young corn dough with cheese, wrapped in its husk and steamed. Eaten with hot chocolate in the Colombian highlands.",
+  "ing": [
+   {
+    "n": "young corn cobs",
+    "note": "kernels cut off"
+   },
+   {
+    "n": "fresh corn husks"
+   },
+   {
+    "n": "melted butter"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "grated fresh white cheese"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Grind the corn kernels into a coarse dough.",
+   "Mix with the butter, sugar, cheese and salt.",
+   "Put 2 tablespoons of dough in each husk and wrap, folding the ends.",
+   "Steam for 60 minutes, until the dough is firm."
+  ],
+  "tips": [
+   "If the dough is too runny, add a little cornmeal.",
+   "Reheat them in a pan until the husk toasts."
+  ],
+  "video": "colombian envueltos"
+ },
+ "added": "2026-09-30"
+}

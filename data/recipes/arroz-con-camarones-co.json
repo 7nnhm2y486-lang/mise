@@ -1,0 +1,189 @@
+{
+ "id": "arroz-con-camarones-co",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 350,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 800,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Arroz con camarones",
+  "blurb": "Arroz rojizo de achiote con camarones. Plato de la costa del Caribe colombiano.",
+  "ing": [
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimentón rojo",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "achiote molido"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "camarones pelados"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el pimentón y el ajo en el aceite 6 minutos. Añade el tomate y el achiote y cocina 5 minutos.",
+   "Añade el arroz y remueve 2 minutos.",
+   "Añade el agua y la sal y cuece destapado hasta que se seque la superficie.",
+   "Pon los camarones encima, tapa y cuece 15 minutos a fuego bajo.",
+   "Mezcla y termina con el cilantro."
+  ],
+  "tips": [
+   "Hierve las cáscaras de los camarones en el agua para un arroz más sabroso.",
+   "Sírvelo recién hecho."
+  ],
+  "video": "arroz con camarones costeño"
+ },
+ "en": {
+  "name": "Colombian Prawn Rice",
+  "blurb": "Reddish annatto rice with prawns. A dish from Colombia's Caribbean coast.",
+  "ing": [
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "peeled prawns"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Cook the onion, pepper and garlic in the oil for 6 minutes. Add the tomato and annatto and cook 5 minutes.",
+   "Add the rice and stir 2 minutes.",
+   "Add the water and salt and cook uncovered until the surface dries.",
+   "Lay the prawns on top, cover and cook 15 minutes on low.",
+   "Stir and finish with the coriander."
+  ],
+  "tips": [
+   "Boil the prawn shells in the water for a tastier rice.",
+   "Serve it freshly made."
+  ],
+  "video": "colombian prawn rice"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,97 @@
+{
+ "id": "maduro-con-bocadillo",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "side",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "guavapaste",
+   "role": "sweet"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  }
+ ],
+ "es": {
+  "name": "Maduro con bocadillo y queso",
+  "blurb": "Plátano maduro asado, abierto y relleno de guayaba y queso que se derriten. Acompañante dulce y salado colombiano.",
+  "ing": [
+   {
+    "n": "plátanos muy maduros"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "bocadillo de guayaba",
+    "note": "en tiras"
+   },
+   {
+    "n": "queso campesino o mozzarella",
+    "note": "en tiras"
+   }
+  ],
+  "steps": [
+   "Unta los plátanos con piel con la mantequilla y hornéalos a 200 °C 30 minutos, hasta que la piel se ponga negra.",
+   "Ábrelos a lo largo sin llegar al fondo.",
+   "Rellena con el bocadillo y el queso.",
+   "Hornea 8 minutos más, hasta que el queso se derrita."
+  ],
+  "tips": [
+   "Cuanto más negra la piel, más dulce el plátano.",
+   "También se hacen en la parrilla, envueltos en aluminio."
+  ],
+  "video": "maduro con bocadillo y queso"
+ },
+ "en": {
+  "name": "Baked Plantain with Guava and Cheese",
+  "blurb": "Ripe plantain roasted, split and stuffed with melting guava paste and cheese. A sweet-salty Colombian side.",
+  "ing": [
+   {
+    "n": "very ripe plantains"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "guava paste",
+    "note": "in strips"
+   },
+   {
+    "n": "fresh white cheese or mozzarella",
+    "note": "in strips"
+   }
+  ],
+  "steps": [
+   "Rub the plantains in their skins with the butter and bake at 200 °C for 30 minutes, until the skins turn black.",
+   "Slit them lengthways without cutting through.",
+   "Fill with the guava paste and cheese.",
+   "Bake 8 minutes more, until the cheese melts."
+  ],
+  "tips": [
+   "The blacker the skin, the sweeter the plantain.",
+   "They also work on the grill, wrapped in foil."
+  ],
+  "video": "plantain guava cheese colombian"
+ },
+ "added": "2026-09-30"
+}

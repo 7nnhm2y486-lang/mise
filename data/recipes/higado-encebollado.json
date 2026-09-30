@@ -1,0 +1,149 @@
+{
+ "id": "higado-encebollado",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Hígado encebollado",
+  "blurb": "Hígado de res tierno con mucha cebolla y tomate. Almuerzo económico y nutritivo en Colombia.",
+  "ing": [
+   {
+    "n": "hígado de res",
+    "note": "en filetes"
+   },
+   {
+    "n": "leche (para remojar)"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebollas",
+    "note": "en aros"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja el hígado en la leche 30 minutos. Escurre y seca.",
+   "Dora el hígado en el aceite a fuego fuerte 2 minutos por lado. Sácalo.",
+   "Sofríe la cebolla, el ajo y el comino 6 minutos. Añade el tomate y cocina 5 minutos.",
+   "Vuelve a poner el hígado, sala y cocina 3 minutos."
+  ],
+  "tips": [
+   "No lo cocines de más: el hígado se endurece.",
+   "Sala al final para que quede tierno."
+  ],
+  "video": "hígado encebollado colombiano"
+ },
+ "en": {
+  "name": "Hígado Encebollado (Liver and Onions)",
+  "blurb": "Tender beef liver with lots of onion and tomato. A cheap, nourishing lunch in Colombia.",
+  "ing": [
+   {
+    "n": "beef liver",
+    "note": "in slices"
+   },
+   {
+    "n": "milk (for soaking)"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onions",
+    "note": "in rings"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the liver in the milk for 30 minutes. Drain and pat dry.",
+   "Brown the liver in the oil over high heat for 2 minutes per side. Remove.",
+   "Cook the onion, garlic and cumin for 6 minutes. Add the tomato and cook 5 minutes.",
+   "Return the liver, salt and cook 3 minutes."
+  ],
+  "tips": [
+   "Don't overcook it: liver toughens.",
+   "Salt at the end so it stays tender."
+  ],
+  "video": "colombian liver and onions"
+ },
+ "added": "2026-09-30"
+}

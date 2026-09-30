@@ -1,0 +1,151 @@
+{
+ "id": "lechona-casera",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 300,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 2,
+   "u": "kg",
+   "k": "porkbelly",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Lechona casera",
+  "blurb": "La lechona tolimense en versión de horno casero: panceta crujiente rellena de cerdo, arvejas y arroz.",
+  "ing": [
+   {
+    "n": "panceta de cerdo con piel en una pieza"
+   },
+   {
+    "n": "paleta de cerdo",
+    "note": "en cubos"
+   },
+   {
+    "n": "arvejas amarillas secas",
+    "note": "remojadas 12 horas"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "cebollas largas",
+    "note": "picadas"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece las arvejas 40 minutos. Cuece el arroz a medias, 8 minutos. Escurre ambos.",
+   "Mezcla la paleta con la cebolla, el ajo, el comino y 2 cucharaditas de sal. Añade las arvejas y el arroz.",
+   "Extiende la panceta con la piel hacia abajo, sálala y cubre con el relleno. Enróllala y átala con cordel.",
+   "Pon el rollo en una bandeja con la piel hacia arriba, sala la piel y hornea a 160 °C 3 horas.",
+   "Sube a 230 °C los últimos 20 minutos para que la piel se infle y cruja."
+  ],
+  "tips": [
+   "Seca la piel con papel antes de hornear para que quede crujiente.",
+   "Deja reposar 20 minutos antes de cortar."
+  ],
+  "video": "lechona tolimense casera"
+ },
+ "en": {
+  "name": "Lechona (Colombian Stuffed Pork Roast)",
+  "blurb": "Tolima's lechona adapted for a home oven: crisp pork belly stuffed with pork, yellow peas and rice.",
+  "ing": [
+   {
+    "n": "skin-on pork belly, in one piece"
+   },
+   {
+    "n": "pork shoulder",
+    "note": "cubed"
+   },
+   {
+    "n": "dried yellow peas",
+    "note": "soaked 12 hours"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "spring onions",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the peas for 40 minutes. Par-cook the rice for 8 minutes. Drain both.",
+   "Mix the shoulder with the spring onion, garlic, cumin and 2 teaspoons of salt. Add the peas and rice.",
+   "Lay the belly skin side down, salt it and cover with the filling. Roll up and tie with string.",
+   "Set the roll skin side up in a tray, salt the skin and roast at 160 °C for 3 hours.",
+   "Raise to 230 °C for the last 20 minutes so the skin puffs and crackles."
+  ],
+  "tips": [
+   "Pat the skin dry before roasting so it crisps.",
+   "Rest 20 minutes before slicing."
+  ],
+  "video": "colombian lechona"
+ },
+ "added": "2026-09-30"
+}
