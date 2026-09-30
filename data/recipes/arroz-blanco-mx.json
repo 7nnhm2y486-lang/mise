@@ -1,0 +1,147 @@
+{
+ "id": "arroz-blanco-mx",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "side",
+ "time": 35,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 800,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Arroz blanco a la mexicana",
+  "blurb": "Arroz frito antes de cocerlo, suelto y perfumado con ajo y cilantro. Acompaña casi todo en México.",
+  "ing": [
+   {
+    "n": "arroz de grano largo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "en trozo"
+   },
+   {
+    "n": "ajo",
+    "note": "enteros"
+   },
+   {
+    "n": "agua caliente"
+   },
+   {
+    "n": "chile serrano entero"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Enjuaga el arroz hasta que el agua salga clara y escúrrelo bien.",
+   "Fríelo en el aceite 5 minutos, removiendo, hasta que esté opaco.",
+   "Añade la cebolla, el ajo, el agua, el chile, el cilantro y la sal.",
+   "Cuece destapado hasta que el agua baje al nivel del arroz. Tapa y cuece 15 minutos a fuego bajo.",
+   "Deja reposar 5 minutos y retira la cebolla, el ajo, el chile y el cilantro."
+  ],
+  "tips": [
+   "Freír el arroz lo deja suelto.",
+   "No remuevas una vez que lo tapas."
+  ],
+  "video": "arroz blanco mexicano"
+ },
+ "en": {
+  "name": "Mexican White Rice",
+  "blurb": "Rice fried before simmering, fluffy and scented with garlic and coriander. Goes with almost everything in Mexico.",
+  "ing": [
+   {
+    "n": "long-grain rice"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "in one piece"
+   },
+   {
+    "n": "garlic",
+    "note": "whole"
+   },
+   {
+    "n": "hot water"
+   },
+   {
+    "n": "whole serrano chilli"
+   },
+   {
+    "n": "coriander"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Rinse the rice until the water runs clear and drain well.",
+   "Fry it in the oil for 5 minutes, stirring, until opaque.",
+   "Add the onion, garlic, water, chilli, coriander and salt.",
+   "Cook uncovered until the water drops to the rice level. Cover and cook 15 minutes on low.",
+   "Rest 5 minutes and remove the onion, garlic, chilli and coriander."
+  ],
+  "tips": [
+   "Frying the rice keeps the grains separate.",
+   "Don't stir once it's covered."
+  ],
+  "video": "mexican white rice"
+ },
+ "added": "2026-09-30"
+}

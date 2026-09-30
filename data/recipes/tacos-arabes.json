@@ -1,0 +1,199 @@
+{
+ "id": "tacos-arabes",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 700,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "flatbread",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chipotleadobo",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Tacos árabes",
+  "blurb": "Cerdo marinado en cítricos y especias, envuelto en pan árabe con salsa de chipotle. Herencia libanesa de Puebla.",
+  "ing": [
+   {
+    "n": "pierna de cerdo",
+    "note": "en filetes finos"
+   },
+   {
+    "n": "cebolla",
+    "note": "rallada"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   },
+   {
+    "n": "naranja",
+    "note": "exprimida"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "panes árabes (pita)"
+   },
+   {
+    "n": "chiles chipotles adobados"
+   },
+   {
+    "n": "limones (para la salsa)"
+   }
+  ],
+  "steps": [
+   "Marina el cerdo con la cebolla, los jugos, el ajo, el comino, el orégano, el aceite y la sal 4 horas.",
+   "Ásalo en una plancha muy caliente 3 minutos por lado. Córtalo en tiras.",
+   "Licúa los chipotles con el jugo de los limones de la salsa y un poco de agua.",
+   "Calienta los panes y rellénalos con la carne. Sirve con la salsa."
+  ],
+  "tips": [
+   "Marinado toda la noche queda más jugoso.",
+   "El pan árabe se calienta en el comal para que se ablande."
+  ],
+  "video": "tacos árabes poblanos"
+ },
+ "en": {
+  "name": "Tacos Árabes (Puebla Pork in Pita)",
+  "blurb": "Pork marinated in citrus and spices, wrapped in pita with chipotle sauce. Lebanese heritage from Puebla.",
+  "ing": [
+   {
+    "n": "pork leg",
+    "note": "in thin slices"
+   },
+   {
+    "n": "onion",
+    "note": "grated"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "orange",
+    "note": "juiced"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "pita breads"
+   },
+   {
+    "n": "chipotles in adobo"
+   },
+   {
+    "n": "limes (for the salsa)"
+   }
+  ],
+  "steps": [
+   "Marinate the pork with the onion, juices, garlic, cumin, oregano, oil and salt for 4 hours.",
+   "Cook on a very hot griddle for 3 minutes per side. Cut into strips.",
+   "Blend the chipotles with the salsa lime juice and a little water.",
+   "Warm the pitas and fill with the pork. Serve with the salsa."
+  ],
+  "tips": [
+   "Marinated overnight it's juicier.",
+   "Warm the pita on the griddle so it softens."
+  ],
+  "video": "tacos arabes puebla"
+ },
+ "added": "2026-09-30"
+}

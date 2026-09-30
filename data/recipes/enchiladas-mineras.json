@@ -1,0 +1,189 @@
+{
+ "id": "enchiladas-mineras",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 6,
+   "u": "",
+   "k": "ancho",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "potato",
+   "role": "garnish"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "pickledpepper",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Enchiladas mineras",
+  "blurb": "Enchiladas de guajillo rellenas de queso, con papas y zanahorias doradas y pollo. Plato de Guanajuato.",
+  "ing": [
+   {
+    "n": "chiles guajillo",
+    "note": "sin semillas"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "tortillas de maíz"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "queso ranchero",
+    "note": "desmoronado"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "papas",
+    "note": "en cubos, cocidas"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en cubos, cocidas"
+   },
+   {
+    "n": "piernas de pollo cocidas"
+   },
+   {
+    "n": "chiles jalapeños en escabeche"
+   }
+  ],
+  "steps": [
+   "Remoja los chiles en agua caliente 10 minutos y lícualos con el ajo, la sal y 250 ml de agua. Cuela.",
+   "Pasa cada tortilla por la salsa y fríela en el aceite 20 segundos por lado.",
+   "Rellena con queso y cebolla y enrolla.",
+   "Dora la papa y la zanahoria en el mismo aceite 6 minutos. Dora el pollo 4 minutos.",
+   "Sirve las enchiladas con la papa, la zanahoria, el pollo y los jalapeños."
+  ],
+  "tips": [
+   "No dejes la tortilla mucho en la salsa o se rompe.",
+   "Los jalapeños en escabeche llevan vinagre."
+  ],
+  "video": "enchiladas mineras guanajuatenses"
+ },
+ "en": {
+  "name": "Enchiladas Mineras (Miners' Enchiladas)",
+  "blurb": "Guajillo enchiladas filled with cheese, with golden potato, carrot and chicken. A Guanajuato dish.",
+  "ing": [
+   {
+    "n": "guajillo chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "corn tortillas"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "queso fresco",
+    "note": "crumbled"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "potatoes",
+    "note": "cubed, boiled"
+   },
+   {
+    "n": "carrots",
+    "note": "cubed, boiled"
+   },
+   {
+    "n": "cooked chicken legs"
+   },
+   {
+    "n": "pickled jalapeños"
+   }
+  ],
+  "steps": [
+   "Soak the chillies in hot water for 10 minutes and blend with the garlic, salt and 250 ml of water. Strain.",
+   "Dip each tortilla in the sauce and fry in the oil for 20 seconds per side.",
+   "Fill with cheese and onion and roll.",
+   "Brown the potato and carrot in the same oil for 6 minutes. Brown the chicken 4 minutes.",
+   "Serve the enchiladas with the potato, carrot, chicken and jalapeños."
+  ],
+  "tips": [
+   "Don't leave the tortilla in the sauce too long or it tears.",
+   "Pickled jalapeños contain vinegar."
+  ],
+  "video": "mexican enchiladas mineras"
+ },
+ "added": "2026-09-30"
+}

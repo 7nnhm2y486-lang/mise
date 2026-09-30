@@ -1,0 +1,149 @@
+{
+ "id": "pescado-empapelado",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 35,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "fillet",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Pescado empapelado",
+  "blurb": "Filetes de pescado cocidos en papel con jitomate, chile y epazote. Ligero y jugoso, de la costa de Veracruz.",
+  "ing": [
+   {
+    "n": "filetes de pescado blanco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "jitomates",
+    "note": "en rodajas"
+   },
+   {
+    "n": "cebolla",
+    "note": "en rodajas"
+   },
+   {
+    "n": "chiles jalapeños",
+    "note": "en rajas"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "limones"
+   }
+  ],
+  "steps": [
+   "Pon cada filete sobre un cuadrado de papel de aluminio. Sala.",
+   "Cubre con el jitomate, la cebolla, el chile, el epazote y un trozo de mantequilla.",
+   "Cierra bien los paquetes.",
+   "Hornea a 200 °C 18 minutos.",
+   "Abre con cuidado y sirve con limón."
+  ],
+  "tips": [
+   "Cierra los paquetes herméticamente para que el pescado se cueza al vapor.",
+   "Cuidado al abrir: sale vapor caliente."
+  ],
+  "video": "pescado empapelado"
+ },
+ "en": {
+  "name": "Pescado Empapelado (Fish Baked in Parcels)",
+  "blurb": "Fish fillets baked in parcels with tomato, chilli and epazote. Light and juicy, from the Veracruz coast.",
+  "ing": [
+   {
+    "n": "white fish fillets"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "tomatoes",
+    "note": "sliced"
+   },
+   {
+    "n": "onion",
+    "note": "sliced"
+   },
+   {
+    "n": "jalapeño chillies",
+    "note": "in strips"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "limes"
+   }
+  ],
+  "steps": [
+   "Put each fillet on a square of foil. Salt.",
+   "Top with the tomato, onion, chilli, epazote and a knob of butter.",
+   "Seal the parcels well.",
+   "Bake at 200 °C for 18 minutes.",
+   "Open carefully and serve with lime."
+  ],
+  "tips": [
+   "Seal the parcels tightly so the fish steams.",
+   "Careful when opening: hot steam escapes."
+  ],
+  "video": "mexican fish in foil"
+ },
+ "added": "2026-09-30"
+}

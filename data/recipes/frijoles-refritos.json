@@ -1,0 +1,95 @@
+{
+ "id": "frijoles-refritos",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "side",
+ "time": 20,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 750,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Frijoles refritos caseros",
+  "blurb": "Frijoles machacados y fritos en manteca con cebolla. La base de mil antojitos mexicanos.",
+  "ing": [
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "frijoles negros o bayos cocidos",
+    "note": "con un poco de su líquido"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla en la manteca 5 minutos, hasta que dore.",
+   "Añade los frijoles con su líquido y la sal.",
+   "Machaca con un machacador mientras cocinas 10 minutos, hasta que espesen y se despeguen de la sartén."
+  ],
+  "tips": [
+   "Para una versión sin cerdo, usa aceite en lugar de manteca.",
+   "Añade más líquido si los quieres más cremosos."
+  ],
+  "video": "frijoles refritos caseros"
+ },
+ "en": {
+  "name": "Homemade Refried Beans",
+  "blurb": "Beans mashed and fried in lard with onion. The base of a thousand Mexican snacks.",
+  "ing": [
+   {
+    "n": "lard"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "cooked black or pinto beans",
+    "note": "with a little of their liquid"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion in the lard for 5 minutes, until golden.",
+   "Add the beans with their liquid and the salt.",
+   "Mash with a masher as they cook for 10 minutes, until thick and pulling away from the pan."
+  ],
+  "tips": [
+   "For a pork-free version, use oil instead of lard.",
+   "Add more liquid for creamier beans."
+  ],
+  "video": "homemade refried beans"
+ },
+ "added": "2026-09-30"
+}

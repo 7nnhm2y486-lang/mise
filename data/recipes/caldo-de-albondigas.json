@@ -1,0 +1,209 @@
+{
+ "id": "caldo-de-albondigas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "rice",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chipotleadobo",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Caldo de albóndigas",
+  "blurb": "Albóndigas con arroz y hierbabuena en caldo de jitomate con verduras. Comida de casa mexicana.",
+  "ing": [
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "arroz crudo"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "hierbabuena",
+    "note": "picada"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "chile chipotle adobado"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en rodajas"
+   },
+   {
+    "n": "calabacitas",
+    "note": "en cubos"
+   }
+  ],
+  "steps": [
+   "Mezcla la carne, el arroz, el huevo, la hierbabuena y 1 cucharadita de sal. Forma 20 albóndigas.",
+   "Licúa los jitomates, la cebolla, el ajo y el chipotle.",
+   "Fríe la salsa en el aceite 5 minutos. Añade el agua y el resto de la sal y hierve.",
+   "Añade las albóndigas y la zanahoria y cuece 25 minutos a fuego suave.",
+   "Añade la calabacita y cuece 8 minutos más."
+  ],
+  "tips": [
+   "El arroz crudo se cuece dentro de la albóndiga y la hace esponjosa.",
+   "No remuevas los primeros minutos para que las albóndigas no se rompan."
+  ],
+  "video": "caldo de albóndigas"
+ },
+ "en": {
+  "name": "Caldo de Albóndigas (Mexican Meatball Soup)",
+  "blurb": "Meatballs with rice and mint in a tomato broth with vegetables. Mexican home cooking.",
+  "ing": [
+   {
+    "n": "minced beef"
+   },
+   {
+    "n": "uncooked rice"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "mint",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "chipotle in adobo"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "carrots",
+    "note": "sliced"
+   },
+   {
+    "n": "courgettes",
+    "note": "cubed"
+   }
+  ],
+  "steps": [
+   "Mix the beef, rice, egg, mint and 1 teaspoon of salt. Shape 20 meatballs.",
+   "Blend the tomatoes, onion, garlic and chipotle.",
+   "Fry the sauce in the oil for 5 minutes. Add the water and remaining salt and bring to the boil.",
+   "Add the meatballs and carrot and simmer 25 minutes.",
+   "Add the courgette and cook 8 minutes more."
+  ],
+  "tips": [
+   "The raw rice cooks inside the meatball and makes it tender.",
+   "Don't stir for the first few minutes so the meatballs don't break."
+  ],
+  "video": "mexican meatball soup"
+ },
+ "added": "2026-09-30"
+}

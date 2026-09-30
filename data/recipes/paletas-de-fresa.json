@@ -1,0 +1,95 @@
+{
+ "id": "paletas-de-fresa",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 15,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Paletas de fresa",
+  "blurb": "Paletas heladas de fresa natural, como las de las paleterías michoacanas.",
+  "ing": [
+   {
+    "n": "fresas"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "limón",
+    "note": "exprimido"
+   }
+  ],
+  "steps": [
+   "Calienta el agua con el azúcar hasta que se disuelva. Deja enfriar.",
+   "Licúa las fresas con el almíbar y el limón. Deja algunos trozos si quieres.",
+   "Llena moldes de paleta y pon los palitos.",
+   "Congela 6 horas."
+  ],
+  "tips": [
+   "Pasa el molde por agua tibia unos segundos para desmoldar.",
+   "Prueba antes de congelar: el frío apaga el dulzor."
+  ],
+  "video": "paletas de fresa caseras"
+ },
+ "en": {
+  "name": "Strawberry Paletas (Mexican Ice Pops)",
+  "blurb": "Fresh strawberry ice pops, like those from Michoacán-style paleterías.",
+  "ing": [
+   {
+    "n": "strawberries"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "lime",
+    "note": "juiced"
+   }
+  ],
+  "steps": [
+   "Heat the water with the sugar until dissolved. Cool.",
+   "Blend the strawberries with the syrup and lime. Leave some chunks if you like.",
+   "Fill ice pop moulds and insert the sticks.",
+   "Freeze 6 hours."
+  ],
+  "tips": [
+   "Dip the mould in warm water for a few seconds to release.",
+   "Taste before freezing: cold dulls sweetness."
+  ],
+  "video": "mexican strawberry paletas"
+ },
+ "added": "2026-09-30"
+}

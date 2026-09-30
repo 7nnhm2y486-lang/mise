@@ -1,0 +1,211 @@
+{
+ "id": "carne-en-su-jugo",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "bacon",
+   "role": "protein"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "tomatillo",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "sauce"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Carne en su jugo",
+  "blurb": "Trocitos de res en caldo de tomate verde con tocino y frijoles. Especialidad de Guadalajara.",
+  "ing": [
+   {
+    "n": "tocino",
+    "note": "picado"
+   },
+   {
+    "n": "bistec de res",
+    "note": "en trocitos"
+   },
+   {
+    "n": "tomates verdes"
+   },
+   {
+    "n": "chiles serranos"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "frijoles bayos cocidos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "rábanos",
+    "note": "en rodajas"
+   },
+   {
+    "n": "cebolla (para servir)",
+    "note": "picada"
+   },
+   {
+    "n": "limones"
+   }
+  ],
+  "steps": [
+   "Fríe el tocino 5 minutos, hasta que esté crujiente. Sácalo.",
+   "Dora la carne en la grasa del tocino 5 minutos.",
+   "Hierve los tomates verdes y los chiles 8 minutos. Lícualos con la cebolla, el ajo, el cilantro y el agua.",
+   "Añade el caldo a la carne con la sal y cuece 20 minutos.",
+   "Sirve con los frijoles, el tocino, el rábano, la cebolla y el limón."
+  ],
+  "tips": [
+   "Los frijoles se sirven en el plato, no se cuecen con el caldo.",
+   "Pica la carne muy fina para que quede tierna."
+  ],
+  "video": "carne en su jugo tapatía"
+ },
+ "en": {
+  "name": "Carne en su Jugo (Guadalajara Beef in Broth)",
+  "blurb": "Small pieces of beef in a tomatillo broth with bacon and beans. A Guadalajara speciality.",
+  "ing": [
+   {
+    "n": "bacon",
+    "note": "chopped"
+   },
+   {
+    "n": "beef steak",
+    "note": "in small pieces"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "serrano chillies"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "coriander"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cooked pinto beans"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "radishes",
+    "note": "sliced"
+   },
+   {
+    "n": "onion (to serve)",
+    "note": "chopped"
+   },
+   {
+    "n": "limes"
+   }
+  ],
+  "steps": [
+   "Fry the bacon 5 minutes, until crisp. Remove.",
+   "Brown the beef in the bacon fat for 5 minutes.",
+   "Boil the tomatillos and chillies for 8 minutes. Blend with the onion, garlic, coriander and water.",
+   "Add the broth to the beef with the salt and simmer 20 minutes.",
+   "Serve with the beans, bacon, radish, onion and lime."
+  ],
+  "tips": [
+   "The beans go in the bowl, not into the pot.",
+   "Chop the beef very small so it's tender."
+  ],
+  "video": "mexican carne en su jugo"
+ },
+ "added": "2026-09-30"
+}

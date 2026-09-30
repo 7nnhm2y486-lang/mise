@@ -1,0 +1,123 @@
+{
+ "id": "salsa-de-molcajete",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 20,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Salsa de molcajete",
+  "blurb": "Salsa roja de jitomate y chile asados, machacada en molcajete. Rústica y llena de sabor tostado.",
+  "ing": [
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "chiles serranos"
+   },
+   {
+    "n": "ajo",
+    "note": "con piel"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "sal gruesa"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Asa los jitomates, los chiles, el ajo y la cebolla en un comal 10 minutos, hasta que tengan manchas negras.",
+   "Pela el ajo.",
+   "Machaca el ajo y los chiles con la sal en el molcajete.",
+   "Añade la cebolla y los jitomates y machaca hasta tener una salsa gruesa.",
+   "Termina con el cilantro."
+  ],
+  "tips": [
+   "Sin molcajete, pulsa en la licuadora unos segundos: debe quedar con textura.",
+   "Se conserva 3 días en la nevera."
+  ],
+  "video": "salsa de molcajete"
+ },
+ "en": {
+  "name": "Salsa de Molcajete (Charred Tomato Salsa)",
+  "blurb": "A red salsa of charred tomato and chilli, pounded in a stone mortar. Rustic and full of roasted flavour.",
+  "ing": [
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "serrano chillies"
+   },
+   {
+    "n": "garlic",
+    "note": "unpeeled"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "coarse salt"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Char the tomatoes, chillies, garlic and onion on a griddle for 10 minutes, until blackened in spots.",
+   "Peel the garlic.",
+   "Pound the garlic and chillies with the salt in the mortar.",
+   "Add the onion and tomatoes and pound into a chunky salsa.",
+   "Finish with the coriander."
+  ],
+  "tips": [
+   "No mortar? Pulse in a blender for a few seconds: keep it chunky.",
+   "It keeps 3 days in the fridge."
+  ],
+  "video": "molcajete salsa"
+ },
+ "added": "2026-09-30"
+}
