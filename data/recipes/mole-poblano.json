@@ -1,0 +1,333 @@
+{
+ "id": "mole-poblano",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 240,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 2000,
+   "u": "g",
+   "k": "turkey",
+   "role": "protein"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "ancho",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chipotle",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "tomatillo",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "almond",
+   "role": "crunch"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "peanut",
+   "role": "crunch"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "sesameseed",
+   "role": "crunch"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "plantain",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "corntortilla",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "slice",
+   "k": "bread",
+   "role": "thicken"
+  },
+  {
+   "q": 90,
+   "u": "g",
+   "k": "tablechocolate",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2000,
+   "u": "ml",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Mole poblano",
+  "blurb": "Unos veinte ingredientes, cada uno frito por separado, molidos y cocidos hasta que la salsa se vuelve una sola cosa. Es un día de trabajo y rinde para varios.",
+  "ing": [
+   {
+    "n": "pavo o pollo en piezas"
+   },
+   {
+    "n": "chiles anchos",
+    "note": "desvenados"
+   },
+   {
+    "n": "chiles mulatos",
+    "note": "desvenados"
+   },
+   {
+    "n": "chiles pasilla",
+    "note": "desvenados"
+   },
+   {
+    "n": "chiles chipotle secos"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "en cuartos"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "almendras"
+   },
+   {
+    "n": "cacahuates"
+   },
+   {
+    "n": "ajonjolí",
+    "note": "más un poco para servir"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "plátano macho maduro",
+    "note": "en rodajas"
+   },
+   {
+    "n": "tortilla de maíz",
+    "note": "seca"
+   },
+   {
+    "n": "bolillo o pan blanco"
+   },
+   {
+    "n": "chocolate de mesa"
+   },
+   {
+    "n": "canela en raja, anís, clavo y pimienta gorda"
+   },
+   {
+    "n": "caldo de pollo o de pavo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece el pavo en el caldo con sal a fuego bajo 1 hora. Reserva la carne y el caldo.",
+   "Tuesta los chiles 20 segundos por lado en un comal: solo hasta que huelan. Remójalos en caldo caliente 20 minutos.",
+   "En manteca, fríe por separado y hasta dorar: almendras, cacahuates, ajonjolí, pasas (hasta que se inflen), plátano, tortilla y pan. Cada uno tiene su tiempo; juntos se queman los chicos.",
+   "Asa en el comal los jitomates, los tomatillos, la cebolla y el ajo hasta que tengan manchas negras.",
+   "Licúa todo por tandas con los chiles, las especias y el caldo de remojo hasta tener una pasta muy fina. Pásala por un colador.",
+   "Calienta 2 cucharadas de manteca en una cazuela gruesa hasta que humee y vierte la pasta: salpica fuerte. Fríela 15 minutos moviendo sin parar hasta que oscurezca y se espese.",
+   "Añade el chocolate, el azúcar y caldo hasta que la salsa cubra una cuchara. Cuece a fuego bajo 1 hora, moviendo seguido, hasta que la grasa suba a la superficie.",
+   "Rectifica de sal y de dulce, calienta el pavo en el mole y sirve con ajonjolí tostado."
+  ],
+  "tips": [
+   "Tostar los chiles de más los vuelve amargos, y ese amargor no se va. Veinte segundos bastan.",
+   "Freír la pasta es el paso que convierte el licuado en mole. Si no salpica, el aceite está frío.",
+   "Sabe mejor al día siguiente. Se congela bien hasta 3 meses."
+  ],
+  "video": "mole poblano tradicional"
+ },
+ "en": {
+  "name": "Mole Poblano",
+  "blurb": "About twenty ingredients, each fried on its own, ground and simmered until the sauce becomes a single thing. It takes a day and feeds a crowd.",
+  "ing": [
+   {
+    "n": "turkey or chicken pieces"
+   },
+   {
+    "n": "ancho chiles",
+    "note": "stemmed and seeded"
+   },
+   {
+    "n": "mulato chiles",
+    "note": "stemmed and seeded"
+   },
+   {
+    "n": "pasilla chiles",
+    "note": "stemmed and seeded"
+   },
+   {
+    "n": "dried chipotle chiles"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "white onion",
+    "note": "quartered"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "almonds"
+   },
+   {
+    "n": "peanuts"
+   },
+   {
+    "n": "sesame seeds",
+    "note": "plus extra to serve"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "ripe plantain",
+    "note": "sliced"
+   },
+   {
+    "n": "corn tortilla",
+    "note": "stale"
+   },
+   {
+    "n": "bolillo or white bread"
+   },
+   {
+    "n": "Mexican table chocolate"
+   },
+   {
+    "n": "cinnamon stick, anise, cloves and allspice"
+   },
+   {
+    "n": "chicken or turkey stock"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the turkey in the stock with salt over low heat for 1 hour. Set aside the meat and the stock.",
+   "Toast the chiles 20 seconds per side on a dry griddle: just until fragrant. Soak them in hot stock for 20 minutes.",
+   "In lard, fry separately until golden: almonds, peanuts, sesame, raisins (until they puff), plantain, tortilla and bread. Each takes its own time; together, the small ones burn.",
+   "Char the tomatoes, tomatillos, onion and garlic on the griddle until blackened in spots.",
+   "Blend everything in batches with the chiles, spices and soaking stock into a very smooth paste. Push it through a sieve.",
+   "Heat 2 tablespoons of lard in a heavy pot until smoking and pour in the paste: it will spatter hard. Fry it for 15 minutes, stirring constantly, until it darkens and thickens.",
+   "Add the chocolate, sugar and enough stock that the sauce coats a spoon. Simmer over low heat for 1 hour, stirring often, until the fat rises to the surface.",
+   "Adjust salt and sweetness, warm the turkey in the mole and serve with toasted sesame."
+  ],
+  "tips": [
+   "Over-toasted chiles turn bitter, and that bitterness never leaves. Twenty seconds is enough.",
+   "Frying the paste is the step that turns a purée into mole. If it doesn't spatter, the fat is too cold.",
+   "Better the next day. Freezes well for up to 3 months."
+  ],
+  "video": "mole poblano authentic recipe"
+ },
+ "added": "2026-09-30"
+}

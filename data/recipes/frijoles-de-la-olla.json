@@ -1,0 +1,131 @@
+{
+ "id": "frijoles-de-la-olla",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "side",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 2500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Frijoles de la olla",
+  "blurb": "Frijoles negros cocidos despacio con cebolla, ajo y epazote. El caldo espeso que sueltan vale tanto como el frijol.",
+  "ing": [
+   {
+    "n": "frijoles negros secos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla blanca"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Enjuaga los frijoles y retira piedritas. Remojarlos es opcional: acorta la cocción unos 30 minutos.",
+   "Ponlos en una olla con el agua, la cebolla, el ajo y la manteca. Hierve y baja a fuego muy bajo, con la tapa entreabierta.",
+   "Cuece 2 horas, añadiendo agua caliente cuando el nivel baje de los frijoles.",
+   "Cuando un frijol se aplaste fácil entre los dedos, añade la sal y el epazote y cuece 15 minutos más.",
+   "Sirve con su caldo, o machácalos en manteca caliente para hacer frijoles refritos."
+  ],
+  "tips": [
+   "La sal al final: añadida al principio no los endurece, pero sí sala de más un caldo que se va a reducir.",
+   "Agua caliente siempre: el agua fría corta la cocción y la piel se arruga."
+  ],
+  "video": "frijoles de la olla receta"
+ },
+ "en": {
+  "name": "Frijoles de la Olla",
+  "blurb": "Black beans simmered slowly with onion, garlic and epazote. The thick broth they give off is worth as much as the beans.",
+  "ing": [
+   {
+    "n": "dried black beans"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "white onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Rinse the beans and pick out any stones. Soaking is optional: it cuts about 30 minutes off the cooking.",
+   "Put them in a pot with the water, onion, garlic and lard. Bring to a boil, then drop to very low heat with the lid ajar.",
+   "Cook for 2 hours, adding hot water whenever the level drops below the beans.",
+   "When a bean crushes easily between your fingers, add the salt and epazote and cook 15 minutes more.",
+   "Serve with their broth, or mash them in hot lard for refried beans."
+  ],
+  "tips": [
+   "Salt at the end: early salt doesn't toughen them, but it over-seasons a broth that is going to reduce.",
+   "Always hot water: cold water stalls the cooking and the skins wrinkle."
+  ],
+  "video": "frijoles de la olla recipe"
+ },
+ "added": "2026-09-30"
+}

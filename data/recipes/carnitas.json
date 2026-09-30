@@ -1,0 +1,159 @@
+{
+ "id": "carnitas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 210,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 2000,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Carnitas",
+  "blurb": "Cerdo confitado en su propia manteca hasta que se deshace, y dorado al final en la misma grasa. Michoacán en una olla.",
+  "ing": [
+   {
+    "n": "espaldilla de cerdo",
+    "note": "en trozos de 5 cm"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "naranja",
+    "note": "en mitades"
+   },
+   {
+    "n": "cebolla blanca"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "hojas de laurel"
+   },
+   {
+    "n": "orégano mexicano"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sala la carne. En una olla de fondo grueso derrite la manteca y añade la carne, el agua, la naranja exprimida (con las cáscaras), la cebolla, el ajo y las hierbas.",
+   "Cocina a fuego bajo, sin tapar, 2 horas y media. La grasa debe burbujear apenas, nunca freír fuerte.",
+   "Cuando la carne se deshaga con una cuchara y el agua se haya evaporado, sube el fuego.",
+   "Deja que se doren 10-15 minutos, moviendo de vez en cuando, hasta que los bordes estén crujientes y color caoba.",
+   "Escurre, pica grueso y sirve en tortillas con cebolla, cilantro y salsa verde."
+  ],
+  "tips": [
+   "El agua al principio hace que la carne se cueza antes de freírse: sin ella se endurece por fuera.",
+   "La manteca colada se guarda en el refrigerador y sirve para la siguiente tanda o para frijoles."
+  ],
+  "video": "carnitas michoacanas"
+ },
+ "en": {
+  "name": "Carnitas",
+  "blurb": "Pork confited in its own lard until it falls apart, then browned in the same fat. Michoacán in a pot.",
+  "ing": [
+   {
+    "n": "pork shoulder",
+    "note": "in 5 cm chunks"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "orange",
+    "note": "halved"
+   },
+   {
+    "n": "white onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "Mexican oregano"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Salt the meat. In a heavy pot, melt the lard and add the meat, water, squeezed orange (with the peels), onion, garlic and herbs.",
+   "Cook over low heat, uncovered, for 2 and a half hours. The fat should barely bubble, never fry hard.",
+   "When the meat falls apart with a spoon and the water has evaporated, turn up the heat.",
+   "Let it brown for 10-15 minutes, stirring now and then, until the edges are crisp and mahogany.",
+   "Drain, chop coarsely and serve in tortillas with onion, cilantro and salsa verde."
+  ],
+  "tips": [
+   "The water at the start lets the meat cook through before it fries: without it the outside toughens.",
+   "Strained lard keeps in the fridge for the next batch or for beans."
+  ],
+  "video": "carnitas recipe michoacan"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,121 @@
+{
+ "id": "agua-de-horchata",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 15,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "enrich"
+  }
+ ],
+ "es": {
+  "name": "Agua de horchata",
+  "blurb": "Arroz remojado con canela, licuado y colado. Fresca, cremosa y sin nada de leche si no quieres: la leche evaporada es opcional.",
+  "ing": [
+   {
+    "n": "arroz blanco crudo"
+   },
+   {
+    "n": "raja de canela"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "leche evaporada",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Remoja el arroz con la canela troceada en 750 ml del agua al menos 8 horas.",
+   "Lícualo todo 2 minutos, hasta que no queden granos visibles.",
+   "Cuélalo por una manta de cielo o un colador muy fino, exprimiendo bien.",
+   "Añade el resto del agua, el azúcar, la vainilla y la leche evaporada si la usas. Mezcla y enfría.",
+   "Sirve con mucho hielo y remueve antes de servir: el almidón se asienta."
+  ],
+  "tips": [
+   "El tiempo de remojo es lo que hace cremosa la horchata. Menos de 8 horas y queda arenosa.",
+   "Sin leche evaporada es apta para dieta sin lácteos."
+  ],
+  "video": "agua de horchata receta"
+ },
+ "en": {
+  "name": "Horchata",
+  "blurb": "Rice soaked with cinnamon, blended and strained. Cool, creamy and dairy-free if you want it to be: the evaporated milk is optional.",
+  "ing": [
+   {
+    "n": "raw white rice"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "evaporated milk",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Soak the rice with the broken cinnamon in 750 ml of the water for at least 8 hours.",
+   "Blend it all for 2 minutes, until no grains are visible.",
+   "Strain through cheesecloth or a very fine sieve, squeezing hard.",
+   "Add the rest of the water, the sugar, the vanilla and the evaporated milk if using. Stir and chill.",
+   "Serve over lots of ice and stir before pouring: the starch settles."
+  ],
+  "tips": [
+   "The soaking time is what makes horchata creamy. Less than 8 hours and it's gritty.",
+   "Without the evaporated milk it's dairy-free."
+  ],
+  "video": "horchata recipe mexican"
+ },
+ "added": "2026-09-30"
+}

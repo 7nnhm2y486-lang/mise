@@ -1,0 +1,219 @@
+{
+ "id": "chilaquiles-verdes",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 35,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 12,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "tomatillo",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "crema",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Chilaquiles verdes",
+  "blurb": "Totopos fritos que se bañan en salsa verde hirviendo justo antes de servir. El truco está en el tiempo: tienen que ablandarse por fuera y seguir crujiendo por dentro.",
+  "ing": [
+   {
+    "n": "tortillas de maíz",
+    "note": "del día anterior, en triángulos"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "tomates verdes (tomatillos)",
+    "note": "sin cáscara"
+   },
+   {
+    "n": "chiles serranos"
+   },
+   {
+    "n": "cebolla blanca"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "crema mexicana"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmoronado"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "en aros finos"
+   },
+   {
+    "n": "huevos",
+    "note": "fritos, opcional"
+   }
+  ],
+  "steps": [
+   "Fríe los triángulos de tortilla en tandas en aceite a 180 °C hasta que dejen de burbujear y estén dorados. Escúrrelos sobre papel y sálalos.",
+   "Hierve los tomatillos, los serranos, la cebolla y el ajo en agua 8 minutos, hasta que los tomatillos cambien de verde brillante a verde oliva.",
+   "Lícualos con el cilantro, la sal y la mitad del caldo.",
+   "Calienta 1 cucharada del aceite de freír en una sartén amplia y vierte la salsa: debe chisporrotear. Cocina 5 minutos hasta que oscurezca un tono, añadiendo el resto del caldo.",
+   "Con la salsa hirviendo, echa los totopos y mueve 1 minuto, solo hasta cubrirlos.",
+   "Sirve de inmediato con crema, queso, cebolla morada y el huevo encima."
+  ],
+  "tips": [
+   "Tortilla de ayer, no de hoy: la tortilla fresca tiene más agua, absorbe aceite y queda correosa.",
+   "Freír la salsa es lo que le da fondo. Sin ese paso sabe a crudo.",
+   "Si los preparas con antelación, guarda totopos y salsa por separado."
+  ],
+  "video": "chilaquiles verdes receta"
+ },
+ "en": {
+  "name": "Chilaquiles Verdes",
+  "blurb": "Fried tortilla chips tossed in boiling-hot green salsa right before serving. Timing is everything: they should soften on the outside and still crunch inside.",
+  "ing": [
+   {
+    "n": "corn tortillas",
+    "note": "day-old, cut in triangles"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "tomatillos",
+    "note": "husked"
+   },
+   {
+    "n": "serrano chiles"
+   },
+   {
+    "n": "white onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "Mexican crema"
+   },
+   {
+    "n": "queso fresco",
+    "note": "crumbled"
+   },
+   {
+    "n": "red onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "eggs",
+    "note": "fried, optional"
+   }
+  ],
+  "steps": [
+   "Fry the tortilla triangles in batches in oil at 180 °C until they stop bubbling and turn golden. Drain on paper and salt them.",
+   "Boil the tomatillos, serranos, onion and garlic in water for 8 minutes, until the tomatillos turn from bright green to olive.",
+   "Blend them with the cilantro, the salt and half the stock.",
+   "Heat 1 tablespoon of the frying oil in a wide skillet and pour in the salsa: it should sputter. Cook 5 minutes until it darkens a shade, adding the rest of the stock.",
+   "With the salsa boiling, add the chips and toss for 1 minute, just until coated.",
+   "Serve right away with crema, queso fresco, red onion and the egg on top."
+  ],
+  "tips": [
+   "Yesterday's tortillas, not today's: fresh ones hold more water, soak up oil and turn leathery.",
+   "Frying the salsa is what gives it depth. Skip it and it tastes raw.",
+   "If making ahead, keep the chips and salsa separate."
+  ],
+  "video": "chilaquiles verdes recipe"
+ },
+ "added": "2026-09-30"
+}

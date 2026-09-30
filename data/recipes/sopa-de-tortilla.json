@@ -1,0 +1,217 @@
+{
+ "id": "sopa-de-tortilla",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 8,
+   "u": "",
+   "k": "corntortilla",
+   "role": "crunch"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1200,
+   "u": "ml",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "crema",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Sopa de tortilla",
+  "blurb": "Un caldo de jitomate asado con chile pasilla, servido sobre tiras de tortilla frita. Los acompañantes no son decoración: la sopa está pensada para ellos.",
+  "ing": [
+   {
+    "n": "tortillas de maíz",
+    "note": "en tiras"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "cebolla blanca"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "chiles pasilla",
+    "note": "desvenados"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aguacate",
+    "note": "en cubos"
+   },
+   {
+    "n": "queso fresco",
+    "note": "en cubos"
+   },
+   {
+    "n": "crema mexicana"
+   },
+   {
+    "n": "limón",
+    "note": "en gajos"
+   }
+  ],
+  "steps": [
+   "Fríe las tiras de tortilla en aceite a 180 °C hasta que estén crujientes. Escúrrelas y sálalas.",
+   "Fríe los chiles pasilla 10 segundos en el mismo aceite, hasta que se inflen. Reserva uno para decorar.",
+   "Asa los jitomates, la cebolla y el ajo en un comal hasta que tengan manchas negras. Lícualos con los chiles y 250 ml del caldo.",
+   "En una olla con 1 cucharada de aceite muy caliente, fríe el licuado 5 minutos hasta que espese y oscurezca.",
+   "Añade el resto del caldo y el epazote, y cuece 15 minutos. Ajusta la sal.",
+   "Reparte las tiras en platos hondos, vierte el caldo hirviendo encima y sirve con aguacate, queso, crema, el chile desmoronado y limón."
+  ],
+  "tips": [
+   "Las tiras van en el plato, no en la olla: si hierven con el caldo se deshacen.",
+   "El epazote es el sabor que falta cuando esta sopa sabe \"casi bien\". Si no lo encuentras, usa un poco de orégano mexicano."
+  ],
+  "video": "sopa de tortilla receta"
+ },
+ "en": {
+  "name": "Tortilla Soup",
+  "blurb": "A broth of charred tomato and pasilla chile ladled over fried tortilla strips. The toppings aren't decoration: the soup is built around them.",
+  "ing": [
+   {
+    "n": "corn tortillas",
+    "note": "cut in strips"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "white onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "pasilla chiles",
+    "note": "stemmed and seeded"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "avocado",
+    "note": "diced"
+   },
+   {
+    "n": "queso fresco",
+    "note": "cubed"
+   },
+   {
+    "n": "Mexican crema"
+   },
+   {
+    "n": "lime",
+    "note": "in wedges"
+   }
+  ],
+  "steps": [
+   "Fry the tortilla strips in oil at 180 °C until crisp. Drain and salt them.",
+   "Fry the pasilla chiles for 10 seconds in the same oil, until they puff. Keep one aside for garnish.",
+   "Char the tomatoes, onion and garlic on a griddle until blackened in spots. Blend with the chiles and 250 ml of the stock.",
+   "In a pot with 1 tablespoon of very hot oil, fry the purée for 5 minutes until it thickens and darkens.",
+   "Add the rest of the stock and the epazote and simmer for 15 minutes. Adjust the salt.",
+   "Divide the strips among deep bowls, pour the boiling broth over them and serve with avocado, cheese, crema, the crumbled chile and lime."
+  ],
+  "tips": [
+   "The strips go in the bowl, not the pot: boiled in the broth they fall apart.",
+   "Epazote is the missing flavor when this soup tastes \"almost right\". If you can't find it, use a little Mexican oregano."
+  ],
+  "video": "sopa de tortilla recipe"
+ },
+ "added": "2026-09-30"
+}

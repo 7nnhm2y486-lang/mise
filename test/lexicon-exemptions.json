@@ -17,5 +17,13 @@
  "ing|celery|caldo de anchoa": "Homemade anchovy broth made in the recipe; no celery.",
  "ing|mollusc|setas ostra": "Oyster mushrooms, not oysters.",
  "ing|pork|caldo de pollo o cerdo": "Chicken or pork stock; chicken stock is fine for pork-free diets.",
- "ing|sulphite|vinagre blanco": "Distilled white vinegar has no sulphites (corn is flagged instead)."
+ "ing|sulphite|vinagre blanco": "Distilled white vinegar has no sulphites (corn is flagged instead).",
+ "ing-en|celery|anchovy stock": "Homemade anchovy broth; no celery.",
+ "ing-en|celery|anchovy broth": "Homemade anchovy broth; no celery.",
+ "ing-en|wheat|gluten-free flour blend": "Gluten-free blend.",
+ "ing-en|milk|lard or butter": "Either; lard is the default.",
+ "ing-en|pork|chicken or pork stock": "Chicken stock is fine for pork-free diets.",
+ "ing-en|sugar|brown sugar substitute": "Sugar substitute.",
+ "ing-en|sugar|unsweetened dark chocolate": "Unsweetened.",
+ "ing-en|sulphite|white vinegar": "Distilled white vinegar has no sulphites."
 }

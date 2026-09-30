@@ -50,3 +50,36 @@ function scan(text, lex = LEX){
   return out;
 }
 module.exports = {LEX, MAYLEX, scan, strip};
+
+// English counterpart, used on English ingredient names.
+const LEX_EN = {
+  milk: /\bmilk\b(?!\w)(?<!(coconut|oat|soy|almond|cashew|rice) milk)|\bbutter\b(?<!(peanut|nut|seed|sunflower|almond|cashew|apple|vegan|cocoa|shea) butter)|\bcheese\b(?<!(vegan|cashew) cheese)|\bcream\b(?<!(coconut|cashew|oat|soy|ice) cream)(?! of tartar)|\byogh?urt\b(?<!(coconut|soy|cashew|almond) yogh?urt)|\bghee\b|\bbuttermilk\b|\bparmesan|\bpecorino|\bmozzarella|\bricotta|\bmascarpone|\bcrema\b|\bqueso\b|\bdulce de leche|\bcondensed milk|\bevaporated milk/,
+  egg: /\beggs?\b(?! ?plant)|\byolks?\b|\bwhites?\b(?= ?$)|\begg whites?\b|\bmayonnaise|\bmayo\b/,
+  wheat: /\bwheat\b(?<!buckwheat)|\bflour\b(?<!(rice|corn|almond|chickpea|coconut|cassava|tapioca|potato|masa|buckwheat|oat|plantain|sorghum|teff|millet) flour)|\bbread\b|\bpasta\b|\bnoodles?\b(?<!(rice|glass|sweet potato) noodles?)|\bbarley|\bmalt\b|\brye\b|\bsemolina|\bcouscous|\bbulgur|\bpanko|\bbreadcrumbs|\bcrackers?\b(?<!rice crackers?)|\btortillas?\b(?<!corn tortillas?)|\bbeer\b|\bspelt/,
+  soy: /\bsoy\b|\bsoya\b|\btofu\b|\bmiso\b|\btempeh|\bedamame|\btamari\b|\bshoyu\b/,
+  peanut: /\bpeanuts?\b/,
+  treenut: /\balmonds?\b|\bcashews?\b|\bwalnuts?\b|\bhazelnuts?\b|\bpistachios?\b|\bpine nuts?\b|\bpecans?\b|\bmacadamia|\bbrazil nuts?\b|\bamaretto|\bmarzipan/,
+  sesame: /\bsesame\b|\btahini\b/,
+  fish: /\bfish\b|\banchov|\btuna\b|\bsalmon\b|\bcod\b|\bsea bass|\btilapia|\bsnapper|\bdashi\b|\bworcestershire/,
+  shellfish: /\bshrimps?\b|\bprawns?\b|\bcrabs?\b|\blobsters?\b|\bcrayfish|\bcrawfish/,
+  mollusc: /\boysters?\b(?! mushrooms?)|\bclams?\b|\bmussels?\b|\bsquid\b|\boctopus\b|\bscallops?\b|\bconch\b/,
+  mustard: /\bmustard\b|\bhorseradish/,
+  celery: /\bceler(y|iac)\b|\bstock\b|\bbroth\b/,
+  sulphite: /\bwine\b|\bvinegar\b(?<!rice vinegar)|\bverjuice|\bcider\b|\bsherry\b|\braisins?\b/,
+  sugar: /\bsugar\b|\bhoney\b|\bsyrup\b|\bmolasses|\bpiloncillo|\bpanela\b|\bdates?\b|\bagave\b|\bjam\b|\bchocolate\b(?<!unsweetened chocolate)/,
+  coconut: /\bcoconut\b/,
+  corn: /\bcorn\b|\bmaize\b|\bpolenta\b|\bmasa\b|\bhominy\b|\bcornmeal|\bcornstarch|\bbaking powder\b|\bpowdered sugar\b|\bicing sugar\b|\bgrits\b|\bposole\b|\bpozole\b/,
+  allium: /\bgarlic\b|\bonions?\b|\bshallots?\b|\bleeks?\b|\bscallions?\b|\bchives?\b|\bgreen onions?\b/,
+  nightshade: /\btomato(es)?\b|\btomatillos?\b|\bpotato(es)?\b(?<!sweet potato(es)?)|\bbell peppers?\b|\bchil(e|i|li)(e?s)?\b|\bpaprika\b|\bcayenne\b|\beggplants?\b|\bjalapeños?\b|\bserranos?\b|\bhabaneros?\b|\bpoblanos?\b|\bancho\b|\bguajillo|\bchipotle|\baji\b|\bají\b|\bketchup/,
+  alcohol: /\bwine\b(?! vinegar)|\bbeer\b|\brum\b|\bbrandy\b|\bcognac\b|\bvodka\b|\btequila\b|\bmezcal\b|\bpisco\b|\bliqueur\b|\bsake\b|\bmirin\b|\b(vanilla|almond|anise|orange|lemon|coffee) extract\b/,
+  pork: /\bpork\b|\bbacon\b|\bham\b|\bchorizo\b|\blard\b|\bchicharr[oó]n|\bpancetta|\bprosciutto|\bsausage/,
+  gelatin: /\bgelatin/,
+};
+function scanEn(text){
+  const s = text.toLowerCase().replace(/\b(no|without|free of)\s+[a-z]+(\s+(or|and)\s+[a-z]+)*/g, " ").replace(/\b[a-z]+-free\b/g, " ");
+  const out = [];
+  for(const [a, re] of Object.entries(LEX_EN)) if(re.test(s)) out.push(a);
+  return out;
+}
+module.exports.LEX_EN = LEX_EN;
+module.exports.scanEn = scanEn;

@@ -1,0 +1,187 @@
+{
+ "id": "tinga-de-pollo",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chipotle",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "corntortilla",
+   "role": "serve"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "crema",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Tinga de pollo",
+  "blurb": "Pollo deshebrado en una salsa de jitomate y chipotle con mucha cebolla. Ahumada, un poco dulce, y mejor sobre una tostada.",
+  "ing": [
+   {
+    "n": "pechuga de pollo"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "media para cocer, media en rodajas"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "hojas de laurel"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "chiles chipotle en adobo",
+    "note": "más 1 cda del adobo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "orégano mexicano"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "tostadas o tortillas de maíz",
+    "note": "para servir"
+   },
+   {
+    "n": "crema"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo con media cebolla, un diente de ajo, el laurel y sal en agua apenas hirviendo 20 minutos. Deja enfriar en el caldo y deshébralo.",
+   "Lícua los jitomates, el otro ajo, los chipotles, el adobo y 120 ml del caldo de cocción.",
+   "Sofríe la cebolla en rodajas en el aceite a fuego medio 8 minutos, hasta que esté blanda y transparente, sin dorar.",
+   "Añade el licuado y el orégano y cuece 8 minutos, hasta que la salsa espese.",
+   "Incorpora el pollo y cocina 5 minutos más, hasta que absorba casi toda la salsa pero siga jugoso.",
+   "Sirve sobre tostadas con crema."
+  ],
+  "tips": [
+   "Enfriar el pollo en su caldo evita que se seque al deshebrarlo.",
+   "La cebolla es la mitad del plato: no la escatimes."
+  ],
+  "video": "tinga de pollo receta"
+ },
+ "en": {
+  "name": "Chicken Tinga",
+  "blurb": "Shredded chicken in a tomato and chipotle sauce with plenty of onion. Smoky, a little sweet, and best on a tostada.",
+  "ing": [
+   {
+    "n": "chicken breast"
+   },
+   {
+    "n": "white onion",
+    "note": "half for poaching, half sliced"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "chipotles in adobo",
+    "note": "plus 1 tbsp of the sauce"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "Mexican oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "corn tostadas or corn tortillas",
+    "note": "to serve"
+   },
+   {
+    "n": "crema"
+   }
+  ],
+  "steps": [
+   "Poach the chicken with half the onion, one garlic clove, the bay and salt in barely simmering water for 20 minutes. Let it cool in the broth, then shred it.",
+   "Blend the tomatoes, the other garlic clove, the chipotles, the adobo and 120 ml of the poaching broth.",
+   "Cook the sliced onion in the oil over medium heat for 8 minutes, until soft and translucent, not browned.",
+   "Add the purée and oregano and cook for 8 minutes, until the sauce thickens.",
+   "Stir in the chicken and cook 5 minutes more, until it has absorbed most of the sauce but is still juicy.",
+   "Serve on tostadas with crema."
+  ],
+  "tips": [
+   "Cooling the chicken in its broth keeps it from drying out when shredded.",
+   "The onion is half the dish: don't skimp on it."
+  ],
+  "video": "chicken tinga recipe"
+ },
+ "added": "2026-09-30"
+}

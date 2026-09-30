@@ -1,0 +1,159 @@
+{
+ "id": "esquites",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "mayo",
+   "role": "sauce"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "cotija",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "chilliblend",
+   "role": "garnish"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Esquites",
+  "blurb": "Granos de elote salteados en mantequilla con epazote, servidos en vaso con mayonesa, queso, limón y chile. El antojo de la esquina, hecho en casa.",
+  "ing": [
+   {
+    "n": "elotes",
+    "note": "desgranados"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "chile serrano",
+    "note": "picado"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "queso cotija",
+    "note": "rallado"
+   },
+   {
+    "n": "limón"
+   },
+   {
+    "n": "chile piquín en polvo"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Derrite la mantequilla en una sartén amplia a fuego alto hasta que deje de espumar.",
+   "Añade los granos en una sola capa y déjalos sin mover 2 minutos para que se tuesten. Mueve y repite 2 veces.",
+   "Añade el serrano, el epazote, la sal y 60 ml de agua, y cocina 3 minutos hasta que se evapore.",
+   "Sirve en vasos, con mayonesa, queso, limón y chile en polvo por encima."
+  ],
+  "tips": [
+   "Los granos deben tostarse, no cocerse: sartén grande y sin amontonar.",
+   "Con elote congelado funciona; descongélalo y sécalo bien antes."
+  ],
+  "video": "esquites receta"
+ },
+ "en": {
+  "name": "Esquites",
+  "blurb": "Corn kernels sautéed in butter with epazote, served in a cup with mayo, cheese, lime and chile. The street-corner snack, made at home.",
+  "ing": [
+   {
+    "n": "ears of corn",
+    "note": "kernels cut off"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "serrano chile",
+    "note": "chopped"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "cotija cheese",
+    "note": "grated"
+   },
+   {
+    "n": "lime"
+   },
+   {
+    "n": "ground piquín chile"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Melt the butter in a wide skillet over high heat until it stops foaming.",
+   "Add the kernels in a single layer and leave them alone for 2 minutes so they toast. Stir and repeat 2 times.",
+   "Add the serrano, epazote, salt and 60 ml of water, and cook for 3 minutes until it evaporates.",
+   "Serve in cups topped with mayo, cheese, lime and chile powder."
+  ],
+  "tips": [
+   "The kernels should toast, not steam: big pan, no crowding.",
+   "Frozen corn works; thaw it and dry it well first."
+  ],
+  "video": "esquites recipe"
+ },
+ "added": "2026-09-30"
+}

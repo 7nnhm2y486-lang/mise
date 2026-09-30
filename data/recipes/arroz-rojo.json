@@ -1,0 +1,171 @@
+{
+ "id": "arroz-rojo",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "side",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 700,
+   "u": "ml",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Arroz rojo",
+  "blurb": "El arroz de las fondas mexicanas: primero se fríe hasta dorar y después se cuece en caldo de jitomate. Granos sueltos, nunca pastosos.",
+  "ing": [
+   {
+    "n": "arroz de grano largo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "cebolla blanca"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "chícharos y zanahoria en cubos"
+   },
+   {
+    "n": "chile serrano",
+    "note": "entero"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Enjuaga el arroz hasta que el agua salga casi clara y déjalo escurrir 10 minutos.",
+   "Lícua los jitomates, la cebolla y el ajo, y cuela el licuado.",
+   "Fríe el arroz en el aceite a fuego medio, moviendo, 6-8 minutos, hasta que suene a arena y los granos estén dorados.",
+   "Vierte el licuado: chisporrotea. Mueve hasta que se absorba casi del todo, 3 minutos.",
+   "Añade el caldo caliente, la sal, las verduras, el chile y el cilantro. Hierve, tapa y baja al mínimo 18 minutos sin destapar.",
+   "Apaga y deja reposar 5 minutos tapado. Esponja con un tenedor."
+  ],
+  "tips": [
+   "Freír el arroz sella el almidón de la superficie: por eso los granos quedan sueltos.",
+   "Una vez tapado, no se mueve. Mover libera almidón y se hace engrudo."
+  ],
+  "video": "arroz rojo mexicano"
+ },
+ "en": {
+  "name": "Mexican Red Rice",
+  "blurb": "The rice of Mexican fondas: fried until golden first, then cooked in tomato broth. Separate grains, never mushy.",
+  "ing": [
+   {
+    "n": "long-grain rice"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "white onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "peas and diced carrot"
+   },
+   {
+    "n": "serrano chile",
+    "note": "whole"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Rinse the rice until the water runs almost clear and let it drain for 10 minutes.",
+   "Blend the tomatoes, onion and garlic, and strain the purée.",
+   "Fry the rice in the oil over medium heat, stirring, for 6-8 minutes, until it sounds like sand and the grains are golden.",
+   "Pour in the purée: it will sizzle. Stir until it's almost fully absorbed, 3 minutes.",
+   "Add the hot stock, salt, vegetables, chile and cilantro. Bring to a boil, cover and cook on the lowest heat for 18 minutes without lifting the lid.",
+   "Turn off the heat and rest 5 minutes covered. Fluff with a fork."
+  ],
+  "tips": [
+   "Frying the rice seals the starch on the surface: that's why the grains stay separate.",
+   "Once covered, don't stir. Stirring releases starch and turns it to paste."
+  ],
+  "video": "mexican red rice recipe"
+ },
+ "added": "2026-09-30"
+}

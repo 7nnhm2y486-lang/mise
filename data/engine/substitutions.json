@@ -2200,42 +2200,36 @@
       "f": 1,
       "carries": [],
       "es": {
-       "to": "mantequilla de semillas de girasol",
-       "note": "Misma grasa y mismo cuerpo. Aviso: con bicarbonato se vuelve verde. Es inofensivo, pero desconcierta en un pastel."
+       "to": "semillas de girasol tostadas",
+       "note": "Mismo crujido y la misma grasa. Tuéstalas hasta que suenen."
       },
       "en": {
-       "to": "sunflower seed butter",
-       "note": "Same fat, same body. Warning: it turns green with baking soda. Harmless, but unsettling in a cake."
+       "to": "toasted sunflower seeds",
+       "note": "Same crunch, same fat. Toast them until they crackle."
       }
-     },
-     {
-      "f": 1,
-      "carries": [
-       "sesame"
-      ],
-      "es": {
-       "to": "tahini",
-       "note": "Mejor en salsas saladas; más fino y amargo, así que añade un poco de miel. Sésamo."
-      },
-      "en": {
-       "to": "tahini",
-       "note": "Best in savory sauces; thinner and more bitter, so add a little honey."
-      },
-      "may": [
-       "sugar",
-       "honey"
-      ]
      },
      {
       "f": 1,
       "carries": [],
       "es": {
-       "to": "mantequilla de semillas de calabaza",
-       "note": "Más oscura y terrosa; excelente en guisos."
+       "to": "pepitas de calabaza tostadas",
+       "note": "Más terrosas; muy buenas en moles y salsas."
       },
       "en": {
-       "to": "pumpkin seed butter",
-       "note": "Darker and earthier; excellent in stews."
+       "to": "toasted pumpkin seeds",
+       "note": "Earthier; very good in moles and sauces."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "garbanzos tostados",
+       "note": "Solo para el crujiente."
+      },
+      "en": {
+       "to": "roasted chickpeas",
+       "note": "Only for crunch."
       }
      }
     ]
@@ -3918,6 +3912,15 @@
       ]
      }
     ]
+   },
+   "may": [
+    "allium",
+    "sulphite",
+    "wheat"
+   ],
+   "label": {
+    "es": "El chorizo suele llevar ajo y vinagre; algunos llevan trigo.",
+    "en": "Chorizo usually contains garlic and vinegar; some contain wheat."
    }
   },
   "lard": {
@@ -7899,6 +7902,267 @@
    "label": {
     "es": "Algunas aguas de rosas o de azahar llevan alcohol como conservante.",
     "en": "Some rose and orange-blossom waters use alcohol as a preservative."
+   }
+  },
+  "tomatillo": {
+   "a": [
+    "nightshade"
+   ]
+  },
+  "grain": {
+   "a": []
+  },
+  "seeds": {
+   "a": []
+  },
+  "goat": {
+   "a": []
+  },
+  "turkey": {
+   "a": []
+  },
+  "ajipaste": {
+   "a": [
+    "nightshade"
+   ],
+   "may": [
+    "sulphite",
+    "allium"
+   ],
+   "label": {
+    "es": "Las pastas de ají comerciales suelen llevar vinagre y a veces ajo.",
+    "en": "Store-bought ají pastes usually contain vinegar and sometimes garlic."
+   }
+  },
+  "tablechocolate": {
+   "a": [
+    "sugar"
+   ],
+   "may": [
+    "milk",
+    "soy",
+    "treenut"
+   ],
+   "label": {
+    "es": "El chocolate de mesa lleva azúcar y canela; algunas marcas llevan almendra o leche.",
+    "en": "Mexican table chocolate contains sugar and cinnamon; some brands contain almond or milk."
+   },
+   "s": {
+    "sugar": [
+     {
+      "f": 1,
+      "carries": [],
+      "may": [
+       "milk",
+       "soy"
+      ],
+      "es": {
+       "to": "cacao 100% + canela + edulcorante al gusto",
+       "note": "Rinde el mismo sabor especiado; el edulcorante se añade al final."
+      },
+      "en": {
+       "to": "100% cacao + cinnamon + sweetener to taste",
+       "note": "Same spiced flavour; add the sweetener at the end."
+      }
+     }
+    ]
+   }
+  },
+  "cornhusk": {
+   "a": [],
+   "may": [
+    "corn"
+   ],
+   "label": {
+    "es": "Las hojas de maíz no se comen, pero con alergia al maíz usa hoja de plátano.",
+    "en": "Corn husks aren't eaten, but with a corn allergy use banana leaves."
+   },
+   "s": {
+    "corn": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "hojas de plátano",
+       "note": "Pásalas por la llama para que se ablanden."
+      },
+      "en": {
+       "to": "banana leaves",
+       "note": "Pass them over a flame to soften."
+      }
+     }
+    ]
+   }
+  },
+  "guavapaste": {
+   "a": [
+    "sugar"
+   ],
+   "may": [
+    "corn",
+    "sulphite"
+   ]
+  },
+  "tortillachips": {
+   "a": [
+    "corn"
+   ],
+   "may": [
+    "wheat"
+   ],
+   "s": {
+    "corn": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "chips de yuca o de plátano",
+       "note": "Mismo crujido."
+      },
+      "en": {
+       "to": "cassava or plantain chips",
+       "note": "Same crunch."
+      }
+     }
+    ]
+   }
+  },
+  "shortening": {
+   "a": [],
+   "may": [
+    "soy"
+   ]
+  },
+  "seasoningsauce": {
+   "a": [
+    "wheat",
+    "soy"
+   ],
+   "may": [
+    "celery"
+   ],
+   "label": {
+    "es": "Los jugos sazonadores (tipo Maggi) llevan trigo y soja.",
+    "en": "Seasoning sauces (Maggi-style) contain wheat and soy."
+   },
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [
+       "coconut",
+       "sugar"
+      ],
+      "es": {
+       "to": "aminos de coco",
+       "note": "Más dulce: usa un poco menos."
+      },
+      "en": {
+       "to": "coconut aminos",
+       "note": "Sweeter: use a little less."
+      }
+     }
+    ],
+    "soy": [
+     {
+      "f": 1,
+      "carries": [
+       "coconut",
+       "sugar"
+      ],
+      "es": {
+       "to": "aminos de coco",
+       "note": "Más dulce: usa un poco menos."
+      },
+      "en": {
+       "to": "coconut aminos",
+       "note": "Sweeter: use a little less."
+      }
+     }
+    ]
+   }
+  },
+  "hominy": {
+   "a": [
+    "corn"
+   ]
+  },
+  "plantain": {
+   "a": []
+  },
+  "cassava": {
+   "a": [],
+   "label": {
+    "es": "La yuca debe pelarse y cocerse bien: cruda es tóxica.",
+    "en": "Cassava must be peeled and fully cooked: it is toxic raw."
+   }
+  },
+  "avocado": {
+   "a": []
+  },
+  "condiment": {
+   "a": [],
+   "may": [
+    "allium",
+    "nightshade",
+    "celery",
+    "mustard",
+    "wheat"
+   ],
+   "label": {
+    "es": "Los sazonadores comerciales (sazón, adobo en polvo) pueden llevar ajo, cebolla, chile, apio, mostaza o trigo.",
+    "en": "Commercial seasonings (sazón, adobo powder) can contain garlic, onion, chili, celery, mustard or wheat."
+   }
+  },
+  "bouillon": {
+   "a": [],
+   "may": [
+    "celery",
+    "wheat",
+    "soy",
+    "milk",
+    "allium"
+   ],
+   "label": {
+    "es": "El caldo en cubo o en polvo suele llevar apio, trigo, soja, leche o cebolla.",
+    "en": "Bouillon cubes and powder often contain celery, wheat, soy, milk or onion."
+   }
+  },
+  "crema": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "coconut"
+      ],
+      "es": {
+       "to": "crema de coco con unas gotas de limón",
+       "note": "Da la acidez suave de la crema."
+      },
+      "en": {
+       "to": "coconut cream with a few drops of lime",
+       "note": "Gives crema's mild tang."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "crema de anacardo con limón",
+       "note": "La más neutra."
+      },
+      "en": {
+       "to": "cashew cream with lime",
+       "note": "The most neutral."
+      }
+     }
+    ]
    }
   }
  },

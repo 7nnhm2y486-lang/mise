@@ -1,0 +1,169 @@
+{
+ "id": "huevos-rancheros",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 25,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "serve"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Huevos rancheros",
+  "blurb": "Huevos estrellados sobre tortillas pasadas por aceite, bañados en salsa ranchera caliente. Un desayuno de rancho que no necesita más.",
+  "ing": [
+   {
+    "n": "tortillas de maíz"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "chile serrano"
+   },
+   {
+    "n": "cebolla blanca"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "frijoles refritos",
+    "note": "opcional"
+   },
+   {
+    "n": "cilantro"
+   }
+  ],
+  "steps": [
+   "Asa los jitomates, el chile, la cebolla y el ajo en un comal hasta que tengan manchas negras. Lícualos con la sal sin que quede totalmente liso.",
+   "Fríe la salsa en 1 cucharada de aceite 5 minutos, hasta que cambie a un rojo más oscuro.",
+   "Pasa las tortillas por aceite caliente 10 segundos por lado, para que se ablanden sin endurecerse. Escúrrelas.",
+   "Fríe los huevos en el mismo aceite, rociando la clara con la grasa hasta que cuaje y la yema siga líquida.",
+   "Pon dos tortillas por plato, los huevos encima y cúbrelos de salsa, dejando la yema a la vista. Sirve con frijoles y cilantro."
+  ],
+  "tips": [
+   "La salsa va caliente: fría endurece la tortilla.",
+   "Rociar la clara con aceite cuaja la parte de arriba sin voltear el huevo."
+  ],
+  "video": "huevos rancheros receta"
+ },
+ "en": {
+  "name": "Huevos Rancheros",
+  "blurb": "Fried eggs on oil-softened tortillas, smothered in hot ranchera sauce. A ranch breakfast that needs nothing else.",
+  "ing": [
+   {
+    "n": "corn tortillas"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "serrano chile"
+   },
+   {
+    "n": "white onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "refried beans",
+    "note": "optional"
+   },
+   {
+    "n": "cilantro"
+   }
+  ],
+  "steps": [
+   "Char the tomatoes, chile, onion and garlic on a griddle until blackened in spots. Blend with the salt, leaving it a little rough.",
+   "Fry the salsa in 1 tablespoon of oil for 5 minutes, until it turns a darker red.",
+   "Pass the tortillas through hot oil for 10 seconds per side, so they soften without crisping. Drain.",
+   "Fry the eggs in the same oil, basting the whites with fat until set while the yolks stay runny.",
+   "Put two tortillas on each plate, the eggs on top and cover with salsa, leaving the yolks showing. Serve with beans and cilantro."
+  ],
+  "tips": [
+   "The salsa goes on hot: cold, it stiffens the tortilla.",
+   "Basting the whites with oil sets the top without flipping the egg."
+  ],
+  "video": "huevos rancheros recipe"
+ },
+ "added": "2026-09-30"
+}
