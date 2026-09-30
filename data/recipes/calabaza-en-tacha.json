@@ -1,0 +1,109 @@
+{
+ "id": "calabaza-en-tacha",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 90,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 2,
+   "u": "kg",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Calabaza en tacha",
+  "blurb": "Calabaza cocida en almíbar espeso de piloncillo con canela y naranja. Se come el Día de Muertos.",
+  "ing": [
+   {
+    "n": "calabaza de Castilla",
+    "note": "en trozos con cáscara"
+   },
+   {
+    "n": "piloncillo"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "cáscara de naranja"
+   }
+  ],
+  "steps": [
+   "Cuece el piloncillo con el agua, la canela y la naranja hasta que se disuelva.",
+   "Pon la calabaza en una olla con la cáscara hacia abajo.",
+   "Vierte el almíbar encima, tapa y cuece a fuego bajo 60 minutos.",
+   "Destapa y cuece 20 minutos más, bañando la calabaza con el almíbar, hasta que esté brillante y oscura.",
+   "Sirve tibia o fría con su almíbar."
+  ],
+  "tips": [
+   "Haz unos cortes en la pulpa para que el almíbar penetre.",
+   "Se guarda 5 días en la nevera."
+  ],
+  "video": "calabaza en tacha receta"
+ },
+ "en": {
+  "name": "Calabaza en Tacha (Candied Pumpkin)",
+  "blurb": "Pumpkin cooked in thick piloncillo syrup with cinnamon and orange. Eaten on the Day of the Dead.",
+  "ing": [
+   {
+    "n": "Mexican pumpkin",
+    "note": "in chunks, skin on"
+   },
+   {
+    "n": "piloncillo (unrefined cane sugar)"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "orange peel"
+   }
+  ],
+  "steps": [
+   "Simmer the piloncillo with the water, cinnamon and orange until dissolved.",
+   "Arrange the pumpkin in a pot skin side down.",
+   "Pour the syrup over, cover and cook on low for 60 minutes.",
+   "Uncover and cook 20 minutes more, basting with the syrup, until glossy and dark.",
+   "Serve warm or cold with its syrup."
+  ],
+  "tips": [
+   "Score the flesh so the syrup soaks in.",
+   "Keeps 5 days in the fridge."
+  ],
+  "video": "candied pumpkin recipe"
+ },
+ "added": "2026-09-30"
+}

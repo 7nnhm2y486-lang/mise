@@ -1,0 +1,107 @@
+{
+ "id": "cafe-de-olla",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 15,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "coffee",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Café de olla",
+  "blurb": "Café hervido en olla de barro con piloncillo, canela y clavo. Dulce y especiado, de mañana en el campo.",
+  "ing": [
+   {
+    "n": "agua"
+   },
+   {
+    "n": "piloncillo"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "café molido grueso"
+   }
+  ],
+  "steps": [
+   "Hierve el agua con el piloncillo, la canela y los clavos 5 minutos.",
+   "Retira del fuego y añade el café.",
+   "Tapa y deja reposar 5 minutos.",
+   "Cuela.",
+   "Sirve caliente, idealmente en jarritos de barro."
+  ],
+  "tips": [
+   "No hiervas el café: se amarga.",
+   "Una tira de cáscara de naranja le va bien."
+  ],
+  "video": "café de olla receta"
+ },
+ "en": {
+  "name": "Café de Olla (Spiced Pot Coffee)",
+  "blurb": "Coffee brewed in a clay pot with piloncillo, cinnamon and clove. Sweet and spiced, for country mornings.",
+  "ing": [
+   {
+    "n": "water"
+   },
+   {
+    "n": "piloncillo (unrefined cane sugar)"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "whole cloves"
+   },
+   {
+    "n": "coarse-ground coffee"
+   }
+  ],
+  "steps": [
+   "Boil the water with the piloncillo, cinnamon and cloves for 5 minutes.",
+   "Take off the heat and add the coffee.",
+   "Cover and leave 5 minutes.",
+   "Strain.",
+   "Serve hot, ideally in clay mugs."
+  ],
+  "tips": [
+   "Don't boil the coffee: it turns bitter.",
+   "A strip of orange peel suits it well."
+  ],
+  "video": "cafe de olla recipe"
+ },
+ "added": "2026-09-30"
+}

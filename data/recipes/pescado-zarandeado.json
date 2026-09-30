@@ -1,0 +1,137 @@
+{
+ "id": "pescado-zarandeado",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "sauce"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "mayo",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pescado zarandeado",
+  "blurb": "Pescado entero abierto, untado de adobo de guajillo y asado a la brasa en una rejilla. De Nayarit y Sinaloa.",
+  "ing": [
+   {
+    "n": "pargo o huachinango entero",
+    "note": "abierto en mariposa"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "sin semillas, remojados"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "salsa de soya"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Licúa los chiles, el ajo, la salsa de soya, la mayonesa, el jugo de limón y la sal.",
+   "Unta el pescado abierto por el lado de la carne con la mitad del adobo.",
+   "Colócalo en una rejilla doble y ásalo con la piel hacia el fuego 15 minutos.",
+   "Voltea, unta el resto del adobo y asa 10 minutos más, hasta que la carne se separe fácilmente.",
+   "Sirve entero con tortillas, cebolla y pepino."
+  ],
+  "tips": [
+   "La rejilla doble permite voltearlo sin que se rompa.",
+   "En horno, asa a 220 °C durante 25 minutos con la piel hacia abajo."
+  ],
+  "video": "pescado zarandeado nayarit receta"
+ },
+ "en": {
+  "name": "Pescado Zarandeado (Grilled Butterflied Fish)",
+  "blurb": "A whole butterflied fish brushed with guajillo marinade and grilled over coals in a basket. From Nayarit and Sinaloa.",
+  "ing": [
+   {
+    "n": "whole red snapper",
+    "note": "butterflied"
+   },
+   {
+    "n": "guajillo chillies",
+    "note": "seeded, soaked"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Blend the chillies, garlic, soy sauce, mayonnaise, lime juice and salt.",
+   "Brush the flesh side of the fish with half the marinade.",
+   "Put it in a hinged grill basket and grill skin side to the fire for 15 minutes.",
+   "Turn, brush with the rest of the marinade and grill 10 minutes more, until the flesh flakes easily.",
+   "Serve whole with tortillas, onion and cucumber."
+  ],
+  "tips": [
+   "The hinged basket lets you turn it without breaking it.",
+   "In the oven, bake at 220 °C for 25 minutes skin side down."
+  ],
+  "video": "pescado zarandeado recipe"
+ },
+ "added": "2026-09-30"
+}

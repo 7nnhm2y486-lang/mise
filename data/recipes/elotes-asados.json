@@ -1,0 +1,125 @@
+{
+ "id": "elotes-asados",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 25,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "mayo",
+   "role": "enrich"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "cotija",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Elotes asados",
+  "blurb": "Elote asado en brasa, con mayonesa, queso cotija, chile en polvo y limón. De los puestos de la calle.",
+  "ing": [
+   {
+    "n": "elotes",
+    "note": "sin hojas"
+   },
+   {
+    "n": "mantequilla derretida"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "queso cotija",
+    "note": "rallado"
+   },
+   {
+    "n": "chile en polvo"
+   },
+   {
+    "n": "limones",
+    "note": "en gajos"
+   }
+  ],
+  "steps": [
+   "Asa los elotes a fuego medio 12 minutos, girándolos, hasta que tengan manchas tostadas.",
+   "Pinta con la mantequilla.",
+   "Unta cada elote con mayonesa.",
+   "Rueda por el queso cotija.",
+   "Espolvorea el chile y sirve con el limón."
+  ],
+  "tips": [
+   "Clava un palo en la base para comerlo como paleta.",
+   "Si no tienes parrilla, ásalos directo sobre la llama de la estufa."
+  ],
+  "video": "elotes asados callejeros"
+ },
+ "en": {
+  "name": "Elotes (Mexican Street Corn)",
+  "blurb": "Grilled corn with mayonnaise, cotija cheese, chilli powder and lime. From the street stalls.",
+  "ing": [
+   {
+    "n": "corn cobs",
+    "note": "husked"
+   },
+   {
+    "n": "melted butter"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "cotija cheese",
+    "note": "grated"
+   },
+   {
+    "n": "chilli powder"
+   },
+   {
+    "n": "limes",
+    "note": "in wedges"
+   }
+  ],
+  "steps": [
+   "Grill the cobs over medium heat for 12 minutes, turning, until charred in spots.",
+   "Brush with the butter.",
+   "Spread each cob with mayonnaise.",
+   "Roll in the cotija.",
+   "Sprinkle with the chilli and serve with the lime."
+  ],
+  "tips": [
+   "Push a stick into the base to eat it like a lolly.",
+   "Without a grill, char them straight over a gas flame."
+  ],
+  "video": "mexican street corn recipe"
+ },
+ "added": "2026-09-30"
+}

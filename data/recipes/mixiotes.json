@@ -1,0 +1,173 @@
+{
+ "id": "mixiotes",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 210,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "lamb",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "ancho",
+   "role": "sauce"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "whitevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 6,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "piece",
+   "k": "veg",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Mixiotes de carnero",
+  "blurb": "Carne en adobo de chiles envuelta en paquetes y cocida al vapor hasta deshacerse. Del centro de México.",
+  "ing": [
+   {
+    "n": "pierna de carnero o cordero",
+    "note": "en trozos"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "sin semillas"
+   },
+   {
+    "n": "chiles anchos",
+    "note": "sin semillas"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "hojas de aguacate"
+   },
+   {
+    "n": "hojas de mixiote o papel para hornear"
+   }
+  ],
+  "steps": [
+   "Remoja los chiles en agua caliente 15 minutos. Licúa con el ajo, el comino, el orégano, el vinagre y la sal.",
+   "Marina la carne en el adobo al menos 4 horas.",
+   "Pon carne y una hoja de aguacate en el centro de cada hoja de mixiote o papel. Cierra como bolsita y ata.",
+   "Cuece al vapor 2 horas y media, hasta que la carne esté muy suave.",
+   "Sirve en su paquete con tortillas calientes."
+  ],
+  "tips": [
+   "Las hojas de aguacate dan un aroma anisado; tuéstalas un poco antes.",
+   "Con pollo, basta 1 hora de vapor."
+  ],
+  "video": "mixiotes de carnero receta"
+ },
+ "en": {
+  "name": "Mixiotes (Steamed Chilli Lamb Parcels)",
+  "blurb": "Meat in chilli marinade wrapped in parcels and steamed until falling apart. From central Mexico.",
+  "ing": [
+   {
+    "n": "lamb leg",
+    "note": "in pieces"
+   },
+   {
+    "n": "guajillo chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "ancho chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "avocado leaves"
+   },
+   {
+    "n": "mixiote sheets or baking paper"
+   }
+  ],
+  "steps": [
+   "Soak the chillies in hot water for 15 minutes. Blend with the garlic, cumin, oregano, vinegar and salt.",
+   "Marinate the meat in the sauce for at least 4 hours.",
+   "Put meat and an avocado leaf in the centre of each mixiote sheet or paper. Gather into a pouch and tie.",
+   "Steam 2 and a half hours, until the meat is very tender.",
+   "Serve in their parcels with warm tortillas."
+  ],
+  "tips": [
+   "Avocado leaves give an anise aroma; toast them lightly first.",
+   "With chicken, 1 hour of steaming is enough."
+  ],
+  "video": "mixiotes recipe"
+ },
+ "added": "2026-09-30"
+}

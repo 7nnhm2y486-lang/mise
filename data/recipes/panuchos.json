@@ -1,0 +1,203 @@
+{
+ "id": "panuchos",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 350,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "refriedbeans",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "garnish"
+  },
+  {
+   "q": 4,
+   "u": "leaf",
+   "k": "veg",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Panuchos",
+  "blurb": "Tortillas infladas rellenas de frijol negro, fritas y cubiertas con pollo, cebolla encurtida y aguacate. De Yucatán.",
+  "ing": [
+   {
+    "n": "harina de maíz nixtamalizado"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "frijoles negros refritos"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "pollo cocido",
+    "note": "deshebrado"
+   },
+   {
+    "n": "naranjas agrias (o 1 naranja y 1 limón)",
+    "note": "en jugo"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "en aros finos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aguacate",
+    "note": "en rebanadas"
+   },
+   {
+    "n": "tomates",
+    "note": "en rodajas"
+   },
+   {
+    "n": "hojas de lechuga",
+    "note": "en tiras"
+   }
+  ],
+  "steps": [
+   "Mezcla la cebolla con la mitad del jugo de naranja y la sal. Mezcla el pollo con el resto del jugo y el orégano.",
+   "Mezcla la harina con el agua y forma 8 tortillas. Cuécelas en el comal hasta que se inflen.",
+   "Abre con cuidado la capa superior de cada tortilla inflada y mete una cucharada de frijoles. Cierra presionando.",
+   "Fríe en el aceite a 180 °C durante 2 minutos, hasta que estén crujientes.",
+   "Cubre con la lechuga, el pollo, el tomate, el aguacate y la cebolla."
+  ],
+  "tips": [
+   "Si la tortilla no se infla, dale un golpecito con la espátula en el comal.",
+   "Escurre bien los panuchos para que no queden grasosos."
+  ],
+  "video": "panuchos yucatecos receta"
+ },
+ "en": {
+  "name": "Panuchos (Bean-Stuffed Fried Tortillas)",
+  "blurb": "Puffed tortillas stuffed with black beans, fried and topped with chicken, pickled onion and avocado. From Yucatán.",
+  "ing": [
+   {
+    "n": "masa harina"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "refried black beans"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "cooked chicken",
+    "note": "shredded"
+   },
+   {
+    "n": "sour oranges (or 1 orange and 1 lime)",
+    "note": "juiced"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "red onion",
+    "note": "in thin rings"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "avocado",
+    "note": "sliced"
+   },
+   {
+    "n": "tomatoes",
+    "note": "sliced"
+   },
+   {
+    "n": "lettuce leaves",
+    "note": "shredded"
+   }
+  ],
+  "steps": [
+   "Mix the onion with half the orange juice and the salt. Mix the chicken with the rest of the juice and the oregano.",
+   "Mix the masa harina with the water and shape 8 tortillas. Cook on the griddle until they puff.",
+   "Carefully open the top layer of each puffed tortilla and slip in a spoonful of beans. Press to close.",
+   "Fry in the oil at 180 °C for 2 minutes, until crisp.",
+   "Top with the lettuce, chicken, tomato, avocado and onion."
+  ],
+  "tips": [
+   "If a tortilla won't puff, tap it with the spatula on the griddle.",
+   "Drain the panuchos well so they aren't greasy."
+  ],
+  "video": "panuchos recipe"
+ },
+ "added": "2026-09-30"
+}

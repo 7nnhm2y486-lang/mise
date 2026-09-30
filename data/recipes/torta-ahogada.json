@@ -1,0 +1,185 @@
+{
+ "id": "torta-ahogada",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 15,
+   "u": "",
+   "k": "chilli",
+   "role": "sauce"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "whitevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Torta ahogada",
+  "blurb": "Birote relleno de carnitas y ahogado en salsa de tomate y otra de chile de árbol. El antojo de Guadalajara.",
+  "ing": [
+   {
+    "n": "birotes o bolillos salados"
+   },
+   {
+    "n": "pierna de cerdo cocida y dorada",
+    "note": "deshebrada"
+   },
+   {
+    "n": "tomates"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "chiles de árbol secos"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "en aros"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   }
+  ],
+  "steps": [
+   "Mezcla la cebolla morada con el jugo de limón y una pizca de sal.",
+   "Cuece los tomates, el ajo y la media cebolla en agua 10 minutos. Licúa con el orégano y la sal y calienta.",
+   "Tuesta los chiles 30 segundos, remójalos 10 minutos y licúalos con el vinagre y una pizca de sal.",
+   "Abre los birotes y rellena con el cerdo caliente.",
+   "Baña cada torta con la salsa de tomate, añade salsa de chile al gusto y la cebolla encima."
+  ],
+  "tips": [
+   "El birote de Guadalajara tiene corteza dura que aguanta la salsa; un bolillo bien tostado sirve.",
+   "La salsa de chile de árbol pica mucho: ponla poco a poco."
+  ],
+  "video": "torta ahogada tapatía receta"
+ },
+ "en": {
+  "name": "Torta Ahogada (Drowned Pork Sandwich)",
+  "blurb": "A birote roll filled with carnitas and drowned in tomato sauce and árbol chilli sauce. Guadalajara's favourite snack.",
+  "ing": [
+   {
+    "n": "birote or crusty rolls"
+   },
+   {
+    "n": "cooked, browned pork leg",
+    "note": "shredded"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "dried árbol chillies"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "red onion",
+    "note": "in rings"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   }
+  ],
+  "steps": [
+   "Mix the red onion with the lime juice and a pinch of salt.",
+   "Boil the tomatoes, garlic and half onion in water for 10 minutes. Blend with the oregano and salt and heat.",
+   "Toast the chillies 30 seconds, soak 10 minutes and blend with the vinegar and a pinch of salt.",
+   "Split the rolls and fill with the hot pork.",
+   "Drench each torta in the tomato sauce, add chilli sauce to taste and top with the onion."
+  ],
+  "tips": [
+   "Guadalajara's birote has a hard crust that stands up to the sauce; a well-toasted crusty roll works.",
+   "The árbol chilli sauce is very hot: add it gradually."
+  ],
+  "video": "torta ahogada recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,169 @@
+{
+ "id": "papadzules",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "seeds",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Papadzules",
+  "blurb": "Tortillas rellenas de huevo duro y bañadas en salsa de pepita, con salsa de tomate y habanero. Plato maya de Yucatán.",
+  "ing": [
+   {
+    "n": "pepitas de calabaza peladas"
+   },
+   {
+    "n": "agua caliente"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "tortillas de maíz"
+   },
+   {
+    "n": "huevos duros",
+    "note": "picados"
+   },
+   {
+    "n": "tomates"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "chile habanero"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Tuesta las pepitas en un comal 4 minutos. Muélelas con el agua caliente, el epazote y la sal hasta tener una salsa cremosa.",
+   "Asa los tomates, la cebolla y el habanero 8 minutos. Licúa y cuece en el aceite 5 minutos.",
+   "Calienta las tortillas y pásalas por la salsa de pepita tibia.",
+   "Rellena con el huevo y enrolla.",
+   "Baña con el resto de la salsa de pepita y la salsa de tomate encima."
+  ],
+  "tips": [
+   "No calientes demasiado la salsa de pepita o se corta.",
+   "Quita las semillas del habanero si la quieres menos picante."
+  ],
+  "video": "papadzules yucatecos receta"
+ },
+ "en": {
+  "name": "Papadzules (Yucatecan Egg Enchiladas)",
+  "blurb": "Tortillas filled with hard-boiled egg in pumpkin-seed sauce, topped with tomato and habanero sauce. A Mayan dish from Yucatán.",
+  "ing": [
+   {
+    "n": "hulled pumpkin seeds"
+   },
+   {
+    "n": "hot water"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "corn tortillas"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "habanero chilli"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Toast the pumpkin seeds on a griddle for 4 minutes. Grind with the hot water, epazote and salt to a creamy sauce.",
+   "Char the tomatoes, onion and habanero for 8 minutes. Blend and fry in the oil for 5 minutes.",
+   "Warm the tortillas and dip them in the warm seed sauce.",
+   "Fill with the egg and roll up.",
+   "Pour over the rest of the seed sauce and the tomato sauce on top."
+  ],
+  "tips": [
+   "Don't overheat the seed sauce or it splits.",
+   "Seed the habanero for less heat."
+  ],
+  "video": "papadzules recipe"
+ },
+ "added": "2026-09-30"
+}

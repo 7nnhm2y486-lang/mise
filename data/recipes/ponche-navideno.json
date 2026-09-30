@@ -1,0 +1,175 @@
+{
+ "id": "ponche-navideno",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 60,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 3,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "sugar",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Ponche navideño",
+  "blurb": "Bebida caliente de frutas de temporada con piloncillo y canela. El olor de las posadas en México.",
+  "ing": [
+   {
+    "n": "agua"
+   },
+   {
+    "n": "piloncillo"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "flor de jamaica"
+   },
+   {
+    "n": "tejocotes"
+   },
+   {
+    "n": "guayabas",
+    "note": "en cuartos"
+   },
+   {
+    "n": "manzanas",
+    "note": "en dados"
+   },
+   {
+    "n": "trozos de caña de azúcar",
+    "note": "pelados, en tiras"
+   },
+   {
+    "n": "ciruelas pasas"
+   },
+   {
+    "n": "naranja",
+    "note": "en rodajas"
+   }
+  ],
+  "steps": [
+   "Hierve el agua con la canela y la jamaica 10 minutos. Cuela la jamaica.",
+   "Añade los tejocotes y el piloncillo y cuece 15 minutos.",
+   "Pela los tejocotes, quítales la semilla y regrésalos a la olla.",
+   "Añade la guayaba, la manzana, la caña, las ciruelas y la naranja.",
+   "Cuece a fuego bajo 30 minutos. Sirve caliente con fruta en cada taza."
+  ],
+  "tips": [
+   "Los tejocotes se pelan fácil después de cocerlos.",
+   "Sin tejocotes, usa más manzana y guayaba."
+  ],
+  "video": "ponche navideño receta"
+ },
+ "en": {
+  "name": "Ponche Navideño (Mexican Christmas Punch)",
+  "blurb": "A hot drink of seasonal fruit with piloncillo and cinnamon. The smell of the posadas in Mexico.",
+  "ing": [
+   {
+    "n": "water"
+   },
+   {
+    "n": "piloncillo (unrefined cane sugar)"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "dried hibiscus"
+   },
+   {
+    "n": "tejocotes (Mexican hawthorn)"
+   },
+   {
+    "n": "guavas",
+    "note": "quartered"
+   },
+   {
+    "n": "apples",
+    "note": "diced"
+   },
+   {
+    "n": "sugarcane sticks",
+    "note": "peeled, in strips"
+   },
+   {
+    "n": "prunes"
+   },
+   {
+    "n": "orange",
+    "note": "sliced"
+   }
+  ],
+  "steps": [
+   "Boil the water with the cinnamon and hibiscus for 10 minutes. Strain out the hibiscus.",
+   "Add the tejocotes and piloncillo and cook 15 minutes.",
+   "Peel the tejocotes, remove the seeds and return them to the pot.",
+   "Add the guava, apple, sugarcane, prunes and orange.",
+   "Simmer 30 minutes. Serve hot with fruit in every cup."
+  ],
+  "tips": [
+   "Tejocotes peel easily once cooked.",
+   "Without tejocotes, use more apple and guava."
+  ],
+  "video": "mexican christmas punch recipe"
+ },
+ "added": "2026-09-30"
+}

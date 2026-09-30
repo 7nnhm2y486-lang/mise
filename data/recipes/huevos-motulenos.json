@@ -1,0 +1,185 @@
+{
+ "id": "huevos-motulenos",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "refriedbeans",
+   "role": "structure"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "ham",
+   "role": "protein"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "plantain",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Huevos motuleños",
+  "blurb": "Tortilla frita con frijol, huevo estrellado, salsa de tomate, jamón, chícharos y plátano. El desayuno de Motul, Yucatán.",
+  "ing": [
+   {
+    "n": "tortillas de maíz"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "frijoles negros refritos"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "tomates"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "chile habanero"
+   },
+   {
+    "n": "jamón cocido",
+    "note": "en dados"
+   },
+   {
+    "n": "chícharos"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "plátano macho maduro",
+    "note": "en rodajas, frito"
+   }
+  ],
+  "steps": [
+   "Asa los tomates, la cebolla y el habanero, licúa y cuece en 1 cucharada de aceite 5 minutos con los chícharos y el jamón.",
+   "Fríe las tortillas en el resto del aceite hasta que estén crujientes.",
+   "Unta cada tortilla con frijoles.",
+   "Fríe los huevos y pon dos sobre cada tortilla.",
+   "Baña con la salsa y termina con el queso y el plátano."
+  ],
+  "tips": [
+   "Calienta bien los frijoles para que el plato llegue caliente a la mesa.",
+   "Quita las semillas del habanero si la quieres menos picante."
+  ],
+  "video": "huevos motuleños receta"
+ },
+ "en": {
+  "name": "Huevos Motuleños (Yucatán Breakfast Eggs)",
+  "blurb": "Fried tortilla with beans, fried eggs, tomato sauce, ham, peas and plantain. Breakfast from Motul, Yucatán.",
+  "ing": [
+   {
+    "n": "corn tortillas"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "refried black beans"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "habanero chilli"
+   },
+   {
+    "n": "cooked ham",
+    "note": "diced"
+   },
+   {
+    "n": "peas"
+   },
+   {
+    "n": "fresh cheese",
+    "note": "crumbled"
+   },
+   {
+    "n": "ripe plantain",
+    "note": "sliced, fried"
+   }
+  ],
+  "steps": [
+   "Char the tomatoes, onion and habanero, blend and fry in 1 tablespoon of oil for 5 minutes with the peas and ham.",
+   "Fry the tortillas in the rest of the oil until crisp.",
+   "Spread each tortilla with beans.",
+   "Fry the eggs and put two on each tortilla.",
+   "Pour over the sauce and finish with the cheese and plantain."
+  ],
+  "tips": [
+   "Heat the beans well so the plate reaches the table hot.",
+   "Seed the habanero for less heat."
+  ],
+  "video": "huevos motulenos recipe"
+ },
+ "added": "2026-09-30"
+}
