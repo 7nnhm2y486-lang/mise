@@ -1,0 +1,143 @@
+{
+ "id": "hojaldras",
+ "country": "Panama",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 60,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "sugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Hojaldras panameñas",
+  "blurb": "Masa frita que se infla en discos dorados, espolvoreada con azúcar. El desayuno de domingo en Panamá.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "azúcar para espolvorear"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el polvo de hornear, 2 cucharadas de azúcar y la sal. Añade el aceite y el agua y amasa 5 minutos.",
+   "Tapa y deja reposar 30 minutos.",
+   "Divide en 10 bolitas y estira cada una en un disco fino de 15 cm.",
+   "Fríe a 180 °C durante 1 minuto por lado, hasta que se infle y dore.",
+   "Escurre y espolvorea el azúcar."
+  ],
+  "tips": [
+   "Haz un corte en el centro de cada disco para que no se infle como un globo.",
+   "Se comen calientes, recién fritas."
+  ],
+  "video": "hojaldras panameñas receta"
+ },
+ "en": {
+  "name": "Hojaldras (Panamanian Fried Dough)",
+  "blurb": "Fried dough that puffs into golden rounds, dusted with sugar. Sunday breakfast in Panama.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "sugar for dusting"
+   }
+  ],
+  "steps": [
+   "Mix the flour, baking powder, 2 tablespoons of sugar and the salt. Add the oil and water and knead 5 minutes.",
+   "Cover and rest 30 minutes.",
+   "Divide into 10 balls and roll each into a thin 15 cm round.",
+   "Fry at 180 °C for 1 minute a side, until puffed and golden.",
+   "Drain and dust with the sugar."
+  ],
+  "tips": [
+   "Cut a slit in the centre of each round so it doesn't balloon.",
+   "Eat them hot, straight from the pan."
+  ],
+  "video": "panamanian hojaldras recipe"
+ },
+ "added": "2026-09-30"
+}

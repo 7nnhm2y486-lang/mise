@@ -1,0 +1,146 @@
+{
+ "id": "quesadilla-salvadorena",
+ "country": "El Salvador",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 10,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "cheese",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "sourcream",
+   "role": "moisture"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sesameseed",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Quesadilla salvadoreña",
+  "blurb": "Pan dulce de harina de arroz con queso duro y crema, con ajonjolí encima. Se toma con café por la tarde.",
+  "ing": [
+   {
+    "n": "mantequilla blanda"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "queso duro o parmesano",
+    "note": "rallado"
+   },
+   {
+    "n": "crema agria"
+   },
+   {
+    "n": "harina de arroz"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "ajonjolí"
+   }
+  ],
+  "steps": [
+   "Bate la mantequilla con el azúcar 3 minutos. Añade los huevos uno a uno.",
+   "Añade el queso y la crema y mezcla.",
+   "Añade la harina de arroz y el polvo de hornear y mezcla solo hasta integrar.",
+   "Vierte en un molde de 23 x 33 cm engrasado y espolvorea el ajonjolí.",
+   "Hornea a 180 °C durante 40 minutos, hasta que esté dorada."
+  ],
+  "tips": [
+   "El contraste de dulce y salado es la gracia; usa un queso bien salado.",
+   "Se guarda 3 días tapada."
+  ],
+  "video": "quesadilla salvadoreña receta"
+ },
+ "en": {
+  "name": "Salvadoran Quesadilla (Sweet Cheese Cake)",
+  "blurb": "A sweet rice-flour cake with hard cheese and cream, topped with sesame. Eaten with afternoon coffee.",
+  "ing": [
+   {
+    "n": "soft butter"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "hard salty cheese or parmesan",
+    "note": "grated"
+   },
+   {
+    "n": "sour cream"
+   },
+   {
+    "n": "rice flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "sesame seeds"
+   }
+  ],
+  "steps": [
+   "Beat the butter with the sugar for 3 minutes. Add the eggs one at a time.",
+   "Add the cheese and sour cream and mix.",
+   "Add the rice flour and baking powder and mix just until combined.",
+   "Pour into a greased 23 x 33 cm tin and scatter the sesame.",
+   "Bake at 180 °C for 40 minutes, until golden."
+  ],
+  "tips": [
+   "The sweet-salty contrast is the point; use a really salty cheese.",
+   "Keeps 3 days covered."
+  ],
+  "video": "salvadoran quesadilla recipe"
+ },
+ "added": "2026-09-30"
+}

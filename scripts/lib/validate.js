@@ -11,7 +11,7 @@ const UNITS = ["", "g", "kg", "ml", "l", "tbsp", "tsp", "clove", "pinch", "bigpi
 const ROLES = ["protein", "acid", "umami", "aromatic", "liquid", "sweet", "fat", "structure", "crunch", "salt", "set", "binder", "leaven", "garnish",
   "moisture", "dredge", "enrich", "aerate", "caramel", "thicken", "glaze", "spread", "sauce", "serve", "preserve"];
 
-const COMPOSITE = /\b(salsa (verde|roja|de tomatillo|taquera|criolla)|hogao|sofrito|recaito|en adobo|chimichurri|pico de gallo)\b/i;
+const COMPOSITE = /\b(salsa (verde|roja|de tomatillo|taquera|criolla)|hogao|sofrito|recaito|en adobo|chimichurri|pico de gallo|curtido|pebre|ají de huevo|salsa criolla)\b/i;
 const RAW = ["tomato", "tomatillo", "chilli", "chipotle", "ancho", "onion", "garlic", "herb", "bellpepper", "scallion", "veg"];
 
 function validate(r, E){

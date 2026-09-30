@@ -1,0 +1,121 @@
+{
+ "id": "atol-de-elote",
+ "country": "El Salvador",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 6,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Atol de elote",
+  "blurb": "Bebida caliente y espesa de elote tierno licuado con leche y canela. Temporada de elotes en El Salvador.",
+  "ing": [
+   {
+    "n": "elotes tiernos",
+    "note": "desgranados"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Licúa los granos con el agua hasta que esté muy liso.",
+   "Cuela, apretando para sacar todo el líquido.",
+   "Cuece el líquido con la leche, la canela y la sal a fuego medio, removiendo, 20 minutos, hasta que espese.",
+   "Añade el azúcar y cuece 5 minutos más.",
+   "Sirve caliente."
+  ],
+  "tips": [
+   "Remueve sin parar: el almidón del elote se pega enseguida.",
+   "Si queda muy espeso, añade leche caliente."
+  ],
+  "video": "atol de elote salvadoreño"
+ },
+ "en": {
+  "name": "Atol de Elote (Hot Fresh Corn Drink)",
+  "blurb": "A thick hot drink of blended fresh corn with milk and cinnamon. Corn season in El Salvador.",
+  "ing": [
+   {
+    "n": "fresh corn cobs",
+    "note": "kernels cut off"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Blend the kernels with the water until very smooth.",
+   "Strain, pressing to extract all the liquid.",
+   "Cook the liquid with the milk, cinnamon and salt over medium heat, stirring, for 20 minutes, until thick.",
+   "Add the sugar and cook 5 minutes more.",
+   "Serve hot."
+  ],
+  "tips": [
+   "Stir constantly: the corn starch catches at once.",
+   "If too thick, add hot milk."
+  ],
+  "video": "atol de elote recipe"
+ },
+ "added": "2026-09-30"
+}

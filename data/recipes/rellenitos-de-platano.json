@@ -1,0 +1,149 @@
+{
+ "id": "rellenitos-de-platano",
+ "country": "Guatemala",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "tablechocolate",
+   "role": "sweet"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "sugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Rellenitos de plátano",
+  "blurb": "Masa de plátano maduro rellena de frijol negro dulce con chocolate y canela, frita. Postre guatemalteco.",
+  "ing": [
+   {
+    "n": "plátanos maduros",
+    "note": "con cáscara, en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "frijoles negros cocidos",
+    "note": "escurridos"
+   },
+   {
+    "n": "chocolate de mesa",
+    "note": "rallado"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "canela molida"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "azúcar para espolvorear"
+   }
+  ],
+  "steps": [
+   "Hierve el plátano con cáscara en el agua 20 minutos. Pela y haz un puré. Enfría.",
+   "Licúa los frijoles y cuécelos con el chocolate, el azúcar y la canela 10 minutos, hasta tener una pasta espesa. Enfría.",
+   "Toma bolitas de puré de plátano, aplánalas en la mano y pon una cucharadita de frijol en el centro.",
+   "Cierra en forma de óvalo.",
+   "Fríe a 170 °C durante 3 minutos, hasta que estén dorados. Espolvorea el azúcar."
+  ],
+  "tips": [
+   "Unta tus manos con aceite para que el plátano no se pegue.",
+   "Usa plátanos con la cáscara casi negra: más dulces."
+  ],
+  "video": "rellenitos de plátano guatemaltecos"
+ },
+ "en": {
+  "name": "Rellenitos de Plátano (Bean-Stuffed Plantain Fritters)",
+  "blurb": "Ripe plantain dough stuffed with sweet black beans, chocolate and cinnamon, fried. A Guatemalan dessert.",
+  "ing": [
+   {
+    "n": "ripe plantains",
+    "note": "unpeeled, in chunks"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cooked black beans",
+    "note": "drained"
+   },
+   {
+    "n": "table chocolate",
+    "note": "grated"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "ground cinnamon"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "sugar for dusting"
+   }
+  ],
+  "steps": [
+   "Boil the plantain in its skin in the water for 20 minutes. Peel and mash. Cool.",
+   "Blend the beans and cook with the chocolate, sugar and cinnamon for 10 minutes, to a thick paste. Cool.",
+   "Take balls of plantain mash, flatten in your hand and put a teaspoon of bean paste in the middle.",
+   "Close into an oval.",
+   "Fry at 170 °C for 3 minutes, until golden. Dust with the sugar."
+  ],
+  "tips": [
+   "Oil your hands so the plantain doesn't stick.",
+   "Use plantains with almost black skin: they're sweeter."
+  ],
+  "video": "rellenitos de platano recipe"
+ },
+ "added": "2026-09-30"
+}

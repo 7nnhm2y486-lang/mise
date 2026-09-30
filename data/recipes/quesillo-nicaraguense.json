@@ -1,0 +1,123 @@
+{
+ "id": "quesillo-nicaraguense",
+ "country": "Nicaragua",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "whitevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "crema",
+   "role": "enrich"
+  }
+ ],
+ "es": {
+  "name": "Quesillo nicaragüense",
+  "blurb": "Tortilla caliente envuelta alrededor de queso de hebra, con cebolla encurtida y crema. Se come en bolsa, en la carretera.",
+  "ing": [
+   {
+    "n": "tortillas de maíz gruesas"
+   },
+   {
+    "n": "quesillo (queso de hebra)",
+    "note": "en lonchas"
+   },
+   {
+    "n": "cebolla",
+    "note": "en aros finos"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "crema"
+   }
+  ],
+  "steps": [
+   "Mezcla la cebolla con el vinagre y la sal y deja 20 minutos.",
+   "Calienta las tortillas en un comal.",
+   "Pon el quesillo sobre cada tortilla caliente y enróllala.",
+   "Cubre con la cebolla escurrida.",
+   "Baña con la crema y sirve de inmediato."
+  ],
+  "tips": [
+   "La tortilla caliente es lo que ablanda el quesillo.",
+   "Tradicionalmente se sirve en una bolsa de plástico para comer por la calle."
+  ],
+  "video": "quesillo nicaragüense receta"
+ },
+ "en": {
+  "name": "Nicaraguan Quesillo (Cheese Tortilla)",
+  "blurb": "A hot tortilla wrapped round stringy cheese, with pickled onion and crema. Eaten from a bag at the roadside.",
+  "ing": [
+   {
+    "n": "thick corn tortillas"
+   },
+   {
+    "n": "quesillo (stringy fresh cheese)",
+    "note": "sliced"
+   },
+   {
+    "n": "onion",
+    "note": "in thin rings"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "crema (Latin sour cream)"
+   }
+  ],
+  "steps": [
+   "Mix the onion with the vinegar and salt and leave 20 minutes.",
+   "Heat the tortillas on a griddle.",
+   "Lay the cheese on each hot tortilla and roll up.",
+   "Top with the drained onion.",
+   "Pour over the crema and serve at once."
+  ],
+  "tips": [
+   "The hot tortilla is what softens the cheese.",
+   "Traditionally it's served in a plastic bag to eat on the street."
+  ],
+  "video": "nicaraguan quesillo recipe"
+ },
+ "added": "2026-09-30"
+}

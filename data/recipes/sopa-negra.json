@@ -1,0 +1,163 @@
+{
+ "id": "sopa-negra",
+ "country": "Costa Rica",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Sopa negra",
+  "blurb": "Sopa de frijol negro con un huevo escalfado dentro. Sencilla, barata y muy tica.",
+  "ing": [
+   {
+    "n": "frijoles negros cocidos"
+   },
+   {
+    "n": "líquido de cocción de los frijoles o agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "chile dulce",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "culantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el chile y el ajo en el aceite 5 minutos.",
+   "Añade los frijoles, el líquido y la sal y cuece 15 minutos.",
+   "Licúa la mitad de la sopa y vuelve a la olla.",
+   "Casca los huevos en la sopa y escálfalos 4 minutos.",
+   "Termina con el culantro."
+  ],
+  "tips": [
+   "Licuar solo la mitad deja la sopa espesa y con frijoles enteros.",
+   "También se sirve con huevo duro partido en lugar de escalfado."
+  ],
+  "video": "sopa negra costa rica"
+ },
+ "en": {
+  "name": "Sopa Negra (Costa Rican Black Bean Soup)",
+  "blurb": "Black bean soup with an egg poached in it. Simple, cheap and very Tico.",
+  "ing": [
+   {
+    "n": "cooked black beans"
+   },
+   {
+    "n": "bean cooking liquid or water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "culantro or cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "eggs"
+   }
+  ],
+  "steps": [
+   "Cook the onion, pepper and garlic in the oil for 5 minutes.",
+   "Add the beans, liquid and salt and cook 15 minutes.",
+   "Blend half the soup and return it to the pot.",
+   "Crack the eggs into the soup and poach 4 minutes.",
+   "Finish with the culantro."
+  ],
+  "tips": [
+   "Blending only half keeps it thick with whole beans.",
+   "It's also served with a halved hard-boiled egg instead of poached."
+  ],
+  "video": "costa rican black bean soup recipe"
+ },
+ "added": "2026-09-30"
+}

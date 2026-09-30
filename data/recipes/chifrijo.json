@@ -1,0 +1,181 @@
+{
+ "id": "chifrijo",
+ "country": "Costa Rica",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "porkbelly",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "tortillachips",
+   "role": "crunch"
+  }
+ ],
+ "es": {
+  "name": "Chifrijo",
+  "blurb": "Arroz, frijoles, chicharrón y pico de gallo en un tazón, con aguacate y tortillas tostadas. Boca de bar tica.",
+  "ing": [
+   {
+    "n": "panceta de cerdo",
+    "note": "en dados"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "frijoles rojos cocidos",
+    "note": "con un poco de su líquido"
+   },
+   {
+    "n": "arroz blanco cocido"
+   },
+   {
+    "n": "tomates",
+    "note": "en dados"
+   },
+   {
+    "n": "cebolla",
+    "note": "en dados"
+   },
+   {
+    "n": "culantro",
+    "note": "picado"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "aguacate",
+    "note": "en dados"
+   },
+   {
+    "n": "tortillas tostadas"
+   }
+  ],
+  "steps": [
+   "Cuece la panceta con la sal y un poco de agua hasta que el agua se evapore y se fría en su grasa, unos 25 minutos.",
+   "Mezcla el tomate, la cebolla, el culantro y el jugo de limón.",
+   "Calienta los frijoles.",
+   "En cada tazón pon arroz, frijoles y chicharrón.",
+   "Termina con el pico de gallo, el aguacate y las tortillas tostadas."
+  ],
+  "tips": [
+   "Arma los tazones justo al servir para que el chicharrón siga crujiente.",
+   "Es un plato de bar para compartir con los amigos."
+  ],
+  "video": "chifrijo costarricense receta"
+ },
+ "en": {
+  "name": "Chifrijo (Costa Rican Rice, Beans and Pork Bowl)",
+  "blurb": "Rice, beans, crackling and pico de gallo in a bowl, with avocado and tortilla chips. A Tico bar snack.",
+  "ing": [
+   {
+    "n": "pork belly",
+    "note": "diced"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cooked red beans",
+    "note": "with a little liquid"
+   },
+   {
+    "n": "cooked white rice"
+   },
+   {
+    "n": "tomatoes",
+    "note": "diced"
+   },
+   {
+    "n": "onion",
+    "note": "diced"
+   },
+   {
+    "n": "culantro or cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "avocado",
+    "note": "diced"
+   },
+   {
+    "n": "tortilla chips"
+   }
+  ],
+  "steps": [
+   "Cook the pork belly with the salt and a little water until the water evaporates and it fries in its own fat, about 25 minutes.",
+   "Mix the tomato, onion, culantro and lime juice.",
+   "Heat the beans.",
+   "In each bowl layer rice, beans and crackling.",
+   "Finish with the pico de gallo, avocado and tortilla chips."
+  ],
+  "tips": [
+   "Build the bowls just before serving so the crackling stays crisp.",
+   "It's a bar dish for sharing with friends."
+  ],
+  "video": "chifrijo recipe"
+ },
+ "added": "2026-09-30"
+}

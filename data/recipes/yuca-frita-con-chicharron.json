@@ -1,0 +1,177 @@
+{
+ "id": "yuca-frita-con-chicharron",
+ "country": "El Salvador",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "porkbelly",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "veg",
+   "role": "serve"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "serve"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "serve"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "whitevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "tomato",
+   "role": "sauce"
+  }
+ ],
+ "es": {
+  "name": "Yuca frita con chicharrón",
+  "blurb": "Yuca cocida y frita con chicharrones, curtido y salsa de tomate. Comida de feria salvadoreña.",
+  "ing": [
+   {
+    "n": "yuca",
+    "note": "pelada, en trozos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "panceta de cerdo",
+    "note": "en dados"
+   },
+   {
+    "n": "repollo",
+    "note": "en tiras finas"
+   },
+   {
+    "n": "zanahoria",
+    "note": "rallada"
+   },
+   {
+    "n": "cebolla",
+    "note": "en pluma fina"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "salsa de tomate natural"
+   }
+  ],
+  "steps": [
+   "Hierve la yuca en agua con 1 cucharadita de sal 25 minutos, hasta que esté tierna. Escurre, quita la fibra central y seca.",
+   "Cuece la panceta con un poco de agua y el resto de la sal a fuego medio hasta que el agua se evapore y se fría en su grasa, unos 30 minutos.",
+   "Fríe la yuca a 180 °C durante 5 minutos, hasta que esté dorada.",
+   "Calienta la salsa de tomate. Mezcla el repollo, la zanahoria, la cebolla y el orégano con el vinagre para el curtido.",
+   "Sirve la yuca con los chicharrones, el curtido y la salsa por encima."
+  ],
+  "tips": [
+   "La yuca cocida y bien seca antes de freír queda crujiente por fuera y cremosa por dentro.",
+   "El curtido gana sabor si lo preparas unas horas antes."
+  ],
+  "video": "yuca frita con chicharrón salvadoreña"
+ },
+ "en": {
+  "name": "Yuca Frita con Chicharrón (Fried Cassava with Pork)",
+  "blurb": "Boiled then fried cassava with pork crackling, curtido and tomato sauce. Salvadoran fair food.",
+  "ing": [
+   {
+    "n": "cassava",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "pork belly",
+    "note": "diced"
+   },
+   {
+    "n": "cabbage",
+    "note": "finely shredded"
+   },
+   {
+    "n": "carrot",
+    "note": "grated"
+   },
+   {
+    "n": "onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "plain tomato sauce"
+   }
+  ],
+  "steps": [
+   "Boil the cassava in water with 1 teaspoon of salt for 25 minutes, until tender. Drain, remove the core and dry.",
+   "Cook the pork belly with a little water and the rest of the salt over medium heat until the water evaporates and it fries in its own fat, about 30 minutes.",
+   "Fry the cassava at 180 °C for 5 minutes, until golden.",
+   "Heat the tomato sauce. Toss the cabbage, carrot, onion and oregano with the vinegar to make the curtido.",
+   "Serve the cassava with the crackling, curtido and sauce over the top."
+  ],
+  "tips": [
+   "Boiled cassava dried well before frying turns crisp outside and creamy inside.",
+   "The curtido tastes better made a few hours ahead."
+  ],
+  "video": "yuca frita con chicharron recipe"
+ },
+ "added": "2026-09-30"
+}

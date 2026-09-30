@@ -1,0 +1,203 @@
+{
+ "id": "chuchitos",
+ "country": "Guatemala",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 600,
+   "u": "ml",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 24,
+   "u": "",
+   "k": "cornhusk",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Chuchitos",
+  "blurb": "Tamalitos firmes de masa con pollo en recado de tomate y chiles, envueltos en tusa. Guatemaltecos, con queso seco.",
+  "ing": [
+   {
+    "n": "harina de maíz nixtamalizado"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pollo",
+    "note": "en trocitos"
+   },
+   {
+    "n": "tomates"
+   },
+   {
+    "n": "chiles guaque",
+    "note": "sin semillas"
+   },
+   {
+    "n": "chile pasa",
+    "note": "sin semillas"
+   },
+   {
+    "n": "cebolla",
+    "note": "en trozos"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "tusas (hojas de maíz)",
+    "note": "remojadas"
+   },
+   {
+    "n": "queso seco",
+    "note": "rallado"
+   }
+  ],
+  "steps": [
+   "Asa los tomates, los chiles, la cebolla y el ajo en un comal 8 minutos. Licúa y cuece 10 minutos con el pollo.",
+   "Bate la manteca 3 minutos, añade la harina, el caldo y la sal y amasa hasta que esté suave.",
+   "Pon 3 cucharadas de masa en cada tusa, un trozo de pollo con recado en el centro y cierra.",
+   "Dobla la punta y ata con una tira de tusa.",
+   "Cuece al vapor 60 minutos. Sirve con queso seco por encima."
+  ],
+  "tips": [
+   "Los chuchitos son más firmes que otros tamales; no añadas más caldo.",
+   "Guarda algo de recado para bañarlos al servir."
+  ],
+  "video": "chuchitos guatemaltecos receta"
+ },
+ "en": {
+  "name": "Chuchitos (Guatemalan Tamales)",
+  "blurb": "Small, firm masa tamales with chicken in a tomato and chilli sauce, wrapped in corn husk. Served with dry cheese.",
+  "ing": [
+   {
+    "n": "nixtamalised corn flour (masa harina)"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "chicken",
+    "note": "in small pieces"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "guajillo chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "pasilla chilli",
+    "note": "seeded"
+   },
+   {
+    "n": "onion",
+    "note": "in chunks"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "corn husks",
+    "note": "soaked"
+   },
+   {
+    "n": "dry crumbly cheese",
+    "note": "grated"
+   }
+  ],
+  "steps": [
+   "Toast the tomatoes, chillies, onion and garlic on a griddle for 8 minutes. Blend and simmer 10 minutes with the chicken.",
+   "Beat the lard 3 minutes, add the flour, stock and salt and knead until soft.",
+   "Put 3 tablespoons of dough on each husk, a piece of chicken with sauce in the middle and close.",
+   "Fold the tip and tie with a strip of husk.",
+   "Steam 60 minutes. Serve with dry cheese on top."
+  ],
+  "tips": [
+   "Chuchitos are firmer than other tamales; don't add more stock.",
+   "Keep some sauce to spoon over them at the table."
+  ],
+  "video": "chuchitos recipe"
+ },
+ "added": "2026-09-30"
+}

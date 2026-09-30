@@ -1,0 +1,207 @@
+{
+ "id": "sopa-de-caracol",
+ "country": "Honduras",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "clam",
+   "role": "protein"
+  },
+  {
+   "q": 800,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Sopa de caracol",
+  "blurb": "Sopa de concha en leche de coco con plátano verde y yuca. La costa caribeña de Honduras en un plato.",
+  "ing": [
+   {
+    "n": "carne de caracol (concha)",
+    "note": "limpia y golpeada"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "chile dulce",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "plátanos verdes",
+    "note": "en trozos"
+   },
+   {
+    "n": "yuca",
+    "note": "en trozos"
+   },
+   {
+    "n": "culantro o cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "limón",
+    "note": "en gajos"
+   }
+  ],
+  "steps": [
+   "Cuece el caracol en el agua 20 minutos. Sácalo, córtalo en trozos y guarda el agua.",
+   "Sofríe la cebolla, el chile dulce y el ajo en el aceite 5 minutos.",
+   "Añade el agua de cocción, el plátano, la yuca y la sal y cuece 20 minutos.",
+   "Añade la leche de coco y el caracol y cuece 10 minutos a fuego bajo.",
+   "Termina con el culantro y sirve con el limón."
+  ],
+  "tips": [
+   "Golpear el caracol con un mazo antes de cocerlo lo ablanda.",
+   "No dejes que hierva fuerte después de la leche de coco o se corta."
+  ],
+  "video": "sopa de caracol hondureña"
+ },
+ "en": {
+  "name": "Sopa de Caracol (Honduran Conch Soup)",
+  "blurb": "Conch soup in coconut milk with green plantain and cassava. The Caribbean coast of Honduras in a bowl.",
+  "ing": [
+   {
+    "n": "conch meat",
+    "note": "cleaned and pounded"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "green plantains",
+    "note": "in chunks"
+   },
+   {
+    "n": "cassava",
+    "note": "in chunks"
+   },
+   {
+    "n": "culantro or cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "lime",
+    "note": "in wedges"
+   }
+  ],
+  "steps": [
+   "Simmer the conch in the water for 20 minutes. Lift out, cut into pieces and keep the water.",
+   "Cook the onion, sweet pepper and garlic in the oil for 5 minutes.",
+   "Add the cooking water, plantain, cassava and salt and cook 20 minutes.",
+   "Add the coconut milk and conch and cook 10 minutes on low.",
+   "Finish with the culantro and serve with the lime."
+  ],
+  "tips": [
+   "Pounding the conch with a mallet before cooking tenderises it.",
+   "Don't let it boil hard after adding the coconut milk or it splits."
+  ],
+  "video": "honduran conch soup recipe"
+ },
+ "added": "2026-09-30"
+}
