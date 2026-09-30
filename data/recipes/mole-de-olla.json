@@ -1,0 +1,245 @@
+{
+ "id": "mole-de-olla",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 180,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "ancho",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "corn",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "veg",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "potato",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Mole de olla",
+  "blurb": "El caldo rojo de res con chile guajillo y ancho, lleno de elote, calabacita y chayote. Nada que ver con el mole de fiesta: este es de diario.",
+  "ing": [
+   {
+    "n": "chambarete de res con hueso",
+    "note": "en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla blanca"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "sin semillas"
+   },
+   {
+    "n": "chiles anchos",
+    "note": "sin semillas"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "elotes",
+    "note": "en rodajas gruesas"
+   },
+   {
+    "n": "calabacitas",
+    "note": "en trozos"
+   },
+   {
+    "n": "chayote",
+    "note": "pelado, en trozos"
+   },
+   {
+    "n": "ejotes",
+    "note": "en trozos"
+   },
+   {
+    "n": "papas",
+    "note": "en cubos"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "limones",
+    "note": "en cuartos"
+   }
+  ],
+  "steps": [
+   "Pon la carne en la olla con el agua, la cebolla, 2 dientes de ajo y la sal. Hierve, espuma y cuece tapado a fuego bajo 2 horas, hasta que la carne esté tierna.",
+   "Remoja los chiles en agua caliente 15 minutos. Licúalos con los jitomates, 2 dientes de ajo y 250 ml del líquido de la olla. Cuela.",
+   "Vierte el chile colado a la olla y hierve 10 minutos.",
+   "Añade el elote y la papa; cuece 10 minutos. Añade el chayote y los ejotes; 8 minutos. Termina con la calabacita y el epazote, 5 minutos.",
+   "Prueba de sal y sirve con limón."
+  ],
+  "tips": [
+   "Colar el chile es lo que da un caldo liso en vez de uno con pellejos.",
+   "Las verduras van por orden de dureza para que ninguna quede deshecha."
+  ],
+  "video": "mole de olla receta"
+ },
+ "en": {
+  "name": "Mole de Olla (Beef and Vegetable Chile Soup)",
+  "blurb": "The red beef soup with guajillo and ancho chiles, full of corn, zucchini and chayote. Nothing like party mole: this one is for every day.",
+  "ing": [
+   {
+    "n": "bone-in beef shank",
+    "note": "in pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "white onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "guajillo chiles",
+    "note": "seeded"
+   },
+   {
+    "n": "ancho chiles",
+    "note": "seeded"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "ears of corn",
+    "note": "cut in thick rounds"
+   },
+   {
+    "n": "zucchini",
+    "note": "in chunks"
+   },
+   {
+    "n": "chayote",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "green beans",
+    "note": "in pieces"
+   },
+   {
+    "n": "potatoes",
+    "note": "cubed"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "limes",
+    "note": "quartered"
+   }
+  ],
+  "steps": [
+   "Put the beef in the pot with the water, onion, 2 garlic cloves and the salt. Bring to a boil, skim and simmer covered on low for 2 hours, until tender.",
+   "Soak the chiles in hot water for 15 minutes. Blend them with the tomatoes, 2 garlic cloves and 250 ml of the cooking liquid. Strain.",
+   "Pour the strained chile into the pot and boil 10 minutes.",
+   "Add the corn and potato; cook 10 minutes. Add the chayote and green beans; 8 minutes. Finish with the zucchini and epazote, 5 minutes.",
+   "Taste for salt and serve with lime."
+  ],
+  "tips": [
+   "Straining the chile is what gives a smooth soup instead of one full of skins.",
+   "The vegetables go in by hardness so none turns to mush."
+  ],
+  "video": "mole de olla recipe"
+ },
+ "added": "2026-09-30"
+}

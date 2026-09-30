@@ -1,0 +1,165 @@
+{
+ "id": "tacos-de-papa",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "potato",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chipotle",
+   "role": "aromatic"
+  },
+  {
+   "q": 16,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.25,
+   "u": "head",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "crema",
+   "role": "garnish"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "tomatillo",
+   "role": "sauce"
+  }
+ ],
+ "es": {
+  "name": "Tacos dorados de papa",
+  "blurb": "Tortillas rellenas de puré de papa, fritas hasta crujir y cubiertas de col, crema, queso y salsa verde. Baratos y de los más queridos.",
+  "ing": [
+   {
+    "n": "papas blancas",
+    "note": "peladas, en trozos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "chile chipotle en adobo",
+    "note": "picado, opcional"
+   },
+   {
+    "n": "tortillas de maíz"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "col o lechuga",
+    "note": "rebanada fina"
+   },
+   {
+    "n": "crema mexicana"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmoronado"
+   },
+   {
+    "n": "salsa verde"
+   }
+  ],
+  "steps": [
+   "Hierve las papas en agua con sal 20 minutos, hasta que estén blandas. Escurre y machaca con el chipotle.",
+   "Calienta las tortillas para que se doblen sin romperse.",
+   "Pon 2 cucharadas de papa en cada tortilla, enróllala y ciérrala con un palillo.",
+   "Calienta el aceite en un sartén a fuego medio. Fríe los tacos 3 minutos por lado, hasta que estén dorados. Escurre en papel.",
+   "Sirve con la col, la crema, el queso y la salsa."
+  ],
+  "tips": [
+   "Fríelos con la costura hacia abajo primero: así se sellan y puedes quitar el palillo.",
+   "La salsa verde puede ser la de tomatillo cocido de los chilaquiles."
+  ],
+  "video": "tacos dorados de papa receta"
+ },
+ "en": {
+  "name": "Crispy Potato Tacos",
+  "blurb": "Tortillas filled with mashed potato, fried until crisp and topped with cabbage, crema, cheese and green salsa. Cheap and much loved.",
+  "ing": [
+   {
+    "n": "white potatoes",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "chipotle in adobo",
+    "note": "chopped, optional"
+   },
+   {
+    "n": "corn tortillas"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "cabbage or lettuce",
+    "note": "finely shredded"
+   },
+   {
+    "n": "Mexican crema"
+   },
+   {
+    "n": "queso fresco",
+    "note": "crumbled"
+   },
+   {
+    "n": "green salsa"
+   }
+  ],
+  "steps": [
+   "Boil the potatoes in salted water for 20 minutes, until soft. Drain and mash with the chipotle.",
+   "Warm the tortillas so they fold without cracking.",
+   "Put 2 tablespoons of potato on each tortilla, roll it up and pin it with a toothpick.",
+   "Heat the oil in a pan over medium heat. Fry the tacos 3 minutes per side, until golden. Drain on paper.",
+   "Serve with the cabbage, crema, cheese and salsa."
+  ],
+  "tips": [
+   "Fry them seam-side down first: they seal shut and you can pull the toothpick.",
+   "The green salsa can be the cooked tomatillo one from the chilaquiles."
+  ],
+  "video": "tacos dorados de papa recipe"
+ },
+ "added": "2026-09-30"
+}

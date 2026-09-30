@@ -1,0 +1,241 @@
+{
+ "id": "sopa-de-lima",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 2,
+   "u": "thigh",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "corntortilla",
+   "role": "crunch"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Sopa de lima",
+  "blurb": "El caldo de pollo de Yucatán perfumado con lima, pimienta gorda y clavo, con tiras de tortilla frita encima.",
+  "ing": [
+   {
+    "n": "muslos de pollo con hueso"
+   },
+   {
+    "n": "pechuga de pollo con hueso"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "en tiras"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "en tiras"
+   },
+   {
+    "n": "jitomates",
+    "note": "picados"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "pimientas gordas"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "limas yucatecas (o limones)",
+    "note": "2 en jugo, 1 en rodajas"
+   },
+   {
+    "n": "tortillas de maíz",
+    "note": "en tiras"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "cilantro"
+   }
+  ],
+  "steps": [
+   "Pon el pollo, el agua, la mitad de la cebolla, 2 dientes de ajo, la pimienta gorda, el clavo y la sal en una olla. Cuece 40 minutos a fuego bajo.",
+   "Saca el pollo, deshébralo y cuela el líquido de la olla.",
+   "En otra olla con 1 cucharada de aceite, sofríe el resto de la cebolla, el ajo picado y el pimiento 5 minutos. Añade el jitomate y el orégano, 5 minutos más.",
+   "Vierte el líquido colado y hierve 10 minutos. Añade el pollo y el jugo de lima; apaga el fuego enseguida.",
+   "Fríe las tiras de tortilla en el aceite hasta que estén doradas y escurre.",
+   "Sirve con rodajas de lima, tiras de tortilla y cilantro."
+  ],
+  "tips": [
+   "El jugo de lima va al final y sin hervir: hervido se amarga.",
+   "Echa las tiras de tortilla al servir, no antes, para que crujan."
+  ],
+  "video": "sopa de lima yucateca receta"
+ },
+ "en": {
+  "name": "Yucatán Lime Soup",
+  "blurb": "Yucatán's chicken soup scented with sweet lime, allspice and clove, topped with crisp tortilla strips.",
+  "ing": [
+   {
+    "n": "bone-in chicken thighs"
+   },
+   {
+    "n": "bone-in chicken breast"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "white onion",
+    "note": "sliced"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "sliced"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "allspice berries"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "Yucatán sweet limes (or limes)",
+    "note": "2 juiced, 1 sliced"
+   },
+   {
+    "n": "corn tortillas",
+    "note": "in strips"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "cilantro"
+   }
+  ],
+  "steps": [
+   "Put the chicken, water, half the onion, 2 garlic cloves, allspice, cloves and salt in a pot. Simmer 40 minutes on low.",
+   "Lift out the chicken, shred it and strain the cooking liquid.",
+   "In another pot with 1 tablespoon of the oil, cook the rest of the onion, the chopped garlic and the bell pepper for 5 minutes. Add the tomato and oregano, 5 minutes more.",
+   "Pour in the strained liquid and boil 10 minutes. Add the chicken and lime juice; turn off the heat right away.",
+   "Fry the tortilla strips in the oil until golden and drain.",
+   "Serve with lime slices, tortilla strips and cilantro."
+  ],
+  "tips": [
+   "The lime juice goes in at the end and is never boiled: boiled, it turns bitter.",
+   "Add the tortilla strips at the table, not before, so they stay crisp."
+  ],
+  "video": "sopa de lima recipe"
+ },
+ "added": "2026-09-30"
+}

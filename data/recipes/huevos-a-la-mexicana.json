@@ -1,0 +1,149 @@
+{
+ "id": "huevos-a-la-mexicana",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 15,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "corntortilla",
+   "role": "serve"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "legume",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Huevos a la mexicana",
+  "blurb": "Huevos revueltos con jitomate, cebolla y chile: los colores de la bandera en el desayuno.",
+  "ing": [
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "jitomate",
+    "note": "picado"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "picada"
+   },
+   {
+    "n": "chile serrano",
+    "note": "picado"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "tortillas de maíz",
+    "note": "calientes"
+   },
+   {
+    "n": "frijoles refritos"
+   }
+  ],
+  "steps": [
+   "Calienta el aceite y sofríe la cebolla y el chile 2 minutos.",
+   "Añade el jitomate y cuece 3 minutos, hasta que suelte su jugo y se seque un poco.",
+   "Bate los huevos con la sal, viértelos y mueve a fuego medio-bajo hasta que cuajen pero sigan brillantes.",
+   "Sirve con tortillas y frijoles."
+  ],
+  "tips": [
+   "Cocer el jitomate antes evita que los huevos queden aguados.",
+   "Apaga el fuego un momento antes de que se vean listos; el calor del sartén los termina."
+  ],
+  "video": "huevos a la mexicana receta"
+ },
+ "en": {
+  "name": "Mexican-Style Scrambled Eggs",
+  "blurb": "Eggs scrambled with tomato, onion and chile: the colours of the flag at breakfast.",
+  "ing": [
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "tomato",
+    "note": "chopped"
+   },
+   {
+    "n": "white onion",
+    "note": "chopped"
+   },
+   {
+    "n": "serrano chile",
+    "note": "chopped"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "corn tortillas",
+    "note": "warm"
+   },
+   {
+    "n": "refried beans"
+   }
+  ],
+  "steps": [
+   "Heat the oil and cook the onion and chile for 2 minutes.",
+   "Add the tomato and cook 3 minutes, until it releases its juice and dries a little.",
+   "Beat the eggs with the salt, pour them in and stir over medium-low heat until set but still glossy.",
+   "Serve with tortillas and beans."
+  ],
+  "tips": [
+   "Cooking the tomato first keeps the eggs from turning watery.",
+   "Turn off the heat just before they look done; the pan finishes them."
+  ],
+  "video": "huevos a la mexicana recipe"
+ },
+ "added": "2026-09-30"
+}

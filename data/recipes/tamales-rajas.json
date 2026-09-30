@@ -1,0 +1,187 @@
+{
+ "id": "tamales-rajas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 180,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 25,
+   "u": "",
+   "k": "cornhusk",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Tamales de rajas con queso",
+  "blurb": "Masa batida con manteca hasta que flota, rellena de chile poblano, jitomate y queso que se derrite. Tamales para una tarde con familia.",
+  "ing": [
+   {
+    "n": "masa fresca de maíz para tamales"
+   },
+   {
+    "n": "manteca de cerdo",
+    "note": "a temperatura ambiente"
+   },
+   {
+    "n": "caldo de pollo",
+    "note": "tibio"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "chiles poblanos",
+    "note": "asados, pelados, en tiras"
+   },
+   {
+    "n": "jitomates",
+    "note": "en rodajas finas"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "en tiras"
+   },
+   {
+    "n": "queso Oaxaca",
+    "note": "deshebrado"
+   },
+   {
+    "n": "hojas de maíz para tamal",
+    "note": "remojadas"
+   }
+  ],
+  "steps": [
+   "Remoja las hojas en agua caliente 30 minutos hasta que estén flexibles. Escúrrelas.",
+   "Bate la manteca con una batidora 3 minutos hasta que esté blanca y esponjosa.",
+   "Añade la masa en 4 partes, alternando con el caldo tibio, la sal y el polvo de hornear. Bate 10 minutos más.",
+   "Prueba de flotación: una bolita de masa en un vaso de agua fría debe flotar. Si se hunde, bate 5 minutos más.",
+   "Unta 2 cucharadas de masa en la parte ancha de cada hoja, dejando borde. Pon rajas, 1 rodaja de jitomate, cebolla y queso en el centro.",
+   "Dobla los lados sobre el relleno y luego la punta hacia atrás.",
+   "Acomoda los tamales de pie, con el doblez abajo, en una vaporera con agua que no los toque. Tapa con hojas sobrantes y un trapo.",
+   "Cuece a vapor 60 a 75 minutos. Están listos cuando la masa se despega sola de la hoja. Reposa 15 minutos antes de servir."
+  ],
+  "tips": [
+   "Pon una moneda en el agua de la vaporera: mientras suene, hay agua. Cuando deje de sonar, añade agua caliente.",
+   "Congelados en su hoja duran 3 meses; se recalientan al vapor 20 minutos."
+  ],
+  "video": "tamales de rajas con queso receta"
+ },
+ "en": {
+  "name": "Poblano and Cheese Tamales",
+  "blurb": "Masa whipped with lard until it floats, filled with poblano, tomato and melting cheese. Tamales for an afternoon with family.",
+  "ing": [
+   {
+    "n": "fresh corn masa for tamales"
+   },
+   {
+    "n": "lard",
+    "note": "at room temperature"
+   },
+   {
+    "n": "chicken stock",
+    "note": "warm"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "poblano chiles",
+    "note": "roasted, peeled, cut in strips"
+   },
+   {
+    "n": "tomatoes",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "white onion",
+    "note": "sliced"
+   },
+   {
+    "n": "Oaxaca cheese",
+    "note": "pulled into strands"
+   },
+   {
+    "n": "corn husks for tamales",
+    "note": "soaked"
+   }
+  ],
+  "steps": [
+   "Soak the husks in hot water for 30 minutes until pliable. Drain.",
+   "Beat the lard with a mixer for 3 minutes until white and fluffy.",
+   "Add the masa in 4 parts, alternating with the warm stock, the salt and the baking powder. Beat 10 minutes more.",
+   "Float test: a small ball of masa dropped in a glass of cold water should float. If it sinks, beat 5 minutes more.",
+   "Spread 2 tablespoons of masa on the wide end of each husk, leaving a border. Put poblano strips, 1 tomato slice, onion and cheese in the middle.",
+   "Fold the sides over the filling, then fold the tip back.",
+   "Stand the tamales upright, fold down, in a steamer with water that doesn't touch them. Cover with leftover husks and a towel.",
+   "Steam 60 to 75 minutes. They are done when the masa pulls cleanly away from the husk. Rest 15 minutes before serving."
+  ],
+  "tips": [
+   "Drop a coin in the steamer water: while it rattles, there is water. When it goes quiet, add hot water.",
+   "Frozen in their husks they keep 3 months; reheat by steaming 20 minutes."
+  ],
+  "video": "rajas con queso tamales recipe"
+ },
+ "added": "2026-09-30"
+}

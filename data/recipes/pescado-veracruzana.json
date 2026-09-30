@@ -1,0 +1,187 @@
+{
+ "id": "pescado-veracruzana",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "fillet",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "olives",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "capers",
+   "role": "umami"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "pickledpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Pescado a la veracruzana",
+  "blurb": "Pescado blanco en una salsa de jitomate con aceitunas, alcaparras y chiles güeros. El cruce de España y Veracruz en un solo sartén.",
+  "ing": [
+   {
+    "n": "filetes de huachinango o robalo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "en tiras"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "jitomates",
+    "note": "picados"
+   },
+   {
+    "n": "aceitunas verdes",
+    "note": "sin hueso"
+   },
+   {
+    "n": "alcaparras"
+   },
+   {
+    "n": "chiles güeros en escabeche"
+   },
+   {
+    "n": "hojas de laurel"
+   },
+   {
+    "n": "orégano seco"
+   }
+  ],
+  "steps": [
+   "Sala el pescado y déjalo 10 minutos.",
+   "Calienta el aceite en un sartén ancho y sofríe la cebolla 5 minutos. Añade el ajo 1 minuto.",
+   "Añade el jitomate, el laurel y el orégano. Cuece 10 minutos hasta que espese.",
+   "Añade las aceitunas, las alcaparras y los chiles.",
+   "Acomoda el pescado encima, cúbrelo con salsa, tapa y cuece 8 a 10 minutos, hasta que se separe en lajas."
+  ],
+  "tips": [
+   "Las aceitunas y alcaparras ya son saladas: prueba antes de añadir más sal a la salsa.",
+   "Con arroz blanco para recoger la salsa."
+  ],
+  "video": "pescado a la veracruzana receta"
+ },
+ "en": {
+  "name": "Veracruz-Style Fish",
+  "blurb": "White fish in a tomato sauce with olives, capers and güero chiles. Spain meets Veracruz in one pan.",
+  "ing": [
+   {
+    "n": "red snapper or sea bass fillets"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "white onion",
+    "note": "sliced"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "green olives",
+    "note": "pitted"
+   },
+   {
+    "n": "capers"
+   },
+   {
+    "n": "pickled güero chiles"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "dried oregano"
+   }
+  ],
+  "steps": [
+   "Salt the fish and let it sit 10 minutes.",
+   "Heat the oil in a wide pan and cook the onion 5 minutes. Add the garlic for 1 minute.",
+   "Add the tomato, bay and oregano. Cook 10 minutes until thick.",
+   "Add the olives, capers and chiles.",
+   "Lay the fish on top, spoon sauce over it, cover and cook 8 to 10 minutes, until it flakes."
+  ],
+  "tips": [
+   "Olives and capers are already salty: taste before adding more salt to the sauce.",
+   "Serve with white rice to catch the sauce."
+  ],
+  "video": "veracruz style fish recipe"
+ },
+ "added": "2026-09-30"
+}

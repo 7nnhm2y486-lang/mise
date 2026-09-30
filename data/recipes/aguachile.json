@@ -1,0 +1,152 @@
+{
+ "id": "aguachile",
+ "country": "Mexico",
+ "countryEs": "México",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 10,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "protein"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Aguachile verde",
+  "blurb": "Camarón crudo curado en limón con serrano y cilantro licuados. Frío, ácido y muy picante: la comida de playa de Sinaloa.",
+  "ing": [
+   {
+    "n": "camarones crudos muy frescos",
+    "note": "pelados, abiertos en mariposa"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "chiles serranos"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pepino",
+    "note": "en medias lunas"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "en tiras finas"
+   },
+   {
+    "n": "aguacate",
+    "note": "en rebanadas"
+   }
+  ],
+  "steps": [
+   "Licúa el jugo de limón con los serranos, la mitad del cilantro y la sal.",
+   "Extiende los camarones en un plato hondo, cúbrelos con la mezcla y refrigera 15 minutos, hasta que estén opacos por fuera.",
+   "Añade el pepino y la cebolla. Mezcla.",
+   "Sirve de inmediato con aguacate y el resto del cilantro."
+  ],
+  "tips": [
+   "El limón no cuece como el fuego: usa camarón muy fresco o que se congeló antes. En embarazo o con defensas bajas, cuécelo 2 minutos en agua hirviendo y enfría antes.",
+   "Más de 30 minutos en el limón y el camarón queda chicloso."
+  ],
+  "video": "aguachile verde receta"
+ },
+ "en": {
+  "name": "Green Aguachile",
+  "blurb": "Raw shrimp cured in lime with blended serrano and cilantro. Cold, sharp and very hot: beach food from Sinaloa.",
+  "ing": [
+   {
+    "n": "very fresh raw shrimp",
+    "note": "peeled, butterflied"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "serrano chiles"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cucumber",
+    "note": "in half-moons"
+   },
+   {
+    "n": "red onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "avocado",
+    "note": "sliced"
+   }
+  ],
+  "steps": [
+   "Blend the lime juice with the serranos, half the cilantro and the salt.",
+   "Spread the shrimp in a shallow dish, cover with the mixture and chill 15 minutes, until opaque outside.",
+   "Add the cucumber and onion. Toss.",
+   "Serve right away with avocado and the rest of the cilantro."
+  ],
+  "tips": [
+   "Lime does not cook like heat does: use very fresh or previously frozen shrimp. If pregnant or immunocompromised, boil the shrimp 2 minutes and chill first.",
+   "More than 30 minutes in lime and the shrimp turns rubbery."
+  ],
+  "video": "aguachile recipe"
+ },
+ "added": "2026-09-30"
+}

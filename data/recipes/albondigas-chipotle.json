@@ -1,0 +1,183 @@
+{
+ "id": "albondigas-chipotle",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chipotle",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Albóndigas en chipotle",
+  "blurb": "Albóndigas de res con arroz y hierbabuena, cocidas en un caldillo de jitomate y chipotle. El arroz se cuece dentro y las deja suaves.",
+  "ing": [
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "arroz crudo",
+    "note": "enjuagado"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "hierbabuena",
+    "note": "picada"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "chiles chipotles en adobo"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Mezcla la carne, el arroz, el huevo, la hierbabuena y la sal con las manos. Forma 16 bolas.",
+   "Licúa los jitomates, los chipotles, la cebolla, el ajo y el caldo.",
+   "Calienta el aceite en una olla ancha y fríe la salsa 5 minutos, hasta que cambie de color.",
+   "Baja el fuego, acomoda las albóndigas en la salsa sin moverlas y tapa.",
+   "Cuece 35 minutos a fuego bajo. Muévelas con cuidado a la mitad. Están listas cuando el arroz de dentro está suave."
+  ],
+  "tips": [
+   "No aprietes al formarlas: si la mezcla queda compacta, las albóndigas quedan duras.",
+   "Empieza con 1 chipotle y añade más al final si quieres más picante."
+  ],
+  "video": "albondigas en chipotle receta"
+ },
+ "en": {
+  "name": "Meatballs in Chipotle Sauce",
+  "blurb": "Beef meatballs with rice and mint, simmered in a tomato and chipotle broth. The rice cooks inside and keeps them tender.",
+  "ing": [
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "uncooked rice",
+    "note": "rinsed"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "mint",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "chipotles in adobo"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Mix the beef, rice, egg, mint and salt with your hands. Shape 16 balls.",
+   "Blend the tomatoes, chipotles, onion, garlic and stock.",
+   "Heat the oil in a wide pot and fry the sauce for 5 minutes, until it darkens.",
+   "Lower the heat, set the meatballs in the sauce without stirring and cover.",
+   "Simmer 35 minutes on low. Turn them gently halfway. They are done when the rice inside is soft."
+  ],
+  "tips": [
+   "Don't squeeze when shaping: a packed mixture makes tough meatballs.",
+   "Start with 1 chipotle and add more at the end if you want more heat."
+  ],
+  "video": "albondigas en chipotle recipe"
+ },
+ "added": "2026-09-30"
+}

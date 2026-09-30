@@ -1,0 +1,205 @@
+{
+ "id": "coctel-de-camaron",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "ketchup",
+   "role": "sauce"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "hotsauce",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "protein"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "tortillachips",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Cóctel de camarón",
+  "blurb": "Camarón en su propia agua de cocción fría con catsup, limón y verduras picadas. Se sirve en copa, con totopos y salsa picante al gusto.",
+  "ing": [
+   {
+    "n": "camarones medianos",
+    "note": "pelados"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "catsup"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "salsa picante"
+   },
+   {
+    "n": "jitomates",
+    "note": "en cubos"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "picada"
+   },
+   {
+    "n": "pepino",
+    "note": "en cubos"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "aguacate",
+    "note": "en cubos"
+   },
+   {
+    "n": "totopos"
+   }
+  ],
+  "steps": [
+   "Hierve el agua con la sal. Añade los camarones y apaga el fuego. Déjalos 3 minutos, hasta que estén rosados.",
+   "Sácalos y enfría el agua de cocción. Guarda 250 ml.",
+   "Mezcla el agua de cocción fría con la catsup, el limón y la salsa picante.",
+   "Añade los camarones, el jitomate, la cebolla, el pepino y el cilantro. Refrigera 20 minutos.",
+   "Sirve en vasos con el aguacate encima y totopos al lado."
+  ],
+  "tips": [
+   "Apagar el fuego y dejarlos en el agua caliente los mantiene jugosos.",
+   "El agua de cocción da el sabor a mar; no la cambies por agua simple."
+  ],
+  "video": "coctel de camaron mexicano receta"
+ },
+ "en": {
+  "name": "Mexican Shrimp Cocktail",
+  "blurb": "Shrimp in their own chilled cooking water with ketchup, lime and chopped vegetables. Served in a glass with tortilla chips and hot sauce to taste.",
+  "ing": [
+   {
+    "n": "medium shrimp",
+    "note": "peeled"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ketchup"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "hot sauce"
+   },
+   {
+    "n": "tomatoes",
+    "note": "diced"
+   },
+   {
+    "n": "white onion",
+    "note": "chopped"
+   },
+   {
+    "n": "cucumber",
+    "note": "diced"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "avocado",
+    "note": "diced"
+   },
+   {
+    "n": "tortilla chips"
+   }
+  ],
+  "steps": [
+   "Boil the water with the salt. Add the shrimp and turn off the heat. Leave them 3 minutes, until pink.",
+   "Lift them out and chill the cooking water. Keep 250 ml.",
+   "Mix the cold cooking water with the ketchup, lime and hot sauce.",
+   "Add the shrimp, tomato, onion, cucumber and cilantro. Chill 20 minutes.",
+   "Serve in glasses with avocado on top and chips on the side."
+  ],
+  "tips": [
+   "Turning off the heat and leaving them in the hot water keeps them juicy.",
+   "The cooking water carries the taste of the sea; don't swap it for plain water."
+  ],
+  "video": "mexican shrimp cocktail recipe"
+ },
+ "added": "2026-09-30"
+}

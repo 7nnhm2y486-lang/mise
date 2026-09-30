@@ -1,0 +1,167 @@
+{
+ "id": "nopales",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "side",
+ "time": 35,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "veg",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "protein"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Ensalada de nopales",
+  "blurb": "Nopales cocidos sin baba con jitomate, cebolla, cilantro y queso fresco. Fresca, ácida y lista para taco o guarnición.",
+  "ing": [
+   {
+    "n": "nopales limpios",
+    "note": "en tiras"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "jitomates",
+    "note": "en cubos"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "picada"
+   },
+   {
+    "n": "chile serrano",
+    "note": "picado"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmoronado"
+   }
+  ],
+  "steps": [
+   "Pon los nopales en un sartén caliente sin aceite con 1 cucharadita de sal. Cuécelos a fuego medio 15 minutos, moviendo, hasta que suelten la baba y esta se seque.",
+   "Pásalos a un colador, enjuaga con agua fría y escurre bien.",
+   "Mezcla con el jitomate, la cebolla, el chile, el cilantro, el orégano, el limón y el resto de la sal.",
+   "Sirve con el queso encima."
+  ],
+  "tips": [
+   "Cocerlos en sartén seco en vez de hervirlos deja menos baba y más sabor.",
+   "Aguanta 2 días en el refrigerador sin el queso."
+  ],
+  "video": "ensalada de nopales receta"
+ },
+ "en": {
+  "name": "Cactus Paddle Salad",
+  "blurb": "Nopales cooked until no longer slimy, with tomato, onion, cilantro and queso fresco. Fresh and sharp, for tacos or on the side.",
+  "ing": [
+   {
+    "n": "cleaned cactus paddles",
+    "note": "cut in strips"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "tomatoes",
+    "note": "diced"
+   },
+   {
+    "n": "white onion",
+    "note": "chopped"
+   },
+   {
+    "n": "serrano chile",
+    "note": "chopped"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "queso fresco",
+    "note": "crumbled"
+   }
+  ],
+  "steps": [
+   "Put the nopales in a hot dry pan with 1 teaspoon of the salt. Cook over medium heat for 15 minutes, stirring, until they release their slime and it dries up.",
+   "Tip them into a sieve, rinse with cold water and drain well.",
+   "Mix with the tomato, onion, chile, cilantro, oregano, lime and the rest of the salt.",
+   "Serve with the queso fresco on top."
+  ],
+  "tips": [
+   "Dry-pan cooking instead of boiling leaves less slime and more flavour.",
+   "Keeps 2 days in the fridge without the cheese."
+  ],
+  "video": "nopales salad recipe"
+ },
+ "added": "2026-09-30"
+}
