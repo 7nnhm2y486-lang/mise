@@ -24,7 +24,9 @@ let RECIPES = ALL.filter(r => !r.publish || r.publish <= TODAY).sort((a, b) => a
 if(PREVIEW){
   const latam = RECIPES.filter(r => r.region === "latin-america" || r.region === "caribbean");
   const rest = RECIPES.filter(r => !latam.includes(r));
-  RECIPES = [...latam.slice(0, Math.ceil(PREVIEW * 0.7)), ...rest.filter((_, i) => i % Math.max(1, Math.floor(rest.length / (PREVIEW * 0.3))) === 0)].slice(0, PREVIEW);
+  const nL = Math.ceil(PREVIEW * 0.7), step = latam.length / nL;  // spread across countries, not just A-C
+  const latamPick = Array.from({length: Math.min(nL, latam.length)}, (_, i) => latam[Math.floor(i * step)]);
+  RECIPES = [...latamPick, ...rest.filter((_, i) => i % Math.max(1, Math.floor(rest.length / (PREVIEW * 0.3))) === 0)].slice(0, PREVIEW);
 }
 
 const esc = s => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
