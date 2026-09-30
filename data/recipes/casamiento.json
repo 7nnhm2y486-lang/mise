@@ -1,0 +1,121 @@
+{
+ "id": "casamiento",
+ "country": "El Salvador",
+ "region": "latin-america",
+ "course": "side",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Casamiento",
+  "blurb": "Arroz y frijoles casados en la sartén. El desayuno salvadoreño de cada día.",
+  "ing": [
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "chile verde dulce",
+    "note": "picado"
+   },
+   {
+    "n": "arroz cocido"
+   },
+   {
+    "n": "frijoles rojos cocidos",
+    "note": "con un poco de su líquido"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla y el chile en el aceite 5 minutos.",
+   "Añade los frijoles con un poco de su líquido y cocina 3 minutos.",
+   "Añade el arroz y la sal y mezcla 5 minutos, hasta que el arroz tome color."
+  ],
+  "tips": [
+   "Usa arroz del día anterior: se casa mejor.",
+   "Sírvelo con plátano frito."
+  ],
+  "video": "casamiento salvadoreño"
+ },
+ "en": {
+  "name": "Casamiento (Salvadoran Rice and Beans)",
+  "blurb": "Rice and beans 'married' in the pan. El Salvador's everyday breakfast.",
+  "ing": [
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "cooked rice"
+   },
+   {
+    "n": "cooked red beans",
+    "note": "with a little of their liquid"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion and pepper in the oil for 5 minutes.",
+   "Add the beans with a little of their liquid and cook 3 minutes.",
+   "Add the rice and salt and stir 5 minutes, until the rice takes on colour."
+  ],
+  "tips": [
+   "Use day-old rice: it blends better.",
+   "Serve with fried plantain."
+  ],
+  "video": "salvadoran casamiento"
+ },
+ "added": "2026-09-30"
+}

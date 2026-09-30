@@ -1,0 +1,160 @@
+{
+ "id": "hudut",
+ "country": "Belize",
+ "countryEs": "Honduras",
+ "region": "caribbean",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 800,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Hudut",
+  "blurb": "Pescado en caldo de coco con puré machacado de plátano verde y maduro. El plato garífuna de Belice y Honduras.",
+  "ing": [
+   {
+    "n": "plátanos verdes"
+   },
+   {
+    "n": "plátanos maduros"
+   },
+   {
+    "n": "pescado entero en rodajas (pargo)"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "culantro",
+    "note": "picado"
+   },
+   {
+    "n": "chile habanero entero"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Hierve los plátanos pelados 20 minutos. Machácalos en un mortero hasta tener una masa y forma bolas.",
+   "Hierve la leche de coco con la cebolla, el ajo, el culantro, el chile y la sal 10 minutos.",
+   "Añade el pescado y cuece 12 minutos a fuego suave.",
+   "Sirve el caldo con el pescado y las bolas de plátano aparte."
+  ],
+  "tips": [
+   "Machaca el plátano en caliente, añadiendo agua de a poco.",
+   "Se come mojando el plátano en el caldo."
+  ],
+  "video": "hudut garífuna"
+ },
+ "en": {
+  "name": "Hudut (Garifuna Fish in Coconut Broth)",
+  "blurb": "Fish in coconut broth with pounded green and ripe plantain. The Garifuna dish of Belize and Honduras.",
+  "ing": [
+   {
+    "n": "green plantains"
+   },
+   {
+    "n": "ripe plantains"
+   },
+   {
+    "n": "whole fish in steaks (snapper)"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "culantro",
+    "note": "chopped"
+   },
+   {
+    "n": "whole habanero chilli"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Boil the peeled plantains 20 minutes. Pound them in a mortar into a dough and shape into balls.",
+   "Boil the coconut milk with the onion, garlic, culantro, chilli and salt for 10 minutes.",
+   "Add the fish and cook 12 minutes on a gentle simmer.",
+   "Serve the broth with the fish and the plantain balls on the side."
+  ],
+  "tips": [
+   "Pound the plantain hot, adding water little by little.",
+   "Eat it by dipping the plantain in the broth."
+  ],
+  "video": "garifuna hudut"
+ },
+ "added": "2026-09-30"
+}

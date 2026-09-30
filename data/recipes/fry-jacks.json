@@ -1,0 +1,117 @@
+{
+ "id": "fry-jacks",
+ "country": "Belize",
+ "region": "caribbean",
+ "course": "breakfast",
+ "time": 45,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "shortening",
+   "role": "fat"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Fry jacks",
+  "blurb": "Masa frita que se infla como una almohada. El desayuno de Belice.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "manteca vegetal"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el polvo de hornear y la sal. Frota la manteca.",
+   "Añade el agua y amasa 3 minutos. Deja reposar 20 minutos.",
+   "Divide en 6 bolas, estira a 3 mm y corta cada disco en cuatro.",
+   "Fríe a 180 °C 1 minuto por lado, hasta que se inflen y doren."
+  ],
+  "tips": [
+   "Baña la parte de arriba con aceite al freír para que se inflen.",
+   "Sírvelos recién hechos."
+  ],
+  "video": "fry jacks belice"
+ },
+ "en": {
+  "name": "Fry Jacks (Belizean Puffed Fried Dough)",
+  "blurb": "Fried dough that puffs like a pillow. Belize's breakfast.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "vegetable shortening"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Mix the flour, baking powder and salt. Rub in the shortening.",
+   "Add the water and knead 3 minutes. Rest 20 minutes.",
+   "Divide into 6 balls, roll to 3 mm and cut each disc into quarters.",
+   "Fry at 180 °C for 1 minute per side, until puffed and golden."
+  ],
+  "tips": [
+   "Baste the top with oil while frying so they puff.",
+   "Serve them fresh."
+  ],
+  "video": "belizean fry jacks"
+ },
+ "added": "2026-09-30"
+}

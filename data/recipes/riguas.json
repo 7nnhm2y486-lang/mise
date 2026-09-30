@@ -1,0 +1,123 @@
+{
+ "id": "riguas",
+ "country": "El Salvador",
+ "region": "latin-america",
+ "course": "side",
+ "time": 40,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 6,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "cornhusk",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "crema",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Riguas",
+  "blurb": "Tortitas de elote tierno cocidas envueltas en hoja sobre el comal. Se comen con crema y queso en El Salvador.",
+  "ing": [
+   {
+    "n": "elotes tiernos",
+    "note": "desgranados"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "hojas de elote frescas"
+   },
+   {
+    "n": "queso duro",
+    "note": "rallado"
+   },
+   {
+    "n": "crema"
+   }
+  ],
+  "steps": [
+   "Muele los granos de elote hasta tener una masa espesa. Añade el azúcar y la sal.",
+   "Pon porciones de masa sobre las hojas y aplánalas a 1 cm.",
+   "Cuécelas sobre el comal con la hoja abajo 8 minutos.",
+   "Dales la vuelta y cocina 5 minutos más.",
+   "Sirve con la crema y el queso."
+  ],
+  "tips": [
+   "El elote debe ser tierno y lechoso.",
+   "La hoja tostada le da aroma: no la quites hasta servir."
+  ],
+  "video": "riguas salvadoreñas"
+ },
+ "en": {
+  "name": "Riguas (Salvadoran Fresh Corn Cakes)",
+  "blurb": "Young corn cakes cooked in the husk on the griddle. Eaten with crema and cheese in El Salvador.",
+  "ing": [
+   {
+    "n": "young corn cobs",
+    "note": "kernels cut off"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "fresh corn husks"
+   },
+   {
+    "n": "hard white cheese",
+    "note": "grated"
+   },
+   {
+    "n": "Salvadoran crema"
+   }
+  ],
+  "steps": [
+   "Grind the corn kernels into a thick batter. Add the sugar and salt.",
+   "Spoon portions onto the husks and flatten to 1 cm.",
+   "Cook on the griddle husk side down for 8 minutes.",
+   "Flip and cook 5 minutes more.",
+   "Serve with the crema and cheese."
+  ],
+  "tips": [
+   "The corn must be young and milky.",
+   "The toasted husk adds aroma: leave it on until serving."
+  ],
+  "video": "salvadoran riguas"
+ },
+ "added": "2026-09-30"
+}

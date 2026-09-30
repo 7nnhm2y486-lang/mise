@@ -1,0 +1,159 @@
+{
+ "id": "arroz-con-guandu",
+ "country": "Panama",
+ "region": "latin-america",
+ "course": "side",
+ "time": 50,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Arroz con guandú y coco",
+  "blurb": "Arroz con gandules cocido en leche de coco. El arroz de las fiestas de fin de año en Panamá.",
+  "ing": [
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "culantro",
+    "note": "picado"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "guandú cocido"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo y el culantro en el aceite 5 minutos.",
+   "Añade el arroz y remueve 2 minutos.",
+   "Añade el guandú, la leche de coco, el agua y la sal.",
+   "Cuece destapado hasta que se seque la superficie. Tapa y cuece 20 minutos a fuego bajo."
+  ],
+  "tips": [
+   "No destapes durante los últimos 20 minutos.",
+   "El pegao del fondo es muy apreciado."
+  ],
+  "video": "arroz con guandú panameño"
+ },
+ "en": {
+  "name": "Panamanian Pigeon Pea and Coconut Rice",
+  "blurb": "Rice with pigeon peas cooked in coconut milk. Panama's year-end holiday rice.",
+  "ing": [
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "culantro",
+    "note": "chopped"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "cooked pigeon peas"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic and culantro in the oil for 5 minutes.",
+   "Add the rice and stir 2 minutes.",
+   "Add the pigeon peas, coconut milk, water and salt.",
+   "Cook uncovered until the surface dries. Cover and cook 20 minutes on low."
+  ],
+  "tips": [
+   "Don't lift the lid for the last 20 minutes.",
+   "The crust at the bottom, the pegao, is prized."
+  ],
+  "video": "panamanian arroz con guandu"
+ },
+ "added": "2026-09-30"
+}

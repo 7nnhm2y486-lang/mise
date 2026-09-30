@@ -1,0 +1,141 @@
+{
+ "id": "tamal-asado",
+ "country": "Costa Rica",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 80,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Tamal asado",
+  "blurb": "Queque de masa de maíz con queso y canela, dulce y salado. Se toma con café en Costa Rica.",
+  "ing": [
+   {
+    "n": "masa de maíz"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "mantequilla derretida"
+   },
+   {
+    "n": "queso Turrialba rallado"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Mezcla la masa con la leche hasta que no queden grumos.",
+   "Añade el azúcar, la mantequilla, el queso, los huevos, el polvo de hornear y la canela.",
+   "Vierte en un molde de 22 cm engrasado.",
+   "Hornea a 180 °C 55 minutos, hasta que esté dorado y firme."
+  ],
+  "tips": [
+   "Déjalo enfriar antes de cortar: se asienta.",
+   "El queso salado contrasta con el dulce: es su gracia."
+  ],
+  "video": "tamal asado costarricense"
+ },
+ "en": {
+  "name": "Tamal Asado (Costa Rican Corn Cheese Cake)",
+  "blurb": "A corn masa cake with cheese and cinnamon, sweet and salty. Eaten with coffee in Costa Rica.",
+  "ing": [
+   {
+    "n": "corn masa"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "melted butter"
+   },
+   {
+    "n": "grated fresh white cheese"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Mix the masa with the milk until smooth.",
+   "Add the sugar, butter, cheese, eggs, baking powder and cinnamon.",
+   "Pour into a greased 22 cm tin.",
+   "Bake at 180 °C for 55 minutes, until golden and firm."
+  ],
+  "tips": [
+   "Let it cool before slicing: it sets.",
+   "The salty cheese against the sweet is the point."
+  ],
+  "video": "costa rican tamal asado"
+ },
+ "added": "2026-09-30"
+}

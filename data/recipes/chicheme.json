@@ -1,0 +1,131 @@
+{
+ "id": "chicheme",
+ "country": "Panama",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 150,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "hominy",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Chicheme",
+  "blurb": "Bebida fría de maíz cocido con leche, canela y vainilla. Tradición de Chiriquí y Los Santos en Panamá.",
+  "ing": [
+   {
+    "n": "maíz blanco partido (pilado)"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "esencia de vainilla"
+   },
+   {
+    "n": "nuez moscada"
+   }
+  ],
+  "steps": [
+   "Remoja el maíz 12 horas y escúrrelo.",
+   "Cuécelo en el agua con la canela 2 horas, hasta que esté muy tierno.",
+   "Añade el azúcar y deja enfriar.",
+   "Añade la leche evaporada y la vainilla.",
+   "Sirve frío con nuez moscada, con los granos en el vaso."
+  ],
+  "tips": [
+   "Si queda muy espeso, añade agua fría.",
+   "Se conserva 3 días en la nevera."
+  ],
+  "video": "chicheme panameño"
+ },
+ "en": {
+  "name": "Chicheme (Panamanian Sweet Corn Drink)",
+  "blurb": "A cold drink of cooked corn with milk, cinnamon and vanilla. A tradition in Chiriquí and Los Santos, Panama.",
+  "ing": [
+   {
+    "n": "cracked white hominy"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "nutmeg"
+   }
+  ],
+  "steps": [
+   "Soak the corn 12 hours and drain.",
+   "Simmer it in the water with the cinnamon for 2 hours, until very soft.",
+   "Add the sugar and cool.",
+   "Add the evaporated milk and vanilla.",
+   "Serve cold with nutmeg, with the kernels in the glass."
+  ],
+  "tips": [
+   "If too thick, add cold water.",
+   "It keeps 3 days in the fridge."
+  ],
+  "video": "panamanian chicheme"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,119 @@
+{
+ "id": "tamalitos-de-chipilin",
+ "country": "Guatemala",
+ "region": "latin-america",
+ "course": "side",
+ "time": 90,
+ "serves": 16,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 16,
+   "u": "",
+   "k": "cornhusk",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Tamalitos de chipilín",
+  "blurb": "Tamalitos pequeños de masa con hojas de chipilín, envueltos en tusa. Acompañan los caldos en Guatemala.",
+  "ing": [
+   {
+    "n": "masa de maíz"
+   },
+   {
+    "n": "hojas de chipilín"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "hojas de maíz remojadas"
+   }
+  ],
+  "steps": [
+   "Bate la manteca 3 minutos hasta que esté esponjosa.",
+   "Añade la masa, la sal y el agua y bate hasta que esté suave.",
+   "Añade las hojas de chipilín.",
+   "Pon 2 cucharadas de masa en cada tusa y envuelve formando un cilindro.",
+   "Cuécelos al vapor 60 minutos, hasta que la masa se despegue de la hoja."
+  ],
+  "tips": [
+   "Si no hay chipilín, usa hojas de espinaca tierna picadas.",
+   "Pon una moneda en el fondo de la vaporera: si deja de sonar, falta agua."
+  ],
+  "video": "tamalitos de chipilín"
+ },
+ "en": {
+  "name": "Tamalitos de Chipilín (Guatemalan Herb Tamales)",
+  "blurb": "Small masa tamales with chipilín leaves, wrapped in husks. Served with soups in Guatemala.",
+  "ing": [
+   {
+    "n": "fresh corn masa"
+   },
+   {
+    "n": "chipilín leaves"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "soaked corn husks"
+   }
+  ],
+  "steps": [
+   "Beat the lard 3 minutes until fluffy.",
+   "Add the masa, salt and water and beat until smooth.",
+   "Add the chipilín leaves.",
+   "Put 2 tablespoons of masa in each husk and wrap into a log.",
+   "Steam 60 minutes, until the masa pulls away from the husk."
+  ],
+  "tips": [
+   "No chipilín? Use chopped young spinach.",
+   "Put a coin in the bottom of the steamer: when it stops rattling, add water."
+  ],
+  "video": "guatemalan chipilin tamales"
+ },
+ "added": "2026-09-30"
+}

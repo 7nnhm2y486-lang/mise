@@ -1,0 +1,199 @@
+{
+ "id": "sopa-de-queso",
+ "country": "Nicaragua",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Sopa de queso",
+  "blurb": "Sopa de leche con rosquitas de masa y queso. Plato de Cuaresma en Nicaragua.",
+  "ing": [
+   {
+    "n": "masa de maíz"
+   },
+   {
+    "n": "queso seco rallado"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "chiltoma",
+    "note": "picada"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "achiote"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "hierbabuena",
+    "note": "picada"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Mezcla la masa con la mitad del queso y el huevo. Forma rosquitas pequeñas y fríelas en el aceite 3 minutos.",
+   "Sofríe la cebolla, la chiltoma, el tomate y el achiote 6 minutos.",
+   "Añade el agua y la sal y cuece 10 minutos.",
+   "Añade la leche y las rosquitas y cuece 5 minutos sin hervir.",
+   "Añade el resto del queso y la hierbabuena."
+  ],
+  "tips": [
+   "No dejes hervir tras añadir la leche.",
+   "Las rosquitas se ablandan en el caldo: añádelas al final."
+  ],
+  "video": "sopa de queso nicaragüense"
+ },
+ "en": {
+  "name": "Sopa de Queso (Nicaraguan Cheese Soup)",
+  "blurb": "A milk soup with little masa and cheese rings. A Lenten dish in Nicaragua.",
+  "ing": [
+   {
+    "n": "corn masa"
+   },
+   {
+    "n": "dry grated cheese"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "annatto"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "mint",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Mix the masa with half the cheese and the egg. Shape small rings and fry in the oil for 3 minutes.",
+   "Cook the onion, pepper, tomato and annatto for 6 minutes.",
+   "Add the water and salt and simmer 10 minutes.",
+   "Add the milk and rings and cook 5 minutes without boiling.",
+   "Add the rest of the cheese and the mint."
+  ],
+  "tips": [
+   "Don't boil once the milk is in.",
+   "The rings soften in the broth: add them at the end."
+  ],
+  "video": "nicaraguan cheese soup"
+ },
+ "added": "2026-09-30"
+}
