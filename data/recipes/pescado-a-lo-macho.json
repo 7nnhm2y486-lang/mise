@@ -1,0 +1,228 @@
+{
+ "id": "pescado-a-lo-macho",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "fishstock",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "squid",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "mussel",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Pescado a lo macho",
+  "blurb": "Filete de pescado frito bañado en una salsa picante de ají con mariscos. Plato de fuerza de las cebicherías.",
+  "ing": [
+   {
+    "n": "filetes de pescado blanco"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají amarillo"
+   },
+   {
+    "n": "pasta de ají panca"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "caldo de pescado"
+   },
+   {
+    "n": "camarones",
+    "note": "pelados"
+   },
+   {
+    "n": "calamares",
+    "note": "en anillas"
+   },
+   {
+    "n": "choritos",
+    "note": "limpios"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Sala el pescado, pásalo por la harina y fríelo en 2 cucharadas de aceite 3 minutos por lado. Resérvalo.",
+   "Sofríe la cebolla, el ajo y las pastas de ají en el resto del aceite 8 minutos.",
+   "Añade el vino y cuece 2 minutos. Añade el caldo y cuece 5 minutos.",
+   "Añade los mariscos, tapa y cuece 4 minutos, hasta que los choritos se abran.",
+   "Sirve el pescado bañado con la salsa de mariscos y el perejil."
+  ],
+  "tips": [
+   "Dora el pescado justo antes de servir para que no se ablande.",
+   "Tira los choritos que queden cerrados."
+  ],
+  "video": "pescado a lo macho receta"
+ },
+ "en": {
+  "name": "Pescado a lo Macho (Fish in Spicy Seafood Sauce)",
+  "blurb": "Fried fish fillet under a spicy ají sauce with seafood. A hearty cebichería dish.",
+  "ing": [
+   {
+    "n": "white fish fillets"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "fish stock"
+   },
+   {
+    "n": "shrimp",
+    "note": "peeled"
+   },
+   {
+    "n": "squid",
+    "note": "in rings"
+   },
+   {
+    "n": "mussels",
+    "note": "cleaned"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Salt the fish, dredge in the flour and fry in 2 tablespoons of oil for 3 minutes a side. Set aside.",
+   "Cook the onion, garlic and ají pastes in the rest of the oil for 8 minutes.",
+   "Add the wine and cook 2 minutes. Add the stock and cook 5 minutes.",
+   "Add the seafood, cover and cook 4 minutes, until the mussels open.",
+   "Serve the fish covered with the seafood sauce and the parsley."
+  ],
+  "tips": [
+   "Fry the fish just before serving so it stays crisp.",
+   "Discard any mussels that stay shut."
+  ],
+  "video": "pescado a lo macho recipe"
+ },
+ "added": "2026-09-30"
+}

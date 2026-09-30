@@ -1,0 +1,166 @@
+{
+ "id": "olluquito-con-charqui",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "driedmeat",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Olluquito con charqui",
+  "blurb": "Olluco en tiras guisado con charqui y ají panca. Plato andino de raíz prehispánica.",
+  "ing": [
+   {
+    "n": "charqui de res o alpaca",
+    "note": "desalado y deshilachado"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají panca"
+   },
+   {
+    "n": "olluco",
+    "note": "en tiras finas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo y la pasta de ají en el aceite 8 minutos.",
+   "Añade el charqui y cuece 5 minutos.",
+   "Añade el olluco, sin lavarlo después de cortarlo, y mezcla.",
+   "Añade el agua, tapa y cuece 20 minutos a fuego bajo, hasta que el olluco esté tierno. Sala al gusto.",
+   "Termina con el perejil y sirve con arroz."
+  ],
+  "tips": [
+   "No laves el olluco una vez cortado: suelta una baba que espesa el guiso.",
+   "Con carne fresca de res en lugar de charqui también queda bien."
+  ],
+  "video": "olluquito con charqui receta"
+ },
+ "en": {
+  "name": "Olluquito con Charqui (Ulluco and Dried Meat Stew)",
+  "blurb": "Strips of ulluco stewed with dried meat and ají panca. An Andean dish with pre-Hispanic roots.",
+  "ing": [
+   {
+    "n": "beef or alpaca charqui",
+    "note": "desalted and shredded"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "olluco (ulluco)",
+    "note": "in fine strips"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic and ají paste in the oil for 8 minutes.",
+   "Add the charqui and cook 5 minutes.",
+   "Add the ulluco, without washing it after cutting, and stir.",
+   "Add the water, cover and cook 20 minutes on low, until tender. Salt to taste.",
+   "Finish with the parsley and serve with rice."
+  ],
+  "tips": [
+   "Don't wash the ulluco once cut: its slippery juice thickens the stew.",
+   "Fresh beef instead of charqui works well too."
+  ],
+  "video": "olluquito con charqui recipe"
+ },
+ "added": "2026-09-30"
+}

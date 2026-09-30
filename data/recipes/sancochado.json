@@ -1,0 +1,194 @@
+{
+ "id": "sancochado",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 150,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Sancochado limeño",
+  "blurb": "Carne y verduras hervidas enteras en un caldo claro. Se sirve el caldo aparte y todo lo demás en fuente.",
+  "ing": [
+   {
+    "n": "pecho de res",
+    "note": "en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla",
+    "note": "en mitades"
+   },
+   {
+    "n": "poro o cebolla china"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "papas amarillas"
+   },
+   {
+    "n": "yuca",
+    "note": "en trozos"
+   },
+   {
+    "n": "camote",
+    "note": "en trozos"
+   },
+   {
+    "n": "choclos",
+    "note": "en ruedas"
+   },
+   {
+    "n": "repollo",
+    "note": "en gajos"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en trozos"
+   }
+  ],
+  "steps": [
+   "Cuece la carne en el agua con la cebolla, el poro y la sal 90 minutos, quitando la espuma.",
+   "Añade la yuca y el choclo y cuece 15 minutos.",
+   "Añade las papas, el camote y la zanahoria y cuece 15 minutos.",
+   "Añade el repollo y cuece 10 minutos más.",
+   "Sirve el caldo en tazas y la carne con las verduras en una fuente."
+  ],
+  "tips": [
+   "Añade cada verdura según su tiempo de cocción para que ninguna se deshaga.",
+   "Se acompaña con una salsa de hierbas o de ají al gusto."
+  ],
+  "video": "sancochado limeño receta"
+ },
+ "en": {
+  "name": "Sancochado (Lima Boiled Dinner)",
+  "blurb": "Beef and whole vegetables boiled in a clear broth. The broth is served on the side and everything else on a platter.",
+  "ing": [
+   {
+    "n": "beef brisket",
+    "note": "in pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "onion",
+    "note": "halved"
+   },
+   {
+    "n": "leek or spring onion"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "yellow potatoes"
+   },
+   {
+    "n": "cassava",
+    "note": "in chunks"
+   },
+   {
+    "n": "sweet potato",
+    "note": "in chunks"
+   },
+   {
+    "n": "corn cobs",
+    "note": "in rounds"
+   },
+   {
+    "n": "cabbage",
+    "note": "in wedges"
+   },
+   {
+    "n": "carrots",
+    "note": "in chunks"
+   }
+  ],
+  "steps": [
+   "Simmer the beef in the water with the onion, leek and salt for 90 minutes, skimming.",
+   "Add the cassava and corn and cook 15 minutes.",
+   "Add the potatoes, sweet potato and carrot and cook 15 minutes.",
+   "Add the cabbage and cook 10 minutes more.",
+   "Serve the broth in cups and the meat with the vegetables on a platter."
+  ],
+  "tips": [
+   "Add each vegetable according to its cooking time so none falls apart.",
+   "It's served with an herb or chilli sauce to taste."
+  ],
+  "video": "sancochado recipe"
+ },
+ "added": "2026-09-30"
+}

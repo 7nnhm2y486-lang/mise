@@ -84,6 +84,9 @@ I.bacon.label = T("La mayoría del tocino se cura con azúcar.", "Most bacon is 
 put("creamofcoconut", ["coconut", "sugar"], [], T("La crema de coco para cócteles es crema de coco con mucho azúcar.", "Cream of coconut for cocktails is coconut cream with a lot of sugar."), {
   coconut: [sub(1, ["milk", "sugar"], [], ["leche condensada", "Más espesa y con sabor lácteo en lugar de coco."], ["condensed milk", "Thicker, with a dairy flavour instead of coconut."])],
   sugar: [sub(1, ["coconut"], [], ["crema de coco sin azúcar", "Queda mucho menos dulce."], ["unsweetened coconut cream", "Much less sweet."])]});
+// Soft drinks (ginger ale, cola) are sweetened; many use corn syrup.
+put("softdrink", ["sugar"], ["corn"], T("Los refrescos llevan azúcar; muchos usan jarabe de maíz.", "Soft drinks contain sugar; many use corn syrup."), {
+  sugar: [sub(1, [], [], ["agua con gas y jengibre rallado", "Menos dulce, con el mismo picor del jengibre."], ["sparkling water with grated ginger", "Less sweet, with the same ginger bite."])]});
 // Refried beans: canned or restaurant ones are often made with lard, sometimes with cheese.
 put("refriedbeans", [], ["pork", "milk"], T("Los frijoles refritos de lata o de fonda suelen llevar manteca de cerdo; algunos llevan queso. Hazlos con aceite o revisa la etiqueta.", "Canned or restaurant refried beans are often made with lard; some contain cheese. Make them with oil or check the label."), {pork: [
   sub(1, [], [], ["frijoles refritos caseros con aceite", "Machaca frijoles cocidos y fríelos en aceite hasta que espesen."], ["homemade refried beans with oil", "Mash cooked beans and fry them in oil until thick."])]});

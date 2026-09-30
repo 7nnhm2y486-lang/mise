@@ -8605,6 +8605,34 @@
      }
     ]
    }
+  },
+  "softdrink": {
+   "a": [
+    "sugar"
+   ],
+   "may": [
+    "corn"
+   ],
+   "label": {
+    "es": "Los refrescos llevan azúcar; muchos usan jarabe de maíz.",
+    "en": "Soft drinks contain sugar; many use corn syrup."
+   },
+   "s": {
+    "sugar": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "agua con gas y jengibre rallado",
+       "note": "Menos dulce, con el mismo picor del jengibre."
+      },
+      "en": {
+       "to": "sparkling water with grated ginger",
+       "note": "Less sweet, with the same ginger bite."
+      }
+     }
+    ]
+   }
   }
  },
  "roles": {

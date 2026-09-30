@@ -1,0 +1,176 @@
+{
+ "id": "inchicapi",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "peanut",
+   "role": "thicken"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "masa",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Inchicapi",
+  "blurb": "Sopa amazónica de gallina espesada con maní y maíz, con yuca y sacha culantro.",
+  "ing": [
+   {
+    "n": "gallina o pollo en presas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "maní crudo"
+   },
+   {
+    "n": "harina de maíz"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "yuca",
+    "note": "en trozos"
+   },
+   {
+    "n": "sacha culantro o culantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo en el agua con la sal 40 minutos.",
+   "Tuesta el maní y muélelo con 250 ml del caldo hasta tener una crema.",
+   "Sofríe la cebolla y el ajo en el aceite 5 minutos y añádelos a la olla con la yuca. Cuece 15 minutos.",
+   "Disuelve la harina de maíz en agua fría y añádela con la crema de maní, removiendo. Cuece 10 minutos.",
+   "Termina con el sacha culantro."
+  ],
+  "tips": [
+   "Remueve después de añadir el maní y el maíz: se pegan al fondo.",
+   "El sacha culantro es como un culantro muy intenso."
+  ],
+  "video": "inchicapi de gallina receta"
+ },
+ "en": {
+  "name": "Inchicapi (Amazon Chicken Peanut Soup)",
+  "blurb": "An Amazonian hen soup thickened with peanuts and corn, with cassava and sacha culantro.",
+  "ing": [
+   {
+    "n": "hen or chicken pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "raw peanuts"
+   },
+   {
+    "n": "corn flour"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "cassava",
+    "note": "in chunks"
+   },
+   {
+    "n": "sacha culantro or culantro",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken in the water with the salt for 40 minutes.",
+   "Toast the peanuts and grind with 250 ml of the broth to a cream.",
+   "Cook the onion and garlic in the oil for 5 minutes and add to the pot with the cassava. Cook 15 minutes.",
+   "Dissolve the corn flour in cold water and add with the peanut cream, stirring. Cook 10 minutes.",
+   "Finish with the sacha culantro."
+  ],
+  "tips": [
+   "Stir after adding the peanut and corn: they catch on the bottom.",
+   "Sacha culantro is like a very intense culantro."
+  ],
+  "video": "inchicapi recipe"
+ },
+ "added": "2026-09-30"
+}

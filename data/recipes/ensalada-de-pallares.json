@@ -1,0 +1,154 @@
+{
+ "id": "ensalada-de-pallares",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "side",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Ensalada de pallares",
+  "blurb": "Pallares con cebolla, tomate, ají y limón. Fresca y rápida, de la costa sur del Perú.",
+  "ing": [
+   {
+    "n": "pallares cocidos"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "en dados"
+   },
+   {
+    "n": "tomates",
+    "note": "en dados"
+   },
+   {
+    "n": "ají amarillo",
+    "note": "en dados"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja la cebolla en agua con sal 5 minutos y escúrrela.",
+   "Mezcla los pallares con la cebolla, el tomate y el ají.",
+   "Añade el jugo de limón, el aceite y la sal.",
+   "Mezcla con el perejil.",
+   "Deja reposar 10 minutos antes de servir."
+  ],
+  "tips": [
+   "Si usas pallares secos, remójalos 12 horas y pela la piel antes de cocerlos.",
+   "Quita las venas del ají para que pique menos."
+  ],
+  "video": "ensalada de pallares receta"
+ },
+ "en": {
+  "name": "Peruvian Lima Bean Salad",
+  "blurb": "Lima beans with onion, tomato, ají and lime. Fresh and quick, from Peru's southern coast.",
+  "ing": [
+   {
+    "n": "cooked lima beans (pallares)"
+   },
+   {
+    "n": "red onion",
+    "note": "diced"
+   },
+   {
+    "n": "tomatoes",
+    "note": "diced"
+   },
+   {
+    "n": "ají amarillo",
+    "note": "diced"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the onion in salted water for 5 minutes and drain.",
+   "Mix the beans with the onion, tomato and ají.",
+   "Add the lime juice, oil and salt.",
+   "Toss with the parsley.",
+   "Leave 10 minutes before serving."
+  ],
+  "tips": [
+   "If using dried beans, soak 12 hours and slip off the skins before cooking.",
+   "Remove the ají veins for less heat."
+  ],
+  "video": "lima bean salad recipe"
+ },
+ "added": "2026-09-30"
+}

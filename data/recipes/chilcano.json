@@ -1,0 +1,110 @@
+{
+ "id": "chilcano",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 5,
+ "serves": 1,
+ "ing": [
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "spirit",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "softdrink",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "spirit",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "ice",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Chilcano de pisco",
+  "blurb": "Pisco con limón y ginger ale sobre hielo. El trago más refrescante del Perú.",
+  "ing": [
+   {
+    "n": "pisco"
+   },
+   {
+    "n": "limón",
+    "note": "en jugo"
+   },
+   {
+    "n": "ginger ale"
+   },
+   {
+    "n": "gotas de amargo de angostura"
+   },
+   {
+    "n": "hielo"
+   }
+  ],
+  "steps": [
+   "Llena un vaso alto de hielo.",
+   "Añade el pisco y el jugo de limón.",
+   "Completa con el ginger ale.",
+   "Añade el amargo de angostura por encima.",
+   "Remueve suave una vez y sirve."
+  ],
+  "tips": [
+   "Añade el ginger ale al final para que no pierda el gas.",
+   "Un pisco quebranta es el más usado."
+  ],
+  "video": "chilcano de pisco receta"
+ },
+ "en": {
+  "name": "Chilcano (Pisco and Ginger Ale)",
+  "blurb": "Pisco with lime and ginger ale over ice. Peru's most refreshing drink.",
+  "ing": [
+   {
+    "n": "pisco"
+   },
+   {
+    "n": "lime",
+    "note": "juiced"
+   },
+   {
+    "n": "ginger ale"
+   },
+   {
+    "n": "dashes of Angostura bitters"
+   },
+   {
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Fill a tall glass with ice.",
+   "Add the pisco and lime juice.",
+   "Top with the ginger ale.",
+   "Add the Angostura on top.",
+   "Stir gently once and serve."
+  ],
+  "tips": [
+   "Add the ginger ale last so it keeps its fizz.",
+   "Quebranta pisco is the usual choice."
+  ],
+  "video": "chilcano recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,178 @@
+{
+ "id": "champus",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 60,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "hominy",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "masa",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "fruit",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Champús",
+  "blurb": "Bebida espesa y caliente de mote, frutas y chancaca con canela. Se toma en invierno en Lima y en el sur de Colombia.",
+  "ing": [
+   {
+    "n": "mote de maíz pelado",
+    "note": "cocido"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "membrillos",
+    "note": "en dados"
+   },
+   {
+    "n": "piña",
+    "note": "en dados"
+   },
+   {
+    "n": "manzanas",
+    "note": "en dados"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "chancaca"
+   },
+   {
+    "n": "harina de maíz"
+   },
+   {
+    "n": "naranjilla o lulo (opcional)",
+    "note": "en jugo"
+   }
+  ],
+  "steps": [
+   "Hierve el agua con la canela, los clavos y la chancaca 10 minutos.",
+   "Añade el membrillo y la manzana y cuece 15 minutos.",
+   "Añade el mote y la piña.",
+   "Disuelve la harina de maíz en agua fría y añádela, removiendo. Cuece 10 minutos hasta que espese.",
+   "Añade el jugo de naranjilla y sirve caliente."
+  ],
+  "tips": [
+   "El membrillo da el aroma característico; no lo quites.",
+   "Se toma caliente en Lima y frío en el sur de Colombia."
+  ],
+  "video": "champús receta"
+ },
+ "en": {
+  "name": "Champús (Hominy and Fruit Drink)",
+  "blurb": "A thick hot drink of hominy, fruit and chancaca with cinnamon. Drunk in winter in Lima and southern Colombia.",
+  "ing": [
+   {
+    "n": "peeled hominy corn",
+    "note": "cooked"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "quinces",
+    "note": "diced"
+   },
+   {
+    "n": "pineapple",
+    "note": "diced"
+   },
+   {
+    "n": "apples",
+    "note": "diced"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "whole cloves"
+   },
+   {
+    "n": "chancaca (unrefined cane sugar)"
+   },
+   {
+    "n": "corn flour"
+   },
+   {
+    "n": "naranjilla or lulo (optional)",
+    "note": "juiced"
+   }
+  ],
+  "steps": [
+   "Boil the water with the cinnamon, cloves and chancaca for 10 minutes.",
+   "Add the quince and apple and cook 15 minutes.",
+   "Add the hominy and pineapple.",
+   "Dissolve the corn flour in cold water and add, stirring. Cook 10 minutes until thick.",
+   "Add the naranjilla juice and serve hot."
+  ],
+  "tips": [
+   "Quince gives the characteristic aroma; don't leave it out.",
+   "It's drunk hot in Lima and cold in southern Colombia."
+  ],
+  "video": "champus recipe"
+ },
+ "added": "2026-09-30"
+}

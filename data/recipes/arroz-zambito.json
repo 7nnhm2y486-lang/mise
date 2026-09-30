@@ -1,0 +1,158 @@
+{
+ "id": "arroz-zambito",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "desiccatedcoconut",
+   "role": "garnish"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "enrich"
+  }
+ ],
+ "es": {
+  "name": "Arroz zambito",
+  "blurb": "Arroz con leche oscuro de chancaca, con coco y pasas. Dulce limeño de herencia afroperuana.",
+  "ing": [
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "chancaca",
+    "note": "rallada"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "coco rallado"
+   },
+   {
+    "n": "mantequilla"
+   }
+  ],
+  "steps": [
+   "Cuece el arroz en el agua con la canela y los clavos 20 minutos.",
+   "Añade la chancaca y remueve hasta que se disuelva.",
+   "Añade la leche evaporada y cuece 20 minutos a fuego bajo, removiendo, hasta que espese.",
+   "Añade las pasas, el coco y la mantequilla y cuece 5 minutos.",
+   "Retira la canela y los clavos y sirve tibio o frío."
+  ],
+  "tips": [
+   "La chancaca da el color oscuro que le da nombre.",
+   "Espesa al enfriar; si queda muy firme, añade leche."
+  ],
+  "video": "arroz zambito receta"
+ },
+ "en": {
+  "name": "Arroz Zambito (Dark Rice Pudding)",
+  "blurb": "A dark rice pudding sweetened with chancaca, with coconut and raisins. A Lima sweet with Afro-Peruvian roots.",
+  "ing": [
+   {
+    "n": "rice"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "chancaca (unrefined cane sugar)",
+    "note": "grated"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "whole cloves"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "desiccated coconut"
+   },
+   {
+    "n": "butter"
+   }
+  ],
+  "steps": [
+   "Cook the rice in the water with the cinnamon and cloves for 20 minutes.",
+   "Add the chancaca and stir until dissolved.",
+   "Add the evaporated milk and cook 20 minutes on low, stirring, until thick.",
+   "Add the raisins, coconut and butter and cook 5 minutes.",
+   "Remove the cinnamon and cloves and serve warm or cold."
+  ],
+  "tips": [
+   "Chancaca gives the dark colour behind the name.",
+   "It thickens as it cools; if too firm, add milk."
+  ],
+  "video": "arroz zambito recipe"
+ },
+ "added": "2026-09-30"
+}

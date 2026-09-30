@@ -1,0 +1,126 @@
+{
+ "id": "tacacho-con-cecina",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "porkskin",
+   "role": "crunch"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "curedmeat",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Tacacho con cecina",
+  "blurb": "Bolas de plátano verde asado majado con manteca y chicharrón, con cecina frita. El desayuno de la Amazonía peruana.",
+  "ing": [
+   {
+    "n": "plátanos verdes",
+    "note": "pelados, en trozos"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "chicharrón de cerdo",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cecina de cerdo",
+    "note": "en tiras"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Asa los trozos de plátano en la parrilla o en una sartén seca 15 minutos, hasta que estén tiernos y dorados.",
+   "Maja el plátano caliente con la manteca, el chicharrón y la sal.",
+   "Forma 4 bolas grandes.",
+   "Fríe la cecina en el aceite 5 minutos, hasta que esté dorada.",
+   "Sirve cada tacacho con la cecina."
+  ],
+  "tips": [
+   "Maja el plátano en cuanto sale del fuego; frío no se une.",
+   "La cecina amazónica es cerdo ahumado y salado: no añadas más sal."
+  ],
+  "video": "tacacho con cecina receta"
+ },
+ "en": {
+  "name": "Tacacho con Cecina (Amazon Plantain Balls with Smoked Pork)",
+  "blurb": "Balls of grilled green plantain mashed with lard and crackling, with fried cecina. Breakfast in the Peruvian Amazon.",
+  "ing": [
+   {
+    "n": "green plantains",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "pork crackling",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cecina (smoked cured pork)",
+    "note": "in strips"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Grill the plantain chunks on a grill or dry pan for 15 minutes, until tender and golden.",
+   "Mash the hot plantain with the lard, crackling and salt.",
+   "Shape into 4 large balls.",
+   "Fry the cecina in the oil for 5 minutes, until golden.",
+   "Serve each tacacho with the cecina."
+  ],
+  "tips": [
+   "Mash the plantain as soon as it's off the heat; cold, it won't bind.",
+   "Amazonian cecina is smoked, salted pork: don't add more salt."
+  ],
+  "video": "tacacho con cecina recipe"
+ },
+ "added": "2026-09-30"
+}
