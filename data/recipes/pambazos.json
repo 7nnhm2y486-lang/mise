@@ -1,0 +1,175 @@
+{
+ "id": "pambazos",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 6,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "ancho",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "handful",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "crema",
+   "role": "garnish"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pambazos",
+  "blurb": "Pan bañado en salsa de guajillo y dorado en el comal, relleno de papa con chorizo. Antojito de la Ciudad de México.",
+  "ing": [
+   {
+    "n": "panes para pambazo o bolillos"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "sin semillas"
+   },
+   {
+    "n": "ajo (para la salsa)"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "papas",
+    "note": "en cubos"
+   },
+   {
+    "n": "chorizo mexicano"
+   },
+   {
+    "n": "lechuga",
+    "note": "picada"
+   },
+   {
+    "n": "crema"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmoronado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Hierve la papa 12 minutos y escúrrela.",
+   "Fríe el chorizo 5 minutos, añade la papa y aplasta un poco. Sala.",
+   "Remoja los chiles en agua caliente 10 minutos y lícualos con el ajo y 200 ml de su agua. Cuela.",
+   "Abre los panes, báñalos por fuera en la salsa y dóralos en el aceite 1 minuto por lado.",
+   "Rellena con la papa con chorizo, la lechuga, la crema y el queso."
+  ],
+  "tips": [
+   "El pan debe ser algo duro para que aguante la salsa sin romperse.",
+   "Báñalos justo antes de dorarlos para que no se empapen."
+  ],
+  "video": "pambazos de papa con chorizo"
+ },
+ "en": {
+  "name": "Pambazos",
+  "blurb": "Bread dunked in guajillo sauce and crisped on the griddle, stuffed with potato and chorizo. A Mexico City street snack.",
+  "ing": [
+   {
+    "n": "pambazo rolls or bolillos"
+   },
+   {
+    "n": "guajillo chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "garlic (for the sauce)"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "potatoes",
+    "note": "cubed"
+   },
+   {
+    "n": "Mexican chorizo"
+   },
+   {
+    "n": "lettuce",
+    "note": "shredded"
+   },
+   {
+    "n": "Mexican crema"
+   },
+   {
+    "n": "queso fresco",
+    "note": "crumbled"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Boil the potato for 12 minutes and drain.",
+   "Fry the chorizo 5 minutes, add the potato and crush lightly. Salt.",
+   "Soak the chillies in hot water for 10 minutes and blend with the garlic and 200 ml of the soaking water. Strain.",
+   "Split the rolls, dip the outsides in the sauce and fry in the oil 1 minute per side.",
+   "Fill with the potato and chorizo, lettuce, crema and cheese."
+  ],
+  "tips": [
+   "Slightly stale bread holds the sauce without falling apart.",
+   "Dip right before frying so they don't go soggy."
+  ],
+  "video": "mexican pambazos recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,199 @@
+{
+ "id": "caldo-de-camaron",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "ancho",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Caldo de camarón",
+  "blurb": "Caldo rojo y picosito hecho con las cabezas del camarón. El caldo de las marisquerías mexicanas.",
+  "ing": [
+   {
+    "n": "camarones con cabeza"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "sin semillas"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en dados"
+   },
+   {
+    "n": "papas",
+    "note": "en dados"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "limones",
+    "note": "en cuartos"
+   }
+  ],
+  "steps": [
+   "Pela los camarones y hierve las cáscaras y cabezas en el agua 20 minutos. Cuela.",
+   "Remoja los chiles en agua caliente 10 minutos y lícualos con el jitomate, la cebolla, el ajo y un poco de caldo.",
+   "Fríe la salsa en el aceite 5 minutos.",
+   "Añade el caldo, la zanahoria, la papa, el orégano y la sal. Cuece 15 minutos.",
+   "Añade los camarones y cuece 3 minutos. Sirve con los limones."
+  ],
+  "tips": [
+   "No cuezas de más los camarones o quedan duros.",
+   "Las cabezas dan casi todo el sabor: no las tires."
+  ],
+  "video": "caldo de camarón estilo marisquería"
+ },
+ "en": {
+  "name": "Caldo de Camarón (Mexican Prawn Soup)",
+  "blurb": "A red, gently spicy broth made from the prawn heads. The soup of Mexican seafood joints.",
+  "ing": [
+   {
+    "n": "head-on prawns"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "guajillo chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "carrots",
+    "note": "diced"
+   },
+   {
+    "n": "potatoes",
+    "note": "diced"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "limes",
+    "note": "quartered"
+   }
+  ],
+  "steps": [
+   "Peel the prawns and boil the shells and heads in the water for 20 minutes. Strain.",
+   "Soak the chillies in hot water for 10 minutes and blend with the tomato, onion, garlic and a little broth.",
+   "Fry the sauce in the oil for 5 minutes.",
+   "Add the broth, carrot, potato, oregano and salt. Simmer 15 minutes.",
+   "Add the prawns and cook 3 minutes. Serve with the limes."
+  ],
+  "tips": [
+   "Don't overcook the prawns or they turn tough.",
+   "The heads carry most of the flavour: don't throw them out."
+  ],
+  "video": "mexican caldo de camaron"
+ },
+ "added": "2026-09-30"
+}

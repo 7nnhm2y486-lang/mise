@@ -1,0 +1,153 @@
+{
+ "id": "tlacoyos",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Tlacoyos de frijol",
+  "blurb": "Óvalos de masa rellenos de frijol, cocidos en comal. Antojito de los mercados del centro de México.",
+  "ing": [
+   {
+    "n": "masa de maíz"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "frijoles negros cocidos",
+    "note": "escurridos"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "nopales cocidos",
+    "note": "en tiras"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmoronado"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Machaca los frijoles con el aceite y una pizca de sal hasta formar una pasta.",
+   "Amasa la masa con la sal. Forma 8 bolas.",
+   "Aplana cada bola, pon 1 cucharada de frijol, cierra y aplana en forma de óvalo de 1 cm.",
+   "Cuécelos en un comal caliente 4 minutos por lado.",
+   "Cubre con los nopales, el queso, la cebolla y el cilantro."
+  ],
+  "tips": [
+   "Si la masa se agrieta, añade un poco de agua.",
+   "El comal debe estar bien caliente para que no se peguen."
+  ],
+  "video": "tlacoyos de frijol"
+ },
+ "en": {
+  "name": "Bean Tlacoyos",
+  "blurb": "Ovals of corn masa stuffed with beans and cooked on the griddle. A market snack from central Mexico.",
+  "ing": [
+   {
+    "n": "fresh corn masa"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cooked black beans",
+    "note": "drained"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "cooked cactus paddles",
+    "note": "in strips"
+   },
+   {
+    "n": "queso fresco",
+    "note": "crumbled"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Mash the beans with the oil and a pinch of salt into a paste.",
+   "Knead the masa with the salt. Shape 8 balls.",
+   "Flatten each ball, add 1 tablespoon of bean, close and pat into a 1 cm oval.",
+   "Cook on a hot griddle for 4 minutes per side.",
+   "Top with the cactus, cheese, onion and coriander."
+  ],
+  "tips": [
+   "If the masa cracks, add a little water.",
+   "The griddle must be very hot so they don't stick."
+  ],
+  "video": "bean tlacoyos recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,121 @@
+{
+ "id": "agua-de-pepino",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 10,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "ice",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Agua de pepino con limón",
+  "blurb": "Agua fresca verde y ligera, de las que se venden en vitroleros en los mercados de México.",
+  "ing": [
+   {
+    "n": "pepinos",
+    "note": "en trozos"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   },
+   {
+    "n": "agua fría"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "hojas de menta"
+   },
+   {
+    "n": "hielo"
+   }
+  ],
+  "steps": [
+   "Licúa el pepino con la menta y 500 ml de agua.",
+   "Cuela si la quieres más fina.",
+   "Mezcla con el resto del agua, el jugo de limón y el azúcar hasta que se disuelva.",
+   "Sirve con el hielo."
+  ],
+  "tips": [
+   "Pela el pepino si tiene la piel amarga.",
+   "Sírvela el mismo día: pierde color con las horas."
+  ],
+  "video": "agua de pepino con limón"
+ },
+ "en": {
+  "name": "Agua de Pepino (Cucumber Lime Cooler)",
+  "blurb": "A light green agua fresca, the kind sold from big glass jars in Mexican markets.",
+  "ing": [
+   {
+    "n": "cucumbers",
+    "note": "in chunks"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "cold water"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "mint leaves"
+   },
+   {
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Blend the cucumber with the mint and 500 ml of water.",
+   "Strain if you want it smoother.",
+   "Mix with the rest of the water, lime juice and sugar until dissolved.",
+   "Serve over the ice."
+  ],
+  "tips": [
+   "Peel the cucumber if the skin is bitter.",
+   "Drink it the same day: it loses colour over time."
+  ],
+  "video": "cucumber lime agua fresca"
+ },
+ "added": "2026-09-30"
+}

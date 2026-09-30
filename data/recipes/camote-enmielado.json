@@ -1,0 +1,107 @@
+{
+ "id": "camote-enmielado",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 70,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "piece",
+   "k": "citrus",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Camote enmielado",
+  "blurb": "Camote cocido lentamente en miel de piloncillo con canela. Dulce de Día de Muertos.",
+  "ing": [
+   {
+    "n": "camotes",
+    "note": "en trozos grandes"
+   },
+   {
+    "n": "piloncillo"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "cáscara de naranja"
+   }
+  ],
+  "steps": [
+   "Hierve el agua con el piloncillo, la canela y la cáscara hasta que se disuelva.",
+   "Añade el camote y cuece tapado 40 minutos a fuego bajo, volteando a mitad.",
+   "Destapa y cuece 15 minutos más, hasta que el almíbar espese y brille.",
+   "Sirve tibio o frío con su almíbar."
+  ],
+  "tips": [
+   "Mueve la olla en vez de remover para que el camote no se rompa.",
+   "Se conserva 4 días en la nevera."
+  ],
+  "video": "camote enmielado con piloncillo"
+ },
+ "en": {
+  "name": "Camote Enmielado (Candied Sweet Potato)",
+  "blurb": "Sweet potato simmered slowly in piloncillo syrup with cinnamon. A Day of the Dead sweet.",
+  "ing": [
+   {
+    "n": "sweet potatoes",
+    "note": "in large chunks"
+   },
+   {
+    "n": "piloncillo (unrefined cane sugar)"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "orange peel strips"
+   }
+  ],
+  "steps": [
+   "Boil the water with the piloncillo, cinnamon and peel until dissolved.",
+   "Add the sweet potato and simmer covered for 40 minutes on low, turning halfway.",
+   "Uncover and cook 15 minutes more, until the syrup thickens and shines.",
+   "Serve warm or cold with its syrup."
+  ],
+  "tips": [
+   "Shake the pot instead of stirring so the sweet potato stays whole.",
+   "It keeps 4 days in the fridge."
+  ],
+  "video": "mexican candied sweet potato"
+ },
+ "added": "2026-09-30"
+}

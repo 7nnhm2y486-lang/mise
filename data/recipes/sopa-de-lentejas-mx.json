@@ -1,0 +1,163 @@
+{
+ "id": "sopa-de-lentejas-mx",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "plantain",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Sopa de lentejas con plátano",
+  "blurb": "Lentejas caldosas con jitomate y rodajas de plátano macho maduro, que les da un toque dulce. Muy de casa en México.",
+  "ing": [
+   {
+    "n": "lentejas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "jitomates",
+    "note": "picados"
+   },
+   {
+    "n": "zanahoria",
+    "note": "en dados"
+   },
+   {
+    "n": "plátano macho maduro",
+    "note": "en rodajas"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece las lentejas en el agua 25 minutos.",
+   "Sofríe la cebolla y el ajo en el aceite 5 minutos. Añade el jitomate y cocina 5 minutos.",
+   "Agrega el sofrito a las lentejas con la zanahoria y la sal. Cuece 15 minutos.",
+   "Añade el plátano y cuece 10 minutos más."
+  ],
+  "tips": [
+   "El plátano debe estar bien maduro, con la piel casi negra.",
+   "Si espesa, añade agua caliente."
+  ],
+  "video": "sopa de lentejas con plátano macho"
+ },
+ "en": {
+  "name": "Mexican Lentil Soup with Plantain",
+  "blurb": "Brothy lentils with tomato and slices of ripe plantain for a touch of sweetness. A Mexican home staple.",
+  "ing": [
+   {
+    "n": "lentils"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "carrot",
+    "note": "diced"
+   },
+   {
+    "n": "ripe plantain",
+    "note": "sliced"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the lentils in the water for 25 minutes.",
+   "Cook the onion and garlic in the oil for 5 minutes. Add the tomato and cook 5 minutes.",
+   "Stir this into the lentils with the carrot and salt. Simmer 15 minutes.",
+   "Add the plantain and cook 10 minutes more."
+  ],
+  "tips": [
+   "The plantain should be very ripe, its skin nearly black.",
+   "If it thickens, add hot water."
+  ],
+  "video": "mexican lentil soup with plantain"
+ },
+ "added": "2026-09-30"
+}

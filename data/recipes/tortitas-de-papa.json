@@ -1,0 +1,169 @@
+{
+ "id": "tortitas-de-papa",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "apflour",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Tortitas de papa en caldillo",
+  "blurb": "Tortitas de papa con queso, fritas y servidas en un caldillo de jitomate. Comida de Cuaresma en México.",
+  "ing": [
+   {
+    "n": "papas"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmoronado"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "agua"
+   }
+  ],
+  "steps": [
+   "Hierve las papas 20 minutos, pélalas y hazlas puré.",
+   "Mezcla el puré con el queso, los huevos, la harina y la sal. Forma 12 tortitas.",
+   "Fríelas en el aceite 3 minutos por lado. Escurre.",
+   "Licúa el jitomate, la cebolla, el ajo y el agua. Cuece 10 minutos con 1 cucharada del aceite y sala.",
+   "Pon las tortitas en el caldillo 3 minutos y sirve."
+  ],
+  "tips": [
+   "Deja enfriar el puré antes de formar para que no se deshagan.",
+   "Mételas al caldillo justo antes de servir para que no se ablanden de más."
+  ],
+  "video": "tortitas de papa en caldillo"
+ },
+ "en": {
+  "name": "Tortitas de Papa (Potato Cakes in Tomato Broth)",
+  "blurb": "Cheesy potato cakes, fried and served in a light tomato broth. A Lenten meal in Mexico.",
+  "ing": [
+   {
+    "n": "potatoes"
+   },
+   {
+    "n": "queso fresco",
+    "note": "crumbled"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "water"
+   }
+  ],
+  "steps": [
+   "Boil the potatoes 20 minutes, peel and mash.",
+   "Mix the mash with the cheese, eggs, flour and salt. Shape 12 cakes.",
+   "Fry them in the oil for 3 minutes per side. Drain.",
+   "Blend the tomato, onion, garlic and water. Simmer 10 minutes with 1 tablespoon of the oil and salt.",
+   "Put the cakes in the broth for 3 minutes and serve."
+  ],
+  "tips": [
+   "Let the mash cool before shaping so they hold together.",
+   "Add them to the broth just before serving so they don't go too soft."
+  ],
+  "video": "mexican potato cakes tomato broth"
+ },
+ "added": "2026-09-30"
+}

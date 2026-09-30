@@ -1,0 +1,199 @@
+{
+ "id": "arroz-a-la-tumbada",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "clam",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "squid",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Arroz a la tumbada",
+  "blurb": "Arroz caldoso con mariscos del puerto de Veracruz, rojo de jitomate y perfumado con epazote.",
+  "ing": [
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "jitomates",
+    "note": "picados"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "agua caliente"
+   },
+   {
+    "n": "camarones pelados"
+   },
+   {
+    "n": "almejas"
+   },
+   {
+    "n": "calamar en aros"
+   },
+   {
+    "n": "epazote o cilantro"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo y el pimiento en el aceite 5 minutos.",
+   "Añade el jitomate y cocina 8 minutos hasta que se deshaga.",
+   "Añade el arroz, mezcla 2 minutos y agrega el agua y la sal. Cuece 12 minutos.",
+   "Añade el calamar, las almejas y los camarones y cuece 6 minutos, hasta que las almejas se abran.",
+   "Termina con la hierba picada. Debe quedar caldoso."
+  ],
+  "tips": [
+   "Tira las almejas que no se abran.",
+   "Sírvelo en cuanto esté: el arroz sigue absorbiendo caldo."
+  ],
+  "video": "arroz a la tumbada veracruzano"
+ },
+ "en": {
+  "name": "Arroz a la Tumbada (Veracruz Seafood Rice)",
+  "blurb": "Soupy seafood rice from the port of Veracruz, red with tomato and fragrant with epazote.",
+  "ing": [
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "hot water"
+   },
+   {
+    "n": "peeled prawns"
+   },
+   {
+    "n": "clams"
+   },
+   {
+    "n": "squid rings"
+   },
+   {
+    "n": "epazote or coriander"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic and pepper in the oil for 5 minutes.",
+   "Add the tomato and cook 8 minutes until it breaks down.",
+   "Add the rice, stir 2 minutes and add the water and salt. Cook 12 minutes.",
+   "Add the squid, clams and prawns and cook 6 minutes, until the clams open.",
+   "Finish with the chopped herb. It should stay soupy."
+  ],
+  "tips": [
+   "Discard any clams that don't open.",
+   "Serve straight away: the rice keeps soaking up broth."
+  ],
+  "video": "arroz a la tumbada veracruz"
+ },
+ "added": "2026-09-30"
+}

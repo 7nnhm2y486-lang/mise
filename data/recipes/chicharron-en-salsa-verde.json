@@ -1,0 +1,155 @@
+{
+ "id": "chicharron-en-salsa-verde",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "tomatillo",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "sauce"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "porkskin",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Chicharrón en salsa verde",
+  "blurb": "Chicharrón que se ablanda en una salsa de tomate verde picosa. Desayuno de fonda mexicana.",
+  "ing": [
+   {
+    "n": "tomates verdes"
+   },
+   {
+    "n": "chiles serranos"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "chicharrón de cerdo",
+    "note": "en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Hierve los tomates verdes y los chiles 8 minutos.",
+   "Lícualos con la cebolla, el ajo, el cilantro y el agua.",
+   "Fríe la salsa en el aceite 5 minutos y sala.",
+   "Añade el chicharrón y cuece 10 minutos a fuego bajo, hasta que se ablande."
+  ],
+  "tips": [
+   "Si lo quieres con algo de textura, cuécelo solo 5 minutos.",
+   "Prueba de sal al final: el chicharrón ya es salado."
+  ],
+  "video": "chicharrón en salsa verde"
+ },
+ "en": {
+  "name": "Chicharrón en Salsa Verde",
+  "blurb": "Pork crackling softened in a spicy tomatillo sauce. A Mexican diner breakfast.",
+  "ing": [
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "serrano chillies"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "coriander"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "pork crackling",
+    "note": "in pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Boil the tomatillos and chillies for 8 minutes.",
+   "Blend with the onion, garlic, coriander and water.",
+   "Fry the sauce in the oil for 5 minutes and salt.",
+   "Add the crackling and simmer 10 minutes on low, until softened."
+  ],
+  "tips": [
+   "For some bite left, cook it only 5 minutes.",
+   "Taste for salt at the end: the crackling is already salty."
+  ],
+  "video": "chicharron in green sauce"
+ },
+ "added": "2026-09-30"
+}

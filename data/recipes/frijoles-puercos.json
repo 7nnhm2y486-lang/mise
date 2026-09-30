@@ -1,0 +1,137 @@
+{
+ "id": "frijoles-puercos",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "side",
+ "time": 30,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "bacon",
+   "role": "protein"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chipotleadobo",
+   "role": "aromatic"
+  },
+  {
+   "q": 750,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "cheese",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "olives",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Frijoles puercos",
+  "blurb": "Frijoles machacados con chorizo, tocino y chipotle, cubiertos de queso. Botana del norte y occidente de México.",
+  "ing": [
+   {
+    "n": "chorizo mexicano"
+   },
+   {
+    "n": "tocino",
+    "note": "picado"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "chiles chipotles adobados",
+    "note": "picados"
+   },
+   {
+    "n": "frijoles bayos cocidos con su líquido de cocción"
+   },
+   {
+    "n": "queso Chihuahua rallado"
+   },
+   {
+    "n": "aceitunas",
+    "note": "picadas"
+   }
+  ],
+  "steps": [
+   "Fríe el tocino 5 minutos. Añade el chorizo y la cebolla y cocina 5 minutos.",
+   "Añade los chipotles y los frijoles con su líquido.",
+   "Machaca y cocina 10 minutos, removiendo, hasta que espesen.",
+   "Cubre con el queso y las aceitunas y tapa 2 minutos para que se funda."
+  ],
+  "tips": [
+   "Sírvelos calientes, para untar.",
+   "Si quedan secos, añade más líquido de los frijoles."
+  ],
+  "video": "frijoles puercos"
+ },
+ "en": {
+  "name": "Frijoles Puercos",
+  "blurb": "Mashed beans with chorizo, bacon and chipotle, topped with cheese. A snack from northern and western Mexico.",
+  "ing": [
+   {
+    "n": "Mexican chorizo"
+   },
+   {
+    "n": "bacon",
+    "note": "chopped"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "chipotles in adobo",
+    "note": "chopped"
+   },
+   {
+    "n": "cooked pinto beans with their cooking liquid"
+   },
+   {
+    "n": "grated Chihuahua cheese"
+   },
+   {
+    "n": "olives",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Fry the bacon 5 minutes. Add the chorizo and onion and cook 5 minutes.",
+   "Add the chipotles and the beans with their liquid.",
+   "Mash and cook 10 minutes, stirring, until thick.",
+   "Top with the cheese and olives and cover 2 minutes to melt."
+  ],
+  "tips": [
+   "Eat them warm as a dip.",
+   "If they dry out, add more bean liquid."
+  ],
+  "video": "mexican frijoles puercos"
+ },
+ "added": "2026-09-30"
+}
