@@ -125,7 +125,7 @@ put("fishcake", ["fish", "wheat"], ["soy", "egg", "shellfish", "sugar"]);
 put("pesto", ["treenut", "milk", "allium"], [], T("Lleva piñones y parmesano; algunos comerciales usan anacardo.", "Contains pine nuts and parmesan; some store-bought ones use cashew."), {
   treenut: [sub(1, ["milk", "allium"], [], ["pesto hecho con semillas de girasol en vez de piñones", "Tuesta las semillas; mismo cuerpo."], ["pesto made with sunflower seeds instead of pine nuts", "Toast the seeds; same body."])],
   milk: [sub(1, ["treenut", "allium"], [], ["pesto sin queso con 1 cda de levadura nutricional", "Sal un poco más."], ["cheese-free pesto with 1 tbsp nutritional yeast", "Salt it a little more."])]});
-put("ragu", ["nightshade", "allium", "milk", "pork", "alcohol", "sulphite", "celery"], [], T("Hazlo con la receta de ragú de Mise aplicando tus sustituciones.", "Make it from Mise's ragù recipe with your swaps applied."));
+put("ragu", ["nightshade", "allium", "milk", "pork", "alcohol", "sulphite", "celery"], [], T("Hazlo con la receta de ragú de LibrePlato aplicando tus sustituciones.", "Make it from LibrePlato's ragù recipe with your swaps applied."));
 put("fermentedtofu", ["soy", "alcohol"], ["wheat"]);
 put("yeastextract", ["wheat"], [], T("El extracto de levadura se hace con levadura de cerveza (cebada).", "Yeast extract is made from brewer's yeast (barley)."));
 put("maltose", ["sugar"], ["wheat"], T("La maltosa se hace a veces con malta de cebada.", "Maltose is sometimes made with barley malt."));
@@ -163,7 +163,7 @@ put("milkpowder", ["milk"], [], null, {milk: [
 put("veganbutter", [], ["soy", "coconut", "treenut"], T("Las mantequillas veganas se hacen con coco, soja o anacardo: revisa la etiqueta.", "Vegan butters are made from coconut, soy or cashew: check the label."));
 put("dfchocolate", ["sugar"], ["soy", "milk", "treenut"], T("Aunque diga sin lácteos, revisa el aviso de trazas de leche y frutos secos.", "Even when labelled dairy-free, check the 'may contain' note for milk and nuts."));
 put("unsweetenedchocolate", [], ["milk", "soy"]);
-put("cookiedough", ["wheat", "milk", "egg", "sugar", "soy", "alcohol"], [], T("Hazla con la receta de galletas de Mise aplicando tus sustituciones.", "Make it from Mise's cookie recipe with your swaps applied."));
+put("cookiedough", ["wheat", "milk", "egg", "sugar", "soy", "alcohol"], [], T("Hazla con la receta de galletas de LibrePlato aplicando tus sustituciones.", "Make it from LibrePlato's cookie recipe with your swaps applied."));
 
 /* ---------- flour, pastry, bread composites ---------- */
 const GFNOTE = T("Revisa que la mezcla sea certificada sin gluten; muchas llevan maíz, soja o avena.", "Check the blend is certified gluten-free; many contain corn, soy or oats.");
@@ -175,8 +175,8 @@ put("sourdoughstarter", ["wheat"], [], null, {wheat: [
 put("shortcrust", ["wheat", "milk"], ["egg", "pork"], T("La masa quebrada comprada puede llevar huevo o manteca de cerdo.", "Store-bought shortcrust can contain egg or lard."), {
   wheat: [sub(1, ["milk"], ["egg", "corn"], ["masa quebrada sin gluten", "Más frágil: extiéndela entre dos papeles."], ["gluten-free shortcrust", "More fragile: roll it between two sheets of paper."])],
   milk: [sub(1, ["wheat"], ["soy", "coconut", "treenut"], ["masa quebrada hecha con mantequilla vegana en bloque", "Enfría la masa 30 min más."], ["shortcrust made with vegan block butter", "Chill the dough 30 min longer."])]});
-put("sweetshortcrust", ["wheat", "milk", "egg", "sugar"], [], T("Hazla con la receta de pâte sucrée de Mise aplicando tus sustituciones.", "Make it from Mise's pâte sucrée recipe with your swaps applied."));
-put("choux", ["wheat", "milk", "egg"], [], T("Hazla con la receta de choux de Mise. No hay sustituto fiable del huevo en la pasta choux.", "Make it from Mise's choux recipe. There is no reliable egg substitute in choux."), {
+put("sweetshortcrust", ["wheat", "milk", "egg", "sugar"], [], T("Hazla con la receta de pâte sucrée de LibrePlato aplicando tus sustituciones.", "Make it from LibrePlato's pâte sucrée recipe with your swaps applied."));
+put("choux", ["wheat", "milk", "egg"], [], T("Hazla con la receta de choux de LibrePlato. No hay sustituto fiable del huevo en la pasta choux.", "Make it from LibrePlato's choux recipe. There is no reliable egg substitute in choux."), {
   wheat: [sub(1, ["milk", "egg"], ["corn"], ["pasta choux con mezcla sin gluten", "Hace menos volumen; hornéala 5 min más."], ["choux made with a gluten-free blend", "Puffs less; bake 5 min longer."])],
   milk: [sub(1, ["wheat", "egg"], ["soy", "coconut", "treenut"], ["pasta choux con agua y mantequilla vegana", "Todo agua en vez de leche; queda más crujiente."], ["choux made with water and vegan butter", "All water instead of milk; crisper shell."])]});
 put("croissant", ["wheat", "milk", "egg"], ["sugar"]);

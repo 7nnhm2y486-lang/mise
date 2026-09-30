@@ -50,8 +50,8 @@
       bannerCheck: "Some ingredients are often made with something on your list. Check their labels.",
       bannerUnsafe: "Something in this recipe has no safe swap for your list.", setProfile: "Tell us what you avoid to adapt this recipe.",
       related: "More from", backHome: "All recipes", notFound: "Page not found", notFoundLead: "That page doesn't exist.",
-      aboutTitle: "About Mise", guideTitle: "Kitchen guide", ratios: "Ratios", temps: "Safe temperatures", rescue: "Rescue",
-      footer: "Original recipes, written and checked by Mise. Swaps are guidance, not medical advice.",
+      aboutTitle: "About LibrePlato", guideTitle: "Kitchen guide", ratios: "Ratios", temps: "Safe temperatures", rescue: "Rescue",
+      footer: "Original recipes, written and checked by LibrePlato. Swaps are guidance, not medical advice.",
     },
     es: {
       tagline: "Recetas adaptadas a lo que no puedes comer",
@@ -71,8 +71,8 @@
       bannerCheck: "Algunos ingredientes suelen llevar algo de tu lista. Revisa sus etiquetas.",
       bannerUnsafe: "Algo de esta receta no tiene un cambio seguro para tu lista.", setProfile: "Dinos qué evitas para adaptar esta receta.",
       related: "Más de", backHome: "Todas las recetas", notFound: "Página no encontrada", notFoundLead: "Esa página no existe.",
-      aboutTitle: "Acerca de Mise", guideTitle: "Guía de cocina", ratios: "Proporciones", temps: "Temperaturas seguras", rescue: "Rescates",
-      footer: "Recetas originales, escritas y revisadas por Mise. Los cambios son una guía, no un consejo médico.",
+      aboutTitle: "Acerca de LibrePlato", guideTitle: "Guía de cocina", ratios: "Proporciones", temps: "Temperaturas seguras", rescue: "Rescates",
+      footer: "Recetas originales, escritas y revisadas por LibrePlato. Los cambios son una guía, no un consejo médico.",
     },
   };
   const FRAC = [[1/8, "⅛"], [1/4, "¼"], [1/3, "⅓"], [1/2, "½"], [2/3, "⅔"], [3/4, "¾"]];

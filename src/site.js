@@ -1,4 +1,4 @@
-// Mise site behaviour: allergy profile, recipe adaptation, filters, units, cook mode.
+// LibrePlato site behaviour: allergy profile, recipe adaptation, filters, units, cook mode.
 (function(){
   "use strict";
   const lang = document.body.dataset.lang || "en";

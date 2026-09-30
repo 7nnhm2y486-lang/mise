@@ -7112,8 +7112,8 @@
     "celery"
    ],
    "label": {
-    "es": "Hazlo con la receta de ragú de Mise aplicando tus sustituciones.",
-    "en": "Make it from Mise's ragù recipe with your swaps applied."
+    "es": "Hazlo con la receta de ragú de LibrePlato aplicando tus sustituciones.",
+    "en": "Make it from LibrePlato's ragù recipe with your swaps applied."
    }
   },
   "fermentedtofu": {
@@ -7493,8 +7493,8 @@
     "alcohol"
    ],
    "label": {
-    "es": "Hazla con la receta de galletas de Mise aplicando tus sustituciones.",
-    "en": "Make it from Mise's cookie recipe with your swaps applied."
+    "es": "Hazla con la receta de galletas de LibrePlato aplicando tus sustituciones.",
+    "en": "Make it from LibrePlato's cookie recipe with your swaps applied."
    }
   },
   "gfflour": {
@@ -7620,8 +7620,8 @@
     "sugar"
    ],
    "label": {
-    "es": "Hazla con la receta de pâte sucrée de Mise aplicando tus sustituciones.",
-    "en": "Make it from Mise's pâte sucrée recipe with your swaps applied."
+    "es": "Hazla con la receta de pâte sucrée de LibrePlato aplicando tus sustituciones.",
+    "en": "Make it from LibrePlato's pâte sucrée recipe with your swaps applied."
    }
   },
   "choux": {
@@ -7631,8 +7631,8 @@
     "egg"
    ],
    "label": {
-    "es": "Hazla con la receta de choux de Mise. No hay sustituto fiable del huevo en la pasta choux.",
-    "en": "Make it from Mise's choux recipe. There is no reliable egg substitute in choux."
+    "es": "Hazla con la receta de choux de LibrePlato. No hay sustituto fiable del huevo en la pasta choux.",
+    "en": "Make it from LibrePlato's choux recipe. There is no reliable egg substitute in choux."
    },
    "s": {
     "wheat": [

@@ -1,4 +1,4 @@
-// Mise swap engine. Shared by the site (browser) and the tests (Node).
+// LibrePlato swap engine. Shared by the site (browser) and the tests (Node).
 // Given a recipe and the allergens someone avoids, it decides for every
 // ingredient: fine as is, needs a label check, swap (with the safe options),
 // or no safe swap. A substitute is only ever offered if nothing it contains

@@ -7,7 +7,7 @@ const {T, COURSE, REGION, fmtNum, unit} = require("../src/i18n.js");
 const {recipeAllergens} = require("../src/engine.js");
 
 const argBase = process.argv.indexOf("--base");
-const BASE = (argBase > 0 ? process.argv[argBase + 1] : process.env.SITE_URL || "https://mise.example").replace(/\/$/, "");
+const BASE = (argBase > 0 ? process.argv[argBase + 1] : process.env.SITE_URL || "https://libreplato.com").replace(/\/$/, "");
 const LANGS = ["en", "es"];
 // --preview N: build a small, fully relative copy (explicit index.html links) for hosts without clean URLs.
 const argPrev = process.argv.indexOf("--preview");
@@ -96,7 +96,7 @@ ${head}${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).r
 <body class="${bodyClass}" data-lang="${lang}">
 <a class="skip" href="#main">${lang === "en" ? "Skip to content" : "Ir al contenido"}</a>
 <header class="top">
-  <a class="brand" href="/${lang}/">${ICON}<b>Mise</b><span>${esc(t.tagline)}</span></a>
+  <a class="brand" href="/${lang}/">${ICON}<b>LibrePlato</b><span>${esc(t.tagline)}</span></a>
   <nav class="nav"><a href="/${lang}/">${t.home}</a><a href="/${lang}/${lang === "en" ? "guide" : "guia"}/">${t.guide}</a></nav>
   <button class="avoid-pill" type="button" data-open-picker aria-haspopup="dialog"><span class="eyebrow">${t.avoiding}</span> <span data-avoid-summary>${t.nothing}</span></button>
   <a class="lang" href="${alt ? alt[other] : "/" + other + "/"}" hreflang="${other}" lang="${other}">${other.toUpperCase()}</a>
@@ -193,14 +193,14 @@ ${uniq.length ? `<section class="related"><h2>${t.related} ${esc(REGION[lang][r.
   if(!al.a.some(a => ["milk", "egg", "fish", "shellfish", "mollusc", "pork", "gelatin", "honey"].includes(a)) && !r.ing.some(i => ["beef", "chicken", "lamb", "duck", "veal", "rabbit", "pork", "porkbelly", "porkmince", "stock", "whitefish", "salmon", "tuna", "anchovy"].includes(i.k))) diets.push("https://schema.org/VeganDiet");
   const jsonld = {
     "@context": "https://schema.org", "@type": "Recipe", name: x.name, description: x.blurb, inLanguage: lang,
-    image: [`${BASE}/img/${r.id}.svg`], author: {"@type": "Organization", name: "Mise"},
+    image: [`${BASE}/img/${r.id}.svg`], author: {"@type": "Organization", name: "LibrePlato"},
     totalTime: `PT${r.time}M`, recipeYield: String(r.serves), recipeCategory: COURSE[lang][r.course], recipeCuisine: countryName(r, lang),
     recipeIngredient: r.ing.map((ing, i) => `${qtyText(ing, lang)} ${x.ing[i].n}${x.ing[i].note ? ", " + x.ing[i].note : ""}`.trim()),
     recipeInstructions: x.steps.map(s => ({"@type": "HowToStep", text: s})),
     keywords: [x.name, countryName(r, lang), ...al.a.length ? [] : [lang === "en" ? "allergy friendly" : "apto para alergias"]].join(", "),
     ...(diets.length ? {suitableForDiet: diets} : {}),
   };
-  return page({lang, title: `${x.name} · Mise`, desc, path: alt[lang], alt, body, jsonld, bodyClass: "is-recipe"});
+  return page({lang, title: `${x.name} · LibrePlato`, desc, path: alt[lang], alt, body, jsonld, bodyClass: "is-recipe"});
 }
 
 function hash(s){ let h = 0; for(const c of s) h = (h * 31 + c.charCodeAt(0)) >>> 0; return h; }
@@ -238,8 +238,8 @@ function homePage(lang){
   <div class="grid" data-grid>${RECIPES.slice().sort((a, b) => (a.region === "latin-america" ? 0 : 1) - (b.region === "latin-america" ? 0 : 1) || a[lang].name.localeCompare(b[lang].name, lang)).map(r => card(r, lang)).join("\n")}</div>
   <p class="empty" data-empty hidden>${t.noResults}</p>
 </section>`;
-  const jsonld = {"@context": "https://schema.org", "@type": "WebSite", name: "Mise", url: `${BASE}/${lang}/`, inLanguage: lang, description: t.tagline};
-  return page({lang, title: `Mise · ${t.tagline}`, desc: t.pickLead, path: `/${lang}/`, alt: {en: "/en/", es: "/es/"}, body, jsonld, bodyClass: "is-home"});
+  const jsonld = {"@context": "https://schema.org", "@type": "WebSite", name: "LibrePlato", url: `${BASE}/${lang}/`, inLanguage: lang, description: t.tagline};
+  return page({lang, title: `LibrePlato · ${t.tagline}`, desc: t.pickLead, path: `/${lang}/`, alt: {en: "/en/", es: "/es/"}, body, jsonld, bodyClass: "is-home"});
 }
 
 /* ---------------- guide & about ---------------- */
@@ -252,17 +252,17 @@ function guidePage(lang){
   const temps = `<section><h2>${t.temps}</h2><dl class="ratios">${R.temps.map(x => `<div><dt>${esc(x.k)} <span class="mono">${esc(x.v)}</span></dt><dd>${safe(x.n)}</dd></div>`).join("")}</dl></section>`;
   const rescue = `<section><h2>${t.rescue}</h2>${R.rescue.map(x => `<details class="rescue"><summary>${esc(x.q)}</summary><p>${safe(x.a)}</p></details>`).join("")}</section>`;
   const body = `<div class="wrap prose-page"><h1>${t.guideTitle}</h1>${tech}${ratios}${temps}${rescue}</div>`;
-  return page({lang, title: `${t.guideTitle} · Mise`, desc: lang === "en" ? "Why cooking techniques work, key ratios, safe temperatures and how to rescue common mistakes." : "Por qué funcionan las técnicas de cocina, proporciones clave, temperaturas seguras y cómo rescatar errores comunes.", path: GUIDE[lang], alt: GUIDE, body});
+  return page({lang, title: `${t.guideTitle} · LibrePlato`, desc: lang === "en" ? "Why cooking techniques work, key ratios, safe temperatures and how to rescue common mistakes." : "Por qué funcionan las técnicas de cocina, proporciones clave, temperaturas seguras y cómo rescatar errores comunes.", path: GUIDE[lang], alt: GUIDE, body});
 }
 const ABOUT_TEXT = {
-  en: `<p>Mise is a recipe library built for people who can't eat everything. Tell it what you avoid, and every recipe adapts: each ingredient you can't have is swapped for one that does the same job in that dish, and every swap lists exactly what it contains.</p>
+  en: `<p>LibrePlato is a recipe library built for people who can't eat everything. Tell it what you avoid, and every recipe adapts: each ingredient you can't have is swapped for one that does the same job in that dish, and every swap lists exactly what it contains.</p>
 <h2>How the swaps work</h2><p>Every ingredient in every recipe is tagged with what it contains and what it often contains depending on the brand. A swap is only ever shown if nothing it contains is on your list. When a swap or an ingredient often includes something on your list (stock, spice blends, chocolate, oats), you'll see a "check the label" note. When no safe swap exists, the recipe says so instead of guessing.</p>
 <h2>Please read labels</h2><p>Swaps are guidance, not medical advice. Brands change their recipes, and many foods are made on shared equipment. If you have a severe allergy, check every label and follow your doctor's advice.</p>
-<h2>Where the recipes come from</h2><p>Every recipe is original: written for Mise, in English and Spanish, and checked by automated tests for allergen tagging, quantities and both translations. We never copy recipes from other sites.</p>`,
-  es: `<p>Mise es un recetario para quienes no pueden comer de todo. Dile qué evitas y cada receta se adapta: cada ingrediente que no puedes comer se cambia por otro que cumple la misma función en ese plato, y cada cambio dice exactamente qué contiene.</p>
+<h2>Where the recipes come from</h2><p>Every recipe is original: written for LibrePlato, in English and Spanish, and checked by automated tests for allergen tagging, quantities and both translations. We never copy recipes from other sites.</p>`,
+  es: `<p>LibrePlato es un recetario para quienes no pueden comer de todo. Dile qué evitas y cada receta se adapta: cada ingrediente que no puedes comer se cambia por otro que cumple la misma función en ese plato, y cada cambio dice exactamente qué contiene.</p>
 <h2>Cómo funcionan los cambios</h2><p>Cada ingrediente de cada receta está marcado con lo que contiene y con lo que suele contener según la marca. Un cambio solo aparece si nada de lo que contiene está en tu lista. Cuando un cambio o un ingrediente suele llevar algo de tu lista (caldo, mezclas de especias, chocolate, avena), verás un aviso para revisar la etiqueta. Si no existe un cambio seguro, la receta lo dice en vez de adivinar.</p>
 <h2>Lee las etiquetas</h2><p>Los cambios son una guía, no un consejo médico. Las marcas cambian sus recetas y muchos alimentos se elaboran en equipos compartidos. Si tienes una alergia grave, revisa cada etiqueta y sigue las indicaciones de tu médico.</p>
-<h2>De dónde salen las recetas</h2><p>Todas las recetas son originales: escritas para Mise, en español e inglés, y revisadas con pruebas automáticas de alérgenos, cantidades y ambas traducciones. Nunca copiamos recetas de otros sitios.</p>`,
+<h2>De dónde salen las recetas</h2><p>Todas las recetas son originales: escritas para LibrePlato, en español e inglés, y revisadas con pruebas automáticas de alérgenos, cantidades y ambas traducciones. Nunca copiamos recetas de otros sitios.</p>`,
 };
 function aboutPage(lang){
   const t = T[lang];
@@ -284,7 +284,7 @@ function cover(r){
 <circle cx="600" cy="450" r="270" fill="none" stroke="hsl(${h} 25% 80%)" stroke-width="3"/>
 <text x="600" y="${y0 - 90}" text-anchor="middle" font-family="Georgia, serif" font-size="34" letter-spacing="6" fill="hsl(${h} 30% 35%)">${esc(r.country.toUpperCase())}</text>
 ${lines.map((l, i) => `<text x="600" y="${y0 + i * 100}" text-anchor="middle" font-family="Georgia, serif" font-weight="700" font-size="92" fill="hsl(${h} 30% 18%)">${esc(l)}</text>`).join("")}
-<text x="600" y="${y0 + lines.length * 100 + 10}" text-anchor="middle" font-family="Georgia, serif" font-size="30" letter-spacing="8" fill="#8E6410">MISE</text>
+<text x="600" y="${y0 + lines.length * 100 + 10}" text-anchor="middle" font-family="Georgia, serif" font-size="30" letter-spacing="8" fill="#8E6410">LIBREPLATO</text>
 </svg>`;
 }
 
@@ -311,12 +311,12 @@ for(const r of RECIPES){
   sitemap.push({en: url("en", r.id), es: url("es", r.id)});
 }
 // Root: send people to their language; crawlers get links.
-write("index.html", `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Mise</title>
+write("index.html", `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>LibrePlato</title>
 <link rel="alternate" hreflang="en" href="${BASE}/en/"><link rel="alternate" hreflang="es" href="${BASE}/es/"><link rel="alternate" hreflang="x-default" href="${BASE}/en/">
 <script>try{var l=localStorage.getItem("mise.lang")||((navigator.language||"en").slice(0,2)==="es"?"es":"en");location.replace(l+"/${PREVIEW ? "index.html" : ""}")}catch(e){location.replace("en/${PREVIEW ? "index.html" : ""}")}</script>
 <style>body{font:16px Georgia,serif;display:grid;place-items:center;min-height:90vh;background:#EAEDE8;color:#161D1A}a{margin:0 12px}</style></head>
 <body><p><a href="/en/">English</a><a href="/es/">Español</a></p></body></html>`);
-write("404.html", page({lang: "en", title: "Not found · Mise", desc: "Page not found", path: "/404.html", body: `<div class="wrap prose-page"><h1>${T.en.notFound}</h1><p>${T.en.notFoundLead} <a href="/en/">${T.en.backHome}</a> · <a href="/es/">${T.es.backHome}</a></p></div>`}));
+write("404.html", page({lang: "en", title: "Not found · LibrePlato", desc: "Page not found", path: "/404.html", body: `<div class="wrap prose-page"><h1>${T.en.notFound}</h1><p>${T.en.notFoundLead} <a href="/en/">${T.en.backHome}</a> · <a href="/es/">${T.es.backHome}</a></p></div>`}));
 const seen = new Set();
 write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">

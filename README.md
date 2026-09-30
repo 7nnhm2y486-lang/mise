@@ -1,4 +1,4 @@
-# Mise
+# LibrePlato
 
 Allergy-first recipes in English and Spanish. Every recipe can be adapted to what you can't eat, and every substitute lists exactly what it contains.
 
