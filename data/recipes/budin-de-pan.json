@@ -1,0 +1,134 @@
+{
+ "id": "budin-de-pan",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 90,
+ "serves": 10,
+ "ovenC": 170,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Budín de pan",
+  "blurb": "Pan viejo remojado en leche y horneado al baño María con caramelo. El postre de aprovechamiento de las abuelas.",
+  "ing": [
+   {
+    "n": "azúcar para el caramelo"
+   },
+   {
+    "n": "pan del día anterior",
+    "note": "en trozos"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "ralladura de naranja"
+   },
+   {
+    "n": "pasas"
+   }
+  ],
+  "steps": [
+   "Haz un caramelo con 150 g de azúcar y cubre un molde de budín inglés.",
+   "Remoja el pan en la leche 20 minutos y aplástalo con un tenedor.",
+   "Bate los huevos con 150 g de azúcar y la ralladura. Mezcla con el pan y las pasas.",
+   "Vierte en el molde y hornea al baño María a 170 °C durante 60 minutos, hasta que un palillo salga limpio.",
+   "Enfría, refrigera 4 horas y desmolda."
+  ],
+  "tips": [
+   "Cuanto más seco el pan, más leche absorbe.",
+   "Desmolda frío para que no se rompa."
+  ],
+  "video": "budín de pan receta"
+ },
+ "en": {
+  "name": "Budín de Pan (Argentine Bread Pudding)",
+  "blurb": "Stale bread soaked in milk and baked in a water bath with caramel. Grandma's thrifty dessert.",
+  "ing": [
+   {
+    "n": "sugar for the caramel"
+   },
+   {
+    "n": "day-old bread",
+    "note": "torn"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "orange zest"
+   },
+   {
+    "n": "raisins"
+   }
+  ],
+  "steps": [
+   "Make a caramel with 150 g of sugar and coat a loaf tin.",
+   "Soak the bread in the milk for 20 minutes and mash with a fork.",
+   "Whisk the eggs with 150 g of sugar and the zest. Mix with the bread and raisins.",
+   "Pour into the tin and bake in a water bath at 170 °C for 60 minutes, until a skewer comes out clean.",
+   "Cool, refrigerate 4 hours and turn out."
+  ],
+  "tips": [
+   "The drier the bread, the more milk it soaks up.",
+   "Turn it out cold so it doesn't break."
+  ],
+  "video": "bread pudding recipe"
+ },
+ "added": "2026-09-30"
+}

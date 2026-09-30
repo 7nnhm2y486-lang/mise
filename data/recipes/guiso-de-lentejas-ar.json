@@ -1,0 +1,245 @@
+{
+ "id": "guiso-de-lentejas-ar",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "pancetta",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Guiso de lentejas",
+  "blurb": "Guiso espeso de lentejas con panceta, chorizo colorado, papa y calabaza. Comida de invierno y de 25 de mayo.",
+  "ing": [
+   {
+    "n": "lentejas",
+    "note": "remojadas 2 horas"
+   },
+   {
+    "n": "panceta",
+    "note": "en dados"
+   },
+   {
+    "n": "chorizos colorados",
+    "note": "en rodajas"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "morrón rojo",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "zanahoria",
+    "note": "en dados"
+   },
+   {
+    "n": "puré de tomate"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "papas",
+    "note": "en dados"
+   },
+   {
+    "n": "calabaza",
+    "note": "en dados"
+   },
+   {
+    "n": "agua caliente"
+   },
+   {
+    "n": "hoja de laurel"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Dora la panceta y el chorizo en el aceite 5 minutos.",
+   "Añade la cebolla, el morrón y el ajo y cuece 8 minutos. Añade la zanahoria y el pimentón.",
+   "Añade el puré de tomate y cuece 5 minutos.",
+   "Añade las lentejas escurridas, el agua, el laurel y la sal y cuece 25 minutos.",
+   "Añade la papa y la calabaza y cuece 20 minutos más, hasta que todo esté tierno y espeso."
+  ],
+  "tips": [
+   "Deja reposar 10 minutos antes de servir; espesa y se asienta.",
+   "Rinde para dos días; recalienta con un poco de agua."
+  ],
+  "video": "guiso de lentejas argentino"
+ },
+ "en": {
+  "name": "Argentine Lentil Stew",
+  "blurb": "A thick lentil stew with pancetta, chorizo, potato and squash. Winter food, and a 25 May tradition.",
+  "ing": [
+   {
+    "n": "lentils",
+    "note": "soaked 2 hours"
+   },
+   {
+    "n": "pancetta",
+    "note": "diced"
+   },
+   {
+    "n": "Spanish-style chorizos",
+    "note": "sliced"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "carrot",
+    "note": "diced"
+   },
+   {
+    "n": "tomato purée"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "potatoes",
+    "note": "diced"
+   },
+   {
+    "n": "squash",
+    "note": "diced"
+   },
+   {
+    "n": "hot water"
+   },
+   {
+    "n": "bay leaf"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Brown the pancetta and chorizo in the oil for 5 minutes.",
+   "Add the onion, pepper and garlic and cook 8 minutes. Add the carrot and paprika.",
+   "Add the tomato purée and cook 5 minutes.",
+   "Add the drained lentils, water, bay and salt and cook 25 minutes.",
+   "Add the potato and squash and cook 20 minutes more, until tender and thick."
+  ],
+  "tips": [
+   "Rest 10 minutes before serving; it thickens and settles.",
+   "It lasts two days; reheat with a little water."
+  ],
+  "video": "argentine lentil stew recipe"
+ },
+ "added": "2026-09-30"
+}

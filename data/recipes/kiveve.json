@@ -1,0 +1,161 @@
+{
+ "id": "kiveve",
+ "country": "Paraguay",
+ "region": "latin-america",
+ "course": "side",
+ "time": 45,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Kiveve",
+  "blurb": "Crema espesa y anaranjada de calabaza con harina de maíz y queso. Plato guaraní, dulce y salado.",
+  "ing": [
+   {
+    "n": "calabaza (andaí)",
+    "note": "pelada, en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "harina de maíz"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "queso Paraguay o fresco",
+    "note": "en dados"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece la calabaza en el agua 20 minutos y aplástala con su líquido.",
+   "Sofríe la cebolla en el aceite 5 minutos y añádela a la calabaza.",
+   "Mezcla la harina de maíz con la leche y añádela, removiendo.",
+   "Añade el azúcar y la sal y cuece 10 minutos a fuego bajo, sin parar de remover.",
+   "Añade el queso y retira cuando empiece a fundirse."
+  ],
+  "tips": [
+   "Debe quedar como un puré espeso, no como sopa.",
+   "Se sirve con carne asada o solo, como plato principal."
+  ],
+  "video": "kiveve paraguayo receta"
+ },
+ "en": {
+  "name": "Kiveve (Paraguayan Pumpkin and Cheese Cream)",
+  "blurb": "A thick orange cream of pumpkin with cornmeal and cheese. A Guaraní dish, sweet and savoury.",
+  "ing": [
+   {
+    "n": "pumpkin (andaí)",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "cornmeal"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "Paraguayan or fresh cheese",
+    "note": "diced"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the pumpkin in the water for 20 minutes and mash with its liquid.",
+   "Cook the onion in the oil for 5 minutes and add to the pumpkin.",
+   "Mix the cornmeal with the milk and add, stirring.",
+   "Add the sugar and salt and cook 10 minutes on low, stirring constantly.",
+   "Add the cheese and take off the heat as it begins to melt."
+  ],
+  "tips": [
+   "It should be like a thick mash, not a soup.",
+   "It's served with grilled meat or on its own as a main."
+  ],
+  "video": "kiveve recipe"
+ },
+ "added": "2026-09-30"
+}

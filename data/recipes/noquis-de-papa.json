@@ -1,0 +1,143 @@
+{
+ "id": "noquis-de-papa",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "sauce"
+  },
+  {
+   "q": 8,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "parmesan",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Ñoquis de papa",
+  "blurb": "Ñoquis caseros de papa con manteca y salvia. En Argentina se comen el 29 de cada mes con un billete bajo el plato.",
+  "ing": [
+   {
+    "n": "papas harinosas"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "hojas de salvia"
+   },
+   {
+    "n": "queso parmesano rallado"
+   }
+  ],
+  "steps": [
+   "Hierve las papas con piel 25 minutos. Pélalas calientes y pásalas por el pisapuré.",
+   "Añade el huevo, la sal, la nuez moscada y la harina poco a poco hasta tener una masa suave que no se pegue.",
+   "Haz cilindros de 2 cm, corta trozos de 2 cm y pásalos por un tenedor.",
+   "Cuece en agua hirviendo con sal hasta que floten, 2 minutos.",
+   "Derrite la mantequilla con la salvia hasta que haga espuma, saltea los ñoquis y sirve con el queso."
+  ],
+  "tips": [
+   "Usa la menor cantidad de harina posible: los ñoquis quedan más livianos.",
+   "Prueba cociendo uno antes; si se deshace, añade un poco de harina."
+  ],
+  "video": "ñoquis de papa caseros"
+ },
+ "en": {
+  "name": "Ñoquis de Papa (Potato Gnocchi)",
+  "blurb": "Homemade potato gnocchi with butter and sage. In Argentina they're eaten on the 29th of each month, with a banknote under the plate.",
+  "ing": [
+   {
+    "n": "floury potatoes"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "sage leaves"
+   },
+   {
+    "n": "grated parmesan"
+   }
+  ],
+  "steps": [
+   "Boil the potatoes in their skins for 25 minutes. Peel while hot and press through a ricer.",
+   "Add the egg, salt, nutmeg and the flour gradually to a soft dough that doesn't stick.",
+   "Roll into 2 cm ropes, cut 2 cm pieces and roll them over a fork.",
+   "Cook in boiling salted water until they float, 2 minutes.",
+   "Melt the butter with the sage until foaming, toss the gnocchi and serve with the cheese."
+  ],
+  "tips": [
+   "Use as little flour as you can: the gnocchi turn out lighter.",
+   "Test-cook one first; if it falls apart, add a little flour."
+  ],
+  "video": "potato gnocchi recipe"
+ },
+ "added": "2026-09-30"
+}

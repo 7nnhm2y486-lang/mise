@@ -1,0 +1,156 @@
+{
+ "id": "torta-rogel",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 120,
+ "serves": 12,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "eggyolk",
+   "role": "binder"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "dulcedeleche",
+   "role": "sweet"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "eggwhite",
+   "role": "aerate"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Torta Rogel",
+  "blurb": "Capas finísimas de masa crocante con dulce de leche y un merengue italiano encima. La torta de cumpleaños argentina.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "mantequilla blanda"
+   },
+   {
+    "n": "agua fría"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "dulce de leche repostero"
+   },
+   {
+    "n": "claras de huevo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua para el merengue"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, las yemas, la mantequilla, el agua y la sal. Amasa 5 minutos hasta que esté lisa. Deja 30 minutos.",
+   "Divide en 8 bollos y estira cada uno muy fino en un círculo de 24 cm. Pínchalos.",
+   "Hornea cada disco a 200 °C durante 6 minutos, hasta que esté apenas dorado. Enfría.",
+   "Arma la torta alternando discos y dulce de leche.",
+   "Hierve el azúcar con el agua del merengue hasta 118 °C. Viértelo en hilo sobre las claras batidas y bate 8 minutos, hasta que esté frío. Cubre la torta."
+  ],
+  "tips": [
+   "Arma la torta la noche anterior: las capas se ablandan un poco y se corta mejor.",
+   "El dulce de leche repostero es más firme y no se escurre."
+  ],
+  "video": "torta rogel receta"
+ },
+ "en": {
+  "name": "Torta Rogel (Dulce de Leche Layer Cake)",
+  "blurb": "Paper-thin crisp pastry layers with dulce de leche and an Italian meringue on top. Argentina's birthday cake.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "soft butter"
+   },
+   {
+    "n": "cold water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "thick dulce de leche"
+   },
+   {
+    "n": "egg whites"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water for the meringue"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yolks, butter, water and salt. Knead 5 minutes until smooth. Rest 30 minutes.",
+   "Divide into 8 balls and roll each very thin into a 24 cm circle. Prick them.",
+   "Bake each disc at 200 °C for 6 minutes, until barely golden. Cool.",
+   "Build the cake alternating discs and dulce de leche.",
+   "Boil the sugar with the meringue water to 118 °C. Pour in a thin stream onto the whisked whites and whisk 8 minutes, until cool. Cover the cake."
+  ],
+  "tips": [
+   "Assemble the night before: the layers soften slightly and it slices better.",
+   "Baker's dulce de leche is firmer and doesn't run."
+  ],
+  "video": "torta rogel recipe"
+ },
+ "added": "2026-09-30"
+}

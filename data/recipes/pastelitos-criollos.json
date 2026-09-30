@@ -1,0 +1,121 @@
+{
+ "id": "pastelitos-criollos",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "puffpastry",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "quincepaste",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "glaze"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Pastelitos criollos",
+  "blurb": "Estrellas de hojaldre rellenas de membrillo, fritas y bañadas en almíbar. Se comen el 25 de mayo.",
+  "ing": [
+   {
+    "n": "masa de hojaldre"
+   },
+   {
+    "n": "dulce de membrillo",
+    "note": "en cubos"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cáscara de naranja"
+   }
+  ],
+  "steps": [
+   "Estira el hojaldre a 3 mm y corta 24 cuadrados de 10 cm.",
+   "Pon un cubo de membrillo en el centro de un cuadrado y cubre con otro girado 45 grados, formando una estrella. Pega las puntas con agua.",
+   "Cuece el azúcar con el agua y la cáscara de naranja 5 minutos hasta tener un almíbar ligero.",
+   "Fríe los pastelitos a 170 °C durante 3 minutos, hasta que se abran y doren.",
+   "Pásalos por el almíbar tibio y deja escurrir."
+  ],
+  "tips": [
+   "El aceite no debe estar muy caliente o se doran antes de abrir las capas.",
+   "Pellizca cada punta hacia arriba para que la estrella se note."
+  ],
+  "video": "pastelitos criollos de membrillo"
+ },
+ "en": {
+  "name": "Pastelitos Criollos (Quince Pastry Stars)",
+  "blurb": "Puff pastry stars filled with quince paste, fried and dipped in syrup. Eaten on 25 May.",
+  "ing": [
+   {
+    "n": "puff pastry"
+   },
+   {
+    "n": "quince paste",
+    "note": "in cubes"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "orange peel"
+   }
+  ],
+  "steps": [
+   "Roll the pastry to 3 mm and cut 24 squares of 10 cm.",
+   "Put a cube of quince in the centre of one square and cover with another turned 45 degrees, making a star. Stick the points with water.",
+   "Simmer the sugar with the water and orange peel for 5 minutes to a light syrup.",
+   "Fry the pastries at 170 °C for 3 minutes, until they open and turn golden.",
+   "Dip them in the warm syrup and drain."
+  ],
+  "tips": [
+   "The oil shouldn't be too hot or they brown before the layers open.",
+   "Pinch each point upward so the star shape shows."
+  ],
+  "video": "pastelitos criollos recipe"
+ },
+ "added": "2026-09-30"
+}

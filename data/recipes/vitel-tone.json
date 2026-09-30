@@ -1,0 +1,183 @@
+{
+ "id": "vitel-tone",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 120,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "veal",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "mayo",
+   "role": "sauce"
+  },
+  {
+   "q": 160,
+   "u": "g",
+   "k": "tuna",
+   "role": "sauce"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "anchovy",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "capers",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Vitel toné",
+  "blurb": "Carne fría en lonchas finas con salsa de atún, anchoas y mayonesa. Infaltable en la mesa de Navidad argentina.",
+  "ing": [
+   {
+    "n": "peceto de ternera"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla",
+    "note": "en mitades"
+   },
+   {
+    "n": "zanahoria"
+   },
+   {
+    "n": "hoja de laurel"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "atún en aceite",
+    "note": "escurrido"
+   },
+   {
+    "n": "filetes de anchoa"
+   },
+   {
+    "n": "alcaparras"
+   }
+  ],
+  "steps": [
+   "Cuece la carne en el agua con la cebolla, la zanahoria, el laurel, el vino y la sal 90 minutos a fuego bajo. Deja enfriar en el líquido.",
+   "Corta la carne fría en lonchas muy finas.",
+   "Licúa la mayonesa, el atún y las anchoas con 4 cucharadas del líquido de cocción hasta tener una salsa lisa.",
+   "Coloca la carne en una fuente y cúbrela con la salsa.",
+   "Decora con las alcaparras y refrigera al menos 2 horas."
+  ],
+  "tips": [
+   "Enfriar la carne en su líquido la mantiene jugosa.",
+   "Se prepara un día antes: gana sabor."
+  ],
+  "video": "vitel toné receta argentina"
+ },
+ "en": {
+  "name": "Vitel Toné (Veal in Tuna Sauce)",
+  "blurb": "Thin slices of cold veal under a sauce of tuna, anchovy and mayonnaise. A must on the Argentine Christmas table.",
+  "ing": [
+   {
+    "n": "veal eye of round"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "onion",
+    "note": "halved"
+   },
+   {
+    "n": "carrot"
+   },
+   {
+    "n": "bay leaf"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "tuna in oil",
+    "note": "drained"
+   },
+   {
+    "n": "anchovy fillets"
+   },
+   {
+    "n": "capers"
+   }
+  ],
+  "steps": [
+   "Simmer the veal in the water with the onion, carrot, bay, wine and salt for 90 minutes on low. Cool in the liquid.",
+   "Slice the cold meat very thinly.",
+   "Blend the mayonnaise, tuna and anchovies with 4 tablespoons of the cooking liquid until smooth.",
+   "Lay the meat on a platter and cover with the sauce.",
+   "Scatter over the capers and chill at least 2 hours."
+  ],
+  "tips": [
+   "Cooling the meat in its liquid keeps it juicy.",
+   "Make it a day ahead: it gains flavour."
+  ],
+  "video": "vitel tone recipe"
+ },
+ "added": "2026-09-30"
+}

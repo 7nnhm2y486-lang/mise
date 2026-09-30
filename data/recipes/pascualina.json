@@ -1,0 +1,160 @@
+{
+ "id": "pascualina",
+ "country": "Uruguay",
+ "region": "latin-america",
+ "course": "main",
+ "time": 75,
+ "serves": 8,
+ "ovenC": 190,
+ "ing": [
+  {
+   "q": 2,
+   "u": "",
+   "k": "shortcrust",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "parmesan",
+   "role": "enrich"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pascualina",
+  "blurb": "Tarta de acelga con huevos enteros escondidos que aparecen al cortar. Se hace en Semana Santa en Uruguay.",
+  "ing": [
+   {
+    "n": "tapas para pascualina"
+   },
+   {
+    "n": "acelga",
+    "note": "hervida, escurrida y picada"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "queso rallado"
+   },
+   {
+    "n": "huevos batidos"
+   },
+   {
+    "n": "huevos enteros"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla en el aceite 5 minutos. Mezcla con la acelga, el queso, los huevos batidos, la nuez moscada y la sal.",
+   "Forra un molde de 26 cm con una tapa y rellena con la acelga.",
+   "Haz 5 huecos en el relleno y casca un huevo entero en cada uno.",
+   "Cubre con la otra tapa, sella el borde con un repulgue y pincha la superficie.",
+   "Hornea a 190 °C durante 40 minutos, hasta que esté dorada."
+  ],
+  "tips": [
+   "Escurre muy bien la acelga o la masa de abajo queda cruda.",
+   "Marca dónde quedan los huevos para cortar por ellos."
+  ],
+  "video": "pascualina uruguaya receta"
+ },
+ "en": {
+  "name": "Pascualina (Easter Chard Pie)",
+  "blurb": "A chard pie with whole eggs hidden inside that appear when you cut it. Made for Holy Week in Uruguay.",
+  "ing": [
+   {
+    "n": "shortcrust pastry rounds"
+   },
+   {
+    "n": "Swiss chard",
+    "note": "boiled, squeezed and chopped"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "grated cheese"
+   },
+   {
+    "n": "beaten eggs"
+   },
+   {
+    "n": "whole eggs"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion in the oil for 5 minutes. Mix with the chard, cheese, beaten eggs, nutmeg and salt.",
+   "Line a 26 cm tin with one pastry round and fill with the chard.",
+   "Make 5 hollows in the filling and crack a whole egg into each.",
+   "Cover with the other round, crimp the edge and prick the top.",
+   "Bake at 190 °C for 40 minutes, until golden."
+  ],
+  "tips": [
+   "Squeeze the chard very well or the bottom pastry stays raw.",
+   "Mark where the eggs sit so you can cut through them."
+  ],
+  "video": "pascualina recipe"
+ },
+ "added": "2026-09-30"
+}

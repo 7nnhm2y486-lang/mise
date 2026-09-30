@@ -1,0 +1,136 @@
+{
+ "id": "chipa-guasu",
+ "country": "Paraguay",
+ "region": "latin-america",
+ "course": "side",
+ "time": 70,
+ "serves": 8,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Chipa guasu",
+  "blurb": "Pastel de choclo licuado con queso y huevo, húmedo y dorado. Compañero del asado en Paraguay.",
+  "ing": [
+   {
+    "n": "granos de choclo"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "queso Paraguay o fresco",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla en el aceite 5 minutos.",
+   "Licúa el choclo con la leche, dejando algo de textura.",
+   "Bate los huevos y mezcla con el choclo, la cebolla, el queso y la sal.",
+   "Vierte en un molde engrasado de 22 x 30 cm.",
+   "Hornea a 180 °C durante 45 minutos, hasta que esté dorado y firme."
+  ],
+  "tips": [
+   "Deja enfriar 10 minutos antes de cortar.",
+   "Con choclo congelado, descongélalo y sécalo bien."
+  ],
+  "video": "chipa guasu receta"
+ },
+ "en": {
+  "name": "Chipa Guasu (Paraguayan Corn and Cheese Bake)",
+  "blurb": "A bake of blended sweetcorn with cheese and egg, moist and golden. The partner to a Paraguayan asado.",
+  "ing": [
+   {
+    "n": "sweetcorn kernels"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "Paraguayan or fresh cheese",
+    "note": "crumbled"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion in the oil for 5 minutes.",
+   "Blend the corn with the milk, leaving some texture.",
+   "Whisk the eggs and mix with the corn, onion, cheese and salt.",
+   "Pour into a greased 22 x 30 cm dish.",
+   "Bake at 180 °C for 45 minutes, until golden and set."
+  ],
+  "tips": [
+   "Let it cool 10 minutes before cutting.",
+   "With frozen corn, thaw and dry it well."
+  ],
+  "video": "chipa guasu recipe"
+ },
+ "added": "2026-09-30"
+}

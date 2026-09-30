@@ -1,0 +1,109 @@
+{
+ "id": "mbeju",
+ "country": "Paraguay",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 25,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "cassavastarch",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Mbejú",
+  "blurb": "Torta de almidón de mandioca y queso hecha en sartén, crocante por fuera. Se acompaña con cocido en Paraguay.",
+  "ing": [
+   {
+    "n": "almidón de mandioca"
+   },
+   {
+    "n": "queso Paraguay o queso fresco",
+    "note": "rallado"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Mezcla el almidón con la sal y la mantequilla hasta tener una arena gruesa.",
+   "Añade el queso y la leche poco a poco, frotando con las manos, hasta que parezca arena húmeda.",
+   "Calienta una sartén de 20 cm a fuego medio y pon la mitad de la mezcla, aplanando.",
+   "Cuece 3 minutos hasta que se una y dore, voltea y cuece 2 minutos más.",
+   "Repite con el resto y sirve caliente."
+  ],
+  "tips": [
+   "La mezcla no debe ser una masa: debe quedar granulada.",
+   "Si se desarma al voltear, le falta un poco de leche."
+  ],
+  "video": "mbeju paraguayo receta"
+ },
+ "en": {
+  "name": "Mbejú (Paraguayan Cassava Cheese Cake)",
+  "blurb": "A pan-cooked cake of cassava starch and cheese, crisp outside. Eaten with yerba cocido in Paraguay.",
+  "ing": [
+   {
+    "n": "cassava starch"
+   },
+   {
+    "n": "Paraguayan or fresh cheese",
+    "note": "grated"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Mix the starch with the salt and butter to a coarse sand.",
+   "Add the cheese and milk a little at a time, rubbing with your hands, until like damp sand.",
+   "Heat a 20 cm frying pan over medium heat and add half the mixture, pressing flat.",
+   "Cook 3 minutes until it fuses and browns, flip and cook 2 minutes more.",
+   "Repeat with the rest and serve hot."
+  ],
+  "tips": [
+   "The mixture shouldn't be a dough: it should stay crumbly.",
+   "If it falls apart when flipped, it needs a little more milk."
+  ],
+  "video": "mbeju recipe"
+ },
+ "added": "2026-09-30"
+}

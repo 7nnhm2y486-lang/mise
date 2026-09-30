@@ -196,7 +196,7 @@ module.exports = [
 
 {id:"carne-de-porco-alentejana", c:"Portugal", r:"mediterranean", m:"main", t:60, s:4,
  i:[[700,"g","pork","protein","magro de cerdo","lean pork","en dados de 3 cm","in 3 cm dice"],
-    [2,"tbsp","bellpepper","aromatic","pasta de pimiento rojo (massa de pimentão)","red pepper paste (massa de pimentão)"],
+    [2,"tbsp","ajipaste","aromatic","pasta de pimiento rojo (massa de pimentão)","red pepper paste (massa de pimentão)"],
     [4,"clove","garlic","aromatic","ajo","garlic","picado","chopped"],
     [200,"ml","winewhite","liquid","vino blanco","white wine"],
     [1,"leaf","herb","aromatic","hoja de laurel","bay leaf"],
