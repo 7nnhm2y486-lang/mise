@@ -1,0 +1,117 @@
+{
+ "id": "sagu-de-vinho",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "cassavastarch",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "winered",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Sagu de vinho",
+  "blurb": "Perlas de tapioca cocidas en vino tinto con canela y clavo. Postre gaúcho del sur de Brasil.",
+  "ing": [
+   {
+    "n": "perlas de tapioca (sagú)"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "vino tinto"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "clavos de olor"
+   }
+  ],
+  "steps": [
+   "Remoja las perlas en el agua 30 minutos.",
+   "Añade el vino, el azúcar, la canela y el clavo y lleva a hervor.",
+   "Cuece 25 minutos a fuego bajo, removiendo, hasta que las perlas estén transparentes.",
+   "Retira la canela y el clavo y deja enfriar. Sirve frío."
+  ],
+  "tips": [
+   "Si queda alguna perla con centro blanco, cuece unos minutos más.",
+   "Espesa al enfriar: si queda muy firme, añade un poco de agua."
+  ],
+  "video": "sagu de vinho gaúcho"
+ },
+ "en": {
+  "name": "Sagu de Vinho (Tapioca Pearls in Red Wine)",
+  "blurb": "Tapioca pearls cooked in red wine with cinnamon and clove. A gaúcho dessert from southern Brazil.",
+  "ing": [
+   {
+    "n": "tapioca pearls"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "red wine"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "cloves"
+   }
+  ],
+  "steps": [
+   "Soak the pearls in the water for 30 minutes.",
+   "Add the wine, sugar, cinnamon and cloves and bring to the boil.",
+   "Simmer 25 minutes on low, stirring, until the pearls are clear.",
+   "Remove the cinnamon and cloves and cool. Serve cold."
+  ],
+  "tips": [
+   "If any pearls still have a white centre, cook a few minutes more.",
+   "It thickens as it cools: if too firm, add a little water."
+  ],
+  "video": "brazilian sagu red wine"
+ },
+ "added": "2026-09-30"
+}

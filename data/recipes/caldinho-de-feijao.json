@@ -1,0 +1,139 @@
+{
+ "id": "caldinho-de-feijao",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "bacon",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Caldinho de feijão",
+  "blurb": "Crema de frijol negro con tocino, servida en vasitos. Entrante de los bares brasileños.",
+  "ing": [
+   {
+    "n": "frijoles negros cocidos con su líquido de cocción"
+   },
+   {
+    "n": "tocino",
+    "note": "en daditos"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Fríe el tocino 5 minutos hasta que esté crujiente. Saca la mitad para decorar.",
+   "Sofríe la cebolla y el ajo en la grasa 5 minutos.",
+   "Añade los frijoles y el agua y cuece 10 minutos.",
+   "Tritura hasta que esté liso, sala y cuece 5 minutos más.",
+   "Sirve en vasitos con el tocino reservado y el perejil."
+  ],
+  "tips": [
+   "Debe quedar como una crema espesa pero bebible.",
+   "Si espesa al reposar, añade un poco de agua."
+  ],
+  "video": "caldinho de feijão"
+ },
+ "en": {
+  "name": "Caldinho de Feijão (Brazilian Black Bean Shots)",
+  "blurb": "A smooth black bean soup with bacon, served in small cups. A Brazilian bar starter.",
+  "ing": [
+   {
+    "n": "cooked black beans with their cooking liquid"
+   },
+   {
+    "n": "bacon",
+    "note": "diced"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Fry the bacon for 5 minutes until crisp. Set half aside for topping.",
+   "Cook the onion and garlic in the fat for 5 minutes.",
+   "Add the beans and water and simmer 10 minutes.",
+   "Blend until smooth, salt and simmer 5 minutes more.",
+   "Serve in small cups with the reserved bacon and parsley."
+  ],
+  "tips": [
+   "It should be thick but drinkable.",
+   "Add water if it gets too thick as it sits."
+  ],
+  "video": "brazilian black bean caldinho"
+ },
+ "added": "2026-09-30"
+}

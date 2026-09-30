@@ -1,0 +1,175 @@
+{
+ "id": "strogonoff-de-frango",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "main",
+ "time": 35,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 700,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "mushroom",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "ketchup",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "mustard",
+   "role": "sauce"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "heavycream",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "rice",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Strogonoff de frango",
+  "blurb": "Pollo en salsa cremosa de kétchup, mostaza y champiñones. El plato favorito de los cumpleaños en Brasil.",
+  "ing": [
+   {
+    "n": "pechuga de pollo",
+    "note": "en cubos"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "champiñones",
+    "note": "en láminas"
+   },
+   {
+    "n": "kétchup"
+   },
+   {
+    "n": "mostaza"
+   },
+   {
+    "n": "crema de leche"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "arroz blanco para servir"
+   }
+  ],
+  "steps": [
+   "Sala el pollo y dóralo en la mantequilla 6 minutos.",
+   "Añade la cebolla y el ajo y cocina 4 minutos.",
+   "Añade los champiñones y cocina 4 minutos.",
+   "Añade el kétchup y la mostaza, baja el fuego y añade la crema. Calienta 3 minutos sin hervir.",
+   "Sirve con el arroz blanco."
+  ],
+  "tips": [
+   "No dejes hervir tras añadir la crema o se corta.",
+   "Sírvelo recién hecho: la salsa espesa al reposar."
+  ],
+  "video": "strogonoff de frango brasileño"
+ },
+ "en": {
+  "name": "Strogonoff de Frango (Brazilian Chicken Stroganoff)",
+  "blurb": "Chicken in a creamy ketchup, mustard and mushroom sauce. Brazil's favourite birthday-party dish.",
+  "ing": [
+   {
+    "n": "chicken breast",
+    "note": "cubed"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "mushrooms",
+    "note": "sliced"
+   },
+   {
+    "n": "ketchup"
+   },
+   {
+    "n": "mustard"
+   },
+   {
+    "n": "double cream"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "white rice to serve"
+   }
+  ],
+  "steps": [
+   "Salt the chicken and brown it in the butter for 6 minutes.",
+   "Add the onion and garlic and cook 4 minutes.",
+   "Add the mushrooms and cook 4 minutes.",
+   "Add the ketchup and mustard, lower the heat and add the cream. Heat 3 minutes without boiling.",
+   "Serve with the white rice."
+  ],
+  "tips": [
+   "Don't boil once the cream is in or it may split.",
+   "Serve it straight away: the sauce thickens as it sits."
+  ],
+  "video": "brazilian chicken stroganoff"
+ },
+ "added": "2026-09-30"
+}

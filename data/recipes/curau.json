@@ -1,0 +1,107 @@
+{
+ "id": "curau",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 5,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Curau",
+  "blurb": "Crema de maíz tierno con leche y azúcar, espolvoreada con canela. Dulce de las fiestas juninas.",
+  "ing": [
+   {
+    "n": "mazorcas de maíz tierno",
+    "note": "desgranadas"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Licúa el maíz con la leche 3 minutos.",
+   "Cuela apretando bien para sacar todo el líquido.",
+   "Cuece el líquido con el azúcar y la sal 20 minutos a fuego bajo, removiendo sin parar, hasta que espese.",
+   "Reparte en cuencos, deja enfriar y espolvorea con canela."
+  ],
+  "tips": [
+   "Usa maíz tierno y lechoso: el maíz duro no espesa igual.",
+   "Remueve siempre: se pega muy fácil."
+  ],
+  "video": "curau de milho"
+ },
+ "en": {
+  "name": "Curau (Brazilian Sweet Corn Pudding)",
+  "blurb": "A pudding of fresh corn, milk and sugar, dusted with cinnamon. A June festival favourite.",
+  "ing": [
+   {
+    "n": "corn cobs",
+    "note": "kernels cut off"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Blend the corn with the milk for 3 minutes.",
+   "Strain, pressing hard to get all the liquid.",
+   "Cook the liquid with the sugar and salt for 20 minutes on low, stirring constantly, until thick.",
+   "Pour into bowls, cool and dust with cinnamon."
+  ],
+  "tips": [
+   "Use young, milky corn: starchy corn won't thicken the same way.",
+   "Keep stirring: it catches very easily."
+  ],
+  "video": "brazilian curau corn pudding"
+ },
+ "added": "2026-09-30"
+}

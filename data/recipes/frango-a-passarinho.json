@@ -1,0 +1,151 @@
+{
+ "id": "frango-a-passarinho",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "dredge"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Frango à passarinho",
+  "blurb": "Trocitos de pollo con hueso marinados en ajo y limón, fritos y cubiertos de ajo dorado. Tapa de bar brasileña.",
+  "ing": [
+   {
+    "n": "pollo en trozos pequeños"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "maicena"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "ajo (para dorar)",
+    "note": "laminado"
+   },
+   {
+    "n": "perejil",
+    "note": "picada"
+   }
+  ],
+  "steps": [
+   "Marina el pollo con el ajo machacado, el limón y la sal 1 hora.",
+   "Escurre y pasa por la maicena.",
+   "Fríe a 170 °C en tandas 10 minutos, hasta que esté dorado y cocido.",
+   "Fríe el ajo laminado en el mismo aceite 1 minuto, hasta que dore.",
+   "Cubre el pollo con el ajo y el perejil."
+  ],
+  "tips": [
+   "Pide al carnicero que corte el pollo en trozos de 4 cm con hueso.",
+   "No frías el ajo laminado demasiado: amarga en segundos."
+  ],
+  "video": "frango a passarinho"
+ },
+ "en": {
+  "name": "Frango à Passarinho (Brazilian Garlic Fried Chicken Bites)",
+  "blurb": "Small bone-in chicken pieces marinated in garlic and lime, fried and topped with golden garlic. A Brazilian bar snack.",
+  "ing": [
+   {
+    "n": "chicken in small pieces"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cornflour"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "garlic (for frying)",
+    "note": "sliced"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Marinate the chicken with the crushed garlic, lime and salt for 1 hour.",
+   "Drain and dredge in the cornflour.",
+   "Fry at 170 °C in batches for 10 minutes, until golden and cooked through.",
+   "Fry the sliced garlic in the same oil for 1 minute, until golden.",
+   "Top the chicken with the garlic and parsley."
+  ],
+  "tips": [
+   "Ask the butcher to chop the chicken into 4 cm bone-in pieces.",
+   "Don't overfry the sliced garlic: it turns bitter in seconds."
+  ],
+  "video": "brazilian garlic chicken bites"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,131 @@
+{
+ "id": "manjar-branco",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 395,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "set"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sauce"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Manjar branco com calda de ameixa",
+  "blurb": "Flan de coco firme cubierto de salsa de ciruelas pasas. El postre de las comidas de domingo en Brasil.",
+  "ing": [
+   {
+    "n": "leche"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "maicena"
+   },
+   {
+    "n": "ciruelas pasas sin hueso"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   }
+  ],
+  "steps": [
+   "Mezcla la leche, la leche de coco, la condensada y la maicena en frío.",
+   "Cuece removiendo 10 minutos, hasta que espese mucho.",
+   "Vierte en un molde de flan mojado y refrigera 4 horas.",
+   "Cuece las ciruelas con el azúcar y el agua 15 minutos, hasta tener un almíbar. Deja enfriar.",
+   "Desmolda el manjar y cubre con la salsa de ciruelas."
+  ],
+  "tips": [
+   "Moja el molde con agua para que se desmolde fácil.",
+   "Remueve sin parar mientras espesa para evitar grumos."
+  ],
+  "video": "manjar branco com calda de ameixa"
+ },
+ "en": {
+  "name": "Manjar Branco (Coconut Pudding with Prune Sauce)",
+  "blurb": "A firm coconut pudding topped with prune syrup. Brazil's Sunday lunch dessert.",
+  "ing": [
+   {
+    "n": "milk"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "condensed milk"
+   },
+   {
+    "n": "cornflour"
+   },
+   {
+    "n": "pitted prunes"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   }
+  ],
+  "steps": [
+   "Mix the milk, coconut milk, condensed milk and cornflour cold.",
+   "Cook, stirring, for 10 minutes, until very thick.",
+   "Pour into a wet ring mould and chill 4 hours.",
+   "Simmer the prunes with the sugar and water for 15 minutes, into a syrup. Cool.",
+   "Turn out the pudding and top with the prune sauce."
+  ],
+  "tips": [
+   "Wet the mould so it turns out easily.",
+   "Stir constantly as it thickens to avoid lumps."
+  ],
+  "video": "brazilian coconut pudding prunes"
+ },
+ "added": "2026-09-30"
+}

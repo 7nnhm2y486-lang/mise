@@ -1,0 +1,115 @@
+{
+ "id": "carne-de-sol-com-mandioca",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "driedmeat",
+   "role": "protein"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Carne de sol com mandioca",
+  "blurb": "Carne salada y secada al sol, dorada en mantequilla con cebolla, con yuca cocida. Plato del Nordeste brasileño.",
+  "ing": [
+   {
+    "n": "carne de sol (carne de res salada y secada al sol)",
+    "note": "en cubos"
+   },
+   {
+    "n": "yuca",
+    "note": "pelada, en trozos"
+   },
+   {
+    "n": "mantequilla clarificada o mantequilla"
+   },
+   {
+    "n": "cebollas",
+    "note": "en aros"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Remoja la carne de sol en agua 2 horas, cambiando el agua 2 veces, para quitar sal.",
+   "Cuece la yuca en agua 25 minutos, hasta que esté tierna. Escurre.",
+   "Dora la carne en la mitad de la mantequilla a fuego fuerte 8 minutos.",
+   "Añade la cebolla y cocina 5 minutos.",
+   "Saltea la yuca en el resto de la mantequilla 5 minutos y sirve con la carne y el cilantro."
+  ],
+  "tips": [
+   "Prueba un trozo tras el remojo: si sigue muy salada, remoja más.",
+   "La mantequilla de botella del Nordeste le da el sabor típico."
+  ],
+  "video": "carne de sol com mandioca"
+ },
+ "en": {
+  "name": "Carne de Sol com Mandioca (Sun-Dried Beef with Cassava)",
+  "blurb": "Salted, sun-dried beef browned in butter with onions, served with boiled cassava. A dish from Brazil's Northeast.",
+  "ing": [
+   {
+    "n": "carne de sol (salted sun-dried beef)",
+    "note": "cubed"
+   },
+   {
+    "n": "cassava",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "clarified or regular butter"
+   },
+   {
+    "n": "onions",
+    "note": "in rings"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Soak the beef in water for 2 hours, changing the water 2 times, to remove salt.",
+   "Boil the cassava for 25 minutes, until tender. Drain.",
+   "Brown the beef in half the butter over high heat for 8 minutes.",
+   "Add the onion and cook 5 minutes.",
+   "Sauté the cassava in the rest of the butter for 5 minutes and serve with the beef and coriander."
+  ],
+  "tips": [
+   "Taste a piece after soaking: if still very salty, soak longer.",
+   "The Northeast's bottled clarified butter gives it the typical flavour."
+  ],
+  "video": "brazilian carne de sol cassava"
+ },
+ "added": "2026-09-30"
+}

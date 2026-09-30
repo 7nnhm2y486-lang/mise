@@ -1,0 +1,145 @@
+{
+ "id": "bolinho-de-arroz",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 30,
+ "serves": 20,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "apflour",
+   "role": "binder"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "parmesan",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Bolinho de arroz",
+  "blurb": "Bolitas fritas de arroz sobrante con queso y perejil. La forma brasileña de no tirar el arroz de ayer.",
+  "ing": [
+   {
+    "n": "arroz cocido frío"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "queso parmesano rallado"
+   },
+   {
+    "n": "perejil",
+    "note": "picada"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Mezcla el arroz, los huevos, el queso, el perejil y la sal.",
+   "Añade la harina y el polvo de hornear y mezcla hasta tener una masa pegajosa.",
+   "Forma bolitas con dos cucharas.",
+   "Fríe a 175 °C 3 minutos, hasta que estén doradas.",
+   "Escurre en papel."
+  ],
+  "tips": [
+   "El arroz frío de la víspera funciona mejor.",
+   "Si la masa está muy blanda, añade una cucharada más de harina."
+  ],
+  "video": "bolinho de arroz"
+ },
+ "en": {
+  "name": "Bolinho de Arroz (Brazilian Rice Fritters)",
+  "blurb": "Fried balls of leftover rice with cheese and parsley. Brazil's way of not wasting yesterday's rice.",
+  "ing": [
+   {
+    "n": "cold cooked rice"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "grated parmesan"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Mix the rice, eggs, cheese, parsley and salt.",
+   "Add the flour and baking powder and mix to a sticky batter.",
+   "Shape balls with two spoons.",
+   "Fry at 175 °C for 3 minutes, until golden.",
+   "Drain on paper."
+  ],
+  "tips": [
+   "Day-old cold rice works best.",
+   "If the batter is too loose, add another spoon of flour."
+  ],
+  "video": "brazilian rice fritters"
+ },
+ "added": "2026-09-30"
+}

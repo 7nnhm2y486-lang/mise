@@ -1,0 +1,105 @@
+{
+ "id": "pe-de-moleque",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 30,
+ "serves": 20,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "peanut",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "bakingsoda",
+   "role": "aerate"
+  }
+ ],
+ "es": {
+  "name": "Pé de moleque",
+  "blurb": "Crocante de maní con rapadura. Dulce de las fiestas juninas brasileñas.",
+  "ing": [
+   {
+    "n": "maní tostado sin piel"
+   },
+   {
+    "n": "rapadura o azúcar mascabado"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   }
+  ],
+  "steps": [
+   "Cuece la rapadura con el agua 8 minutos, hasta que forme un caramelo espeso.",
+   "Añade los maníes y la mantequilla y cocina 5 minutos, removiendo.",
+   "Añade el bicarbonato y mezcla rápido: espumará.",
+   "Extiende sobre una superficie engrasada a 1 cm y corta en cuadrados antes de que endurezca."
+  ],
+  "tips": [
+   "Trabaja rápido: endurece en pocos minutos.",
+   "Guárdalo en un frasco cerrado para que no se ablande."
+  ],
+  "video": "pé de moleque de amendoim"
+ },
+ "en": {
+  "name": "Pé de Moleque (Brazilian Peanut Brittle)",
+  "blurb": "Peanut brittle made with unrefined cane sugar. A Brazilian June festival sweet.",
+  "ing": [
+   {
+    "n": "roasted skinned peanuts"
+   },
+   {
+    "n": "rapadura or dark brown sugar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "bicarbonate of soda"
+   }
+  ],
+  "steps": [
+   "Boil the sugar with the water for 8 minutes, into a thick caramel.",
+   "Add the peanuts and butter and cook 5 minutes, stirring.",
+   "Add the bicarbonate and stir fast: it will foam.",
+   "Spread 1 cm thick on a greased surface and cut into squares before it sets."
+  ],
+  "tips": [
+   "Work fast: it sets in minutes.",
+   "Store in a closed jar so it doesn't go soft."
+  ],
+  "video": "brazilian peanut brittle"
+ },
+ "added": "2026-09-30"
+}
