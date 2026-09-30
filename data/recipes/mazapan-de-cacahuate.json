@@ -1,0 +1,81 @@
+{
+ "id": "mazapan-de-cacahuate",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 20,
+ "serves": 16,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "peanut",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Mazapán de cacahuate",
+  "blurb": "Discos de cacahuate molido con azúcar que se deshacen en la boca. El dulce de la tiendita mexicana, hecho en casa.",
+  "ing": [
+   {
+    "n": "cacahuates tostados sin sal"
+   },
+   {
+    "n": "azúcar glas"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Muele los cacahuates en un procesador 1 minuto, hasta que parezcan arena húmeda, sin llegar a crema.",
+   "Añade el azúcar glas y la sal y procesa 30 segundos.",
+   "Presiona porciones de la mezcla con fuerza en un cortador redondo de 4 cm.",
+   "Desmolda con cuidado y deja reposar 1 hora para que se asienten."
+  ],
+  "tips": [
+   "No muelas de más o el cacahuate suelta aceite y se vuelve pasta.",
+   "Presiona muy fuerte para que no se desmoronen."
+  ],
+  "video": "mazapán de cacahuate casero"
+ },
+ "en": {
+  "name": "Mazapán de Cacahuate (Mexican Peanut Candy)",
+  "blurb": "Discs of ground peanut and sugar that melt in your mouth. The corner-shop Mexican candy, made at home.",
+  "ing": [
+   {
+    "n": "unsalted roasted peanuts"
+   },
+   {
+    "n": "icing sugar"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Grind the peanuts in a processor for 1 minute, until like damp sand but not butter.",
+   "Add the icing sugar and salt and process 30 seconds.",
+   "Press portions firmly into a 4 cm round cutter.",
+   "Unmould carefully and rest 1 hour to firm up."
+  ],
+  "tips": [
+   "Don't over-grind or the peanuts release oil and turn to paste.",
+   "Press very hard so they don't crumble."
+  ],
+  "video": "mexican peanut marzipan"
+ },
+ "added": "2026-09-30"
+}

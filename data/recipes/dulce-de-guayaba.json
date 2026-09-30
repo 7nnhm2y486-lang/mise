@@ -1,0 +1,97 @@
+{
+ "id": "dulce-de-guayaba",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 90,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Bocadillo de guayaba casero",
+  "blurb": "Pasta firme de guayaba con azúcar, como el bocadillo veleño. Se come con queso en toda Colombia.",
+  "ing": [
+   {
+    "n": "guayabas maduras"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   }
+  ],
+  "steps": [
+   "Corta las guayabas en cuartos y cuécelas en el agua 20 minutos.",
+   "Licúa y cuela para quitar las semillas.",
+   "Cuece el puré con el azúcar y el limón 50 minutos a fuego medio-bajo, removiendo sin parar, hasta ver el fondo de la olla.",
+   "Vierte en un molde forrado con papel, alisa y deja secar 24 horas.",
+   "Corta en barras."
+  ],
+  "tips": [
+   "Usa una cuchara de palo larga: salpica mucho al espesar.",
+   "Se conserva 1 mes envuelto en un lugar fresco."
+  ],
+  "video": "bocadillo de guayaba casero"
+ },
+ "en": {
+  "name": "Homemade Guava Paste",
+  "blurb": "A firm guava and sugar paste, like Colombia's bocadillo veleño. Eaten with cheese all over Colombia.",
+  "ing": [
+   {
+    "n": "ripe guavas"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   }
+  ],
+  "steps": [
+   "Quarter the guavas and simmer them in the water for 20 minutes.",
+   "Blend and sieve out the seeds.",
+   "Cook the purée with the sugar and lime for 50 minutes over medium-low heat, stirring constantly, until you can see the bottom of the pan.",
+   "Pour into a lined tin, smooth and leave to dry 24 hours.",
+   "Cut into bars."
+  ],
+  "tips": [
+   "Use a long wooden spoon: it spits as it thickens.",
+   "It keeps 1 month wrapped in a cool place."
+  ],
+  "video": "homemade guava paste"
+ },
+ "added": "2026-09-30"
+}

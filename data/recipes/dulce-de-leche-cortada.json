@@ -1,0 +1,123 @@
+{
+ "id": "dulce-de-leche-cortada",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 90,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 2,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Dulce de leche cortada",
+  "blurb": "Grumos de leche cortada con limón, cocidos en melado de papelón con canela y clavo. Dulce tradicional venezolano.",
+  "ing": [
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   },
+   {
+    "n": "papelón",
+    "note": "rallado"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "clavos de olor"
+   }
+  ],
+  "steps": [
+   "Calienta la leche hasta que hierva, apaga y añade el limón. Deja reposar 10 minutos, hasta que se corte.",
+   "Cuela con un paño y deja escurrir 30 minutos.",
+   "Hierve el papelón con el agua, la canela y el clavo 10 minutos para hacer un melado.",
+   "Añade los grumos de leche y cuece 30 minutos a fuego bajo, sin remover mucho, hasta que se doren y el melado espese.",
+   "Sirve frío."
+  ],
+  "tips": [
+   "Mueve la olla en lugar de remover para que los grumos no se deshagan.",
+   "Se conserva 1 semana en la nevera."
+  ],
+  "video": "dulce de leche cortada venezolano"
+ },
+ "en": {
+  "name": "Dulce de Leche Cortada (Curdled Milk Sweet)",
+  "blurb": "Milk curds set with lime and simmered in cane-sugar syrup with cinnamon and clove. A traditional Venezuelan sweet.",
+  "ing": [
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "papelón (unrefined cane sugar)",
+    "note": "grated"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "cloves"
+   }
+  ],
+  "steps": [
+   "Heat the milk to the boil, turn off and add the lime. Rest 10 minutes, until it curdles.",
+   "Strain through a cloth and drain 30 minutes.",
+   "Boil the papelón with the water, cinnamon and cloves for 10 minutes into a syrup.",
+   "Add the curds and simmer 30 minutes on low, stirring little, until golden and the syrup thickens.",
+   "Serve cold."
+  ],
+  "tips": [
+   "Shake the pan rather than stirring so the curds stay whole.",
+   "It keeps 1 week in the fridge."
+  ],
+  "video": "venezuelan curdled milk sweet"
+ },
+ "added": "2026-09-30"
+}

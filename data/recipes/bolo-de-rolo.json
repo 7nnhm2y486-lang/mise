@@ -1,0 +1,131 @@
+{
+ "id": "bolo-de-rolo",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 90,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "guavapaste",
+   "role": "spread"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "icingsugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Bolo de rolo",
+  "blurb": "Brazo de gitano de capas finísimas enrolladas con guayaba. Patrimonio de Pernambuco, en Brasil.",
+  "ing": [
+   {
+    "n": "mantequilla blanda"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "pasta de guayaba (goiabada)"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "azúcar glas"
+   }
+  ],
+  "steps": [
+   "Derrite la goiabada con el agua a fuego bajo hasta tener una crema untable. Deja enfriar.",
+   "Bate la mantequilla con el azúcar 5 minutos, añade los huevos de uno en uno y luego la harina.",
+   "Extiende 4 cucharadas de masa muy fina en una bandeja de 30 x 40 cm con papel y hornea a 200 °C 5 minutos.",
+   "Vuelca sobre un paño con azúcar, unta con guayaba y enrolla. Repite con cada capa, enrollándola alrededor del rollo anterior.",
+   "Deja enfriar y espolvorea con azúcar glas."
+  ],
+  "tips": [
+   "Las capas deben ser casi transparentes: es la marca de un buen bolo de rolo.",
+   "Trabaja con las capas calientes para que no se rompan."
+  ],
+  "video": "bolo de rolo pernambucano"
+ },
+ "en": {
+  "name": "Bolo de Rolo (Brazilian Guava Roll Cake)",
+  "blurb": "A roll cake of paper-thin layers wrapped around guava paste. A heritage cake of Pernambuco, Brazil.",
+  "ing": [
+   {
+    "n": "soft butter"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "guava paste"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "icing sugar"
+   }
+  ],
+  "steps": [
+   "Melt the guava paste with the water on low into a spreadable cream. Cool.",
+   "Beat the butter with the sugar for 5 minutes, add the eggs one at a time, then the flour.",
+   "Spread 4 tablespoons of batter very thin on a lined 30 x 40 cm tray and bake at 200 °C for 5 minutes.",
+   "Turn onto a sugared cloth, spread with guava and roll. Repeat with each layer, rolling it around the previous roll.",
+   "Cool and dust with icing sugar."
+  ],
+  "tips": [
+   "The layers should be almost see-through: the mark of a good bolo de rolo.",
+   "Work with the layers warm so they don't crack."
+  ],
+  "video": "brazilian bolo de rolo"
+ },
+ "added": "2026-09-30"
+}

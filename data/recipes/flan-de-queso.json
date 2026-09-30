@@ -1,0 +1,119 @@
+{
+ "id": "flan-de-queso",
+ "country": "Puerto Rico",
+ "region": "caribbean",
+ "course": "sweet",
+ "time": 90,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 225,
+   "u": "g",
+   "k": "creamcheese",
+   "role": "enrich"
+  },
+  {
+   "q": 395,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 360,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Flan de queso",
+  "blurb": "Flan denso y cremoso con queso crema. El flan de las fiestas en Puerto Rico y Cuba.",
+  "ing": [
+   {
+    "n": "azúcar (para el caramelo)"
+   },
+   {
+    "n": "queso crema"
+   },
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "esencia de vainilla"
+   }
+  ],
+  "steps": [
+   "Derrite el azúcar en un molde de flan hasta que tenga color ámbar y cubre el fondo. Deja enfriar.",
+   "Licúa el queso crema, la leche condensada, la evaporada, los huevos y la vainilla.",
+   "Vierte sobre el caramelo.",
+   "Hornea a baño María a 175 °C 60 minutos, hasta que cuaje.",
+   "Deja enfriar y refrigera 4 horas antes de desmoldar."
+  ],
+  "tips": [
+   "El queso crema debe estar a temperatura ambiente para que no queden grumos.",
+   "Desmolda pasando un cuchillo por el borde."
+  ],
+  "video": "flan de queso boricua"
+ },
+ "en": {
+  "name": "Flan de Queso (Cream Cheese Flan)",
+  "blurb": "A dense, creamy flan made with cream cheese. The party flan in Puerto Rico and Cuba.",
+  "ing": [
+   {
+    "n": "sugar (for the caramel)"
+   },
+   {
+    "n": "cream cheese"
+   },
+   {
+    "n": "condensed milk"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "vanilla extract"
+   }
+  ],
+  "steps": [
+   "Melt the sugar in a flan mould until amber and coat the base. Cool.",
+   "Blend the cream cheese, condensed milk, evaporated milk, eggs and vanilla.",
+   "Pour over the caramel.",
+   "Bake in a water bath at 175 °C for 60 minutes, until set.",
+   "Cool and chill 4 hours before turning out."
+  ],
+  "tips": [
+   "Have the cream cheese at room temperature so there are no lumps.",
+   "Run a knife around the edge to turn it out."
+  ],
+  "video": "puerto rican cream cheese flan"
+ },
+ "added": "2026-09-30"
+}

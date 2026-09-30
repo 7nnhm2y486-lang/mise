@@ -1,0 +1,215 @@
+{
+ "id": "chocoflan",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 120,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "dulcedeleche",
+   "role": "glaze"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "cocoa",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingsoda",
+   "role": "aerate"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 240,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 395,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 360,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 90,
+   "u": "g",
+   "k": "creamcheese",
+   "role": "enrich"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Chocoflan (pastel imposible)",
+  "blurb": "Pastel de chocolate y flan que intercambian lugares en el horno. Lo llaman pastel imposible.",
+  "ing": [
+   {
+    "n": "cajeta"
+   },
+   {
+    "n": "mantequilla blanda"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevo (para el pastel)"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "cacao en polvo"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "queso crema"
+   },
+   {
+    "n": "huevos (para el flan)"
+   },
+   {
+    "n": "esencia de vainilla"
+   }
+  ],
+  "steps": [
+   "Cubre el fondo de un molde de rosca engrasado con la cajeta.",
+   "Bate la mantequilla con el azúcar, añade el huevo del pastel y luego la harina, el cacao, el bicarbonato y el polvo de hornear alternando con la leche. Vierte sobre la cajeta.",
+   "Licúa la leche condensada, la evaporada, el queso crema, los huevos del flan y la vainilla. Viértelo con cuidado sobre la masa.",
+   "Tapa con papel de aluminio y hornea a baño María a 180 °C 75 minutos.",
+   "Deja enfriar y refrigera 4 horas antes de desmoldar."
+  ],
+  "tips": [
+   "Vierte el flan sobre el dorso de una cuchara para no mezclar las capas.",
+   "Desmolda en frío: caliente se rompe."
+  ],
+  "video": "chocoflan pastel imposible"
+ },
+ "en": {
+  "name": "Chocoflan (Impossible Cake)",
+  "blurb": "Chocolate cake and flan that swap places in the oven. That's why it's called the impossible cake.",
+  "ing": [
+   {
+    "n": "cajeta (goat's milk caramel)"
+   },
+   {
+    "n": "soft butter"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg (for the cake)"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "cocoa powder"
+   },
+   {
+    "n": "bicarbonate of soda"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "condensed milk"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "cream cheese"
+   },
+   {
+    "n": "eggs (for the flan)"
+   },
+   {
+    "n": "vanilla extract"
+   }
+  ],
+  "steps": [
+   "Coat the base of a greased bundt tin with the cajeta.",
+   "Beat the butter with the sugar, add the cake egg, then the flour, cocoa, bicarbonate and baking powder alternating with the milk. Pour over the cajeta.",
+   "Blend the condensed milk, evaporated milk, cream cheese, flan eggs and vanilla. Pour it gently over the batter.",
+   "Cover with foil and bake in a water bath at 180 °C for 75 minutes.",
+   "Cool and chill 4 hours before turning out."
+  ],
+  "tips": [
+   "Pour the flan over the back of a spoon so the layers don't mix.",
+   "Turn it out cold: warm, it breaks."
+  ],
+  "video": "mexican chocoflan"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,167 @@
+{
+ "id": "gelatina-de-mosaico",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 35,
+   "u": "g",
+   "k": "gelatin",
+   "role": "set"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "fruit",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "fruit",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "fruit",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 395,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 360,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Gelatina de mosaico",
+  "blurb": "Cubitos de gelatina de colores dentro de una gelatina de leche. La gelatina de todos los cumpleaños mexicanos.",
+  "ing": [
+   {
+    "n": "grenetina en polvo sin sabor"
+   },
+   {
+    "n": "jugo de fresa licuada y colada"
+   },
+   {
+    "n": "jugo de mango"
+   },
+   {
+    "n": "jugo de uva"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "esencia de vainilla"
+   },
+   {
+    "n": "agua"
+   }
+  ],
+  "steps": [
+   "Hidrata 20 g de grenetina en el agua 5 minutos y derrítela a fuego bajo.",
+   "Calienta cada jugo con 50 g de azúcar y un tercio de la grenetina. Vierte cada uno en un recipiente y refrigera 2 horas.",
+   "Corta las gelatinas de colores en cubos y ponlos en un molde de rosca.",
+   "Hidrata el resto de la grenetina en 60 ml de la leche y disuélvela en la leche restante caliente. Mezcla con la condensada, la evaporada y la vainilla y deja entibiar.",
+   "Vierte sobre los cubos y refrigera 4 horas. Desmolda."
+  ],
+  "tips": [
+   "La mezcla de leche debe estar tibia, no caliente, para no derretir los cubos.",
+   "Pasa el molde por agua caliente unos segundos para desmoldar."
+  ],
+  "video": "gelatina de mosaico"
+ },
+ "en": {
+  "name": "Gelatina de Mosaico (Mosaic Jelly)",
+  "blurb": "Cubes of coloured fruit jelly set inside a milk jelly. The jelly of every Mexican birthday.",
+  "ing": [
+   {
+    "n": "unflavoured powdered gelatine"
+   },
+   {
+    "n": "strained strawberry purée"
+   },
+   {
+    "n": "mango juice"
+   },
+   {
+    "n": "grape juice"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "condensed milk"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "water"
+   }
+  ],
+  "steps": [
+   "Soak 20 g of gelatine in the water for 5 minutes and melt over low heat.",
+   "Heat each juice with 50 g of sugar and a third of the gelatine. Pour each into a container and chill 2 hours.",
+   "Cut the coloured jellies into cubes and put them in a ring mould.",
+   "Soak the rest of the gelatine in 60 ml of the milk and dissolve it in the remaining hot milk. Mix with the condensed milk, evaporated milk and vanilla and let it cool to lukewarm.",
+   "Pour over the cubes and chill 4 hours. Turn out."
+  ],
+  "tips": [
+   "The milk mixture must be lukewarm, not hot, so the cubes don't melt.",
+   "Dip the mould in hot water for a few seconds to turn it out."
+  ],
+  "video": "mexican mosaic gelatin"
+ },
+ "added": "2026-09-30"
+}

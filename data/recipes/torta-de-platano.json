@@ -1,0 +1,133 @@
+{
+ "id": "torta-de-platano",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 70,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Torta de plátano",
+  "blurb": "Pastel de plátano maduro con queso blanco y canela, dulce y salado a la vez. Merienda venezolana.",
+  "ing": [
+   {
+    "n": "plátanos muy maduros"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "queso blanco duro",
+    "note": "rallado"
+   },
+   {
+    "n": "canela molida"
+   },
+   {
+    "n": "leche"
+   }
+  ],
+  "steps": [
+   "Pela los plátanos, córtalos en rodajas y fríelos en la mantequilla 3 minutos por lado.",
+   "Bate los huevos con el azúcar, la leche y la canela.",
+   "En un molde de 22 cm engrasado, alterna capas de plátano y queso.",
+   "Vierte la mezcla de huevo por encima.",
+   "Hornea a 180 °C 40 minutos, hasta que esté dorada y cuajada."
+  ],
+  "tips": [
+   "Los plátanos deben tener la piel casi negra.",
+   "Deja reposar 15 minutos antes de cortar."
+  ],
+  "video": "torta de plátano venezolana"
+ },
+ "en": {
+  "name": "Torta de Plátano (Venezuelan Plantain Cake)",
+  "blurb": "A cake of ripe plantain with white cheese and cinnamon, sweet and salty at once. A Venezuelan afternoon treat.",
+  "ing": [
+   {
+    "n": "very ripe plantains"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "hard white cheese",
+    "note": "grated"
+   },
+   {
+    "n": "ground cinnamon"
+   },
+   {
+    "n": "milk"
+   }
+  ],
+  "steps": [
+   "Peel and slice the plantains and fry them in the butter for 3 minutes per side.",
+   "Whisk the eggs with the sugar, milk and cinnamon.",
+   "In a greased 22 cm tin, layer plantain and cheese.",
+   "Pour the egg mixture over.",
+   "Bake at 180 °C for 40 minutes, until golden and set."
+  ],
+  "tips": [
+   "The plantain skins should be almost black.",
+   "Rest 15 minutes before slicing."
+  ],
+  "video": "venezuelan plantain cake"
+ },
+ "added": "2026-09-30"
+}

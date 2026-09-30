@@ -1,0 +1,143 @@
+{
+ "id": "bunuelos-de-viento",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 40,
+ "serves": 30,
+ "ing": [
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Buñuelos de viento",
+  "blurb": "Bolitas huecas de masa frita, ligeras como el aire. El dulce de Todos los Santos en España.",
+  "ing": [
+   {
+    "n": "agua"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "piel de limón"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "aceite de oliva suave para freír"
+   },
+   {
+    "n": "azúcar"
+   }
+  ],
+  "steps": [
+   "Hierve el agua con la mantequilla, la sal y la piel de limón. Retira la piel.",
+   "Añade la harina de golpe y remueve 2 minutos a fuego bajo, hasta que la masa se despegue.",
+   "Deja entibiar y añade los huevos de uno en uno, batiendo bien.",
+   "Fríe cucharaditas de masa a 170 °C 5 minutos: se inflarán y girarán solas.",
+   "Escurre y reboza en el azúcar."
+  ],
+  "tips": [
+   "El aceite no debe estar muy caliente o se cierran antes de inflarse.",
+   "Sírvelos recién hechos, aún crujientes."
+  ],
+  "video": "buñuelos de viento"
+ },
+ "en": {
+  "name": "Buñuelos de Viento (Spanish Puff Fritters)",
+  "blurb": "Hollow fried dough puffs, light as air. Spain's All Saints' Day sweet.",
+  "ing": [
+   {
+    "n": "water"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "lemon peel"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "light olive oil for frying"
+   },
+   {
+    "n": "sugar"
+   }
+  ],
+  "steps": [
+   "Boil the water with the butter, salt and lemon peel. Remove the peel.",
+   "Tip in the flour all at once and stir 2 minutes on low, until the dough pulls away.",
+   "Cool slightly and beat in the eggs one at a time.",
+   "Fry teaspoons of dough at 170 °C for 5 minutes: they will puff and turn on their own.",
+   "Drain and roll in the sugar."
+  ],
+  "tips": [
+   "Don't let the oil get too hot or they seal before they puff.",
+   "Serve them fresh, while still crisp."
+  ],
+  "video": "spanish bunuelos de viento"
+ },
+ "added": "2026-09-30"
+}

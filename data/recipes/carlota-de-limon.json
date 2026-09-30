@@ -1,0 +1,109 @@
+{
+ "id": "carlota-de-limon",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 30,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 395,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 360,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "garnish"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "mariebiscuit",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Carlota de limón",
+  "blurb": "Capas de galletas María y crema de limón que cuaja sola en la nevera. El postre sin horno de las fiestas mexicanas.",
+  "ing": [
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   },
+   {
+    "n": "ralladura de limón"
+   },
+   {
+    "n": "galletas María"
+   }
+  ],
+  "steps": [
+   "Licúa la leche condensada con la evaporada 1 minuto.",
+   "Añade el jugo de limón poco a poco con la licuadora en marcha: la crema espesará.",
+   "En un molde de 20 x 20 cm alterna capas de galletas y crema, terminando con crema.",
+   "Refrigera 4 horas como mínimo.",
+   "Decora con la ralladura antes de servir."
+  ],
+  "tips": [
+   "Añade el limón despacio para que espese sin cortarse.",
+   "Mejor si reposa toda la noche: las galletas se ablandan como un pastel."
+  ],
+  "video": "carlota de limón mexicana"
+ },
+ "en": {
+  "name": "Carlota de Limón (Mexican Lime Icebox Cake)",
+  "blurb": "Layers of Marie biscuits and a lime cream that sets on its own in the fridge. Mexico's no-bake party dessert.",
+  "ing": [
+   {
+    "n": "condensed milk"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "lime zest"
+   },
+   {
+    "n": "Marie biscuits"
+   }
+  ],
+  "steps": [
+   "Blend the condensed milk with the evaporated milk for 1 minute.",
+   "Add the lime juice gradually with the blender running: the cream will thicken.",
+   "In a 20 x 20 cm dish, alternate layers of biscuits and cream, ending with cream.",
+   "Chill at least 4 hours.",
+   "Top with the zest before serving."
+  ],
+  "tips": [
+   "Add the lime slowly so it thickens without splitting.",
+   "Best left overnight: the biscuits soften like cake."
+  ],
+  "video": "mexican lime icebox cake"
+ },
+ "added": "2026-09-30"
+}
