@@ -1,0 +1,223 @@
+{
+ "id": "hervido-de-gallina",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 120,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Hervido de gallina",
+  "blurb": "Sopa grande de gallina con verduras y tubérculos. El plato de domingo que reúne a la familia en Venezuela.",
+  "ing": [
+   {
+    "n": "gallina o pollo en presas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "cebollín",
+    "note": "picado"
+   },
+   {
+    "n": "ají dulce o pimentón",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "mazorcas de maíz",
+    "note": "en ruedas"
+   },
+   {
+    "n": "yuca",
+    "note": "en trozos"
+   },
+   {
+    "n": "ocumo o malanga",
+    "note": "en trozos"
+   },
+   {
+    "n": "auyama",
+    "note": "en trozos"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en rodajas"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece la gallina en el agua con la sal 1 hora, quitando la espuma.",
+   "Añade la cebolla, el cebollín, el ají, el ajo y la mitad del cilantro.",
+   "Añade el maíz, la yuca y el ocumo y cuece 20 minutos.",
+   "Añade la auyama y la zanahoria y cuece 20 minutos más, hasta que todo esté tierno.",
+   "Termina con el resto del cilantro."
+  ],
+  "tips": [
+   "La gallina da más sabor que el pollo pero necesita más tiempo; con pollo, basta 30 minutos en el primer paso.",
+   "Se sirve con arepa y aguacate."
+  ],
+  "video": "hervido de gallina venezolano"
+ },
+ "en": {
+  "name": "Hervido de Gallina (Venezuelan Hen Soup)",
+  "blurb": "A big hen soup with vegetables and roots. The Sunday dish that brings the family together in Venezuela.",
+  "ing": [
+   {
+    "n": "boiling hen or chicken pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "scallions",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "corn cobs",
+    "note": "in rounds"
+   },
+   {
+    "n": "cassava",
+    "note": "in chunks"
+   },
+   {
+    "n": "taro (ocumo)",
+    "note": "in chunks"
+   },
+   {
+    "n": "calabaza (West Indian pumpkin)",
+    "note": "in chunks"
+   },
+   {
+    "n": "carrots",
+    "note": "sliced"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the hen in the water with the salt for 1 hour, skimming.",
+   "Add the onion, scallion, pepper, garlic and half the cilantro.",
+   "Add the corn, cassava and taro and cook 20 minutes.",
+   "Add the calabaza and carrot and cook 20 minutes more, until everything is tender.",
+   "Finish with the rest of the cilantro."
+  ],
+  "tips": [
+   "Hen gives more flavour than chicken but needs longer; with chicken, 30 minutes is enough in the first step.",
+   "It is served with arepa and avocado."
+  ],
+  "video": "venezuelan chicken soup recipe"
+ },
+ "added": "2026-09-30"
+}

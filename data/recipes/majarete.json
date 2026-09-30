@@ -1,0 +1,131 @@
+{
+ "id": "majarete",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 40,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 800,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Majarete",
+  "blurb": "Pudín firme de coco, maíz y papelón con canela. Postre de Semana Santa en Venezuela.",
+  "ing": [
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "harina de maíz precocida"
+   },
+   {
+    "n": "papelón rallado"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina de maíz con 250 ml de la leche de coco hasta que no haya grumos.",
+   "Calienta el resto de la leche de coco con el papelón, la canela, los clavos y la sal hasta que el papelón se disuelva. Saca las especias.",
+   "Añade la mezcla de maíz, batiendo, y cuece 10 minutos a fuego bajo sin parar de remover, hasta que esté muy espeso.",
+   "Vierte en un molde humedecido y deja enfriar. Refrigera 3 horas.",
+   "Desmolda y espolvorea la canela molida."
+  ],
+  "tips": [
+   "Remueve siempre en el mismo sentido y llegando al fondo; se pega enseguida.",
+   "Algunas familias lo hacen con maíz tierno licuado en lugar de harina."
+  ],
+  "video": "majarete venezolano receta"
+ },
+ "en": {
+  "name": "Majarete (Coconut and Corn Pudding)",
+  "blurb": "A firm pudding of coconut, corn and papelón with cinnamon. A Venezuelan Holy Week dessert.",
+  "ing": [
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "pre-cooked corn flour"
+   },
+   {
+    "n": "grated papelón (unrefined cane sugar)"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "whole cloves"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Mix the corn flour with 250 ml of the coconut milk until smooth.",
+   "Heat the rest of the coconut milk with the papelón, cinnamon, cloves and salt until the papelón dissolves. Remove the spices.",
+   "Add the corn mixture, whisking, and cook 10 minutes on low, stirring constantly, until very thick.",
+   "Pour into a rinsed mould and let cool. Refrigerate 3 hours.",
+   "Turn out and dust with the ground cinnamon."
+  ],
+  "tips": [
+   "Stir in one direction, reaching the bottom; it catches at once.",
+   "Some families make it with blended fresh corn instead of flour."
+  ],
+  "video": "majarete recipe"
+ },
+ "added": "2026-09-30"
+}

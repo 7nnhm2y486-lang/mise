@@ -1,0 +1,119 @@
+{
+ "id": "chicha-venezolana",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 50,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 1.2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "ice",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Chicha venezolana",
+  "blurb": "Bebida espesa y dulce de arroz cocido con leche y canela. Se vende en la calle bien fría.",
+  "ing": [
+   {
+    "n": "arroz blanco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "leche fría"
+   },
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "canela molida"
+   },
+   {
+    "n": "hielo"
+   }
+  ],
+  "steps": [
+   "Cuece el arroz en el agua 35 minutos, hasta que esté muy blando. Deja enfriar.",
+   "Licúa el arroz con su agua, la leche y la leche condensada hasta que esté muy liso.",
+   "Cuela si quieres una textura más fina.",
+   "Refrigera al menos 1 hora.",
+   "Sirve con hielo y la canela por encima."
+  ],
+  "tips": [
+   "Debe quedar espesa como un batido; aligera con leche si hace falta.",
+   "Se guarda 2 días en la nevera. Remueve antes de servir."
+  ],
+  "video": "chicha venezolana receta"
+ },
+ "en": {
+  "name": "Venezuelan Chicha (Rice Drink)",
+  "blurb": "A thick sweet drink of cooked rice with milk and cinnamon. Sold ice-cold on the street.",
+  "ing": [
+   {
+    "n": "white rice"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cold milk"
+   },
+   {
+    "n": "condensed milk"
+   },
+   {
+    "n": "ground cinnamon"
+   },
+   {
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Cook the rice in the water for 35 minutes, until very soft. Cool.",
+   "Blend the rice and its water with the milk and condensed milk until very smooth.",
+   "Strain for a finer texture if you like.",
+   "Refrigerate at least 1 hour.",
+   "Serve over ice with the cinnamon on top."
+  ],
+  "tips": [
+   "It should be thick like a milkshake; loosen with milk if needed.",
+   "Keeps 2 days in the fridge. Stir before serving."
+  ],
+  "video": "venezuelan chicha recipe"
+ },
+ "added": "2026-09-30"
+}

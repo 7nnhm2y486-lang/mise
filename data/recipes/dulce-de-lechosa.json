@@ -1,0 +1,121 @@
+{
+ "id": "dulce-de-lechosa",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 90,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingsoda",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Dulce de lechosa",
+  "blurb": "Tiras de papaya verde cocidas en almíbar de papelón con canela y clavo. Dulce navideño de Venezuela.",
+  "ing": [
+   {
+    "n": "lechosa (papaya) verde",
+    "note": "pelada, en tiras"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "papelón rallado"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "clavos de olor"
+   }
+  ],
+  "steps": [
+   "Remoja las tiras de lechosa en agua con el bicarbonato 1 hora. Enjuaga bien.",
+   "Cuece el papelón con el agua, la canela y los clavos 10 minutos.",
+   "Añade la lechosa y cuece a fuego bajo 60 minutos, hasta que esté brillante y translúcida y el almíbar espese.",
+   "Deja enfriar en el almíbar.",
+   "Guarda en frascos en la nevera."
+  ],
+  "tips": [
+   "El bicarbonato hace que la lechosa quede firme y no se deshaga.",
+   "Dura 2 semanas en la nevera."
+  ],
+  "video": "dulce de lechosa receta"
+ },
+ "en": {
+  "name": "Dulce de Lechosa (Candied Green Papaya)",
+  "blurb": "Strips of green papaya cooked in papelón syrup with cinnamon and clove. A Venezuelan Christmas sweet.",
+  "ing": [
+   {
+    "n": "green papaya",
+    "note": "peeled, in strips"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "grated papelón (unrefined cane sugar)"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "whole cloves"
+   }
+  ],
+  "steps": [
+   "Soak the papaya strips in water with the baking soda for 1 hour. Rinse well.",
+   "Simmer the papelón with the water, cinnamon and cloves for 10 minutes.",
+   "Add the papaya and cook on low for 60 minutes, until glossy and translucent and the syrup thickens.",
+   "Let cool in the syrup.",
+   "Store in jars in the fridge."
+  ],
+  "tips": [
+   "The baking soda keeps the papaya firm so it doesn't fall apart.",
+   "Keeps 2 weeks in the fridge."
+  ],
+  "video": "candied green papaya recipe"
+ },
+ "added": "2026-09-30"
+}

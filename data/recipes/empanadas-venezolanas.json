@@ -1,0 +1,187 @@
+{
+ "id": "empanadas-venezolanas",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 60,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Empanadas venezolanas de carne",
+  "blurb": "Empanadas de masa de maíz, crujientes y doradas, rellenas de carne molida guisada. Se fríen al momento.",
+  "ing": [
+   {
+    "n": "harina de maíz precocida"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimentón rojo",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "tomate",
+    "note": "picado"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el pimentón y el ajo en 2 cucharadas de aceite 5 minutos. Añade la carne y el tomate, sala al gusto y cuece 15 minutos. Enfría.",
+   "Mezcla la harina, el azúcar y la sal. Añade el agua y amasa hasta tener una masa suave. Deja 5 minutos.",
+   "Haz 12 bolas y aplana cada una sobre un plástico hasta 3 mm.",
+   "Pon relleno en una mitad, dobla con ayuda del plástico y corta el borde con un plato pequeño.",
+   "Fríe a 180 °C durante 4 minutos, hasta que estén doradas."
+  ],
+  "tips": [
+   "El azúcar en la masa ayuda a que se doren.",
+   "Si la masa se agrieta al doblar, le falta agua; añade una cucharada."
+  ],
+  "video": "empanadas venezolanas de carne molida"
+ },
+ "en": {
+  "name": "Venezuelan Beef Empanadas",
+  "blurb": "Crisp golden corn-dough empanadas filled with stewed ground beef. Fried to order.",
+  "ing": [
+   {
+    "n": "pre-cooked corn flour"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "tomato",
+    "note": "chopped"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Cook the onion, pepper and garlic in 2 tablespoons of oil for 5 minutes. Add the beef and tomato, salt to taste and cook 15 minutes. Cool.",
+   "Mix the corn flour, sugar and salt. Add the water and knead to a soft dough. Leave 5 minutes.",
+   "Make 12 balls and flatten each on a sheet of plastic to 3 mm.",
+   "Put filling on one half, fold using the plastic and trim the edge with a small plate.",
+   "Fry at 180 °C for 4 minutes, until golden."
+  ],
+  "tips": [
+   "The sugar in the dough helps them brown.",
+   "If the dough cracks when folded it needs water; add a spoonful."
+  ],
+  "video": "venezuelan empanadas recipe"
+ },
+ "added": "2026-09-30"
+}

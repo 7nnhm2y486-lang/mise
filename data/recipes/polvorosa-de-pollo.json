@@ -1,0 +1,228 @@
+{
+ "id": "polvorosa-de-pollo",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 8,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "olives",
+   "role": "umami"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "glaze"
+  }
+ ],
+ "es": {
+  "name": "Polvorosa de pollo",
+  "blurb": "Pastel de masa quebrada dulce-salada relleno de pollo guisado con aceitunas y pasas. Plato de fiesta caraqueño.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "mantequilla fría",
+    "note": "en dados"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "agua fría"
+   },
+   {
+    "n": "pollo cocido",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimentón rojo",
+    "note": "picado"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "aceitunas verdes",
+    "note": "picadas"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "huevo batido"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la sal y el azúcar. Frota la mantequilla hasta tener migas. Añade el huevo y el agua, junta la masa sin amasar y refrigera 30 minutos.",
+   "Sofríe la cebolla y el pimentón en el aceite 5 minutos. Añade el tomate, el pollo, las aceitunas y las pasas. Sala al gusto y cuece 10 minutos, hasta que esté casi seco. Enfría.",
+   "Estira dos tercios de la masa y forra un molde de 24 cm. Rellena con el pollo.",
+   "Cubre con el resto de la masa, sella los bordes y pinta con el huevo batido.",
+   "Hornea a 180 °C durante 45 minutos, hasta que esté dorada."
+  ],
+  "tips": [
+   "El relleno debe estar frío y casi seco o la masa se empapa.",
+   "Se desmorona al cortarla, por eso se llama polvorosa."
+  ],
+  "video": "polvorosa de pollo venezolana"
+ },
+ "en": {
+  "name": "Polvorosa de Pollo (Venezuelan Chicken Pie)",
+  "blurb": "A sweet-savoury crumbly pie filled with chicken stewed with olives and raisins. A Caracas party dish.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cold butter",
+    "note": "diced"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "cold water"
+   },
+   {
+    "n": "cooked chicken",
+    "note": "shredded"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "green olives",
+    "note": "chopped"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "beaten egg"
+   }
+  ],
+  "steps": [
+   "Mix the flour, salt and sugar. Rub in the butter to crumbs. Add the egg and water, bring together without kneading and chill 30 minutes.",
+   "Cook the onion and pepper in the oil for 5 minutes. Add the tomato, chicken, olives and raisins. Salt to taste and cook 10 minutes, until nearly dry. Cool.",
+   "Roll out two thirds of the dough and line a 24 cm tin. Fill with the chicken.",
+   "Cover with the rest of the dough, seal the edges and brush with the beaten egg.",
+   "Bake at 180 °C for 45 minutes, until golden."
+  ],
+  "tips": [
+   "The filling must be cold and nearly dry or the pastry goes soggy.",
+   "It crumbles when cut, which is where the name comes from."
+  ],
+  "video": "venezuelan chicken pie recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,177 @@
+{
+ "id": "pisca-andina",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 35,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "enrich"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "cheese",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Pisca andina",
+  "blurb": "Sopa de papa, cebollín y cilantro con huevo escalfado y queso. El desayuno de los Andes venezolanos.",
+  "ing": [
+   {
+    "n": "agua"
+   },
+   {
+    "n": "papas",
+    "note": "en dados"
+   },
+   {
+    "n": "cebollín",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "queso blanco",
+    "note": "en dados"
+   }
+  ],
+  "steps": [
+   "Sofríe el cebollín y el ajo en la mantequilla 3 minutos.",
+   "Añade el agua, la papa y la sal y cuece 15 minutos, hasta que la papa esté tierna.",
+   "Añade la leche y la mitad del cilantro y calienta sin que hierva fuerte.",
+   "Casca los huevos en la sopa y escálfalos 4 minutos.",
+   "Sirve cada plato con un huevo, el queso y el resto del cilantro."
+  ],
+  "tips": [
+   "Pon el queso en el plato y vierte la sopa caliente encima para que se ablande.",
+   "Se acompaña con arepas."
+  ],
+  "video": "pisca andina receta"
+ },
+ "en": {
+  "name": "Pisca Andina (Andean Potato and Egg Soup)",
+  "blurb": "Potato, scallion and cilantro soup with poached egg and cheese. Breakfast in the Venezuelan Andes.",
+  "ing": [
+   {
+    "n": "water"
+   },
+   {
+    "n": "potatoes",
+    "note": "diced"
+   },
+   {
+    "n": "scallions",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "white fresh cheese",
+    "note": "diced"
+   }
+  ],
+  "steps": [
+   "Cook the scallion and garlic in the butter for 3 minutes.",
+   "Add the water, potato and salt and cook 15 minutes, until tender.",
+   "Add the milk and half the cilantro and heat without a hard boil.",
+   "Crack the eggs into the soup and poach 4 minutes.",
+   "Serve each bowl with an egg, the cheese and the rest of the cilantro."
+  ],
+  "tips": [
+   "Put the cheese in the bowl and pour the hot soup over so it softens.",
+   "It is eaten with arepas."
+  ],
+  "video": "pisca andina recipe"
+ },
+ "added": "2026-09-30"
+}

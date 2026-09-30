@@ -1,0 +1,182 @@
+{
+ "id": "golfeados",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 180,
+ "serves": 12,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 7,
+   "u": "g",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "enrich"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "cheese",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Golfeados",
+  "blurb": "Espirales de pan con papelón, anís y queso blanco, bañados en melado. Dulce y salado a la vez.",
+  "ing": [
+   {
+    "n": "harina de trigo de fuerza"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "leche tibia"
+   },
+   {
+    "n": "mantequilla blanda"
+   },
+   {
+    "n": "papelón rallado"
+   },
+   {
+    "n": "queso blanco duro",
+    "note": "rallado"
+   },
+   {
+    "n": "anís en grano"
+   },
+   {
+    "n": "agua"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la levadura, el azúcar y la sal. Añade los huevos y la leche y amasa 10 minutos. Añade la mitad de la mantequilla y amasa 5 minutos. Deja crecer 1 hora.",
+   "Estira en un rectángulo de 30 x 40 cm y pinta con el resto de la mantequilla.",
+   "Esparce 200 g del papelón, el queso y el anís. Enrolla por el lado largo y corta 12 rodajas.",
+   "Colócalas en un molde engrasado, deja crecer 40 minutos y hornea a 180 °C durante 25 minutos.",
+   "Cuece el resto del papelón con el agua 5 minutos y báñalos al salir del horno."
+  ],
+  "tips": [
+   "Sirve los golfeados tibios; el melado aún brilla.",
+   "Si no encuentras papelón, usa panela o azúcar moreno oscuro."
+  ],
+  "video": "golfeados venezolanos receta"
+ },
+ "en": {
+  "name": "Golfeados (Venezuelan Cheese and Papelón Rolls)",
+  "blurb": "Bread spirals with papelón, aniseed and white cheese, glazed with cane syrup. Sweet and salty at once.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "dried yeast"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "warm milk"
+   },
+   {
+    "n": "soft butter"
+   },
+   {
+    "n": "grated papelón (unrefined cane sugar)"
+   },
+   {
+    "n": "hard white cheese",
+    "note": "grated"
+   },
+   {
+    "n": "aniseed"
+   },
+   {
+    "n": "water"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar and salt. Add the eggs and milk and knead 10 minutes. Add half the butter and knead 5 minutes. Rise 1 hour.",
+   "Roll into a 30 x 40 cm rectangle and brush with the rest of the butter.",
+   "Scatter 200 g of the papelón, the cheese and the aniseed. Roll up from the long side and cut 12 slices.",
+   "Place in a greased tin, rise 40 minutes and bake at 180 °C for 25 minutes.",
+   "Simmer the rest of the papelón with the water for 5 minutes and glaze them as they leave the oven."
+  ],
+  "tips": [
+   "Serve them warm while the glaze still shines.",
+   "If you can't find papelón, use panela or dark brown sugar."
+  ],
+  "video": "golfeados recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,139 @@
+{
+ "id": "ensalada-de-gallina",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "side",
+ "time": 45,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "fruit",
+   "role": "sweet"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "mayo",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Ensalada de gallina",
+  "blurb": "Ensalada de papa, zanahoria, guisantes y pollo con mayonesa y manzana. Acompaña la hallaca en Navidad.",
+  "ing": [
+   {
+    "n": "papas",
+    "note": "en dados de 1 cm"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en dados de 1 cm"
+   },
+   {
+    "n": "guisantes"
+   },
+   {
+    "n": "pollo cocido",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "manzana verde",
+    "note": "en dados"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece la papa y la zanahoria en agua con sal 10 minutos, hasta que estén tiernas pero firmes. Añade los guisantes el último minuto.",
+   "Escurre y deja enfriar.",
+   "Mezcla con el pollo y la manzana.",
+   "Añade la mayonesa y la sal y mezcla con cuidado.",
+   "Refrigera 1 hora antes de servir."
+  ],
+  "tips": [
+   "Enfría las verduras del todo antes de la mayonesa o se corta.",
+   "La manzana da el toque dulce típico; no la quites."
+  ],
+  "video": "ensalada de gallina venezolana"
+ },
+ "en": {
+  "name": "Ensalada de Gallina (Venezuelan Chicken Salad)",
+  "blurb": "A salad of potato, carrot, peas and chicken with mayonnaise and apple. Served with hallacas at Christmas.",
+  "ing": [
+   {
+    "n": "potatoes",
+    "note": "in 1 cm dice"
+   },
+   {
+    "n": "carrots",
+    "note": "in 1 cm dice"
+   },
+   {
+    "n": "peas"
+   },
+   {
+    "n": "cooked chicken",
+    "note": "shredded"
+   },
+   {
+    "n": "green apple",
+    "note": "diced"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Boil the potato and carrot in salted water for 10 minutes, until tender but firm. Add the peas for the last minute.",
+   "Drain and cool.",
+   "Mix with the chicken and apple.",
+   "Add the mayonnaise and salt and fold gently.",
+   "Refrigerate 1 hour before serving."
+  ],
+  "tips": [
+   "Cool the vegetables completely before adding mayonnaise or it splits.",
+   "The apple gives the typical sweet note; don't leave it out."
+  ],
+  "video": "venezuelan chicken salad recipe"
+ },
+ "added": "2026-09-30"
+}

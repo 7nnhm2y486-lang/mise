@@ -1,0 +1,158 @@
+{
+ "id": "cachitos",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 180,
+ "serves": 12,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 7,
+   "u": "g",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "enrich"
+  },
+  {
+   "q": 220,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "ham",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "glaze"
+  }
+ ],
+ "es": {
+  "name": "Cachitos de jamón",
+  "blurb": "Panecillos dulces en forma de cuerno rellenos de jamón picado. El desayuno de panadería en Venezuela.",
+  "ing": [
+   {
+    "n": "harina de trigo de fuerza"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "leche tibia"
+   },
+   {
+    "n": "mantequilla blanda"
+   },
+   {
+    "n": "jamón cocido",
+    "note": "picado fino"
+   },
+   {
+    "n": "huevo batido"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la levadura, el azúcar y la sal. Añade el huevo y la leche y amasa 10 minutos. Añade la mantequilla y amasa 5 minutos más.",
+   "Tapa y deja crecer 1 hora, hasta que doble su tamaño.",
+   "Divide en 2 y estira cada parte en un círculo de 35 cm. Corta 6 triángulos en cada círculo.",
+   "Pon jamón en la base de cada triángulo y enrolla hacia la punta. Curva en forma de cuerno y deja crecer 40 minutos.",
+   "Pinta con el huevo batido y hornea a 180 °C durante 20 minutos, hasta que estén dorados."
+  ],
+  "tips": [
+   "Pica el jamón muy fino para que se reparta bien al enrollar.",
+   "Deja espacio entre ellos en la bandeja: crecen bastante en el horno."
+  ],
+  "video": "cachitos de jamón venezolanos receta"
+ },
+ "en": {
+  "name": "Cachitos (Venezuelan Ham Rolls)",
+  "blurb": "Sweet crescent rolls filled with chopped ham. The bakery breakfast of Venezuela.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "dried yeast"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "warm milk"
+   },
+   {
+    "n": "soft butter"
+   },
+   {
+    "n": "cooked ham",
+    "note": "finely chopped"
+   },
+   {
+    "n": "beaten egg"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar and salt. Add the egg and milk and knead 10 minutes. Add the butter and knead 5 minutes more.",
+   "Cover and rise 1 hour, until doubled.",
+   "Divide in 2 and roll each into a 35 cm circle. Cut 6 triangles from each circle.",
+   "Put ham at the wide end of each triangle and roll towards the tip. Curve into a crescent and rise 40 minutes.",
+   "Brush with the beaten egg and bake at 180 °C for 20 minutes, until golden."
+  ],
+  "tips": [
+   "Chop the ham very fine so it spreads evenly as you roll.",
+   "Leave space between them on the tray: they grow a lot in the oven."
+  ],
+  "video": "venezuelan cachitos recipe"
+ },
+ "added": "2026-09-30"
+}
