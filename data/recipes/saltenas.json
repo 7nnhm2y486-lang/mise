@@ -1,0 +1,332 @@
+{
+ "id": "saltenas",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 300,
+ "serves": 12,
+ "ovenC": 220,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "binder"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 15,
+   "u": "g",
+   "k": "gelatin",
+   "role": "set"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "olives",
+   "role": "garnish"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Salteñas bolivianas",
+  "blurb": "Empanadas horneadas con un jigote jugoso casi líquido por dentro. Se comen a media mañana, de pie y sin derramar.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "mantequilla",
+    "note": "derretida"
+   },
+   {
+    "n": "azúcar",
+    "note": "para la masa"
+   },
+   {
+    "n": "yema de huevo"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "achiote en polvo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "carne de res",
+    "note": "en cubos pequeños"
+   },
+   {
+    "n": "caldo de res"
+   },
+   {
+    "n": "gelatina sin sabor"
+   },
+   {
+    "n": "cebollas",
+    "note": "picadas"
+   },
+   {
+    "n": "cebollas verdes",
+    "note": "picadas"
+   },
+   {
+    "n": "pasta de ají amarillo"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "azúcar",
+    "note": "para el relleno"
+   },
+   {
+    "n": "papa",
+    "note": "en cubos pequeños, cocida"
+   },
+   {
+    "n": "arvejas",
+    "note": "cocidas"
+   },
+   {
+    "n": "huevos duros",
+    "note": "picados"
+   },
+   {
+    "n": "aceitunas negras"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Disuelve la gelatina en el caldo caliente. Sofríe la cebolla, el ají, el comino y el orégano en el aceite 10 minutos. Añade la carne, el caldo, el azúcar del relleno y 1 cucharadita de sal y cuece 15 minutos.",
+   "Añade la papa, las arvejas y el cebollín. Enfría y refrigera toda la noche, hasta que cuaje.",
+   "Mezcla la harina, el azúcar, el achiote y el resto de la sal. Añade la mantequilla, la yema y el agua y amasa 5 minutos. Reposa 30 minutos.",
+   "Divide en 12 bolas y estira cada una en un círculo de 14 centímetros.",
+   "Pon 2 cucharadas de jigote frío, un trozo de huevo, 1 aceituna y 2 pasas. Cierra por arriba y haz un repulgue trenzado.",
+   "Calienta el horno a 220 °C. Hornea de pie 20 minutos, hasta que estén doradas."
+  ],
+  "tips": [
+   "El relleno debe estar cuajado y frío: si no, se escapa al cerrar.",
+   "Se come de pie, mordiendo una punta y sorbiendo el jugo."
+  ],
+  "video": "salteñas bolivianas receta"
+ },
+ "en": {
+  "name": "Bolivian Salteñas",
+  "blurb": "Baked empanadas with a juicy, almost soupy filling. Eaten mid-morning, standing up, without spilling a drop.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter",
+    "note": "melted"
+   },
+   {
+    "n": "sugar",
+    "note": "for the dough"
+   },
+   {
+    "n": "egg yolk"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "beef",
+    "note": "in small dice"
+   },
+   {
+    "n": "beef stock"
+   },
+   {
+    "n": "unflavoured gelatin"
+   },
+   {
+    "n": "onions",
+    "note": "chopped"
+   },
+   {
+    "n": "green onions",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "sugar",
+    "note": "for the filling"
+   },
+   {
+    "n": "potato",
+    "note": "small dice, cooked"
+   },
+   {
+    "n": "peas",
+    "note": "cooked"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "chopped"
+   },
+   {
+    "n": "black olives"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Dissolve the gelatin in the hot stock. Cook the onion, ají, cumin and oregano in the oil for 10 minutes. Add the beef, the stock, the filling sugar and 1 teaspoon of salt and cook 15 minutes.",
+   "Add the potato, peas and green onion. Cool and chill overnight, until set.",
+   "Mix the flour, sugar, annatto and the rest of the salt. Add the butter, yolk and water and knead 5 minutes. Rest 30 minutes.",
+   "Divide into 12 balls and roll each into a 14 centimetre circle.",
+   "Add 2 tablespoons of cold filling, a piece of egg, 1 olive and 2 raisins. Close over the top and crimp into a braid.",
+   "Heat the oven to 220 °C. Bake standing upright for 20 minutes, until golden."
+  ],
+  "tips": [
+   "The filling must be set and cold: otherwise it escapes as you close them.",
+   "Eat standing, biting one corner and sipping the juice."
+  ],
+  "video": "saltenas recipe"
+ },
+ "added": "2026-09-30"
+}

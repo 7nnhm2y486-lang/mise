@@ -1,0 +1,205 @@
+{
+ "id": "encocado",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 700,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Encocado de pescado",
+  "blurb": "Pescado cocido en una salsa de leche de coco con sofrito y achiote. La cocina afro de Esmeraldas.",
+  "ing": [
+   {
+    "n": "pescado blanco firme",
+    "note": "en trozos"
+   },
+   {
+    "n": "limón",
+    "note": "en jugo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "achiote en polvo"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Marina el pescado con el limón y 1 cucharadita de sal 15 minutos.",
+   "Sofríe la cebolla, el pimiento y el ajo en el aceite 8 minutos. Añade el tomate, el achiote y el comino y cuece 5 minutos.",
+   "Añade la leche de coco y el resto de la sal y hierve suave 10 minutos.",
+   "Añade el pescado y cuece 6 minutos, sin mover mucho, hasta que se separe en lajas.",
+   "Termina con cilantro y sirve con arroz y patacones."
+  ],
+  "tips": [
+   "Con pescado de carne firme, como corvina o dorado, no se deshace.",
+   "La salsa debe quedar espesa: si está aguada, redúcela antes de añadir el pescado."
+  ],
+  "video": "encocado de pescado receta"
+ },
+ "en": {
+  "name": "Encocado (Ecuadorian Coconut Fish)",
+  "blurb": "Fish cooked in a coconut milk sauce with sofrito and annatto. The Afro-Ecuadorian cooking of Esmeraldas.",
+  "ing": [
+   {
+    "n": "firm white fish",
+    "note": "in pieces"
+   },
+   {
+    "n": "lime",
+    "note": "juiced"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Marinate the fish with the lime and 1 teaspoon of salt for 15 minutes.",
+   "Cook the onion, bell pepper and garlic in the oil for 8 minutes. Add the tomato, annatto and cumin and cook 5 minutes.",
+   "Add the coconut milk and the rest of the salt and simmer 10 minutes.",
+   "Add the fish and cook 6 minutes, stirring little, until it flakes.",
+   "Finish with cilantro and serve with rice and patacones."
+  ],
+  "tips": [
+   "Firm-fleshed fish such as corvina or mahi-mahi won't fall apart.",
+   "The sauce should be thick: if thin, reduce it before adding the fish."
+  ],
+  "video": "encocado recipe"
+ },
+ "added": "2026-09-30"
+}

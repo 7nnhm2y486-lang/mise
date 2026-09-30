@@ -3991,7 +3991,28 @@
        "note": "A third of the weight, and it must boil for 2 minutes to activate. Sets firm and sliceable instead of melting in the mouth, so cut it back further for anything mousse-like."
       }
      }
+    ],
+    "pork": [
+     {
+      "f": 0.33,
+      "carries": [],
+      "es": {
+       "to": "agar agar en polvo",
+       "note": "Un tercio del peso; debe hervir 2 minutos para activarse."
+      },
+      "en": {
+       "to": "agar agar powder",
+       "note": "A third of the weight; it must boil for 2 minutes to activate."
+      }
+     }
     ]
+   },
+   "may": [
+    "pork"
+   ],
+   "label": {
+    "es": "La mayoría de la gelatina es de cerdo; si evitas cerdo, busca gelatina de res, de pescado o agar.",
+    "en": "Most gelatin is made from pork; if you avoid pork, look for beef or fish gelatin, or agar."
    }
   },
   "honey": {

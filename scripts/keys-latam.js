@@ -69,6 +69,10 @@ I.sausage.label = T("Los embutidos comerciales pueden llevar trigo, leche, soja,
 put("chocolatecookies", ["wheat", "sugar"], ["milk", "soy", "egg", "corn"], T("Las galletas de chocolate llevan trigo y azúcar; muchas llevan leche, soja o jarabe de maíz.", "Chocolate biscuits contain wheat and sugar; many contain milk, soy or corn syrup."), {
   wheat: [sub(1, ["sugar"], ["milk", "soy", "egg", "corn"], ["galletas de chocolate sin gluten", "Del mismo grosor, para que absorban igual."], ["gluten-free chocolate biscuits", "The same thickness, so they soak up the same."])]});
 put("quincepaste", ["sugar"], ["sulphite"], T("El dulce de membrillo es membrillo y azúcar; algunas marcas llevan conservantes con sulfitos.", "Quince paste is quince and sugar; some brands add sulphite preservatives."));
+// Most gelatin is made from pork skin; beef or fish gelatin exists but is labelled as such.
+I.gelatin.may = ["pork"];
+I.gelatin.label = T("La mayoría de la gelatina es de cerdo; si evitas cerdo, busca gelatina de res, de pescado o agar.", "Most gelatin is made from pork; if you avoid pork, look for beef or fish gelatin, or agar.");
+I.gelatin.s.pork = [sub(0.33, [], [], ["agar agar en polvo", "Un tercio del peso; debe hervir 2 minutos para activarse."], ["agar agar powder", "A third of the weight; it must boil for 2 minutes to activate."])];
 // Refried beans: canned or restaurant ones are often made with lard, sometimes with cheese.
 put("refriedbeans", [], ["pork", "milk"], T("Los frijoles refritos de lata o de fonda suelen llevar manteca de cerdo; algunos llevan queso. Hazlos con aceite o revisa la etiqueta.", "Canned or restaurant refried beans are often made with lard; some contain cheese. Make them with oil or check the label."), {pork: [
   sub(1, [], [], ["frijoles refritos caseros con aceite", "Machaca frijoles cocidos y fríelos en aceite hasta que espesen."], ["homemade refried beans with oil", "Mash cooked beans and fry them in oil until thick."])]});

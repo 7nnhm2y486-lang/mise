@@ -1,0 +1,183 @@
+{
+ "id": "llapingachos",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "peanut",
+   "role": "sauce"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Llapingachos",
+  "blurb": "Tortillas de papa con achiote rellenas de queso, doradas en plancha, con salsa de maní, huevo frito y aguacate.",
+  "ing": [
+   {
+    "n": "papas",
+    "note": "peladas"
+   },
+   {
+    "n": "achiote en polvo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "picada fina"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "queso fresco o mozzarella",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "maní tostado",
+    "note": "para la salsa"
+   },
+   {
+    "n": "leche",
+    "note": "para la salsa"
+   },
+   {
+    "n": "huevos",
+    "note": "fritos"
+   },
+   {
+    "n": "aguacates",
+    "note": "en rebanadas"
+   }
+  ],
+  "steps": [
+   "Hierve las papas en agua con 1 cucharadita de sal 20 minutos. Haz puré.",
+   "Sofríe la cebolla con el achiote en 1 cucharada de aceite 3 minutos y mézclala con el puré.",
+   "Forma 12 bolas, hunde el pulgar, rellena con queso y cierra. Aplana a 2 centímetros.",
+   "Dóralas en un sartén con el resto del aceite 4 minutos por lado.",
+   "Licúa el maní con la leche y el resto de la sal y calienta 5 minutos, hasta que espese.",
+   "Sirve los llapingachos con la salsa de maní, el huevo y el aguacate."
+  ],
+  "tips": [
+   "Refrigera las tortillas 30 minutos antes de dorar para que no se rompan.",
+   "Con curtido de cebolla y tomate al lado es el plato completo."
+  ],
+  "video": "llapingachos receta"
+ },
+ "en": {
+  "name": "Llapingachos (Cheese-Stuffed Potato Cakes)",
+  "blurb": "Annatto potato cakes stuffed with cheese, browned on a griddle, with peanut sauce, fried egg and avocado.",
+  "ing": [
+   {
+    "n": "potatoes",
+    "note": "peeled"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "white onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "queso fresco or mozzarella",
+    "note": "crumbled"
+   },
+   {
+    "n": "roasted peanuts",
+    "note": "for the sauce"
+   },
+   {
+    "n": "milk",
+    "note": "for the sauce"
+   },
+   {
+    "n": "eggs",
+    "note": "fried"
+   },
+   {
+    "n": "avocados",
+    "note": "sliced"
+   }
+  ],
+  "steps": [
+   "Boil the potatoes in water with 1 teaspoon of salt for 20 minutes. Mash.",
+   "Cook the onion with the annatto in 1 tablespoon of oil for 3 minutes and mix into the mash.",
+   "Shape 12 balls, press in your thumb, fill with cheese and close. Flatten to 2 centimetres.",
+   "Brown them in a pan with the rest of the oil for 4 minutes per side.",
+   "Blend the peanuts with the milk and the rest of the salt and heat 5 minutes, until thick.",
+   "Serve the cakes with the peanut sauce, egg and avocado."
+  ],
+  "tips": [
+   "Chill the cakes 30 minutes before browning so they don't break.",
+   "With an onion and tomato salad on the side it's the full plate."
+  ],
+  "video": "llapingachos recipe"
+ },
+ "added": "2026-09-30"
+}

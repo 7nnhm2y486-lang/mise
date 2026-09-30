@@ -1,0 +1,193 @@
+{
+ "id": "silpancho",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "breadcrumbs",
+   "role": "dredge"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Silpancho",
+  "blurb": "El plato de Cochabamba en capas: arroz, papas doradas, un bife finísimo empanizado, huevo frito y ensalada de tomate con locoto.",
+  "ing": [
+   {
+    "n": "carne de res",
+    "note": "en filetes"
+   },
+   {
+    "n": "pan rallado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "arroz blanco cocido"
+   },
+   {
+    "n": "papas",
+    "note": "en rodajas, cocidas"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "tomates",
+    "note": "en cubos"
+   },
+   {
+    "n": "cebolla",
+    "note": "en cubos"
+   },
+   {
+    "n": "locoto",
+    "note": "picado"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Pon cada filete sobre pan rallado y golpéalo con un mazo hasta que quede finísimo, del tamaño de un plato. Voltea y repite. Sala.",
+   "Dora las papas en 2 cucharadas de aceite.",
+   "Fríe cada bife en aceite caliente 1 minuto por lado.",
+   "Fríe los huevos.",
+   "Mezcla el tomate, la cebolla, el locoto y el perejil con una pizca de sal.",
+   "Arma en el plato: arroz, papas, bife, huevo y ensalada encima."
+  ],
+  "tips": [
+   "El pan rallado se incrusta al golpear: por eso no hace falta huevo para empanizar.",
+   "El bife debe cubrir casi todo el plato."
+  ],
+  "video": "silpancho receta"
+ },
+ "en": {
+  "name": "Silpancho (Bolivian Layered Steak Plate)",
+  "blurb": "Cochabamba's layered plate: rice, browned potatoes, a paper-thin breaded steak, fried egg and tomato-locoto salad.",
+  "ing": [
+   {
+    "n": "beef top round",
+    "note": "in steaks"
+   },
+   {
+    "n": "breadcrumbs"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cooked white rice"
+   },
+   {
+    "n": "potatoes",
+    "note": "sliced, boiled"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "tomatoes",
+    "note": "diced"
+   },
+   {
+    "n": "onion",
+    "note": "diced"
+   },
+   {
+    "n": "locoto chile",
+    "note": "chopped"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Lay each steak on breadcrumbs and pound with a mallet until very thin, the size of a plate. Flip and repeat. Salt.",
+   "Brown the potatoes in 2 tablespoons of oil.",
+   "Fry each steak in hot oil for 1 minute per side.",
+   "Fry the eggs.",
+   "Mix the tomato, onion, locoto and parsley with a pinch of salt.",
+   "Build on the plate: rice, potatoes, steak, egg and salad on top."
+  ],
+  "tips": [
+   "The crumbs press into the meat as you pound: that's why no egg is needed.",
+   "The steak should cover almost the whole plate."
+  ],
+  "video": "silpancho recipe"
+ },
+ "added": "2026-09-30"
+}

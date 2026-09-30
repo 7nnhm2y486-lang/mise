@@ -1,0 +1,219 @@
+{
+ "id": "sopa-de-mani",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 90,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "peanut",
+   "role": "thicken"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "potato",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Sopa de maní",
+  "blurb": "La sopa cremosa de maní de Bolivia, con costilla, verduras y papas fritas encima que se ablandan en el plato.",
+  "ing": [
+   {
+    "n": "maní crudo pelado"
+   },
+   {
+    "n": "agua",
+    "note": "para licuar el maní"
+   },
+   {
+    "n": "costilla de res",
+    "note": "en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "zanahoria",
+    "note": "en cubos"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "coditos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "papas",
+    "note": "en bastones, fritas"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Cuece la costilla en el agua con la sal 60 minutos.",
+   "Licúa el maní con 500 ml de agua hasta que esté muy liso.",
+   "Sofríe la cebolla y el ajo en el aceite 5 minutos y añádelos a la olla con la zanahoria.",
+   "Añade el maní licuado colándolo y cuece 15 minutos, moviendo seguido: se pega.",
+   "Añade las arvejas y los coditos y cuece 10 minutos más.",
+   "Sirve con papas fritas y perejil encima."
+  ],
+  "tips": [
+   "Mueve seguido después del maní: se pega y se quema en el fondo.",
+   "Con maní crudo queda más blanca y suave que con maní tostado."
+  ],
+  "video": "sopa de mani boliviana receta"
+ },
+ "en": {
+  "name": "Bolivian Peanut Soup",
+  "blurb": "Bolivia's creamy peanut soup with beef ribs, vegetables and fries on top that soften in the bowl.",
+  "ing": [
+   {
+    "n": "raw skinned peanuts"
+   },
+   {
+    "n": "water",
+    "note": "to blend the peanuts"
+   },
+   {
+    "n": "beef ribs",
+    "note": "in pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "carrot",
+    "note": "diced"
+   },
+   {
+    "n": "peas"
+   },
+   {
+    "n": "macaroni"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "potatoes",
+    "note": "cut in sticks, fried"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Simmer the ribs in the water with the salt for 60 minutes.",
+   "Blend the peanuts with 500 ml of water until very smooth.",
+   "Cook the onion and garlic in the oil for 5 minutes and add them to the pot with the carrot.",
+   "Strain in the blended peanuts and cook 15 minutes, stirring often: it sticks.",
+   "Add the peas and macaroni and cook 10 minutes more.",
+   "Serve with fries and parsley on top."
+  ],
+  "tips": [
+   "Stir often after the peanuts go in: they stick and burn on the bottom.",
+   "Raw peanuts make it paler and milder than roasted ones."
+  ],
+  "video": "bolivian peanut soup recipe"
+ },
+ "added": "2026-09-30"
+}

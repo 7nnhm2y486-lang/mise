@@ -1,0 +1,183 @@
+{
+ "id": "pique-macho",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "sausage",
+   "role": "protein"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "pepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Pique macho",
+  "blurb": "Una montaña de papas fritas con tiras de carne, salchicha, tomate, cebolla y locoto picante. Para compartir de noche en Cochabamba.",
+  "ing": [
+   {
+    "n": "lomo o cuadril de res",
+    "note": "en tiras"
+   },
+   {
+    "n": "salchichas",
+    "note": "en rodajas"
+   },
+   {
+    "n": "papas",
+    "note": "en bastones"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "cebolla",
+    "note": "en gajos"
+   },
+   {
+    "n": "tomates",
+    "note": "en gajos"
+   },
+   {
+    "n": "locotos",
+    "note": "en tiras"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "huevos duros",
+    "note": "en rodajas"
+   }
+  ],
+  "steps": [
+   "Fríe las papas en el aceite a 170 °C 8 minutos, hasta que estén doradas. Escurre y sala.",
+   "En un sartén grande con 2 cucharadas de aceite, dora la carne a fuego fuerte 3 minutos con la sal y la pimienta.",
+   "Añade las salchichas y dóralas 2 minutos.",
+   "Añade la cebolla, el tomate y el locoto y saltea 2 minutos: deben quedar crujientes.",
+   "Pon las papas en una fuente, cubre con la carne y las verduras y termina con el huevo."
+  ],
+  "tips": [
+   "El locoto es muy picante: quítale semillas y venas para suavizarlo.",
+   "Se come del centro de la mesa, con tenedores y sin platos."
+  ],
+  "video": "pique macho receta"
+ },
+ "en": {
+  "name": "Pique Macho (Bolivian Loaded Fries)",
+  "blurb": "A mountain of fries under strips of beef, sausage, tomato, onion and hot locoto. For sharing late at night in Cochabamba.",
+  "ing": [
+   {
+    "n": "beef sirloin",
+    "note": "in strips"
+   },
+   {
+    "n": "sausages",
+    "note": "sliced"
+   },
+   {
+    "n": "potatoes",
+    "note": "in sticks"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "onion",
+    "note": "in wedges"
+   },
+   {
+    "n": "tomatoes",
+    "note": "in wedges"
+   },
+   {
+    "n": "locoto chiles",
+    "note": "in strips"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "sliced"
+   }
+  ],
+  "steps": [
+   "Fry the potatoes in the oil at 170 °C for 8 minutes, until golden. Drain and salt.",
+   "In a large pan with 2 tablespoons of oil, sear the beef over high heat for 3 minutes with the salt and pepper.",
+   "Add the sausages and brown 2 minutes.",
+   "Add the onion, tomato and locoto and toss 2 minutes: they should stay crisp.",
+   "Pile the potatoes on a platter, cover with the beef and vegetables and finish with the egg."
+  ],
+  "tips": [
+   "Locoto is very hot: remove the seeds and veins to tame it.",
+   "It's eaten from the middle of the table, with forks and no plates."
+  ],
+  "video": "pique macho recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,215 @@
+{
+ "id": "encebollado",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "tuna",
+   "role": "protein"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "plantain",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Encebollado",
+  "blurb": "La sopa de pescado de Guayaquil con yuca y mucha cebolla morada curtida en limón. El desayuno para después de la fiesta.",
+  "ing": [
+   {
+    "n": "albacora o atún fresco",
+    "note": "en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "yuca",
+    "note": "pelada, en trozos"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "cebollas moradas",
+    "note": "en pluma, curtidas en limón"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "chifles (chips de plátano verde)"
+   }
+  ],
+  "steps": [
+   "Sofríe el tomate, la cebolla, el ajo y el comino en el aceite 8 minutos. Añade el agua, la sal y los tallos de cilantro.",
+   "Hierve 10 minutos. Añade el pescado y cuece 12 minutos. Sácalo y desmenúzalo.",
+   "Añade la yuca al líquido y cuece 25 minutos, hasta que esté blanda. Saca la mitad, licúala con un poco de líquido y regrésala para espesar.",
+   "Mezcla la cebolla morada con el limón y una pizca de sal 15 minutos.",
+   "Regresa el pescado. Sirve con la cebolla curtida encima, cilantro y chifles."
+  ],
+  "tips": [
+   "La yuca debe cocerse del todo; quita la fibra dura del centro.",
+   "La cebolla curtida va generosa: es lo que le da nombre."
+  ],
+  "video": "encebollado ecuatoriano receta"
+ },
+ "en": {
+  "name": "Encebollado (Ecuadorian Fish Soup)",
+  "blurb": "Guayaquil's fish soup with cassava and lots of red onion cured in lime. The breakfast for after the party.",
+  "ing": [
+   {
+    "n": "fresh albacore or tuna",
+    "note": "in pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cassava",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "red onions",
+    "note": "sliced, cured in lime"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "green plantain chips (chifles)"
+   }
+  ],
+  "steps": [
+   "Cook the tomato, onion, garlic and cumin in the oil for 8 minutes. Add the water, salt and cilantro stems.",
+   "Boil 10 minutes. Add the fish and cook 12 minutes. Lift it out and flake it.",
+   "Add the cassava to the liquid and cook 25 minutes, until soft. Take out half, blend it with a little liquid and return it to thicken.",
+   "Mix the red onion with the lime and a pinch of salt for 15 minutes.",
+   "Return the fish. Serve with the cured onion on top, cilantro and plantain chips."
+  ],
+  "tips": [
+   "Cassava must be fully cooked; remove the woody core.",
+   "Be generous with the cured onion: it gives the soup its name."
+  ],
+  "video": "encebollado recipe"
+ },
+ "added": "2026-09-30"
+}

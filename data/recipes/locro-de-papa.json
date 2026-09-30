@@ -1,0 +1,203 @@
+{
+ "id": "locro-de-papa",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 45,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Locro de papa",
+  "blurb": "La sopa de papa de la sierra ecuatoriana: espesa, amarilla de achiote, con queso fresco que se funde y aguacate encima.",
+  "ing": [
+   {
+    "n": "papas",
+    "note": "peladas, en cubos"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "achiote en polvo"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmoronado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aguacates",
+    "note": "en rebanadas"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo, el achiote y el comino en el aceite 5 minutos.",
+   "Añade la papa y el agua y cuece 25 minutos, hasta que la papa esté muy blanda.",
+   "Aplasta parte de la papa contra la olla para espesar.",
+   "Añade la leche, el queso y la sal y calienta 5 minutos sin hervir.",
+   "Sirve con aguacate y cilantro."
+  ],
+  "tips": [
+   "Usa papas harinosas: se deshacen y espesan solas.",
+   "Se espesa al día siguiente; añade agua al recalentar."
+  ],
+  "video": "locro de papa ecuatoriano receta"
+ },
+ "en": {
+  "name": "Ecuadorian Potato Soup (Locro de Papa)",
+  "blurb": "The potato soup of the Ecuadorian highlands: thick, yellow with annatto, with melting queso fresco and avocado on top.",
+  "ing": [
+   {
+    "n": "potatoes",
+    "note": "peeled, cubed"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "queso fresco",
+    "note": "crumbled"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "avocados",
+    "note": "sliced"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic, annatto and cumin in the oil for 5 minutes.",
+   "Add the potato and water and cook 25 minutes, until very soft.",
+   "Mash some of the potato against the pot to thicken.",
+   "Add the milk, cheese and salt and heat 5 minutes without boiling.",
+   "Serve with avocado and cilantro."
+  ],
+  "tips": [
+   "Use floury potatoes: they break down and thicken on their own.",
+   "It thickens overnight; add water when reheating."
+  ],
+  "video": "ecuadorian locro de papa recipe"
+ },
+ "added": "2026-09-30"
+}

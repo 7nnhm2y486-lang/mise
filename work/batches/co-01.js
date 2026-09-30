@@ -117,7 +117,7 @@ module.exports = [
       "Calienta un sartén antiadherente a fuego medio con un poco de mantequilla.",
       "Vierte 3 cucharadas de mezcla por arepa y extiende en un círculo. Cuece 3 minutos por lado, hasta que estén doradas.",
       "Pon una tajada de queso en la mitad de cada arepa caliente y dóblala."],
-  tp:["Si la mezcla está muy líquida, añade 1 cucharada más de harina.",
+  tp:["Si la mezcla está muy líquida, añade 1 cucharada más de harina de maíz precocida.",
       "Fuego medio: si está muy alto, se queman antes de cocerse por dentro."],
   v:"arepas de choclo receta"},
  en:{n:"Sweet Corn Arepas (Arepas de Choclo)", b:"Sweet arepas of blended fresh corn, browned in butter and folded over a slice of melting cheese.",

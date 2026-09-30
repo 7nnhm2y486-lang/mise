@@ -109,7 +109,7 @@ module.exports = [
       "En un molde con plástico, pon una capa de papa, luego el pollo, luego la palta, y termina con papa.",
       "Refrigera 30 minutos, desmolda y decora con huevo y aceitunas."],
   tp:["Pela y machaca las papas calientes: frías se ponen pegajosas.",
-      "Con atún en vez de pollo es la otra versión clásica."],
+      "Se arma hasta 1 día antes y se guarda tapada en el refrigerador."],
   v:"causa limeña receta"},
  en:{n:"Causa Limeña (Layered Potato Terrine)", b:"Cold layers of yellow potato mash with ají and lime, filled with chicken in mayonnaise and avocado.",
   st:["Boil the potatoes in their skins for 25 minutes, until soft. Peel them hot and pass through a ricer.",
@@ -118,7 +118,7 @@ module.exports = [
       "In a plastic-lined mould, lay a layer of potato, then the chicken, then the avocado, and finish with potato.",
       "Chill 30 minutes, turn out and garnish with egg and olives."],
   tp:["Peel and mash the potatoes hot: cold, they turn gluey.",
-      "Tuna instead of chicken is the other classic version."],
+      "It can be assembled up to 1 day ahead and kept covered in the fridge."],
   v:"causa limena recipe"}},
 
 {id:"papa-a-la-huancaina", c:"Peru", ce:"Perú", r:"latin-america", m:"starter", t:40, s:4,

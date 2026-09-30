@@ -1,0 +1,111 @@
+{
+ "id": "bolon-de-verde",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Bolón de verde",
+  "blurb": "Bolas de plátano verde majado con queso, doradas en sartén. El desayuno de la costa ecuatoriana con café.",
+  "ing": [
+   {
+    "n": "plátanos verdes",
+    "note": "pelados, en trozos"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Hierve el plátano 20 minutos, hasta que esté blando. También puedes freírlo en trozos 8 minutos.",
+   "Aplasta caliente con la mantequilla y la sal hasta tener una masa gruesa.",
+   "Mezcla con el queso y forma 4 bolas grandes apretando bien.",
+   "Dóralas en el aceite a fuego medio 8 minutos, girándolas.",
+   "Sirve calientes con huevo frito o café."
+  ],
+  "tips": [
+   "Aplasta el plátano caliente: frío no se une.",
+   "Se pueden formar y congelar crudos."
+  ],
+  "video": "bolon de verde receta"
+ },
+ "en": {
+  "name": "Bolón de Verde (Green Plantain Balls)",
+  "blurb": "Balls of mashed green plantain with cheese, browned in a pan. Breakfast on the Ecuadorian coast, with coffee.",
+  "ing": [
+   {
+    "n": "green plantains",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "queso fresco",
+    "note": "crumbled"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Boil the plantain for 20 minutes, until soft. You can also fry it in chunks for 8 minutes.",
+   "Mash while hot with the butter and salt into a coarse dough.",
+   "Mix in the cheese and shape 4 large balls, pressing firmly.",
+   "Brown them in the oil over medium heat for 8 minutes, turning.",
+   "Serve hot with fried egg or coffee."
+  ],
+  "tips": [
+   "Mash the plantain hot: cold, it won't hold.",
+   "They can be shaped and frozen raw."
+  ],
+  "video": "bolon de verde recipe"
+ },
+ "added": "2026-09-30"
+}

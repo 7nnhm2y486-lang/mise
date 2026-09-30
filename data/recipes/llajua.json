@@ -1,0 +1,93 @@
+{
+ "id": "llajua",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 10,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Llajua",
+  "blurb": "La salsa picante de Bolivia, molida en batán: tomate, locoto y quirquiña. Va con todo.",
+  "ing": [
+   {
+    "n": "tomates"
+   },
+   {
+    "n": "locoto",
+    "note": "sin semillas"
+   },
+   {
+    "n": "quirquiña o cilantro"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Muele el locoto con la sal en un mortero hasta hacer pasta.",
+   "Añade los tomates en trozos y muele hasta que estén deshechos pero con textura.",
+   "Añade la quirquiña picada y mezcla."
+  ],
+  "tips": [
+   "En licuadora, solo unos pulsos: debe quedar rústica.",
+   "Se come el mismo día."
+  ],
+  "video": "llajua boliviana receta"
+ },
+ "en": {
+  "name": "Llajua (Bolivian Hot Sauce)",
+  "blurb": "Bolivia's hot sauce, ground on a grinding stone: tomato, locoto and quirquiña. It goes with everything.",
+  "ing": [
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "locoto chile",
+    "note": "seeded"
+   },
+   {
+    "n": "quirquiña or cilantro"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Grind the locoto with the salt in a mortar into a paste.",
+   "Add the tomatoes in pieces and grind until broken down but still textured.",
+   "Add the chopped quirquiña and mix."
+  ],
+  "tips": [
+   "In a blender, just a few pulses: it should stay rustic.",
+   "Eat it the same day."
+  ],
+  "video": "llajua recipe"
+ },
+ "added": "2026-09-30"
+}

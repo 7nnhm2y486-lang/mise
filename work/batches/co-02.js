@@ -16,7 +16,7 @@ module.exports = [
       "Fríe los huevos y calienta las arepas.",
       "Sirve el calentado con el huevo encima, la arepa y el aguacate."],
   tp:["Deja que se dore en el fondo del sartén sin mover: esa costra es lo mejor.",
-      "Con chorizo o carne desmechada sobrantes, añádelos con el arroz."],
+      "Con carne desmechada sobrante, añádela con el arroz."],
   v:"calentado paisa receta"},
  en:{n:"Calentado (Colombian Rice and Beans Hash)", b:"Yesterday's beans and rice fried together with hogao, with a fried egg and arepa. The Paisa breakfast.",
   st:["Heat the oil in a pan and cook the tomato and green onion for 5 minutes, into a hogao.",
@@ -25,7 +25,7 @@ module.exports = [
       "Fry the eggs and warm the arepas.",
       "Serve the calentado with the egg on top, the arepa and avocado."],
   tp:["Let it brown on the bottom of the pan without stirring: that crust is the best part.",
-      "With leftover chorizo or shredded beef, add them with the rice."],
+      "With leftover shredded beef, add it with the rice."],
   v:"calentado recipe"}},
 
 {id:"posta-negra", c:"Colombia", r:"latin-america", m:"main", t:150, s:6,
