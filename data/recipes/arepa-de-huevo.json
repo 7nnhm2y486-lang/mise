@@ -1,0 +1,123 @@
+{
+ "id": "arepa-de-huevo",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 50,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Arepa de huevo",
+  "blurb": "La arepa frita de la costa caribe: se infla en el aceite, se abre, se le mete un huevo crudo y se fríe otra vez.",
+  "ing": [
+   {
+    "n": "harina de maíz precocida amarilla"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el agua, la sal y el azúcar y amasa hasta que esté lisa. Deja reposar 10 minutos.",
+   "Forma 6 bolas y aplánalas entre plástico a 1 centímetro de grueso, de unos 12 centímetros.",
+   "Calienta el aceite a 170 °C en una olla honda. Fríe cada arepa 3 minutos, volteándola, hasta que se infle.",
+   "Sácala, escúrrela y haz un corte de 5 centímetros en el borde con un cuchillo para abrir un bolsillo.",
+   "Rompe un huevo en una taza, viértelo dentro del bolsillo y sella el corte apretando con un poco de masa cruda.",
+   "Fríe otra vez 4 minutos, hasta que esté dorada y el huevo cuajado. Escurre y sirve caliente."
+  ],
+  "tips": [
+   "Si no se infla, el aceite está frío o la arepa es muy gruesa.",
+   "Sella bien el corte: si entra aceite, el huevo se reventará."
+  ],
+  "video": "arepa de huevo receta"
+ },
+ "en": {
+  "name": "Egg-Stuffed Arepa (Arepa de Huevo)",
+  "blurb": "The fried arepa of Colombia's Caribbean coast: it puffs in the oil, gets slit open, filled with a raw egg and fried again.",
+  "ing": [
+   {
+    "n": "yellow precooked cornmeal (masarepa)"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   }
+  ],
+  "steps": [
+   "Mix the cornmeal, water, salt and sugar and knead until smooth. Rest 10 minutes.",
+   "Shape 6 balls and flatten them between plastic to 1 centimetre thick, about 12 centimetres wide.",
+   "Heat the oil to 170 °C in a deep pot. Fry each arepa 3 minutes, turning, until it puffs.",
+   "Lift it out, drain and cut a 5 centimetre slit in the edge with a knife to open a pocket.",
+   "Crack an egg into a cup, pour it into the pocket and seal the slit by pressing on a little raw dough.",
+   "Fry again 4 minutes, until golden and the egg is set. Drain and serve hot."
+  ],
+  "tips": [
+   "If it doesn't puff, the oil is too cool or the arepa too thick.",
+   "Seal the slit well: if oil gets in, the egg bursts."
+  ],
+  "video": "arepa de huevo recipe"
+ },
+ "added": "2026-09-30"
+}

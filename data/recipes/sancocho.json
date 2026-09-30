@@ -1,0 +1,213 @@
+{
+ "id": "sancocho",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 120,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 700,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "corn",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Sancocho de gallina",
+  "blurb": "La olla de domingo: gallina con plátano verde, yuca, papa y mazorca, hervidos hasta que el caldo espesa solo.",
+  "ing": [
+   {
+    "n": "gallina o pollo en presas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "tallos de cebolla larga"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "plátanos verdes",
+    "note": "pelados, en trozos"
+   },
+   {
+    "n": "yuca",
+    "note": "pelada, en trozos"
+   },
+   {
+    "n": "papa",
+    "note": "pelada, en trozos"
+   },
+   {
+    "n": "mazorcas",
+    "note": "en trozos"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "limones"
+   },
+   {
+    "n": "aguacates"
+   }
+  ],
+  "steps": [
+   "Cuece la gallina con el agua, la cebolla larga, el ajo, el comino y la sal 60 minutos (35 si es pollo).",
+   "Añade el plátano verde, partiéndolo con los dedos en vez de cortarlo, y la mazorca. Cuece 20 minutos.",
+   "Añade la yuca y la papa y cuece 25 minutos más, hasta que la yuca esté blanda y empiece a deshacerse.",
+   "Saca las fibras duras del centro de la yuca. Añade la mitad del cilantro.",
+   "Sirve con el resto del cilantro, limón, aguacate y arroz blanco."
+  ],
+  "tips": [
+   "Partir el plátano con la mano deja bordes rugosos que sueltan almidón y espesan.",
+   "La yuca debe cocerse del todo: nunca se come cruda."
+  ],
+  "video": "sancocho de gallina receta"
+ },
+ "en": {
+  "name": "Colombian Hen Sancocho",
+  "blurb": "The Sunday pot: hen with green plantain, cassava, potato and corn, simmered until the broth thickens on its own.",
+  "ing": [
+   {
+    "n": "hen or chicken pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "green onion stalks"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "green plantains",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "cassava",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "potatoes",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "ears of corn",
+    "note": "in pieces"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "limes"
+   },
+   {
+    "n": "avocados"
+   }
+  ],
+  "steps": [
+   "Simmer the hen with the water, green onion, garlic, cumin and salt for 60 minutes (35 if using chicken).",
+   "Add the green plantain, snapping it into pieces with your fingers instead of cutting, and the corn. Cook 20 minutes.",
+   "Add the cassava and potato and cook 25 minutes more, until the cassava is soft and starting to fall apart.",
+   "Pull out the woody cores from the cassava. Add half the cilantro.",
+   "Serve with the rest of the cilantro, lime, avocado and white rice."
+  ],
+  "tips": [
+   "Snapping the plantain by hand leaves rough edges that release starch and thicken.",
+   "Cassava must be fully cooked: never eat it raw."
+  ],
+  "video": "colombian sancocho recipe"
+ },
+ "added": "2026-09-30"
+}

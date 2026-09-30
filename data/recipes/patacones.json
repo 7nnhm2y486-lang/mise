@@ -1,0 +1,87 @@
+{
+ "id": "patacones",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "side",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Patacones",
+  "blurb": "Plátano verde frito dos veces: primero blando, luego aplastado y otra vez al aceite hasta crujir.",
+  "ing": [
+   {
+    "n": "plátanos verdes",
+    "note": "pelados"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Corta los plátanos en trozos de 4 centímetros.",
+   "Fríelos en aceite a 160 °C 5 minutos, hasta que estén blandos pero sin dorar. Escurre.",
+   "Aplasta cada trozo con una tabla o el fondo de un plato hasta 1 centímetro de grueso.",
+   "Sube el aceite a 180 °C y fríelos otra vez 3 minutos, hasta que estén dorados y crujientes.",
+   "Escurre en papel y sala enseguida."
+  ],
+  "tips": [
+   "Para pelar plátano verde, corta las puntas, haz un corte a lo largo y saca la cáscara con el pulgar.",
+   "Sírvelos con hogao o ají, o como base para carne desmechada."
+  ],
+  "video": "patacones receta"
+ },
+ "en": {
+  "name": "Patacones (Twice-Fried Plantains)",
+  "blurb": "Green plantain fried twice: first until soft, then smashed and fried again until crisp.",
+  "ing": [
+   {
+    "n": "green plantains",
+    "note": "peeled"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cut the plantains into 4 centimetre pieces.",
+   "Fry in oil at 160 °C for 5 minutes, until soft but not browned. Drain.",
+   "Smash each piece with a board or the bottom of a plate to 1 centimetre thick.",
+   "Raise the oil to 180 °C and fry again 3 minutes, until golden and crisp.",
+   "Drain on paper and salt right away."
+  ],
+  "tips": [
+   "To peel a green plantain, cut off the ends, slit the skin lengthwise and push it off with your thumb.",
+   "Serve with hogao or ají, or as a base for shredded beef."
+  ],
+  "video": "patacones recipe"
+ },
+ "added": "2026-09-30"
+}

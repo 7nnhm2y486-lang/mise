@@ -1,0 +1,135 @@
+{
+ "id": "changua",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 15,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "slice",
+   "k": "bread",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Changua",
+  "blurb": "El desayuno de Bogotá: huevos escalfados en leche caliente con cebolla larga y cilantro, con pan para remojar.",
+  "ing": [
+   {
+    "n": "leche"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "tallo de cebolla larga",
+    "note": "picado fino"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "calado o pan tostado",
+    "note": "en trozos"
+   }
+  ],
+  "steps": [
+   "Calienta la leche, el agua, la cebolla y la sal hasta que empiece a hervir.",
+   "Baja el fuego. Rompe los huevos uno a uno dentro del líquido, sin moverlos.",
+   "Cuece 3 minutos, hasta que la clara cuaje y la yema siga suave.",
+   "Pon el pan en platos hondos, sirve los huevos con la leche encima y termina con cilantro."
+  ],
+  "tips": [
+   "La leche no debe hervir fuerte con los huevos dentro: se corta y los huevos se deshacen.",
+   "En embarazo o con defensas bajas, cuece 5 minutos, hasta que la yema cuaje."
+  ],
+  "video": "changua receta"
+ },
+ "en": {
+  "name": "Changua (Bogotá Milk and Egg Soup)",
+  "blurb": "Bogotá's breakfast: eggs poached in hot milk with green onion and cilantro, with bread for dunking.",
+  "ing": [
+   {
+    "n": "milk"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "green onion stalk",
+    "note": "finely chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "calado or toasted bread",
+    "note": "torn"
+   }
+  ],
+  "steps": [
+   "Heat the milk, water, green onion and salt until it starts to boil.",
+   "Lower the heat. Crack the eggs one at a time into the liquid, without stirring.",
+   "Cook 3 minutes, until the whites set and the yolks are still soft.",
+   "Put the bread in deep bowls, ladle in the eggs and milk and finish with cilantro."
+  ],
+  "tips": [
+   "Don't let the milk boil hard with the eggs in: it curdles and the eggs break up.",
+   "If pregnant or immunocompromised, cook 5 minutes, until the yolks set."
+  ],
+  "video": "changua recipe"
+ },
+ "added": "2026-09-30"
+}

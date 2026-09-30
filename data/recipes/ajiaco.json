@@ -1,0 +1,223 @@
+{
+ "id": "ajiaco",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 90,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "potato",
+   "role": "thicken"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "corn",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "heavycream",
+   "role": "garnish"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "capers",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Ajiaco santafereño",
+  "blurb": "La sopa de Bogotá: pollo, tres papas y mazorca con guascas, espesa porque la papa criolla se deshace. Crema y alcaparras en la mesa.",
+  "ing": [
+   {
+    "n": "pechugas de pollo con hueso"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "tallos de cebolla larga"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "papa sabanera o blanca",
+    "note": "pelada, en rodajas"
+   },
+   {
+    "n": "papa pastusa o amarilla",
+    "note": "pelada, en rodajas"
+   },
+   {
+    "n": "papa criolla",
+    "note": "pelada"
+   },
+   {
+    "n": "mazorcas",
+    "note": "en trozos"
+   },
+   {
+    "n": "guascas secas"
+   },
+   {
+    "n": "crema de leche"
+   },
+   {
+    "n": "alcaparras"
+   },
+   {
+    "n": "aguacates"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo con el agua, la cebolla larga, el ajo, la sal y el cilantro atado 35 minutos. Saca el pollo y deshébralo. Cuela el líquido.",
+   "Añade la papa sabanera y la pastusa al líquido y cuece 20 minutos.",
+   "Añade la papa criolla y la mazorca y cuece 25 minutos más, moviendo de vez en cuando, hasta que la papa criolla se deshaga y espese la sopa.",
+   "Añade las guascas y el pollo y cuece 5 minutos.",
+   "Sirve con crema, alcaparras y aguacate aparte, para que cada quien ponga lo suyo."
+  ],
+  "tips": [
+   "Sin guascas no es ajiaco: se consiguen secas en tiendas latinas o en línea.",
+   "Si no hay papa criolla, aplasta parte de la papa amarilla contra la olla para espesar."
+  ],
+  "video": "ajiaco santafereño receta"
+ },
+ "en": {
+  "name": "Ajiaco (Bogotá Chicken and Potato Soup)",
+  "blurb": "Bogotá's soup: chicken, three potatoes and corn with guascas, thick because the small yellow potatoes melt. Cream and capers at the table.",
+  "ing": [
+   {
+    "n": "bone-in chicken breasts"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "green onion stalks"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "floury white potatoes",
+    "note": "peeled, sliced"
+   },
+   {
+    "n": "yellow potatoes",
+    "note": "peeled, sliced"
+   },
+   {
+    "n": "small yellow potatoes (papa criolla)",
+    "note": "peeled"
+   },
+   {
+    "n": "ears of corn",
+    "note": "in pieces"
+   },
+   {
+    "n": "dried guascas"
+   },
+   {
+    "n": "heavy cream"
+   },
+   {
+    "n": "capers"
+   },
+   {
+    "n": "avocados"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken with the water, green onion, garlic, salt and tied cilantro for 35 minutes. Lift out the chicken and shred it. Strain the liquid.",
+   "Add the white and yellow potatoes to the liquid and cook 20 minutes.",
+   "Add the papa criolla and corn and cook 25 minutes more, stirring now and then, until the small potatoes break down and thicken the soup.",
+   "Add the guascas and the chicken and cook 5 minutes.",
+   "Serve with cream, capers and avocado on the side, so everyone adds their own."
+  ],
+  "tips": [
+   "Without guascas it isn't ajiaco: buy them dried at Latin shops or online.",
+   "No papa criolla? Mash some of the yellow potatoes against the pot to thicken."
+  ],
+  "video": "ajiaco recipe"
+ },
+ "added": "2026-09-30"
+}

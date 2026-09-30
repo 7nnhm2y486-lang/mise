@@ -1,0 +1,149 @@
+{
+ "id": "aji-colombiano",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 15,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "whitevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Ají colombiano",
+  "blurb": "La salsa aguada y picante de cilantro, cebolla larga y ají que acompaña empanadas, sancocho y todo lo frito.",
+  "ing": [
+   {
+    "n": "ajíes picantes o chiles habaneros",
+    "note": "sin semillas, picados finos"
+   },
+   {
+    "n": "tallos de cebolla larga",
+    "note": "picados finos"
+   },
+   {
+    "n": "tomate",
+    "note": "sin semillas, picado fino"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado fino"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Mezcla el agua, el vinagre, el jugo de limón y la sal.",
+   "Añade el ají, la cebolla, el tomate y el cilantro.",
+   "Deja reposar 30 minutos antes de servir para que el picante se reparta."
+  ],
+  "tips": [
+   "Pica todo muy fino a cuchillo: no se licúa.",
+   "Dura 1 semana en el refrigerador, pero el cilantro se oscurece al tercer día."
+  ],
+  "video": "aji colombiano receta"
+ },
+ "en": {
+  "name": "Colombian Ají (Hot Cilantro Sauce)",
+  "blurb": "The thin, hot sauce of cilantro, green onion and chile that goes with empanadas, sancocho and anything fried.",
+  "ing": [
+   {
+    "n": "hot chiles or habaneros",
+    "note": "seeded, finely chopped"
+   },
+   {
+    "n": "green onion stalks",
+    "note": "finely chopped"
+   },
+   {
+    "n": "tomato",
+    "note": "seeded, finely chopped"
+   },
+   {
+    "n": "cilantro",
+    "note": "finely chopped"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Mix the water, vinegar, lime juice and salt.",
+   "Add the chile, green onion, tomato and cilantro.",
+   "Let it sit 30 minutes before serving so the heat spreads."
+  ],
+  "tips": [
+   "Chop everything very fine by hand: don't blend it.",
+   "Keeps 1 week in the fridge, but the cilantro darkens by the third day."
+  ],
+  "video": "colombian aji recipe"
+ },
+ "added": "2026-09-30"
+}

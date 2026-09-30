@@ -1,0 +1,125 @@
+{
+ "id": "arepas-de-choclo",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Arepas de choclo",
+  "blurb": "Arepas dulces de maíz tierno licuado, doradas en mantequilla y dobladas sobre una tajada de queso que se derrite.",
+  "ing": [
+   {
+    "n": "granos de mazorca tierna",
+    "note": "frescos o congelados"
+   },
+   {
+    "n": "harina de maíz precocida"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "mantequilla",
+    "note": "derretida, y más para cocinar"
+   },
+   {
+    "n": "queso blanco o mozzarella",
+    "note": "en tajadas"
+   }
+  ],
+  "steps": [
+   "Licúa los granos de maíz hasta tener un puré grueso.",
+   "Mezcla con la harina precocida, el azúcar, la sal y la mantequilla derretida. Deja reposar 10 minutos: debe quedar como una masa de pancakes espesa.",
+   "Calienta un sartén antiadherente a fuego medio con un poco de mantequilla.",
+   "Vierte 3 cucharadas de mezcla por arepa y extiende en un círculo. Cuece 3 minutos por lado, hasta que estén doradas.",
+   "Pon una tajada de queso en la mitad de cada arepa caliente y dóblala."
+  ],
+  "tips": [
+   "Si la mezcla está muy líquida, añade 1 cucharada más de harina.",
+   "Fuego medio: si está muy alto, se queman antes de cocerse por dentro."
+  ],
+  "video": "arepas de choclo receta"
+ },
+ "en": {
+  "name": "Sweet Corn Arepas (Arepas de Choclo)",
+  "blurb": "Sweet arepas of blended fresh corn, browned in butter and folded over a slice of melting cheese.",
+  "ing": [
+   {
+    "n": "sweet corn kernels",
+    "note": "fresh or frozen"
+   },
+   {
+    "n": "precooked cornmeal (masarepa)"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "butter",
+    "note": "melted, plus more for cooking"
+   },
+   {
+    "n": "white cheese or mozzarella",
+    "note": "sliced"
+   }
+  ],
+  "steps": [
+   "Blend the corn kernels into a coarse purée.",
+   "Mix with the precooked cornmeal, sugar, salt and melted butter. Rest 10 minutes: it should look like thick pancake batter.",
+   "Heat a non-stick pan over medium heat with a little butter.",
+   "Pour 3 tablespoons of batter per arepa and spread into a circle. Cook 3 minutes per side, until golden.",
+   "Put a slice of cheese on half of each hot arepa and fold it over."
+  ],
+  "tips": [
+   "If the batter is too runny, add 1 more tablespoon of cornmeal.",
+   "Medium heat: too high and they burn before cooking through."
+  ],
+  "video": "arepas de choclo recipe"
+ },
+ "added": "2026-09-30"
+}

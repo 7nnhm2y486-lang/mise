@@ -1,0 +1,121 @@
+{
+ "id": "hogao",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 25,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Hogao",
+  "blurb": "El sofrito colombiano de tomate y cebolla larga cocidos despacio. Va sobre arepas, patacones, papas y frijoles.",
+  "ing": [
+   {
+    "n": "tomates maduros",
+    "note": "rallados o picados"
+   },
+   {
+    "n": "tallos de cebolla larga",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Calienta el aceite a fuego medio y sofríe la cebolla larga y el ajo 3 minutos.",
+   "Añade el tomate, el comino y la sal.",
+   "Cuece a fuego bajo 15 minutos, moviendo, hasta que el tomate se deshaga y el aceite se separe en los bordes."
+  ],
+  "tips": [
+   "Rallar el tomate por el lado grueso del rallador deja la piel en la mano y la pulpa en el plato.",
+   "Dura 5 días en el refrigerador."
+  ],
+  "video": "hogao colombiano receta"
+ },
+ "en": {
+  "name": "Hogao (Colombian Tomato and Onion Sauce)",
+  "blurb": "Colombia's sofrito of tomato and green onion cooked down slowly. It goes on arepas, patacones, potatoes and beans.",
+  "ing": [
+   {
+    "n": "ripe tomatoes",
+    "note": "grated or chopped"
+   },
+   {
+    "n": "green onion stalks",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Heat the oil over medium heat and cook the green onion and garlic for 3 minutes.",
+   "Add the tomato, cumin and salt.",
+   "Cook on low for 15 minutes, stirring, until the tomato breaks down and the oil separates at the edges."
+  ],
+  "tips": [
+   "Grating the tomato on the coarse side of a grater leaves the skin in your hand and the pulp in the bowl.",
+   "Keeps 5 days in the fridge."
+  ],
+  "video": "hogao recipe"
+ },
+ "added": "2026-09-30"
+}

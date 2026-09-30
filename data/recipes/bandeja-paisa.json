@@ -1,0 +1,231 @@
+{
+ "id": "bandeja-paisa",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 180,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "porkbelly",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "plantain",
+   "role": "sweet"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "cornmeal",
+   "role": "serve"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Bandeja paisa",
+  "blurb": "El plato de Antioquia: frijoles, arroz, carne molida, chicharrón, chorizo, huevo frito, maduro, aguacate y arepa. Para compartir o para no comer en todo el día.",
+  "ing": [
+   {
+    "n": "frijoles cargamanto o rojos",
+    "note": "remojados toda la noche"
+   },
+   {
+    "n": "zanahoria",
+    "note": "en trozos"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "tallos de cebolla larga",
+    "note": "picados"
+   },
+   {
+    "n": "tocino de cerdo con piel",
+    "note": "en tiras"
+   },
+   {
+    "n": "chorizos antioqueños"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "arroz blanco"
+   },
+   {
+    "n": "plátanos maduros",
+    "note": "en tajadas"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "aguacates"
+   },
+   {
+    "n": "arepas delgadas de maíz"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Cuece los frijoles escurridos en agua nueva con la zanahoria 2 horas, hasta que estén blandos.",
+   "Haz el hogao: sofríe el tomate y la cebolla larga en 2 cucharadas de aceite 10 minutos. Añade la mitad a los frijoles con 1 cucharadita de sal y cuece 20 minutos más.",
+   "Cuece el arroz con 1 cucharadita de sal y 600 ml de agua.",
+   "Sala el tocino y cuécelo en una olla tapada con un poco de agua 20 minutos. Destapa y fríelo en su grasa hasta que la piel se infle y cruja. Fríe los chorizos en la misma grasa.",
+   "Sofríe la carne molida con el resto del hogao y la sal restante 10 minutos, hasta que esté seca y suelta.",
+   "Fríe las tajadas de plátano hasta que estén doradas y los huevos con la yema líquida.",
+   "Sirve todo en platos grandes con aguacate y arepa."
+  ],
+  "tips": [
+   "El chicharrón queda crujiente si antes se cuece en agua: la piel se ablanda y luego se infla al freír.",
+   "Los frijoles saben mejor al día siguiente: hazlos antes."
+  ],
+  "video": "bandeja paisa receta"
+ },
+ "en": {
+  "name": "Bandeja Paisa",
+  "blurb": "Antioquia's plate: beans, rice, ground beef, crackling pork belly, chorizo, fried egg, sweet plantain, avocado and arepa. For sharing, or for not eating again all day.",
+  "ing": [
+   {
+    "n": "cargamanto or red beans",
+    "note": "soaked overnight"
+   },
+   {
+    "n": "carrot",
+    "note": "in pieces"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "green onion stalks",
+    "note": "chopped"
+   },
+   {
+    "n": "skin-on pork belly",
+    "note": "in strips"
+   },
+   {
+    "n": "Colombian chorizos"
+   },
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "white rice"
+   },
+   {
+    "n": "ripe plantains",
+    "note": "sliced lengthwise"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "avocados"
+   },
+   {
+    "n": "thin corn arepas"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Cook the drained beans in fresh water with the carrot for 2 hours, until soft.",
+   "Make the hogao: cook the tomato and green onion in 2 tablespoons of oil for 10 minutes. Add half to the beans with 1 teaspoon of salt and cook 20 minutes more.",
+   "Cook the rice with 1 teaspoon of salt and 600 ml of water.",
+   "Salt the pork belly and cook it covered with a little water for 20 minutes. Uncover and fry it in its own fat until the skin puffs and crackles. Fry the chorizos in the same fat.",
+   "Cook the ground beef with the rest of the hogao and the remaining salt for 10 minutes, until dry and crumbly.",
+   "Fry the plantain slices until golden and the eggs with runny yolks.",
+   "Serve everything on large plates with avocado and arepa."
+  ],
+  "tips": [
+   "The crackling crisps because it simmers first: the skin softens, then puffs in the fat.",
+   "The beans taste better the next day: make them ahead."
+  ],
+  "video": "bandeja paisa recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,205 @@
+{
+ "id": "empanadas-colombianas",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 90,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 550,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "citrus",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Empanadas colombianas",
+  "blurb": "Empanadas de masa de maíz amarilla, crujientes, rellenas de papa y carne con hogao. Con ají y limón.",
+  "ing": [
+   {
+    "n": "harina de maíz precocida amarilla"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "achiote en polvo"
+   },
+   {
+    "n": "papa pastusa o amarilla",
+    "note": "pelada, en cubos"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "tallos de cebolla larga",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "limones",
+    "note": "en cuartos"
+   }
+  ],
+  "steps": [
+   "Cuece la papa en agua con sal 12 minutos. Escurre y aplasta a medias.",
+   "Sofríe el tomate, la cebolla larga y el ajo en 2 cucharadas de aceite 8 minutos. Añade la carne, el comino y 1 cucharadita de sal y cuece 10 minutos. Mezcla con la papa y deja enfriar.",
+   "Mezcla la harina, el agua, el achiote y el resto de la sal. Amasa hasta que esté lisa y reposa 10 minutos.",
+   "Aplana bolitas de masa entre 2 plásticos, pon 1 cucharada de relleno, dobla con el plástico y corta con un plato pequeño para sellar.",
+   "Fríe en aceite a 180 °C 4 minutos, hasta que estén doradas y crujientes. Escurre.",
+   "Sirve con ají colombiano y limón."
+  ],
+  "tips": [
+   "Usar el plástico para doblar evita que la masa se rompa.",
+   "Crudas se congelan bien en una capa; se fríen sin descongelar, 6 minutos."
+  ],
+  "video": "empanadas colombianas receta"
+ },
+ "en": {
+  "name": "Colombian Empanadas",
+  "blurb": "Crisp yellow corn empanadas filled with potato and beef cooked in hogao. With ají and lime.",
+  "ing": [
+   {
+    "n": "yellow precooked cornmeal (masarepa)"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "yellow potatoes",
+    "note": "peeled, diced"
+   },
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "green onion stalks",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "limes",
+    "note": "quartered"
+   }
+  ],
+  "steps": [
+   "Boil the potato in salted water for 12 minutes. Drain and half-mash.",
+   "Cook the tomato, green onion and garlic in 2 tablespoons of oil for 8 minutes. Add the beef, cumin and 1 teaspoon of salt and cook 10 minutes. Mix with the potato and cool.",
+   "Mix the cornmeal, water, annatto and the rest of the salt. Knead until smooth and rest 10 minutes.",
+   "Flatten small balls of dough between 2 sheets of plastic, add 1 tablespoon of filling, fold using the plastic and press with a small plate to seal.",
+   "Fry in oil at 180 °C for 4 minutes, until golden and crisp. Drain.",
+   "Serve with Colombian ají and lime."
+  ],
+  "tips": [
+   "Folding with the plastic keeps the dough from cracking.",
+   "Raw, they freeze well in a single layer; fry from frozen, 6 minutes."
+  ],
+  "video": "colombian empanadas recipe"
+ },
+ "added": "2026-09-30"
+}
