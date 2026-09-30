@@ -1,0 +1,183 @@
+{
+ "id": "habichuelas-con-dulce",
+ "country": "Dominican Republic",
+ "region": "caribbean",
+ "course": "sweet",
+ "time": 60,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "enrich"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Habichuelas con dulce",
+  "blurb": "Crema dulce de frijoles rojos con coco, batata y especias. Se prepara en Cuaresma y se reparte entre vecinos.",
+  "ing": [
+   {
+    "n": "habichuelas rojas cocidas",
+    "note": "escurridas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "batata",
+    "note": "pelada, en dados de 1 cm"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "mantequilla"
+   }
+  ],
+  "steps": [
+   "Licúa las habichuelas con 500 ml del agua hasta que estén lisas y cuela a una olla.",
+   "Añade el resto del agua, la leche de coco, la canela, los clavos y la sal. Hierve y cuece 10 minutos a fuego bajo, removiendo.",
+   "Añade la batata y cuece 15 minutos, hasta que esté tierna.",
+   "Añade la leche evaporada, el azúcar, las pasas y la mantequilla y cuece 10 minutos más, removiendo, hasta que cubra una cuchara.",
+   "Retira la canela y los clavos. Sirve fría o tibia."
+  ],
+  "tips": [
+   "Espesa al enfriar; si queda muy densa, aligérala con un poco de agua.",
+   "Guarda hasta 3 días en la nevera."
+  ],
+  "video": "habichuelas con dulce receta dominicana"
+ },
+ "en": {
+  "name": "Habichuelas con Dulce (Sweet Cream of Beans)",
+  "blurb": "A sweet cream of red beans with coconut, sweet potato and spices. Made in Lent and shared among neighbours.",
+  "ing": [
+   {
+    "n": "cooked red kidney beans",
+    "note": "drained"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "sweet potato",
+    "note": "peeled, in 1 cm dice"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "whole cloves"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "butter"
+   }
+  ],
+  "steps": [
+   "Blend the beans with 500 ml of the water until smooth and strain into a pot.",
+   "Add the rest of the water, the coconut milk, cinnamon, cloves and salt. Bring to a boil and simmer 10 minutes, stirring.",
+   "Add the sweet potato and cook 15 minutes, until tender.",
+   "Add the evaporated milk, sugar, raisins and butter and cook 10 minutes more, stirring, until it coats a spoon.",
+   "Remove the cinnamon and cloves. Serve cold or warm."
+  ],
+  "tips": [
+   "It thickens as it cools; if too dense, loosen with a little water.",
+   "Keeps up to 3 days in the fridge."
+  ],
+  "video": "habichuelas con dulce recipe"
+ },
+ "added": "2026-09-30"
+}

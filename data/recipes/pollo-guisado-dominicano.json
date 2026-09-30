@@ -1,0 +1,213 @@
+{
+ "id": "pollo-guisado-dominicano",
+ "country": "Dominican Republic",
+ "region": "caribbean",
+ "course": "main",
+ "time": 70,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "tomatopaste",
+   "role": "umami"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "olives",
+   "role": "umami"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Pollo guisado dominicano",
+  "blurb": "Pollo dorado en azúcar caramelizada y guisado con ajo, orégano y aceitunas. Color oscuro, sabor profundo.",
+  "ing": [
+   {
+    "n": "pollo en presas sin piel"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "cebolla",
+    "note": "en tiras"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "en tiras"
+   },
+   {
+    "n": "pasta de tomate"
+   },
+   {
+    "n": "aceitunas verdes"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Adoba el pollo con el jugo de limón, el ajo, el orégano y la sal. Deja al menos 30 minutos.",
+   "Calienta el aceite con el azúcar a fuego medio hasta que el azúcar se vuelva marrón oscuro, unos 2 minutos.",
+   "Añade el pollo escurrido con cuidado, porque salta, y dóralo 8 minutos, volteando para que tome color.",
+   "Añade la cebolla, el pimiento, la pasta de tomate, las aceitunas, el adobo y el agua. Tapa y cuece 35 minutos.",
+   "Destapa y reduce 5 minutos hasta tener una salsa espesa. Termina con el cilantro."
+  ],
+  "tips": [
+   "El azúcar debe quedar oscuro, no negro; si humea mucho, empieza de nuevo o amargará.",
+   "Sirve con arroz blanco y habichuelas."
+  ],
+  "video": "pollo guisado dominicano receta"
+ },
+ "en": {
+  "name": "Dominican Pollo Guisado (Braised Chicken)",
+  "blurb": "Chicken browned in caramelized sugar and braised with garlic, oregano and olives. Dark colour, deep flavour.",
+  "ing": [
+   {
+    "n": "skinless chicken pieces"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "onion",
+    "note": "sliced"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "sliced"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "green olives"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Season the chicken with the lime juice, garlic, oregano and salt. Leave at least 30 minutes.",
+   "Heat the oil with the sugar over medium heat until the sugar turns dark brown, about 2 minutes.",
+   "Add the drained chicken carefully, as it spits, and brown it 8 minutes, turning to colour it.",
+   "Add the onion, pepper, tomato paste, olives, the marinade and the water. Cover and cook 35 minutes.",
+   "Uncover and reduce 5 minutes to a thick sauce. Finish with the cilantro."
+  ],
+  "tips": [
+   "The sugar should be dark, not black; if it smokes heavily, start again or it will taste bitter.",
+   "Serve with white rice and stewed beans."
+  ],
+  "video": "dominican pollo guisado recipe"
+ },
+ "added": "2026-09-30"
+}

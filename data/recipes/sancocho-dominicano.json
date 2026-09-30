@@ -1,0 +1,275 @@
+{
+ "id": "sancocho-dominicano",
+ "country": "Dominican Republic",
+ "region": "caribbean",
+ "course": "soup",
+ "time": 150,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Sancocho dominicano",
+  "blurb": "El sancocho de siete carnes en versión de casa: tres carnes, víveres, auyama y maíz en una sopa espesa.",
+  "ing": [
+   {
+    "n": "carne de res para guisar",
+    "note": "en dados"
+   },
+   {
+    "n": "costillas de cerdo",
+    "note": "en trozos"
+   },
+   {
+    "n": "pollo en presas"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "ñame",
+    "note": "pelado, en trozos"
+   },
+   {
+    "n": "yautía",
+    "note": "pelada, en trozos"
+   },
+   {
+    "n": "yuca",
+    "note": "pelada, en trozos"
+   },
+   {
+    "n": "plátanos verdes",
+    "note": "pelados, en trozos"
+   },
+   {
+    "n": "auyama",
+    "note": "en trozos"
+   },
+   {
+    "n": "mazorcas de maíz",
+    "note": "en ruedas"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Adoba las tres carnes con el jugo de limón, el ajo, el orégano, la mitad del cilantro y la sal. Deja 30 minutos.",
+   "En una olla grande, dora la res y el cerdo en el aceite 8 minutos con la cebolla. Añade 250 ml del agua y cuece tapado 30 minutos.",
+   "Añade el pollo y cuece 10 minutos más.",
+   "Añade el resto del agua, el ñame, la yautía, la yuca, el plátano y la mitad de la auyama. Cuece 40 minutos.",
+   "Añade el maíz y el resto de la auyama y cuece 20 minutos, hasta que la auyama deshecha espese la sopa. Termina con el resto del cilantro."
+  ],
+  "tips": [
+   "La auyama que se deshace es lo que da cuerpo; no la saques antes.",
+   "Se sirve con arroz blanco y aguacate al lado."
+  ],
+  "video": "sancocho dominicano receta"
+ },
+ "en": {
+  "name": "Dominican Sancocho",
+  "blurb": "The seven-meat sancocho in a home version: three meats, root vegetables, calabaza and corn in a thick soup.",
+  "ing": [
+   {
+    "n": "stewing beef",
+    "note": "diced"
+   },
+   {
+    "n": "pork ribs",
+    "note": "cut up"
+   },
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "yam (ñame)",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "yautía (malanga)",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "cassava",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "green plantains",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "calabaza (West Indian pumpkin)",
+    "note": "in chunks"
+   },
+   {
+    "n": "corn cobs",
+    "note": "in rounds"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Season the three meats with the lime juice, garlic, oregano, half the cilantro and the salt. Leave 30 minutes.",
+   "In a large pot, brown the beef and pork in the oil for 8 minutes with the onion. Add 250 ml of the water and cook covered for 30 minutes.",
+   "Add the chicken and cook 10 minutes more.",
+   "Add the rest of the water, the yam, yautía, cassava, plantain and half the calabaza. Cook 40 minutes.",
+   "Add the corn and the rest of the calabaza and cook 20 minutes, until the broken-down calabaza thickens the soup. Finish with the rest of the cilantro."
+  ],
+  "tips": [
+   "The calabaza that falls apart is what gives it body; don't take it out early.",
+   "It is served with white rice and avocado on the side."
+  ],
+  "video": "dominican sancocho recipe"
+ },
+ "added": "2026-09-30"
+}

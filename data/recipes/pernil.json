@@ -1,0 +1,132 @@
+{
+ "id": "pernil",
+ "country": "Puerto Rico",
+ "region": "caribbean",
+ "course": "main",
+ "time": 330,
+ "serves": 10,
+ "ovenC": 160,
+ "ing": [
+  {
+   "q": 3.5,
+   "u": "kg",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 12,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "pepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "whitevinegar",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Pernil al horno",
+  "blurb": "Paleta de cerdo adobada con ajo y orégano, asada despacio hasta que la carne se deshace y la piel cruje.",
+  "ing": [
+   {
+    "n": "paleta de cerdo con piel"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal gruesa"
+   },
+   {
+    "n": "pimienta negra molida"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "vinagre blanco"
+   }
+  ],
+  "steps": [
+   "Maja el ajo, el orégano, la sal, la pimienta, el aceite y el vinagre hasta tener una pasta.",
+   "Separa la piel de la carne con un cuchillo sin quitarla. Haz cortes profundos en la carne y rellénalos con el adobo, también bajo la piel.",
+   "Tapa y deja en la nevera al menos 12 horas.",
+   "Asa tapado con papel de aluminio a 160 °C durante 4 horas.",
+   "Destapa, sube a 220 °C y asa 30 minutos más, hasta que la piel esté inflada y crujiente. Reposa 15 minutos antes de cortar."
+  ],
+  "tips": [
+   "Seca bien la piel con papel antes del último paso; así cruje más.",
+   "La carne está lista cuando se separa del hueso con un tenedor."
+  ],
+  "video": "pernil al horno puertorriqueño"
+ },
+ "en": {
+  "name": "Pernil (Roast Pork Shoulder)",
+  "blurb": "Pork shoulder rubbed with garlic and oregano, roasted low until the meat falls apart and the skin crackles.",
+  "ing": [
+   {
+    "n": "bone-in pork shoulder with skin"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "coarse salt"
+   },
+   {
+    "n": "ground black pepper"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "white vinegar"
+   }
+  ],
+  "steps": [
+   "Mash the garlic, oregano, salt, pepper, oil and vinegar into a paste.",
+   "Loosen the skin from the meat with a knife without removing it. Cut deep slits in the meat and fill them with the paste, under the skin too.",
+   "Cover and refrigerate at least 12 hours.",
+   "Roast covered with foil at 160 °C for 4 hours.",
+   "Uncover, raise to 220 °C and roast 30 minutes more, until the skin puffs and crackles. Rest 15 minutes before carving."
+  ],
+  "tips": [
+   "Pat the skin very dry with paper before the last step; it crisps better.",
+   "The meat is ready when it pulls from the bone with a fork."
+  ],
+  "video": "puerto rican pernil recipe"
+ },
+ "added": "2026-09-30"
+}

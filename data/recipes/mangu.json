@@ -1,0 +1,175 @@
+{
+ "id": "mangu",
+ "country": "Dominican Republic",
+ "region": "caribbean",
+ "course": "breakfast",
+ "time": 35,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "whitevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sausage",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "cheese",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Mangú con los tres golpes",
+  "blurb": "Puré de plátano verde con cebolla encurtida, salami frito, queso frito y huevo. El desayuno dominicano.",
+  "ing": [
+   {
+    "n": "plátanos verdes",
+    "note": "pelados, en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "en aros finos"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "salami dominicano",
+    "note": "en rodajas de 1 cm"
+   },
+   {
+    "n": "queso de freír",
+    "note": "en lonchas de 1 cm"
+   },
+   {
+    "n": "huevos"
+   }
+  ],
+  "steps": [
+   "Mezcla la cebolla con el vinagre y una pizca de sal y deja reposar mientras cocinas.",
+   "Hierve el plátano en el agua con 1 cucharadita de sal 20 minutos, hasta que esté muy tierno.",
+   "Escurre guardando 150 ml del agua. Maja el plátano con la mantequilla, el resto de la sal y el agua reservada hasta tener un puré suave.",
+   "Fríe en el aceite el salami 3 minutos por lado y luego el queso 2 minutos por lado. Fríe los huevos en la misma sartén.",
+   "Sirve el mangú con la cebolla escurrida encima y el salami, el queso y los huevos al lado."
+  ],
+  "tips": [
+   "Maja el plátano caliente con el agua de cocción aún tibia; si se enfría se pone gomoso.",
+   "Retira la cebolla del vinagre antes de servir para que no humedezca el mangú."
+  ],
+  "video": "mangu con los tres golpes receta"
+ },
+ "en": {
+  "name": "Mangú with Los Tres Golpes",
+  "blurb": "Green plantain mash with pickled onion, fried salami, fried cheese and egg. The Dominican breakfast.",
+  "ing": [
+   {
+    "n": "green plantains",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "red onion",
+    "note": "in thin rings"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "Dominican salami",
+    "note": "in 1 cm slices"
+   },
+   {
+    "n": "frying cheese",
+    "note": "in 1 cm slices"
+   },
+   {
+    "n": "eggs"
+   }
+  ],
+  "steps": [
+   "Mix the onion with the vinegar and a pinch of salt and leave while you cook.",
+   "Boil the plantain in the water with 1 teaspoon of salt for 20 minutes, until very tender.",
+   "Drain, keeping 150 ml of the water. Mash the plantain with the butter, the rest of the salt and the reserved water to a smooth purée.",
+   "In the oil, fry the salami 3 minutes a side, then the cheese 2 minutes a side. Fry the eggs in the same pan.",
+   "Serve the mangú with the drained onion on top and the salami, cheese and eggs alongside."
+  ],
+  "tips": [
+   "Mash the plantain hot with the cooking water still warm; if it cools it turns gummy.",
+   "Lift the onion out of the vinegar before serving so it doesn't wet the mangú."
+  ],
+  "video": "dominican mangu recipe"
+ },
+ "added": "2026-09-30"
+}

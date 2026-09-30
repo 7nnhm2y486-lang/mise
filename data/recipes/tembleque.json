@@ -1,0 +1,119 @@
+{
+ "id": "tembleque",
+ "country": "Puerto Rico",
+ "region": "caribbean",
+ "course": "sweet",
+ "time": 20,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 800,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 70,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "set"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Tembleque",
+  "blurb": "Flan de coco sin huevo que tiembla al servirlo. Postre de Navidad en Puerto Rico.",
+  "ing": [
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Mezcla 200 ml de la leche de coco con la fécula hasta que no haya grumos.",
+   "Calienta el resto de la leche de coco con el azúcar, la sal y la rama de canela hasta que humee.",
+   "Saca la canela, añade la mezcla de fécula y remueve sin parar a fuego medio 6 minutos, hasta que espese como una crema densa.",
+   "Vierte en un molde humedecido con agua y deja enfriar. Refrigera 4 horas.",
+   "Desmolda y espolvorea con la canela molida."
+  ],
+  "tips": [
+   "Remueve con varillas desde el primer momento; la fécula se agarra al fondo enseguida.",
+   "Si queda muy blando, faltó cocción: la mezcla debe hervir al menos 1 minuto."
+  ],
+  "video": "tembleque receta puerto rico"
+ },
+ "en": {
+  "name": "Tembleque (Coconut Pudding)",
+  "blurb": "An egg-free coconut pudding that wobbles when served. A Puerto Rican Christmas dessert.",
+  "ing": [
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Whisk 200 ml of the coconut milk with the cornstarch until smooth.",
+   "Heat the rest of the coconut milk with the sugar, salt and cinnamon stick until steaming.",
+   "Remove the cinnamon, add the cornstarch mixture and stir constantly over medium heat for 6 minutes, until as thick as dense custard.",
+   "Pour into a mould rinsed with water and let cool. Refrigerate 4 hours.",
+   "Turn out and dust with the ground cinnamon."
+  ],
+  "tips": [
+   "Whisk from the very start; cornstarch catches on the bottom at once.",
+   "If it sets too soft, it wasn't cooked enough: the mixture must boil for at least 1 minute."
+  ],
+  "video": "tembleque recipe"
+ },
+ "added": "2026-09-30"
+}

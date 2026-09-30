@@ -1,0 +1,135 @@
+{
+ "id": "mofongo",
+ "country": "Puerto Rico",
+ "region": "caribbean",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "porkskin",
+   "role": "crunch"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "stock",
+   "role": "moisture"
+  }
+ ],
+ "es": {
+  "name": "Mofongo",
+  "blurb": "Plátano verde frito y majado en pilón con ajo y chicharrón. La base de la mesa puertorriqueña.",
+  "ing": [
+   {
+    "n": "plátanos verdes",
+    "note": "pelados y en rodajas de 2 cm"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "chicharrón de cerdo",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "caldo de pollo caliente"
+   }
+  ],
+  "steps": [
+   "Calienta el aceite a 170 °C. Fríe las rodajas de plátano 8 minutos, hasta que estén tiernas pero no doradas. Escúrrelas.",
+   "Maja el ajo con la sal y el aceite de oliva en el pilón o en un bol.",
+   "Añade un tercio del plátano y un tercio del chicharrón y maja hasta tener una masa gruesa. Humedece con 2 cucharadas del caldo.",
+   "Forma una bola apretada en un bol pequeño y desmolda. Repite con el resto.",
+   "Sirve cada mofongo con el resto del caldo caliente por encima o al lado."
+  ],
+  "tips": [
+   "Maja el plátano en cuanto sale del aceite; frío se endurece y no se une.",
+   "Si el plátano queda seco al majar, añade más caldo de cucharada en cucharada."
+  ],
+  "video": "mofongo puertorriqueño receta"
+ },
+ "en": {
+  "name": "Mofongo",
+  "blurb": "Green plantain fried and mashed in a pilón with garlic and crackling. The foundation of the Puerto Rican table.",
+  "ing": [
+   {
+    "n": "green plantains",
+    "note": "peeled, in 2 cm slices"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "pork crackling",
+    "note": "crumbled"
+   },
+   {
+    "n": "hot chicken stock"
+   }
+  ],
+  "steps": [
+   "Heat the oil to 170 °C. Fry the plantain slices for 8 minutes, until tender but not browned. Drain.",
+   "Mash the garlic with the salt and olive oil in the pilón or a bowl.",
+   "Add a third of the plantain and a third of the crackling and mash to a coarse mass. Moisten with 2 tablespoons of the stock.",
+   "Pack into a small bowl and turn out as a dome. Repeat with the rest.",
+   "Serve each mofongo with the rest of the hot stock poured over or on the side."
+  ],
+  "tips": [
+   "Mash the plantain as soon as it leaves the oil; cold, it hardens and won't hold together.",
+   "If the plantain is dry as you mash, add more stock a spoonful at a time."
+  ],
+  "video": "puerto rican mofongo recipe"
+ },
+ "added": "2026-09-30"
+}

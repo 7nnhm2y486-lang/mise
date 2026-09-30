@@ -1,0 +1,191 @@
+{
+ "id": "habichuelas-guisadas",
+ "country": "Dominican Republic",
+ "region": "caribbean",
+ "course": "side",
+ "time": 45,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "tomatopaste",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Habichuelas guisadas",
+  "blurb": "Frijoles rojos guisados con auyama que se deshace y los espesa. La mitad de la bandera dominicana.",
+  "ing": [
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de tomate"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "habichuelas rojas cocidas",
+    "note": "con 250 ml de su líquido"
+   },
+   {
+    "n": "auyama",
+    "note": "en dados de 1 cm"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el pimiento y el ajo en el aceite 5 minutos.",
+   "Añade la pasta de tomate y el orégano y cuece 1 minuto.",
+   "Añade las habichuelas con su líquido, la auyama, el agua y la sal. Cuece 25 minutos a fuego medio.",
+   "Aplasta algunos trozos de auyama y de habichuela contra la olla para espesar.",
+   "Termina con el cilantro y sirve sobre arroz blanco."
+  ],
+  "tips": [
+   "Deben quedar espesas pero con salsa para mojar el arroz.",
+   "Con habichuelas secas, remoja 250 g toda la noche y cuécelas 90 minutos antes de empezar."
+  ],
+  "video": "habichuelas guisadas dominicanas"
+ },
+ "en": {
+  "name": "Habichuelas Guisadas (Dominican Stewed Beans)",
+  "blurb": "Red beans stewed with calabaza that melts and thickens them. Half of the Dominican bandera.",
+  "ing": [
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "cooked red kidney beans",
+    "note": "with 250 ml of their liquid"
+   },
+   {
+    "n": "calabaza (West Indian pumpkin)",
+    "note": "in 1 cm dice"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion, pepper and garlic in the oil for 5 minutes.",
+   "Add the tomato paste and oregano and cook 1 minute.",
+   "Add the beans with their liquid, the calabaza, water and salt. Cook 25 minutes over medium heat.",
+   "Crush some of the calabaza and beans against the pot to thicken.",
+   "Finish with the cilantro and serve over white rice."
+  ],
+  "tips": [
+   "They should be thick but saucy enough to soak the rice.",
+   "With dried beans, soak 250 g overnight and cook them 90 minutes before you start."
+  ],
+  "video": "dominican habichuelas guisadas recipe"
+ },
+ "added": "2026-09-30"
+}

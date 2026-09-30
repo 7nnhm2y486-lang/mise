@@ -1,0 +1,111 @@
+{
+ "id": "tostones",
+ "country": "Puerto Rico",
+ "region": "caribbean",
+ "course": "side",
+ "time": 25,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Tostones",
+  "blurb": "Plátano verde frito dos veces y aplastado. Crujiente por fuera, tierno por dentro, con agua de ajo.",
+  "ing": [
+   {
+    "n": "plátanos verdes",
+    "note": "pelados, en trozos de 3 cm"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Mezcla el agua con el ajo y 1 cucharadita de sal.",
+   "Fríe los trozos de plátano a 160 °C durante 5 minutos, hasta que estén tiernos y apenas dorados. Escúrrelos.",
+   "Aplasta cada trozo hasta 1 cm con una tostonera o el fondo de un vaso.",
+   "Pásalos rápido por el agua de ajo y sécalos con papel.",
+   "Fríe de nuevo a 180 °C durante 3 minutos, hasta que estén dorados. Sala y sirve enseguida."
+  ],
+  "tips": [
+   "Seca bien los tostones después del agua de ajo; el agua en el aceite caliente salta.",
+   "Aplástalos calientes; fríos se rompen."
+  ],
+  "video": "tostones receta"
+ },
+ "en": {
+  "name": "Tostones (Twice-Fried Plantains)",
+  "blurb": "Green plantain fried twice and smashed. Crisp outside, tender inside, with garlic water.",
+  "ing": [
+   {
+    "n": "green plantains",
+    "note": "peeled, in 3 cm pieces"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Mix the water with the garlic and 1 teaspoon of salt.",
+   "Fry the plantain pieces at 160 °C for 5 minutes, until tender and barely golden. Drain.",
+   "Smash each piece to 1 cm with a tostonera or the base of a glass.",
+   "Dip quickly in the garlic water and pat dry with paper.",
+   "Fry again at 180 °C for 3 minutes, until golden. Salt and serve at once."
+  ],
+  "tips": [
+   "Dry the tostones well after the garlic water; water in hot oil spits.",
+   "Smash them while hot; cold, they crack."
+  ],
+  "video": "tostones recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,255 @@
+{
+ "id": "arroz-con-gandules",
+ "country": "Puerto Rico",
+ "region": "caribbean",
+ "course": "main",
+ "time": 60,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "ham",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "olives",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "capers",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 450,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Arroz con gandules",
+  "blurb": "El arroz de Navidad de Puerto Rico: amarillo de achiote, con gandules, jamón y un sofrito de ajíes dulces y recao.",
+  "ing": [
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "semillas de achiote"
+   },
+   {
+    "n": "jamón de cocinar",
+    "note": "en dados"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "ajíes dulces",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "culantro (recao) y cilantro",
+    "note": "picados"
+   },
+   {
+    "n": "salsa de tomate natural"
+   },
+   {
+    "n": "aceitunas verdes"
+   },
+   {
+    "n": "alcaparras"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "arroz de grano medio",
+    "note": "lavado"
+   },
+   {
+    "n": "gandules cocidos",
+    "note": "escurridos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Calienta el aceite con el achiote 3 minutos a fuego bajo y cuélalo. Tira las semillas.",
+   "En un caldero, sofríe el jamón en el aceite de achiote 3 minutos. Añade la cebolla, los pimientos, los ajíes y el ajo y cuece 5 minutos.",
+   "Añade las hierbas, la salsa de tomate, las aceitunas, las alcaparras y el comino. Cuece 3 minutos.",
+   "Añade el arroz, los gandules, el agua y la sal. Hierve sin tapar hasta que el agua baje al nivel del arroz.",
+   "Voltea una vez, tapa con una hoja de papel de aluminio y la tapa, y cuece 25 minutos a fuego bajo sin destapar."
+  ],
+  "tips": [
+   "El pegao, la capa tostada del fondo, es el premio: sube el fuego los últimos 5 minutos si lo quieres.",
+   "Los ajíes dulces no pican; si no los encuentras, usa medio pimiento rojo más."
+  ],
+  "video": "arroz con gandules receta boricua"
+ },
+ "en": {
+  "name": "Arroz con Gandules (Rice with Pigeon Peas)",
+  "blurb": "Puerto Rico's Christmas rice: gold from annatto, with pigeon peas, ham and a base of sweet peppers and recao.",
+  "ing": [
+   {
+    "n": "oil"
+   },
+   {
+    "n": "annatto seeds"
+   },
+   {
+    "n": "cooking ham",
+    "note": "diced"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "ajíes dulces (sweet peppers)",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "culantro (recao) and cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "plain tomato sauce"
+   },
+   {
+    "n": "green olives"
+   },
+   {
+    "n": "capers"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "medium-grain rice",
+    "note": "rinsed"
+   },
+   {
+    "n": "cooked pigeon peas",
+    "note": "drained"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Warm the oil with the annatto for 3 minutes over low heat and strain. Discard the seeds.",
+   "In a heavy pot, fry the ham in the annatto oil for 3 minutes. Add the onion, peppers, ajíes and garlic and cook 5 minutes.",
+   "Add the herbs, tomato sauce, olives, capers and cumin. Cook 3 minutes.",
+   "Add the rice, pigeon peas, water and salt. Boil uncovered until the water drops to the level of the rice.",
+   "Stir once, cover with a sheet of foil and the lid, and cook 25 minutes on low without lifting the lid."
+  ],
+  "tips": [
+   "The pegao, the toasted crust on the bottom, is the prize: raise the heat for the last 5 minutes if you want it.",
+   "Ajíes dulces aren't hot; if you can't find them, use half a red bell pepper more."
+  ],
+  "video": "arroz con gandules recipe"
+ },
+ "added": "2026-09-30"
+}
