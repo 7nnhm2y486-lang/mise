@@ -1,0 +1,209 @@
+{
+ "id": "torta-de-palmito",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "parmesan",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Torta de palmito",
+  "blurb": "Tarta salada de masa de licuadora con relleno de palmito, tomate y arvejas. Merienda brasileña.",
+  "ing": [
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "queso parmesano rallado"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite (para el relleno)"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "palmitos",
+    "note": "en rodajas"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla en el aceite del relleno 5 minutos. Añade el tomate, los palmitos, las arvejas y el perejil y cocina 5 minutos.",
+   "Licúa los huevos, la leche, el aceite, la harina, el queso y la sal. Añade el polvo de hornear.",
+   "Vierte la mitad de la masa en un molde de 22 x 30 cm engrasado, cubre con el relleno y luego con el resto de la masa.",
+   "Hornea a 180 °C 40 minutos, hasta que esté dorada."
+  ],
+  "tips": [
+   "Escurre bien el relleno para que la masa no quede húmeda.",
+   "Se come tibia o fría."
+  ],
+  "video": "torta de palmito de liquidificador"
+ },
+ "en": {
+  "name": "Torta de Palmito (Brazilian Heart of Palm Pie)",
+  "blurb": "A savoury blender-batter pie filled with hearts of palm, tomato and peas. A Brazilian afternoon snack.",
+  "ing": [
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "grated parmesan"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil (for the filling)"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "hearts of palm",
+    "note": "sliced"
+   },
+   {
+    "n": "peas"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Cook the onion in the filling oil for 5 minutes. Add the tomato, palm hearts, peas and parsley and cook 5 minutes.",
+   "Blend the eggs, milk, oil, flour, cheese and salt. Add the baking powder.",
+   "Pour half the batter into a greased 22 x 30 cm tin, add the filling, then the rest of the batter.",
+   "Bake at 180 °C for 40 minutes, until golden."
+  ],
+  "tips": [
+   "Drain the filling well so the batter doesn't go soggy.",
+   "Eat it warm or cold."
+  ],
+  "video": "brazilian heart of palm pie"
+ },
+ "added": "2026-09-30"
+}

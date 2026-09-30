@@ -1,0 +1,161 @@
+{
+ "id": "salpicao",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "mayo",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Salpicão de frango",
+  "blurb": "Ensalada fría de pollo con zanahoria, maíz, manzana y mayonesa. La ensalada de las fiestas de fin de año en Brasil.",
+  "ing": [
+   {
+    "n": "pechuga de pollo cocida",
+    "note": "desmenuzada"
+   },
+   {
+    "n": "zanahorias",
+    "note": "ralladas"
+   },
+   {
+    "n": "granos de maíz cocidos"
+   },
+   {
+    "n": "arvejas cocidas"
+   },
+   {
+    "n": "manzana verde",
+    "note": "en cubos"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Mezcla el pollo, la zanahoria, el maíz, las arvejas, la manzana y las pasas.",
+   "Añade la mayonesa y la sal y mezcla.",
+   "Refrigera 1 hora.",
+   "Termina con el perejil."
+  ],
+  "tips": [
+   "Revisa la etiqueta de la mayonesa: puede llevar mostaza o soja.",
+   "Se conserva 1 día en la nevera."
+  ],
+  "video": "salpicão de frango"
+ },
+ "en": {
+  "name": "Salpicão (Brazilian Chicken Salad)",
+  "blurb": "A cold chicken salad with carrot, corn, apple and mayonnaise. The year-end party salad in Brazil.",
+  "ing": [
+   {
+    "n": "cooked chicken breast",
+    "note": "shredded"
+   },
+   {
+    "n": "carrots",
+    "note": "grated"
+   },
+   {
+    "n": "cooked corn kernels"
+   },
+   {
+    "n": "cooked peas"
+   },
+   {
+    "n": "green apple",
+    "note": "diced"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Mix the chicken, carrot, corn, peas, apple and raisins.",
+   "Add the mayonnaise and salt and mix.",
+   "Chill 1 hour.",
+   "Finish with the parsley."
+  ],
+  "tips": [
+   "Check the mayonnaise label: it may contain mustard or soy.",
+   "It keeps 1 day in the fridge."
+  ],
+  "video": "brazilian chicken salpicao"
+ },
+ "added": "2026-09-30"
+}

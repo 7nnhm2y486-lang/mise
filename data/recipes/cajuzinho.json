@@ -1,0 +1,119 @@
+{
+ "id": "cajuzinho",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 40,
+ "serves": 30,
+ "ing": [
+  {
+   "q": 395,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "peanut",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "cocoa",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "garnish"
+  },
+  {
+   "q": 30,
+   "u": "",
+   "k": "peanut",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Cajuzinho",
+  "blurb": "Dulces de maní con forma de fruto de cajú. Infaltables en los cumpleaños brasileños.",
+  "ing": [
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "maní tostado sin sal",
+    "note": "molido"
+   },
+   {
+    "n": "cacao en polvo"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "maníes enteros para decorar"
+   }
+  ],
+  "steps": [
+   "Cocina la leche condensada, el maní molido, el cacao y la mantequilla 10 minutos, removiendo, hasta que se despegue de la olla.",
+   "Deja enfriar por completo.",
+   "Con las manos untadas de mantequilla, forma bolitas alargadas con forma de cajú.",
+   "Pásalas por el azúcar y pon un maní en la punta."
+  ],
+  "tips": [
+   "La masa debe estar fría para modelarla.",
+   "Sírvelos en capacillos de papel."
+  ],
+  "video": "cajuzinho de amendoim"
+ },
+ "en": {
+  "name": "Cajuzinho (Brazilian Peanut Sweets)",
+  "blurb": "Peanut sweets shaped like cashew fruit. A must at Brazilian birthday parties.",
+  "ing": [
+   {
+    "n": "condensed milk"
+   },
+   {
+    "n": "unsalted roasted peanuts",
+    "note": "ground"
+   },
+   {
+    "n": "cocoa powder"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "whole peanuts to decorate"
+   }
+  ],
+  "steps": [
+   "Cook the condensed milk, ground peanuts, cocoa and butter for 10 minutes, stirring, until it pulls away from the pan.",
+   "Cool completely.",
+   "With buttered hands, shape small cashew-shaped balls.",
+   "Roll in the sugar and press a peanut into the tip."
+  ],
+  "tips": [
+   "The mixture must be cold to shape.",
+   "Serve in paper cases."
+  ],
+  "video": "brazilian peanut cajuzinho"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,199 @@
+{
+ "id": "esfiha",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 120,
+ "serves": 20,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 7,
+   "u": "g",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Esfiha abierta",
+  "blurb": "Panecitos abiertos cubiertos de carne con tomate y limón. De origen árabe y vendidos en todas las esquinas de São Paulo.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "leche tibia"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "tomates",
+    "note": "sin semillas, picados"
+   },
+   {
+    "n": "hierbabuena",
+    "note": "picada"
+   },
+   {
+    "n": "limón",
+    "note": "exprimido"
+   },
+   {
+    "n": "sal (para el relleno)"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la levadura, el azúcar, la sal, la leche y el aceite. Amasa 8 minutos y deja levar 1 hora.",
+   "Mezcla la carne cruda con la cebolla, el tomate, la hierbabuena, el limón y la sal del relleno.",
+   "Divide la masa en 20 bolas y aplánalas en discos de 10 cm.",
+   "Cubre cada disco con relleno dejando un borde.",
+   "Hornea a 200 °C 15 minutos, hasta que los bordes estén dorados."
+  ],
+  "tips": [
+   "Escurre el tomate para que la masa no se moje.",
+   "La carne se cuece en el horno: extiéndela fina."
+  ],
+  "video": "esfiha aberta de carne"
+ },
+ "en": {
+  "name": "Esfiha (Brazilian Open Meat Pies)",
+  "blurb": "Open flatbreads topped with beef, tomato and lemon. Arab in origin and sold on every corner of São Paulo.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "dried yeast"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "warm milk"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "minced beef"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "seeded, chopped"
+   },
+   {
+    "n": "mint",
+    "note": "chopped"
+   },
+   {
+    "n": "lemon",
+    "note": "juiced"
+   },
+   {
+    "n": "salt (for the filling)"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar, salt, milk and oil. Knead 8 minutes and rise 1 hour.",
+   "Mix the raw beef with the onion, tomato, mint, lemon and filling salt.",
+   "Divide the dough into 20 balls and flatten into 10 cm discs.",
+   "Top each disc with filling, leaving a border.",
+   "Bake at 200 °C for 15 minutes, until the edges are golden."
+  ],
+  "tips": [
+   "Drain the tomato so the dough doesn't get soggy.",
+   "The beef cooks in the oven: spread it thin."
+  ],
+  "video": "brazilian esfiha"
+ },
+ "added": "2026-09-30"
+}

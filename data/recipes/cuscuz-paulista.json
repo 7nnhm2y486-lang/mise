@@ -1,0 +1,217 @@
+{
+ "id": "cuscuz-paulista",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "olives",
+   "role": "umami"
+  },
+  {
+   "q": 600,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Cuscuz paulista",
+  "blurb": "Pastel moldeado de harina de maíz con sardinas, palmito y tomate, decorado con huevo. Clásico de São Paulo.",
+  "ing": [
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "sardinas en conserva",
+    "note": "escurridas"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "palmitos",
+    "note": "en rodajas"
+   },
+   {
+    "n": "aceitunas verdes"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "harina de maíz en copos (flocão)"
+   },
+   {
+    "n": "huevos duros",
+    "note": "en rodajas"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla y el ajo en el aceite 5 minutos. Añade el tomate y cocina 8 minutos.",
+   "Añade las sardinas, las arvejas, los palmitos, las aceitunas, el agua y la sal y hierve.",
+   "Añade la harina de maíz poco a poco, removiendo, y cocina 5 minutos hasta que se despegue.",
+   "Decora el fondo de un molde de rosca con huevo, perejil y sardina. Rellena apretando.",
+   "Deja enfriar 30 minutos y desmolda."
+  ],
+  "tips": [
+   "Aprieta bien la masa en el molde para que se sostenga.",
+   "Se come tibio o frío."
+  ],
+  "video": "cuscuz paulista"
+ },
+ "en": {
+  "name": "Cuscuz Paulista (São Paulo Cornmeal Mould)",
+  "blurb": "A moulded cornmeal cake with sardines, hearts of palm and tomato, decorated with egg. A São Paulo classic.",
+  "ing": [
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "canned sardines",
+    "note": "drained"
+   },
+   {
+    "n": "green peas"
+   },
+   {
+    "n": "hearts of palm",
+    "note": "sliced"
+   },
+   {
+    "n": "green olives"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "flaked cornmeal"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "sliced"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion and garlic in the oil for 5 minutes. Add the tomato and cook 8 minutes.",
+   "Add the sardines, peas, palm hearts, olives, water and salt and bring to the boil.",
+   "Add the cornmeal gradually, stirring, and cook 5 minutes until it pulls away.",
+   "Decorate the base of a ring mould with egg, parsley and sardine. Pack in the mixture.",
+   "Cool 30 minutes and turn out."
+  ],
+  "tips": [
+   "Pack it firmly into the mould so it holds.",
+   "Eat it warm or cold."
+  ],
+  "video": "brazilian cuscuz paulista"
+ },
+ "added": "2026-09-30"
+}

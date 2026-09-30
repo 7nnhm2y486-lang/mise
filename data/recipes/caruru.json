@@ -1,0 +1,157 @@
+{
+ "id": "caruru",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "side",
+ "time": 50,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "shrimp",
+   "role": "umami"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "peanut",
+   "role": "thicken"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "cashew",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Caruru",
+  "blurb": "Guiso de okra con camarón seco, maní y castaña de cajú en aceite de dendê. Plato sagrado de la cocina bahiana.",
+  "ing": [
+   {
+    "n": "quiabo (okra)",
+    "note": "en rodajas finas"
+   },
+   {
+    "n": "camarón seco molido"
+   },
+   {
+    "n": "maní tostado"
+   },
+   {
+    "n": "castañas de cajú tostadas"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "trozo de jengibre"
+   },
+   {
+    "n": "aceite de dendê (palma)"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Muele el maní, las castañas, la cebolla y el jengibre hasta tener una pasta.",
+   "Sofríe la pasta y el camarón en el aceite 5 minutos.",
+   "Añade la okra y el agua y cuece 25 minutos, removiendo, hasta que la okra se deshaga.",
+   "Sala y sirve."
+  ],
+  "tips": [
+   "Remueve a menudo: la okra suelta baba que espesa el guiso.",
+   "El dendê le da el color y sabor bahiano."
+  ],
+  "video": "caruru baiano"
+ },
+ "en": {
+  "name": "Caruru (Bahian Okra Stew)",
+  "blurb": "Okra stewed with dried shrimp, peanuts and cashews in red palm oil. A sacred dish of Bahian cooking.",
+  "ing": [
+   {
+    "n": "okra",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "ground dried shrimp"
+   },
+   {
+    "n": "roasted peanuts"
+   },
+   {
+    "n": "roasted cashews"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "piece of ginger"
+   },
+   {
+    "n": "red palm oil"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Grind the peanuts, cashews, onion and ginger into a paste.",
+   "Fry the paste and shrimp in the oil for 5 minutes.",
+   "Add the okra and water and simmer 25 minutes, stirring, until the okra breaks down.",
+   "Salt and serve."
+  ],
+  "tips": [
+   "Stir often: the okra releases a slime that thickens the stew.",
+   "The palm oil gives the Bahian colour and flavour."
+  ],
+  "video": "brazilian caruru"
+ },
+ "added": "2026-09-30"
+}

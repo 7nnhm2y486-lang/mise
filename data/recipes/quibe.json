@@ -1,0 +1,147 @@
+{
+ "id": "quibe",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 60,
+ "serves": 20,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "bulgur",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Quibe frito",
+  "blurb": "Croquetas alargadas de trigo y carne con hierbabuena. Herencia libanesa infaltable en las fiestas brasileñas.",
+  "ing": [
+   {
+    "n": "trigo para quibe (bulgur fino)"
+   },
+   {
+    "n": "carne molida de res magra"
+   },
+   {
+    "n": "cebolla",
+    "note": "rallada"
+   },
+   {
+    "n": "hierbabuena",
+    "note": "picada"
+   },
+   {
+    "n": "pimienta de Jamaica molida"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "limones"
+   }
+  ],
+  "steps": [
+   "Remoja el trigo en agua 30 minutos y escúrrelo apretando bien.",
+   "Mezcla con la carne, la cebolla, la hierbabuena, la especia y la sal. Amasa 5 minutos.",
+   "Con las manos húmedas, forma croquetas alargadas con puntas.",
+   "Fríe a 175 °C 4 minutos, hasta que estén doradas.",
+   "Sirve con limón."
+  ],
+  "tips": [
+   "Exprime bien el trigo para que no se deshagan al freír.",
+   "Amasar mucho da una textura fina."
+  ],
+  "video": "quibe frito brasileño"
+ },
+ "en": {
+  "name": "Quibe (Brazilian Fried Kibbeh)",
+  "blurb": "Torpedo-shaped croquettes of bulgur and beef with mint. A Lebanese legacy at every Brazilian party.",
+  "ing": [
+   {
+    "n": "fine bulgur"
+   },
+   {
+    "n": "lean minced beef"
+   },
+   {
+    "n": "onion",
+    "note": "grated"
+   },
+   {
+    "n": "mint",
+    "note": "chopped"
+   },
+   {
+    "n": "ground allspice"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "lemons"
+   }
+  ],
+  "steps": [
+   "Soak the bulgur in water for 30 minutes and squeeze it very dry.",
+   "Mix with the beef, onion, mint, spice and salt. Knead 5 minutes.",
+   "With wet hands, shape pointed croquettes.",
+   "Fry at 175 °C for 4 minutes, until golden.",
+   "Serve with lemon."
+  ],
+  "tips": [
+   "Squeeze the bulgur well so they don't fall apart when frying.",
+   "Kneading well gives a fine texture."
+  ],
+  "video": "brazilian quibe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,133 @@
+{
+ "id": "bolo-de-milho",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  }
+ ],
+ "es": {
+  "name": "Bolo de milho verde",
+  "blurb": "Bizcocho húmedo de maíz tierno licuado. El sabor de las fiestas juninas.",
+  "ing": [
+   {
+    "n": "mazorcas de maíz tierno",
+    "note": "desgranadas"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "harina de maíz fina"
+   },
+   {
+    "n": "polvo de hornear"
+   }
+  ],
+  "steps": [
+   "Licúa los granos de maíz, los huevos, la leche, el aceite y el azúcar 3 minutos.",
+   "Añade la harina de maíz y licúa 30 segundos.",
+   "Añade el polvo de hornear y mezcla con una cuchara.",
+   "Vierte en un molde de 22 cm engrasado.",
+   "Hornea a 180 °C 45 minutos, hasta que esté dorado."
+  ],
+  "tips": [
+   "Queda cremoso por dentro: es así.",
+   "Deja enfriar antes de desmoldar."
+  ],
+  "video": "bolo de milho verde"
+ },
+ "en": {
+  "name": "Bolo de Milho (Brazilian Fresh Corn Cake)",
+  "blurb": "A moist cake of blended fresh corn. The taste of June festivals.",
+  "ing": [
+   {
+    "n": "young corn cobs",
+    "note": "kernels cut off"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "fine cornmeal"
+   },
+   {
+    "n": "baking powder"
+   }
+  ],
+  "steps": [
+   "Blend the corn kernels, eggs, milk, oil and sugar for 3 minutes.",
+   "Add the cornmeal and blend 30 seconds.",
+   "Add the baking powder and stir in with a spoon.",
+   "Pour into a greased 22 cm tin.",
+   "Bake at 180 °C for 45 minutes, until golden."
+  ],
+  "tips": [
+   "It's meant to be creamy inside.",
+   "Cool before turning out."
+  ],
+  "video": "brazilian fresh corn cake"
+ },
+ "added": "2026-09-30"
+}

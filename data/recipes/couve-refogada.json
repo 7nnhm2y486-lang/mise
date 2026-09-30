@@ -1,0 +1,97 @@
+{
+ "id": "couve-refogada",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "side",
+ "time": 15,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Couve refogada",
+  "blurb": "Col rizada en tiras finísimas salteada con ajo. Acompaña la feijoada y el tutu en Brasil.",
+  "ing": [
+   {
+    "n": "col rizada (couve)",
+    "note": "en tiras muy finas"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Enrolla las hojas y córtalas en tiras muy finas.",
+   "Dora el ajo en el aceite 1 minuto.",
+   "Añade la col y la sal y saltea 2 minutos a fuego fuerte, hasta que brille.",
+   "Sirve de inmediato."
+  ],
+  "tips": [
+   "No la cocines de más: debe seguir verde intenso.",
+   "Cuanto más finas las tiras, mejor."
+  ],
+  "video": "couve refogada"
+ },
+ "en": {
+  "name": "Couve Refogada (Brazilian Garlic Collards)",
+  "blurb": "Collard greens cut into very thin ribbons and sautéed with garlic. Served with feijoada and tutu in Brazil.",
+  "ing": [
+   {
+    "n": "collard greens",
+    "note": "in very thin strips"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Roll the leaves and slice into very thin ribbons.",
+   "Fry the garlic in the oil for 1 minute.",
+   "Add the greens and salt and stir-fry 2 minutes over high heat, until glossy.",
+   "Serve at once."
+  ],
+  "tips": [
+   "Don't overcook: it should stay bright green.",
+   "The thinner the ribbons, the better."
+  ],
+  "video": "brazilian garlic collard greens"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,169 @@
+{
+ "id": "pao-de-mel",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 16,
+ "ing": [
+  {
+   "q": 120,
+   "u": "g",
+   "k": "honey",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "cocoa",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingsoda",
+   "role": "aerate"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "dulcedeleche",
+   "role": "spread"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "glaze"
+  }
+ ],
+ "es": {
+  "name": "Pão de mel",
+  "blurb": "Bizcochitos de miel y especias rellenos de dulce de leche y bañados en chocolate. Regalo clásico brasileño.",
+  "ing": [
+   {
+    "n": "miel"
+   },
+   {
+    "n": "azúcar moreno"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "cacao en polvo"
+   },
+   {
+    "n": "canela, clavo y nuez moscada molidos"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "doce de leite"
+   },
+   {
+    "n": "chocolate semiamargo",
+    "note": "derretido"
+   }
+  ],
+  "steps": [
+   "Mezcla la miel, el azúcar, la leche y el huevo. Añade la harina, el cacao, las especias y el bicarbonato.",
+   "Vierte en un molde de 25 x 35 cm con papel y hornea a 180 °C 25 minutos. Deja enfriar.",
+   "Corta 16 círculos de 6 cm y ábrelos por la mitad.",
+   "Rellena con el doce de leite.",
+   "Baña en el chocolate y deja secar sobre papel."
+  ],
+  "tips": [
+   "Se conservan 1 semana envueltos en papel de aluminio.",
+   "Los recortes sirven para hacer trufas."
+  ],
+  "video": "pão de mel recheado"
+ },
+ "en": {
+  "name": "Pão de Mel (Brazilian Honey Spice Cakes)",
+  "blurb": "Little honey spice cakes filled with dulce de leche and dipped in chocolate. A classic Brazilian gift.",
+  "ing": [
+   {
+    "n": "honey"
+   },
+   {
+    "n": "brown sugar"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "cocoa powder"
+   },
+   {
+    "n": "ground cinnamon, clove and nutmeg"
+   },
+   {
+    "n": "bicarbonate of soda"
+   },
+   {
+    "n": "dulce de leche"
+   },
+   {
+    "n": "dark chocolate",
+    "note": "melted"
+   }
+  ],
+  "steps": [
+   "Mix the honey, sugar, milk and egg. Add the flour, cocoa, spices and bicarbonate.",
+   "Pour into a lined 25 x 35 cm tin and bake at 180 °C for 25 minutes. Cool.",
+   "Cut 16 circles of 6 cm and split them in half.",
+   "Fill with the dulce de leche.",
+   "Dip in the chocolate and let set on paper."
+  ],
+  "tips": [
+   "They keep 1 week wrapped in foil.",
+   "Use the offcuts to make truffles."
+  ],
+  "video": "brazilian pao de mel"
+ },
+ "added": "2026-09-30"
+}
