@@ -1,0 +1,165 @@
+{
+ "id": "sopa-de-frijoles-hn",
+ "country": "Honduras",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Sopa de frijoles con costilla",
+  "blurb": "Frijoles rojos con costilla de cerdo y plátano maduro. La sopa de los domingos en Honduras.",
+  "ing": [
+   {
+    "n": "frijoles rojos secos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "costillas de cerdo",
+    "note": "en trozos"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "chile dulce",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "plátanos maduros",
+    "note": "en trozos"
+   },
+   {
+    "n": "culantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja los frijoles 12 horas y escúrrelos.",
+   "Cuécelos en el agua con las costillas, la cebolla, el chile y el ajo 90 minutos.",
+   "Añade el plátano y la sal y cuece 20 minutos más.",
+   "Termina con el culantro."
+  ],
+  "tips": [
+   "Machaca algunos frijoles contra la olla para espesar el caldo.",
+   "Está aún mejor al día siguiente."
+  ],
+  "video": "sopa de frijoles hondureña"
+ },
+ "en": {
+  "name": "Honduran Bean Soup with Pork Ribs",
+  "blurb": "Red beans with pork ribs and ripe plantain. Sunday soup in Honduras.",
+  "ing": [
+   {
+    "n": "dried red beans"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "pork ribs",
+    "note": "in pieces"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ripe plantains",
+    "note": "in chunks"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the beans 12 hours and drain.",
+   "Simmer them in the water with the ribs, onion, pepper and garlic for 90 minutes.",
+   "Add the plantain and salt and cook 20 minutes more.",
+   "Finish with the coriander."
+  ],
+  "tips": [
+   "Crush some beans against the pot to thicken the broth.",
+   "It is even better the next day."
+  ],
+  "video": "honduran bean soup ribs"
+ },
+ "added": "2026-09-30"
+}

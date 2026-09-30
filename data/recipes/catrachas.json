@@ -1,0 +1,119 @@
+{
+ "id": "catrachas",
+ "country": "Honduras",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 12,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "spread"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Catrachas",
+  "blurb": "Tortillas fritas crujientes con frijoles machacados y queso seco. La botana más hondureña de todas.",
+  "ing": [
+   {
+    "n": "tortillas de maíz"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "frijoles rojos cocidos",
+    "note": "escurridos"
+   },
+   {
+    "n": "aceite (para los frijoles)"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "queso seco rallado"
+   }
+  ],
+  "steps": [
+   "Fríe las tortillas en el aceite 1 minuto por lado, hasta que estén crujientes. Escurre.",
+   "Machaca los frijoles y fríelos en el aceite de los frijoles 5 minutos con la sal, hasta que espesen.",
+   "Unta cada tortilla con frijol.",
+   "Cubre con el queso seco y sirve de inmediato."
+  ],
+  "tips": [
+   "Unta el frijol justo antes de servir para que no se ablanden.",
+   "El queso seco hondureño se puede cambiar por cotija."
+  ],
+  "video": "catrachas hondureñas"
+ },
+ "en": {
+  "name": "Catrachas (Honduran Bean Tostadas)",
+  "blurb": "Crisp fried tortillas with mashed beans and dry cheese. The most Honduran snack of all.",
+  "ing": [
+   {
+    "n": "corn tortillas"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "cooked red beans",
+    "note": "drained"
+   },
+   {
+    "n": "oil (for the beans)"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "dry grated cheese"
+   }
+  ],
+  "steps": [
+   "Fry the tortillas in the oil for 1 minute per side, until crisp. Drain.",
+   "Mash the beans and fry them in the bean oil for 5 minutes with the salt, until thick.",
+   "Spread each tortilla with beans.",
+   "Top with the dry cheese and serve at once."
+  ],
+  "tips": [
+   "Spread the beans just before serving so they stay crisp.",
+   "Cotija works in place of Honduran dry cheese."
+  ],
+  "video": "honduran catrachas"
+ },
+ "added": "2026-09-30"
+}

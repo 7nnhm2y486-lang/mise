@@ -1,0 +1,143 @@
+{
+ "id": "empanadas-de-platano",
+ "country": "El Salvador",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "apflour",
+   "role": "binder"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "sugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Empanadas de plátano",
+  "blurb": "Masa de plátano maduro rellena de leche poleada y frita. El dulce de las tardes salvadoreñas.",
+  "ing": [
+   {
+    "n": "plátanos maduros"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "maicena"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "azúcar (segunda parte)"
+   }
+  ],
+  "steps": [
+   "Hierve los plátanos con piel 15 minutos. Pélalos, hazlos puré con la harina y deja enfriar.",
+   "Calienta la leche con el azúcar y la canela. Añade la maicena disuelta en un poco de leche y cuece 5 minutos removiendo hasta espesar. Deja enfriar.",
+   "Con las manos húmedas, forma 10 discos de plátano, rellena con la crema y cierra en media luna.",
+   "Fríe a 175 °C 3 minutos, hasta que estén doradas.",
+   "Escurre y reboza en el azúcar de la segunda parte."
+  ],
+  "tips": [
+   "La crema debe estar fría y espesa para que no se salga.",
+   "Si la masa se pega, humedécete las manos con agua."
+  ],
+  "video": "empanadas de plátano salvadoreñas"
+ },
+ "en": {
+  "name": "Empanadas de Plátano (Plantain Custard Turnovers)",
+  "blurb": "Ripe plantain dough filled with milk custard and fried. The Salvadoran afternoon sweet.",
+  "ing": [
+   {
+    "n": "ripe plantains"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cornflour"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "sugar (second part)"
+   }
+  ],
+  "steps": [
+   "Boil the plantains in their skins for 15 minutes. Peel, mash with the flour and cool.",
+   "Heat the milk with the sugar and cinnamon. Add the cornflour mixed with a little milk and cook 5 minutes, stirring, until thick. Cool.",
+   "With wet hands, shape 10 plantain discs, fill with the custard and fold into half-moons.",
+   "Fry at 175 °C for 3 minutes, until golden.",
+   "Drain and roll in the second part of the sugar."
+  ],
+  "tips": [
+   "The custard must be cold and thick so it doesn't leak.",
+   "If the dough sticks, wet your hands with water."
+  ],
+  "video": "salvadoran plantain empanadas"
+ },
+ "added": "2026-09-30"
+}

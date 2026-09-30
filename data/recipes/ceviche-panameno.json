@@ -1,0 +1,141 @@
+{
+ "id": "ceviche-panameno",
+ "country": "Panama",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "stalk",
+   "k": "celery",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Ceviche panameño",
+  "blurb": "Corvina en limón con apio, cebolla y ají chombo. Se vende en vasitos en el Mercado de Mariscos de Panamá.",
+  "ing": [
+   {
+    "n": "corvina fresca",
+    "note": "en cubos de 1 cm"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "apio",
+    "note": "picado fino"
+   },
+   {
+    "n": "ají chombo (habanero)",
+    "note": "sin semillas, picado"
+   },
+   {
+    "n": "culantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Mezcla el pescado con la sal y el jugo de limón hasta cubrirlo.",
+   "Refrigera 20 minutos, hasta que el pescado esté opaco.",
+   "Añade la cebolla, el apio, el ají y el culantro.",
+   "Sirve frío en vasitos."
+  ],
+  "tips": [
+   "Usa pescado muy fresco, del mismo día.",
+   "El ají chombo pica mucho: empieza con la mitad."
+  ],
+  "video": "ceviche panameño de corvina"
+ },
+ "en": {
+  "name": "Panamanian Ceviche",
+  "blurb": "Sea bass cured in lime with celery, onion and Scotch bonnet. Sold in little cups at Panama City's fish market.",
+  "ing": [
+   {
+    "n": "fresh sea bass",
+    "note": "in 1 cm cubes"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "celery",
+    "note": "finely chopped"
+   },
+   {
+    "n": "Scotch bonnet chilli",
+    "note": "seeded, chopped"
+   },
+   {
+    "n": "culantro",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Mix the fish with the salt and lime juice until covered.",
+   "Chill 20 minutes, until the fish turns opaque.",
+   "Add the onion, celery, chilli and culantro.",
+   "Serve cold in small cups."
+  ],
+  "tips": [
+   "Use very fresh fish, bought that day.",
+   "Scotch bonnet is very hot: start with half."
+  ],
+  "video": "panamanian ceviche corvina"
+ },
+ "added": "2026-09-30"
+}

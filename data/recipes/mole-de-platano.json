@@ -1,0 +1,171 @@
+{
+ "id": "mole-de-platano",
+ "country": "Guatemala",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 45,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "ancho",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sesameseed",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "seeds",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "tablechocolate",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Mole de plátano",
+  "blurb": "Plátano maduro frito en una salsa de chocolate, chile y semillas tostadas. Postre guatemalteco de Semana Santa.",
+  "ing": [
+   {
+    "n": "plátanos maduros",
+    "note": "en rodajas gruesas"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "tomates"
+   },
+   {
+    "n": "chiles pasa",
+    "note": "sin semillas"
+   },
+   {
+    "n": "ajonjolí"
+   },
+   {
+    "n": "pepitas de calabaza"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "chocolate de mesa"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   }
+  ],
+  "steps": [
+   "Fríe el plátano en el aceite 3 minutos por lado. Reserva.",
+   "Tuesta el ajonjolí, las pepitas, los chiles y la canela en un comal 3 minutos.",
+   "Asa los tomates 8 minutos y lícualos con lo tostado y el agua.",
+   "Cuece la salsa 10 minutos con el chocolate y el azúcar, hasta que espese.",
+   "Añade el plátano y cuece 5 minutos. Sirve espolvoreado con ajonjolí."
+  ],
+  "tips": [
+   "No quemes el ajonjolí: amarga la salsa.",
+   "Se come tibio o a temperatura ambiente."
+  ],
+  "video": "mole de plátano guatemalteco"
+ },
+ "en": {
+  "name": "Mole de Plátano (Plantains in Chocolate Mole)",
+  "blurb": "Fried ripe plantains in a sauce of chocolate, chilli and toasted seeds. A Guatemalan Holy Week dessert.",
+  "ing": [
+   {
+    "n": "ripe plantains",
+    "note": "in thick slices"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "pasilla chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "sesame seeds"
+   },
+   {
+    "n": "pumpkin seeds"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "Mexican-style table chocolate"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   }
+  ],
+  "steps": [
+   "Fry the plantain in the oil for 3 minutes per side. Set aside.",
+   "Toast the sesame, pumpkin seeds, chillies and cinnamon on a griddle for 3 minutes.",
+   "Char the tomatoes for 8 minutes and blend with the toasted mix and the water.",
+   "Simmer the sauce 10 minutes with the chocolate and sugar, until thick.",
+   "Add the plantain and cook 5 minutes. Serve sprinkled with sesame."
+  ],
+  "tips": [
+   "Don't burn the sesame: it turns the sauce bitter.",
+   "Eat it warm or at room temperature."
+  ],
+  "video": "guatemalan plantain mole"
+ },
+ "added": "2026-09-30"
+}

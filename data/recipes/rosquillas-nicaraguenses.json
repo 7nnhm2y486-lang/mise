@@ -1,0 +1,117 @@
+{
+ "id": "rosquillas-nicaraguenses",
+ "country": "Nicaragua",
+ "region": "latin-america",
+ "course": "cookie",
+ "time": 60,
+ "serves": 30,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "shortening",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  }
+ ],
+ "es": {
+  "name": "Rosquillas nicaragüenses",
+  "blurb": "Rosquitas horneadas de maíz y queso seco, crujientes. Se comen con café en Somoto y en toda Nicaragua.",
+  "ing": [
+   {
+    "n": "masa de maíz"
+   },
+   {
+    "n": "queso seco rallado"
+   },
+   {
+    "n": "manteca vegetal"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "polvo de hornear"
+   }
+  ],
+  "steps": [
+   "Mezcla la masa, el queso, la manteca y el polvo de hornear.",
+   "Añade los huevos y la leche y amasa hasta que esté lisa.",
+   "Forma cordones de 10 cm y únelos en aros.",
+   "Hornea a 180 °C 25 minutos, hasta que estén doradas y crujientes."
+  ],
+  "tips": [
+   "Deja enfriar del todo: se endurecen al enfriar.",
+   "Guárdalas en un frasco cerrado, duran semanas."
+  ],
+  "video": "rosquillas nicaragüenses de queso"
+ },
+ "en": {
+  "name": "Rosquillas (Nicaraguan Corn and Cheese Rings)",
+  "blurb": "Crisp baked rings of corn masa and dry cheese. Eaten with coffee in Somoto and all over Nicaragua.",
+  "ing": [
+   {
+    "n": "corn masa"
+   },
+   {
+    "n": "dry grated cheese"
+   },
+   {
+    "n": "vegetable shortening"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "baking powder"
+   }
+  ],
+  "steps": [
+   "Mix the masa, cheese, shortening and baking powder.",
+   "Add the eggs and milk and knead until smooth.",
+   "Roll 10 cm ropes and join into rings.",
+   "Bake at 180 °C for 25 minutes, until golden and crisp."
+  ],
+  "tips": [
+   "Let them cool fully: they crisp as they cool.",
+   "Keep them in a closed jar; they last for weeks."
+  ],
+  "video": "nicaraguan rosquillas"
+ },
+ "added": "2026-09-30"
+}

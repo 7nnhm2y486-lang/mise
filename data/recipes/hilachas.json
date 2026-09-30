@@ -1,0 +1,197 @@
+{
+ "id": "hilachas",
+ "country": "Guatemala",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "tomatillo",
+   "role": "sauce"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "ancho",
+   "role": "sauce"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "masa",
+   "role": "thicken"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Hilachas",
+  "blurb": "Carne deshilachada en un recado espeso de tomate, miltomate y guajillo, con papa y zanahoria. Plato de casa en Guatemala.",
+  "ing": [
+   {
+    "n": "falda de res"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "tomates"
+   },
+   {
+    "n": "miltomates"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "sin semillas"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "masa de maíz"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "papas",
+    "note": "en cubos"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en cubos"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece la carne en el agua con la sal 90 minutos. Deshiláchala y guarda 500 ml del caldo.",
+   "Asa los tomates, los miltomates, los chiles, la cebolla y el ajo en un comal 8 minutos.",
+   "Lícualos con la masa y el caldo reservado.",
+   "Fríe el recado en el aceite 5 minutos. Añade la carne, la papa y la zanahoria.",
+   "Cuece 20 minutos a fuego bajo, hasta que la papa esté tierna."
+  ],
+  "tips": [
+   "Sírvelo con arroz blanco.",
+   "Asar las verduras le da el sabor ahumado del recado."
+  ],
+  "video": "hilachas guatemaltecas"
+ },
+ "en": {
+  "name": "Hilachas (Guatemalan Shredded Beef)",
+  "blurb": "Shredded beef in a thick tomato, tomatillo and guajillo sauce with potato and carrot. Guatemalan home cooking.",
+  "ing": [
+   {
+    "n": "beef flank"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "guajillo chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "corn masa"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "potatoes",
+    "note": "cubed"
+   },
+   {
+    "n": "carrots",
+    "note": "cubed"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the beef in the water with the salt for 90 minutes. Shred it and keep 500 ml of the broth.",
+   "Char the tomatoes, tomatillos, chillies, onion and garlic on a griddle for 8 minutes.",
+   "Blend with the masa and the reserved broth.",
+   "Fry the sauce in the oil for 5 minutes. Add the beef, potato and carrot.",
+   "Simmer 20 minutes on low, until the potato is tender."
+  ],
+  "tips": [
+   "Serve with white rice.",
+   "Charring the vegetables gives the sauce its smoky flavour."
+  ],
+  "video": "guatemalan hilachas"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,119 @@
+{
+ "id": "pan-de-coco",
+ "country": "Honduras",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 150,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 7,
+   "u": "g",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "coconutoil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Pan de coco",
+  "blurb": "Pan suave y ligeramente dulce hecho con leche de coco. Tradición garífuna de la costa hondureña.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "leche de coco tibia"
+   },
+   {
+    "n": "aceite de coco"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la levadura, el azúcar y la sal.",
+   "Añade la leche de coco y el aceite de coco y amasa 10 minutos, hasta que esté elástica.",
+   "Deja levar tapada 1 hora, hasta que doble su tamaño.",
+   "Divide en 12 bollos, ponlos en una bandeja y deja levar 30 minutos.",
+   "Hornea a 180 °C 25 minutos, hasta que estén dorados."
+  ],
+  "tips": [
+   "Pinta los panes con leche de coco antes de hornear para que brillen.",
+   "Se conserva tierno 2 días envuelto en un paño."
+  ],
+  "video": "pan de coco garífuna"
+ },
+ "en": {
+  "name": "Pan de Coco (Garifuna Coconut Bread)",
+  "blurb": "Soft, lightly sweet bread made with coconut milk. A Garifuna tradition from the Honduran coast.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "dried yeast"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "warm coconut milk"
+   },
+   {
+    "n": "coconut oil"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar and salt.",
+   "Add the coconut milk and coconut oil and knead 10 minutes, until elastic.",
+   "Cover and rise 1 hour, until doubled.",
+   "Divide into 12 rolls, set on a tray and rise 30 minutes.",
+   "Bake at 180 °C for 25 minutes, until golden."
+  ],
+  "tips": [
+   "Brush the rolls with coconut milk before baking so they shine.",
+   "It stays soft for 2 days wrapped in a tea towel."
+  ],
+  "video": "honduran coconut bread"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,165 @@
+{
+ "id": "picadillo-de-papa",
+ "country": "Costa Rica",
+ "region": "latin-america",
+ "course": "side",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Picadillo de papa",
+  "blurb": "Papa en cubitos con un poco de carne, chile dulce y achiote. Se come en tortillas en toda Costa Rica.",
+  "ing": [
+   {
+    "n": "papas",
+    "note": "en cubos pequeños"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "chile dulce",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "achiote"
+   },
+   {
+    "n": "culantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Hierve la papa 6 minutos y escúrrela.",
+   "Sofríe la cebolla, el chile dulce y el ajo en el aceite 5 minutos.",
+   "Añade la carne y el achiote y dora 6 minutos.",
+   "Añade la papa y la sal y cocina 10 minutos, removiendo con cuidado.",
+   "Termina con el culantro."
+  ],
+  "tips": [
+   "No cuezas de más la papa: termina de hacerse en la sartén.",
+   "Si se pega, añade un chorrito de agua."
+  ],
+  "video": "picadillo de papa costarricense"
+ },
+ "en": {
+  "name": "Picadillo de Papa (Costa Rican Potato Hash)",
+  "blurb": "Diced potato with a little beef, sweet pepper and annatto. Eaten in tortillas all over Costa Rica.",
+  "ing": [
+   {
+    "n": "potatoes",
+    "note": "in small cubes"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "minced beef"
+   },
+   {
+    "n": "annatto paste"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Boil the potato for 6 minutes and drain.",
+   "Cook the onion, pepper and garlic in the oil for 5 minutes.",
+   "Add the beef and annatto and brown 6 minutes.",
+   "Add the potato and salt and cook 10 minutes, stirring gently.",
+   "Finish with the coriander."
+  ],
+  "tips": [
+   "Don't overboil the potato: it finishes in the pan.",
+   "If it sticks, add a splash of water."
+  ],
+  "video": "costa rican potato picadillo"
+ },
+ "added": "2026-09-30"
+}

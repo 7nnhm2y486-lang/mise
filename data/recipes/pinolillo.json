@@ -1,0 +1,117 @@
+{
+ "id": "pinolillo",
+ "country": "Nicaragua",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "cocoa",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "ice",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Pinolillo",
+  "blurb": "Bebida de maíz tostado con cacao y canela. Tan nicaragüense que los nicas se llaman a sí mismos pinoleros.",
+  "ing": [
+   {
+    "n": "harina de maíz amarillo"
+   },
+   {
+    "n": "cacao en polvo sin azúcar"
+   },
+   {
+    "n": "canela molida"
+   },
+   {
+    "n": "agua fría"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "hielo"
+   }
+  ],
+  "steps": [
+   "Tuesta la harina de maíz en una sartén seca 10 minutos, removiendo, hasta que huela a tostado.",
+   "Deja enfriar y mezcla con el cacao y la canela.",
+   "Bate la mezcla con el agua y el azúcar.",
+   "Sirve con el hielo, removiendo antes de beber."
+  ],
+  "tips": [
+   "Remueve sin parar al tostar: el maíz se quema rápido.",
+   "Se asienta en el fondo: revuelve cada vez que sirvas."
+  ],
+  "video": "pinolillo nicaragüense"
+ },
+ "en": {
+  "name": "Pinolillo (Toasted Corn Cocoa Drink)",
+  "blurb": "A drink of toasted corn with cocoa and cinnamon. So Nicaraguan that Nicaraguans call themselves pinoleros.",
+  "ing": [
+   {
+    "n": "yellow cornmeal"
+   },
+   {
+    "n": "unsweetened cocoa powder"
+   },
+   {
+    "n": "ground cinnamon"
+   },
+   {
+    "n": "cold water"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Toast the cornmeal in a dry pan for 10 minutes, stirring, until it smells toasty.",
+   "Cool and mix with the cocoa and cinnamon.",
+   "Whisk the mix with the water and sugar.",
+   "Serve over the ice, stirring before drinking."
+  ],
+  "tips": [
+   "Stir constantly while toasting: corn burns fast.",
+   "It settles at the bottom: stir each time you pour."
+  ],
+  "video": "nicaraguan pinolillo drink"
+ },
+ "added": "2026-09-30"
+}
