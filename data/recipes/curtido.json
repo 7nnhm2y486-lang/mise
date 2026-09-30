@@ -1,0 +1,149 @@
+{
+ "id": "curtido",
+ "country": "El Salvador",
+ "region": "latin-america",
+ "course": "side",
+ "time": 20,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 0.5,
+   "u": "head",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "whitevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Curtido salvadoreño",
+  "blurb": "Repollo, zanahoria y cebolla en vinagre con orégano. Crujiente y ácido, la pareja obligada de las pupusas.",
+  "ing": [
+   {
+    "n": "repollo",
+    "note": "rallado fino"
+   },
+   {
+    "n": "zanahoria",
+    "note": "rallada"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "en pluma fina"
+   },
+   {
+    "n": "chile jalapeño",
+    "note": "en rodajas"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Escalda el repollo con agua hirviendo 1 minuto y escurre bien.",
+   "Mezcla con la zanahoria, la cebolla, el chile y el orégano.",
+   "Mezcla el vinagre, el agua y la sal y viértelo encima.",
+   "Refrigera al menos 2 horas antes de servir."
+  ],
+  "tips": [
+   "Mejora al día siguiente y dura 1 semana.",
+   "Escaldar el repollo lo ablanda un poco sin que pierda el crujido."
+  ],
+  "video": "curtido salvadoreño receta"
+ },
+ "en": {
+  "name": "Curtido (Salvadoran Pickled Slaw)",
+  "blurb": "Cabbage, carrot and onion in vinegar with oregano. Crunchy and sharp, the must-have partner for pupusas.",
+  "ing": [
+   {
+    "n": "green cabbage",
+    "note": "finely shredded"
+   },
+   {
+    "n": "carrot",
+    "note": "grated"
+   },
+   {
+    "n": "white onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "jalapeño chile",
+    "note": "sliced"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Scald the cabbage with boiling water for 1 minute and drain well.",
+   "Mix with the carrot, onion, chile and oregano.",
+   "Mix the vinegar, water and salt and pour over.",
+   "Chill at least 2 hours before serving."
+  ],
+  "tips": [
+   "It's better the next day and keeps 1 week.",
+   "Scalding softens the cabbage a little without losing the crunch."
+  ],
+  "video": "curtido recipe"
+ },
+ "added": "2026-09-30"
+}

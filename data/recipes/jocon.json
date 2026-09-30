@@ -1,0 +1,181 @@
+{
+ "id": "jocon",
+ "country": "Guatemala",
+ "region": "latin-america",
+ "course": "main",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1.2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "tomatillo",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "seeds",
+   "role": "thicken"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sesameseed",
+   "role": "thicken"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "corntortilla",
+   "role": "thicken"
+  }
+ ],
+ "es": {
+  "name": "Jocón de pollo",
+  "blurb": "Pollo en un recado verde de miltomate, cilantro y cebollín, espesado con pepitoria y tortilla. Maya y fresco.",
+  "ing": [
+   {
+    "n": "pollo en piezas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "miltomates (tomatillos)"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "cebollines"
+   },
+   {
+    "n": "chiles verdes"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "pepitoria (pepitas de calabaza)"
+   },
+   {
+    "n": "ajonjolí"
+   },
+   {
+    "n": "tortillas de maíz",
+    "note": "remojadas"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo en el agua con la sal 30 minutos. Guarda el líquido.",
+   "Hierve los miltomates y los chiles 5 minutos.",
+   "Tuesta la pepitoria y el ajonjolí en un sartén seco hasta que empiecen a saltar.",
+   "Licúa los miltomates, los chiles, el cilantro, el cebollín, el ajo, las semillas y las tortillas con 500 ml del líquido del pollo.",
+   "Cuece el recado con el pollo 20 minutos a fuego bajo, hasta que espese. Sirve con arroz."
+  ],
+  "tips": [
+   "El cilantro va crudo en la licuadora para que el color quede vivo.",
+   "Si espesa demasiado, añade más líquido del pollo."
+  ],
+  "video": "jocon de pollo receta"
+ },
+ "en": {
+  "name": "Jocón (Guatemalan Green Chicken Stew)",
+  "blurb": "Chicken in a green sauce of tomatillo, cilantro and green onion, thickened with pumpkin seeds and tortilla. Mayan and fresh.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "green onions"
+   },
+   {
+    "n": "green chiles"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "pumpkin seeds"
+   },
+   {
+    "n": "sesame seeds"
+   },
+   {
+    "n": "corn tortillas",
+    "note": "soaked"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken in the water with the salt for 30 minutes. Keep the liquid.",
+   "Boil the tomatillos and chiles for 5 minutes.",
+   "Toast the pumpkin and sesame seeds in a dry pan until they start to pop.",
+   "Blend the tomatillos, chiles, cilantro, green onion, garlic, seeds and tortillas with 500 ml of the chicken liquid.",
+   "Cook the sauce with the chicken for 20 minutes on low, until thick. Serve with rice."
+  ],
+  "tips": [
+   "The cilantro goes into the blender raw so the colour stays bright.",
+   "If it gets too thick, add more chicken liquid."
+  ],
+  "video": "jocon recipe"
+ },
+ "added": "2026-09-30"
+}

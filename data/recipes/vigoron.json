@@ -1,0 +1,165 @@
+{
+ "id": "vigoron",
+ "country": "Nicaragua",
+ "region": "latin-america",
+ "course": "main",
+ "time": 90,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "porkbelly",
+   "role": "protein"
+  },
+  {
+   "q": 0.5,
+   "u": "head",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "garnish"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "garnish"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "whitevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 4,
+   "u": "leaf",
+   "k": "veg",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Vigorón",
+  "blurb": "El plato de Granada: yuca cocida, chicharrón crujiente y ensalada de repollo en vinagre, servido sobre hoja de plátano.",
+  "ing": [
+   {
+    "n": "yuca",
+    "note": "pelada, en trozos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "chicharrón de cerdo",
+    "note": "en trozos"
+   },
+   {
+    "n": "repollo",
+    "note": "rallado fino"
+   },
+   {
+    "n": "tomates",
+    "note": "en cubos"
+   },
+   {
+    "n": "cebolla",
+    "note": "en pluma"
+   },
+   {
+    "n": "chile",
+    "note": "picado"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "hojas de plátano"
+   }
+  ],
+  "steps": [
+   "Cuece la yuca en agua con 1 cucharadita de sal 30 minutos, hasta que esté blanda. Quita la fibra del centro.",
+   "Pon el cerdo con agua que lo cubra y el resto de la sal en una olla. Hierve hasta que el agua se evapore y fríelo en su grasa 20 minutos, hasta que cruja.",
+   "Mezcla el repollo, el tomate, la cebolla y el chile con el vinagre y una pizca de sal.",
+   "Sirve sobre la hoja: yuca, chicharrón y la ensalada encima."
+  ],
+  "tips": [
+   "La ensalada ácida es lo que equilibra la grasa del chicharrón.",
+   "La yuca debe cocerse del todo: nunca se come cruda."
+  ],
+  "video": "vigoron nicaragüense receta"
+ },
+ "en": {
+  "name": "Vigorón (Nicaraguan Cassava and Crackling)",
+  "blurb": "Granada's dish: boiled cassava, crisp pork crackling and cabbage salad in vinegar, served on a banana leaf.",
+  "ing": [
+   {
+    "n": "cassava",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "pork belly for crackling",
+    "note": "in pieces"
+   },
+   {
+    "n": "cabbage",
+    "note": "finely shredded"
+   },
+   {
+    "n": "tomatoes",
+    "note": "diced"
+   },
+   {
+    "n": "onion",
+    "note": "sliced"
+   },
+   {
+    "n": "chile",
+    "note": "chopped"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "banana leaves"
+   }
+  ],
+  "steps": [
+   "Boil the cassava in water with 1 teaspoon of salt for 30 minutes, until soft. Remove the woody core.",
+   "Put the pork in a pot with water to cover and the rest of the salt. Boil until the water evaporates, then fry it in its own fat for 20 minutes, until crisp.",
+   "Mix the cabbage, tomato, onion and chile with the vinegar and a pinch of salt.",
+   "Serve on the leaf: cassava, crackling and the salad on top."
+  ],
+  "tips": [
+   "The sharp salad is what balances the fatty crackling.",
+   "Cassava must be fully cooked: never eat it raw."
+  ],
+  "video": "vigoron recipe"
+ },
+ "added": "2026-09-30"
+}

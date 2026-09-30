@@ -1,0 +1,137 @@
+{
+ "id": "pupusas",
+ "country": "El Salvador",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 600,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "refriedbeans",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Pupusas revueltas",
+  "blurb": "Tortillas gruesas de maíz rellenas de queso y frijol, cocidas en comal hasta que el queso se escapa y se dora. Con curtido y salsa.",
+  "ing": [
+   {
+    "n": "harina de maíz nixtamalizado"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "quesillo o mozzarella",
+    "note": "rallado"
+   },
+   {
+    "n": "frijoles refritos"
+   },
+   {
+    "n": "loroco picado (opcional)"
+   },
+   {
+    "n": "aceite",
+    "note": "para las manos y la plancha"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el agua y la sal y amasa hasta que esté suave como plastilina. Tapa 10 minutos.",
+   "Mezcla el queso con los frijoles y el loroco.",
+   "Con las manos aceitadas, forma 8 bolas. Hunde el pulgar para hacer un cuenco, pon 2 cucharadas de relleno y cierra.",
+   "Aplana pasándola de mano a mano hasta 1 centímetro de grueso.",
+   "Cuece en un comal a fuego medio 4 minutos por lado, hasta que tengan manchas doradas.",
+   "Sirve con curtido y salsa de tomate."
+  ],
+  "tips": [
+   "Aceita las manos entre pupusa y pupusa para que la masa no se pegue.",
+   "Si el relleno se escapa, la masa estaba seca: añade agua."
+  ],
+  "video": "pupusas revueltas receta"
+ },
+ "en": {
+  "name": "Pupusas (Salvadoran Stuffed Corn Cakes)",
+  "blurb": "Thick corn cakes stuffed with cheese and beans, cooked on a griddle until the cheese oozes and crisps. With curtido and salsa.",
+  "ing": [
+   {
+    "n": "masa harina"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "quesillo or mozzarella",
+    "note": "grated"
+   },
+   {
+    "n": "refried beans"
+   },
+   {
+    "n": "chopped loroco (optional)"
+   },
+   {
+    "n": "oil",
+    "note": "for your hands and the griddle"
+   }
+  ],
+  "steps": [
+   "Mix the masa harina, water and salt and knead until soft like modelling clay. Cover 10 minutes.",
+   "Mix the cheese with the beans and loroco.",
+   "With oiled hands, shape 8 balls. Press in your thumb to make a cup, add 2 tablespoons of filling and close.",
+   "Flatten by passing it from hand to hand to 1 centimetre thick.",
+   "Cook on a griddle over medium heat for 4 minutes per side, until spotted golden.",
+   "Serve with curtido and tomato salsa."
+  ],
+  "tips": [
+   "Oil your hands between each one so the dough doesn't stick.",
+   "If the filling escapes, the dough was dry: add water."
+  ],
+  "video": "pupusas recipe"
+ },
+ "added": "2026-09-30"
+}

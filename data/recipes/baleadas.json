@@ -1,0 +1,171 @@
+{
+ "id": "baleadas",
+ "country": "Honduras",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 50,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "shortening",
+   "role": "fat"
+  },
+  {
+   "q": 280,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "refriedbeans",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "crema",
+   "role": "spread"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Baleadas",
+  "blurb": "Tortillas de harina gruesas y suaves dobladas sobre frijoles, crema y queso. El desayuno callejero de Honduras.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "manteca vegetal"
+   },
+   {
+    "n": "leche tibia"
+   },
+   {
+    "n": "frijoles rojos refritos"
+   },
+   {
+    "n": "mantequilla rala (crema ácida)"
+   },
+   {
+    "n": "queso duro rallado"
+   },
+   {
+    "n": "aguacates",
+    "note": "en rebanadas"
+   },
+   {
+    "n": "huevos revueltos",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el polvo de hornear y la sal. Frota la manteca y añade la leche. Amasa 5 minutos y reposa 30 minutos.",
+   "Forma 12 bolas y estíralas en círculos de 20 centímetros.",
+   "Cuécelas en un comal caliente 1 minuto por lado, hasta que se inflen con manchas.",
+   "Unta cada tortilla caliente con frijoles, crema y queso. Añade aguacate o huevo si quieres.",
+   "Dobla por la mitad y sirve."
+  ],
+  "tips": [
+   "Guárdalas en un paño mientras haces las demás para que se mantengan suaves.",
+   "La sencilla lleva solo frijol, crema y queso."
+  ],
+  "video": "baleadas hondureñas receta"
+ },
+ "en": {
+  "name": "Baleadas (Honduran Bean Tortillas)",
+  "blurb": "Thick, soft flour tortillas folded over beans, cream and cheese. Honduras's street breakfast.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "vegetable shortening"
+   },
+   {
+    "n": "warm milk"
+   },
+   {
+    "n": "refried red beans"
+   },
+   {
+    "n": "Honduran sour cream (mantequilla rala)"
+   },
+   {
+    "n": "grated dry cheese"
+   },
+   {
+    "n": "avocados",
+    "note": "sliced"
+   },
+   {
+    "n": "scrambled eggs",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Mix the flour, baking powder and salt. Rub in the shortening and add the milk. Knead 5 minutes and rest 30 minutes.",
+   "Shape 12 balls and roll into 20 centimetre circles.",
+   "Cook on a hot griddle for 1 minute per side, until puffed and spotted.",
+   "Spread each hot tortilla with beans, cream and cheese. Add avocado or egg if you like.",
+   "Fold in half and serve."
+  ],
+  "tips": [
+   "Keep them in a towel while you make the rest so they stay soft.",
+   "The simple one has only beans, cream and cheese."
+  ],
+  "video": "baleadas recipe"
+ },
+ "added": "2026-09-30"
+}

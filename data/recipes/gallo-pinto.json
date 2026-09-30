@@ -1,0 +1,159 @@
+{
+ "id": "gallo-pinto",
+ "country": "Costa Rica",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "lizano",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Gallo pinto",
+  "blurb": "Arroz y frijoles negros salteados con cebolla, chile dulce y salsa Lizano. El desayuno de Costa Rica.",
+  "ing": [
+   {
+    "n": "arroz blanco cocido del día anterior"
+   },
+   {
+    "n": "frijoles negros cocidos"
+   },
+   {
+    "n": "líquido de cocción de los frijoles"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "chile dulce (pimiento)",
+    "note": "picado"
+   },
+   {
+    "n": "salsa Lizano"
+   },
+   {
+    "n": "culantro o cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla y el chile dulce en el aceite 5 minutos.",
+   "Añade los frijoles con su líquido y la salsa Lizano y cuece 3 minutos.",
+   "Añade el arroz y mezcla a fuego medio 5 minutos, hasta que el arroz tome color y se seque.",
+   "Añade el culantro y la sal y sirve caliente."
+  ],
+  "tips": [
+   "El arroz del día anterior no se apelmaza.",
+   "La salsa Lizano es la firma tica; sin ella, usa una pizca de comino."
+  ],
+  "video": "gallo pinto costarricense receta"
+ },
+ "en": {
+  "name": "Gallo Pinto (Costa Rican Rice and Beans)",
+  "blurb": "Rice and black beans fried with onion, sweet pepper and Salsa Lizano. Costa Rica's breakfast.",
+  "ing": [
+   {
+    "n": "day-old cooked white rice"
+   },
+   {
+    "n": "cooked black beans"
+   },
+   {
+    "n": "bean cooking liquid"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "Salsa Lizano"
+   },
+   {
+    "n": "culantro or cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion and sweet pepper in the oil for 5 minutes.",
+   "Add the beans with their liquid and the Salsa Lizano and cook 3 minutes.",
+   "Add the rice and toss over medium heat for 5 minutes, until coloured and dry.",
+   "Add the culantro and salt and serve hot."
+  ],
+  "tips": [
+   "Day-old rice doesn't clump.",
+   "Salsa Lizano is the Costa Rican signature; without it, use a pinch of cumin."
+  ],
+  "video": "gallo pinto recipe"
+ },
+ "added": "2026-09-30"
+}

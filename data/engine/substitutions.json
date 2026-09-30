@@ -8529,6 +8529,21 @@
     "es": "El dulce de membrillo es membrillo y azúcar; algunas marcas llevan conservantes con sulfitos.",
     "en": "Quince paste is quince and sugar; some brands add sulphite preservatives."
    }
+  },
+  "lizano": {
+   "a": [
+    "sugar",
+    "mustard",
+    "allium"
+   ],
+   "may": [
+    "celery",
+    "nightshade"
+   ],
+   "label": {
+    "es": "La salsa Lizano lleva azúcar, cebolla, mostaza y especias.",
+    "en": "Salsa Lizano contains sugar, onion, mustard and spices."
+   }
   }
  },
  "roles": {

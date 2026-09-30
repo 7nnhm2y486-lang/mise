@@ -1,0 +1,251 @@
+{
+ "id": "pepian",
+ "country": "Guatemala",
+ "region": "latin-america",
+ "course": "main",
+ "time": 90,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomatillo",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "seeds",
+   "role": "thicken"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sesameseed",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "corntortilla",
+   "role": "thicken"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "veg",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Pepián de pollo",
+  "blurb": "El recado nacional de Guatemala: tomate, miltomate, chiles, pepitoria y ajonjolí tostados y molidos, con pollo y verduras.",
+  "ing": [
+   {
+    "n": "pollo en piezas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "tomates"
+   },
+   {
+    "n": "miltomates (tomatillos)"
+   },
+   {
+    "n": "chiles guaque (guajillo)",
+    "note": "sin semillas"
+   },
+   {
+    "n": "chile pasa (ancho)",
+    "note": "sin semillas"
+   },
+   {
+    "n": "pepitoria (pepitas de calabaza)"
+   },
+   {
+    "n": "ajonjolí"
+   },
+   {
+    "n": "raja de canela"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "tortillas de maíz",
+    "note": "tostadas"
+   },
+   {
+    "n": "güisquiles (chayotes)",
+    "note": "en trozos"
+   },
+   {
+    "n": "papas",
+    "note": "en trozos"
+   },
+   {
+    "n": "ejotes"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo en el agua con la sal 30 minutos. Guarda el líquido.",
+   "Tuesta en comal los tomates, los miltomates, la cebolla y el ajo hasta que estén manchados. Tuesta aparte los chiles, las semillas, la canela y las tortillas, sin quemarlos.",
+   "Licúa todo lo tostado con 500 ml del líquido del pollo hasta que esté liso.",
+   "Cuece el recado 10 minutos en una olla, moviendo.",
+   "Añade el pollo, las papas, los güisquiles y los ejotes y más líquido si hace falta. Cuece 20 minutos.",
+   "Sirve con arroz y tamalitos o tortillas."
+  ],
+  "tips": [
+   "Tostar cada cosa por separado es la clave: cada una tarda distinto.",
+   "Las semillas se queman en segundos: sácalas en cuanto doren."
+  ],
+  "video": "pepian de pollo guatemalteco receta"
+ },
+ "en": {
+  "name": "Guatemalan Pepián",
+  "blurb": "Guatemala's national stew: tomato, tomatillo, chiles, pumpkin and sesame seeds toasted and ground, with chicken and vegetables.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "guajillo chiles",
+    "note": "seeded"
+   },
+   {
+    "n": "ancho chile",
+    "note": "seeded"
+   },
+   {
+    "n": "pumpkin seeds"
+   },
+   {
+    "n": "sesame seeds"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "corn tortillas",
+    "note": "toasted"
+   },
+   {
+    "n": "chayotes",
+    "note": "in pieces"
+   },
+   {
+    "n": "potatoes",
+    "note": "in pieces"
+   },
+   {
+    "n": "green beans"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken in the water with the salt for 30 minutes. Keep the liquid.",
+   "Char the tomatoes, tomatillos, onion and garlic on a griddle until spotted. Toast the chiles, seeds, cinnamon and tortillas separately, without burning.",
+   "Blend everything toasted with 500 ml of the chicken liquid until smooth.",
+   "Cook the sauce for 10 minutes in a pot, stirring.",
+   "Add the chicken, potatoes, chayotes and green beans, and more liquid if needed. Cook 20 minutes.",
+   "Serve with rice and small tamales or tortillas."
+  ],
+  "tips": [
+   "Toasting each thing separately is the key: each takes a different time.",
+   "Seeds burn in seconds: pull them as soon as they colour."
+  ],
+  "video": "guatemalan pepian recipe"
+ },
+ "added": "2026-09-30"
+}

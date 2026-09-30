@@ -73,6 +73,8 @@ put("quincepaste", ["sugar"], ["sulphite"], T("El dulce de membrillo es membrill
 I.gelatin.may = ["pork"];
 I.gelatin.label = T("La mayoría de la gelatina es de cerdo; si evitas cerdo, busca gelatina de res, de pescado o agar.", "Most gelatin is made from pork; if you avoid pork, look for beef or fish gelatin, or agar.");
 I.gelatin.s.pork = [sub(0.33, [], [], ["agar agar en polvo", "Un tercio del peso; debe hervir 2 minutos para activarse."], ["agar agar powder", "A third of the weight; it must boil for 2 minutes to activate."])];
+// Salsa Lizano (Costa Rica): sugar, onion, mustard and spices; vegetable content varies.
+put("lizano", ["sugar", "mustard", "allium"], ["celery", "nightshade"], T("La salsa Lizano lleva azúcar, cebolla, mostaza y especias.", "Salsa Lizano contains sugar, onion, mustard and spices."));
 // Refried beans: canned or restaurant ones are often made with lard, sometimes with cheese.
 put("refriedbeans", [], ["pork", "milk"], T("Los frijoles refritos de lata o de fonda suelen llevar manteca de cerdo; algunos llevan queso. Hazlos con aceite o revisa la etiqueta.", "Canned or restaurant refried beans are often made with lard; some contain cheese. Make them with oil or check the label."), {pork: [
   sub(1, [], [], ["frijoles refritos caseros con aceite", "Machaca frijoles cocidos y fríelos en aceite hasta que espesen."], ["homemade refried beans with oil", "Mash cooked beans and fry them in oil until thick."])]});

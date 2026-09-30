@@ -1,0 +1,127 @@
+{
+ "id": "salsa-para-pupusas",
+ "country": "El Salvador",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 20,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Salsa de tomate para pupusas",
+  "blurb": "La salsa roja aguada y suave de las pupuserías: tomate cocido con cebolla, ajo y orégano.",
+  "ing": [
+   {
+    "n": "tomates"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "chile verde dulce"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Hierve los tomates, la cebolla, el ajo y el chile dulce 10 minutos.",
+   "Licúa con un poco del agua de cocción hasta que quede aguada.",
+   "Fríe en el aceite con el orégano y la sal 5 minutos."
+  ],
+  "tips": [
+   "Debe quedar líquida, para bañar la pupusa, no espesa.",
+   "Para que pique, añade 1 chile jalapeño al hervir."
+  ],
+  "video": "salsa para pupusas receta"
+ },
+ "en": {
+  "name": "Tomato Salsa for Pupusas",
+  "blurb": "The thin, mild red sauce of pupuserías: cooked tomato with onion, garlic and oregano.",
+  "ing": [
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "green bell pepper"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Boil the tomatoes, onion, garlic and sweet pepper for 10 minutes.",
+   "Blend with a little of the cooking water until thin.",
+   "Fry in the oil with the oregano and salt for 5 minutes."
+  ],
+  "tips": [
+   "It should be runny, for spooning over the pupusa, not thick.",
+   "For heat, add 1 jalapeño when boiling."
+  ],
+  "video": "salsa for pupusas recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,180 @@
+{
+ "id": "carimanolas",
+ "country": "Panama",
+ "countryEs": "Panamá",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 90,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Carimañolas",
+  "blurb": "Croquetas alargadas de masa de yuca rellenas de carne guisada, fritas hasta crujir. Desayuno panameño.",
+  "ing": [
+   {
+    "n": "yuca",
+    "note": "pelada, en trozos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tomate",
+    "note": "picado"
+   },
+   {
+    "n": "ají dulce o pimiento",
+    "note": "picado"
+   },
+   {
+    "n": "culantro o cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   }
+  ],
+  "steps": [
+   "Cuece la yuca en agua con 1 cucharadita de sal 30 minutos, hasta que esté muy blanda. Quita las fibras y haz puré en caliente. Enfría.",
+   "Sofríe la cebolla, el ajo, el tomate y el ají en 1 cucharada de aceite 5 minutos. Añade la carne y el resto de la sal y cuece 10 minutos. Añade el culantro y enfría.",
+   "Con las manos húmedas, aplana una porción de yuca, pon 1 cucharada de carne y cierra en forma de huso.",
+   "Fríe en aceite a 180 °C 4 minutos, hasta que estén doradas. Escurre y sirve calientes."
+  ],
+  "tips": [
+   "Amasa la yuca caliente: fría se agrieta.",
+   "Se pueden congelar crudas y freír sin descongelar."
+  ],
+  "video": "carimañolas panameñas receta"
+ },
+ "en": {
+  "name": "Carimañolas (Panamanian Cassava Fritters)",
+  "blurb": "Long croquettes of cassava dough stuffed with stewed beef, fried until crisp. A Panamanian breakfast.",
+  "ing": [
+   {
+    "n": "cassava",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "culantro or cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   }
+  ],
+  "steps": [
+   "Boil the cassava in water with 1 teaspoon of salt for 30 minutes, until very soft. Remove the fibres and mash while hot. Cool.",
+   "Cook the onion, garlic, tomato and pepper in 1 tablespoon of oil for 5 minutes. Add the beef and the rest of the salt and cook 10 minutes. Add the culantro and cool.",
+   "With wet hands, flatten a portion of cassava, add 1 tablespoon of beef and close into a spindle shape.",
+   "Fry in oil at 180 °C for 4 minutes, until golden. Drain and serve hot."
+  ],
+  "tips": [
+   "Knead the cassava hot: cold, it cracks.",
+   "They freeze raw and fry from frozen."
+  ],
+  "video": "carimanolas recipe"
+ },
+ "added": "2026-09-30"
+}

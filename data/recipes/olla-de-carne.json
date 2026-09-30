@@ -1,0 +1,217 @@
+{
+ "id": "olla-de-carne",
+ "country": "Costa Rica",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 150,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "corn",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Olla de carne",
+  "blurb": "La sopa de domingo de Costa Rica: res con plátano verde, yuca, elote, chayote y tubérculos, en un caldo claro.",
+  "ing": [
+   {
+    "n": "costilla y cecina de res",
+    "note": "en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "culantro o cilantro"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "plátanos verdes",
+    "note": "en trozos"
+   },
+   {
+    "n": "yuca",
+    "note": "en trozos"
+   },
+   {
+    "n": "elotes",
+    "note": "en trozos"
+   },
+   {
+    "n": "chayotes",
+    "note": "en trozos"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en trozos"
+   },
+   {
+    "n": "papas",
+    "note": "en trozos"
+   },
+   {
+    "n": "tiquizque o malanga",
+    "note": "pelado, en trozos"
+   }
+  ],
+  "steps": [
+   "Cuece la carne con el agua, la cebolla, el ajo, los tallos de culantro y la sal 90 minutos a fuego bajo, espumando.",
+   "Añade el plátano, la yuca y el elote y cuece 20 minutos.",
+   "Añade la papa, el tiquizque, la zanahoria y el chayote y cuece 20 minutos más.",
+   "Sirve con culantro picado y arroz blanco aparte."
+  ],
+  "tips": [
+   "La yuca debe cocerse del todo; quita la fibra dura del centro.",
+   "El tiquizque crudo pica en las manos: pélalo con guantes."
+  ],
+  "video": "olla de carne costarricense receta"
+ },
+ "en": {
+  "name": "Olla de Carne (Costa Rican Beef Soup)",
+  "blurb": "Costa Rica's Sunday soup: beef with green plantain, cassava, corn, chayote and root vegetables in a clear broth.",
+  "ing": [
+   {
+    "n": "beef short rib and brisket",
+    "note": "in pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "culantro or cilantro"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "green plantains",
+    "note": "in chunks"
+   },
+   {
+    "n": "cassava",
+    "note": "in chunks"
+   },
+   {
+    "n": "ears of corn",
+    "note": "in pieces"
+   },
+   {
+    "n": "chayotes",
+    "note": "in pieces"
+   },
+   {
+    "n": "carrots",
+    "note": "in pieces"
+   },
+   {
+    "n": "potatoes",
+    "note": "in pieces"
+   },
+   {
+    "n": "taro (malanga)",
+    "note": "peeled, in chunks"
+   }
+  ],
+  "steps": [
+   "Simmer the beef with the water, onion, garlic, culantro stems and salt for 90 minutes on low, skimming.",
+   "Add the plantain, cassava and corn and cook 20 minutes.",
+   "Add the potato, taro, carrot and chayote and cook 20 minutes more.",
+   "Serve with chopped culantro and white rice on the side."
+  ],
+  "tips": [
+   "Cassava must be fully cooked; remove the woody core.",
+   "Raw taro itches on the skin: peel it with gloves."
+  ],
+  "video": "olla de carne recipe"
+ },
+ "added": "2026-09-30"
+}
