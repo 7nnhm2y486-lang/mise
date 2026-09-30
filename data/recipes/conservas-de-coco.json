@@ -1,0 +1,105 @@
+{
+ "id": "conservas-de-coco",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 16,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "desiccatedcoconut",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Conservas de coco",
+  "blurb": "Dulce de coco rallado cocido en papelón con jengibre, cortado en cuadros. Se vende en las carreteras de Venezuela.",
+  "ing": [
+   {
+    "n": "coco rallado"
+   },
+   {
+    "n": "papelón"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "trozo de jengibre"
+   }
+  ],
+  "steps": [
+   "Hierve el papelón con el agua, la canela y el jengibre 10 minutos. Retira las especias.",
+   "Añade el coco y cuece 25 minutos a fuego medio, removiendo sin parar, hasta que se despegue de la olla.",
+   "Extiende sobre una superficie engrasada o una hoja de plátano, de 2 cm de grosor.",
+   "Deja enfriar y corta en cuadros."
+  ],
+  "tips": [
+   "Cuanto más cocines, más duras quedan.",
+   "Guárdalas en un frasco cerrado."
+  ],
+  "video": "conservas de coco venezolanas"
+ },
+ "en": {
+  "name": "Conservas de Coco (Coconut Cane Sugar Squares)",
+  "blurb": "Grated coconut cooked in cane sugar with ginger and cut into squares. Sold along Venezuela's roadsides.",
+  "ing": [
+   {
+    "n": "grated coconut"
+   },
+   {
+    "n": "papelón (unrefined cane sugar)"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "piece of ginger"
+   }
+  ],
+  "steps": [
+   "Boil the papelón with the water, cinnamon and ginger for 10 minutes. Remove the spices.",
+   "Add the coconut and cook 25 minutes over medium heat, stirring constantly, until it pulls away from the pan.",
+   "Spread 2 cm thick on a greased surface or a banana leaf.",
+   "Cool and cut into squares."
+  ],
+  "tips": [
+   "The longer you cook, the harder they get.",
+   "Store in a closed jar."
+  ],
+  "video": "venezuelan coconut squares"
+ },
+ "added": "2026-09-30"
+}

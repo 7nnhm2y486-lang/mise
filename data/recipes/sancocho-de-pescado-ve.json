@@ -1,0 +1,219 @@
+{
+ "id": "sancocho-de-pescado-ve",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Sancocho de pescado",
+  "blurb": "Sopa de pescado con yuca, ocumo, plátano y maíz. El almuerzo de playa en la costa venezolana.",
+  "ing": [
+   {
+    "n": "pescado blanco firme (mero o pargo)",
+    "note": "en rodajas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajíes dulces",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "yuca",
+    "note": "en trozos"
+   },
+   {
+    "n": "ocumo",
+    "note": "en trozos"
+   },
+   {
+    "n": "plátano verde",
+    "note": "en trozos"
+   },
+   {
+    "n": "mazorcas",
+    "note": "en rodajas"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "limones"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, los ajíes y el ajo en el aceite 6 minutos.",
+   "Añade el agua, la yuca, el ocumo, el plátano, el maíz y la sal y cuece 30 minutos.",
+   "Añade el pescado y cuece 10 minutos a fuego suave.",
+   "Termina con el cilantro y sirve con limón."
+  ],
+  "tips": [
+   "No remuevas tras añadir el pescado para que no se rompa.",
+   "Usa las cabezas del pescado para hacer el caldo si las tienes."
+  ],
+  "video": "sancocho de pescado venezolano"
+ },
+ "en": {
+  "name": "Venezuelan Fish Sancocho",
+  "blurb": "Fish soup with cassava, taro, plantain and corn. Beach lunch on the Venezuelan coast.",
+  "ing": [
+   {
+    "n": "firm white fish (grouper or snapper)",
+    "note": "in steaks"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet ají peppers",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "cassava",
+    "note": "in chunks"
+   },
+   {
+    "n": "taro",
+    "note": "in chunks"
+   },
+   {
+    "n": "green plantain",
+    "note": "in chunks"
+   },
+   {
+    "n": "corn cobs",
+    "note": "in rounds"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "limes"
+   }
+  ],
+  "steps": [
+   "Cook the onion, ají and garlic in the oil for 6 minutes.",
+   "Add the water, cassava, taro, plantain, corn and salt and simmer 30 minutes.",
+   "Add the fish and cook 10 minutes on a gentle simmer.",
+   "Finish with the coriander and serve with lime."
+  ],
+  "tips": [
+   "Don't stir once the fish is in so it doesn't break up.",
+   "Use the fish heads for the broth if you have them."
+  ],
+  "video": "venezuelan fish sancocho"
+ },
+ "added": "2026-09-30"
+}

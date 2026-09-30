@@ -1,0 +1,143 @@
+{
+ "id": "guasacaca",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 15,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 2,
+   "u": "",
+   "k": "avocado",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "whitevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Guasacaca",
+  "blurb": "Salsa verde de aguacate, pimentón y hierbas con vinagre. Acompaña la parrilla y las arepas en Venezuela.",
+  "ing": [
+   {
+    "n": "aguacates maduros"
+   },
+   {
+    "n": "pimentón verde",
+    "note": "en trozos"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cilantro y perejil"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Licúa el pimentón, la cebolla, el ajo, las hierbas, el vinagre y la sal.",
+   "Añade el aguacate y el aceite y licúa hasta que quede cremosa.",
+   "Prueba y ajusta de sal y vinagre.",
+   "Sirve el mismo día."
+  ],
+  "tips": [
+   "Tapa con film en contacto para que no se oscurezca.",
+   "Debe quedar más líquida que el guacamole."
+  ],
+  "video": "guasacaca venezolana"
+ },
+ "en": {
+  "name": "Guasacaca (Venezuelan Avocado Sauce)",
+  "blurb": "A green sauce of avocado, pepper and herbs with vinegar. Served with grilled meat and arepas in Venezuela.",
+  "ing": [
+   {
+    "n": "ripe avocados"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "in chunks"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "coriander and parsley"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Blend the pepper, onion, garlic, herbs, vinegar and salt.",
+   "Add the avocado and oil and blend until creamy.",
+   "Taste and adjust the salt and vinegar.",
+   "Serve the same day."
+  ],
+  "tips": [
+   "Press cling film onto the surface so it doesn't brown.",
+   "It should be runnier than guacamole."
+  ],
+  "video": "venezuelan guasacaca"
+ },
+ "added": "2026-09-30"
+}

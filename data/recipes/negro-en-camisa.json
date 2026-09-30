@@ -1,0 +1,165 @@
+{
+ "id": "negro-en-camisa",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 120,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "breadcrumbs",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Negro en camisa",
+  "blurb": "Pudín de chocolate al vapor cubierto con una camisa de crema pastelera. Postre caraqueño de antaño.",
+  "ing": [
+   {
+    "n": "chocolate oscuro"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "pan rallado"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "azúcar (segunda parte)"
+   },
+   {
+    "n": "maicena"
+   },
+   {
+    "n": "esencia de vainilla"
+   }
+  ],
+  "steps": [
+   "Derrite el chocolate con la mantequilla. Bate los huevos con el azúcar hasta que blanqueen, añade el chocolate y el pan rallado.",
+   "Vierte en un molde engrasado de 20 cm, tapa con aluminio y cuece a baño María en el horno a 180 °C 50 minutos. Deja enfriar y desmolda.",
+   "Calienta la leche. Bate las yemas con el azúcar de la segunda parte y la maicena, añade la leche y cuece 5 minutos removiendo hasta espesar. Añade la vainilla.",
+   "Cubre el pudín con la crema tibia y refrigera 2 horas."
+  ],
+  "tips": [
+   "Cubre la crema con film en contacto si no la usas enseguida.",
+   "Sírvelo frío."
+  ],
+  "video": "negro en camisa venezolano"
+ },
+ "en": {
+  "name": "Negro en Camisa (Chocolate Pudding in Custard)",
+  "blurb": "A steamed chocolate pudding dressed in a 'shirt' of pastry cream. An old-fashioned Caracas dessert.",
+  "ing": [
+   {
+    "n": "dark chocolate"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "breadcrumbs"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "sugar (second part)"
+   },
+   {
+    "n": "cornflour"
+   },
+   {
+    "n": "vanilla extract"
+   }
+  ],
+  "steps": [
+   "Melt the chocolate with the butter. Whisk the eggs with the sugar until pale, then add the chocolate and breadcrumbs.",
+   "Pour into a greased 20 cm mould, cover with foil and bake in a water bath at 180 °C for 50 minutes. Cool and turn out.",
+   "Heat the milk. Whisk the yolks with the second part of the sugar and the cornflour, add the milk and cook 5 minutes, stirring, until thick. Add the vanilla.",
+   "Coat the pudding with the warm custard and chill 2 hours."
+  ],
+  "tips": [
+   "Press cling film onto the custard if not using it straight away.",
+   "Serve it cold."
+  ],
+  "video": "venezuelan chocolate pudding custard"
+ },
+ "added": "2026-09-30"
+}

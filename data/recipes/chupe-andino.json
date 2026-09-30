@@ -1,0 +1,203 @@
+{
+ "id": "chupe-andino",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 2,
+   "u": "",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "cream",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Chupe andino",
+  "blurb": "Sopa cremosa de pollo, papa y maíz con leche y queso que se derrite. Calienta las noches frías de Mérida.",
+  "ing": [
+   {
+    "n": "pechugas de pollo"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "papas",
+    "note": "en cubos"
+   },
+   {
+    "n": "mazorcas",
+    "note": "en rodajas"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "queso blanco suave",
+    "note": "en cubos"
+   },
+   {
+    "n": "crema de leche"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo en el agua con la sal 20 minutos. Desmenúzalo y guarda el caldo.",
+   "Sofríe la cebolla y el ajo en la mantequilla 5 minutos.",
+   "Añade el caldo, la papa y el maíz y cuece 20 minutos.",
+   "Añade la leche y el pollo y calienta 5 minutos sin hervir.",
+   "Apaga, añade el queso y la crema y termina con el cilantro."
+  ],
+  "tips": [
+   "No dejes hervir tras añadir la leche o se corta.",
+   "El queso debe ablandarse, no derretirse del todo."
+  ],
+  "video": "chupe andino de pollo"
+ },
+ "en": {
+  "name": "Chupe Andino (Venezuelan Andean Chicken Chowder)",
+  "blurb": "A creamy soup of chicken, potato and corn with milk and melting cheese. Warms cold nights in Mérida.",
+  "ing": [
+   {
+    "n": "chicken breasts"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "potatoes",
+    "note": "cubed"
+   },
+   {
+    "n": "corn cobs",
+    "note": "in rounds"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "soft white cheese",
+    "note": "cubed"
+   },
+   {
+    "n": "single cream"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken in the water with the salt for 20 minutes. Shred it and keep the broth.",
+   "Cook the onion and garlic in the butter for 5 minutes.",
+   "Add the broth, potato and corn and simmer 20 minutes.",
+   "Add the milk and chicken and heat 5 minutes without boiling.",
+   "Turn off, add the cheese and cream and finish with the coriander."
+  ],
+  "tips": [
+   "Don't boil after adding the milk or it may split.",
+   "The cheese should soften, not fully melt."
+  ],
+  "video": "venezuelan chupe andino"
+ },
+ "added": "2026-09-30"
+}

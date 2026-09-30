@@ -1,0 +1,245 @@
+{
+ "id": "pasticho",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "main",
+ "time": 150,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "porkmince",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "winered",
+   "role": "liquid"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "eggpasta",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "ham",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "mozzarella",
+   "role": "enrich"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "parmesan",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Pasticho",
+  "blurb": "La lasaña venezolana, con capas de jamón y queso además de la boloñesa y la bechamel. Plato de domingo y de Navidad.",
+  "ing": [
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "carne molida de cerdo"
+   },
+   {
+    "n": "vino tinto"
+   },
+   {
+    "n": "tomate triturado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "láminas de lasaña al huevo"
+   },
+   {
+    "n": "jamón cocido en lonjas"
+   },
+   {
+    "n": "queso mozzarella",
+    "note": "rallado"
+   },
+   {
+    "n": "queso parmesano rallado"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla y el ajo en el aceite 5 minutos. Añade las carnes y dora 8 minutos. Añade el vino, el tomate y la sal y cuece 40 minutos.",
+   "Derrite la mantequilla, añade la harina y cocina 2 minutos. Añade la leche batiendo y cuece 8 minutos hasta espesar. Añade la nuez moscada.",
+   "En una fuente de 25 x 35 cm alterna capas de boloñesa, pasta, bechamel, jamón y mozzarella.",
+   "Termina con bechamel y parmesano.",
+   "Hornea a 180 °C 45 minutos. Deja reposar 20 minutos antes de cortar."
+  ],
+  "tips": [
+   "El reposo es clave para cortar porciones limpias.",
+   "Queda aún mejor hecho el día anterior."
+  ],
+  "video": "pasticho venezolano"
+ },
+ "en": {
+  "name": "Pasticho (Venezuelan Lasagne)",
+  "blurb": "Venezuela's lasagne, with layers of ham and cheese besides the bolognese and béchamel. A Sunday and Christmas dish.",
+  "ing": [
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "minced beef"
+   },
+   {
+    "n": "minced pork"
+   },
+   {
+    "n": "red wine"
+   },
+   {
+    "n": "crushed tomatoes"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "egg lasagne sheets"
+   },
+   {
+    "n": "sliced cooked ham"
+   },
+   {
+    "n": "mozzarella",
+    "note": "grated"
+   },
+   {
+    "n": "grated parmesan"
+   }
+  ],
+  "steps": [
+   "Cook the onion and garlic in the oil for 5 minutes. Add the meats and brown 8 minutes. Add the wine, tomato and salt and simmer 40 minutes.",
+   "Melt the butter, add the flour and cook 2 minutes. Whisk in the milk and cook 8 minutes until thick. Add the nutmeg.",
+   "In a 25 x 35 cm dish, layer bolognese, pasta, béchamel, ham and mozzarella.",
+   "Finish with béchamel and parmesan.",
+   "Bake at 180 °C for 45 minutes. Rest 20 minutes before cutting."
+  ],
+  "tips": [
+   "Resting is key for clean slices.",
+   "It's even better made the day before."
+  ],
+  "video": "venezuelan pasticho"
+ },
+ "added": "2026-09-30"
+}

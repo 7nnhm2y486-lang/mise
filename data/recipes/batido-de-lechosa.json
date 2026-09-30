@@ -1,0 +1,93 @@
+{
+ "id": "batido-de-lechosa",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 5,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "ice",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Batido de lechosa",
+  "blurb": "Batido de papaya madura con leche. Se prepara en todas las areperas venezolanas.",
+  "ing": [
+   {
+    "n": "lechosa madura",
+    "note": "en trozos"
+   },
+   {
+    "n": "leche fría"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "hielo"
+   }
+  ],
+  "steps": [
+   "Pon la lechosa, la leche, el azúcar y el hielo en la licuadora.",
+   "Licúa 1 minuto, hasta que esté espumoso.",
+   "Sirve de inmediato."
+  ],
+  "tips": [
+   "Tómalo recién hecho: la papaya con leche amarga si reposa.",
+   "Sin la leche, con agua, es el jugo de lechosa."
+  ],
+  "video": "batido de lechosa"
+ },
+ "en": {
+  "name": "Batido de Lechosa (Papaya Milkshake)",
+  "blurb": "A ripe papaya and milk shake. Made in every Venezuelan arepa shop.",
+  "ing": [
+   {
+    "n": "ripe papaya",
+    "note": "in chunks"
+   },
+   {
+    "n": "cold milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Put the papaya, milk, sugar and ice in the blender.",
+   "Blend 1 minute, until frothy.",
+   "Serve at once."
+  ],
+  "tips": [
+   "Drink it fresh: papaya with milk turns bitter if left to stand.",
+   "Made with water instead of milk, it's papaya juice."
+  ],
+  "video": "venezuelan papaya milkshake"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,173 @@
+{
+ "id": "caraotas-negras",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "side",
+ "time": 150,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Caraotas negras",
+  "blurb": "Frijoles negros guisados con sofrito y un toque de papelón. Parte del pabellón y de todo desayuno venezolano.",
+  "ing": [
+   {
+    "n": "caraotas negras secas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimentón rojo",
+    "note": "picado"
+   },
+   {
+    "n": "ajíes dulces",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "papelón rallado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja las caraotas 12 horas y escúrrelas.",
+   "Cuécelas en el agua 90 minutos, hasta que estén tiernas.",
+   "Sofríe la cebolla, los pimentones, los ajíes y el ajo en el aceite 8 minutos. Añade el comino.",
+   "Añade el sofrito a las caraotas con el papelón y la sal y cuece 20 minutos, hasta que espesen."
+  ],
+  "tips": [
+   "El papelón no las hace dulces: equilibra el sabor.",
+   "Machaca algunas contra la olla para espesarlas."
+  ],
+  "video": "caraotas negras venezolanas"
+ },
+ "en": {
+  "name": "Caraotas Negras (Venezuelan Black Beans)",
+  "blurb": "Black beans stewed with sofrito and a touch of cane sugar. Part of pabellón and every Venezuelan breakfast.",
+  "ing": [
+   {
+    "n": "dried black beans"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet ají peppers",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "grated papelón"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the beans 12 hours and drain.",
+   "Simmer them in the water for 90 minutes, until tender.",
+   "Cook the onion, peppers, ají and garlic in the oil for 8 minutes. Add the cumin.",
+   "Stir this into the beans with the papelón and salt and simmer 20 minutes, until thick."
+  ],
+  "tips": [
+   "The cane sugar doesn't make them sweet: it balances the flavour.",
+   "Crush some against the pot to thicken them."
+  ],
+  "video": "venezuelan black beans"
+ },
+ "added": "2026-09-30"
+}

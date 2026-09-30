@@ -1,0 +1,175 @@
+{
+ "id": "carne-mechada",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "main",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Carne mechada",
+  "blurb": "Carne de res deshilachada y guisada con pimentón, ají dulce y tomate. El corazón del pabellón criollo.",
+  "ing": [
+   {
+    "n": "falda de res"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimentón rojo",
+    "note": "picado"
+   },
+   {
+    "n": "ajíes dulces",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece la carne en el agua con 1 cucharadita de sal 90 minutos. Deja enfriar y deshiláchala. Guarda 300 ml del caldo.",
+   "Sofríe la cebolla, los pimentones, los ajíes y el ajo en el aceite 8 minutos.",
+   "Añade el tomate y el comino y cocina 8 minutos.",
+   "Añade la carne, el caldo y el resto de la sal y cuece 20 minutos, hasta que se seque un poco."
+  ],
+  "tips": [
+   "Deshiláchala en tiras finas con dos tenedores.",
+   "Se congela bien en porciones."
+  ],
+  "video": "carne mechada venezolana"
+ },
+ "en": {
+  "name": "Carne Mechada (Venezuelan Shredded Beef)",
+  "blurb": "Shredded beef stewed with bell pepper, sweet ají and tomato. The heart of pabellón criollo.",
+  "ing": [
+   {
+    "n": "beef flank"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet ají peppers",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the beef in the water with 1 teaspoon of salt for 90 minutes. Cool and shred. Keep 300 ml of the broth.",
+   "Cook the onion, peppers, ají and garlic in the oil for 8 minutes.",
+   "Add the tomato and cumin and cook 8 minutes.",
+   "Add the beef, broth and remaining salt and simmer 20 minutes, until slightly dry."
+  ],
+  "tips": [
+   "Shred into fine strands with two forks.",
+   "It freezes well in portions."
+  ],
+  "video": "venezuelan shredded beef"
+ },
+ "added": "2026-09-30"
+}

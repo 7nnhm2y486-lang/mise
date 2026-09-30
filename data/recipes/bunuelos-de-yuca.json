@@ -1,0 +1,159 @@
+{
+ "id": "bunuelos-de-yuca",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 20,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Buñuelos de yuca",
+  "blurb": "Bolitas fritas de yuca con queso bañadas en melado de papelón. Dulce de Semana Santa en Venezuela.",
+  "ing": [
+   {
+    "n": "yuca",
+    "note": "pelada"
+   },
+   {
+    "n": "queso blanco duro",
+    "note": "rallado"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "anís en grano"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "papelón"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "clavos de olor"
+   }
+  ],
+  "steps": [
+   "Cuece la yuca 25 minutos, retira las fibras y hazla puré.",
+   "Mezcla con el queso, el huevo y el anís hasta tener una masa.",
+   "Forma aros o bolitas y fríelos a 175 °C 4 minutos, hasta que estén dorados.",
+   "Hierve el papelón con el agua, la canela y el clavo 15 minutos, hasta tener un melado.",
+   "Baña los buñuelos con el melado tibio."
+  ],
+  "tips": [
+   "Humedece las manos para formar los buñuelos.",
+   "El melado espesa al enfriar: caliéntalo antes de servir."
+  ],
+  "video": "buñuelos de yuca venezolanos"
+ },
+ "en": {
+  "name": "Buñuelos de Yuca (Cassava Fritters in Syrup)",
+  "blurb": "Fried cassava and cheese fritters drenched in cane-sugar syrup. A Holy Week sweet in Venezuela.",
+  "ing": [
+   {
+    "n": "cassava",
+    "note": "peeled"
+   },
+   {
+    "n": "hard white cheese",
+    "note": "grated"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "aniseed"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "papelón (unrefined cane sugar)"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "cloves"
+   }
+  ],
+  "steps": [
+   "Boil the cassava 25 minutes, remove the fibres and mash.",
+   "Mix with the cheese, egg and aniseed into a dough.",
+   "Shape rings or balls and fry at 175 °C for 4 minutes, until golden.",
+   "Boil the papelón with the water, cinnamon and cloves for 15 minutes into a syrup.",
+   "Pour the warm syrup over the fritters."
+  ],
+  "tips": [
+   "Wet your hands to shape the fritters.",
+   "The syrup thickens as it cools: warm it before serving."
+  ],
+  "video": "venezuelan cassava fritters"
+ },
+ "added": "2026-09-30"
+}
