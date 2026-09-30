@@ -1,0 +1,107 @@
+{
+ "id": "zarangollo",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "starter",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  }
+ ],
+ "es": {
+  "name": "Zarangollo murciano",
+  "blurb": "Calabacín y cebolla pochados lentamente y ligados con huevo. Plato de huerta de Murcia.",
+  "ing": [
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebollas",
+    "note": "en tiras finas"
+   },
+   {
+    "n": "calabacines",
+    "note": "en láminas finas"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos"
+   }
+  ],
+  "steps": [
+   "Pocha la cebolla en el aceite a fuego bajo 15 minutos.",
+   "Añade el calabacín y la sal y cocina 20 minutos, hasta que esté muy tierno.",
+   "Bate los huevos, añádelos y remueve 2 minutos, hasta que cuajen suaves."
+  ],
+  "tips": [
+   "La paciencia es el secreto: la verdura debe quedar casi confitada.",
+   "Retíralo cuando el huevo esté jugoso."
+  ],
+  "video": "zarangollo murciano"
+ },
+ "en": {
+  "name": "Zarangollo (Murcian Courgette and Egg)",
+  "blurb": "Courgette and onion cooked down slowly and bound with egg. A garden dish from Murcia.",
+  "ing": [
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onions",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "courgettes",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "eggs"
+   }
+  ],
+  "steps": [
+   "Soften the onion in the oil on low for 15 minutes.",
+   "Add the courgette and salt and cook 20 minutes, until very soft.",
+   "Beat the eggs, add them and stir 2 minutes, until softly set."
+  ],
+  "tips": [
+   "Patience is the secret: the vegetables should be almost confit.",
+   "Take it off while the egg is still moist."
+  ],
+  "video": "spanish zarangollo"
+ },
+ "added": "2026-09-30"
+}

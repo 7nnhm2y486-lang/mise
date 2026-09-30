@@ -1,0 +1,177 @@
+{
+ "id": "huevos-a-la-flamenca",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "prosciutto",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "garnish"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Huevos a la flamenca",
+  "blurb": "Huevos cuajados en cazuelitas sobre tomate con chorizo, jamón, guisantes y pimiento. Plato sevillano.",
+  "ing": [
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "chorizo",
+    "note": "en rodajas"
+   },
+   {
+    "n": "jamón serrano",
+    "note": "en tiras"
+   },
+   {
+    "n": "tomate triturado"
+   },
+   {
+    "n": "guisantes"
+   },
+   {
+    "n": "pimiento rojo asado",
+    "note": "en tiras"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla y el ajo en el aceite 6 minutos. Añade el chorizo y el jamón y cocina 3 minutos.",
+   "Añade el tomate y la sal y cocina 10 minutos. Añade los guisantes.",
+   "Reparte en 4 cazuelitas de barro y casca 2 huevos en cada una.",
+   "Decora con el pimiento.",
+   "Hornea a 200 °C 10 minutos, hasta que las claras cuajen."
+  ],
+  "tips": [
+   "La yema debe quedar líquida.",
+   "Se puede hacer en una sola cazuela grande."
+  ],
+  "video": "huevos a la flamenca"
+ },
+ "en": {
+  "name": "Huevos a la Flamenca (Flamenco Eggs)",
+  "blurb": "Eggs baked in clay dishes over tomato with chorizo, ham, peas and pepper. A Seville dish.",
+  "ing": [
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "chorizo",
+    "note": "sliced"
+   },
+   {
+    "n": "Spanish cured ham",
+    "note": "in strips"
+   },
+   {
+    "n": "crushed tomatoes"
+   },
+   {
+    "n": "peas"
+   },
+   {
+    "n": "roasted red pepper",
+    "note": "in strips"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion and garlic in the oil for 6 minutes. Add the chorizo and ham and cook 3 minutes.",
+   "Add the tomato and salt and cook 10 minutes. Add the peas.",
+   "Divide between 4 clay dishes and crack 2 eggs into each.",
+   "Top with the pepper.",
+   "Bake at 200 °C for 10 minutes, until the whites set."
+  ],
+  "tips": [
+   "The yolk should stay runny.",
+   "You can make it in one large dish."
+  ],
+  "video": "spanish flamenco eggs"
+ },
+ "added": "2026-09-30"
+}

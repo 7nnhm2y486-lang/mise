@@ -1,0 +1,147 @@
+{
+ "id": "gachas-manchegas",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 6,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "pancetta",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Gachas manchegas",
+  "blurb": "Crema espesa de harina de almortas con pimentón y panceta, que se come de la sartén con cuchara. Invierno en La Mancha.",
+  "ing": [
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "panceta",
+    "note": "en dados"
+   },
+   {
+    "n": "ajo",
+    "note": "laminado"
+   },
+   {
+    "n": "harina de almortas"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Fríe la panceta en el aceite 5 minutos. Sácala.",
+   "Dora el ajo 1 minuto y sácalo.",
+   "Añade la harina y tuéstala 2 minutos. Añade el pimentón y el comino.",
+   "Añade el agua poco a poco, removiendo, y la sal. Cuece 10 minutos hasta que espese.",
+   "Sirve con la panceta y el ajo por encima."
+  ],
+  "tips": [
+   "Añade el agua de a poco para que no queden grumos.",
+   "Si no hay harina de almortas, usa harina de garbanzo."
+  ],
+  "video": "gachas manchegas"
+ },
+ "en": {
+  "name": "Gachas Manchegas (La Mancha Flour Porridge)",
+  "blurb": "A thick cream of grass pea flour with paprika and pancetta, eaten from the pan with spoons. Winter in La Mancha.",
+  "ing": [
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "pancetta",
+    "note": "diced"
+   },
+   {
+    "n": "garlic",
+    "note": "sliced"
+   },
+   {
+    "n": "grass pea flour"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Fry the pancetta in the oil for 5 minutes. Lift out.",
+   "Brown the garlic 1 minute and lift out.",
+   "Add the flour and toast 2 minutes. Add the paprika and cumin.",
+   "Add the water gradually, stirring, and the salt. Cook 10 minutes until thick.",
+   "Serve with the pancetta and garlic on top."
+  ],
+  "tips": [
+   "Add the water little by little to avoid lumps.",
+   "No grass pea flour? Use chickpea flour."
+  ],
+  "video": "spanish gachas manchegas"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,167 @@
+{
+ "id": "rosquillas-de-anis",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 60,
+ "serves": 24,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Rosquillas de anís",
+  "blurb": "Rosquillas fritas perfumadas con anís y limón. El dulce de las abuelas en Semana Santa.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "aceite de oliva suave"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "anís en grano"
+   },
+   {
+    "n": "ralladura de limón"
+   },
+   {
+    "n": "aceite de oliva suave para freír"
+   },
+   {
+    "n": "azúcar (para rebozar)"
+   }
+  ],
+  "steps": [
+   "Bate los huevos con el azúcar. Añade el aceite, la leche, el anís y la ralladura.",
+   "Añade la harina y el polvo de hornear hasta tener una masa blanda.",
+   "Con las manos aceitadas, forma bolas, haz un agujero en el centro y estira en aro.",
+   "Fríe a 170 °C 2 minutos por lado, hasta que estén doradas.",
+   "Escurre y reboza en el azúcar."
+  ],
+  "tips": [
+   "Unta las manos con aceite para que no se pegue la masa.",
+   "Guárdalas en una lata: duran una semana."
+  ],
+  "video": "rosquillas de anís caseras"
+ },
+ "en": {
+  "name": "Rosquillas de Anís (Spanish Anise Doughnuts)",
+  "blurb": "Fried doughnuts scented with aniseed and lemon. Grandma's Holy Week sweet.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "light olive oil"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "aniseed"
+   },
+   {
+    "n": "lemon zest"
+   },
+   {
+    "n": "light olive oil for frying"
+   },
+   {
+    "n": "sugar (for coating)"
+   }
+  ],
+  "steps": [
+   "Whisk the eggs with the sugar. Add the oil, milk, aniseed and zest.",
+   "Add the flour and baking powder to make a soft dough.",
+   "With oiled hands, shape balls, poke a hole in the centre and stretch into rings.",
+   "Fry at 170 °C for 2 minutes per side, until golden.",
+   "Drain and roll in the sugar."
+  ],
+  "tips": [
+   "Oil your hands so the dough doesn't stick.",
+   "Keep them in a tin: they last a week."
+  ],
+  "video": "spanish anise doughnuts"
+ },
+ "added": "2026-09-30"
+}

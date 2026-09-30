@@ -1,0 +1,185 @@
+{
+ "id": "patatas-a-la-importancia",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Patatas a la importancia",
+  "blurb": "Rodajas de patata rebozadas y guisadas en salsa de vino y azafrán. Receta humilde de Valladolid.",
+  "ing": [
+   {
+    "n": "patatas",
+    "note": "en rodajas de 1 cm"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "huevos batidos"
+   },
+   {
+    "n": "aceite de oliva para freír"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "azafrán"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sala las patatas, pásalas por la harina y el huevo y fríelas 3 minutos por lado. Reserva.",
+   "En una cazuela con 3 cucharadas del aceite, sofríe la cebolla y el ajo 8 minutos.",
+   "Añade el vino, el agua, el azafrán y el perejil y hierve 5 minutos.",
+   "Añade las patatas y cuece 20 minutos a fuego suave, hasta que estén tiernas."
+  ],
+  "tips": [
+   "Mueve la cazuela en lugar de remover para que el rebozado no se despegue.",
+   "La salsa debe quedar ligada por la harina del rebozado."
+  ],
+  "video": "patatas a la importancia"
+ },
+ "en": {
+  "name": "Patatas a la Importancia (Battered Potatoes in Saffron Sauce)",
+  "blurb": "Potato slices dipped in batter and braised in wine and saffron sauce. A humble recipe from Valladolid.",
+  "ing": [
+   {
+    "n": "potatoes",
+    "note": "in 1 cm slices"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "beaten eggs"
+   },
+   {
+    "n": "olive oil for frying"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "saffron"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Salt the potatoes, dip in the flour and egg and fry 3 minutes per side. Set aside.",
+   "In a pan with 3 tablespoons of the oil, cook the onion and garlic for 8 minutes.",
+   "Add the wine, water, saffron and parsley and boil 5 minutes.",
+   "Add the potatoes and simmer 20 minutes, until tender."
+  ],
+  "tips": [
+   "Shake the pan instead of stirring so the coating stays on.",
+   "The flour from the coating thickens the sauce."
+  ],
+  "video": "spanish potatoes a la importancia"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,107 @@
+{
+ "id": "tarta-de-queso-vasca",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 75,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 750,
+   "u": "g",
+   "k": "creamcheese",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "heavycream",
+   "role": "enrich"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Tarta de queso vasca",
+  "blurb": "Tarta de queso quemada por fuera y cremosa por dentro. Nacida en un bar de San Sebastián.",
+  "ing": [
+   {
+    "n": "queso crema"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "nata para montar"
+   },
+   {
+    "n": "harina de trigo"
+   }
+  ],
+  "steps": [
+   "Bate el queso con el azúcar hasta que esté liso.",
+   "Añade los huevos de uno en uno, luego la nata y por último la harina tamizada.",
+   "Forra un molde de 22 cm con dos hojas de papel de horno arrugadas que sobresalgan.",
+   "Vierte la mezcla y hornea a 220 °C 45 minutos, hasta que esté muy tostada por fuera y tiemble en el centro.",
+   "Deja enfriar a temperatura ambiente y luego refrigera 4 horas."
+  ],
+  "tips": [
+   "El centro debe temblar al sacarla: cuaja al enfriar.",
+   "Queso a temperatura ambiente para que no queden grumos."
+  ],
+  "video": "tarta de queso vasca"
+ },
+ "en": {
+  "name": "Basque Burnt Cheesecake",
+  "blurb": "A cheesecake scorched on the outside and creamy inside. Born in a San Sebastián bar.",
+  "ing": [
+   {
+    "n": "cream cheese"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "double cream"
+   },
+   {
+    "n": "plain flour"
+   }
+  ],
+  "steps": [
+   "Beat the cheese with the sugar until smooth.",
+   "Add the eggs one at a time, then the cream, then the sifted flour.",
+   "Line a 22 cm tin with two crumpled sheets of baking paper standing above the rim.",
+   "Pour in and bake at 220 °C for 45 minutes, until very dark outside and wobbly in the centre.",
+   "Cool at room temperature, then chill 4 hours."
+  ],
+  "tips": [
+   "The centre should wobble when it comes out: it sets as it cools.",
+   "Have the cheese at room temperature so there are no lumps."
+  ],
+  "video": "basque burnt cheesecake"
+ },
+ "added": "2026-09-30"
+}

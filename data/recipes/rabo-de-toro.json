@@ -1,0 +1,199 @@
+{
+ "id": "rabo-de-toro",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 240,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 5,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "winered",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Rabo de toro",
+  "blurb": "Rabo guisado horas en vino tinto hasta que la carne se separa del hueso. Clásico cordobés.",
+  "ing": [
+   {
+    "n": "rabo de toro o de vaca en trozos"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebollas",
+    "note": "picadas"
+   },
+   {
+    "n": "zanahorias",
+    "note": "picadas"
+   },
+   {
+    "n": "pimiento rojo",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "vino tinto"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "tomillo"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sala el rabo, pásalo por la harina y dóralo en el aceite en tandas. Sácalo.",
+   "Sofríe la cebolla, la zanahoria, el pimiento y el ajo 12 minutos.",
+   "Añade el vino y deja reducir 10 minutos.",
+   "Vuelve a poner el rabo con el laurel, el tomillo y el agua. Tapa y cuece 3 horas a fuego muy bajo.",
+   "Saca el rabo, tritura la salsa y vuelve a juntarlos."
+  ],
+  "tips": [
+   "Está mejor hecho el día anterior: quita la grasa solidificada de la superficie.",
+   "La carne debe separarse del hueso con un tenedor."
+  ],
+  "video": "rabo de toro cordobés"
+ },
+ "en": {
+  "name": "Rabo de Toro (Spanish Oxtail Stew)",
+  "blurb": "Oxtail braised for hours in red wine until the meat falls off the bone. A Córdoba classic.",
+  "ing": [
+   {
+    "n": "oxtail, in pieces"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onions",
+    "note": "chopped"
+   },
+   {
+    "n": "carrots",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "red wine"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "thyme"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Salt the oxtail, dredge in the flour and brown in the oil in batches. Remove.",
+   "Cook the onion, carrot, pepper and garlic for 12 minutes.",
+   "Add the wine and reduce 10 minutes.",
+   "Return the oxtail with the bay, thyme and water. Cover and simmer 3 hours on very low heat.",
+   "Lift out the oxtail, blend the sauce and combine again."
+  ],
+  "tips": [
+   "Better made the day before: lift off the set fat from the top.",
+   "The meat should come off the bone with a fork."
+  ],
+  "video": "spanish oxtail stew"
+ },
+ "added": "2026-09-30"
+}

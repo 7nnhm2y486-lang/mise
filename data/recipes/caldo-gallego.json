@@ -1,0 +1,135 @@
+{
+ "id": "caldo-gallego",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Caldo gallego",
+  "blurb": "Caldo de alubias, patata y grelos con cerdo. Reconforta los inviernos lluviosos de Galicia.",
+  "ing": [
+   {
+    "n": "alubias blancas secas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "lacón o paleta de cerdo"
+   },
+   {
+    "n": "unto o manteca de cerdo"
+   },
+   {
+    "n": "patatas",
+    "note": "chascadas"
+   },
+   {
+    "n": "grelos o berza",
+    "note": "picados"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja las alubias 12 horas.",
+   "Cuécelas en el agua con el cerdo y el unto 90 minutos.",
+   "Añade las patatas y la sal y cuece 20 minutos.",
+   "Añade los grelos y cuece 15 minutos más.",
+   "Saca el cerdo, córtalo y devuélvelo a la olla."
+  ],
+  "tips": [
+   "Déjalo reposar 10 minutos antes de servir.",
+   "Si no hay grelos, usa col rizada o berza."
+  ],
+  "video": "caldo gallego"
+ },
+ "en": {
+  "name": "Caldo Gallego (Galician Bean and Greens Soup)",
+  "blurb": "A broth of white beans, potato and turnip greens with pork. Comfort through Galicia's rainy winters.",
+  "ing": [
+   {
+    "n": "dried white beans"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "pork shoulder"
+   },
+   {
+    "n": "pork fat"
+   },
+   {
+    "n": "potatoes",
+    "note": "broken into chunks"
+   },
+   {
+    "n": "turnip greens or cabbage",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the beans 12 hours.",
+   "Simmer them in the water with the pork and pork fat for 90 minutes.",
+   "Add the potatoes and salt and cook 20 minutes.",
+   "Add the greens and cook 15 minutes more.",
+   "Lift out the pork, chop it and return it to the pot."
+  ],
+  "tips": [
+   "Let it rest 10 minutes before serving.",
+   "No turnip greens? Use kale or cabbage."
+  ],
+  "video": "galician caldo gallego"
+ },
+ "added": "2026-09-30"
+}

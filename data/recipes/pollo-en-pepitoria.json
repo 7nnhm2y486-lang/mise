@@ -1,0 +1,195 @@
+{
+ "id": "pollo-en-pepitoria",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 75,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "almond",
+   "role": "thicken"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "eggyolk",
+   "role": "thicken"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Pollo en pepitoria",
+  "blurb": "Pollo guisado en salsa de almendra, yema de huevo y azafrán. Receta de la cocina castellana antigua.",
+  "ing": [
+   {
+    "n": "pollo en trozos"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "almendras tostadas"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "azafrán"
+   },
+   {
+    "n": "yemas de huevo duro"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Sala el pollo, pásalo por la harina y dóralo en el aceite 10 minutos. Sácalo.",
+   "Fríe los ajos enteros 2 minutos y sácalos. Sofríe la cebolla 8 minutos.",
+   "Añade el vino, el agua y el pollo. Tapa y cuece 30 minutos.",
+   "Machaca en el mortero los ajos fritos, las almendras, las yemas y el azafrán con un poco de caldo.",
+   "Añade el majado a la cazuela y cuece 10 minutos más. Termina con el perejil."
+  ],
+  "tips": [
+   "El majado es lo que espesa y da carácter a la salsa.",
+   "Algunas versiones añaden la clara picada por encima."
+  ],
+  "video": "pollo en pepitoria"
+ },
+ "en": {
+  "name": "Pollo en Pepitoria (Chicken in Almond Saffron Sauce)",
+  "blurb": "Chicken braised in a sauce of almond, egg yolk and saffron. An old Castilian recipe.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "toasted almonds"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "saffron"
+   },
+   {
+    "n": "hard-boiled egg yolks"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Salt the chicken, dredge in the flour and brown in the oil for 10 minutes. Remove.",
+   "Fry the whole garlic cloves 2 minutes and lift out. Cook the onion 8 minutes.",
+   "Add the wine, water and chicken. Cover and simmer 30 minutes.",
+   "Pound the fried garlic, almonds, yolks and saffron in a mortar with a little broth.",
+   "Stir the paste into the pan and cook 10 minutes more. Finish with the parsley."
+  ],
+  "tips": [
+   "The pounded paste thickens the sauce and gives it character.",
+   "Some versions sprinkle the chopped egg white on top."
+  ],
+  "video": "spanish chicken pepitoria"
+ },
+ "added": "2026-09-30"
+}

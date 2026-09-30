@@ -1,0 +1,161 @@
+{
+ "id": "salpicon-de-marisco",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "starter",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "prawn",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "mussel",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "squid",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 40,
+   "u": "ml",
+   "k": "winevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Salpicón de marisco",
+  "blurb": "Ensalada fría de gambas, mejillones y pulpo con pimientos picados en vinagreta. Tapa de verano en Andalucía.",
+  "ing": [
+   {
+    "n": "gambas cocidas y peladas"
+   },
+   {
+    "n": "mejillones cocidos sin concha"
+   },
+   {
+    "n": "pulpo cocido",
+    "note": "en trozos"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "pimiento rojo",
+    "note": "picado fino"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado fino"
+   },
+   {
+    "n": "aceite de oliva virgen extra"
+   },
+   {
+    "n": "vinagre de Jerez"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Mezcla la cebolla y los pimientos.",
+   "Bate el aceite con el vinagre y la sal.",
+   "Añade el marisco y la vinagreta a las verduras.",
+   "Refrigera 1 hora antes de servir."
+  ],
+  "tips": [
+   "Pica las verduras muy finas, del mismo tamaño.",
+   "Se conserva 1 día en la nevera."
+  ],
+  "video": "salpicón de marisco"
+ },
+ "en": {
+  "name": "Salpicón de Marisco (Spanish Seafood Salad)",
+  "blurb": "A cold salad of prawns, mussels and octopus with finely chopped peppers in vinaigrette. A summer tapa in Andalusia.",
+  "ing": [
+   {
+    "n": "cooked peeled prawns"
+   },
+   {
+    "n": "cooked shelled mussels"
+   },
+   {
+    "n": "cooked octopus",
+    "note": "in pieces"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "finely chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "finely chopped"
+   },
+   {
+    "n": "extra virgin olive oil"
+   },
+   {
+    "n": "sherry vinegar"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Mix the onion and peppers.",
+   "Whisk the oil with the vinegar and salt.",
+   "Add the seafood and dressing to the vegetables.",
+   "Chill 1 hour before serving."
+  ],
+  "tips": [
+   "Chop the vegetables very finely, all the same size.",
+   "It keeps 1 day in the fridge."
+  ],
+  "video": "spanish seafood salad"
+ },
+ "added": "2026-09-30"
+}
