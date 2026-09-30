@@ -1,0 +1,129 @@
+{
+ "id": "frejol-colado",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 180,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 6,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sesameseed",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Frejol colado",
+  "blurb": "Dulce espeso de frejol colado con chancaca y clavo, cubierto de ajonjolí. Tradición afroperuana de Chincha.",
+  "ing": [
+   {
+    "n": "frejol canario o negro"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "chancaca"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "ajonjolí tostado"
+   }
+  ],
+  "steps": [
+   "Remoja el frejol 12 horas. Cuécelo en el agua 90 minutos, hasta que esté muy tierno.",
+   "Licúa y cuela para quitar las pieles.",
+   "Cuece el puré con la chancaca, la leche, el clavo y la canela 45 minutos, removiendo sin parar, hasta ver el fondo de la olla.",
+   "Retira la canela y el clavo, pasa a una fuente y cubre con el ajonjolí."
+  ],
+  "tips": [
+   "Usa una cuchara de palo larga: salpica mucho al espesar.",
+   "Se conserva 1 semana en la nevera."
+  ],
+  "video": "frejol colado chinchano"
+ },
+ "en": {
+  "name": "Frejol Colado (Peruvian Sweet Bean Fudge)",
+  "blurb": "A thick sweet of sieved beans with cane sugar and clove, topped with sesame. An Afro-Peruvian tradition from Chincha.",
+  "ing": [
+   {
+    "n": "canary or black beans"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "chancaca (unrefined cane sugar)"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "toasted sesame seeds"
+   }
+  ],
+  "steps": [
+   "Soak the beans 12 hours. Simmer them in the water for 90 minutes, until very soft.",
+   "Blend and sieve to remove the skins.",
+   "Cook the purée with the cane sugar, milk, cloves and cinnamon for 45 minutes, stirring constantly, until you can see the bottom of the pan.",
+   "Remove the cinnamon and cloves, spread in a dish and top with the sesame."
+  ],
+  "tips": [
+   "Use a long wooden spoon: it spits as it thickens.",
+   "It keeps 1 week in the fridge."
+  ],
+  "video": "peruvian frejol colado"
+ },
+ "added": "2026-09-30"
+}

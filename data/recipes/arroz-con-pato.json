@@ -1,0 +1,199 @@
+{
+ "id": "arroz-con-pato",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 6,
+   "u": "thigh",
+   "k": "duck",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 350,
+   "u": "ml",
+   "k": "beer",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "garnish"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Arroz con pato",
+  "blurb": "Arroz verde de culantro y cerveza negra con pato tierno. El orgullo de Chiclayo.",
+  "ing": [
+   {
+    "n": "piernas de pato"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ají amarillo molido"
+   },
+   {
+    "n": "culantro (cilantro)",
+    "note": "licuado con 250 ml de agua"
+   },
+   {
+    "n": "cerveza negra"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "pimiento rojo",
+    "note": "en tiras"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sala el pato y dóralo en el aceite con la piel hacia abajo 10 minutos. Sácalo.",
+   "Sofríe la cebolla, el ajo y el ají en la grasa 6 minutos. Añade el culantro licuado y cocina 5 minutos.",
+   "Añade la cerveza, el agua y el pato. Tapa y cuece 60 minutos, hasta que esté tierno. Saca el pato.",
+   "Mide 1 l del caldo, añade el arroz y cuece tapado 18 minutos.",
+   "Añade las arvejas y el pimiento, tapa 5 minutos y sirve con el pato encima."
+  ],
+  "tips": [
+   "Quita el exceso de grasa del pato antes de añadir el arroz.",
+   "Algunos marinan el pato la noche anterior con ajo y cerveza."
+  ],
+  "video": "arroz con pato chiclayano"
+ },
+ "en": {
+  "name": "Arroz con Pato (Peruvian Duck with Coriander Rice)",
+  "blurb": "Green coriander and dark-beer rice with tender duck. Chiclayo's pride.",
+  "ing": [
+   {
+    "n": "duck legs"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "coriander",
+    "note": "blended with 250 ml water"
+   },
+   {
+    "n": "dark beer"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "green peas"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "in strips"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Salt the duck and brown it skin side down in the oil for 10 minutes. Remove.",
+   "Cook the onion, garlic and ají in the fat for 6 minutes. Add the blended coriander and cook 5 minutes.",
+   "Add the beer, water and duck. Cover and simmer 60 minutes, until tender. Lift out the duck.",
+   "Measure 1 l of the broth, add the rice and cook covered for 18 minutes.",
+   "Add the peas and pepper, cover 5 minutes and serve with the duck on top."
+  ],
+  "tips": [
+   "Skim off excess duck fat before adding the rice.",
+   "Some cooks marinate the duck overnight in garlic and beer."
+  ],
+  "video": "peruvian arroz con pato"
+ },
+ "added": "2026-09-30"
+}

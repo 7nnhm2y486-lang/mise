@@ -1,0 +1,177 @@
+{
+ "id": "pollo-saltado",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "winevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "pepper",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Pollo saltado",
+  "blurb": "El hermano del lomo saltado: pollo al wok con cebolla, tomate, ají y sillao. Cocina chifa peruana.",
+  "ing": [
+   {
+    "n": "pechuga de pollo",
+    "note": "en tiras"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "en gajos"
+   },
+   {
+    "n": "tomates",
+    "note": "en gajos"
+   },
+   {
+    "n": "ají amarillo fresco",
+    "note": "en tiras"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "sillao (salsa de soja)"
+   },
+   {
+    "n": "vinagre de vino tinto"
+   },
+   {
+    "n": "culantro (cilantro)",
+    "note": "picado"
+   },
+   {
+    "n": "pimienta"
+   }
+  ],
+  "steps": [
+   "Calienta el wok a fuego muy fuerte con 2 cucharadas de aceite y saltea el pollo 4 minutos. Sácalo.",
+   "Añade el resto del aceite y saltea la cebolla, el ajo y el ají 1 minuto.",
+   "Añade el tomate y el pollo y saltea 1 minuto.",
+   "Añade el sillao y el vinagre por el borde del wok, mezcla y termina con el culantro y la pimienta."
+  ],
+  "tips": [
+   "El wok debe humear: el saltado se hace en segundos.",
+   "Sírvelo con arroz blanco."
+  ],
+  "video": "pollo saltado peruano"
+ },
+ "en": {
+  "name": "Pollo Saltado (Peruvian Chicken Stir-Fry)",
+  "blurb": "Lomo saltado's sibling: wok-fried chicken with onion, tomato, ají and soy sauce. Peruvian chifa cooking.",
+  "ing": [
+   {
+    "n": "chicken breast",
+    "note": "in strips"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "in wedges"
+   },
+   {
+    "n": "tomatoes",
+    "note": "in wedges"
+   },
+   {
+    "n": "fresh ají amarillo",
+    "note": "in strips"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "red wine vinegar"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "pepper"
+   }
+  ],
+  "steps": [
+   "Heat the wok on very high heat with 2 tablespoons of oil and stir-fry the chicken 4 minutes. Remove.",
+   "Add the rest of the oil and stir-fry the onion, garlic and ají for 1 minute.",
+   "Add the tomato and chicken and toss 1 minute.",
+   "Pour the soy sauce and vinegar around the edge of the wok, toss and finish with the coriander and pepper."
+  ],
+  "tips": [
+   "The wok should smoke: a saltado takes seconds.",
+   "Serve with white rice."
+  ],
+  "video": "peruvian chicken saltado"
+ },
+ "added": "2026-09-30"
+}

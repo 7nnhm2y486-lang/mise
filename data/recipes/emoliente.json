@@ -1,0 +1,131 @@
+{
+ "id": "emoliente",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 60,
+   "u": "g",
+   "k": "barley",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "flax",
+   "role": "thicken"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Emoliente",
+  "blurb": "Bebida caliente de cebada, linaza y hierbas, vendida en carritos en las esquinas de Lima desde la madrugada.",
+  "ing": [
+   {
+    "n": "cebada tostada"
+   },
+   {
+    "n": "linaza"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cola de caballo seca"
+   },
+   {
+    "n": "manzanilla seca"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   }
+  ],
+  "steps": [
+   "Hierve la cebada en el agua 20 minutos.",
+   "Añade la linaza y cuece 10 minutos, hasta que el líquido se ponga algo espeso.",
+   "Añade las hierbas, apaga y deja reposar 5 minutos. Cuela.",
+   "Endulza con el azúcar y añade el limón al servir."
+  ],
+  "tips": [
+   "Se toma caliente en invierno y frío en verano.",
+   "La linaza le da la textura suave típica: no la omitas."
+  ],
+  "video": "emoliente peruano"
+ },
+ "en": {
+  "name": "Emoliente (Peruvian Barley Herbal Drink)",
+  "blurb": "A hot drink of barley, flaxseed and herbs, sold from carts on Lima's street corners from dawn.",
+  "ing": [
+   {
+    "n": "toasted barley"
+   },
+   {
+    "n": "flaxseed"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "dried horsetail"
+   },
+   {
+    "n": "dried chamomile"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   }
+  ],
+  "steps": [
+   "Boil the barley in the water for 20 minutes.",
+   "Add the flaxseed and cook 10 minutes, until the liquid thickens slightly.",
+   "Add the herbs, turn off and steep 5 minutes. Strain.",
+   "Sweeten with the sugar and add the lime when serving."
+  ],
+  "tips": [
+   "Drink it hot in winter and cold in summer.",
+   "The flaxseed gives its typical silky body: don't skip it."
+  ],
+  "video": "peruvian emoliente drink"
+ },
+ "added": "2026-09-30"
+}

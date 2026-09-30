@@ -1,0 +1,135 @@
+{
+ "id": "chicharron-de-pescado",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "dredge"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Chicharrón de pescado",
+  "blurb": "Trozos de pescado marinados en ajo y limón, enharinados y fritos hasta quedar crujientes. Infaltable en las cevicherías.",
+  "ing": [
+   {
+    "n": "pescado blanco firme",
+    "note": "en trozos de 3 cm"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "maicena"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Marina el pescado con el ajo, la mitad del limón y la sal 15 minutos.",
+   "Mezcla la harina con la maicena y pasa el pescado por la mezcla.",
+   "Fríe a 180 °C en tandas 4 minutos, hasta que esté dorado.",
+   "Escurre y sirve con el resto del limón."
+  ],
+  "tips": [
+   "No llenes la olla: el aceite pierde temperatura y el pescado queda aceitoso.",
+   "La maicena lo hace más crujiente."
+  ],
+  "video": "chicharrón de pescado peruano"
+ },
+ "en": {
+  "name": "Chicharrón de Pescado (Peruvian Fried Fish)",
+  "blurb": "Fish chunks marinated in garlic and lime, floured and fried until crisp. A cevichería essential.",
+  "ing": [
+   {
+    "n": "firm white fish",
+    "note": "in 3 cm chunks"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "cornflour"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Marinate the fish with the garlic, half the lime juice and the salt for 15 minutes.",
+   "Mix the flour and cornflour and dredge the fish.",
+   "Fry at 180 °C in batches for 4 minutes, until golden.",
+   "Drain and serve with the rest of the lime."
+  ],
+  "tips": [
+   "Don't crowd the pot: the oil cools and the fish turns greasy.",
+   "The cornflour makes it crisper."
+  ],
+  "video": "peruvian fried fish chicharron"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,213 @@
+{
+ "id": "estofado-de-pollo-pe",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "winered",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Estofado de pollo",
+  "blurb": "Pollo guisado en tomate, ají panca y vino, con papas y arvejas. El almuerzo de casa peruano.",
+  "ing": [
+   {
+    "n": "pollo en presas"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ají panca molido"
+   },
+   {
+    "n": "tomates",
+    "note": "licuados"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "vino tinto"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en rodajas"
+   },
+   {
+    "n": "papas",
+    "note": "en mitades"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sala el pollo y dóralo en el aceite 8 minutos. Sácalo.",
+   "Sofríe la cebolla, el ajo y el ají panca 6 minutos. Añade el tomate y cocina 8 minutos.",
+   "Añade el vino, el laurel, el agua y el pollo. Tapa y cuece 20 minutos.",
+   "Añade la zanahoria y las papas y cuece 15 minutos.",
+   "Añade las arvejas, cuece 5 minutos y sala."
+  ],
+  "tips": [
+   "Sírvelo con arroz blanco.",
+   "Si la salsa está ácida, deja reducir un poco más."
+  ],
+  "video": "estofado de pollo peruano"
+ },
+ "en": {
+  "name": "Peruvian Chicken Estofado",
+  "blurb": "Chicken stewed in tomato, ají panca and wine, with potatoes and peas. Peruvian home lunch.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "tomatoes",
+    "note": "blended"
+   },
+   {
+    "n": "bay leaf"
+   },
+   {
+    "n": "red wine"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "carrots",
+    "note": "sliced"
+   },
+   {
+    "n": "potatoes",
+    "note": "halved"
+   },
+   {
+    "n": "green peas"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Salt the chicken and brown it in the oil for 8 minutes. Remove.",
+   "Cook the onion, garlic and ají panca for 6 minutes. Add the tomato and cook 8 minutes.",
+   "Add the wine, bay, water and chicken. Cover and simmer 20 minutes.",
+   "Add the carrots and potatoes and cook 15 minutes.",
+   "Add the peas, cook 5 minutes and salt."
+  ],
+  "tips": [
+   "Serve with white rice.",
+   "If the sauce tastes sharp, reduce it a little longer."
+  ],
+  "video": "peruvian chicken estofado"
+ },
+ "added": "2026-09-30"
+}

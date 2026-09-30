@@ -1,0 +1,163 @@
+{
+ "id": "choritos-a-la-chalaca",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 24,
+   "u": "",
+   "k": "mussel",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Choritos a la chalaca",
+  "blurb": "Mejillones cubiertos de una salsa fresca de cebolla, tomate, rocoto y limón. Un clásico del Callao.",
+  "ing": [
+   {
+    "n": "choros (mejillones)"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "picada fina"
+   },
+   {
+    "n": "tomates",
+    "note": "sin semillas, picados finos"
+   },
+   {
+    "n": "rocoto",
+    "note": "picado fino"
+   },
+   {
+    "n": "granos de choclo cocidos"
+   },
+   {
+    "n": "culantro (cilantro)",
+    "note": "picado"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece los choros en el agua tapados 5 minutos, hasta que se abran. Deja enfriar.",
+   "Retira una concha de cada choro y deja la carne en la otra.",
+   "Mezcla la cebolla, el tomate, el rocoto, el choclo, el culantro, el limón y la sal.",
+   "Cubre cada choro con la mezcla y sirve frío."
+  ],
+  "tips": [
+   "Tira los choros que no se abran.",
+   "Prepara la mezcla justo antes de servir para que la cebolla quede crujiente."
+  ],
+  "video": "choritos a la chalaca"
+ },
+ "en": {
+  "name": "Choritos a la Chalaca (Callao-Style Mussels)",
+  "blurb": "Mussels topped with a fresh salsa of onion, tomato, rocoto and lime. A classic from Callao.",
+  "ing": [
+   {
+    "n": "mussels"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "red onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "seeded, finely chopped"
+   },
+   {
+    "n": "rocoto chilli",
+    "note": "finely chopped"
+   },
+   {
+    "n": "cooked corn kernels"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Steam the mussels in the water, covered, for 5 minutes, until they open. Cool.",
+   "Remove one shell from each mussel, leaving the meat in the other.",
+   "Mix the onion, tomato, rocoto, corn, coriander, lime and salt.",
+   "Spoon the mix over each mussel and serve cold."
+  ],
+  "tips": [
+   "Discard any mussels that don't open.",
+   "Mix the topping just before serving so the onion stays crisp."
+  ],
+  "video": "peruvian mussels a la chalaca"
+ },
+ "added": "2026-09-30"
+}

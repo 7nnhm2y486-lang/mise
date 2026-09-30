@@ -1,0 +1,141 @@
+{
+ "id": "queso-helado",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 30,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "desiccatedcoconut",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Queso helado",
+  "blurb": "Helado arequipeño de leche con coco, canela y clavo. No lleva queso: se llama así por su forma.",
+  "ing": [
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "coco rallado"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "esencia de vainilla"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Hierve la leche con la canela y el clavo 10 minutos. Cuela y deja enfriar.",
+   "Mezcla con la leche evaporada, la condensada, el coco y la vainilla.",
+   "Congela en un recipiente 4 horas, batiendo cada 45 minutos para romper los cristales.",
+   "Sirve en bolas con canela molida."
+  ],
+  "tips": [
+   "Si tienes heladera, úsala: queda más cremoso.",
+   "Sácalo 10 minutos antes de servir para que se ablande."
+  ],
+  "video": "queso helado arequipeño"
+ },
+ "en": {
+  "name": "Queso Helado (Arequipa Coconut Ice Cream)",
+  "blurb": "Arequipa's milk ice cream with coconut, cinnamon and clove. There's no cheese in it: it's named for its shape.",
+  "ing": [
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "condensed milk"
+   },
+   {
+    "n": "desiccated coconut"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Boil the milk with the cinnamon and cloves for 10 minutes. Strain and cool.",
+   "Mix with the evaporated milk, condensed milk, coconut and vanilla.",
+   "Freeze in a tub for 4 hours, whisking every 45 minutes to break up the crystals.",
+   "Serve in scoops with ground cinnamon."
+  ],
+  "tips": [
+   "If you have an ice-cream maker, use it: it's creamier.",
+   "Take it out 10 minutes before serving to soften."
+  ],
+  "video": "peruvian queso helado"
+ },
+ "added": "2026-09-30"
+}

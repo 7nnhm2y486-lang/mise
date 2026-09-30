@@ -1,0 +1,163 @@
+{
+ "id": "pepian-de-choclo",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 6,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "thigh",
+   "k": "chicken",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Pepián de choclo",
+  "blurb": "Crema espesa de choclo rallado con ají amarillo y albahaca, con pollo. Plato criollo de la costa peruana.",
+  "ing": [
+   {
+    "n": "choclos",
+    "note": "desgranados y rallados"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ají amarillo molido"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "albahaca",
+    "note": "picada"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "muslos de pollo"
+   }
+  ],
+  "steps": [
+   "Sala el pollo y dóralo en 1 cucharada de aceite 10 minutos. Añade 150 ml de agua, tapa y cuece 20 minutos.",
+   "Sofríe la cebolla, el ajo y el ají en el resto del aceite 6 minutos.",
+   "Añade el choclo rallado y el resto del agua y cuece 15 minutos, removiendo, hasta que espese.",
+   "Añade la albahaca y la sal.",
+   "Sirve el pepián con el pollo encima."
+  ],
+  "tips": [
+   "Remueve sin parar: el choclo se pega fácil.",
+   "Debe quedar como un puré suave."
+  ],
+  "video": "pepián de choclo con pollo"
+ },
+ "en": {
+  "name": "Pepián de Choclo (Peruvian Creamed Corn)",
+  "blurb": "A thick cream of grated corn with ají amarillo and basil, served with chicken. A creole dish of the Peruvian coast.",
+  "ing": [
+   {
+    "n": "corn cobs",
+    "note": "kernels grated off"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "basil",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "chicken thighs"
+   }
+  ],
+  "steps": [
+   "Salt the chicken and brown it in 1 tablespoon of oil for 10 minutes. Add 150 ml of water, cover and cook 20 minutes.",
+   "Cook the onion, garlic and ají in the rest of the oil for 6 minutes.",
+   "Add the grated corn and the rest of the water and cook 15 minutes, stirring, until thick.",
+   "Add the basil and salt.",
+   "Serve the pepián with the chicken on top."
+  ],
+  "tips": [
+   "Stir constantly: corn catches easily.",
+   "It should look like a soft mash."
+  ],
+  "video": "peruvian pepian de choclo"
+ },
+ "added": "2026-09-30"
+}

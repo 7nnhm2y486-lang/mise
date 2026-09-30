@@ -1,0 +1,239 @@
+{
+ "id": "aguadito-de-pollo",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Aguadito de pollo",
+  "blurb": "Sopa verde de arroz con pollo y mucho culantro. Levanta muertos en Lima después de una fiesta.",
+  "ing": [
+   {
+    "n": "pollo en presas"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ají amarillo molido"
+   },
+   {
+    "n": "culantro (cilantro)",
+    "note": "licuado con 250 ml de agua"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "pimiento rojo",
+    "note": "en tiras"
+   },
+   {
+    "n": "zanahoria",
+    "note": "en dados"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "granos de choclo"
+   },
+   {
+    "n": "papas amarillas",
+    "note": "en trozos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "limones"
+   }
+  ],
+  "steps": [
+   "Sala el pollo y dóralo en el aceite 8 minutos. Sácalo.",
+   "Sofríe la cebolla, el ajo y el ají 6 minutos. Añade el culantro licuado y cocina 3 minutos.",
+   "Añade el agua y el pollo y cuece 20 minutos.",
+   "Añade el arroz, la papa, la zanahoria y el pimiento y cuece 15 minutos.",
+   "Añade las arvejas y el choclo, cuece 5 minutos más y sala. Sirve con limón."
+  ],
+  "tips": [
+   "Licúa el culantro con agua fría para que se mantenga bien verde.",
+   "Debe quedar caldoso: añade agua si el arroz absorbe mucho."
+  ],
+  "video": "aguadito de pollo peruano"
+ },
+ "en": {
+  "name": "Aguadito de Pollo (Peruvian Green Chicken Soup)",
+  "blurb": "A green rice soup with chicken and lots of coriander. Lima's cure after a party.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "coriander",
+    "note": "blended with 250 ml water"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "in strips"
+   },
+   {
+    "n": "carrot",
+    "note": "diced"
+   },
+   {
+    "n": "green peas"
+   },
+   {
+    "n": "corn kernels"
+   },
+   {
+    "n": "yellow potatoes",
+    "note": "in chunks"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "limes"
+   }
+  ],
+  "steps": [
+   "Salt the chicken and brown it in the oil for 8 minutes. Remove.",
+   "Cook the onion, garlic and ají for 6 minutes. Add the blended coriander and cook 3 minutes.",
+   "Add the water and chicken and simmer 20 minutes.",
+   "Add the rice, potato, carrot and pepper and cook 15 minutes.",
+   "Add the peas and corn, cook 5 minutes more and salt. Serve with lime."
+  ],
+  "tips": [
+   "Blend the coriander with cold water so it stays bright green.",
+   "It should be brothy: add water if the rice drinks too much."
+  ],
+  "video": "peruvian aguadito de pollo"
+ },
+ "added": "2026-09-30"
+}
