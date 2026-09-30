@@ -1,0 +1,228 @@
+{
+ "id": "aji-de-gallina",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "slice",
+   "k": "bread",
+   "role": "thicken"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "walnut",
+   "role": "thicken"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "parmesan",
+   "role": "umami"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "potato",
+   "role": "serve"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "olives",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Ají de gallina",
+  "blurb": "Pollo desmechado en una crema amarilla de ají, pan remojado en leche, nueces y parmesano. Sobre papa, con huevo y aceituna.",
+  "ing": [
+   {
+    "n": "pechugas de pollo o gallina"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pan de molde sin corteza"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají amarillo"
+   },
+   {
+    "n": "nueces",
+    "note": "molidas"
+   },
+   {
+    "n": "queso parmesano rallado"
+   },
+   {
+    "n": "papas amarillas",
+    "note": "cocidas, en rodajas"
+   },
+   {
+    "n": "huevos duros",
+    "note": "en cuartos"
+   },
+   {
+    "n": "aceitunas negras"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo en el agua con 1 cucharadita de sal 25 minutos. Desmecha y guarda 250 ml del líquido.",
+   "Remoja el pan en la leche evaporada 10 minutos y licúalo.",
+   "Sofríe la cebolla y el ajo en el aceite 10 minutos a fuego bajo, hasta que estén dorados. Añade el ají y cuece 5 minutos.",
+   "Añade el pan licuado y el líquido guardado y cuece 10 minutos, moviendo, hasta que espese.",
+   "Añade el pollo, las nueces, el parmesano y el resto de la sal. Cuece 5 minutos.",
+   "Sirve sobre las papas con huevo, aceitunas y arroz blanco."
+  ],
+  "tips": [
+   "La cebolla bien dorada es la base: no la apures.",
+   "Si espesa demasiado al recalentar, añade un poco de leche o agua."
+  ],
+  "video": "aji de gallina receta"
+ },
+ "en": {
+  "name": "Ají de Gallina (Peruvian Creamy Chicken)",
+  "blurb": "Shredded chicken in a yellow cream of ají amarillo, milk-soaked bread, walnuts and parmesan. Over potatoes, with egg and olives.",
+  "ing": [
+   {
+    "n": "chicken or hen breasts"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "crustless sandwich bread"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "walnuts",
+    "note": "ground"
+   },
+   {
+    "n": "grated parmesan"
+   },
+   {
+    "n": "yellow potatoes",
+    "note": "boiled, sliced"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "quartered"
+   },
+   {
+    "n": "black olives"
+   }
+  ],
+  "steps": [
+   "Poach the chicken in the water with 1 teaspoon of salt for 25 minutes. Shred and keep 250 ml of the liquid.",
+   "Soak the bread in the evaporated milk for 10 minutes and blend.",
+   "Cook the onion and garlic in the oil for 10 minutes on low, until golden. Add the ají and cook 5 minutes.",
+   "Add the blended bread and reserved liquid and cook 10 minutes, stirring, until thick.",
+   "Add the chicken, walnuts, parmesan and the rest of the salt. Cook 5 minutes.",
+   "Serve over the potatoes with egg, olives and white rice."
+  ],
+  "tips": [
+   "Well-browned onion is the base: don't rush it.",
+   "If it thickens too much when reheated, add a little milk or water."
+  ],
+  "video": "aji de gallina recipe"
+ },
+ "added": "2026-09-30"
+}

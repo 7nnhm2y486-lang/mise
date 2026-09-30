@@ -1,0 +1,112 @@
+{
+ "id": "salsa-criolla",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 15,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Salsa criolla peruana",
+  "blurb": "Cebolla morada en pluma con ají, limón y cilantro. Acompaña casi todo: chicharrón, pan con chicharrón, arroz con pollo.",
+  "ing": [
+   {
+    "n": "cebollas moradas",
+    "note": "en pluma fina"
+   },
+   {
+    "n": "ají limo o amarillo",
+    "note": "en tiras finas"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja la cebolla en agua fría con sal 10 minutos y escúrrela bien.",
+   "Mezcla con el ají, el limón, el cilantro y la sal.",
+   "Sirve enseguida, mientras la cebolla está crujiente."
+  ],
+  "tips": [
+   "El remojo quita el picor de la cebolla y la deja crujiente.",
+   "Corta la cebolla a lo largo, siguiendo sus líneas, para que no suelte agua."
+  ],
+  "video": "salsa criolla peruana receta"
+ },
+ "en": {
+  "name": "Peruvian Salsa Criolla",
+  "blurb": "Thinly sliced red onion with chile, lime and cilantro. It goes with almost everything: pork crackling, sandwiches, arroz con pollo.",
+  "ing": [
+   {
+    "n": "red onions",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "ají limo or yellow chile",
+    "note": "in thin strips"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the onion in cold salted water for 10 minutes and drain well.",
+   "Mix with the chile, lime, cilantro and salt.",
+   "Serve right away, while the onion is crisp."
+  ],
+  "tips": [
+   "Soaking takes the bite off the onion and keeps it crisp.",
+   "Slice the onion lengthwise, along its lines, so it doesn't weep."
+  ],
+  "video": "peruvian salsa criolla recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,178 @@
+{
+ "id": "arroz-chaufa",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sesameoil",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Arroz chaufa",
+  "blurb": "El arroz frito de las chifas de Lima: arroz, huevo, pollo, cebolla china y sillao al wok bien caliente.",
+  "ing": [
+   {
+    "n": "arroz blanco cocido del día anterior"
+   },
+   {
+    "n": "huevos",
+    "note": "batidos"
+   },
+   {
+    "n": "pollo",
+    "note": "en cubos"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "jengibre",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "cebollas chinas",
+    "note": "en rodajas"
+   },
+   {
+    "n": "sillao (salsa de soja)"
+   },
+   {
+    "n": "aceite de sésamo"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Haz una tortilla fina con los huevos en 1 cucharada de aceite. Córtala en tiras.",
+   "Calienta el wok muy fuerte con el resto del aceite. Saltea el pollo con la sal 4 minutos, hasta que esté dorado.",
+   "Añade el jengibre, el ajo y la parte blanca de la cebolla china 30 segundos.",
+   "Añade el arroz y saltea 3 minutos, separándolo, hasta que chisporrotee.",
+   "Añade el sillao por los bordes del wok, la tortilla, el resto de la cebolla y el aceite de sésamo. Saltea 1 minuto y sirve."
+  ],
+  "tips": [
+   "El arroz frío del día anterior no se apelmaza: el recién hecho sí.",
+   "El wok debe humear; si tu estufa es débil, cocina en 2 tandas."
+  ],
+  "video": "arroz chaufa receta"
+ },
+ "en": {
+  "name": "Arroz Chaufa (Peruvian Fried Rice)",
+  "blurb": "The fried rice of Lima's chifas: rice, egg, chicken, green onion and soy sauce over a very hot wok.",
+  "ing": [
+   {
+    "n": "day-old cooked white rice"
+   },
+   {
+    "n": "eggs",
+    "note": "beaten"
+   },
+   {
+    "n": "chicken",
+    "note": "diced"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "ginger",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "green onions",
+    "note": "sliced"
+   },
+   {
+    "n": "soy sauce (sillao)"
+   },
+   {
+    "n": "sesame oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Make a thin omelette with the eggs in 1 tablespoon of oil. Cut into strips.",
+   "Heat the wok very hot with the rest of the oil. Stir-fry the chicken with the salt for 4 minutes, until browned.",
+   "Add the ginger, garlic and the white part of the green onion for 30 seconds.",
+   "Add the rice and stir-fry 3 minutes, breaking it up, until it crackles.",
+   "Add the soy sauce around the edge of the wok, the omelette, the rest of the green onion and the sesame oil. Toss 1 minute and serve."
+  ],
+  "tips": [
+   "Day-old cold rice doesn't clump: freshly cooked does.",
+   "The wok should smoke; if your stove is weak, cook in 2 batches."
+  ],
+  "video": "arroz chaufa recipe"
+ },
+ "added": "2026-09-30"
+}

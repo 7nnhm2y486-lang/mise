@@ -1,0 +1,168 @@
+{
+ "id": "papa-a-la-huancaina",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "crackers",
+   "role": "thicken"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "olives",
+   "role": "garnish"
+  },
+  {
+   "q": 4,
+   "u": "leaf",
+   "k": "veg",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Papa a la huancaína",
+  "blurb": "Papas amarillas frías bañadas en una salsa cremosa de ají amarillo y queso fresco. Con huevo y aceituna.",
+  "ing": [
+   {
+    "n": "papas amarillas"
+   },
+   {
+    "n": "pasta de ají amarillo"
+   },
+   {
+    "n": "queso fresco"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "galletas de soda"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos duros",
+    "note": "en mitades"
+   },
+   {
+    "n": "aceitunas negras"
+   },
+   {
+    "n": "hojas de lechuga"
+   }
+  ],
+  "steps": [
+   "Hierve las papas con piel 25 minutos. Pélalas, enfría y corta en rodajas gruesas.",
+   "Licúa el ají, el queso, la leche, las galletas, el aceite y la sal hasta que esté liso y espeso.",
+   "Pon la lechuga en los platos, encima las papas y cúbrelas con la salsa.",
+   "Decora con huevo y aceitunas."
+  ],
+  "tips": [
+   "Si la salsa está muy espesa, añade leche; si está líquida, otra galleta.",
+   "La salsa sobrante es buena con papas fritas o con yuca."
+  ],
+  "video": "papa a la huancaina receta"
+ },
+ "en": {
+  "name": "Papa a la Huancaína (Potatoes in Ají Cheese Sauce)",
+  "blurb": "Cold yellow potatoes under a creamy sauce of ají amarillo and queso fresco. With egg and olives.",
+  "ing": [
+   {
+    "n": "yellow potatoes"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "queso fresco"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "soda crackers"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "halved"
+   },
+   {
+    "n": "black olives"
+   },
+   {
+    "n": "lettuce leaves"
+   }
+  ],
+  "steps": [
+   "Boil the potatoes in their skins for 25 minutes. Peel, cool and cut into thick slices.",
+   "Blend the ají, cheese, milk, crackers, oil and salt until smooth and thick.",
+   "Put the lettuce on the plates, the potatoes on top and cover them with the sauce.",
+   "Garnish with egg and olives."
+  ],
+  "tips": [
+   "If the sauce is too thick, add milk; if runny, another cracker.",
+   "Leftover sauce is good with fries or cassava."
+  ],
+  "video": "papa a la huancaina recipe"
+ },
+ "added": "2026-09-30"
+}

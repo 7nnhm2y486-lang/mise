@@ -1,0 +1,182 @@
+{
+ "id": "leche-de-tigre",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 10,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "stalk",
+   "k": "celery",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "ice",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Leche de tigre",
+  "blurb": "El jugo del ceviche servido solo en vaso: limón, pescado, ají y cilantro licuados con hielo. Famoso por levantar muertos.",
+  "ing": [
+   {
+    "n": "recortes de pescado blanco muy fresco"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "apio"
+   },
+   {
+    "n": "cebolla morada"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "jengibre"
+   },
+   {
+    "n": "ají limo o habanero"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cubos de hielo"
+   },
+   {
+    "n": "pescado blanco en cubos",
+    "note": "para servir"
+   }
+  ],
+  "steps": [
+   "Licúa los recortes de pescado, el limón, el apio, la cebolla, el ajo, el jengibre, el ají, el cilantro, la sal y el hielo 30 segundos.",
+   "Cuela apretando.",
+   "Mezcla con los cubos de pescado y deja 2 minutos.",
+   "Sirve en vasos fríos con un poco de cebolla y cilantro encima."
+  ],
+  "tips": [
+   "Licúa poco tiempo: mucho licuado amarga el limón.",
+   "El pescado crudo debe ser muy fresco o haberse congelado antes; en embarazo o con defensas bajas, evítalo."
+  ],
+  "video": "leche de tigre receta"
+ },
+ "en": {
+  "name": "Leche de Tigre",
+  "blurb": "Ceviche's marinade served on its own in a glass: lime, fish, chile and cilantro blended with ice. Famous as a hangover cure.",
+  "ing": [
+   {
+    "n": "very fresh white fish trimmings"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "celery"
+   },
+   {
+    "n": "red onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "ginger"
+   },
+   {
+    "n": "ají limo or habanero"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ice cubes"
+   },
+   {
+    "n": "white fish in cubes",
+    "note": "to serve"
+   }
+  ],
+  "steps": [
+   "Blend the fish trimmings, lime, celery, onion, garlic, ginger, chile, cilantro, salt and ice for 30 seconds.",
+   "Strain, pressing.",
+   "Mix with the fish cubes and leave 2 minutes.",
+   "Serve in cold glasses with a little onion and cilantro on top."
+  ],
+  "tips": [
+   "Blend briefly: over-blending makes the lime bitter.",
+   "Raw fish must be very fresh or previously frozen; if pregnant or immunocompromised, avoid it."
+  ],
+  "video": "leche de tigre recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,190 @@
+{
+ "id": "anticuchos",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "winevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "skewer",
+   "role": "serve"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "potato",
+   "role": "serve"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "corn",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Anticuchos de corazón",
+  "blurb": "Brochetas de corazón de res marinadas en ají panca y vinagre, asadas a fuego vivo. Comida de esquina limeña.",
+  "ing": [
+   {
+    "n": "corazón de res limpio",
+    "note": "en cubos de 3 cm"
+   },
+   {
+    "n": "pasta de ají panca"
+   },
+   {
+    "n": "vinagre de vino tinto"
+   },
+   {
+    "n": "ajo",
+    "note": "molido"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "palitos de brocheta",
+    "note": "remojados"
+   },
+   {
+    "n": "papas",
+    "note": "cocidas"
+   },
+   {
+    "n": "choclos",
+    "note": "cocidos"
+   }
+  ],
+  "steps": [
+   "Mezcla el ají panca, el vinagre, el ajo, el comino, el orégano, la sal y el aceite.",
+   "Marina el corazón en la mezcla al menos 3 horas o toda la noche.",
+   "Ensarta 4 cubos por palito.",
+   "Asa a la parrilla o en plancha muy caliente 2 minutos por lado, pintando con la marinada. Deben quedar rosados por dentro.",
+   "Sirve con papa y choclo."
+  ],
+  "tips": [
+   "El corazón es magro: cocido de más se pone duro.",
+   "Pídele al carnicero que lo limpie de nervios y grasa."
+  ],
+  "video": "anticuchos de corazon receta"
+ },
+ "en": {
+  "name": "Beef Heart Anticuchos",
+  "blurb": "Skewers of beef heart marinated in ají panca and vinegar and grilled over high heat. Lima street-corner food.",
+  "ing": [
+   {
+    "n": "trimmed beef heart",
+    "note": "in 3 cm cubes"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "red wine vinegar"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "skewers",
+    "note": "soaked"
+   },
+   {
+    "n": "potatoes",
+    "note": "boiled"
+   },
+   {
+    "n": "ears of corn",
+    "note": "boiled"
+   }
+  ],
+  "steps": [
+   "Mix the ají panca, vinegar, garlic, cumin, oregano, salt and oil.",
+   "Marinate the heart in the mixture for at least 3 hours or overnight.",
+   "Thread 4 cubes per skewer.",
+   "Grill or sear on a very hot griddle for 2 minutes per side, brushing with the marinade. They should be pink inside.",
+   "Serve with potato and corn."
+  ],
+  "tips": [
+   "Heart is lean: overcooked, it turns tough.",
+   "Ask the butcher to trim it of sinew and fat."
+  ],
+  "video": "anticuchos recipe"
+ },
+ "added": "2026-09-30"
+}

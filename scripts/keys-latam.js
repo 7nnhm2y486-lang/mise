@@ -59,6 +59,9 @@ put("chipotleadobo", ["nightshade"], ["allium", "sulphite", "sugar"], T("El adob
 put("salsa", ["nightshade", "allium"], ["sulphite", "sugar"], T("Las salsas de mesa llevan chile y casi siempre ajo o cebolla; las de frasco pueden llevar vinagre o azúcar.", "Table salsas contain chile and nearly always garlic or onion; jarred ones can contain vinegar or sugar."), {
   allium: [sub(1, ["nightshade"], [], ["salsa de tomatillo y chile hecha en casa sin ajo ni cebolla", "Tomatillo hervido, chile, cilantro y sal, licuados."], ["homemade tomatillo and chile salsa without garlic or onion", "Boiled tomatillo, chile, cilantro and salt, blended."])],
   nightshade: [sub(1, [], [], ["salsa de aguacate, cilantro y limón", "Fresca y ácida, sin chile ni tomate."], ["avocado, cilantro and lime salsa", "Fresh and sharp, with no chile or tomato."])]});
+// Saltine / soda crackers (Peruvian huancaína, ají de gallina).
+put("crackers", ["wheat"], ["soy", "milk", "sesame"], T("Las galletas de soda llevan trigo; algunas marcas llevan soja o leche.", "Soda crackers contain wheat; some brands contain soy or milk."), {
+  wheat: [sub(1, [], ["soy"], ["galletas de arroz naturales", "Elige las que solo llevan arroz y sal."], ["plain rice crackers", "Pick ones made only of rice and salt."])]});
 // Refried beans: canned or restaurant ones are often made with lard, sometimes with cheese.
 put("refriedbeans", [], ["pork", "milk"], T("Los frijoles refritos de lata o de fonda suelen llevar manteca de cerdo; algunos llevan queso. Hazlos con aceite o revisa la etiqueta.", "Canned or restaurant refried beans are often made with lard; some contain cheese. Make them with oil or check the label."), {pork: [
   sub(1, [], [], ["frijoles refritos caseros con aceite", "Machaca frijoles cocidos y fríelos en aceite hasta que espesen."], ["homemade refried beans with oil", "Mash cooked beans and fry them in oil until thick."])]});

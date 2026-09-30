@@ -8421,6 +8421,39 @@
      }
     ]
    }
+  },
+  "crackers": {
+   "a": [
+    "wheat"
+   ],
+   "may": [
+    "soy",
+    "milk",
+    "sesame"
+   ],
+   "label": {
+    "es": "Las galletas de soda llevan trigo; algunas marcas llevan soja o leche.",
+    "en": "Soda crackers contain wheat; some brands contain soy or milk."
+   },
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "may": [
+       "soy"
+      ],
+      "es": {
+       "to": "galletas de arroz naturales",
+       "note": "Elige las que solo llevan arroz y sal."
+      },
+      "en": {
+       "to": "plain rice crackers",
+       "note": "Pick ones made only of rice and salt."
+      }
+     }
+    ]
+   }
   }
  },
  "roles": {

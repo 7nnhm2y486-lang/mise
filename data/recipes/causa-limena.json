@@ -1,0 +1,188 @@
+{
+ "id": "causa-limena",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "mayo",
+   "role": "fat"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "avocado",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "olives",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Causa limeña",
+  "blurb": "Capas frías de puré de papa amarilla con ají y limón, rellenas de pollo con mayonesa y palta.",
+  "ing": [
+   {
+    "n": "papas amarillas"
+   },
+   {
+    "n": "pasta de ají amarillo"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pollo cocido desmechado"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "picada fina"
+   },
+   {
+    "n": "aguacates (paltas)",
+    "note": "en rebanadas"
+   },
+   {
+    "n": "huevos duros",
+    "note": "en rodajas"
+   },
+   {
+    "n": "aceitunas negras"
+   }
+  ],
+  "steps": [
+   "Hierve las papas con piel 25 minutos, hasta que estén blandas. Pélalas calientes y pásalas por un pasapurés.",
+   "Deja enfriar y amasa con el ají, el limón, el aceite y 1 cucharadita de sal, hasta tener una masa lisa.",
+   "Mezcla el pollo con la mayonesa, la cebolla y el resto de la sal.",
+   "En un molde con plástico, pon una capa de papa, luego el pollo, luego la palta, y termina con papa.",
+   "Refrigera 30 minutos, desmolda y decora con huevo y aceitunas."
+  ],
+  "tips": [
+   "Pela y machaca las papas calientes: frías se ponen pegajosas.",
+   "Con atún en vez de pollo es la otra versión clásica."
+  ],
+  "video": "causa limeña receta"
+ },
+ "en": {
+  "name": "Causa Limeña (Layered Potato Terrine)",
+  "blurb": "Cold layers of yellow potato mash with ají and lime, filled with chicken in mayonnaise and avocado.",
+  "ing": [
+   {
+    "n": "yellow potatoes"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "shredded cooked chicken"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "red onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "avocados",
+    "note": "sliced"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "sliced"
+   },
+   {
+    "n": "black olives"
+   }
+  ],
+  "steps": [
+   "Boil the potatoes in their skins for 25 minutes, until soft. Peel them hot and pass through a ricer.",
+   "Cool and knead with the ají, lime, oil and 1 teaspoon of salt, into a smooth dough.",
+   "Mix the chicken with the mayonnaise, onion and the rest of the salt.",
+   "In a plastic-lined mould, lay a layer of potato, then the chicken, then the avocado, and finish with potato.",
+   "Chill 30 minutes, turn out and garnish with egg and olives."
+  ],
+  "tips": [
+   "Peel and mash the potatoes hot: cold, they turn gluey.",
+   "Tuna instead of chicken is the other classic version."
+  ],
+  "video": "causa limena recipe"
+ },
+ "added": "2026-09-30"
+}

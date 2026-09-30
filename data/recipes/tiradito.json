@@ -1,0 +1,154 @@
+{
+ "id": "tiradito",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 25,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "corn",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Tiradito de ají amarillo",
+  "blurb": "Láminas de pescado crudo cortadas como sashimi, bañadas en una leche de ají amarillo y limón. El ceviche con técnica japonesa.",
+  "ing": [
+   {
+    "n": "pescado blanco muy fresco (corvina o lenguado)",
+    "note": "en láminas finas"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "pasta de ají amarillo"
+   },
+   {
+    "n": "jengibre",
+    "note": "rallado"
+   },
+   {
+    "n": "ajo",
+    "note": "rallado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cilantro",
+    "note": "hojas"
+   },
+   {
+    "n": "choclo cocido",
+    "note": "desgranado"
+   }
+  ],
+  "steps": [
+   "Extiende las láminas de pescado en platos fríos, sin encimarlas. Refrigera.",
+   "Licúa el jugo de limón con la pasta de ají, el jengibre, el ajo y la sal hasta que esté liso. Cuela.",
+   "Justo antes de servir, baña el pescado con la salsa.",
+   "Decora con cilantro y choclo y sirve de inmediato."
+  ],
+  "tips": [
+   "El pescado crudo debe ser muy fresco o haberse congelado antes; en embarazo o con defensas bajas, no lo comas crudo.",
+   "Corta con un cuchillo muy afilado en un solo movimiento para que las láminas queden limpias."
+  ],
+  "video": "tiradito de aji amarillo receta"
+ },
+ "en": {
+  "name": "Ají Amarillo Tiradito",
+  "blurb": "Slices of raw fish cut like sashimi and bathed in an ají amarillo and lime sauce. Ceviche with Japanese technique.",
+  "ing": [
+   {
+    "n": "very fresh white fish (corvina or sole)",
+    "note": "in thin slices"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "ginger",
+    "note": "grated"
+   },
+   {
+    "n": "garlic",
+    "note": "grated"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cilantro",
+    "note": "leaves"
+   },
+   {
+    "n": "cooked Peruvian corn",
+    "note": "kernels"
+   }
+  ],
+  "steps": [
+   "Lay the fish slices on cold plates without overlapping. Chill.",
+   "Blend the lime juice with the ají paste, ginger, garlic and salt until smooth. Strain.",
+   "Just before serving, spoon the sauce over the fish.",
+   "Garnish with cilantro and corn and serve right away."
+  ],
+  "tips": [
+   "Raw fish must be very fresh or previously frozen; if pregnant or immunocompromised, don't eat it raw.",
+   "Slice with a very sharp knife in one stroke so the slices are clean."
+  ],
+  "video": "tiradito recipe"
+ },
+ "added": "2026-09-30"
+}

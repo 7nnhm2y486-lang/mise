@@ -1,0 +1,214 @@
+{
+ "id": "arroz-con-pollo-pe",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 6,
+   "u": "thigh",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 330,
+   "u": "ml",
+   "k": "beer",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Arroz con pollo peruano",
+  "blurb": "Arroz verde de cilantro con cerveza negra y ají amarillo, con pollo dorado, arvejas y zanahoria.",
+  "ing": [
+   {
+    "n": "muslos de pollo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají amarillo"
+   },
+   {
+    "n": "cerveza negra"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "arroz blanco"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "zanahoria",
+    "note": "en cubos"
+   },
+   {
+    "n": "pimiento rojo",
+    "note": "en tiras"
+   }
+  ],
+  "steps": [
+   "Sala el pollo y dóralo en el aceite 5 minutos por lado. Sácalo.",
+   "Licúa el cilantro con 120 ml del caldo.",
+   "En la misma grasa, sofríe la cebolla, el ajo y el ají 8 minutos. Añade el cilantro licuado y cuece 3 minutos.",
+   "Añade la cerveza, el resto del caldo y el pollo. Cuece tapado 15 minutos.",
+   "Añade el arroz, las arvejas y la zanahoria. Hierve hasta que el líquido baje al nivel del arroz, tapa y cuece a fuego bajo 20 minutos.",
+   "Decora con el pimiento y sirve con salsa criolla."
+  ],
+  "tips": [
+   "El verde viene del cilantro: usa mucho, con tallos.",
+   "Sin cerveza, usa la misma cantidad de caldo."
+  ],
+  "video": "arroz con pollo peruano receta"
+ },
+ "en": {
+  "name": "Peruvian Green Rice with Chicken",
+  "blurb": "Cilantro-green rice with dark beer and ají amarillo, with browned chicken, peas and carrot.",
+  "ing": [
+   {
+    "n": "chicken thighs"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "dark beer"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "white rice"
+   },
+   {
+    "n": "peas"
+   },
+   {
+    "n": "carrot",
+    "note": "diced"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "in strips"
+   }
+  ],
+  "steps": [
+   "Salt the chicken and brown it in the oil for 5 minutes per side. Remove.",
+   "Blend the cilantro with 120 ml of the stock.",
+   "In the same fat, cook the onion, garlic and ají for 8 minutes. Add the blended cilantro and cook 3 minutes.",
+   "Add the beer, the rest of the stock and the chicken. Cook covered 15 minutes.",
+   "Add the rice, peas and carrot. Boil until the liquid drops to the level of the rice, cover and cook on low for 20 minutes.",
+   "Garnish with the bell pepper and serve with salsa criolla."
+  ],
+  "tips": [
+   "The green comes from the cilantro: use a lot, stems included.",
+   "Without beer, use the same amount of stock."
+  ],
+  "video": "peruvian arroz con pollo recipe"
+ },
+ "added": "2026-09-30"
+}

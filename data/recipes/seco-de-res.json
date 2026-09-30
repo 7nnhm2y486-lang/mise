@@ -1,0 +1,216 @@
+{
+ "id": "seco-de-res",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 330,
+   "u": "ml",
+   "k": "beer",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Seco de res",
+  "blurb": "Guiso norteño de res en salsa verde de cilantro con cerveza y ají, con arvejas, papa y frijoles aparte.",
+  "ing": [
+   {
+    "n": "asado de res o espaldilla",
+    "note": "en trozos de 5 cm"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají amarillo"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "cerveza"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "zanahoria",
+    "note": "en cubos"
+   },
+   {
+    "n": "papas amarillas",
+    "note": "peladas, en mitades"
+   }
+  ],
+  "steps": [
+   "Sala la carne y dórala en el aceite en tandas. Sácala.",
+   "Licúa el cilantro con 250 ml del agua.",
+   "Sofríe la cebolla, el ajo, el ají y el comino 8 minutos. Añade el cilantro licuado y cuece 5 minutos.",
+   "Regresa la carne con la cerveza y el resto del agua. Tapa y cuece a fuego bajo 75 minutos.",
+   "Añade las papas, la zanahoria y las arvejas y cuece 20 minutos más, hasta que la carne esté tierna.",
+   "Sirve con arroz y frijoles."
+  ],
+  "tips": [
+   "En el norte se usa chicha de jora en vez de cerveza.",
+   "Es aún mejor al día siguiente."
+  ],
+  "video": "seco de res receta"
+ },
+ "en": {
+  "name": "Seco de Res (Peruvian Cilantro Beef Stew)",
+  "blurb": "A northern Peruvian beef stew in a green cilantro sauce with beer and ají, with peas and potatoes, and beans on the side.",
+  "ing": [
+   {
+    "n": "beef chuck",
+    "note": "in 5 cm pieces"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "beer"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "peas"
+   },
+   {
+    "n": "carrot",
+    "note": "diced"
+   },
+   {
+    "n": "yellow potatoes",
+    "note": "peeled, halved"
+   }
+  ],
+  "steps": [
+   "Salt the beef and brown it in the oil in batches. Remove.",
+   "Blend the cilantro with 250 ml of the water.",
+   "Cook the onion, garlic, ají and cumin for 8 minutes. Add the blended cilantro and cook 5 minutes.",
+   "Return the beef with the beer and the rest of the water. Cover and cook on low for 75 minutes.",
+   "Add the potatoes, carrot and peas and cook 20 minutes more, until the beef is tender.",
+   "Serve with rice and beans."
+  ],
+  "tips": [
+   "In the north, chicha de jora is used instead of beer.",
+   "It's even better the next day."
+  ],
+  "video": "seco de res recipe"
+ },
+ "added": "2026-09-30"
+}
