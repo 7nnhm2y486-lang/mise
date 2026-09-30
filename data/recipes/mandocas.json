@@ -1,0 +1,135 @@
+{
+ "id": "mandocas",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 45,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 1,
+   "u": "",
+   "k": "plantain",
+   "role": "sweet"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Mandocas",
+  "blurb": "Rosquitas fritas de maíz, plátano maduro, papelón y queso. Desayuno típico del Zulia.",
+  "ing": [
+   {
+    "n": "plátano maduro"
+   },
+   {
+    "n": "harina de maíz precocida"
+   },
+   {
+    "n": "papelón",
+    "note": "rallado"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "queso blanco duro",
+    "note": "rallado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Hierve el plátano con piel 15 minutos. Pélalo y hazlo puré.",
+   "Disuelve el papelón en el agua caliente.",
+   "Mezcla la harina, el puré, el agua con papelón, el queso y la sal hasta tener una masa suave.",
+   "Forma cordones de 15 cm y une las puntas en forma de lágrima.",
+   "Fríe a 175 °C 4 minutos, hasta que estén doradas."
+  ],
+  "tips": [
+   "Si la masa se pega, humedécete las manos.",
+   "Cómelas recién hechas, cuando están crujientes."
+  ],
+  "video": "mandocas zulianas"
+ },
+ "en": {
+  "name": "Mandocas (Plantain Corn Rings)",
+  "blurb": "Fried rings of cornmeal, ripe plantain, cane sugar and cheese. A breakfast from Zulia, Venezuela.",
+  "ing": [
+   {
+    "n": "ripe plantain"
+   },
+   {
+    "n": "precooked cornmeal"
+   },
+   {
+    "n": "papelón (unrefined cane sugar)",
+    "note": "grated"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "hard white cheese",
+    "note": "grated"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Boil the plantain in its skin for 15 minutes. Peel and mash.",
+   "Dissolve the papelón in the hot water.",
+   "Mix the cornmeal, mash, sweetened water, cheese and salt into a soft dough.",
+   "Roll 15 cm ropes and join the ends into a teardrop.",
+   "Fry at 175 °C for 4 minutes, until golden."
+  ],
+  "tips": [
+   "If the dough sticks, wet your hands.",
+   "Eat them fresh, while crisp."
+  ],
+  "video": "venezuelan mandocas"
+ },
+ "added": "2026-09-30"
+}

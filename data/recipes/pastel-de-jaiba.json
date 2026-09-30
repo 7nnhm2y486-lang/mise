@@ -1,0 +1,157 @@
+{
+ "id": "pastel-de-jaiba",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "crab",
+   "role": "protein"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "bread",
+   "role": "thicken"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "cream",
+   "role": "enrich"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "parmesan",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pastel de jaiba",
+  "blurb": "Carne de jaiba en una crema de pan y leche, gratinada con queso en paila de greda. Clásico de la costa chilena.",
+  "ing": [
+   {
+    "n": "carne de jaiba"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "pan blanco sin corteza"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "crema de leche"
+   },
+   {
+    "n": "queso parmesano rallado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja el pan en la leche 10 minutos y deshazlo con un tenedor.",
+   "Sofríe la cebolla en la mantequilla 6 minutos. Añade el pimentón.",
+   "Añade el pan con la leche, la crema, la jaiba y la sal. Cocina 5 minutos removiendo, hasta que espese.",
+   "Reparte en cazuelitas y cubre con el queso.",
+   "Gratina en el horno a 220 °C 10 minutos, hasta que esté dorado."
+  ],
+  "tips": [
+   "Revisa la jaiba con los dedos para quitar restos de caparazón.",
+   "Debe quedar cremoso, no seco: si espesa mucho, añade leche."
+  ],
+  "video": "pastel de jaiba chileno"
+ },
+ "en": {
+  "name": "Pastel de Jaiba (Chilean Crab Gratin)",
+  "blurb": "Crab meat in a bread-and-milk cream, gratinéed with cheese in clay dishes. A Chilean coastal classic.",
+  "ing": [
+   {
+    "n": "crab meat"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "white bread, crusts off"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "single cream"
+   },
+   {
+    "n": "grated parmesan"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the bread in the milk for 10 minutes and break it up with a fork.",
+   "Cook the onion in the butter for 6 minutes. Add the paprika.",
+   "Add the soaked bread and milk, the cream, crab and salt. Cook 5 minutes, stirring, until thick.",
+   "Divide between small dishes and top with the cheese.",
+   "Grill in the oven at 220 °C for 10 minutes, until golden."
+  ],
+  "tips": [
+   "Run your fingers through the crab to catch any bits of shell.",
+   "It should be creamy, not dry: if it thickens too much, add milk."
+  ],
+  "video": "chilean crab gratin pastel de jaiba"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,155 @@
+{
+ "id": "calzones-rotos",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "pastry",
+ "time": 60,
+ "serves": 30,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Calzones rotos",
+  "blurb": "Masitas fritas con un nudo en el centro, espolvoreadas con azúcar flor. Se comen con té en los días de lluvia chilenos.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "mantequilla derretida"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "ralladura de naranja"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "azúcar flor"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el polvo de hornear y el azúcar. Añade la mantequilla, los huevos, la leche y la ralladura y amasa 5 minutos.",
+   "Estira a 3 mm y corta rombos de 10 cm.",
+   "Haz un corte en el centro de cada rombo y pasa una punta por el agujero.",
+   "Fríe a 170 °C 2 minutos por lado, hasta que estén dorados.",
+   "Escurre y espolvorea con el azúcar flor."
+  ],
+  "tips": [
+   "No los frías muy calientes o quedan crudos por dentro.",
+   "Se conservan 2 días en un recipiente cerrado."
+  ],
+  "video": "calzones rotos chilenos"
+ },
+ "en": {
+  "name": "Calzones Rotos (Chilean Twisted Fritters)",
+  "blurb": "Fried dough twisted through a slit in the middle, dusted with icing sugar. Eaten with tea on rainy Chilean days.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "melted butter"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "orange zest"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "icing sugar"
+   }
+  ],
+  "steps": [
+   "Mix the flour, baking powder and sugar. Add the butter, eggs, milk and zest and knead 5 minutes.",
+   "Roll to 3 mm and cut 10 cm diamonds.",
+   "Make a slit in the centre of each diamond and pull one tip through.",
+   "Fry at 170 °C for 2 minutes per side, until golden.",
+   "Drain and dust with the icing sugar."
+  ],
+  "tips": [
+   "Don't fry them too hot or they stay raw inside.",
+   "They keep 2 days in a closed tin."
+  ],
+  "video": "chilean calzones rotos fritters"
+ },
+ "added": "2026-09-30"
+}

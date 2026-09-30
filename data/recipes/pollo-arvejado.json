@@ -1,0 +1,185 @@
+{
+ "id": "pollo-arvejado",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "thigh",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pollo arvejado",
+  "blurb": "Pollo guisado con arvejas, zanahoria y vino blanco. Almuerzo de casa en Chile.",
+  "ing": [
+   {
+    "n": "trutros de pollo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "en pluma"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en rodajas"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sala el pollo y dóralo en el aceite 8 minutos. Sácalo.",
+   "Sofríe la cebolla, el ajo y la zanahoria 8 minutos. Añade el pimentón y el comino.",
+   "Añade el vino y deja reducir 2 minutos.",
+   "Vuelve a poner el pollo con el agua. Tapa y cuece 30 minutos.",
+   "Añade las arvejas y cuece 8 minutos más."
+  ],
+  "tips": [
+   "Sírvelo con arroz blanco.",
+   "Las arvejas congeladas funcionan igual de bien."
+  ],
+  "video": "pollo arvejado chileno"
+ },
+ "en": {
+  "name": "Pollo Arvejado (Chilean Chicken with Peas)",
+  "blurb": "Chicken stewed with peas, carrot and white wine. Home lunch in Chile.",
+  "ing": [
+   {
+    "n": "chicken legs"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "sliced"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "carrots",
+    "note": "sliced"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "green peas"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Salt the chicken and brown it in the oil for 8 minutes. Remove.",
+   "Cook the onion, garlic and carrot for 8 minutes. Add the paprika and cumin.",
+   "Add the wine and reduce 2 minutes.",
+   "Return the chicken with the water. Cover and simmer 30 minutes.",
+   "Add the peas and cook 8 minutes more."
+  ],
+  "tips": [
+   "Serve with white rice.",
+   "Frozen peas work just as well."
+  ],
+  "video": "chilean chicken and peas stew"
+ },
+ "added": "2026-09-30"
+}

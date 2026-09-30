@@ -1,0 +1,97 @@
+{
+ "id": "papelon-con-limon",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 10,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "ice",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Papelón con limón",
+  "blurb": "El refresco de todas las casas venezolanas: papelón disuelto en agua fría con mucho limón.",
+  "ing": [
+   {
+    "n": "papelón",
+    "note": "rallado"
+   },
+   {
+    "n": "agua fría"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   },
+   {
+    "n": "hielo"
+   }
+  ],
+  "steps": [
+   "Disuelve el papelón en 500 ml de agua, removiendo.",
+   "Añade el resto del agua y el jugo de limón.",
+   "Prueba y ajusta de limón.",
+   "Sirve con el hielo."
+  ],
+  "tips": [
+   "Si el papelón está muy duro, disuélvelo en el agua tibia y deja enfriar.",
+   "Cuélalo si el papelón trae impurezas."
+  ],
+  "video": "papelón con limón venezolano"
+ },
+ "en": {
+  "name": "Papelón con Limón (Cane Sugar Limeade)",
+  "blurb": "The everyday drink of every Venezuelan home: unrefined cane sugar dissolved in cold water with lots of lime.",
+  "ing": [
+   {
+    "n": "papelón (unrefined cane sugar)",
+    "note": "grated"
+   },
+   {
+    "n": "cold water"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Dissolve the papelón in 500 ml of the water, stirring.",
+   "Add the rest of the water and the lime juice.",
+   "Taste and adjust the lime.",
+   "Serve over the ice."
+  ],
+  "tips": [
+   "If the papelón is very hard, dissolve it in warm water and let it cool.",
+   "Strain it if the papelón has any grit."
+  ],
+  "video": "venezuelan papelon con limon"
+ },
+ "added": "2026-09-30"
+}

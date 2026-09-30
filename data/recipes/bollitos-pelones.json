@@ -1,0 +1,187 @@
+{
+ "id": "bollitos-pelones",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Bollitos pelones",
+  "blurb": "Bolitas de masa de maíz rellenas de carne y cocidas en salsa de tomate. Comida de casa venezolana.",
+  "ing": [
+   {
+    "n": "harina de maíz precocida"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimentón rojo",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "tomate triturado"
+   },
+   {
+    "n": "agua (segunda parte)"
+   },
+   {
+    "n": "queso blanco duro",
+    "note": "rallado"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el pimentón y el ajo en el aceite 6 minutos. Añade la carne y dórala 8 minutos. Sala.",
+   "Amasa la harina con el agua y la sal. Forma 12 bolas.",
+   "Aplana cada bola, rellena con 1 cucharada de carne y ciérrala.",
+   "Calienta el tomate con el agua de la segunda parte 5 minutos.",
+   "Cuece los bollitos en la salsa 20 minutos tapados. Sirve con el queso."
+  ],
+  "tips": [
+   "Guarda un poco de carne para añadir a la salsa.",
+   "Cierra bien los bollitos para que no se abran al cocer."
+  ],
+  "video": "bollitos pelones venezolanos"
+ },
+ "en": {
+  "name": "Bollitos Pelones (Stuffed Corn Dumplings)",
+  "blurb": "Cornmeal dumplings stuffed with beef and simmered in tomato sauce. Venezuelan home cooking.",
+  "ing": [
+   {
+    "n": "precooked cornmeal"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "minced beef"
+   },
+   {
+    "n": "crushed tomatoes"
+   },
+   {
+    "n": "water (second part)"
+   },
+   {
+    "n": "hard white cheese",
+    "note": "grated"
+   }
+  ],
+  "steps": [
+   "Cook the onion, pepper and garlic in the oil for 6 minutes. Add the beef and brown 8 minutes. Salt.",
+   "Knead the cornmeal with the water and salt. Shape 12 balls.",
+   "Flatten each ball, fill with 1 tablespoon of beef and seal.",
+   "Heat the tomato with the second part of the water for 5 minutes.",
+   "Simmer the dumplings in the sauce, covered, for 20 minutes. Serve with the cheese."
+  ],
+  "tips": [
+   "Keep a little of the beef to stir into the sauce.",
+   "Seal them well so they don't open while cooking."
+  ],
+  "video": "venezuelan bollitos pelones"
+ },
+ "added": "2026-09-30"
+}

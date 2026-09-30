@@ -1,0 +1,177 @@
+{
+ "id": "tizana",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 15,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1,
+   "u": "",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "fruit",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "fruit",
+   "role": "liquid"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "ice",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Tizana",
+  "blurb": "Ponche frío de frutas picadas en jugo de naranja y patilla. Se toma en fiestas y en las tardes calurosas de Venezuela.",
+  "ing": [
+   {
+    "n": "manzana",
+    "note": "en dados pequeños"
+   },
+   {
+    "n": "cambures",
+    "note": "en dados pequeños"
+   },
+   {
+    "n": "piña",
+    "note": "en dados pequeños"
+   },
+   {
+    "n": "lechosa",
+    "note": "en dados pequeños"
+   },
+   {
+    "n": "patilla",
+    "note": "en dados pequeños"
+   },
+   {
+    "n": "jugo de naranja"
+   },
+   {
+    "n": "jugo de patilla licuada"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   },
+   {
+    "n": "hielo"
+   }
+  ],
+  "steps": [
+   "Pica todas las frutas en dados pequeños.",
+   "Mezcla el jugo de naranja, el jugo de patilla, el limón y el azúcar hasta que se disuelva.",
+   "Añade las frutas y refrigera 1 hora.",
+   "Sirve con el hielo, con cuchara para las frutas."
+  ],
+  "tips": [
+   "Pica el cambur al final para que no se oscurezca.",
+   "Se toma el mismo día."
+  ],
+  "video": "tizana venezolana"
+ },
+ "en": {
+  "name": "Tizana (Venezuelan Fruit Punch)",
+  "blurb": "A cold punch of diced fruit in orange and watermelon juice. Drunk at parties and on hot Venezuelan afternoons.",
+  "ing": [
+   {
+    "n": "apple",
+    "note": "small dice"
+   },
+   {
+    "n": "bananas",
+    "note": "small dice"
+   },
+   {
+    "n": "pineapple",
+    "note": "small dice"
+   },
+   {
+    "n": "papaya",
+    "note": "small dice"
+   },
+   {
+    "n": "watermelon",
+    "note": "small dice"
+   },
+   {
+    "n": "orange juice"
+   },
+   {
+    "n": "blended watermelon juice"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Cut all the fruit into small dice.",
+   "Mix the orange juice, watermelon juice, lime and sugar until dissolved.",
+   "Add the fruit and chill 1 hour.",
+   "Serve over the ice, with a spoon for the fruit."
+  ],
+  "tips": [
+   "Cut the banana last so it doesn't brown.",
+   "Drink it the same day."
+  ],
+  "video": "venezuelan tizana fruit punch"
+ },
+ "added": "2026-09-30"
+}

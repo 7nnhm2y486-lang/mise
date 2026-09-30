@@ -1,0 +1,119 @@
+{
+ "id": "leche-nevada",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "cornstarch",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Leche nevada",
+  "blurb": "Crema de vainilla con nubes de merengue cocidas en leche. El postre de las abuelas chilenas.",
+  "ing": [
+   {
+    "n": "leche"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos, separadas claras y yemas"
+   },
+   {
+    "n": "maicena"
+   },
+   {
+    "n": "esencia de vainilla"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Bate las claras a punto de nieve con 50 g de azúcar.",
+   "Calienta la leche con 100 g de azúcar. Cuece cucharadas de merengue 1 minuto por lado y sácalas.",
+   "Mezcla las yemas con la maicena y un poco de leche tibia.",
+   "Añade a la leche y cuece 5 minutos removiendo, sin hervir, hasta que espese. Añade la vainilla.",
+   "Sirve la crema fría con las nubes encima y canela."
+  ],
+  "tips": [
+   "No dejes hervir la crema o las yemas se cuajan.",
+   "Las nubes crecen al cocerse: deja espacio en la olla."
+  ],
+  "video": "leche nevada chilena"
+ },
+ "en": {
+  "name": "Leche Nevada (Chilean Floating Islands)",
+  "blurb": "Vanilla custard with meringue clouds poached in milk. A Chilean grandmother's dessert.",
+  "ing": [
+   {
+    "n": "milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs, separated"
+   },
+   {
+    "n": "cornflour"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Whisk the egg whites to stiff peaks with 50 g of sugar.",
+   "Heat the milk with 100 g of sugar. Poach spoonfuls of meringue 1 minute per side and lift out.",
+   "Mix the yolks with the cornflour and a little warm milk.",
+   "Stir into the milk and cook 5 minutes without boiling, until thickened. Add the vanilla.",
+   "Serve the custard cold with the clouds on top and cinnamon."
+  ],
+  "tips": [
+   "Don't let the custard boil or the yolks will scramble.",
+   "The clouds swell as they cook: leave room in the pan."
+  ],
+  "video": "chilean floating islands leche nevada"
+ },
+ "added": "2026-09-30"
+}

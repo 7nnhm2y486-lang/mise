@@ -1,0 +1,173 @@
+{
+ "id": "tomatican",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "main",
+ "time": 35,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Tomaticán",
+  "blurb": "Guiso veraniego de tomate maduro, choclo y carne. Todo el sabor del verano chileno en una olla.",
+  "ing": [
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "carne de res en tiritas"
+   },
+   {
+    "n": "cebolla",
+    "note": "en pluma"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "tomates maduros",
+    "note": "pelados y picados"
+   },
+   {
+    "n": "granos de choclo"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Dora la carne en el aceite a fuego fuerte 4 minutos. Sácala.",
+   "Sofríe la cebolla y el ajo 6 minutos. Añade el pimentón.",
+   "Añade el tomate, el orégano y la sal y cocina 10 minutos.",
+   "Añade el choclo y la carne y cocina 8 minutos más.",
+   "Termina con la albahaca."
+  ],
+  "tips": [
+   "Usa tomates muy maduros: son la base del plato.",
+   "Sírvelo con arroz blanco."
+  ],
+  "video": "tomaticán chileno"
+ },
+ "en": {
+  "name": "Tomaticán (Chilean Tomato and Corn Stew)",
+  "blurb": "A summer stew of ripe tomatoes, sweetcorn and beef. Chilean summer in one pot.",
+  "ing": [
+   {
+    "n": "oil"
+   },
+   {
+    "n": "beef, cut in thin strips"
+   },
+   {
+    "n": "onion",
+    "note": "sliced"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "ripe tomatoes",
+    "note": "peeled and chopped"
+   },
+   {
+    "n": "sweetcorn kernels"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Brown the beef in the oil over high heat for 4 minutes. Remove.",
+   "Cook the onion and garlic for 6 minutes. Add the paprika.",
+   "Add the tomato, oregano and salt and cook 10 minutes.",
+   "Add the corn and beef and cook 8 minutes more.",
+   "Finish with the basil."
+  ],
+  "tips": [
+   "Use very ripe tomatoes: they are the whole dish.",
+   "Serve with white rice."
+  ],
+  "video": "chilean tomatican stew"
+ },
+ "added": "2026-09-30"
+}
