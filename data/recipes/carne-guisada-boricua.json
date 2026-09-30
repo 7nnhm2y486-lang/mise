@@ -1,0 +1,241 @@
+{
+ "id": "carne-guisada-boricua",
+ "country": "Puerto Rico",
+ "region": "caribbean",
+ "course": "main",
+ "time": 120,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "olives",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Carne guisada",
+  "blurb": "Carne de res guisada con papas, zanahoria y aceitunas en salsa de tomate. Comida de casa boricua.",
+  "ing": [
+   {
+    "n": "carne de res para guisar",
+    "note": "en cubos"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "ajíes dulces",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "recao (culantro)",
+    "note": "picado"
+   },
+   {
+    "n": "salsa de tomate natural"
+   },
+   {
+    "n": "achiote molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "papas",
+    "note": "en cubos"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en rodajas"
+   },
+   {
+    "n": "aceitunas"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sala la carne y dórala en el aceite 8 minutos.",
+   "Añade la cebolla, los pimientos, los ajíes, el ajo y el recao y cocina 6 minutos.",
+   "Añade el tomate, el achiote, el orégano y el agua. Tapa y cuece 60 minutos.",
+   "Añade las papas, la zanahoria y las aceitunas y cuece 30 minutos más."
+  ],
+  "tips": [
+   "Sírvela con arroz blanco.",
+   "Si espesa demasiado, añade agua caliente."
+  ],
+  "video": "carne guisada puertorriqueña"
+ },
+ "en": {
+  "name": "Carne Guisada (Puerto Rican Beef Stew)",
+  "blurb": "Beef stewed with potatoes, carrots and olives in tomato sauce. Puerto Rican home cooking.",
+  "ing": [
+   {
+    "n": "beef stewing meat",
+    "note": "cubed"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet ají peppers",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "culantro",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato passata"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "potatoes",
+    "note": "cubed"
+   },
+   {
+    "n": "carrots",
+    "note": "sliced"
+   },
+   {
+    "n": "olives"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Salt the beef and brown it in the oil for 8 minutes.",
+   "Add the onion, peppers, ají, garlic and culantro and cook 6 minutes.",
+   "Add the tomato, annatto, oregano and water. Cover and simmer 60 minutes.",
+   "Add the potatoes, carrots and olives and cook 30 minutes more."
+  ],
+  "tips": [
+   "Serve with white rice.",
+   "If it thickens too much, add hot water."
+  ],
+  "video": "puerto rican carne guisada"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,201 @@
+{
+ "id": "potaje-de-garbanzos",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "soup",
+ "time": 120,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Potaje de garbanzos",
+  "blurb": "Garbanzos guisados con chorizo, papa y calabaza. Plato de herencia española en la mesa cubana.",
+  "ing": [
+   {
+    "n": "garbanzos secos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "chorizo",
+    "note": "en rodajas"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ají pimiento",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "salsa de tomate natural"
+   },
+   {
+    "n": "papas",
+    "note": "en cubos"
+   },
+   {
+    "n": "calabaza",
+    "note": "en cubos"
+   },
+   {
+    "n": "pimentón"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja los garbanzos 12 horas. Cuécelos en el agua 80 minutos.",
+   "Fríe el chorizo en el aceite 3 minutos. Añade la cebolla, el ají y el ajo y cocina 6 minutos.",
+   "Añade el tomate y el pimentón y cocina 5 minutos.",
+   "Añade el sofrito, la papa, la calabaza y la sal a los garbanzos y cuece 25 minutos."
+  ],
+  "tips": [
+   "La calabaza se deshace y espesa el potaje.",
+   "Mejor al día siguiente."
+  ],
+  "video": "potaje de garbanzos cubano"
+ },
+ "en": {
+  "name": "Potaje de Garbanzos (Cuban Chickpea Stew)",
+  "blurb": "Chickpeas stewed with chorizo, potato and pumpkin. A dish of Spanish heritage on the Cuban table.",
+  "ing": [
+   {
+    "n": "dried chickpeas"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "chorizo",
+    "note": "sliced"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato passata"
+   },
+   {
+    "n": "potatoes",
+    "note": "cubed"
+   },
+   {
+    "n": "pumpkin",
+    "note": "cubed"
+   },
+   {
+    "n": "paprika"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the chickpeas 12 hours. Simmer them in the water for 80 minutes.",
+   "Fry the chorizo in the oil for 3 minutes. Add the onion, pepper and garlic and cook 6 minutes.",
+   "Add the tomato and paprika and cook 5 minutes.",
+   "Add this, the potato, pumpkin and salt to the chickpeas and simmer 25 minutes."
+  ],
+  "tips": [
+   "The pumpkin melts in and thickens the stew.",
+   "Better the next day."
+  ],
+  "video": "cuban chickpea stew"
+ },
+ "added": "2026-09-30"
+}

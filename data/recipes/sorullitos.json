@@ -1,0 +1,119 @@
+{
+ "id": "sorullitos",
+ "country": "Puerto Rico",
+ "region": "caribbean",
+ "course": "snack",
+ "time": 40,
+ "serves": 20,
+ "ing": [
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "cheese",
+   "role": "enrich"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Sorullitos de maíz",
+  "blurb": "Deditos fritos de harina de maíz con queso. Botana de los chinchorros de Puerto Rico.",
+  "ing": [
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "harina de maíz fina"
+   },
+   {
+    "n": "queso Edam o cheddar rallado"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Hierve el agua con la sal y el azúcar.",
+   "Añade la harina de maíz de golpe y remueve 3 minutos a fuego bajo, hasta que se despegue.",
+   "Añade el queso y mezcla. Deja entibiar.",
+   "Forma cilindros de 8 cm.",
+   "Fríe a 180 °C 3 minutos, hasta que estén dorados."
+  ],
+  "tips": [
+   "Forma los sorullitos con la masa tibia: fría se agrieta.",
+   "Sírvelos recién hechos."
+  ],
+  "video": "sorullitos de maíz con queso"
+ },
+ "en": {
+  "name": "Sorullitos (Puerto Rican Corn Fritters)",
+  "blurb": "Fried cornmeal fingers with cheese. A snack from Puerto Rico's roadside stands.",
+  "ing": [
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "fine cornmeal"
+   },
+   {
+    "n": "grated Edam or cheddar"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Bring the water to the boil with the salt and sugar.",
+   "Tip in the cornmeal and stir 3 minutes on low, until it pulls away.",
+   "Add the cheese and mix. Let it cool slightly.",
+   "Roll into 8 cm logs.",
+   "Fry at 180 °C for 3 minutes, until golden."
+  ],
+  "tips": [
+   "Shape them while the dough is warm: cold, it cracks.",
+   "Serve them fresh."
+  ],
+  "video": "puerto rican sorullitos"
+ },
+ "added": "2026-09-30"
+}

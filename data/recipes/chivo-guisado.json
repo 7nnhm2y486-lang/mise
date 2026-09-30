@@ -1,0 +1,201 @@
+{
+ "id": "chivo-guisado",
+ "country": "Dominican Republic",
+ "region": "caribbean",
+ "course": "main",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "goat",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "tomatopaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Chivo guisado",
+  "blurb": "Chivo marinado en naranja agria y orégano y guisado despacio. Especialidad de Montecristi, en la República Dominicana.",
+  "ing": [
+   {
+    "n": "chivo en trozos"
+   },
+   {
+    "n": "naranjas agrias o limones",
+    "note": "exprimidos"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "orégano dominicano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ají cubanela",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de tomate"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Marina el chivo con el jugo, el ajo, el orégano y la sal 4 horas.",
+   "Calienta el aceite con el azúcar hasta que se ponga oscuro. Dora el chivo escurrido 10 minutos.",
+   "Añade la cebolla, el ají y la pasta de tomate y cocina 5 minutos.",
+   "Añade la marinada y el agua, tapa y cuece 90 minutos a fuego bajo, hasta que esté tierno.",
+   "Termina con el cilantro."
+  ],
+  "tips": [
+   "Marinado toda la noche queda más suave.",
+   "Sírvelo con arroz blanco."
+  ],
+  "video": "chivo guisado dominicano"
+ },
+ "en": {
+  "name": "Chivo Guisado (Dominican Goat Stew)",
+  "blurb": "Goat marinated in sour orange and oregano and stewed slowly. A speciality of Montecristi, Dominican Republic.",
+  "ing": [
+   {
+    "n": "goat, in pieces"
+   },
+   {
+    "n": "sour oranges or limes",
+    "note": "juiced"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "cubanelle pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Marinate the goat with the juice, garlic, oregano and salt for 4 hours.",
+   "Heat the oil with the sugar until dark. Brown the drained goat for 10 minutes.",
+   "Add the onion, pepper and tomato paste and cook 5 minutes.",
+   "Add the marinade and water, cover and simmer 90 minutes on low, until tender.",
+   "Finish with the coriander."
+  ],
+  "tips": [
+   "Marinated overnight it's more tender.",
+   "Serve with white rice."
+  ],
+  "video": "dominican goat stew"
+ },
+ "added": "2026-09-30"
+}

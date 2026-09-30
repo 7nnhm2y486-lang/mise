@@ -1,0 +1,155 @@
+{
+ "id": "mallorcas",
+ "country": "Puerto Rico",
+ "region": "caribbean",
+ "course": "bread",
+ "time": 180,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 7,
+   "u": "g",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "glaze"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Mallorcas",
+  "blurb": "Panes dulces en espiral cubiertos de azúcar glas. El desayuno de las panaderías de San Juan.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "leche tibia"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "mantequilla blanda"
+   },
+   {
+    "n": "mantequilla derretida (para pintar)"
+   },
+   {
+    "n": "azúcar glas"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la levadura, el azúcar y la sal. Añade la leche y las yemas y amasa 5 minutos.",
+   "Añade la mantequilla blanda poco a poco y amasa 10 minutos, hasta que la masa esté lisa. Deja levar 90 minutos.",
+   "Divide en 12, estira cada porción en un cordón de 30 cm, pinta con mantequilla derretida y enrolla en espiral.",
+   "Deja levar 45 minutos y hornea a 180 °C 18 minutos.",
+   "Pinta con el resto de la mantequilla y cubre con el azúcar glas."
+  ],
+  "tips": [
+   "La masa es blanda y pegajosa: no añadas más harina de la necesaria.",
+   "Se comen tibias."
+  ],
+  "video": "mallorcas puertorriqueñas"
+ },
+ "en": {
+  "name": "Mallorcas (Puerto Rican Sweet Rolls)",
+  "blurb": "Spiral sweet rolls dusted with icing sugar. Breakfast at San Juan's bakeries.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "dried yeast"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "warm milk"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "soft butter"
+   },
+   {
+    "n": "melted butter (for brushing)"
+   },
+   {
+    "n": "icing sugar"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar and salt. Add the milk and yolks and knead 5 minutes.",
+   "Add the soft butter gradually and knead 10 minutes, until smooth. Rise 90 minutes.",
+   "Divide into 12, roll each into a 30 cm rope, brush with melted butter and coil into a spiral.",
+   "Rise 45 minutes and bake at 180 °C for 18 minutes.",
+   "Brush with the rest of the butter and cover with the icing sugar."
+  ],
+  "tips": [
+   "The dough is soft and sticky: don't add more flour than needed.",
+   "Eat them warm."
+  ],
+  "video": "puerto rican mallorcas"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,155 @@
+{
+ "id": "arepa-dominicana",
+ "country": "Dominican Republic",
+ "region": "caribbean",
+ "course": "sweet",
+ "time": 90,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Arepa dominicana",
+  "blurb": "No es la arepa venezolana: es un bizcocho húmedo de maíz con coco, pasas y canela. Merienda dominicana.",
+  "ing": [
+   {
+    "n": "harina de maíz"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "mantequilla derretida"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "canela molida"
+   },
+   {
+    "n": "esencia de vainilla"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina de maíz con la leche de coco y la leche y deja reposar 15 minutos.",
+   "Añade el azúcar, la mantequilla, las pasas, la canela, la vainilla y la sal.",
+   "Cuece a fuego medio 8 minutos, removiendo, hasta que espese.",
+   "Vierte en un molde de 22 cm engrasado.",
+   "Hornea a 180 °C 50 minutos, hasta que esté dorada."
+  ],
+  "tips": [
+   "Deja enfriar antes de cortar para que se asiente.",
+   "Tradicionalmente se hacía en caldero con brasas encima."
+  ],
+  "video": "arepa dominicana de maíz y coco"
+ },
+ "en": {
+  "name": "Arepa Dominicana (Dominican Coconut Cornmeal Cake)",
+  "blurb": "Not the Venezuelan arepa: a moist cornmeal cake with coconut, raisins and cinnamon. A Dominican afternoon treat.",
+  "ing": [
+   {
+    "n": "cornmeal"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "melted butter"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "ground cinnamon"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Mix the cornmeal with the coconut milk and milk and rest 15 minutes.",
+   "Add the sugar, butter, raisins, cinnamon, vanilla and salt.",
+   "Cook over medium heat for 8 minutes, stirring, until thick.",
+   "Pour into a greased 22 cm tin.",
+   "Bake at 180 °C for 50 minutes, until golden."
+  ],
+  "tips": [
+   "Let it cool before slicing so it sets.",
+   "It was traditionally made in a pot with embers on the lid."
+  ],
+  "video": "dominican arepa cake"
+ },
+ "added": "2026-09-30"
+}

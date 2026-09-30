@@ -1,0 +1,91 @@
+{
+ "id": "batido-de-mamey",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "drink",
+ "time": 5,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "ice",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Batido de mamey",
+  "blurb": "Batido espeso y anaranjado de mamey con leche. El batido favorito de las cafeterías cubanas.",
+  "ing": [
+   {
+    "n": "pulpa de mamey"
+   },
+   {
+    "n": "leche fría"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "hielo"
+   }
+  ],
+  "steps": [
+   "Pon el mamey, la leche, el azúcar y el hielo en la licuadora.",
+   "Licúa 1 minuto, hasta que quede espeso y liso.",
+   "Sirve de inmediato."
+  ],
+  "tips": [
+   "El mamey congelado funciona igual de bien.",
+   "Si queda muy espeso, añade un poco más de leche."
+  ],
+  "video": "batido de mamey cubano"
+ },
+ "en": {
+  "name": "Batido de Mamey (Mamey Milkshake)",
+  "blurb": "A thick, orange mamey and milk shake. The favourite shake of Cuban cafés.",
+  "ing": [
+   {
+    "n": "mamey pulp"
+   },
+   {
+    "n": "cold milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Put the mamey, milk, sugar and ice in the blender.",
+   "Blend 1 minute, until thick and smooth.",
+   "Serve at once."
+  ],
+  "tips": [
+   "Frozen mamey works just as well.",
+   "If too thick, add a little more milk."
+  ],
+  "video": "cuban mamey shake"
+ },
+ "added": "2026-09-30"
+}

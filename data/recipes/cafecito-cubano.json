@@ -1,0 +1,83 @@
+{
+ "id": "cafecito-cubano",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "drink",
+ "time": 10,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 25,
+   "u": "g",
+   "k": "coffee",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Cafecito cubano",
+  "blurb": "Café fuerte con una espumita de azúcar batida. El ritual de todas las horas en Cuba y Miami.",
+  "ing": [
+   {
+    "n": "café molido fino oscuro"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "azúcar"
+   }
+  ],
+  "steps": [
+   "Prepara el café en una cafetera italiana con el agua.",
+   "Cuando salgan las primeras gotas, viértelas sobre el azúcar en una taza.",
+   "Bate el azúcar con esas gotas 1 minuto, hasta que forme una crema clara.",
+   "Añade el resto del café y remueve: la espumita sube a la superficie.",
+   "Sirve en tacitas pequeñas."
+  ],
+  "tips": [
+   "Las primeras gotas son las más concentradas: son las que hacen la espuma.",
+   "Bate con fuerza: la espumita es la marca del buen cafecito."
+  ],
+  "video": "cafecito cubano con espumita"
+ },
+ "en": {
+  "name": "Cafecito (Cuban Coffee)",
+  "blurb": "Strong coffee topped with whipped sugar foam. An all-day ritual in Cuba and Miami.",
+  "ing": [
+   {
+    "n": "finely ground dark-roast coffee"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "sugar"
+   }
+  ],
+  "steps": [
+   "Brew the coffee in a stovetop espresso pot with the water.",
+   "When the first drops come out, pour them over the sugar in a cup.",
+   "Whisk the sugar with those drops for 1 minute, into a pale cream.",
+   "Add the rest of the coffee and stir: the foam rises to the top.",
+   "Serve in small cups."
+  ],
+  "tips": [
+   "The first drops are the strongest: they make the foam.",
+   "Whisk hard: the foam is the mark of a good cafecito."
+  ],
+  "video": "cuban cafecito"
+ },
+ "added": "2026-09-30"
+}

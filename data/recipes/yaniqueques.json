@@ -1,0 +1,117 @@
+{
+ "id": "yaniqueques",
+ "country": "Dominican Republic",
+ "region": "caribbean",
+ "course": "snack",
+ "time": 40,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Yaniqueques",
+  "blurb": "Discos finos de masa frita, crujientes y salados. Se venden en las playas de Boca Chica.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el polvo de hornear y la sal. Frota la mantequilla.",
+   "Añade el agua y amasa 5 minutos. Deja reposar 30 minutos.",
+   "Divide en 12 bolas y estíralas muy finas, de 15 cm. Haz un corte en el centro de cada una.",
+   "Fríe a 180 °C 1 minuto por lado, hasta que estén dorados y crujientes."
+  ],
+  "tips": [
+   "El corte en el centro evita que se inflen.",
+   "Espolvorea con sal gruesa al sacarlos."
+  ],
+  "video": "yaniqueques dominicanos"
+ },
+ "en": {
+  "name": "Yaniqueques (Dominican Johnny Cakes)",
+  "blurb": "Thin fried dough discs, crisp and salty. Sold on the beaches of Boca Chica.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Mix the flour, baking powder and salt. Rub in the butter.",
+   "Add the water and knead 5 minutes. Rest 30 minutes.",
+   "Divide into 12 balls and roll very thin, to 15 cm. Cut a slit in the centre of each.",
+   "Fry at 180 °C for 1 minute per side, until golden and crisp."
+  ],
+  "tips": [
+   "The slit stops them puffing up.",
+   "Sprinkle with coarse salt as they come out."
+  ],
+  "video": "dominican yaniqueques"
+ },
+ "added": "2026-09-30"
+}
