@@ -1,0 +1,177 @@
+{
+ "id": "pastelitos-hondurenos",
+ "country": "Honduras",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Pastelitos de carne hondureños",
+  "blurb": "Empanadas de masa de maíz teñida con achiote, rellenas de carne, papa y arroz y fritas. Antojo de feria en Honduras.",
+  "ing": [
+   {
+    "n": "masa de maíz"
+   },
+   {
+    "n": "achiote molido"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "papa",
+    "note": "en cubitos"
+   },
+   {
+    "n": "arroz",
+    "note": "cocido"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "chile dulce",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo y el chile en 2 cucharadas del aceite 5 minutos. Añade la carne, la papa y 1 cucharadita de sal y cocina 12 minutos. Mezcla con el arroz y enfría.",
+   "Amasa la masa con el achiote y el resto de la sal.",
+   "Aplana bolitas de masa entre plásticos, rellena, dobla y sella los bordes.",
+   "Fríe en el resto del aceite a 180 °C 3 minutos por lado, hasta que estén crujientes."
+  ],
+  "tips": [
+   "Se congelan crudos y se fríen sin descongelar.",
+   "Tapa la masa para que no se seque mientras armas."
+  ],
+  "video": "pastelitos catrachos"
+ },
+ "en": {
+  "name": "Honduran Pastelitos (Corn Meat Pasties)",
+  "blurb": "Annatto-tinted corn masa turnovers filled with beef, potato and rice and fried. A Honduran fair-day snack.",
+  "ing": [
+   {
+    "n": "corn masa dough"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "minced beef"
+   },
+   {
+    "n": "potato",
+    "note": "finely diced"
+   },
+   {
+    "n": "rice",
+    "note": "cooked"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic and pepper in 2 tablespoons of the oil for 5 minutes. Add the beef, potato and 1 teaspoon of salt and cook 12 minutes. Mix with the rice and cool.",
+   "Knead the masa with the annatto and the rest of the salt.",
+   "Flatten balls of masa between plastic sheets, fill, fold and seal the edges.",
+   "Fry in the remaining oil at 180 °C for 3 minutes a side, until crisp."
+  ],
+  "tips": [
+   "Freeze them raw and fry from frozen.",
+   "Keep the masa covered so it doesn't dry out while you shape."
+  ],
+  "video": "honduran pastelitos"
+ },
+ "added": "2026-09-30"
+}

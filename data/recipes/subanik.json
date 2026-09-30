@@ -1,0 +1,199 @@
+{
+ "id": "subanik",
+ "country": "Guatemala",
+ "region": "latin-america",
+ "course": "main",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "tomatillo",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 8,
+   "u": "leaf",
+   "k": "veg",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Subanik",
+  "blurb": "Tres carnes cocidas al vapor en un recado rojo de chiles y tomate, envueltas en hojas. Plato ceremonial kaqchikel de Chimaltenango.",
+  "ing": [
+   {
+    "n": "presas de pollo"
+   },
+   {
+    "n": "lomo de cerdo",
+    "note": "en trozos"
+   },
+   {
+    "n": "carne de res para guisar",
+    "note": "en trozos"
+   },
+   {
+    "n": "tomates"
+   },
+   {
+    "n": "miltomates"
+   },
+   {
+    "n": "chiles guaque (guajillo)",
+    "note": "sin semillas"
+   },
+   {
+    "n": "chiles pasa",
+    "note": "sin semillas"
+   },
+   {
+    "n": "chile pimiento rojo"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "hojas de plátano",
+    "note": "pasadas por la llama"
+   }
+  ],
+  "steps": [
+   "Asa los tomates, los miltomates, los chiles, el pimiento, la cebolla y el ajo en un comal 10 minutos. Lícualos con la sal y un poco de agua.",
+   "Mezcla las tres carnes con el recado.",
+   "Forra una olla con la mitad de las hojas, pon la carne con el recado y cubre con el resto de las hojas.",
+   "Tapa y cuece a fuego bajo 2 horas, hasta que la carne esté muy tierna."
+  ],
+  "tips": [
+   "Sírvelo con arroz blanco.",
+   "Revisa a mitad de cocción y añade un chorrito de agua si se seca."
+  ],
+  "video": "subanik chimalteco"
+ },
+ "en": {
+  "name": "Subanik (Guatemalan Three-Meat Stew)",
+  "blurb": "Three meats steamed in a red chilli and tomato sauce, wrapped in leaves. A ceremonial Kaqchikel dish from Chimaltenango.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "pork loin",
+    "note": "in chunks"
+   },
+   {
+    "n": "stewing beef",
+    "note": "in chunks"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "guajillo chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "pasilla chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "red pepper"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "banana leaves",
+    "note": "passed over a flame"
+   }
+  ],
+  "steps": [
+   "Char the tomatoes, tomatillos, chillies, pepper, onion and garlic on a griddle for 10 minutes. Blend with the salt and a little water.",
+   "Mix the three meats with the sauce.",
+   "Line a pot with half the leaves, add the meat and sauce and cover with the rest of the leaves.",
+   "Cover and cook on low heat for 2 hours, until very tender."
+  ],
+  "tips": [
+   "Serve with white rice.",
+   "Check halfway and add a splash of water if it dries out."
+  ],
+  "video": "guatemalan subanik"
+ },
+ "added": "2026-09-30"
+}

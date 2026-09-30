@@ -1,0 +1,193 @@
+{
+ "id": "revolcado",
+ "country": "Guatemala",
+ "region": "latin-america",
+ "course": "main",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "tomatillo",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "seeds",
+   "role": "thicken"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "sesameseed",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bread",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Revolcado",
+  "blurb": "Carne de cabeza de cerdo en un recado espeso de tomate, chiles y semillas tostadas. Plato de mercado guatemalteco.",
+  "ing": [
+   {
+    "n": "cachete y carne de cabeza de cerdo"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "tomates"
+   },
+   {
+    "n": "miltomates"
+   },
+   {
+    "n": "chiles guaque (guajillo)",
+    "note": "sin semillas"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "pepitoria (semilla de calabaza)"
+   },
+   {
+    "n": "ajonjolí"
+   },
+   {
+    "n": "pan francés",
+    "note": "tostado"
+   },
+   {
+    "n": "achiote"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece la carne en el agua con 1 cucharadita de sal 90 minutos. Córtala en trozos pequeños y guarda 500 ml del líquido.",
+   "Tuesta la pepitoria y el ajonjolí en un comal 3 minutos. Asa los tomates, los miltomates, los chiles, la cebolla y el ajo 10 minutos.",
+   "Licúa todo con el pan, el achiote, el resto de la sal y el líquido reservado.",
+   "Cuece el recado con la carne a fuego bajo 25 minutos, hasta que espese."
+  ],
+  "tips": [
+   "Queda mejor recalentado.",
+   "Si espesa demasiado, añade agua caliente."
+  ],
+  "video": "revolcado guatemalteco"
+ },
+ "en": {
+  "name": "Revolcado (Guatemalan Pork Head Stew)",
+  "blurb": "Pork head meat in a thick sauce of tomato, chillies and toasted seeds. A Guatemalan market dish.",
+  "ing": [
+   {
+    "n": "pork cheek and head meat"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "guajillo chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "pumpkin seeds"
+   },
+   {
+    "n": "sesame seeds"
+   },
+   {
+    "n": "crusty roll",
+    "note": "toasted"
+   },
+   {
+    "n": "annatto paste"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the meat in the water with 1 teaspoon of salt for 90 minutes. Cut into small pieces and keep 500 ml of the liquid.",
+   "Toast the pumpkin and sesame seeds on a griddle for 3 minutes. Char the tomatoes, tomatillos, chillies, onion and garlic for 10 minutes.",
+   "Blend everything with the bread, annatto, remaining salt and the reserved liquid.",
+   "Cook the sauce with the meat on low heat for 25 minutes, until thick."
+  ],
+  "tips": [
+   "It's even better reheated.",
+   "If it gets too thick, add hot water."
+  ],
+  "video": "guatemalan revolcado"
+ },
+ "added": "2026-09-30"
+}

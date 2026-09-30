@@ -1,0 +1,217 @@
+{
+ "id": "panes-con-chumpe",
+ "country": "El Salvador",
+ "region": "latin-america",
+ "course": "main",
+ "time": 180,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 2,
+   "u": "kg",
+   "k": "turkey",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "seeds",
+   "role": "thicken"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "sesameseed",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 10,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Panes con chumpe",
+  "blurb": "Panes rellenos de pavo deshebrado en una salsa de tomate, chiles y semillas tostadas. Clásico salvadoreño de Navidad.",
+  "ing": [
+   {
+    "n": "pierna y muslo de chumpe (pavo)"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "tomates"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "chile verde"
+   },
+   {
+    "n": "chiles pasa",
+    "note": "sin semillas"
+   },
+   {
+    "n": "semilla de pepitoria (calabaza)"
+   },
+   {
+    "n": "ajonjolí"
+   },
+   {
+    "n": "achiote"
+   },
+   {
+    "n": "pimienta gorda y clavo molidos"
+   },
+   {
+    "n": "panes franceses"
+   },
+   {
+    "n": "lechuga, pepino y rábano",
+    "note": "en rodajas"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece el pavo en el agua con 2 cucharaditas de sal 2 horas. Deshébralo y guarda 600 ml del líquido.",
+   "Tuesta la pepitoria y el ajonjolí 3 minutos. Asa los tomates, la cebolla, el ajo, el chile verde y los chiles pasa 10 minutos.",
+   "Licúa todo con el achiote, las especias, el resto de la sal y el líquido reservado. Cuece la salsa 20 minutos.",
+   "Abre los panes, rellénalos con el pavo, báñalos con la salsa y añade las verduras."
+  ],
+  "tips": [
+   "La salsa también sirve para mojar el pan.",
+   "El pavo se puede cocer un día antes."
+  ],
+  "video": "panes con pavo salvadoreños"
+ },
+ "en": {
+  "name": "Panes con Chumpe (Salvadoran Turkey Sandwiches)",
+  "blurb": "Rolls filled with shredded turkey in a tomato, chilli and toasted seed sauce. A Salvadoran Christmas classic.",
+  "ing": [
+   {
+    "n": "turkey leg and thigh"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "green pepper"
+   },
+   {
+    "n": "pasilla chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "pumpkin seeds"
+   },
+   {
+    "n": "sesame seeds"
+   },
+   {
+    "n": "annatto paste"
+   },
+   {
+    "n": "ground allspice and clove"
+   },
+   {
+    "n": "crusty rolls"
+   },
+   {
+    "n": "lettuce, cucumber and radish",
+    "note": "sliced"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the turkey in the water with 2 teaspoons of salt for 2 hours. Shred and keep 600 ml of the liquid.",
+   "Toast the pumpkin and sesame seeds for 3 minutes. Char the tomatoes, onion, garlic, green pepper and chillies for 10 minutes.",
+   "Blend everything with the annatto, spices, remaining salt and the reserved liquid. Simmer the sauce for 20 minutes.",
+   "Split the rolls, fill with turkey, spoon over sauce and add the vegetables."
+  ],
+  "tips": [
+   "The sauce is also for dipping the bread.",
+   "The turkey can be cooked a day ahead."
+  ],
+  "video": "salvadoran turkey sandwiches"
+ },
+ "added": "2026-09-30"
+}

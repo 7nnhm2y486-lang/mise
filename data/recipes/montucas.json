@@ -1,0 +1,133 @@
+{
+ "id": "montucas",
+ "country": "Honduras",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 90,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 8,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 20,
+   "u": "",
+   "k": "cornhusk",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Montucas dulces",
+  "blurb": "Tamalitos de elote tierno molido con mantequilla y queso, envueltos en su propia tusa. Se comen en temporada de elotes.",
+  "ing": [
+   {
+    "n": "elotes tiernos",
+    "note": "desgranados, con sus tusas"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "mantequilla",
+    "note": "derretida"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "queso seco rallado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "tusas frescas"
+   }
+  ],
+  "steps": [
+   "Muele los granos de elote con la leche hasta obtener una pasta gruesa.",
+   "Mezcla con el azúcar, la mantequilla, el queso y la sal.",
+   "Pon 2 cucharadas en cada tusa, dobla y amarra con una tira de tusa.",
+   "Cuece al vapor, de pie, 50 minutos, hasta que estén firmes."
+  ],
+  "tips": [
+   "Usa elotes tiernos y lechosos: los duros dan una masa seca.",
+   "Se recalientan al vapor o en el comal."
+  ],
+  "video": "montucas de elote"
+ },
+ "en": {
+  "name": "Montucas (Honduran Fresh Corn Tamales)",
+  "blurb": "Little tamales of ground fresh corn with butter and cheese, wrapped in their own husks. A corn-season treat.",
+  "ing": [
+   {
+    "n": "fresh corn cobs",
+    "note": "kernels cut off, husks kept"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "butter",
+    "note": "melted"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "grated dry cheese"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "fresh corn husks"
+   }
+  ],
+  "steps": [
+   "Grind the corn kernels with the milk to a coarse paste.",
+   "Mix with the sugar, butter, cheese and salt.",
+   "Put 2 tablespoons in each husk, fold and tie with a strip of husk.",
+   "Steam them upright for 50 minutes, until firm."
+  ],
+  "tips": [
+   "Use young, milky corn: starchy cobs give a dry dough.",
+   "Reheat them by steaming or on a griddle."
+  ],
+  "video": "honduran montucas"
+ },
+ "added": "2026-09-30"
+}

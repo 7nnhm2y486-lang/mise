@@ -1,0 +1,227 @@
+{
+ "id": "tamal-de-olla",
+ "country": "Panama",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "olives",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "capers",
+   "role": "garnish"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Tamal de olla",
+  "blurb": "Masa de maíz cocida con guiso de pollo, aceitunas y pasas, servida como pastel en fuente. Plato de Navidad panameño.",
+  "ing": [
+   {
+    "n": "masa de maíz"
+   },
+   {
+    "n": "pollo",
+    "note": "en presas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "achiote molido"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ají dulce o pimentón",
+    "note": "picado"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "aceitunas",
+    "note": "en rodajas"
+   },
+   {
+    "n": "alcaparras"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "culantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo en el agua con 1 cucharadita de sal 35 minutos. Deshébralo y guarda el líquido.",
+   "Sofríe la cebolla, el ajo y el pimiento con el achiote en 2 cucharadas de aceite 6 minutos. Añade el tomate, el pollo, las aceitunas, las alcaparras, las pasas y el culantro y cuece 10 minutos.",
+   "Calienta el horno a 180 °C. Disuelve la masa en 1 litro del líquido con el resto del aceite y de la sal y cocínala removiendo 15 minutos, hasta que espese.",
+   "Mezcla la mitad de la masa con el guiso, pásalo a una fuente engrasada, cubre con el resto de la masa y hornea 30 minutos."
+  ],
+  "tips": [
+   "Déjalo reposar 15 minutos para que se corte limpio.",
+   "Se prepara un día antes y se recalienta en el horno."
+  ],
+  "video": "tamal de olla panameño"
+ },
+ "en": {
+  "name": "Tamal de Olla (Panamanian Tamale Pie)",
+  "blurb": "Corn masa cooked with a chicken stew, olives and raisins and baked in a dish. A Panamanian Christmas dish.",
+  "ing": [
+   {
+    "n": "corn masa dough"
+   },
+   {
+    "n": "chicken",
+    "note": "in pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "olives",
+    "note": "sliced"
+   },
+   {
+    "n": "capers"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "culantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken in the water with 1 teaspoon of salt for 35 minutes. Shred and keep the liquid.",
+   "Cook the onion, garlic and pepper with the annatto in 2 tablespoons of oil for 6 minutes. Add the tomato, chicken, olives, capers, raisins and culantro and simmer 10 minutes.",
+   "Heat the oven to 180 °C. Whisk the masa into 1 litre of the liquid with the remaining oil and salt and cook, stirring, 15 minutes until thick.",
+   "Mix half the masa with the stew, spread in an oiled dish, cover with the remaining masa and bake 30 minutes."
+  ],
+  "tips": [
+   "Rest it 15 minutes so it slices cleanly.",
+   "Make it a day ahead and reheat in the oven."
+  ],
+  "video": "panamanian tamal de olla"
+ },
+ "added": "2026-09-30"
+}

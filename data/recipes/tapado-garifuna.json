@@ -1,0 +1,217 @@
+{
+ "id": "tapado-garifuna",
+ "country": "Guatemala",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 800,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 800,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Tapado garífuna",
+  "blurb": "Sopa de pescado y camarón en leche de coco con plátano y yuca. El plato emblema de Livingston y la costa caribe.",
+  "ing": [
+   {
+    "n": "pescado entero en postas"
+   },
+   {
+    "n": "camarones",
+    "note": "con cáscara"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "plátanos verdes",
+    "note": "en trozos"
+   },
+   {
+    "n": "plátano maduro",
+    "note": "en trozos"
+   },
+   {
+    "n": "yuca",
+    "note": "en trozos"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "chile pimiento",
+    "note": "picado"
+   },
+   {
+    "n": "achiote molido"
+   },
+   {
+    "n": "culantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece la yuca y los plátanos verdes en la leche de coco y el agua con la cebolla, el ajo, el pimiento, el achiote y la sal 20 minutos.",
+   "Añade el plátano maduro y el pescado y cuece 10 minutos.",
+   "Añade los camarones y cocina 4 minutos más, hasta que estén rosados.",
+   "Termina con el culantro."
+  ],
+  "tips": [
+   "No revuelvas fuerte después de añadir el pescado para que no se deshaga.",
+   "La leche de coco recién rallada le da más sabor."
+  ],
+  "video": "tapado de livingston"
+ },
+ "en": {
+  "name": "Tapado Garífuna (Coconut Seafood Soup)",
+  "blurb": "Fish and prawn soup in coconut milk with plantain and cassava. The emblem dish of Livingston and the Caribbean coast.",
+  "ing": [
+   {
+    "n": "whole fish in steaks"
+   },
+   {
+    "n": "prawns",
+    "note": "shell-on"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "green plantains",
+    "note": "in chunks"
+   },
+   {
+    "n": "ripe plantain",
+    "note": "in chunks"
+   },
+   {
+    "n": "cassava",
+    "note": "in chunks"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "green pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "culantro",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the cassava and green plantains in the coconut milk and water with the onion, garlic, pepper, annatto and salt for 20 minutes.",
+   "Add the ripe plantain and the fish and cook 10 minutes.",
+   "Add the prawns and cook 4 minutes more, until pink.",
+   "Finish with the culantro."
+  ],
+  "tips": [
+   "Don't stir hard once the fish is in, so it stays whole.",
+   "Freshly grated coconut milk gives more flavour."
+  ],
+  "video": "garifuna tapado"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,201 @@
+{
+ "id": "rondon",
+ "country": "Nicaragua",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 800,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Rondón",
+  "blurb": "Guiso de pescado en leche de coco con yuca, plátano y quequisque. Plato de Bluefields y la costa caribe nicaragüense.",
+  "ing": [
+   {
+    "n": "pescado firme en postas"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "yuca",
+    "note": "en trozos"
+   },
+   {
+    "n": "plátanos verdes",
+    "note": "en trozos"
+   },
+   {
+    "n": "quequisque (malanga)",
+    "note": "en trozos"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "chile dulce",
+    "note": "picado"
+   },
+   {
+    "n": "chile panameño (habanero)",
+    "note": "entero"
+   },
+   {
+    "n": "tomillo"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece la yuca, el quequisque y los plátanos en la leche de coco y el agua con la cebolla, el ajo, el chile dulce, el chile entero, el tomillo y la sal 25 minutos.",
+   "Coloca el pescado encima, tapa y cuece 12 minutos a fuego bajo.",
+   "Retira el chile entero antes de servir."
+  ],
+  "tips": [
+   "Si pinchas el chile, el guiso picará mucho más.",
+   "El nombre viene de run down, del inglés criollo de la costa."
+  ],
+  "video": "rondón costeño"
+ },
+ "en": {
+  "name": "Rondón (Nicaraguan Coconut Fish Rundown)",
+  "blurb": "Fish stewed in coconut milk with cassava, plantain and taro. A dish from Bluefields and Nicaragua's Caribbean coast.",
+  "ing": [
+   {
+    "n": "firm fish steaks"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cassava",
+    "note": "in chunks"
+   },
+   {
+    "n": "green plantains",
+    "note": "in chunks"
+   },
+   {
+    "n": "taro",
+    "note": "in chunks"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "scotch bonnet chilli",
+    "note": "whole"
+   },
+   {
+    "n": "thyme"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the cassava, taro and plantains in the coconut milk and water with the onion, garlic, sweet pepper, whole chilli, thyme and salt for 25 minutes.",
+   "Lay the fish on top, cover and cook 12 minutes on low heat.",
+   "Remove the whole chilli before serving."
+  ],
+  "tips": [
+   "Pierce the chilli and the stew will be much hotter.",
+   "The name comes from 'run down' in the coast's Creole English."
+  ],
+  "video": "nicaraguan rondon"
+ },
+ "added": "2026-09-30"
+}

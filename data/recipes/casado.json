@@ -1,0 +1,215 @@
+{
+ "id": "casado",
+ "country": "Costa Rica",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 5,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Casado",
+  "blurb": "Plato del día costarricense: arroz, frijoles, bistec encebollado, plátano maduro, huevo y ensalada en un solo plato.",
+  "ing": [
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "frijoles negros",
+    "note": "cocidos con su líquido"
+   },
+   {
+    "n": "bistecs de res"
+   },
+   {
+    "n": "cebollas",
+    "note": "en aros"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "plátanos maduros",
+    "note": "en tajadas"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "repollo",
+    "note": "en tiras finas"
+   },
+   {
+    "n": "tomate",
+    "note": "en cubos"
+   },
+   {
+    "n": "limón"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe el arroz con el ajo en 1 cucharada de aceite 2 minutos, añade el agua y 1 cucharadita de sal y cuece tapado 18 minutos.",
+   "Calienta los frijoles con media cucharadita de sal.",
+   "Sala los bistecs y dóralos en 1 cucharada de aceite 3 minutos por lado. Retíralos y cocina la cebolla en la misma sartén 8 minutos. Pon la cebolla sobre la carne.",
+   "Fríe el plátano en 2 cucharadas de aceite hasta dorar y los huevos en el resto.",
+   "Mezcla el repollo, el tomate, el jugo de limón y el resto de la sal y sirve todo junto."
+  ],
+  "tips": [
+   "El nombre viene de lo que comían los hombres casados en casa al mediodía.",
+   "Prepara los frijoles un día antes para ganar tiempo."
+  ],
+  "video": "casado tico"
+ },
+ "en": {
+  "name": "Casado (Costa Rican Plate Lunch)",
+  "blurb": "Costa Rica's everyday lunch: rice, beans, steak and onions, ripe plantain, egg and salad on one plate.",
+  "ing": [
+   {
+    "n": "rice"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "black beans",
+    "note": "cooked, with their liquid"
+   },
+   {
+    "n": "beef steaks"
+   },
+   {
+    "n": "onions",
+    "note": "in rings"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ripe plantains",
+    "note": "sliced"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "cabbage",
+    "note": "finely shredded"
+   },
+   {
+    "n": "tomato",
+    "note": "diced"
+   },
+   {
+    "n": "lime"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Fry the rice with the garlic in 1 tablespoon of oil for 2 minutes, add the water and 1 teaspoon of salt and cook covered 18 minutes.",
+   "Warm the beans with half a teaspoon of salt.",
+   "Salt the steaks and brown in 1 tablespoon of oil, 3 minutes a side. Remove and cook the onion in the same pan for 8 minutes. Pile it on the steak.",
+   "Fry the plantain in 2 tablespoons of oil until golden and the eggs in the rest.",
+   "Toss the cabbage, tomato, lime juice and remaining salt and serve everything together."
+  ],
+  "tips": [
+   "The name means 'married': what married men ate at home at midday.",
+   "Cook the beans a day ahead to save time."
+  ],
+  "video": "costa rican casado"
+ },
+ "added": "2026-09-30"
+}
