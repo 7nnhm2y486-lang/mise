@@ -8560,6 +8560,51 @@
     "es": "La salsa Lizano lleva azúcar, cebolla, mostaza y especias.",
     "en": "Salsa Lizano contains sugar, onion, mustard and spices."
    }
+  },
+  "creamofcoconut": {
+   "a": [
+    "coconut",
+    "sugar"
+   ],
+   "label": {
+    "es": "La crema de coco para cócteles es crema de coco con mucho azúcar.",
+    "en": "Cream of coconut for cocktails is coconut cream with a lot of sugar."
+   },
+   "s": {
+    "coconut": [
+     {
+      "f": 1,
+      "carries": [
+       "milk",
+       "sugar"
+      ],
+      "es": {
+       "to": "leche condensada",
+       "note": "Más espesa y con sabor lácteo en lugar de coco."
+      },
+      "en": {
+       "to": "condensed milk",
+       "note": "Thicker, with a dairy flavour instead of coconut."
+      }
+     }
+    ],
+    "sugar": [
+     {
+      "f": 1,
+      "carries": [
+       "coconut"
+      ],
+      "es": {
+       "to": "crema de coco sin azúcar",
+       "note": "Queda mucho menos dulce."
+      },
+      "en": {
+       "to": "unsweetened coconut cream",
+       "note": "Much less sweet."
+      }
+     }
+    ]
+   }
   }
  },
  "roles": {

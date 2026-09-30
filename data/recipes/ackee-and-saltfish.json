@@ -1,0 +1,195 @@
+{
+ "id": "ackee-and-saltfish",
+ "country": "Jamaica",
+ "region": "caribbean",
+ "course": "breakfast",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 540,
+   "u": "g",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "pepper",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Ackee and saltfish",
+  "blurb": "El plato nacional de Jamaica: fruta de ackee salteada con bacalao, cebolla, tomate y scotch bonnet.",
+  "ing": [
+   {
+    "n": "bacalao salado",
+    "note": "desalado 12 horas"
+   },
+   {
+    "n": "ackee en lata",
+    "note": "escurrido"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "en pluma"
+   },
+   {
+    "n": "cebolletas",
+    "note": "picadas"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pimiento",
+    "note": "en tiras"
+   },
+   {
+    "n": "tomate",
+    "note": "picado"
+   },
+   {
+    "n": "chile scotch bonnet",
+    "note": "picado"
+   },
+   {
+    "n": "tomillo"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Cuece el bacalao desalado en agua 10 minutos. Escurre y desmenuza, quitando piel y espinas.",
+   "Sofríe la cebolla, las cebolletas, el ajo, el pimiento, el chile y el tomillo en el aceite 5 minutos.",
+   "Añade el tomate y el bacalao y cuece 3 minutos.",
+   "Añade el ackee con cuidado y mezcla suavemente para no deshacerlo. Calienta 3 minutos.",
+   "Espolvorea la pimienta y sirve."
+  ],
+  "tips": [
+   "Usa ackee en lata: el ackee fresco sin madurar del todo es tóxico.",
+   "No añadas sal: el bacalao ya la aporta."
+  ],
+  "video": "ackee and saltfish recipe"
+ },
+ "en": {
+  "name": "Ackee and Saltfish",
+  "blurb": "Jamaica's national dish: ackee fruit sautéed with salt cod, onion, tomato and scotch bonnet.",
+  "ing": [
+   {
+    "n": "salt cod",
+    "note": "desalted 12 hours"
+   },
+   {
+    "n": "canned ackee",
+    "note": "drained"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "sliced"
+   },
+   {
+    "n": "scallions",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "bell pepper",
+    "note": "in strips"
+   },
+   {
+    "n": "tomato",
+    "note": "chopped"
+   },
+   {
+    "n": "scotch bonnet chilli",
+    "note": "chopped"
+   },
+   {
+    "n": "thyme"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Simmer the desalted cod in water for 10 minutes. Drain and flake, removing skin and bones.",
+   "Cook the onion, scallions, garlic, pepper, chilli and thyme in the oil for 5 minutes.",
+   "Add the tomato and cod and cook 3 minutes.",
+   "Add the ackee carefully and fold gently so it doesn't break. Heat 3 minutes.",
+   "Sprinkle with the pepper and serve."
+  ],
+  "tips": [
+   "Use canned ackee: fresh ackee that isn't fully ripe is toxic.",
+   "Don't add salt: the cod brings it."
+  ],
+  "video": "ackee and saltfish recipe"
+ },
+ "added": "2026-09-30"
+}

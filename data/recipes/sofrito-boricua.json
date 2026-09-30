@@ -1,0 +1,137 @@
+{
+ "id": "sofrito-boricua",
+ "country": "Puerto Rico",
+ "region": "caribbean",
+ "course": "sauce",
+ "time": 15,
+ "serves": 16,
+ "ing": [
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 10,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Sofrito boricua",
+  "blurb": "La base verde de la cocina puertorriqueña: ajíes dulces, recao, cilantro, cebolla y ajo molidos.",
+  "ing": [
+   {
+    "n": "cebollas",
+    "note": "en trozos"
+   },
+   {
+    "n": "pimiento verde cubanela",
+    "note": "en trozos"
+   },
+   {
+    "n": "ajíes dulces"
+   },
+   {
+    "n": "cabeza de ajo",
+    "note": "pelada"
+   },
+   {
+    "n": "recao (culantro)"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "aceite de oliva"
+   }
+  ],
+  "steps": [
+   "Lava y seca bien las hierbas.",
+   "Pon la cebolla, los pimientos y el ajo en el procesador y tritura 30 segundos.",
+   "Añade el recao, el cilantro y el aceite y tritura hasta tener una pasta gruesa.",
+   "Pasa a frascos limpios.",
+   "Guarda en la nevera hasta 1 semana o congela en cubiteras."
+  ],
+  "tips": [
+   "Congelado en cubitos, cada cubo equivale a 2 cucharadas para un guiso.",
+   "El recao es más intenso que el cilantro; si no lo encuentras, usa doble de cilantro."
+  ],
+  "video": "sofrito puertorriqueño receta"
+ },
+ "en": {
+  "name": "Puerto Rican Sofrito",
+  "blurb": "The green base of Puerto Rican cooking: sweet peppers, recao, cilantro, onion and garlic, ground together.",
+  "ing": [
+   {
+    "n": "onions",
+    "note": "in chunks"
+   },
+   {
+    "n": "cubanelle pepper",
+    "note": "in chunks"
+   },
+   {
+    "n": "ajíes dulces (sweet peppers)"
+   },
+   {
+    "n": "head of garlic",
+    "note": "peeled"
+   },
+   {
+    "n": "culantro (recao)"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "olive oil"
+   }
+  ],
+  "steps": [
+   "Wash and dry the herbs well.",
+   "Put the onion, peppers and garlic in a food processor and blitz 30 seconds.",
+   "Add the recao, cilantro and oil and blitz to a coarse paste.",
+   "Transfer to clean jars.",
+   "Keep in the fridge up to 1 week or freeze in ice-cube trays."
+  ],
+  "tips": [
+   "Frozen in cubes, each cube is 2 tablespoons for a stew.",
+   "Recao is stronger than cilantro; if you can't find it, use double the cilantro."
+  ],
+  "video": "puerto rican sofrito recipe"
+ },
+ "added": "2026-09-30"
+}

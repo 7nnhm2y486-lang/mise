@@ -1,0 +1,143 @@
+{
+ "id": "coquito",
+ "country": "Puerto Rico",
+ "region": "caribbean",
+ "course": "drink",
+ "time": 15,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "creamofcoconut",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 395,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 350,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "spirit",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Coquito",
+  "blurb": "Bebida navideña de coco, leches y ron con canela. El ponche de Navidad de Puerto Rico, bien frío.",
+  "ing": [
+   {
+    "n": "crema de coco endulzada (tipo Coco López)"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "ron blanco"
+   },
+   {
+    "n": "canela molida"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "ramas de canela"
+   }
+  ],
+  "steps": [
+   "Licúa la crema de coco, la leche de coco, la leche condensada y la leche evaporada 1 minuto.",
+   "Añade el ron, la canela y la nuez moscada y licúa 30 segundos.",
+   "Pasa a botellas con una rama de canela en cada una.",
+   "Refrigera al menos 4 horas.",
+   "Agita antes de servir en vasitos pequeños."
+  ],
+  "tips": [
+   "Sin ron queda un coquito para toda la familia.",
+   "Se guarda 2 semanas en la nevera."
+  ],
+  "video": "coquito receta puertorriqueña"
+ },
+ "en": {
+  "name": "Coquito (Puerto Rican Coconut Eggnog)",
+  "blurb": "A Christmas drink of coconut, milks and rum with cinnamon. Puerto Rico's holiday punch, served cold.",
+  "ing": [
+   {
+    "n": "sweetened coconut cream (Coco López style)"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "condensed milk"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "white rum"
+   },
+   {
+    "n": "ground cinnamon"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "cinnamon sticks"
+   }
+  ],
+  "steps": [
+   "Blend the sweetened coconut cream, coconut milk, condensed milk and evaporated milk for 1 minute.",
+   "Add the rum, cinnamon and nutmeg and blend 30 seconds.",
+   "Pour into bottles with a cinnamon stick in each.",
+   "Refrigerate at least 4 hours.",
+   "Shake before serving in small glasses."
+  ],
+  "tips": [
+   "Without rum it's a coquito for the whole family.",
+   "Keeps 2 weeks in the fridge."
+  ],
+  "video": "coquito recipe"
+ },
+ "added": "2026-09-30"
+}

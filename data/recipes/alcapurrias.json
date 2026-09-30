@@ -1,0 +1,203 @@
+{
+ "id": "alcapurrias",
+ "country": "Puerto Rico",
+ "region": "caribbean",
+ "course": "snack",
+ "time": 90,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "olives",
+   "role": "umami"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Alcapurrias",
+  "blurb": "Frituras de masa de yautía y guineo verde rellenas de carne guisada. De los kioscos de Piñones.",
+  "ing": [
+   {
+    "n": "yautía (malanga)",
+    "note": "pelada y rallada fina"
+   },
+   {
+    "n": "guineos verdes (bananas verdes)",
+    "note": "pelados y rallados finos"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "achiote en polvo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "aceitunas verdes",
+    "note": "picadas"
+   },
+   {
+    "n": "salsa de tomate natural"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el pimiento y el ajo en 1 cucharada de aceite 5 minutos. Añade la carne, la salsa de tomate, las aceitunas y 1 cucharadita de sal y cuece 15 minutos. Enfría.",
+   "Mezcla la yautía y el guineo rallados con el resto del aceite, el achiote y el resto de la sal. Refrigera 30 minutos.",
+   "Extiende 3 cucharadas de masa sobre un papel encerado mojado, pon relleno en el centro y dobla para cubrirlo.",
+   "Dale forma alargada y deslízala al aceite caliente.",
+   "Fríe a 175 °C durante 6 minutos, hasta que estén doradas."
+  ],
+  "tips": [
+   "Refrigerar la masa la hace más fácil de manejar.",
+   "Usa guantes al rallar el guineo verde: su savia mancha."
+  ],
+  "video": "alcapurrias puertorriqueñas receta"
+ },
+ "en": {
+  "name": "Alcapurrias (Taro and Green Banana Fritters)",
+  "blurb": "Fritters of taro and green banana dough filled with stewed beef. From the beach kiosks of Piñones.",
+  "ing": [
+   {
+    "n": "yautía (taro root)",
+    "note": "peeled and finely grated"
+   },
+   {
+    "n": "green bananas",
+    "note": "peeled and finely grated"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "green olives",
+    "note": "chopped"
+   },
+   {
+    "n": "plain tomato sauce"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Cook the onion, pepper and garlic in 1 tablespoon of oil for 5 minutes. Add the beef, tomato sauce, olives and 1 teaspoon of salt and cook 15 minutes. Cool.",
+   "Mix the grated taro and banana with the rest of the oil, the annatto and the rest of the salt. Chill 30 minutes.",
+   "Spread 3 tablespoons of dough on wet waxed paper, put filling in the centre and fold to cover.",
+   "Shape into a log and slide into the hot oil.",
+   "Fry at 175 °C for 6 minutes, until golden."
+  ],
+  "tips": [
+   "Chilling the dough makes it easier to handle.",
+   "Wear gloves to grate green banana: its sap stains."
+  ],
+  "video": "alcapurrias recipe"
+ },
+ "added": "2026-09-30"
+}

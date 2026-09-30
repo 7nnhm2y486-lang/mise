@@ -1,0 +1,192 @@
+{
+ "id": "pastelon",
+ "country": "Puerto Rico",
+ "region": "caribbean",
+ "course": "main",
+ "time": 75,
+ "serves": 8,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 5,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "olives",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "cheese",
+   "role": "glaze"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  }
+ ],
+ "es": {
+  "name": "Pastelón de amarillos",
+  "blurb": "Lasaña boricua de plátano maduro frito con carne guisada y queso. Dulce y salada.",
+  "ing": [
+   {
+    "n": "plátanos maduros",
+    "note": "en tiras a lo largo"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "salsa de tomate natural"
+   },
+   {
+    "n": "aceitunas verdes",
+    "note": "picadas"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "queso mozzarella o cheddar",
+    "note": "rallado"
+   },
+   {
+    "n": "huevos batidos"
+   }
+  ],
+  "steps": [
+   "Fríe las tiras de plátano a 170 °C durante 4 minutos, hasta que estén doradas. Escurre.",
+   "Sofríe la cebolla, el pimiento y el ajo 5 minutos. Añade la carne, la salsa de tomate, las aceitunas y la sal y cuece 15 minutos.",
+   "Engrasa un molde de 22 x 30 cm y vierte la mitad del huevo. Pon una capa de plátano, la carne y la mitad del queso.",
+   "Cubre con otra capa de plátano, el resto del huevo y el resto del queso.",
+   "Hornea a 180 °C durante 30 minutos, hasta que esté dorado. Reposa 10 minutos antes de cortar."
+  ],
+  "tips": [
+   "Usa plátanos muy maduros, con la cáscara negra.",
+   "El huevo une las capas para cortar porciones limpias."
+  ],
+  "video": "pastelón de amarillos receta"
+ },
+ "en": {
+  "name": "Pastelón (Puerto Rican Plantain Lasagna)",
+  "blurb": "A Puerto Rican lasagna of fried ripe plantain with stewed beef and cheese. Sweet and savoury.",
+  "ing": [
+   {
+    "n": "ripe plantains",
+    "note": "in lengthwise strips"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "plain tomato sauce"
+   },
+   {
+    "n": "green olives",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "mozzarella or cheddar",
+    "note": "grated"
+   },
+   {
+    "n": "beaten eggs"
+   }
+  ],
+  "steps": [
+   "Fry the plantain strips at 170 °C for 4 minutes, until golden. Drain.",
+   "Cook the onion, pepper and garlic 5 minutes. Add the beef, tomato sauce, olives and salt and cook 15 minutes.",
+   "Grease a 22 x 30 cm dish and pour in half the egg. Layer plantain, the beef and half the cheese.",
+   "Top with another layer of plantain, the rest of the egg and the rest of the cheese.",
+   "Bake at 180 °C for 30 minutes, until golden. Rest 10 minutes before cutting."
+  ],
+  "tips": [
+   "Use very ripe plantains, with black skins.",
+   "The egg binds the layers so you can cut clean portions."
+  ],
+  "video": "pastelon recipe"
+ },
+ "added": "2026-09-30"
+}

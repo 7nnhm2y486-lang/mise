@@ -1,0 +1,181 @@
+{
+ "id": "pikliz",
+ "country": "Haiti",
+ "region": "caribbean",
+ "course": "sauce",
+ "time": 20,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "pepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "whitevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Pikliz",
+  "blurb": "Encurtido picante de repollo, zanahoria y chile scotch bonnet en vinagre. Acompaña el griot y todo lo frito en Haití.",
+  "ing": [
+   {
+    "n": "repollo",
+    "note": "en tiras finas"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en tiras finas"
+   },
+   {
+    "n": "cebolla",
+    "note": "en pluma fina"
+   },
+   {
+    "n": "pimiento",
+    "note": "en tiras finas"
+   },
+   {
+    "n": "chiles scotch bonnet",
+    "note": "en rodajas"
+   },
+   {
+    "n": "ajo",
+    "note": "en láminas"
+   },
+   {
+    "n": "granos de pimienta negra"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "lima",
+    "note": "en jugo"
+   }
+  ],
+  "steps": [
+   "Mezcla el repollo, la zanahoria, la cebolla, el pimiento, los chiles y el ajo.",
+   "Pásalos a un frasco grande, apretando.",
+   "Añade la pimienta y la sal.",
+   "Cubre con el vinagre y el jugo de lima.",
+   "Tapa y deja reposar al menos 24 horas en la nevera."
+  ],
+  "tips": [
+   "Usa guantes para cortar los scotch bonnet.",
+   "Dura semanas en la nevera y cada día pica más."
+  ],
+  "video": "pikliz haitiano receta"
+ },
+ "en": {
+  "name": "Pikliz (Haitian Spicy Pickled Slaw)",
+  "blurb": "A fiery pickle of cabbage, carrot and scotch bonnet in vinegar. Served with griot and anything fried in Haiti.",
+  "ing": [
+   {
+    "n": "cabbage",
+    "note": "finely shredded"
+   },
+   {
+    "n": "carrots",
+    "note": "in fine strips"
+   },
+   {
+    "n": "onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "bell pepper",
+    "note": "in fine strips"
+   },
+   {
+    "n": "scotch bonnet chillies",
+    "note": "sliced"
+   },
+   {
+    "n": "garlic",
+    "note": "sliced"
+   },
+   {
+    "n": "black peppercorns"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "lime",
+    "note": "juiced"
+   }
+  ],
+  "steps": [
+   "Mix the cabbage, carrot, onion, pepper, chillies and garlic.",
+   "Pack into a large jar.",
+   "Add the peppercorns and salt.",
+   "Cover with the vinegar and lime juice.",
+   "Close and leave at least 24 hours in the fridge."
+  ],
+  "tips": [
+   "Wear gloves to cut the scotch bonnets.",
+   "It keeps for weeks in the fridge and gets hotter each day."
+  ],
+  "video": "pikliz recipe"
+ },
+ "added": "2026-09-30"
+}

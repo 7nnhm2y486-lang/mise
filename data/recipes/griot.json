@@ -1,0 +1,189 @@
+{
+ "id": "griot",
+ "country": "Haiti",
+ "region": "caribbean",
+ "course": "main",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Griot",
+  "blurb": "Cerdo marinado en naranja agria y epis, cocido y luego frito hasta dorar. El plato de fiesta de Haití.",
+  "ing": [
+   {
+    "n": "paleta de cerdo",
+    "note": "en dados de 4 cm"
+   },
+   {
+    "n": "naranjas agrias (o 1 naranja y 2 limas)",
+    "note": "en jugo"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "cebolletas",
+    "note": "picadas"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "pimiento",
+    "note": "picado"
+   },
+   {
+    "n": "chile scotch bonnet"
+   },
+   {
+    "n": "perejil y tomillo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Licúa la cebolla, las cebolletas, el ajo, el pimiento, el chile, las hierbas, el jugo de naranja y la sal para hacer el epis.",
+   "Marina el cerdo en el epis al menos 4 horas.",
+   "Cuece el cerdo con su marinada y el agua a fuego medio 60 minutos, hasta que esté tierno y el líquido casi se evapore.",
+   "Escurre la carne.",
+   "Fríe a 180 °C durante 5 minutos, hasta que esté dorada y crujiente."
+  ],
+  "tips": [
+   "Guarda el líquido de cocción para mojar la carne o el arroz.",
+   "Se sirve con pikliz y bananos fritos."
+  ],
+  "video": "griot haitiano receta"
+ },
+ "en": {
+  "name": "Griot (Haitian Fried Pork)",
+  "blurb": "Pork marinated in sour orange and epis, simmered then fried until golden. Haiti's party dish.",
+  "ing": [
+   {
+    "n": "pork shoulder",
+    "note": "in 4 cm cubes"
+   },
+   {
+    "n": "sour oranges (or 1 orange and 2 limes)",
+    "note": "juiced"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "scallions",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "scotch bonnet chilli"
+   },
+   {
+    "n": "parsley and thyme"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Blend the onion, scallions, garlic, pepper, chilli, herbs, orange juice and salt to make the epis.",
+   "Marinate the pork in the epis at least 4 hours.",
+   "Cook the pork with its marinade and the water over medium heat for 60 minutes, until tender and the liquid has almost evaporated.",
+   "Drain the meat.",
+   "Fry at 180 °C for 5 minutes, until golden and crisp."
+  ],
+  "tips": [
+   "Keep the cooking liquid to spoon over the meat or rice.",
+   "Served with pikliz and fried plantains."
+  ],
+  "video": "haitian griot recipe"
+ },
+ "added": "2026-09-30"
+}

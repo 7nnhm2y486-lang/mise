@@ -1,0 +1,189 @@
+{
+ "id": "chimi-dominicano",
+ "country": "Dominican Republic",
+ "region": "caribbean",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "ketchup",
+   "role": "sauce"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "mayo",
+   "role": "sauce"
+  }
+ ],
+ "es": {
+  "name": "Chimi dominicano",
+  "blurb": "La hamburguesa de la calle dominicana: carne sazonada, repollo, cebolla y salsa de kétchup y mayonesa.",
+  "ing": [
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "panes de agua o de hamburguesa"
+   },
+   {
+    "n": "repollo",
+    "note": "en tiras finas"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "en aros"
+   },
+   {
+    "n": "tomates",
+    "note": "en rodajas"
+   },
+   {
+    "n": "kétchup"
+   },
+   {
+    "n": "mayonesa"
+   }
+  ],
+  "steps": [
+   "Mezcla la carne con la cebolla picada, el ajo, el orégano y la sal. Forma 4 hamburguesas delgadas.",
+   "Cocina en una plancha caliente 3 minutos por lado.",
+   "Mezcla el kétchup con la mayonesa.",
+   "Tuesta los panes.",
+   "Arma con la carne, el repollo, la cebolla roja, el tomate y la salsa."
+  ],
+  "tips": [
+   "El repollo va crudo y en abundancia; es parte del chimi.",
+   "Aplana bien la carne para que quede fina como en los carritos."
+  ],
+  "video": "chimi dominicano receta"
+ },
+ "en": {
+  "name": "Chimi (Dominican Street Burger)",
+  "blurb": "The Dominican street burger: seasoned beef, cabbage, onion and a ketchup-mayonnaise sauce.",
+  "ing": [
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "soft rolls"
+   },
+   {
+    "n": "cabbage",
+    "note": "finely shredded"
+   },
+   {
+    "n": "red onion",
+    "note": "in rings"
+   },
+   {
+    "n": "tomatoes",
+    "note": "sliced"
+   },
+   {
+    "n": "ketchup"
+   },
+   {
+    "n": "mayonnaise"
+   }
+  ],
+  "steps": [
+   "Mix the beef with the chopped onion, garlic, oregano and salt. Shape 4 thin patties.",
+   "Cook on a hot griddle for 3 minutes a side.",
+   "Mix the ketchup with the mayonnaise.",
+   "Toast the rolls.",
+   "Build with the beef, cabbage, red onion, tomato and sauce."
+  ],
+  "tips": [
+   "The cabbage goes in raw and plentiful; it's part of the chimi.",
+   "Press the patties thin, like the street carts do."
+  ],
+  "video": "dominican chimi recipe"
+ },
+ "added": "2026-09-30"
+}

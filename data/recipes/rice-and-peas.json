@@ -1,0 +1,175 @@
+{
+ "id": "rice-and-peas",
+ "country": "Jamaica",
+ "region": "caribbean",
+ "course": "side",
+ "time": 45,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 350,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "pepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Rice and peas jamaicano",
+  "blurb": "Arroz cocido en leche de coco con frijoles rojos, tomillo y un scotch bonnet entero. El acompañante del domingo en Jamaica.",
+  "ing": [
+   {
+    "n": "frijoles rojos cocidos",
+    "note": "escurridos"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolletas",
+    "note": "aplastadas"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "tomillo"
+   },
+   {
+    "n": "chile scotch bonnet entero"
+   },
+   {
+    "n": "pimienta de Jamaica en grano"
+   },
+   {
+    "n": "arroz de grano largo",
+    "note": "lavado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Hierve los frijoles con la leche de coco, el agua, las cebolletas, el ajo, el tomillo, la pimienta de Jamaica y la sal.",
+   "Pon el chile entero encima, sin romperlo.",
+   "Añade el arroz y remueve una vez.",
+   "Tapa y cuece a fuego bajo 20 minutos, hasta que el arroz absorba el líquido.",
+   "Retira el chile, las cebolletas y el tomillo, y suelta el arroz con un tenedor."
+  ],
+  "tips": [
+   "El chile entero da aroma sin mucho picante; si se rompe, el arroz pica.",
+   "En Jamaica los peas son frijoles rojos, no guisantes."
+  ],
+  "video": "jamaican rice and peas recipe"
+ },
+ "en": {
+  "name": "Jamaican Rice and Peas",
+  "blurb": "Rice cooked in coconut milk with kidney beans, thyme and a whole scotch bonnet. Jamaica's Sunday side.",
+  "ing": [
+   {
+    "n": "cooked kidney beans",
+    "note": "drained"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "scallions",
+    "note": "bruised"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "thyme"
+   },
+   {
+    "n": "whole scotch bonnet chilli"
+   },
+   {
+    "n": "allspice berries"
+   },
+   {
+    "n": "long-grain rice",
+    "note": "rinsed"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Bring the beans to a boil with the coconut milk, water, scallions, garlic, thyme, allspice and salt.",
+   "Lay the whole chilli on top without breaking it.",
+   "Add the rice and stir once.",
+   "Cover and cook on low for 20 minutes, until the rice absorbs the liquid.",
+   "Remove the chilli, scallions and thyme and fluff with a fork."
+  ],
+  "tips": [
+   "The whole chilli adds aroma without much heat; if it bursts, the rice gets hot.",
+   "In Jamaica the peas are kidney beans, not green peas."
+  ],
+  "video": "rice and peas recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,201 @@
+{
+ "id": "moro-de-guandules",
+ "country": "Dominican Republic",
+ "region": "caribbean",
+ "course": "main",
+ "time": 50,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "tomatopaste",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 450,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Moro de guandules con coco",
+  "blurb": "Arroz dominicano cocido con guandules y leche de coco. Plato de Navidad y de domingo.",
+  "ing": [
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ají morrón",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de tomate"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "guandules cocidos",
+    "note": "escurridos"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ají y el ajo en el aceite 5 minutos. Añade la pasta de tomate, el cilantro y el orégano.",
+   "Añade los guandules y cuece 3 minutos.",
+   "Añade la leche de coco, el agua y la sal y hierve.",
+   "Añade el arroz y cuece sin tapar hasta que el líquido baje al nivel del arroz.",
+   "Voltea, tapa y cuece 20 minutos a fuego bajo."
+  ],
+  "tips": [
+   "El concón, la capa tostada del fondo, es muy apreciado.",
+   "Sin leche de coco, usa todo agua: queda un moro clásico."
+  ],
+  "video": "moro de guandules con coco receta"
+ },
+ "en": {
+  "name": "Moro de Guandules (Rice with Pigeon Peas and Coconut)",
+  "blurb": "Dominican rice cooked with pigeon peas and coconut milk. A Christmas and Sunday dish.",
+  "ing": [
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "cooked pigeon peas",
+    "note": "drained"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion, pepper and garlic in the oil for 5 minutes. Add the tomato paste, cilantro and oregano.",
+   "Add the pigeon peas and cook 3 minutes.",
+   "Add the coconut milk, water and salt and bring to a boil.",
+   "Add the rice and cook uncovered until the liquid drops to the level of the rice.",
+   "Stir once, cover and cook 20 minutes on low."
+  ],
+  "tips": [
+   "The concón, the toasted crust on the bottom, is prized.",
+   "Without coconut milk, use all water: it becomes a classic moro."
+  ],
+  "video": "moro de guandules recipe"
+ },
+ "added": "2026-09-30"
+}
