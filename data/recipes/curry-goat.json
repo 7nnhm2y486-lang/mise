@@ -1,0 +1,201 @@
+{
+ "id": "curry-goat",
+ "country": "Jamaica",
+ "region": "caribbean",
+ "course": "main",
+ "time": 180,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "goat",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "currypowder",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Curry de chivo",
+  "blurb": "Chivo marinado en curry y cocido despacio hasta deshacerse, con papas. El plato de fiesta de Jamaica.",
+  "ing": [
+   {
+    "n": "carne de chivo con hueso",
+    "note": "en trozos"
+   },
+   {
+    "n": "curry jamaiquino en polvo"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "cebolletas",
+    "note": "picadas"
+   },
+   {
+    "n": "tomillo"
+   },
+   {
+    "n": "pimienta de Jamaica molida"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "papas",
+    "note": "en trozos"
+   },
+   {
+    "n": "chile Scotch bonnet entero"
+   }
+  ],
+  "steps": [
+   "Marina el chivo con 2 cucharadas de curry, el ajo, la cebolla, las cebolletas, el tomillo, la pimienta de Jamaica y la sal toda la noche.",
+   "Tuesta el resto del curry en el aceite 1 minuto.",
+   "Añade el chivo y dora 10 minutos.",
+   "Añade el agua y el chile entero, tapa y cuece 2 horas a fuego bajo.",
+   "Añade las papas y cuece 25 minutos más, hasta que la salsa espese."
+  ],
+  "tips": [
+   "Tostar el curry en el aceite quita el sabor a crudo.",
+   "Las papas se deshacen un poco y espesan la salsa."
+  ],
+  "video": "curry goat jamaiquino"
+ },
+ "en": {
+  "name": "Curry Goat (Jamaican)",
+  "blurb": "Goat marinated in curry and cooked slowly until falling apart, with potatoes. Jamaica's party dish.",
+  "ing": [
+   {
+    "n": "bone-in goat meat",
+    "note": "in pieces"
+   },
+   {
+    "n": "Jamaican curry powder"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "spring onions",
+    "note": "chopped"
+   },
+   {
+    "n": "thyme"
+   },
+   {
+    "n": "ground allspice"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "potatoes",
+    "note": "in chunks"
+   },
+   {
+    "n": "whole Scotch bonnet chilli"
+   }
+  ],
+  "steps": [
+   "Marinate the goat with 2 tablespoons of curry, the garlic, onion, spring onions, thyme, allspice and salt overnight.",
+   "Toast the rest of the curry in the oil for 1 minute.",
+   "Add the goat and brown 10 minutes.",
+   "Add the water and whole chilli, cover and simmer 2 hours on low.",
+   "Add the potatoes and cook 25 minutes more, until the sauce thickens."
+  ],
+  "tips": [
+   "Toasting the curry in oil takes away the raw taste.",
+   "The potatoes break down a little and thicken the sauce."
+  ],
+  "video": "jamaican curry goat"
+ },
+ "added": "2026-09-30"
+}

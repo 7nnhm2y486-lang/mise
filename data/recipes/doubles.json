@@ -1,0 +1,245 @@
+{
+ "id": "doubles",
+ "country": "Trinidad and Tobago",
+ "region": "caribbean",
+ "course": "snack",
+ "time": 120,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "currypowder",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Doubles",
+  "blurb": "Dos panes fritos y suaves con curry de garbanzos. El desayuno callejero de Trinidad.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "cúrcuma"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "garbanzos cocidos"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "curry en polvo"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "agua (segunda parte)"
+   },
+   {
+    "n": "sal (para los garbanzos)"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "chile Scotch bonnet",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la levadura, la cúrcuma, el azúcar, la sal y el agua tibia. Amasa 5 minutos y deja levar 1 hora.",
+   "Sofríe la cebolla y el ajo en el aceite 5 minutos. Añade el curry y el comino y cocina 1 minuto.",
+   "Añade los garbanzos, el agua de la segunda parte y la sal. Cuece 20 minutos, aplastando algunos, hasta que espese.",
+   "Divide la masa en 16 bolitas y aplánalas a 10 cm con las manos aceitadas.",
+   "Fríe a 180 °C 30 segundos por lado. Pon garbanzos entre dos panes y sirve con el chile."
+  ],
+  "tips": [
+   "Los panes, llamados bara, deben quedar suaves, no crujientes.",
+   "El chile va aparte para cada quien."
+  ],
+  "video": "doubles de trinidad"
+ },
+ "en": {
+  "name": "Doubles (Trinidad Curried Chickpea Flatbreads)",
+  "blurb": "Two soft fried breads with curried chickpeas. Trinidad's street breakfast.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "dried yeast"
+   },
+   {
+    "n": "turmeric"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "cooked chickpeas"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "curry powder"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "water (second part)"
+   },
+   {
+    "n": "salt (for the chickpeas)"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "Scotch bonnet chilli",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, turmeric, sugar, salt and warm water. Knead 5 minutes and rise 1 hour.",
+   "Cook the onion and garlic in the oil for 5 minutes. Add the curry and cumin and cook 1 minute.",
+   "Add the chickpeas, the second part of the water and the salt. Simmer 20 minutes, crushing some, until thick.",
+   "Divide the dough into 16 balls and flatten to 10 cm with oiled hands.",
+   "Fry at 180 °C for 30 seconds per side. Sandwich chickpeas between two breads and serve with the chilli."
+  ],
+  "tips": [
+   "The breads, called bara, should be soft, not crisp.",
+   "Serve the chilli on the side."
+  ],
+  "video": "trinidad doubles"
+ },
+ "added": "2026-09-30"
+}

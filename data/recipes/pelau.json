@@ -1,0 +1,227 @@
+{
+ "id": "pelau",
+ "country": "Trinidad and Tobago",
+ "region": "caribbean",
+ "course": "main",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "brownsugar",
+   "role": "caramel"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Pelau",
+  "blurb": "Arroz con pollo caramelizado en azúcar, gandules y leche de coco. El plato de los domingos y las playas de Trinidad.",
+  "ing": [
+   {
+    "n": "muslos de pollo",
+    "note": "en trozos"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "cilantro, tomillo y culantro",
+    "note": "picados"
+   },
+   {
+    "n": "cebolletas",
+    "note": "picadas"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "azúcar moreno"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "arroz de grano largo"
+   },
+   {
+    "n": "gandules cocidos"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "zanahoria",
+    "note": "en dados"
+   },
+   {
+    "n": "chile Scotch bonnet entero"
+   }
+  ],
+  "steps": [
+   "Marina el pollo con el ajo, las hierbas, las cebolletas y la sal 1 hora.",
+   "Calienta el aceite con el azúcar hasta que esté casi negro y humee. Añade el pollo y dóralo 8 minutos.",
+   "Añade la cebolla y el arroz y remueve 2 minutos.",
+   "Añade los gandules, la leche de coco, el agua, la zanahoria y el chile entero.",
+   "Tapa y cuece 25 minutos a fuego bajo. Retira el chile y sirve."
+  ],
+  "tips": [
+   "El azúcar quemado da el color marrón: no te asustes cuando humee, pero no dejes que se queme del todo.",
+   "El chile entero perfuma sin picar mucho: no lo rompas."
+  ],
+  "video": "pelau trinitense"
+ },
+ "en": {
+  "name": "Pelau (Trinidad Caramelised Chicken and Rice)",
+  "blurb": "Chicken caramelised in sugar, cooked with rice, pigeon peas and coconut milk. Trinidad's Sunday and beach-day dish.",
+  "ing": [
+   {
+    "n": "chicken thighs",
+    "note": "in pieces"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "coriander, thyme and culantro",
+    "note": "chopped"
+   },
+   {
+    "n": "spring onions",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "brown sugar"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "long-grain rice"
+   },
+   {
+    "n": "cooked pigeon peas"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "carrot",
+    "note": "diced"
+   },
+   {
+    "n": "whole Scotch bonnet chilli"
+   }
+  ],
+  "steps": [
+   "Marinate the chicken with the garlic, herbs, spring onions and salt for 1 hour.",
+   "Heat the oil with the sugar until almost black and smoking. Add the chicken and brown 8 minutes.",
+   "Add the onion and rice and stir 2 minutes.",
+   "Add the pigeon peas, coconut milk, water, carrot and whole chilli.",
+   "Cover and cook 25 minutes on low. Remove the chilli and serve."
+  ],
+  "tips": [
+   "The burnt sugar gives the brown colour: don't panic when it smokes, but don't let it burn through.",
+   "The whole chilli perfumes without much heat: don't let it burst."
+  ],
+  "video": "trinidad pelau"
+ },
+ "added": "2026-09-30"
+}

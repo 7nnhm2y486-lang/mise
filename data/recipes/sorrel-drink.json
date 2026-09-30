@@ -1,0 +1,144 @@
+{
+ "id": "sorrel-drink",
+ "country": "Jamaica",
+ "countryEs": "Trinidad and Tobago",
+ "region": "caribbean",
+ "course": "drink",
+ "time": 30,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 100,
+   "u": "g",
+   "k": "herb",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "ice",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Sorrel",
+  "blurb": "Bebida roja de flor de jamaica con jengibre y clavo. La bebida navideña de Jamaica y Trinidad.",
+  "ing": [
+   {
+    "n": "flor de jamaica seca"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "jengibre fresco",
+    "note": "en rodajas"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "cáscara de naranja"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "hielo"
+   }
+  ],
+  "steps": [
+   "Hierve el agua con el jengibre, el clavo, la canela y la cáscara 5 minutos.",
+   "Añade la flor de jamaica, apaga y deja reposar tapado 4 horas o toda la noche.",
+   "Cuela y endulza con el azúcar.",
+   "Sirve muy frío con hielo."
+  ],
+  "tips": [
+   "Cuanto más reposa, más intenso queda el jengibre.",
+   "Se conserva 5 días en la nevera."
+  ],
+  "video": "sorrel jamaiquino"
+ },
+ "en": {
+  "name": "Sorrel (Caribbean Hibiscus Ginger Drink)",
+  "blurb": "A red drink of hibiscus with ginger and clove. The Christmas drink of Jamaica and Trinidad.",
+  "ing": [
+   {
+    "n": "dried sorrel (hibiscus)"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "fresh ginger",
+    "note": "sliced"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "orange peel strip"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Boil the water with the ginger, cloves, cinnamon and peel for 5 minutes.",
+   "Add the sorrel, turn off and steep, covered, for 4 hours or overnight.",
+   "Strain and sweeten with the sugar.",
+   "Serve very cold over ice."
+  ],
+  "tips": [
+   "The longer it steeps, the stronger the ginger.",
+   "It keeps 5 days in the fridge."
+  ],
+  "video": "jamaican sorrel drink"
+ },
+ "added": "2026-09-30"
+}

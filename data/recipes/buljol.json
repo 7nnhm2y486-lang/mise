@@ -1,0 +1,157 @@
+{
+ "id": "buljol",
+ "country": "Trinidad and Tobago",
+ "region": "caribbean",
+ "course": "breakfast",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Buljol",
+  "blurb": "Ensalada de bacalao desmenuzado con tomate, cebolla y chile. Desayuno criollo de Trinidad.",
+  "ing": [
+   {
+    "n": "bacalao salado desalado",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "chile Scotch bonnet",
+    "note": "picado fino"
+   },
+   {
+    "n": "culantro o cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "limón",
+    "note": "exprimido"
+   }
+  ],
+  "steps": [
+   "Desala el bacalao 24 horas en agua fría, cambiando el agua 3 veces.",
+   "Hierve el bacalao 5 minutos, escurre y desmenúzalo muy fino.",
+   "Mezcla con la cebolla, el tomate, el pimiento, el chile y la hierba.",
+   "Aliña con el aceite y el limón.",
+   "Sirve a temperatura ambiente."
+  ],
+  "tips": [
+   "Prueba el bacalao: si sigue muy salado, hiérvelo de nuevo en agua limpia.",
+   "Déjalo reposar 15 minutos para que se mezclen los sabores."
+  ],
+  "video": "buljol trinitense"
+ },
+ "en": {
+  "name": "Buljol (Trinidad Salt Fish Salad)",
+  "blurb": "Flaked salt cod with tomato, onion and chilli. A creole breakfast in Trinidad.",
+  "ing": [
+   {
+    "n": "desalted salt cod",
+    "note": "flaked"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "Scotch bonnet chilli",
+    "note": "finely chopped"
+   },
+   {
+    "n": "culantro or coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "lime",
+    "note": "juiced"
+   }
+  ],
+  "steps": [
+   "Soak the cod for 24 hours in cold water, changing the water 3 times.",
+   "Boil the cod 5 minutes, drain and flake it very finely.",
+   "Mix with the onion, tomato, pepper, chilli and herb.",
+   "Dress with the oil and lime.",
+   "Serve at room temperature."
+  ],
+  "tips": [
+   "Taste the cod: if still very salty, boil it again in fresh water.",
+   "Rest it 15 minutes so the flavours mingle."
+  ],
+  "video": "trinidad buljol"
+ },
+ "added": "2026-09-30"
+}

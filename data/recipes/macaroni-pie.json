@@ -1,0 +1,147 @@
+{
+ "id": "macaroni-pie",
+ "country": "Trinidad and Tobago",
+ "region": "caribbean",
+ "course": "main",
+ "time": 60,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "cheddar",
+   "role": "enrich"
+  },
+  {
+   "q": 360,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "pepper",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Macaroni pie",
+  "blurb": "Pastel de macarrones con queso que se corta en cuadrados. Nunca falta en el almuerzo del domingo en Trinidad y Barbados.",
+  "ing": [
+   {
+    "n": "macarrones largos"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "queso cheddar",
+    "note": "rallado"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "cebolla",
+    "note": "rallada"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta"
+   }
+  ],
+  "steps": [
+   "Cuece los macarrones 2 minutos menos de lo que dice el paquete. Escurre y mezcla con la mantequilla.",
+   "Bate la leche, los huevos, la cebolla, la sal y la pimienta.",
+   "Mezcla la pasta con dos tercios del queso y la mezcla de huevo.",
+   "Pasa a una fuente de 20 x 30 cm y cubre con el resto del queso.",
+   "Hornea a 180 °C 35 minutos. Deja reposar 15 minutos y corta en cuadrados."
+  ],
+  "tips": [
+   "El reposo es clave para que se corte en porciones firmes.",
+   "Un cheddar fuerte le da más sabor."
+  ],
+  "video": "macaroni pie trinitense"
+ },
+ "en": {
+  "name": "Macaroni Pie (Caribbean Baked Mac and Cheese)",
+  "blurb": "A baked macaroni and cheese that slices into squares. Never missing from Sunday lunch in Trinidad and Barbados.",
+  "ing": [
+   {
+    "n": "long macaroni"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "cheddar cheese",
+    "note": "grated"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "onion",
+    "note": "grated"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "pepper"
+   }
+  ],
+  "steps": [
+   "Cook the macaroni 2 minutes less than the packet says. Drain and toss with the butter.",
+   "Whisk the milk, eggs, onion, salt and pepper.",
+   "Mix the pasta with two thirds of the cheese and the egg mixture.",
+   "Tip into a 20 x 30 cm dish and top with the rest of the cheese.",
+   "Bake at 180 °C for 35 minutes. Rest 15 minutes and cut into squares."
+  ],
+  "tips": [
+   "Resting is key so it slices into firm portions.",
+   "A sharp cheddar gives more flavour."
+  ],
+  "video": "trinidad macaroni pie"
+ },
+ "added": "2026-09-30"
+}

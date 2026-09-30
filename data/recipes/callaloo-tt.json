@@ -1,0 +1,187 @@
+{
+ "id": "callaloo-tt",
+ "country": "Trinidad and Tobago",
+ "region": "caribbean",
+ "course": "soup",
+ "time": 50,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Callaloo",
+  "blurb": "Sopa espesa y verde de hojas de dasheen, okra y leche de coco. Acompaña el almuerzo del domingo en Trinidad.",
+  "ing": [
+   {
+    "n": "hojas de dasheen o espinaca"
+   },
+   {
+    "n": "okra (quimbombó)",
+    "note": "en rodajas"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "cebolletas",
+    "note": "picadas"
+   },
+   {
+    "n": "tomillo"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "chile Scotch bonnet entero"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Pon las hojas, la okra, la cebolla, el ajo, las cebolletas y el tomillo en una olla.",
+   "Añade la leche de coco, el agua y el chile entero.",
+   "Cuece tapado 30 minutos, hasta que todo esté muy tierno.",
+   "Retira el chile y el tomillo. Añade la mantequilla y la sal.",
+   "Bate con una batidora de mano hasta que quede liso."
+  ],
+  "tips": [
+   "Si usas hojas de dasheen, cuécelas bien: crudas irritan la garganta.",
+   "No rompas el chile o picará mucho."
+  ],
+  "video": "callaloo trinitense"
+ },
+ "en": {
+  "name": "Callaloo (Trinidad Greens and Coconut Soup)",
+  "blurb": "A thick green soup of dasheen leaves, okra and coconut milk. Part of Sunday lunch in Trinidad.",
+  "ing": [
+   {
+    "n": "dasheen leaves or spinach"
+   },
+   {
+    "n": "okra",
+    "note": "sliced"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "spring onions",
+    "note": "chopped"
+   },
+   {
+    "n": "thyme"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "whole Scotch bonnet chilli"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Put the leaves, okra, onion, garlic, spring onions and thyme in a pot.",
+   "Add the coconut milk, water and whole chilli.",
+   "Cover and simmer 30 minutes, until everything is very soft.",
+   "Remove the chilli and thyme. Add the butter and salt.",
+   "Blend smooth with a stick blender."
+  ],
+  "tips": [
+   "If using dasheen leaves, cook them thoroughly: raw, they irritate the throat.",
+   "Don't burst the chilli or it'll be very hot."
+  ],
+  "video": "trinidad callaloo"
+ },
+ "added": "2026-09-30"
+}

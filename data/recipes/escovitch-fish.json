@@ -1,0 +1,199 @@
+{
+ "id": "escovitch-fish",
+ "country": "Jamaica",
+ "region": "caribbean",
+ "course": "main",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "fillet",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "pepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "whitevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Pescado escovitch",
+  "blurb": "Pescado frito cubierto de verduras encurtidas en vinagre con chile y pimienta de Jamaica. Tradición del Viernes Santo jamaiquino.",
+  "ing": [
+   {
+    "n": "pescados enteros pequeños o filetes (pargo)"
+   },
+   {
+    "n": "limones"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "cebolla",
+    "note": "en aros"
+   },
+   {
+    "n": "zanahoria",
+    "note": "en juliana"
+   },
+   {
+    "n": "pimiento",
+    "note": "en tiras"
+   },
+   {
+    "n": "chile Scotch bonnet",
+    "note": "en rodajas"
+   },
+   {
+    "n": "pimienta de Jamaica en grano"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "azúcar"
+   }
+  ],
+  "steps": [
+   "Frota el pescado con el limón, sécalo y sazónalo con la sal y la pimienta.",
+   "Fríelo en el aceite 4 minutos por lado, hasta que esté crujiente. Escurre.",
+   "Hierve el vinagre con el azúcar y la pimienta de Jamaica 2 minutos.",
+   "Añade la cebolla, la zanahoria, el pimiento y el chile y cuece 1 minuto.",
+   "Vierte las verduras y el vinagre caliente sobre el pescado. Deja reposar 30 minutos."
+  ],
+  "tips": [
+   "Está aún mejor al día siguiente.",
+   "Seca muy bien el pescado para que no salpique."
+  ],
+  "video": "escovitch fish jamaiquino"
+ },
+ "en": {
+  "name": "Escovitch Fish (Jamaican Pickled Fried Fish)",
+  "blurb": "Fried fish topped with vegetables pickled in vinegar with chilli and allspice. A Jamaican Good Friday tradition.",
+  "ing": [
+   {
+    "n": "small whole fish or fillets (snapper)"
+   },
+   {
+    "n": "limes"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "onion",
+    "note": "in rings"
+   },
+   {
+    "n": "carrot",
+    "note": "in matchsticks"
+   },
+   {
+    "n": "bell pepper",
+    "note": "in strips"
+   },
+   {
+    "n": "Scotch bonnet chilli",
+    "note": "sliced"
+   },
+   {
+    "n": "allspice berries"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "sugar"
+   }
+  ],
+  "steps": [
+   "Rub the fish with the lime, pat dry and season with the salt and pepper.",
+   "Fry in the oil for 4 minutes per side, until crisp. Drain.",
+   "Boil the vinegar with the sugar and allspice for 2 minutes.",
+   "Add the onion, carrot, pepper and chilli and cook 1 minute.",
+   "Pour the hot vegetables and vinegar over the fish. Rest 30 minutes."
+  ],
+  "tips": [
+   "It's even better the next day.",
+   "Dry the fish well so it doesn't spit."
+  ],
+  "video": "jamaican escovitch fish"
+ },
+ "added": "2026-09-30"
+}

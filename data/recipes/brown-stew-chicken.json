@@ -1,0 +1,225 @@
+{
+ "id": "brown-stew-chicken",
+ "country": "Jamaica",
+ "region": "caribbean",
+ "course": "main",
+ "time": 75,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "brownsugar",
+   "role": "caramel"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ketchup",
+   "role": "sauce"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Brown stew chicken",
+  "blurb": "Pollo dorado en azúcar quemada y guisado con tomate, pimiento y tomillo. Comida de casa jamaiquina.",
+  "ing": [
+   {
+    "n": "pollo en presas"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "cebolletas",
+    "note": "picadas"
+   },
+   {
+    "n": "tomillo"
+   },
+   {
+    "n": "pimienta de Jamaica molida"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "azúcar moreno"
+   },
+   {
+    "n": "cebolla",
+    "note": "en tiras"
+   },
+   {
+    "n": "pimiento",
+    "note": "en tiras"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "kétchup"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "chile Scotch bonnet entero"
+   }
+  ],
+  "steps": [
+   "Marina el pollo con el ajo, las cebolletas, el tomillo, la pimienta de Jamaica y la sal 2 horas.",
+   "Calienta el aceite con el azúcar hasta que esté oscuro. Dora el pollo 8 minutos.",
+   "Añade la cebolla y el pimiento y cocina 3 minutos.",
+   "Añade el tomate, el kétchup, el agua y el chile entero.",
+   "Tapa y cuece 35 minutos, hasta que la salsa espese."
+  ],
+  "tips": [
+   "Retira el chile antes de servir si no lo quieres picante.",
+   "Sírvelo con arroz blanco."
+  ],
+  "video": "brown stew chicken jamaiquino"
+ },
+ "en": {
+  "name": "Brown Stew Chicken (Jamaican)",
+  "blurb": "Chicken browned in burnt sugar and stewed with tomato, pepper and thyme. Jamaican home cooking.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "spring onions",
+    "note": "chopped"
+   },
+   {
+    "n": "thyme"
+   },
+   {
+    "n": "ground allspice"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "brown sugar"
+   },
+   {
+    "n": "onion",
+    "note": "in strips"
+   },
+   {
+    "n": "bell pepper",
+    "note": "in strips"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "ketchup"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "whole Scotch bonnet chilli"
+   }
+  ],
+  "steps": [
+   "Marinate the chicken with the garlic, spring onions, thyme, allspice and salt for 2 hours.",
+   "Heat the oil with the sugar until dark. Brown the chicken 8 minutes.",
+   "Add the onion and pepper and cook 3 minutes.",
+   "Add the tomato, ketchup, water and whole chilli.",
+   "Cover and simmer 35 minutes, until the sauce thickens."
+  ],
+  "tips": [
+   "Remove the chilli before serving for less heat.",
+   "Serve with white rice."
+  ],
+  "video": "jamaican brown stew chicken"
+ },
+ "added": "2026-09-30"
+}

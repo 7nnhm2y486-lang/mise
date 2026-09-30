@@ -1,0 +1,141 @@
+{
+ "id": "festival",
+ "country": "Jamaica",
+ "region": "caribbean",
+ "course": "side",
+ "time": 30,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Festival",
+  "blurb": "Bollos fritos alargados de maíz, ligeramente dulces. Acompañan el pescado frito y el jerk en Jamaica.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "harina de maíz amarilla fina"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "esencia de vainilla"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la harina de maíz, el polvo de hornear, el azúcar y la sal.",
+   "Añade la vainilla y el agua y amasa hasta tener una masa firme.",
+   "Divide en 12 porciones y forma cilindros de 10 cm.",
+   "Fríe a 170 °C 6 minutos, girándolos, hasta que estén dorados."
+  ],
+  "tips": [
+   "No los frías muy calientes o quedan crudos por dentro.",
+   "Sírvelos recién hechos."
+  ],
+  "video": "festival jamaiquino"
+ },
+ "en": {
+  "name": "Festival (Jamaican Fried Dumplings)",
+  "blurb": "Slightly sweet fried cornmeal dumplings. Served with fried fish and jerk in Jamaica.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "fine yellow cornmeal"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Mix the flour, cornmeal, baking powder, sugar and salt.",
+   "Add the vanilla and water and knead into a firm dough.",
+   "Divide into 12 and roll into 10 cm logs.",
+   "Fry at 170 °C for 6 minutes, turning, until golden."
+  ],
+  "tips": [
+   "Don't fry too hot or they'll be raw inside.",
+   "Serve them fresh."
+  ],
+  "video": "jamaican festival dumplings"
+ },
+ "added": "2026-09-30"
+}
