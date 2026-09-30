@@ -1,0 +1,177 @@
+{
+ "id": "mojito-en-coco",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Mojito en coco",
+  "blurb": "Pescado picado guisado en leche de coco con ají dulce. Plato de la costa oriental venezolana.",
+  "ing": [
+   {
+    "n": "pescado blanco",
+    "note": "desmenuzado crudo"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ajíes dulces",
+    "note": "picados"
+   },
+   {
+    "n": "tomate",
+    "note": "picado"
+   },
+   {
+    "n": "limón"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sazona el pescado con el jugo de limón y media cucharadita de sal.",
+   "Sofríe la cebolla, el ajo y el ají dulce en el aceite 6 minutos. Añade el tomate y cocina 4 minutos.",
+   "Añade la leche de coco y el resto de la sal y cuece 5 minutos.",
+   "Añade el pescado y cocina 8 minutos, removiendo con cuidado, hasta que la salsa espese. Termina con el cilantro."
+  ],
+  "tips": [
+   "Sírvelo con arroz blanco.",
+   "También sirve de relleno."
+  ],
+  "video": "mojito de pescado en coco"
+ },
+ "en": {
+  "name": "Mojito en Coco (Venezuelan Fish in Coconut)",
+  "blurb": "Chopped fish stewed in coconut milk with sweet ají peppers. A dish from Venezuela's eastern coast.",
+  "ing": [
+   {
+    "n": "white fish",
+    "note": "raw, in small pieces"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet ají peppers",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato",
+    "note": "chopped"
+   },
+   {
+    "n": "lime"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Season the fish with the lime juice and half a teaspoon of salt.",
+   "Cook the onion, garlic and ají peppers in the oil for 6 minutes. Add the tomato and cook 4 minutes.",
+   "Add the coconut milk and remaining salt and simmer 5 minutes.",
+   "Add the fish and cook 8 minutes, stirring gently, until the sauce thickens. Finish with the coriander."
+  ],
+  "tips": [
+   "Serve with white rice.",
+   "It's also used as a filling."
+  ],
+  "video": "venezuelan coconut fish"
+ },
+ "added": "2026-09-30"
+}

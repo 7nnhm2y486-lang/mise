@@ -1,0 +1,187 @@
+{
+ "id": "cazon-guisado",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 700,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Cazón guisado",
+  "blurb": "Pescado desmenuzado y guisado con ají dulce, tomate y onoto. Relleno de empanadas margariteñas y plato de playa.",
+  "ing": [
+   {
+    "n": "cazón (o pescado blanco firme)"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "onoto (achiote) molido"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ajíes dulces",
+    "note": "picados"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "limón"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Hierve el cazón en el agua con 1 cucharadita de sal 10 minutos. Escúrrelo, quítale la piel y desmenúzalo.",
+   "Sofríe la cebolla, el ajo y el ají dulce en el aceite con el onoto 8 minutos.",
+   "Añade el tomate y cocina 5 minutos. Incorpora el pescado, el resto de la sal y el jugo de limón y cocina 8 minutos, hasta que quede seco.",
+   "Termina con el cilantro."
+  ],
+  "tips": [
+   "Debe quedar jugoso pero sin líquido si lo usas para rellenar.",
+   "Sírvelo con arroz blanco."
+  ],
+  "video": "cazón guisado margariteño"
+ },
+ "en": {
+  "name": "Cazón Guisado (Venezuelan Shredded Fish)",
+  "blurb": "Shredded fish stewed with sweet ají peppers, tomato and annatto. A Margarita empanada filling and beach meal.",
+  "ing": [
+   {
+    "n": "dogfish or firm white fish"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet ají peppers",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "lime"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Boil the fish in the water with 1 teaspoon of salt for 10 minutes. Drain, remove the skin and flake it.",
+   "Cook the onion, garlic and ají peppers in the oil with the annatto for 8 minutes.",
+   "Add the tomato and cook 5 minutes. Stir in the fish, remaining salt and lime juice and cook 8 minutes, until dry.",
+   "Finish with the coriander."
+  ],
+  "tips": [
+   "For fillings it should be moist but with no liquid.",
+   "Serve with white rice."
+  ],
+  "video": "venezuelan stewed dogfish"
+ },
+ "added": "2026-09-30"
+}

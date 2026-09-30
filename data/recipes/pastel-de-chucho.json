@@ -1,0 +1,193 @@
+{
+ "id": "pastel-de-chucho",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "main",
+ "time": 90,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 5,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 700,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pastel de chucho",
+  "blurb": "Capas de tajadas de plátano maduro, pescado guisado y queso, horneadas. Plato de Semana Santa en Margarita.",
+  "ing": [
+   {
+    "n": "plátanos bien maduros",
+    "note": "en tajadas largas"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "chucho (raya) o pescado blanco"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ajíes dulces",
+    "note": "picados"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "onoto (achiote) molido"
+   },
+   {
+    "n": "queso blanco duro rallado"
+   },
+   {
+    "n": "huevos",
+    "note": "batidos"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Fríe las tajadas en el aceite hasta dorar y escúrrelas.",
+   "Hierve el pescado 10 minutos en agua con 1 cucharadita de sal y desmenúzalo.",
+   "Sofríe la cebolla, el ajo, el ají dulce y el onoto en 2 cucharadas del aceite 8 minutos. Añade el tomate, el pescado y el resto de la sal y cocina 8 minutos.",
+   "Calienta el horno a 180 °C. En una fuente, alterna capas de plátano, pescado y queso, terminando con plátano y queso.",
+   "Vierte los huevos por encima y hornea 30 minutos."
+  ],
+  "tips": [
+   "Deja reposar 10 minutos antes de cortar.",
+   "Los plátanos deben tener la piel casi negra."
+  ],
+  "video": "pastel de chucho margariteño"
+ },
+ "en": {
+  "name": "Pastel de Chucho (Plantain and Fish Bake)",
+  "blurb": "Layers of ripe plantain, stewed fish and cheese, baked. A Holy Week dish from Margarita Island.",
+  "ing": [
+   {
+    "n": "very ripe plantains",
+    "note": "in long slices"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "ray or white fish"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet ají peppers",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "grated hard white cheese"
+   },
+   {
+    "n": "eggs",
+    "note": "beaten"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Fry the plantain slices in the oil until golden and drain.",
+   "Boil the fish for 10 minutes in water with 1 teaspoon of salt and flake it.",
+   "Cook the onion, garlic, ají peppers and annatto in 2 tablespoons of the oil for 8 minutes. Add the tomato, fish and remaining salt and cook 8 minutes.",
+   "Heat the oven to 180 °C. In a dish, layer plantain, fish and cheese, ending with plantain and cheese.",
+   "Pour the eggs over and bake 30 minutes."
+  ],
+  "tips": [
+   "Rest 10 minutes before cutting.",
+   "The plantain skins should be almost black."
+  ],
+  "video": "venezuelan ray pie"
+ },
+ "added": "2026-09-30"
+}

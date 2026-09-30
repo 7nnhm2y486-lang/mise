@@ -1,0 +1,117 @@
+{
+ "id": "catalinas",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "cookie",
+ "time": 50,
+ "serves": 16,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 450,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingsoda",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Catalinas",
+  "blurb": "Galletas oscuras y blanditas de papelón y especias. Merienda de toda la vida.",
+  "ing": [
+   {
+    "n": "papelón rallado (panela)"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "clavo, canela y anís molidos"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Disuelve el papelón en el agua con las especias a fuego bajo 8 minutos, hasta formar un melado. Deja entibiar.",
+   "Mezcla la harina, el bicarbonato y la sal y añade el melado. Amasa hasta obtener una masa blanda.",
+   "Calienta el horno a 180 °C. Estira a 1 cm y corta círculos de 8 cm.",
+   "Hornea en bandeja enharinada 12 minutos."
+  ],
+  "tips": [
+   "Se ponen más blandas al día siguiente.",
+   "Guárdalas en un recipiente cerrado."
+  ],
+  "video": "catalinas de papelón"
+ },
+ "en": {
+  "name": "Catalinas (Venezuelan Panela Spice Cookies)",
+  "blurb": "Dark, soft cookies made with panela and spices. A lifelong afternoon snack.",
+  "ing": [
+   {
+    "n": "grated panela"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "ground clove, cinnamon and aniseed"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Dissolve the panela in the water with the spices over low heat for 8 minutes to make a syrup. Let it cool slightly.",
+   "Mix the flour, baking soda and salt and add the syrup. Knead to a soft dough.",
+   "Heat the oven to 180 °C. Roll to 1 cm and cut 8 cm rounds.",
+   "Bake on a floured tray for 12 minutes."
+  ],
+  "tips": [
+   "They get softer the next day.",
+   "Store in an airtight container."
+  ],
+  "video": "venezuelan catalinas"
+ },
+ "added": "2026-09-30"
+}

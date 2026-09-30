@@ -1,0 +1,105 @@
+{
+ "id": "polvorosas",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "cookie",
+ "time": 40,
+ "serves": 24,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "shortening",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Polvorosas",
+  "blurb": "Galletas que se deshacen en la boca, hechas solo con harina, azúcar y grasa. Se venden en las panaderías de Venezuela.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "grasa vegetal"
+   },
+   {
+    "n": "canela molida"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Calienta el horno a 170 °C.",
+   "Mezcla la harina, el azúcar, la canela y la sal. Incorpora la grasa con las manos hasta formar una masa arenosa que se compacte.",
+   "Forma bolitas de 3 cm, aplánalas un poco y colócalas en una bandeja.",
+   "Hornea 15 minutos, sin que doren. Deja enfriar en la bandeja porque son frágiles en caliente."
+  ],
+  "tips": [
+   "Tostar la harina 5 minutos antes les da más sabor.",
+   "Se guardan en lata hasta 2 semanas."
+  ],
+  "video": "polvorosas venezolanas"
+ },
+ "en": {
+  "name": "Polvorosas (Venezuelan Crumble Cookies)",
+  "blurb": "Cookies that melt in the mouth, made with just flour, sugar and shortening. Sold in every Venezuelan bakery.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "vegetable shortening"
+   },
+   {
+    "n": "ground cinnamon"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 170 °C.",
+   "Mix the flour, sugar, cinnamon and salt. Work in the shortening by hand until sandy and it holds together.",
+   "Roll 3 cm balls, flatten slightly and set on a tray.",
+   "Bake 15 minutes without browning. Cool on the tray: they're fragile when hot."
+  ],
+  "tips": [
+   "Toasting the flour for 5 minutes first adds flavour.",
+   "They keep in a tin for up to 2 weeks."
+  ],
+  "video": "venezuelan polvorosas"
+ },
+ "added": "2026-09-30"
+}

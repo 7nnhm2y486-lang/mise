@@ -1,0 +1,165 @@
+{
+ "id": "cuajado-de-atun",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 340,
+   "u": "g",
+   "k": "tuna",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Cuajado de atún",
+  "blurb": "Tortilla gruesa de huevo con plátano maduro y atún guisado, cuajada al horno. Clásico de Semana Santa.",
+  "ing": [
+   {
+    "n": "plátanos maduros",
+    "note": "en cubos"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "atún en lata",
+    "note": "escurrido"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ajíes dulces",
+    "note": "picados"
+   },
+   {
+    "n": "tomate",
+    "note": "picado"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Fríe el plátano en 2 cucharadas del aceite hasta dorar.",
+   "Sofríe la cebolla, el ajo y el ají dulce en el resto del aceite 6 minutos, añade el tomate y el atún y cocina 5 minutos.",
+   "Calienta el horno a 180 °C. Bate los huevos con la sal y mezcla con el plátano y el atún.",
+   "Vierte en una fuente engrasada y hornea 25 minutos, hasta que cuaje."
+  ],
+  "tips": [
+   "Separar las claras y batirlas a punto de nieve lo hace más esponjoso.",
+   "Se come tibio o frío."
+  ],
+  "video": "cuajado venezolano"
+ },
+ "en": {
+  "name": "Cuajado de Atún (Plantain and Tuna Bake)",
+  "blurb": "A thick baked egg dish with ripe plantain and stewed tuna. A Holy Week classic.",
+  "ing": [
+   {
+    "n": "ripe plantains",
+    "note": "diced"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "canned tuna",
+    "note": "drained"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet ají peppers",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato",
+    "note": "chopped"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Fry the plantain in 2 tablespoons of the oil until golden.",
+   "Cook the onion, garlic and ají peppers in the rest of the oil for 6 minutes, add the tomato and tuna and cook 5 minutes.",
+   "Heat the oven to 180 °C. Beat the eggs with the salt and mix with the plantain and tuna.",
+   "Pour into an oiled dish and bake 25 minutes, until set."
+  ],
+  "tips": [
+   "Whisking the whites separately to stiff peaks makes it fluffier.",
+   "Eat it warm or cold."
+  ],
+  "video": "venezuelan cuajado"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,215 @@
+{
+ "id": "fosforera",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "clam",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "squid",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Fosforera",
+  "blurb": "Sopa de mariscos y pescado con ají dulce, típica de la isla de Margarita. Famosa por reanimar después de una fiesta.",
+  "ing": [
+   {
+    "n": "pescado blanco en trozos"
+   },
+   {
+    "n": "camarones"
+   },
+   {
+    "n": "almejas (chipichipi)",
+    "note": "lavadas"
+   },
+   {
+    "n": "calamares",
+    "note": "en aros"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ajíes dulces",
+    "note": "picados"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "limón"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo, el ají dulce y el tomate en el aceite 8 minutos.",
+   "Añade el agua y la sal y hierve 15 minutos.",
+   "Añade el pescado y el calamar y cuece 6 minutos. Añade las almejas y los camarones y cuece 4 minutos, hasta que se abran las almejas.",
+   "Termina con el jugo de limón y el cilantro. Desecha las almejas que no se abran."
+  ],
+  "tips": [
+   "Lava las almejas en agua fría con sal para que suelten la arena.",
+   "No la hiervas fuerte después de añadir los mariscos."
+  ],
+  "video": "fosforera margariteña"
+ },
+ "en": {
+  "name": "Fosforera (Margarita Seafood Soup)",
+  "blurb": "A soup of shellfish and fish with sweet ají peppers from Margarita Island. Famous as a hangover cure.",
+  "ing": [
+   {
+    "n": "white fish in chunks"
+   },
+   {
+    "n": "prawns"
+   },
+   {
+    "n": "small clams",
+    "note": "scrubbed"
+   },
+   {
+    "n": "squid",
+    "note": "in rings"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet ají peppers",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "lime"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic, ají peppers and tomato in the oil for 8 minutes.",
+   "Add the water and salt and boil 15 minutes.",
+   "Add the fish and squid and simmer 6 minutes. Add the clams and prawns and simmer 4 minutes, until the clams open.",
+   "Finish with the lime juice and coriander. Discard any clams that stay shut."
+  ],
+  "tips": [
+   "Soak the clams in cold salted water so they release their sand.",
+   "Don't boil hard once the seafood is in."
+  ],
+  "video": "venezuelan fosforera"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,131 @@
+{
+ "id": "besitos-de-coco",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "cookie",
+ "time": 45,
+ "serves": 20,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "desiccatedcoconut",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Besitos de coco",
+  "blurb": "Bocaditos dorados de coco y papelón con un toque de jengibre. Dulce típico de las costas venezolanas.",
+  "ing": [
+   {
+    "n": "coco rallado seco"
+   },
+   {
+    "n": "papelón rallado (panela)"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "mantequilla",
+    "note": "derretida"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "jengibre y canela molidos"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Calienta el horno a 180 °C.",
+   "Mezcla todos los ingredientes hasta formar una masa pegajosa.",
+   "Forma montoncitos de una cucharada sobre una bandeja con papel.",
+   "Hornea 20 minutos, hasta que estén dorados por fuera."
+  ],
+  "tips": [
+   "Si la masa está muy suelta, refrigérala 15 minutos.",
+   "Se conservan 1 semana en lata."
+  ],
+  "video": "besitos de coco venezolanos"
+ },
+ "en": {
+  "name": "Besitos de Coco (Coconut Panela Kisses)",
+  "blurb": "Golden bites of coconut and panela with a touch of ginger. A sweet from Venezuela's coast.",
+  "ing": [
+   {
+    "n": "desiccated coconut"
+   },
+   {
+    "n": "grated panela"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "butter",
+    "note": "melted"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "ground ginger and cinnamon"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 180 °C.",
+   "Mix all the ingredients to a sticky dough.",
+   "Drop tablespoon mounds onto a lined tray.",
+   "Bake 20 minutes, until golden outside."
+  ],
+  "tips": [
+   "If the dough is too loose, chill it for 15 minutes.",
+   "They keep 1 week in a tin."
+  ],
+  "video": "venezuelan coconut kisses"
+ },
+ "added": "2026-09-30"
+}
