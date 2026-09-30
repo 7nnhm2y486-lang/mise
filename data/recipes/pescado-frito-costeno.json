@@ -1,0 +1,139 @@
+{
+ "id": "pescado-frito-costeno",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Pescado frito costeño",
+  "blurb": "Pescado entero frito hasta que la piel y las aletas crujen. Se come en la playa con patacones y arroz con coco.",
+  "ing": [
+   {
+    "n": "mojarras o pargos enteros",
+    "note": "limpios"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "limón",
+    "note": "en gajos"
+   }
+  ],
+  "steps": [
+   "Haz 3 cortes diagonales a cada lado del pescado.",
+   "Frota con el jugo de limón, el ajo y la sal, también por dentro. Deja 20 minutos.",
+   "Seca el pescado y pásalo por la harina.",
+   "Fríe a 180 °C durante 6 minutos por lado, hasta que esté dorado y crujiente.",
+   "Escurre y sirve con el limón."
+  ],
+  "tips": [
+   "Los cortes hacen que se cocine parejo y que la piel cruja.",
+   "No lo muevas en el aceite hasta que se despegue solo."
+  ],
+  "video": "pescado frito costeño receta"
+ },
+ "en": {
+  "name": "Colombian Coastal Fried Fish",
+  "blurb": "Whole fish fried until the skin and fins crackle. Eaten on the beach with patacones and coconut rice.",
+  "ing": [
+   {
+    "n": "whole tilapia or snapper",
+    "note": "cleaned"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "lime",
+    "note": "in wedges"
+   }
+  ],
+  "steps": [
+   "Make 3 diagonal cuts on each side of the fish.",
+   "Rub with the lime juice, garlic and salt, inside too. Leave 20 minutes.",
+   "Pat the fish dry and coat in the flour.",
+   "Fry at 180 °C for 6 minutes a side, until golden and crisp.",
+   "Drain and serve with the lime."
+  ],
+  "tips": [
+   "The cuts help it cook evenly and crisp the skin.",
+   "Don't move it in the oil until it releases on its own."
+  ],
+  "video": "colombian fried fish recipe"
+ },
+ "added": "2026-09-30"
+}

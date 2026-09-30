@@ -1,0 +1,161 @@
+{
+ "id": "aborrajados",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "cheese",
+   "role": "protein"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "guavapaste",
+   "role": "sweet"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Aborrajados",
+  "blurb": "Plátano maduro frito relleno de queso y bocadillo de guayaba, rebozado y frito otra vez. Del Valle del Cauca.",
+  "ing": [
+   {
+    "n": "plátanos maduros",
+    "note": "pelados, en 4 trozos"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "queso mozzarella o costeño",
+    "note": "en lonchas"
+   },
+   {
+    "n": "bocadillo de guayaba",
+    "note": "en lonchas"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Fríe los trozos de plátano a 170 °C durante 4 minutos. Escúrrelos.",
+   "Aplasta cada trozo entre dos plásticos hasta 1 cm.",
+   "Pon una loncha de queso y una de bocadillo sobre un plátano y cubre con otro. Aprieta los bordes.",
+   "Bate la harina, el huevo, la leche, el azúcar y la sal hasta tener una masa lisa.",
+   "Pasa cada aborrajado por la masa y fríe a 180 °C durante 2 minutos por lado, hasta que estén dorados."
+  ],
+  "tips": [
+   "Usa plátano bien maduro, con la cáscara casi negra.",
+   "Sírvelos calientes, con el queso aún fundido."
+  ],
+  "video": "aborrajados vallunos receta"
+ },
+ "en": {
+  "name": "Aborrajados (Stuffed Fried Plantains)",
+  "blurb": "Fried ripe plantain stuffed with cheese and guava paste, battered and fried again. From the Cauca Valley.",
+  "ing": [
+   {
+    "n": "ripe plantains",
+    "note": "peeled, in 4 pieces"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "mozzarella or costeño cheese",
+    "note": "sliced"
+   },
+   {
+    "n": "guava paste",
+    "note": "sliced"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Fry the plantain pieces at 170 °C for 4 minutes. Drain.",
+   "Flatten each piece between two sheets of plastic to 1 cm.",
+   "Lay a slice of cheese and one of guava paste on a plantain and cover with another. Press the edges.",
+   "Whisk the flour, egg, milk, sugar and salt to a smooth batter.",
+   "Dip each aborrajado in the batter and fry at 180 °C for 2 minutes a side, until golden."
+  ],
+  "tips": [
+   "Use very ripe plantain, with almost black skin.",
+   "Serve hot, with the cheese still melted."
+  ],
+  "video": "aborrajados recipe"
+ },
+ "added": "2026-09-30"
+}

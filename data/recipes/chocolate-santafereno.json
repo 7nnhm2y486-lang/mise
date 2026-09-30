@@ -1,0 +1,111 @@
+{
+ "id": "chocolate-santafereno",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 15,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "tablechocolate",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "cheese",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Chocolate santafereño",
+  "blurb": "Chocolate caliente batido con molinillo y servido con queso que se funde dentro. Las onces de Bogotá.",
+  "ing": [
+   {
+    "n": "leche"
+   },
+   {
+    "n": "chocolate de mesa",
+    "note": "en trozos"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "queso campesino o doble crema",
+    "note": "en dados"
+   }
+  ],
+  "steps": [
+   "Calienta la leche con la canela y los clavos.",
+   "Añade el chocolate y cuece 5 minutos a fuego bajo, removiendo, hasta que se disuelva.",
+   "Bate con molinillo o batidor hasta que haga espuma.",
+   "Pon los dados de queso en las tazas.",
+   "Sirve el chocolate caliente encima y deja que el queso se ablande."
+  ],
+  "tips": [
+   "Saca la canela y los clavos antes de batir.",
+   "Deja que hierva y baje tres veces, como en las casas bogotanas; así espesa."
+  ],
+  "video": "chocolate santafereño con queso"
+ },
+ "en": {
+  "name": "Chocolate Santafereño (Hot Chocolate with Cheese)",
+  "blurb": "Hot chocolate frothed with a molinillo and served with cheese that melts inside. Bogotá's afternoon snack.",
+  "ing": [
+   {
+    "n": "milk"
+   },
+   {
+    "n": "table chocolate",
+    "note": "in pieces"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "whole cloves"
+   },
+   {
+    "n": "fresh farmer's cheese",
+    "note": "diced"
+   }
+  ],
+  "steps": [
+   "Heat the milk with the cinnamon and cloves.",
+   "Add the chocolate and cook 5 minutes on low, stirring, until dissolved.",
+   "Froth with a molinillo or whisk.",
+   "Put the cheese cubes in the cups.",
+   "Pour the hot chocolate over and let the cheese soften."
+  ],
+  "tips": [
+   "Take out the cinnamon and cloves before frothing.",
+   "Let it rise and fall three times, as Bogotá households do; it thickens."
+  ],
+  "video": "colombian hot chocolate with cheese"
+ },
+ "added": "2026-09-30"
+}

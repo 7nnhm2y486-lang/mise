@@ -1,0 +1,194 @@
+{
+ "id": "frijoles-antioquenos",
+ "country": "Colombia",
+ "countryEs": "Colombia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 150,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "porkbelly",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "plantain",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Frijoles antioqueños",
+  "blurb": "Frijoles espesos con tocino, plátano verde y hogao. El corazón de la bandeja paisa, también solos con arroz.",
+  "ing": [
+   {
+    "n": "frijoles cargamanto o rojos",
+    "note": "remojados 12 horas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "tocino de cerdo con piel",
+    "note": "en trozos"
+   },
+   {
+    "n": "plátano verde",
+    "note": "en trocitos"
+   },
+   {
+    "n": "zanahoria",
+    "note": "rallada"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "tallos de cebolla larga",
+    "note": "picados"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece los frijoles con el agua y el tocino 90 minutos, hasta que estén tiernos.",
+   "Añade el plátano y la zanahoria y cuece 30 minutos más; el plátano se deshace y espesa.",
+   "Para el hogao, sofríe la cebolla larga, el tomate y el ajo en el aceite 10 minutos con el comino.",
+   "Añade el hogao y la sal a los frijoles y cuece 10 minutos.",
+   "Sirve con arroz blanco."
+  ],
+  "tips": [
+   "Pica el plátano con los dedos en trocitos en vez de cortarlo; así suelta más almidón.",
+   "No añadas sal hasta que los frijoles estén tiernos o se endurecen."
+  ],
+  "video": "frijoles antioqueños receta"
+ },
+ "en": {
+  "name": "Frijoles Antioqueños (Colombian Red Beans)",
+  "blurb": "Thick beans with pork belly, green plantain and hogao. The heart of the bandeja paisa, and good on their own with rice.",
+  "ing": [
+   {
+    "n": "cargamanto or red beans",
+    "note": "soaked 12 hours"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "skin-on pork belly",
+    "note": "in pieces"
+   },
+   {
+    "n": "green plantain",
+    "note": "in small pieces"
+   },
+   {
+    "n": "carrot",
+    "note": "grated"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "long green onion stalks",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the beans with the water and pork belly for 90 minutes, until tender.",
+   "Add the plantain and carrot and cook 30 minutes more; the plantain breaks down and thickens.",
+   "For the hogao, cook the green onion, tomato and garlic in the oil for 10 minutes with the cumin.",
+   "Add the hogao and salt to the beans and cook 10 minutes.",
+   "Serve with white rice."
+  ],
+  "tips": [
+   "Break the plantain into small pieces with your fingers instead of cutting it; it releases more starch.",
+   "Don't salt until the beans are tender or they toughen."
+  ],
+  "video": "colombian red beans recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,203 @@
+{
+ "id": "sudado-de-pollo",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Sudado de pollo",
+  "blurb": "Pollo cocido al vapor de su propio hogao con papa y yuca. Almuerzo de todos los días en Colombia.",
+  "ing": [
+   {
+    "n": "pollo en presas"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "tallos de cebolla larga",
+    "note": "picados"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "color (achiote en polvo)"
+   },
+   {
+    "n": "papas",
+    "note": "peladas, en mitades"
+   },
+   {
+    "n": "yuca",
+    "note": "en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el tomate y el ajo en el aceite con el comino y el color 8 minutos.",
+   "Añade el pollo y la sal, mezcla y tapa. Cuece 15 minutos a fuego bajo; el pollo suelta su jugo.",
+   "Añade la papa, la yuca y el agua. Tapa y cuece 25 minutos, hasta que estén tiernas.",
+   "Destapa y deja reducir 5 minutos si hay mucho líquido.",
+   "Termina con el cilantro y sirve con arroz."
+  ],
+  "tips": [
+   "Mantén la olla tapada: el sudado se cocina en su vapor.",
+   "La papa criolla, si la encuentras, espesa la salsa al deshacerse."
+  ],
+  "video": "sudado de pollo colombiano"
+ },
+ "en": {
+  "name": "Sudado de Pollo (Colombian Braised Chicken)",
+  "blurb": "Chicken steamed in its own hogao with potato and cassava. An everyday Colombian lunch.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "long green onion stalks",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "ground annatto (color)"
+   },
+   {
+    "n": "potatoes",
+    "note": "peeled, halved"
+   },
+   {
+    "n": "cassava",
+    "note": "in chunks"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Cook the green onion, tomato and garlic in the oil with the cumin and annatto for 8 minutes.",
+   "Add the chicken and salt, stir and cover. Cook 15 minutes on low; the chicken releases its juices.",
+   "Add the potato, cassava and water. Cover and cook 25 minutes, until tender.",
+   "Uncover and reduce 5 minutes if there's a lot of liquid.",
+   "Finish with the cilantro and serve with rice."
+  ],
+  "tips": [
+   "Keep the lid on: a sudado cooks in its own steam.",
+   "Papa criolla, if you find it, thickens the sauce as it breaks down."
+  ],
+  "video": "colombian chicken stew recipe"
+ },
+ "added": "2026-09-30"
+}

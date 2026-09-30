@@ -1,0 +1,143 @@
+{
+ "id": "salpicon-de-frutas",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 15,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "fruit",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Salpicón de frutas",
+  "blurb": "Fruta picada flotando en jugo de sandía. Se toma con cuchara en las calles de Cali.",
+  "ing": [
+   {
+    "n": "papaya pequeña",
+    "note": "en dados"
+   },
+   {
+    "n": "piña",
+    "note": "en dados"
+   },
+   {
+    "n": "plátanos (bananos)",
+    "note": "en dados"
+   },
+   {
+    "n": "manzana",
+    "note": "en dados"
+   },
+   {
+    "n": "fresas",
+    "note": "en dados"
+   },
+   {
+    "n": "jugo de sandía"
+   },
+   {
+    "n": "limón",
+    "note": "en jugo"
+   }
+  ],
+  "steps": [
+   "Pica todas las frutas en dados de 1 cm.",
+   "Mézclalas en una jarra grande.",
+   "Añade el jugo de sandía y el jugo de limón.",
+   "Refrigera 30 minutos.",
+   "Sirve en vasos con cuchara."
+  ],
+  "tips": [
+   "Para el jugo, licúa sandía sin semillas y cuélala.",
+   "El limón evita que la manzana y el plátano se oscurezcan."
+  ],
+  "video": "salpicón de frutas colombiano"
+ },
+ "en": {
+  "name": "Salpicón de Frutas (Fruit in Watermelon Juice)",
+  "blurb": "Diced fruit floating in watermelon juice. Eaten with a spoon on the streets of Cali.",
+  "ing": [
+   {
+    "n": "small papaya",
+    "note": "diced"
+   },
+   {
+    "n": "pineapple",
+    "note": "diced"
+   },
+   {
+    "n": "bananas",
+    "note": "diced"
+   },
+   {
+    "n": "apple",
+    "note": "diced"
+   },
+   {
+    "n": "strawberries",
+    "note": "diced"
+   },
+   {
+    "n": "watermelon juice"
+   },
+   {
+    "n": "lime",
+    "note": "juiced"
+   }
+  ],
+  "steps": [
+   "Dice all the fruit into 1 cm cubes.",
+   "Mix in a large jug.",
+   "Add the watermelon juice and lime juice.",
+   "Refrigerate 30 minutes.",
+   "Serve in glasses with a spoon."
+  ],
+  "tips": [
+   "For the juice, blend seedless watermelon and strain it.",
+   "The lime stops the apple and banana browning."
+  ],
+  "video": "colombian salpicon recipe"
+ },
+ "added": "2026-09-30"
+}

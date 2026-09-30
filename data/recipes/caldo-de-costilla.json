@@ -1,0 +1,155 @@
+{
+ "id": "caldo-de-costilla",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Caldo de costilla",
+  "blurb": "Sopa clara de costilla de res con papa y mucho cilantro. El desayuno que levanta en Bogotá después de una noche larga.",
+  "ing": [
+   {
+    "n": "costilla de res",
+    "note": "en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla",
+    "note": "en mitades"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "papas",
+    "note": "peladas, en trozos"
+   },
+   {
+    "n": "cebolla larga",
+    "note": "picada"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece la costilla en el agua con la cebolla, el ajo y la sal 50 minutos, quitando la espuma.",
+   "Saca la cebolla.",
+   "Añade las papas y cuece 20 minutos, hasta que estén tiernas.",
+   "Prueba y ajusta la sal.",
+   "Sirve con la cebolla larga y el cilantro por encima."
+  ],
+  "tips": [
+   "Quitar la espuma al principio deja la sopa clara.",
+   "Se acompaña con arepa y un chocolate caliente."
+  ],
+  "video": "caldo de costilla receta colombiana"
+ },
+ "en": {
+  "name": "Caldo de Costilla (Beef Rib Soup)",
+  "blurb": "A clear beef rib soup with potato and lots of cilantro. The breakfast that revives Bogotá after a long night.",
+  "ing": [
+   {
+    "n": "beef short ribs",
+    "note": "cut up"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "onion",
+    "note": "halved"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "potatoes",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "long green onion",
+    "note": "chopped"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the ribs in the water with the onion, garlic and salt for 50 minutes, skimming.",
+   "Remove the onion.",
+   "Add the potatoes and cook 20 minutes, until tender.",
+   "Taste and adjust the salt.",
+   "Serve with the green onion and cilantro on top."
+  ],
+  "tips": [
+   "Skimming at the start keeps the soup clear.",
+   "It is served with arepa and a hot chocolate."
+  ],
+  "video": "colombian beef rib soup recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,217 @@
+{
+ "id": "arroz-atollado",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 70,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Arroz atollado",
+  "blurb": "Arroz caldoso y meloso con cerdo, pollo, chorizo y papa criolla. Plato de fiesta del Valle del Cauca.",
+  "ing": [
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "carne de cerdo",
+    "note": "en dados"
+   },
+   {
+    "n": "pollo",
+    "note": "en presas pequeñas"
+   },
+   {
+    "n": "chorizo",
+    "note": "en rodajas"
+   },
+   {
+    "n": "tallos de cebolla larga",
+    "note": "picados"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "color (achiote en polvo)"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "papa criolla o papas pequeñas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Dora el cerdo, el pollo y el chorizo en el aceite 10 minutos.",
+   "Añade la cebolla, el tomate, el ajo y el color y cuece 8 minutos.",
+   "Añade el agua y la sal y cuece 20 minutos.",
+   "Añade el arroz y la papa y cuece 20 minutos, removiendo de vez en cuando, hasta que el arroz esté cremoso y caldoso.",
+   "Termina con el cilantro."
+  ],
+  "tips": [
+   "Debe quedar meloso, como un risotto suelto; añade agua caliente si se seca.",
+   "La papa criolla se deshace y da el color amarillo y la cremosidad."
+  ],
+  "video": "arroz atollado valluno receta"
+ },
+ "en": {
+  "name": "Arroz Atollado (Soupy Colombian Rice)",
+  "blurb": "Soupy, creamy rice with pork, chicken, chorizo and yellow potatoes. A party dish from the Cauca Valley.",
+  "ing": [
+   {
+    "n": "oil"
+   },
+   {
+    "n": "pork",
+    "note": "diced"
+   },
+   {
+    "n": "chicken",
+    "note": "in small pieces"
+   },
+   {
+    "n": "chorizo",
+    "note": "sliced"
+   },
+   {
+    "n": "long green onion stalks",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ground annatto (color)"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "papa criolla or small potatoes"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Brown the pork, chicken and chorizo in the oil for 10 minutes.",
+   "Add the green onion, tomato, garlic and annatto and cook 8 minutes.",
+   "Add the water and salt and cook 20 minutes.",
+   "Add the rice and potatoes and cook 20 minutes, stirring now and then, until the rice is creamy and soupy.",
+   "Finish with the cilantro."
+  ],
+  "tips": [
+   "It should be loose, like a runny risotto; add hot water if it dries.",
+   "Papa criolla breaks down and gives the yellow colour and creaminess."
+  ],
+  "video": "arroz atollado recipe"
+ },
+ "added": "2026-09-30"
+}

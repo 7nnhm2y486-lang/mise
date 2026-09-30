@@ -1,0 +1,107 @@
+{
+ "id": "cocadas",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 40,
+ "serves": 16,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "desiccatedcoconut",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Cocadas costeñas",
+  "blurb": "Dulces de coco cocido en panela, en montoncitos. Las venden las palenqueras en Cartagena.",
+  "ing": [
+   {
+    "n": "coco rallado fresco o seco"
+   },
+   {
+    "n": "panela rallada"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "ralladura de limón"
+   }
+  ],
+  "steps": [
+   "Cuece la panela con el agua y la canela 5 minutos, hasta que se disuelva.",
+   "Añade el coco y la ralladura y cuece a fuego medio 15 minutos, removiendo, hasta que se despegue del fondo.",
+   "Saca la canela.",
+   "Forma montoncitos con dos cucharas sobre papel de horno.",
+   "Deja enfriar y endurecer 30 minutos."
+  ],
+  "tips": [
+   "Trabaja rápido al formar las cocadas: la mezcla se endurece al enfriarse.",
+   "Con coco seco, añade 50 ml más de agua."
+  ],
+  "video": "cocadas de coco y panela"
+ },
+ "en": {
+  "name": "Cocadas (Coconut Panela Sweets)",
+  "blurb": "Coconut sweets cooked in panela, dropped in little mounds. Sold by the palenqueras of Cartagena.",
+  "ing": [
+   {
+    "n": "fresh or desiccated coconut"
+   },
+   {
+    "n": "grated panela"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "lime zest"
+   }
+  ],
+  "steps": [
+   "Simmer the panela with the water and cinnamon for 5 minutes, until dissolved.",
+   "Add the coconut and zest and cook over medium heat for 15 minutes, stirring, until it pulls from the bottom.",
+   "Remove the cinnamon.",
+   "Drop little mounds with two spoons onto baking paper.",
+   "Leave to cool and harden for 30 minutes."
+  ],
+  "tips": [
+   "Work fast when shaping: the mixture hardens as it cools.",
+   "With desiccated coconut, add 50 ml more water."
+  ],
+  "video": "cocadas recipe"
+ },
+ "added": "2026-09-30"
+}

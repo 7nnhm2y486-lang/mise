@@ -1,0 +1,111 @@
+{
+ "id": "mazamorra-antioquena",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 240,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "hominy",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "bakingsoda",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "serve"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "jaggery",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Mazamorra antioqueña",
+  "blurb": "Maíz blanco cocido hasta ablandarse, servido en su líquido con leche fría y un trozo de panela.",
+  "ing": [
+   {
+    "n": "maíz peto (maíz blanco pelado)",
+    "note": "remojado 12 horas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "leche fría"
+   },
+   {
+    "n": "panela",
+    "note": "en trozos"
+   }
+  ],
+  "steps": [
+   "Cuece el maíz en el agua con el bicarbonato a fuego bajo 3 horas y media, hasta que esté blando y abierto.",
+   "Añade agua caliente si baja mucho; debe quedar cubierto.",
+   "Deja enfriar en su líquido.",
+   "Sirve en vasos con parte del líquido y la leche fría.",
+   "Acompaña cada vaso con un trozo de panela para morder."
+  ],
+  "tips": [
+   "En olla a presión tarda 1 hora.",
+   "Se guarda 3 días en la nevera con su líquido."
+  ],
+  "video": "mazamorra antioqueña receta"
+ },
+ "en": {
+  "name": "Mazamorra Antioqueña (White Corn in Milk)",
+  "blurb": "White corn simmered until soft, served in its liquid with cold milk and a piece of panela.",
+  "ing": [
+   {
+    "n": "peeled white corn (maíz peto)",
+    "note": "soaked 12 hours"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "cold milk"
+   },
+   {
+    "n": "panela",
+    "note": "in pieces"
+   }
+  ],
+  "steps": [
+   "Simmer the corn in the water with the baking soda on low for 3 and a half hours, until soft and split.",
+   "Add hot water if it drops too low; it should stay covered.",
+   "Let cool in its liquid.",
+   "Serve in glasses with some of the liquid and the cold milk.",
+   "Give each glass a piece of panela to bite."
+  ],
+  "tips": [
+   "In a pressure cooker it takes 1 hour.",
+   "Keeps 3 days in the fridge in its liquid."
+  ],
+  "video": "mazamorra antioquena recipe"
+ },
+ "added": "2026-09-30"
+}
