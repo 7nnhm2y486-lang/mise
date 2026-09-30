@@ -1,0 +1,171 @@
+{
+ "id": "tortitas-de-camaron",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 80,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "breadcrumbs",
+   "role": "binder"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "ancho",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "sauce"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Tortitas de camarón en caldillo",
+  "blurb": "Tortitas esponjosas de camarón seco en caldillo de guajillo con nopales. Plato de Cuaresma en México.",
+  "ing": [
+   {
+    "n": "camarón seco molido"
+   },
+   {
+    "n": "huevos, separadas claras y yemas"
+   },
+   {
+    "n": "pan molido"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "sin semillas"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "nopales cocidos",
+    "note": "en tiras"
+   },
+   {
+    "n": "cilantro"
+   }
+  ],
+  "steps": [
+   "Bate las claras a punto de nieve. Añade las yemas, el camarón y el pan molido con movimientos envolventes.",
+   "Fríe cucharadas de la mezcla en el aceite 1 minuto por lado. Escurre.",
+   "Remoja los chiles en agua caliente 10 minutos y lícualos con el jitomate, el ajo y el agua. Cuela.",
+   "Cuece la salsa con 1 cucharada del aceite 10 minutos. Añade los nopales y el cilantro.",
+   "Añade las tortitas y cuece 3 minutos."
+  ],
+  "tips": [
+   "No añadas sal: el camarón seco ya es muy salado.",
+   "Mételas al caldillo justo antes de servir para que no se deshagan."
+  ],
+  "video": "tortitas de camarón en caldillo"
+ },
+ "en": {
+  "name": "Tortitas de Camarón (Dried Shrimp Fritters in Chilli Broth)",
+  "blurb": "Fluffy dried shrimp fritters in a guajillo broth with cactus. A Lenten dish in Mexico.",
+  "ing": [
+   {
+    "n": "ground dried shrimp"
+   },
+   {
+    "n": "eggs, separated"
+   },
+   {
+    "n": "breadcrumbs"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "guajillo chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cooked cactus paddles",
+    "note": "in strips"
+   },
+   {
+    "n": "coriander"
+   }
+  ],
+  "steps": [
+   "Whisk the egg whites to stiff peaks. Fold in the yolks, shrimp and breadcrumbs.",
+   "Fry spoonfuls of the mixture in the oil for 1 minute per side. Drain.",
+   "Soak the chillies in hot water for 10 minutes and blend with the tomato, garlic and water. Strain.",
+   "Simmer the sauce with 1 tablespoon of the oil for 10 minutes. Add the cactus and coriander.",
+   "Add the fritters and cook 3 minutes."
+  ],
+  "tips": [
+   "Don't add salt: dried shrimp is already very salty.",
+   "Add them to the broth just before serving so they hold together."
+  ],
+  "video": "mexican dried shrimp fritters"
+ },
+ "added": "2026-09-30"
+}
