@@ -1,0 +1,173 @@
+{
+ "id": "bunuelos-cubanos",
+ "country": "Cuba",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Buñuelos cubanos",
+  "blurb": "Buñuelos en forma de ocho de yuca y malanga, bañados en almíbar de anís. Postre de Nochebuena.",
+  "ing": [
+   {
+    "n": "yuca",
+    "note": "pelada"
+   },
+   {
+    "n": "malanga",
+    "note": "pelada"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "anís en grano y canela en rama"
+   },
+   {
+    "n": "cáscara de limón"
+   }
+  ],
+  "steps": [
+   "Hierve el azúcar, el agua, el anís, la canela y la cáscara de limón 10 minutos para hacer el almíbar.",
+   "Hierve la yuca y la malanga 25 minutos, hasta que estén tiernas. Quita las fibras y hazlas puré.",
+   "Mezcla con el huevo, la harina y la sal hasta tener una masa suave.",
+   "Forma cordones y dóblalos en forma de ocho. Fríe en el aceite a 175 °C hasta dorar.",
+   "Sírvelos bañados en el almíbar."
+  ],
+  "tips": [
+   "Mójate las manos para formarlos sin que se peguen.",
+   "El almíbar se puede hacer un día antes."
+  ],
+  "video": "buñuelos de yuca y malanga"
+ },
+ "en": {
+  "name": "Buñuelos Cubanos (Cassava Fritters in Anise Syrup)",
+  "blurb": "Figure-eight fritters of cassava and taro soaked in anise syrup. A Christmas Eve dessert.",
+  "ing": [
+   {
+    "n": "cassava",
+    "note": "peeled"
+   },
+   {
+    "n": "taro",
+    "note": "peeled"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "aniseed and cinnamon stick"
+   },
+   {
+    "n": "lime peel"
+   }
+  ],
+  "steps": [
+   "Boil the sugar, water, aniseed, cinnamon and lime peel for 10 minutes to make the syrup.",
+   "Boil the cassava and taro for 25 minutes, until tender. Remove the fibres and mash.",
+   "Mix with the egg, flour and salt to a soft dough.",
+   "Roll into ropes and fold into figure eights. Fry in the oil at 175 °C until golden.",
+   "Serve soaked in the syrup."
+  ],
+  "tips": [
+   "Wet your hands to shape them without sticking.",
+   "The syrup can be made a day ahead."
+  ],
+  "video": "cuban cassava fritters"
+ },
+ "added": "2026-09-30"
+}

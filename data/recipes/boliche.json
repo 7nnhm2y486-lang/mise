@@ -1,0 +1,215 @@
+{
+ "id": "boliche",
+ "country": "Cuba",
+ "region": "latin-america",
+ "course": "main",
+ "time": 210,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Boliche mechado",
+  "blurb": "Redondo de res relleno de chorizo y cocido lentamente en su salsa con papas. Plato de domingo cubano.",
+  "ing": [
+   {
+    "n": "boliche (redondo de res)"
+   },
+   {
+    "n": "chorizos españoles curados",
+    "note": "en tiras"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "naranjas agrias",
+    "note": "en jugo"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ají pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "vino seco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "papas",
+    "note": "en mitades"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Abre un túnel a lo largo de la carne con un cuchillo largo y rellénalo con el chorizo.",
+   "Mezcla el ajo, el jugo de naranja, el comino, el orégano y 2 cucharaditas de sal y marina la carne 4 horas.",
+   "Dora la carne en el aceite por todos lados 12 minutos. Añade la cebolla y el pimiento y cocina 5 minutos.",
+   "Añade la marinada, el vino y el agua, tapa y cuece a fuego bajo 2 horas y media.",
+   "Añade las papas y el resto de la sal y cocina 30 minutos más. Corta en rodajas y sirve con la salsa."
+  ],
+  "tips": [
+   "En olla a presión tarda 50 minutos antes de añadir las papas.",
+   "Se corta mejor tibio."
+  ],
+  "video": "boliche cubano"
+ },
+ "en": {
+  "name": "Boliche (Cuban Chorizo-Stuffed Pot Roast)",
+  "blurb": "Eye of round stuffed with chorizo and slow-cooked in its sauce with potatoes. A Cuban Sunday dish.",
+  "ing": [
+   {
+    "n": "beef eye of round"
+   },
+   {
+    "n": "cured Spanish chorizos",
+    "note": "in strips"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "sour oranges",
+    "note": "juiced"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "dry cooking wine"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "potatoes",
+    "note": "halved"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Push a long knife through the length of the beef to make a tunnel and stuff it with the chorizo.",
+   "Mix the garlic, orange juice, cumin, oregano and 2 teaspoons of salt and marinate the beef 4 hours.",
+   "Brown the beef in the oil on all sides for 12 minutes. Add the onion and pepper and cook 5 minutes.",
+   "Add the marinade, wine and water, cover and simmer on low heat for 2½ hours.",
+   "Add the potatoes and remaining salt and cook 30 minutes more. Slice and serve with the sauce."
+  ],
+  "tips": [
+   "In a pressure cooker it takes 50 minutes before the potatoes go in.",
+   "It slices best when warm."
+  ],
+  "video": "cuban boliche"
+ },
+ "added": "2026-09-30"
+}

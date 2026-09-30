@@ -1,0 +1,171 @@
+{
+ "id": "enchilado-de-camarones",
+ "country": "Cuba",
+ "region": "latin-america",
+ "course": "main",
+ "time": 35,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 700,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Enchilado de camarones",
+  "blurb": "Camarones en salsa criolla de tomate, vino seco y ajo. A pesar del nombre, no pica.",
+  "ing": [
+   {
+    "n": "camarones",
+    "note": "pelados"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ají pimiento",
+    "note": "picado"
+   },
+   {
+    "n": "puré de tomate"
+   },
+   {
+    "n": "vino seco"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "hoja de laurel"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo y el pimiento en el aceite 8 minutos.",
+   "Añade el tomate, el vino, el comino, el laurel y la sal y cuece 12 minutos.",
+   "Añade los camarones y cocina 4 minutos, hasta que estén rosados."
+  ],
+  "tips": [
+   "No cocines de más los camarones o quedarán duros.",
+   "Sírvelo con arroz blanco."
+  ],
+  "video": "enchilado cubano"
+ },
+ "en": {
+  "name": "Enchilado de Camarones (Cuban Prawns in Creole Sauce)",
+  "blurb": "Prawns in a Creole sauce of tomato, dry wine and garlic. Despite the name, it isn't spicy.",
+  "ing": [
+   {
+    "n": "prawns",
+    "note": "peeled"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato passata"
+   },
+   {
+    "n": "dry cooking wine"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "bay leaf"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic and pepper in the oil for 8 minutes.",
+   "Add the tomato, wine, cumin, bay and salt and simmer 12 minutes.",
+   "Add the prawns and cook 4 minutes, until pink."
+  ],
+  "tips": [
+   "Don't overcook the prawns or they'll turn tough.",
+   "Serve with white rice."
+  ],
+  "video": "cuban shrimp enchilado"
+ },
+ "added": "2026-09-30"
+}

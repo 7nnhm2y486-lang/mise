@@ -1,0 +1,157 @@
+{
+ "id": "harina-con-cangrejo",
+ "country": "Cuba",
+ "region": "latin-america",
+ "course": "main",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 1.2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "crab",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "tomatopaste",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Harina con cangrejo",
+  "blurb": "Polenta cubana de maíz amarillo guisada con un sofrito de cangrejo. Plato humilde y sabroso de la costa.",
+  "ing": [
+   {
+    "n": "harina de maíz amarilla"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "carne de cangrejo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ají pimiento",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de tomate"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo y el pimiento en el aceite 6 minutos. Añade la pasta de tomate y el cangrejo y cocina 4 minutos.",
+   "Añade el agua y la sal y lleva a hervor.",
+   "Echa la harina en lluvia batiendo sin parar y cocina a fuego bajo 25 minutos, removiendo, hasta que espese y se despegue."
+  ],
+  "tips": [
+   "Debe quedar cremosa, como un puré suave.",
+   "Si espesa demasiado, añade agua caliente."
+  ],
+  "video": "harina de maíz con cangrejo"
+ },
+ "en": {
+  "name": "Harina con Cangrejo (Cuban Cornmeal with Crab)",
+  "blurb": "Cuban-style soft cornmeal cooked with a crab sofrito. A humble, flavourful coastal dish.",
+  "ing": [
+   {
+    "n": "yellow cornmeal"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "crab meat"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic and pepper in the oil for 6 minutes. Add the tomato paste and crab and cook 4 minutes.",
+   "Add the water and salt and bring to the boil.",
+   "Rain in the cornmeal, whisking constantly, and cook on low heat for 25 minutes, stirring, until thick and pulling from the pan."
+  ],
+  "tips": [
+   "It should be creamy, like soft mash.",
+   "If it gets too thick, add hot water."
+  ],
+  "video": "cuban cornmeal with crab"
+ },
+ "added": "2026-09-30"
+}

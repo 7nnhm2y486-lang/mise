@@ -1,0 +1,137 @@
+{
+ "id": "medianoche",
+ "country": "Cuba",
+ "region": "latin-america",
+ "course": "main",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "enrichedbread",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "ham",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "cheese",
+   "role": "protein"
+  },
+  {
+   "q": 8,
+   "u": "slice",
+   "k": "pickles",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "mustard",
+   "role": "sauce"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Sándwich medianoche",
+  "blurb": "Primo del sándwich cubano en pan dulce de huevo, prensado y caliente. Se comía de madrugada al salir de los clubes.",
+  "ing": [
+   {
+    "n": "panes de medianoche (pan dulce de huevo)"
+   },
+   {
+    "n": "cerdo asado",
+    "note": "en lonchas"
+   },
+   {
+    "n": "jamón cocido",
+    "note": "en lonchas"
+   },
+   {
+    "n": "queso suizo",
+    "note": "en lonchas"
+   },
+   {
+    "n": "pepinillos en vinagre",
+    "note": "en láminas"
+   },
+   {
+    "n": "mostaza amarilla"
+   },
+   {
+    "n": "mantequilla",
+    "note": "blanda"
+   }
+  ],
+  "steps": [
+   "Abre los panes y úntalos con la mostaza.",
+   "Arma con el cerdo, el jamón, el queso y los pepinillos.",
+   "Unta el exterior con la mantequilla y prensa en una sartén caliente con un peso encima 3 minutos por lado, hasta que el queso se funda."
+  ],
+  "tips": [
+   "Una sartén pesada encima sustituye a la plancha de prensar.",
+   "Córtalo en diagonal."
+  ],
+  "video": "medianoche cubano"
+ },
+ "en": {
+  "name": "Medianoche (Cuban Midnight Sandwich)",
+  "blurb": "The Cuban sandwich's cousin on sweet egg bread, pressed and hot. Eaten in the small hours after the clubs.",
+  "ing": [
+   {
+    "n": "sweet egg bread rolls"
+   },
+   {
+    "n": "roast pork",
+    "note": "sliced"
+   },
+   {
+    "n": "cooked ham",
+    "note": "sliced"
+   },
+   {
+    "n": "Swiss cheese",
+    "note": "sliced"
+   },
+   {
+    "n": "dill pickles",
+    "note": "sliced"
+   },
+   {
+    "n": "yellow mustard"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   }
+  ],
+  "steps": [
+   "Split the rolls and spread with the mustard.",
+   "Fill with the pork, ham, cheese and pickles.",
+   "Butter the outsides and press in a hot pan with a weight on top, 3 minutes a side, until the cheese melts."
+  ],
+  "tips": [
+   "A heavy pan on top stands in for a sandwich press.",
+   "Cut it on the diagonal."
+  ],
+  "video": "cuban medianoche"
+ },
+ "added": "2026-09-30"
+}

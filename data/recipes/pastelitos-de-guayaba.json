@@ -1,0 +1,121 @@
+{
+ "id": "pastelitos-de-guayaba",
+ "country": "Cuba",
+ "region": "latin-america",
+ "course": "pastry",
+ "time": 45,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "puffpastry",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "guavapaste",
+   "role": "sweet"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "creamcheese",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "glaze"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Pastelitos de guayaba y queso",
+  "blurb": "Hojaldre relleno de pasta de guayaba y queso crema. Lo más pedido en las ventanitas de café cubanas.",
+  "ing": [
+   {
+    "n": "hojaldre"
+   },
+   {
+    "n": "pasta de guayaba",
+    "note": "en láminas"
+   },
+   {
+    "n": "queso crema"
+   },
+   {
+    "n": "huevo",
+    "note": "batido"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   }
+  ],
+  "steps": [
+   "Calienta el horno a 200 °C. Corta el hojaldre en 24 cuadrados.",
+   "Pon una lámina de guayaba y una cucharadita de queso crema sobre 12 cuadrados y cubre con los otros. Sella los bordes con un tenedor.",
+   "Pinta con el huevo y hornea 20 minutos, hasta que estén dorados.",
+   "Hierve el azúcar con el agua 2 minutos y pinta los pastelitos al salir del horno."
+  ],
+  "tips": [
+   "Mantén el hojaldre frío mientras armas para que suba bien.",
+   "Son mejores tibios, el mismo día."
+  ],
+  "video": "pastelitos cubanos de guayaba"
+ },
+ "en": {
+  "name": "Pastelitos de Guayaba (Guava and Cheese Pastries)",
+  "blurb": "Puff pastry filled with guava paste and cream cheese. The best seller at Cuban coffee windows.",
+  "ing": [
+   {
+    "n": "puff pastry"
+   },
+   {
+    "n": "guava paste",
+    "note": "in slices"
+   },
+   {
+    "n": "cream cheese"
+   },
+   {
+    "n": "egg",
+    "note": "beaten"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 200 °C. Cut the pastry into 24 squares.",
+   "Put a slice of guava and a teaspoon of cream cheese on 12 squares and cover with the others. Seal the edges with a fork.",
+   "Brush with the egg and bake 20 minutes, until golden.",
+   "Boil the sugar with the water for 2 minutes and brush the pastries as they come out."
+  ],
+  "tips": [
+   "Keep the pastry cold while you work so it rises well.",
+   "They're best warm, the same day."
+  ],
+  "video": "cuban guava pastries"
+ },
+ "added": "2026-09-30"
+}

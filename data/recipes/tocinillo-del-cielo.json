@@ -1,0 +1,95 @@
+{
+ "id": "tocinillo-del-cielo",
+ "country": "Cuba",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 75,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 12,
+   "u": "",
+   "k": "eggyolk",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Tocinillo del cielo",
+  "blurb": "Flan intenso hecho solo con yemas y almíbar, sobre caramelo. Heredado de los conventos españoles.",
+  "ing": [
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cáscara de limón"
+   }
+  ],
+  "steps": [
+   "Derrite 100 g del azúcar en un molde hasta obtener un caramelo dorado y cubre el fondo.",
+   "Hierve el resto del azúcar con el agua y la cáscara de limón 8 minutos, hasta punto de hebra. Retira la cáscara y deja entibiar.",
+   "Bate las yemas suavemente y añade el almíbar tibio en hilo, sin dejar de mover. Cuela.",
+   "Vierte en el molde, tapa con papel de aluminio y cuece a baño María a 160 °C 40 minutos.",
+   "Enfría en la nevera 4 horas y desmolda."
+  ],
+  "tips": [
+   "El almíbar no debe estar caliente o cuajará las yemas.",
+   "Las claras sobrantes sirven para merengue."
+  ],
+  "video": "tocinillo de cielo cubano"
+ },
+ "en": {
+  "name": "Tocinillo del Cielo (Egg Yolk Caramel Custard)",
+  "blurb": "A rich custard made only with yolks and syrup, set over caramel. Inherited from Spanish convents.",
+  "ing": [
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "lime peel"
+   }
+  ],
+  "steps": [
+   "Melt 100 g of the sugar in a mould to a golden caramel and coat the base.",
+   "Boil the remaining sugar with the water and lime peel for 8 minutes, to thread stage. Remove the peel and let it cool slightly.",
+   "Beat the yolks gently and pour in the warm syrup in a thin stream, stirring. Strain.",
+   "Pour into the mould, cover with foil and bake in a water bath at 160 °C for 40 minutes.",
+   "Chill 4 hours and unmould."
+  ],
+  "tips": [
+   "The syrup mustn't be hot or it will scramble the yolks.",
+   "Use the leftover whites for meringue."
+  ],
+  "video": "cuban tocinillo"
+ },
+ "added": "2026-09-30"
+}

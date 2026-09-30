@@ -1,0 +1,147 @@
+{
+ "id": "tasajo",
+ "country": "Cuba",
+ "region": "latin-america",
+ "course": "main",
+ "time": 150,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "driedmeat",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Tasajo a la cubana",
+  "blurb": "Carne seca desalada, deshilachada y guisada con cebolla, ajo y tomate. Plato de campo cubano.",
+  "ing": [
+   {
+    "n": "tasajo (carne seca salada)"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "en rodajas finas"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ají pimiento",
+    "note": "en tiras"
+   },
+   {
+    "n": "puré de tomate"
+   },
+   {
+    "n": "naranja agria"
+   },
+   {
+    "n": "comino molido"
+   }
+  ],
+  "steps": [
+   "Remoja el tasajo en agua fría 24 horas, cambiando el agua 3 veces.",
+   "Hiérvelo en agua nueva 90 minutos, hasta que esté tierno. Escúrrelo y deshiláchalo.",
+   "Sofríe la cebolla, el ajo y el pimiento en el aceite 8 minutos. Añade el comino, el tomate y el tasajo.",
+   "Cocina 15 minutos a fuego bajo y termina con el jugo de naranja agria."
+  ],
+  "tips": [
+   "No lleva sal: el tasajo ya la tiene. Pruébalo antes de servir.",
+   "Sírvelo con arroz blanco."
+  ],
+  "video": "tasajo cubano"
+ },
+ "en": {
+  "name": "Tasajo (Cuban Salted Dried Beef)",
+  "blurb": "Desalted dried beef, shredded and stewed with onion, garlic and tomato. A Cuban country dish.",
+  "ing": [
+   {
+    "n": "salted dried beef"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "pepper",
+    "note": "in strips"
+   },
+   {
+    "n": "tomato passata"
+   },
+   {
+    "n": "sour orange"
+   },
+   {
+    "n": "ground cumin"
+   }
+  ],
+  "steps": [
+   "Soak the dried beef in cold water for 24 hours, changing the water 3 times.",
+   "Boil it in fresh water for 90 minutes, until tender. Drain and shred.",
+   "Cook the onion, garlic and pepper in the oil for 8 minutes. Add the cumin, tomato and shredded beef.",
+   "Cook 15 minutes on low heat and finish with the sour orange juice."
+  ],
+  "tips": [
+   "No salt needed: the beef already has it. Taste before serving.",
+   "Serve with white rice."
+  ],
+  "video": "cuban tasajo"
+ },
+ "added": "2026-09-30"
+}
