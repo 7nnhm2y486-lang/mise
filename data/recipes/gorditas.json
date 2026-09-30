@@ -1,0 +1,147 @@
+{
+ "id": "gorditas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "refriedbeans",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 0.25,
+   "u": "head",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "tomatillo",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Gorditas de frijol con queso",
+  "blurb": "Tortillas gruesas de masa cocidas en comal, abiertas como bolsita y rellenas de frijol y queso.",
+  "ing": [
+   {
+    "n": "masa fresca de maíz"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "frijoles refritos"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmoronado"
+   },
+   {
+    "n": "lechuga",
+    "note": "rebanada fina"
+   },
+   {
+    "n": "salsa verde"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Amasa la masa con la manteca y la sal hasta que no se pegue en las manos. Si está seca, añade agua de a poco.",
+   "Forma 8 bolas y aplánalas a 1 centímetro de grueso.",
+   "Cuécelas en un comal a fuego medio con un poco de aceite, 4 minutos por lado, hasta que se inflen un poco y tengan manchas doradas.",
+   "Ábrelas por un lado con un cuchillo, como pan árabe, cuando aún estén calientes.",
+   "Rellena con frijoles, queso, lechuga y salsa."
+  ],
+  "tips": [
+   "Si se agrietan al aplanarlas, la masa está seca: añade agua.",
+   "Envueltas en un trapo se mantienen suaves 30 minutos."
+  ],
+  "video": "gorditas de frijol con queso receta"
+ },
+ "en": {
+  "name": "Bean and Cheese Gorditas",
+  "blurb": "Thick masa cakes cooked on a griddle, split open like a pocket and stuffed with beans and cheese.",
+  "ing": [
+   {
+    "n": "fresh corn masa"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "refried beans"
+   },
+   {
+    "n": "queso fresco",
+    "note": "crumbled"
+   },
+   {
+    "n": "lettuce",
+    "note": "shredded"
+   },
+   {
+    "n": "green salsa"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Knead the masa with the lard and salt until it no longer sticks to your hands. If dry, add water a little at a time.",
+   "Shape 8 balls and flatten them to 1 centimetre thick.",
+   "Cook on a griddle over medium heat with a little oil, 4 minutes per side, until they puff slightly and have golden spots.",
+   "Slit them open along one side with a knife, like a pita pocket, while still hot.",
+   "Fill with beans, cheese, lettuce and salsa."
+  ],
+  "tips": [
+   "If they crack when flattened, the masa is dry: add water.",
+   "Wrapped in a towel they stay soft for 30 minutes."
+  ],
+  "video": "gorditas recipe"
+ },
+ "added": "2026-09-30"
+}

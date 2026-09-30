@@ -1,0 +1,179 @@
+{
+ "id": "huevos-divorciados",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 30,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomatillo",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "refriedbeans",
+   "role": "serve"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Huevos divorciados",
+  "blurb": "Dos huevos estrellados, uno con salsa roja y otro con salsa verde, separados por una línea de frijoles.",
+  "ing": [
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "tortillas de maíz"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "chiles serranos"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "frijoles refritos"
+   },
+   {
+    "n": "cilantro"
+   }
+  ],
+  "steps": [
+   "Hierve los jitomates, los tomatillos y los chiles 10 minutos. Licúa los jitomates con 1 chile, 1 diente de ajo y la mitad de la cebolla. Licúa los tomatillos igual con el resto.",
+   "Fríe cada salsa por separado en 1 cucharadita de aceite 5 minutos. Sala al gusto.",
+   "Pasa las tortillas por aceite caliente unos segundos para que se ablanden.",
+   "Fríe los huevos en el resto del aceite, con la clara cuajada y la yema líquida.",
+   "En cada plato pon 2 tortillas y 1 huevo encima de cada una. Cubre uno con salsa roja y otro con verde. Pon frijoles en medio y cilantro encima."
+  ],
+  "tips": [
+   "Las 2 salsas duran 4 días en el refrigerador: haz el doble.",
+   "Con yema líquida, usa huevos frescos; en embarazo o con defensas bajas, cuécelos hasta que la yema cuaje."
+  ],
+  "video": "huevos divorciados receta"
+ },
+ "en": {
+  "name": "Divorced Eggs",
+  "blurb": "Two fried eggs, one under red salsa and one under green, split down the middle by a line of beans.",
+  "ing": [
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "corn tortillas"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "serrano chiles"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "refried beans"
+   },
+   {
+    "n": "cilantro"
+   }
+  ],
+  "steps": [
+   "Boil the tomatoes, tomatillos and chiles for 10 minutes. Blend the tomatoes with 1 chile, 1 garlic clove and half the onion. Blend the tomatillos the same way with the rest.",
+   "Fry each salsa separately in 1 teaspoon of oil for 5 minutes. Salt to taste.",
+   "Pass the tortillas through hot oil for a few seconds to soften.",
+   "Fry the eggs in the rest of the oil, whites set and yolks runny.",
+   "On each plate put 2 tortillas with 1 egg on each. Cover one with red salsa and one with green. Put beans between them and cilantro on top."
+  ],
+  "tips": [
+   "Both salsas keep 4 days in the fridge: make double.",
+   "For runny yolks use fresh eggs; if pregnant or immunocompromised, cook until the yolk sets."
+  ],
+  "video": "huevos divorciados recipe"
+ },
+ "added": "2026-09-30"
+}

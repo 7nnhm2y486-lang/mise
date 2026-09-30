@@ -1,0 +1,235 @@
+{
+ "id": "caldo-tlalpeno",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 70,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chipotle",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Caldo tlalpeño",
+  "blurb": "Caldo de pollo ahumado con chipotle, con garbanzo, zanahoria y calabacita, y aguacate y queso al servir.",
+  "ing": [
+   {
+    "n": "piezas de pollo con hueso"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "chiles chipotles en adobo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en cubos"
+   },
+   {
+    "n": "calabacitas",
+    "note": "en cubos"
+   },
+   {
+    "n": "garbanzos cocidos"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "aguacate",
+    "note": "en cubos"
+   },
+   {
+    "n": "queso fresco o Oaxaca",
+    "note": "en cubos"
+   },
+   {
+    "n": "limones"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo con el agua, la cebolla, 2 dientes de ajo y la sal 40 minutos a fuego bajo. Saca el pollo y deshébralo.",
+   "Licúa los jitomates, los chipotles y 1 diente de ajo con 250 ml del líquido de la olla.",
+   "En otra olla, fríe la mezcla en el aceite 5 minutos. Añade el líquido de la olla colado.",
+   "Añade la zanahoria y cuece 10 minutos. Añade la calabacita, los garbanzos y el epazote; 8 minutos más.",
+   "Regresa el pollo y sirve con aguacate, queso y limón."
+  ],
+  "tips": [
+   "El queso va en el plato y el caldo encima: así se funde apenas.",
+   "Empieza con 1 chipotle si no te gusta muy picante."
+  ],
+  "video": "caldo tlalpeño receta"
+ },
+ "en": {
+  "name": "Caldo Tlalpeño (Smoky Chicken Soup)",
+  "blurb": "Chicken soup smoky with chipotle, with chickpeas, carrot and zucchini, and avocado and cheese at the table.",
+  "ing": [
+   {
+    "n": "bone-in chicken pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "chipotles in adobo"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "carrots",
+    "note": "diced"
+   },
+   {
+    "n": "zucchini",
+    "note": "diced"
+   },
+   {
+    "n": "cooked chickpeas"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "avocado",
+    "note": "diced"
+   },
+   {
+    "n": "queso fresco or Oaxaca cheese",
+    "note": "cubed"
+   },
+   {
+    "n": "limes"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken with the water, onion, 2 garlic cloves and salt for 40 minutes on low. Lift out the chicken and shred it.",
+   "Blend the tomatoes, chipotles and 1 garlic clove with 250 ml of the cooking liquid.",
+   "In another pot, fry the mixture in the oil for 5 minutes. Add the strained cooking liquid.",
+   "Add the carrot and cook 10 minutes. Add the zucchini, chickpeas and epazote; 8 minutes more.",
+   "Return the chicken and serve with avocado, cheese and lime."
+  ],
+  "tips": [
+   "Put the cheese in the bowl and the soup on top: it just softens.",
+   "Start with 1 chipotle if you don't like it very hot."
+  ],
+  "video": "caldo tlalpeño recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,175 @@
+{
+ "id": "tacos-de-canasta",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "potato",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chipotle",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "refriedbeans",
+   "role": "protein"
+  },
+  {
+   "q": 30,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "tomatillo",
+   "role": "sauce"
+  }
+ ],
+ "es": {
+  "name": "Tacos de canasta",
+  "blurb": "Tacos sudados: rellenos de papa o frijol, bañados en aceite de chile y guardados calientes en una canasta con tela hasta que se funden en uno.",
+  "ing": [
+   {
+    "n": "papas",
+    "note": "peladas, en trozos"
+   },
+   {
+    "n": "chile chipotle en adobo"
+   },
+   {
+    "n": "frijoles refritos"
+   },
+   {
+    "n": "tortillas de maíz chicas"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "sin semillas, remojados"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cebolla",
+    "note": "en tiras"
+   },
+   {
+    "n": "salsa verde"
+   }
+  ],
+  "steps": [
+   "Hierve las papas en agua con 1 cucharadita de sal 20 minutos. Escurre y machaca con el chipotle.",
+   "Licúa los guajillos con el ajo, la cebolla, el resto de la sal y el aceite. Calienta la mezcla en un sartén 5 minutos.",
+   "Pasa cada tortilla por el aceite de chile, rellena con 1 cucharada de papa o de frijol y dóblala.",
+   "Forra una olla o canasta con un trapo y una bolsa de plástico. Acomoda los tacos en capas apretadas y baña cada capa con más aceite.",
+   "Tapa bien y deja sudar 30 minutos. Sirve con salsa verde."
+  ],
+  "tips": [
+   "El reposo tapado es la receta: el vapor ablanda las tortillas hasta que quedan suaves y grasosas.",
+   "Para mantenerlos más tiempo, pon la olla tapada dentro de una hielera."
+  ],
+  "video": "tacos de canasta receta"
+ },
+ "en": {
+  "name": "Basket Tacos (Tacos de Canasta)",
+  "blurb": "Sweated tacos: filled with potato or beans, brushed with chile oil and kept warm in a cloth-lined basket until they steam into one.",
+  "ing": [
+   {
+    "n": "potatoes",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "chipotle in adobo"
+   },
+   {
+    "n": "refried beans"
+   },
+   {
+    "n": "small corn tortillas"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "guajillo chiles",
+    "note": "seeded, soaked"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "onion",
+    "note": "sliced"
+   },
+   {
+    "n": "green salsa"
+   }
+  ],
+  "steps": [
+   "Boil the potatoes in water with 1 teaspoon of the salt for 20 minutes. Drain and mash with the chipotle.",
+   "Blend the guajillos with the garlic, onion, the rest of the salt and the oil. Heat the mixture in a pan for 5 minutes.",
+   "Dip each tortilla in the chile oil, fill with 1 tablespoon of potato or beans and fold.",
+   "Line a pot or basket with a towel and a plastic bag. Pack the tacos in tight layers, brushing each layer with more oil.",
+   "Cover well and let them sweat 30 minutes. Serve with green salsa."
+  ],
+  "tips": [
+   "The covered rest is the recipe: the steam softens the tortillas until they turn tender and rich.",
+   "To hold them longer, put the covered pot inside a cooler."
+  ],
+  "video": "tacos de canasta recipe"
+ },
+ "added": "2026-09-30"
+}

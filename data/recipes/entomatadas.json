@@ -1,0 +1,183 @@
+{
+ "id": "entomatadas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "crema",
+   "role": "garnish"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Entomatadas",
+  "blurb": "Tortillas dobladas y bañadas en salsa de jitomate, rellenas de pollo. Más suaves que las enchiladas, sin chile seco.",
+  "ing": [
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "chile serrano"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "tortillas de maíz"
+   },
+   {
+    "n": "pollo cocido deshebrado"
+   },
+   {
+    "n": "crema mexicana"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmoronado"
+   },
+   {
+    "n": "cebolla",
+    "note": "en aros"
+   }
+  ],
+  "steps": [
+   "Hierve los jitomates y el chile 10 minutos. Licúalos con la cebolla, el ajo y la sal.",
+   "Calienta el aceite y fríe la salsa 10 minutos, hasta que espese un poco.",
+   "Calienta las tortillas en un comal.",
+   "Pasa cada tortilla por la salsa caliente, rellena con pollo y dóblala en cuatro.",
+   "Sirve 3 por plato con más salsa, crema, queso y aros de cebolla."
+  ],
+  "tips": [
+   "Sumerge las tortillas justo antes de servir para que no se deshagan.",
+   "Sin pollo quedan bien con frijoles o solo con queso."
+  ],
+  "video": "entomatadas receta"
+ },
+ "en": {
+  "name": "Entomatadas",
+  "blurb": "Folded tortillas bathed in tomato sauce and filled with chicken. Gentler than enchiladas, with no dried chile.",
+  "ing": [
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "serrano chile"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "corn tortillas"
+   },
+   {
+    "n": "shredded cooked chicken"
+   },
+   {
+    "n": "Mexican crema"
+   },
+   {
+    "n": "queso fresco",
+    "note": "crumbled"
+   },
+   {
+    "n": "onion",
+    "note": "in rings"
+   }
+  ],
+  "steps": [
+   "Boil the tomatoes and chile for 10 minutes. Blend with the onion, garlic and salt.",
+   "Heat the oil and fry the sauce for 10 minutes, until slightly thick.",
+   "Warm the tortillas on a griddle.",
+   "Dip each tortilla in the hot sauce, fill with chicken and fold into quarters.",
+   "Serve 3 per plate with more sauce, crema, cheese and onion rings."
+  ],
+  "tips": [
+   "Dip the tortillas just before serving so they don't fall apart.",
+   "Without chicken they are good with beans or just cheese."
+  ],
+  "video": "entomatadas recipe"
+ },
+ "added": "2026-09-30"
+}

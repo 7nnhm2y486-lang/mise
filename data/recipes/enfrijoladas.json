@@ -1,0 +1,185 @@
+{
+ "id": "enfrijoladas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "legume",
+   "role": "sauce"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chipotle",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "crema",
+   "role": "garnish"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Enfrijoladas",
+  "blurb": "Tortillas bañadas en una crema tersa de frijol negro con chipotle, dobladas sobre queso fresco.",
+  "ing": [
+   {
+    "n": "frijoles negros cocidos"
+   },
+   {
+    "n": "líquido de cocción de los frijoles"
+   },
+   {
+    "n": "chile chipotle en adobo"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "tortillas de maíz"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmoronado"
+   },
+   {
+    "n": "crema mexicana"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "en aros"
+   },
+   {
+    "n": "aguacate",
+    "note": "en rebanadas"
+   }
+  ],
+  "steps": [
+   "Licúa los frijoles con su líquido, el chipotle, el ajo y la sal hasta que quede como crema espesa.",
+   "Calienta el aceite y cuece la crema de frijol 5 minutos a fuego bajo. Si espesa demasiado, añade agua.",
+   "Calienta las tortillas en un comal.",
+   "Pasa cada tortilla por la crema de frijol, pon queso en el centro y dóblala en dos.",
+   "Sirve con más frijol encima, crema, cebolla y aguacate."
+  ],
+  "tips": [
+   "La crema de frijol debe cubrir una cuchara, no pegarse: ajusta con agua.",
+   "Añade 1 hoja de aguacate tostada al licuar para el sabor de Oaxaca."
+  ],
+  "video": "enfrijoladas receta"
+ },
+ "en": {
+  "name": "Enfrijoladas",
+  "blurb": "Tortillas bathed in a smooth black bean sauce with chipotle, folded over queso fresco.",
+  "ing": [
+   {
+    "n": "cooked black beans"
+   },
+   {
+    "n": "bean cooking liquid"
+   },
+   {
+    "n": "chipotle in adobo"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "corn tortillas"
+   },
+   {
+    "n": "queso fresco",
+    "note": "crumbled"
+   },
+   {
+    "n": "Mexican crema"
+   },
+   {
+    "n": "red onion",
+    "note": "in rings"
+   },
+   {
+    "n": "avocado",
+    "note": "sliced"
+   }
+  ],
+  "steps": [
+   "Blend the beans with their liquid, the chipotle, garlic and salt until thick and creamy.",
+   "Heat the oil and cook the bean sauce 5 minutes on low. If it gets too thick, add water.",
+   "Warm the tortillas on a griddle.",
+   "Dip each tortilla in the bean sauce, put cheese in the middle and fold in half.",
+   "Serve with more bean sauce on top, crema, onion and avocado."
+  ],
+  "tips": [
+   "The bean sauce should coat a spoon, not cling to it: adjust with water.",
+   "Blend in 1 toasted avocado leaf for the taste of Oaxaca."
+  ],
+  "video": "enfrijoladas recipe"
+ },
+ "added": "2026-09-30"
+}

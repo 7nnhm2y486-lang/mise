@@ -1,0 +1,182 @@
+{
+ "id": "molletes",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 25,
+ "serves": 4,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "refriedbeans",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "cheese",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "garnish"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Molletes",
+  "blurb": "Bolillo abierto con mantequilla, frijoles y queso gratinado, con pico de gallo encima. El desayuno de cafetería mexicana.",
+  "ing": [
+   {
+    "n": "bolillos",
+    "note": "abiertos a la mitad"
+   },
+   {
+    "n": "mantequilla",
+    "note": "suave"
+   },
+   {
+    "n": "frijoles refritos"
+   },
+   {
+    "n": "queso Chihuahua o manchego rallado"
+   },
+   {
+    "n": "jitomates",
+    "note": "en cubos"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "picada"
+   },
+   {
+    "n": "chile serrano",
+    "note": "picado"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "limón",
+    "note": "en jugo"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Calienta el horno a 200 °C.",
+   "Unta las mitades de bolillo con mantequilla y tuéstalas 5 minutos en el horno.",
+   "Úntalas con frijoles, cubre con queso y hornea 8 minutos, hasta que el queso burbujee.",
+   "Mientras, mezcla el jitomate, la cebolla, el chile, el cilantro, el limón y la sal.",
+   "Sirve los molletes calientes con el pico de gallo encima."
+  ],
+  "tips": [
+   "Tostar el pan antes de los frijoles evita que quede aguado.",
+   "Añade chorizo frito sobre los frijoles para la versión de fonda."
+  ],
+  "video": "molletes receta"
+ },
+ "en": {
+  "name": "Molletes",
+  "blurb": "Split rolls with butter, refried beans and melted cheese, topped with pico de gallo. The Mexican café breakfast.",
+  "ing": [
+   {
+    "n": "bolillo rolls",
+    "note": "split in half"
+   },
+   {
+    "n": "butter",
+    "note": "soft"
+   },
+   {
+    "n": "refried beans"
+   },
+   {
+    "n": "grated Chihuahua or Monterey Jack cheese"
+   },
+   {
+    "n": "tomatoes",
+    "note": "diced"
+   },
+   {
+    "n": "white onion",
+    "note": "chopped"
+   },
+   {
+    "n": "serrano chile",
+    "note": "chopped"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "lime",
+    "note": "juiced"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 200 °C.",
+   "Butter the roll halves and toast them in the oven for 5 minutes.",
+   "Spread with beans, cover with cheese and bake 8 minutes, until bubbling.",
+   "Meanwhile, mix the tomato, onion, chile, cilantro, lime and salt.",
+   "Serve the molletes hot with the pico de gallo on top."
+  ],
+  "tips": [
+   "Toasting the bread before the beans keeps it from going soggy.",
+   "Add fried chorizo over the beans for the diner version."
+  ],
+  "video": "molletes recipe"
+ },
+ "added": "2026-09-30"
+}

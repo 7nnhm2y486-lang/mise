@@ -1,0 +1,169 @@
+{
+ "id": "sopa-de-fideo",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "crema",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Sopa de fideo",
+  "blurb": "Fideo dorado en aceite y cocido en caldo de jitomate. La sopa aguada de todos los días en casa.",
+  "ing": [
+   {
+    "n": "fideo delgado"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "crema mexicana"
+   },
+   {
+    "n": "limón",
+    "note": "en cuartos"
+   }
+  ],
+  "steps": [
+   "Licúa los jitomates, la cebolla y el ajo. Cuela.",
+   "Calienta el aceite en una olla y dora el fideo 3 minutos, moviendo sin parar, hasta que esté color avellana.",
+   "Vierte el jitomate de golpe (salpica) y fríe 3 minutos.",
+   "Añade el caldo, la sal y el cilantro. Hierve 8 minutos, hasta que el fideo esté suave.",
+   "Sirve con crema y limón."
+  ],
+  "tips": [
+   "Dorar el fideo es el sabor: sin ese paso es solo pasta en caldo.",
+   "Sácale el cilantro antes de servir: ya dio su sabor."
+  ],
+  "video": "sopa de fideo receta"
+ },
+ "en": {
+  "name": "Mexican Noodle Soup (Sopa de Fideo)",
+  "blurb": "Fine noodles toasted in oil and simmered in tomato broth. The everyday soup of a Mexican home.",
+  "ing": [
+   {
+    "n": "fine vermicelli (fideo)"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "Mexican crema"
+   },
+   {
+    "n": "lime",
+    "note": "quartered"
+   }
+  ],
+  "steps": [
+   "Blend the tomatoes, onion and garlic. Strain.",
+   "Heat the oil in a pot and toast the noodles for 3 minutes, stirring constantly, until the colour of hazelnut shells.",
+   "Pour in the tomato all at once (it spatters) and fry 3 minutes.",
+   "Add the stock, salt and cilantro. Boil 8 minutes, until the noodles are soft.",
+   "Serve with crema and lime."
+  ],
+  "tips": [
+   "Toasting the noodles is the flavour: skip it and it's just pasta in broth.",
+   "Pull out the cilantro before serving: it has done its job."
+  ],
+  "video": "sopa de fideo recipe"
+ },
+ "added": "2026-09-30"
+}

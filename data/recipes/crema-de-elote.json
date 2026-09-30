@@ -1,0 +1,163 @@
+{
+ "id": "crema-de-elote",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "corn",
+   "role": "protein"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "garnish"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Crema de elote",
+  "blurb": "Sopa tersa de elote dulce con leche y mantequilla, con rajas de poblano y queso fresco encima.",
+  "ing": [
+   {
+    "n": "granos de elote",
+    "note": "frescos o congelados"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "caldo de pollo o de verduras"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "chile poblano",
+    "note": "asado, pelado, en rajas"
+   },
+   {
+    "n": "queso fresco",
+    "note": "en cubos"
+   }
+  ],
+  "steps": [
+   "Derrite la mantequilla y sofríe la cebolla 5 minutos. Añade el ajo 1 minuto.",
+   "Añade el elote y cuece 5 minutos. Separa 1 taza de granos para decorar.",
+   "Añade el caldo y la sal; hierve 10 minutos.",
+   "Licúa con la leche hasta que quede lisa. Cuela si quieres textura de restaurante.",
+   "Calienta sin hervir y sirve con los granos apartados, rajas y queso."
+  ],
+  "tips": [
+   "No hiervas después de añadir la leche: se puede cortar.",
+   "Con elote fuera de temporada, el congelado sabe más dulce que el de lata."
+  ],
+  "video": "crema de elote receta"
+ },
+ "en": {
+  "name": "Cream of Corn Soup",
+  "blurb": "Silky sweet corn soup with milk and butter, topped with poblano strips and queso fresco.",
+  "ing": [
+   {
+    "n": "corn kernels",
+    "note": "fresh or frozen"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "chicken or vegetable stock"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "poblano chile",
+    "note": "roasted, peeled, in strips"
+   },
+   {
+    "n": "queso fresco",
+    "note": "cubed"
+   }
+  ],
+  "steps": [
+   "Melt the butter and cook the onion 5 minutes. Add the garlic for 1 minute.",
+   "Add the corn and cook 5 minutes. Set aside 1 cup of kernels for garnish.",
+   "Add the stock and salt; boil 10 minutes.",
+   "Blend with the milk until smooth. Strain for a restaurant finish.",
+   "Heat without boiling and serve with the reserved kernels, poblano strips and cheese."
+  ],
+  "tips": [
+   "Don't boil once the milk is in: it can curdle.",
+   "Out of season, frozen corn tastes sweeter than canned."
+  ],
+  "video": "cream of corn soup mexican recipe"
+ },
+ "added": "2026-09-30"
+}

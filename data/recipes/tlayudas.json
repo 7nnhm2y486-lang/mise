@@ -1,0 +1,163 @@
+{
+ "id": "tlayudas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "refriedbeans",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 0.25,
+   "u": "head",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "tomatillo",
+   "role": "sauce"
+  }
+ ],
+ "es": {
+  "name": "Tlayudas oaxaqueñas",
+  "blurb": "Una tortilla enorme untada de asiento y frijol negro, con quesillo y tasajo, tostada sobre las brasas hasta crujir.",
+  "ing": [
+   {
+    "n": "tlayudas (tortillas grandes de maíz)"
+   },
+   {
+    "n": "asiento o manteca de cerdo"
+   },
+   {
+    "n": "frijoles negros refritos"
+   },
+   {
+    "n": "quesillo (queso Oaxaca)",
+    "note": "deshebrado"
+   },
+   {
+    "n": "cecina o tasajo de res"
+   },
+   {
+    "n": "col",
+    "note": "rebanada fina"
+   },
+   {
+    "n": "jitomates",
+    "note": "en rodajas"
+   },
+   {
+    "n": "aguacate",
+    "note": "en rebanadas"
+   },
+   {
+    "n": "salsa de tomatillo"
+   }
+  ],
+  "steps": [
+   "Asa la carne en un comal o parrilla muy caliente 2 minutos por lado. Córtala en tiras.",
+   "Unta cada tlayuda con 1 cucharada de asiento y luego con una capa delgada de frijoles.",
+   "Pon el quesillo en una mitad. Dobla la tlayuda.",
+   "Tuéstala en el comal a fuego medio 3 a 4 minutos por lado, apretando, hasta que crujan los bordes y se funda el queso.",
+   "Ábrela y sirve con la carne, la col, el jitomate, el aguacate y la salsa."
+  ],
+  "tips": [
+   "Sin tlayudas, usa 2 tortillas grandes de maíz algo secas: crujen igual.",
+   "Una rejilla sobre la estufa de gas da el sabor ahumado de las brasas."
+  ],
+  "video": "tlayudas oaxaqueñas receta"
+ },
+ "en": {
+  "name": "Oaxacan Tlayudas",
+  "blurb": "A huge tortilla spread with asiento and black beans, topped with quesillo and tasajo, toasted over the coals until crisp.",
+  "ing": [
+   {
+    "n": "tlayudas (large corn tortillas)"
+   },
+   {
+    "n": "asiento or lard"
+   },
+   {
+    "n": "refried black beans"
+   },
+   {
+    "n": "quesillo (Oaxaca cheese)",
+    "note": "pulled into strands"
+   },
+   {
+    "n": "thin salted beef (tasajo)"
+   },
+   {
+    "n": "cabbage",
+    "note": "finely shredded"
+   },
+   {
+    "n": "tomatoes",
+    "note": "sliced"
+   },
+   {
+    "n": "avocado",
+    "note": "sliced"
+   },
+   {
+    "n": "tomatillo salsa"
+   }
+  ],
+  "steps": [
+   "Sear the beef on a very hot griddle or grill for 2 minutes per side. Cut into strips.",
+   "Spread each tlayuda with 1 tablespoon of asiento, then a thin layer of beans.",
+   "Put the cheese on one half. Fold the tlayuda over.",
+   "Toast it on a griddle over medium heat for 3 to 4 minutes per side, pressing, until the edges crisp and the cheese melts.",
+   "Open it up and serve with the beef, cabbage, tomato, avocado and salsa."
+  ],
+  "tips": [
+   "No tlayudas? Use 2 large corn tortillas that have dried a little: they crisp the same way.",
+   "A rack over a gas flame gives the smoky taste of the coals."
+  ],
+  "video": "tlayuda recipe"
+ },
+ "added": "2026-09-30"
+}
