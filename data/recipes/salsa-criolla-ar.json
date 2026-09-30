@@ -1,0 +1,147 @@
+{
+ "id": "salsa-criolla-ar",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 15,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "winevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Salsa criolla argentina",
+  "blurb": "Cebolla, tomate y morrones picados finos en vinagre y aceite. La otra salsa del asado, fresca y crujiente.",
+  "ing": [
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "tomates",
+    "note": "sin semillas, picados"
+   },
+   {
+    "n": "morrón rojo",
+    "note": "picado fino"
+   },
+   {
+    "n": "morrón verde",
+    "note": "picado fino"
+   },
+   {
+    "n": "vinagre de vino"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Pica todas las verduras en cubos pequeños y parejos.",
+   "Mezcla con el vinagre, el aceite, el orégano y la sal.",
+   "Deja reposar 1 hora antes de servir."
+  ],
+  "tips": [
+   "Pica a cuchillo: con procesadora queda aguada.",
+   "Dura 3 días en el refrigerador."
+  ],
+  "video": "salsa criolla argentina receta"
+ },
+ "en": {
+  "name": "Argentine Salsa Criolla",
+  "blurb": "Onion, tomato and bell peppers finely chopped in vinegar and oil. The other asado sauce, fresh and crunchy.",
+  "ing": [
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "seeded, chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "finely chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "finely chopped"
+   },
+   {
+    "n": "wine vinegar"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Chop all the vegetables into small, even dice.",
+   "Mix with the vinegar, oil, oregano and salt.",
+   "Leave 1 hour before serving."
+  ],
+  "tips": [
+   "Chop by hand: a food processor makes it watery.",
+   "Keeps 3 days in the fridge."
+  ],
+  "video": "argentine salsa criolla recipe"
+ },
+ "added": "2026-09-30"
+}

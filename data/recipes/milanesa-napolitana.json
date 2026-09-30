@@ -1,0 +1,174 @@
+{
+ "id": "milanesa-napolitana",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ovenC": 220,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "breadcrumbs",
+   "role": "dredge"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "slice",
+   "k": "ham",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "mozzarella",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Milanesa a la napolitana",
+  "blurb": "Milanesa cubierta de salsa de tomate, jamón y mozzarella gratinada. Nació en una cantina de Buenos Aires, no en Nápoles.",
+  "ing": [
+   {
+    "n": "milanesas de carne fritas",
+    "note": "ver receta de milanesa"
+   },
+   {
+    "n": "huevos (para las milanesas)"
+   },
+   {
+    "n": "pan rallado (para las milanesas)"
+   },
+   {
+    "n": "tomate triturado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "jamón cocido"
+   },
+   {
+    "n": "mozzarella",
+    "note": "en tajadas"
+   }
+  ],
+  "steps": [
+   "Sofríe el ajo en el aceite 1 minuto. Añade el tomate, el orégano y la sal y cuece 10 minutos.",
+   "Calienta el horno a 220 °C.",
+   "Pon las milanesas fritas en una bandeja. Cubre cada una con 2 cucharadas de salsa, 1 tajada de jamón y mozzarella.",
+   "Hornea 8 minutos, hasta que el queso se funda y dore en partes.",
+   "Sirve con papas fritas."
+  ],
+  "tips": [
+   "La salsa debe estar espesa o la milanesa se ablanda.",
+   "Añade orégano encima al sacarla del horno."
+  ],
+  "video": "milanesa napolitana receta"
+ },
+ "en": {
+  "name": "Milanesa Napolitana",
+  "blurb": "A milanesa topped with tomato sauce, ham and melted mozzarella. Born in a Buenos Aires canteen, not in Naples.",
+  "ing": [
+   {
+    "n": "fried beef milanesas",
+    "note": "see milanesa recipe"
+   },
+   {
+    "n": "eggs (for the milanesas)"
+   },
+   {
+    "n": "breadcrumbs (for the milanesas)"
+   },
+   {
+    "n": "crushed tomatoes"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "cooked ham"
+   },
+   {
+    "n": "mozzarella",
+    "note": "sliced"
+   }
+  ],
+  "steps": [
+   "Cook the garlic in the oil for 1 minute. Add the tomato, oregano and salt and cook 10 minutes.",
+   "Heat the oven to 220 °C.",
+   "Set the fried milanesas on a tray. Top each with 2 tablespoons of sauce, 1 slice of ham and mozzarella.",
+   "Bake 8 minutes, until the cheese melts and browns in spots.",
+   "Serve with fries."
+  ],
+  "tips": [
+   "The sauce must be thick or the milanesa goes soggy.",
+   "Sprinkle oregano on top as it comes out of the oven."
+  ],
+  "video": "milanesa napolitana recipe"
+ },
+ "added": "2026-09-30"
+}

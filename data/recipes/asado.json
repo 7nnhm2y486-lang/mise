@@ -1,0 +1,97 @@
+{
+ "id": "asado",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 180,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "sausage",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Asado a la parrilla",
+  "blurb": "El ritual del domingo argentino: tira y vacío asados lentos a las brasas, solo con sal gruesa, con chorizos para empezar.",
+  "ing": [
+   {
+    "n": "tira de asado"
+   },
+   {
+    "n": "vacío"
+   },
+   {
+    "n": "chorizos parrilleros"
+   },
+   {
+    "n": "sal gruesa"
+   }
+  ],
+  "steps": [
+   "Enciende el carbón y espera 40 minutos, hasta que esté cubierto de ceniza blanca. Arma una cama de brasas pareja.",
+   "Pon la parrilla a unos 20 centímetros de las brasas. Debes poder tener la mano encima 8 segundos.",
+   "Pon los chorizos primero y ásalos 25 minutos, girando. Sirve como entrada.",
+   "Sala la carne con sal gruesa justo antes de ponerla. Pon el vacío con la grasa hacia abajo y la tira con el hueso hacia abajo.",
+   "Asa 60 a 75 minutos sin tocar, añadiendo brasas por los lados. Voltea una vez y asa 20 minutos más.",
+   "Corta y sirve con chimichurri y salsa criolla."
+  ],
+  "tips": [
+   "Fuego bajo y tiempo: el asado no se apura. Si las llamas tocan la carne, está muy cerca.",
+   "Los chorizos comerciales llevan especias variadas: revisa la etiqueta si hay alergias."
+  ],
+  "video": "asado argentino a la parrilla"
+ },
+ "en": {
+  "name": "Argentine Asado",
+  "blurb": "The Argentine Sunday ritual: short ribs and flank grilled slowly over embers with only coarse salt, and sausages to start.",
+  "ing": [
+   {
+    "n": "beef short ribs, cross-cut (tira de asado)"
+   },
+   {
+    "n": "flank steak (vacío)"
+   },
+   {
+    "n": "fresh grilling sausages"
+   },
+   {
+    "n": "coarse salt"
+   }
+  ],
+  "steps": [
+   "Light the charcoal and wait 40 minutes, until covered in white ash. Spread an even bed of embers.",
+   "Set the grill about 20 centimetres above the embers. You should be able to hold your hand over it for 8 seconds.",
+   "Put the sausages on first and grill 25 minutes, turning. Serve as a starter.",
+   "Salt the beef with coarse salt just before it goes on. Lay the flank fat-side down and the ribs bone-side down.",
+   "Grill 60 to 75 minutes without touching, adding embers at the sides. Turn once and grill 20 minutes more.",
+   "Slice and serve with chimichurri and salsa criolla."
+  ],
+  "tips": [
+   "Low heat and time: asado can't be rushed. If flames touch the meat, it's too close.",
+   "Store-bought sausages carry varied seasonings: check the label with allergies."
+  ],
+  "video": "argentine asado"
+ },
+ "added": "2026-09-30"
+}

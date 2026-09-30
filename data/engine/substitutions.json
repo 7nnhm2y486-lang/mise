@@ -6595,11 +6595,13 @@
     "soy",
     "sulphite",
     "mustard",
-    "celery"
+    "celery",
+    "allium",
+    "nightshade"
    ],
    "label": {
-    "es": "Los embutidos comerciales pueden llevar trigo, leche, soja, sulfitos, mostaza o apio: revisa la etiqueta.",
-    "en": "Commercial sausages can contain wheat, milk, soy, sulphites, mustard or celery: check the label."
+    "es": "Los embutidos comerciales pueden llevar trigo, leche, soja, sulfitos, mostaza, apio, ajo, cebolla o pimentón: revisa la etiqueta.",
+    "en": "Commercial sausages can contain wheat, milk, soy, sulphites, mustard, celery, garlic, onion or paprika: check the label."
    },
    "s": {
     "pork": [
@@ -8453,6 +8455,58 @@
       }
      }
     ]
+   }
+  },
+  "chocolatecookies": {
+   "a": [
+    "wheat",
+    "sugar"
+   ],
+   "may": [
+    "milk",
+    "soy",
+    "egg",
+    "corn"
+   ],
+   "label": {
+    "es": "Las galletas de chocolate llevan trigo y azúcar; muchas llevan leche, soja o jarabe de maíz.",
+    "en": "Chocolate biscuits contain wheat and sugar; many contain milk, soy or corn syrup."
+   },
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "may": [
+       "milk",
+       "soy",
+       "egg",
+       "corn"
+      ],
+      "es": {
+       "to": "galletas de chocolate sin gluten",
+       "note": "Del mismo grosor, para que absorban igual."
+      },
+      "en": {
+       "to": "gluten-free chocolate biscuits",
+       "note": "The same thickness, so they soak up the same."
+      }
+     }
+    ]
+   }
+  },
+  "quincepaste": {
+   "a": [
+    "sugar"
+   ],
+   "may": [
+    "sulphite"
+   ],
+   "label": {
+    "es": "El dulce de membrillo es membrillo y azúcar; algunas marcas llevan conservantes con sulfitos.",
+    "en": "Quince paste is quince and sugar; some brands add sulphite preservatives."
    }
   }
  },

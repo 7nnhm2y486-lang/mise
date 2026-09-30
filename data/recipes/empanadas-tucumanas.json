@@ -1,0 +1,202 @@
+{
+ "id": "empanadas-tucumanas",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 120,
+ "serves": 6,
+ "ovenC": 220,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 220,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Empanadas tucumanas",
+  "blurb": "Las empanadas de carne cortada a cuchillo de Tucumán: jugosas, con comino y verdeo, en masa de grasa. Se comen con la mano.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "grasa de pella o manteca de cerdo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "matambre o nalga de res",
+    "note": "cortado a cuchillo en cubitos"
+   },
+   {
+    "n": "cebollas",
+    "note": "picadas"
+   },
+   {
+    "n": "cebollas de verdeo",
+    "note": "picadas"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "ají molido"
+   },
+   {
+    "n": "huevos duros",
+    "note": "picados"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina y 1 cucharadita de sal. Añade la grasa derretida tibia y el agua y amasa 5 minutos. Reposa tapada 30 minutos.",
+   "Sofríe la cebolla en el aceite 10 minutos. Añade la carne y cocina solo 3 minutos, hasta que cambie de color. Añade el comino, el pimentón, el ají y el resto de la sal.",
+   "Apaga, añade el verdeo y enfría por completo. Mezcla con el huevo.",
+   "Estira la masa fina y corta 18 discos de 12 centímetros.",
+   "Pon 2 cucharadas de relleno, cierra y haz el repulgue doblando el borde.",
+   "Calienta el horno a 220 °C. Hornea 15 minutos, hasta que estén doradas."
+  ],
+  "tips": [
+   "La carne cortada a cuchillo y apenas cocida es lo que las hace jugosas.",
+   "El relleno debe estar frío o la masa se rompe."
+  ],
+  "video": "empanadas tucumanas receta"
+ },
+ "en": {
+  "name": "Tucumán Empanadas",
+  "blurb": "Tucumán's empanadas of hand-cut beef: juicy, with cumin and green onion, in a lard pastry. Eaten by hand.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "beef flank or top round",
+    "note": "hand-cut into small dice"
+   },
+   {
+    "n": "onions",
+    "note": "chopped"
+   },
+   {
+    "n": "green onions",
+    "note": "chopped"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "chilli flakes"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "chopped"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Mix the flour and 1 teaspoon of salt. Add the warm melted lard and the water and knead 5 minutes. Rest covered 30 minutes.",
+   "Cook the onion in the oil for 10 minutes. Add the beef and cook just 3 minutes, until it changes colour. Add the cumin, paprika, chilli and the rest of the salt.",
+   "Turn off, add the green onion and cool completely. Mix in the egg.",
+   "Roll the dough thin and cut 18 discs of 12 centimetres.",
+   "Put in 2 tablespoons of filling, close and crimp the edge by folding.",
+   "Heat the oven to 220 °C. Bake 15 minutes, until golden."
+  ],
+  "tips": [
+   "Hand-cut beef, barely cooked, is what makes them juicy.",
+   "The filling must be cold or the dough tears."
+  ],
+  "video": "empanadas tucumanas recipe"
+ },
+ "added": "2026-09-30"
+}

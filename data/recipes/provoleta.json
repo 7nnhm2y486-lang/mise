@@ -1,0 +1,107 @@
+{
+ "id": "provoleta",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 15,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "cheese",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bread",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Provoleta",
+  "blurb": "Una rueda de provolone a la parrilla, dorada por fuera y derretida por dentro, con orégano y ají. La entrada del asado.",
+  "ing": [
+   {
+    "n": "provolone en rueda de 2 cm"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "ají molido"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "pan",
+    "note": "en rebanadas"
+   }
+  ],
+  "steps": [
+   "Deja el queso en el congelador 20 minutos para que aguante el calor.",
+   "Calienta una sartén de hierro o la parrilla a fuego fuerte.",
+   "Cocina el queso 2 minutos, hasta que tenga costra, voltéalo con espátula y cocina 2 minutos más.",
+   "Espolvorea orégano y ají, rocía el aceite y sirve de inmediato con pan."
+  ],
+  "tips": [
+   "El frío previo evita que se derrita antes de dorarse.",
+   "Se come caliente: frío se vuelve de goma."
+  ],
+  "video": "provoleta a la parrilla"
+ },
+ "en": {
+  "name": "Provoleta (Grilled Provolone)",
+  "blurb": "A round of provolone grilled golden outside and molten inside, with oregano and chilli. The asado starter.",
+  "ing": [
+   {
+    "n": "provolone in a 2 cm round"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "chilli flakes"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "bread",
+    "note": "sliced"
+   }
+  ],
+  "steps": [
+   "Put the cheese in the freezer for 20 minutes so it holds up to the heat.",
+   "Heat a cast-iron pan or the grill over high heat.",
+   "Cook the cheese 2 minutes, until crusted, flip with a spatula and cook 2 minutes more.",
+   "Sprinkle with oregano and chilli, drizzle with the oil and serve right away with bread."
+  ],
+  "tips": [
+   "The chill first keeps it from melting before it browns.",
+   "Eat it hot: cold, it turns rubbery."
+  ],
+  "video": "provoleta recipe"
+ },
+ "added": "2026-09-30"
+}

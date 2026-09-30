@@ -62,6 +62,13 @@ put("salsa", ["nightshade", "allium"], ["sulphite", "sugar"], T("Las salsas de m
 // Saltine / soda crackers (Peruvian huancaína, ají de gallina).
 put("crackers", ["wheat"], ["soy", "milk", "sesame"], T("Las galletas de soda llevan trigo; algunas marcas llevan soja o leche.", "Soda crackers contain wheat; some brands contain soy or milk."), {
   wheat: [sub(1, [], ["soy"], ["galletas de arroz naturales", "Elige las que solo llevan arroz y sal."], ["plain rice crackers", "Pick ones made only of rice and salt."])]});
+// Fresh and blood sausages (morcilla, salchicha parrillera) are usually seasoned with garlic, onion or paprika.
+I.sausage.may = [...new Set([...(I.sausage.may || []), "allium", "nightshade"])];
+I.sausage.label = T("Los embutidos comerciales pueden llevar trigo, leche, soja, sulfitos, mostaza, apio, ajo, cebolla o pimentón: revisa la etiqueta.", "Commercial sausages can contain wheat, milk, soy, sulphites, mustard, celery, garlic, onion or paprika: check the label.");
+// Chocolate biscuits (chocotorta) and quince paste (pastafrola).
+put("chocolatecookies", ["wheat", "sugar"], ["milk", "soy", "egg", "corn"], T("Las galletas de chocolate llevan trigo y azúcar; muchas llevan leche, soja o jarabe de maíz.", "Chocolate biscuits contain wheat and sugar; many contain milk, soy or corn syrup."), {
+  wheat: [sub(1, ["sugar"], ["milk", "soy", "egg", "corn"], ["galletas de chocolate sin gluten", "Del mismo grosor, para que absorban igual."], ["gluten-free chocolate biscuits", "The same thickness, so they soak up the same."])]});
+put("quincepaste", ["sugar"], ["sulphite"], T("El dulce de membrillo es membrillo y azúcar; algunas marcas llevan conservantes con sulfitos.", "Quince paste is quince and sugar; some brands add sulphite preservatives."));
 // Refried beans: canned or restaurant ones are often made with lard, sometimes with cheese.
 put("refriedbeans", [], ["pork", "milk"], T("Los frijoles refritos de lata o de fonda suelen llevar manteca de cerdo; algunos llevan queso. Hazlos con aceite o revisa la etiqueta.", "Canned or restaurant refried beans are often made with lard; some contain cheese. Make them with oil or check the label."), {pork: [
   sub(1, [], [], ["frijoles refritos caseros con aceite", "Machaca frijoles cocidos y fríelos en aceite hasta que espesen."], ["homemade refried beans with oil", "Mash cooked beans and fry them in oil until thick."])]});

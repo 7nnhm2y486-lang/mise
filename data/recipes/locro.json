@@ -1,0 +1,235 @@
+{
+ "id": "locro",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 240,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "hominy",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "porkbelly",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Locro argentino",
+  "blurb": "El guiso patrio del 25 de Mayo: maíz blanco, porotos, zapallo y carnes cocidos hasta volverse crema, con salsa roja de verdeo.",
+  "ing": [
+   {
+    "n": "maíz blanco pisado",
+    "note": "remojado toda la noche"
+   },
+   {
+    "n": "porotos blancos",
+    "note": "remojados toda la noche"
+   },
+   {
+    "n": "falda de res",
+    "note": "en cubos"
+   },
+   {
+    "n": "panceta",
+    "note": "en cubos"
+   },
+   {
+    "n": "chorizos colorados",
+    "note": "en rodajas"
+   },
+   {
+    "n": "zapallo",
+    "note": "en cubos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite",
+    "note": "para la salsa"
+   },
+   {
+    "n": "cebollas de verdeo",
+    "note": "picadas"
+   },
+   {
+    "n": "ají molido"
+   }
+  ],
+  "steps": [
+   "Escurre el maíz y los porotos. Cuécelos en el agua 90 minutos a fuego bajo.",
+   "Añade la carne, la panceta y los chorizos y cuece 60 minutos, moviendo cada tanto.",
+   "Sofríe la cebolla en 2 cucharadas de aceite 8 minutos. Añade 1 cucharadita de pimentón y el comino. Échalo a la olla con el zapallo y la sal.",
+   "Cuece 60 minutos más, moviendo seguido, hasta que el zapallo se deshaga y el guiso esté espeso.",
+   "Para la salsa, calienta el resto del aceite con el pimentón restante, el ají y el verdeo 1 minuto.",
+   "Sirve el locro con una cucharada de salsa encima."
+  ],
+  "tips": [
+   "Mueve seguido en la última hora: se pega al fondo.",
+   "Es más rico al día siguiente."
+  ],
+  "video": "locro argentino receta"
+ },
+ "en": {
+  "name": "Argentine Locro",
+  "blurb": "The patriotic stew of May 25th: white hominy, beans, squash and meats cooked until creamy, with a red green-onion sauce.",
+  "ing": [
+   {
+    "n": "dried white hominy",
+    "note": "soaked overnight"
+   },
+   {
+    "n": "white beans",
+    "note": "soaked overnight"
+   },
+   {
+    "n": "beef flank",
+    "note": "cubed"
+   },
+   {
+    "n": "pork belly",
+    "note": "cubed"
+   },
+   {
+    "n": "cured red chorizos",
+    "note": "sliced"
+   },
+   {
+    "n": "winter squash",
+    "note": "cubed"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil",
+    "note": "for the sauce"
+   },
+   {
+    "n": "green onions",
+    "note": "chopped"
+   },
+   {
+    "n": "chilli flakes"
+   }
+  ],
+  "steps": [
+   "Drain the hominy and beans. Cook them in the water for 90 minutes on low.",
+   "Add the beef, pork belly and chorizos and cook 60 minutes, stirring now and then.",
+   "Cook the onion in 2 tablespoons of oil for 8 minutes. Add 1 teaspoon of paprika and the cumin. Add it to the pot with the squash and salt.",
+   "Cook 60 minutes more, stirring often, until the squash dissolves and the stew is thick.",
+   "For the sauce, heat the rest of the oil with the remaining paprika, chilli and green onion for 1 minute.",
+   "Serve the locro with a spoonful of sauce on top."
+  ],
+  "tips": [
+   "Stir often in the last hour: it sticks to the bottom.",
+   "It's better the next day."
+  ],
+  "video": "argentine locro recipe"
+ },
+ "added": "2026-09-30"
+}

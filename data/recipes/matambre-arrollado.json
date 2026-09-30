@@ -1,0 +1,181 @@
+{
+ "id": "matambre-arrollado",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 180,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Matambre arrollado",
+  "blurb": "Una lámina de carne rellena de zanahoria, huevo y morrón, enrollada, hervida y prensada. Se come frío en rodajas, en picadas y fiestas.",
+  "ing": [
+   {
+    "n": "matambre de res",
+    "note": "desgrasado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en bastones"
+   },
+   {
+    "n": "huevos duros"
+   },
+   {
+    "n": "morrón rojo",
+    "note": "en tiras"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla",
+    "note": "para el hervido"
+   },
+   {
+    "n": "hojas de laurel"
+   }
+  ],
+  "steps": [
+   "Extiende la carne con la grasa hacia abajo. Úntala con el ajo, el perejil y la sal.",
+   "Pon filas de zanahoria, huevo entero y morrón a lo ancho.",
+   "Enrolla bien apretado a lo largo de la fibra y amarra con hilo cada 3 centímetros.",
+   "Hierve en el agua con la cebolla, el laurel y un poco de sal 2 horas a fuego bajo.",
+   "Sácalo, ponlo entre 2 bandejas con peso encima y refrigera toda la noche.",
+   "Quita el hilo y corta en rodajas finas."
+  ],
+  "tips": [
+   "El prensado es lo que hace que las rodajas salgan firmes.",
+   "Con ensalada rusa es el clásico de las fiestas de fin de año."
+  ],
+  "video": "matambre arrollado receta"
+ },
+ "en": {
+  "name": "Rolled Matambre",
+  "blurb": "A sheet of beef filled with carrot, egg and bell pepper, rolled, poached and pressed. Eaten cold in slices, at parties and snack boards.",
+  "ing": [
+   {
+    "n": "beef matambre (flank skirt)",
+    "note": "trimmed"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "carrots",
+    "note": "in sticks"
+   },
+   {
+    "n": "hard-boiled eggs"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "in strips"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "onion",
+    "note": "for the poaching water"
+   },
+   {
+    "n": "bay leaves"
+   }
+  ],
+  "steps": [
+   "Lay the beef fat-side down. Rub it with the garlic, parsley and salt.",
+   "Lay rows of carrot, whole egg and bell pepper across it.",
+   "Roll up tightly along the grain and tie with string every 3 centimetres.",
+   "Simmer in the water with the onion, bay and a little salt for 2 hours on low.",
+   "Lift it out, set it between 2 trays with a weight on top and chill overnight.",
+   "Remove the string and slice thinly."
+  ],
+  "tips": [
+   "Pressing is what makes the slices firm.",
+   "With potato salad it's the classic of the year-end holidays."
+  ],
+  "video": "matambre arrollado recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,159 @@
+{
+ "id": "choripan",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "sausage",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "winevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Choripán",
+  "blurb": "Chorizo a la parrilla abierto en mariposa dentro de pan crujiente, con chimichurri. La comida de cancha y de esquina.",
+  "ing": [
+   {
+    "n": "chorizos parrilleros"
+   },
+   {
+    "n": "panes franceses o baguette"
+   },
+   {
+    "n": "perejil",
+    "note": "picado fino"
+   },
+   {
+    "n": "ajo",
+    "note": "picado fino"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "ají molido"
+   },
+   {
+    "n": "vinagre de vino tinto"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Mezcla el perejil, el ajo, el orégano, el ají, el vinagre, el aceite y la sal. Deja reposar 30 minutos: es el chimichurri.",
+   "Asa los chorizos a fuego medio 20 minutos, girándolos.",
+   "Ábrelos a lo largo en mariposa y dóralos 2 minutos del lado del corte.",
+   "Tuesta los panes abiertos en la parrilla.",
+   "Pon el chorizo en el pan y báñalo con chimichurri."
+  ],
+  "tips": [
+   "No pinches los chorizos al asarlos: pierden el jugo.",
+   "El chimichurri mejora de un día para otro."
+  ],
+  "video": "choripan receta"
+ },
+ "en": {
+  "name": "Choripán",
+  "blurb": "A grilled sausage split butterfly-style in crusty bread with chimichurri. Stadium and street-corner food.",
+  "ing": [
+   {
+    "n": "fresh grilling sausages"
+   },
+   {
+    "n": "crusty rolls or baguette pieces"
+   },
+   {
+    "n": "parsley",
+    "note": "finely chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "finely chopped"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "chilli flakes"
+   },
+   {
+    "n": "red wine vinegar"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Mix the parsley, garlic, oregano, chilli, vinegar, oil and salt. Leave 30 minutes: that's the chimichurri.",
+   "Grill the sausages over medium heat for 20 minutes, turning.",
+   "Split them lengthwise butterfly-style and brown the cut side for 2 minutes.",
+   "Toast the opened rolls on the grill.",
+   "Put the sausage in the bread and spoon over the chimichurri."
+  ],
+  "tips": [
+   "Don't prick the sausages while grilling: they lose their juices.",
+   "Chimichurri is better the next day."
+  ],
+  "video": "choripan recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,151 @@
+{
+ "id": "milanesa",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "breadcrumbs",
+   "role": "dredge"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Milanesas de carne",
+  "blurb": "Bifes finos pasados por huevo con ajo y perejil y pan rallado, fritos hasta dorar. El plato de todos los días en Argentina.",
+  "ing": [
+   {
+    "n": "nalga o bola de lomo en bifes finos"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "ajo",
+    "note": "picado fino"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pan rallado"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "limón",
+    "note": "en gajos"
+   }
+  ],
+  "steps": [
+   "Aplana los bifes con un mazo a medio centímetro de grueso.",
+   "Bate los huevos con el ajo, el perejil y la sal. Deja los bifes en la mezcla 30 minutos.",
+   "Pasa cada bife por pan rallado, apretando con la mano para que se pegue.",
+   "Calienta el aceite en un sartén a fuego medio-alto. Fríe 3 minutos por lado, hasta que estén dorados.",
+   "Escurre en papel y sirve con limón y puré o papas fritas."
+  ],
+  "tips": [
+   "Un doble empanado (huevo, pan, huevo, pan) da una costra más gruesa.",
+   "Al horno a 200 °C con un poco de aceite, 20 minutos, quedan menos grasosas."
+  ],
+  "video": "milanesas de carne receta"
+ },
+ "en": {
+  "name": "Argentine Milanesa",
+  "blurb": "Thin steaks dipped in egg with garlic and parsley and breadcrumbs, fried until golden. Argentina's everyday dish.",
+  "ing": [
+   {
+    "n": "thin beef cutlets (top round)"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "garlic",
+    "note": "finely chopped"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "breadcrumbs"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "lemon",
+    "note": "in wedges"
+   }
+  ],
+  "steps": [
+   "Pound the steaks with a mallet to half a centimetre thick.",
+   "Beat the eggs with the garlic, parsley and salt. Leave the steaks in the mixture for 30 minutes.",
+   "Coat each steak in breadcrumbs, pressing with your hand so they stick.",
+   "Heat the oil in a pan over medium-high heat. Fry 3 minutes per side, until golden.",
+   "Drain on paper and serve with lemon and mash or fries."
+  ],
+  "tips": [
+   "A double coat (egg, crumbs, egg, crumbs) gives a thicker crust.",
+   "Baked at 200 °C with a little oil for 20 minutes, they're less greasy."
+  ],
+  "video": "milanesa recipe"
+ },
+ "added": "2026-09-30"
+}

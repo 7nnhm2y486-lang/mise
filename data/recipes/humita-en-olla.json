@@ -1,0 +1,163 @@
+{
+ "id": "humita-en-olla",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 6,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "cheese",
+   "role": "protein"
+  },
+  {
+   "q": 6,
+   "u": "leaf",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Humita en olla",
+  "blurb": "Choclo rallado cocido con cebolla, morrón y leche hasta volverse crema, con queso que se funde. Comida del norte argentino.",
+  "ing": [
+   {
+    "n": "choclos frescos",
+    "note": "rallados"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "morrón rojo",
+    "note": "picado"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "queso fresco o cremoso",
+    "note": "en cubos"
+   },
+   {
+    "n": "hojas de albahaca"
+   }
+  ],
+  "steps": [
+   "Ralla los choclos por el lado grueso del rallador y guarda todo el jugo.",
+   "Sofríe la cebolla y el morrón en el aceite 10 minutos. Añade el pimentón.",
+   "Añade el choclo rallado y la sal y cuece 10 minutos, moviendo.",
+   "Añade la leche poco a poco y cuece 15 minutos más a fuego bajo, moviendo, hasta que espese como polenta blanda.",
+   "Añade el queso, apaga y sirve con albahaca."
+  ],
+  "tips": [
+   "Si el choclo está muy tierno y dulce, no hace falta más; si está duro, añade un poco más de leche.",
+   "Se sirve en cazuela de barro con más queso encima."
+  ],
+  "video": "humita en olla receta"
+ },
+ "en": {
+  "name": "Humita en Olla (Creamy Corn Stew)",
+  "blurb": "Grated fresh corn cooked with onion, bell pepper and milk until creamy, with melting cheese. Food of northern Argentina.",
+  "ing": [
+   {
+    "n": "fresh ears of corn",
+    "note": "grated"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "fresh melting cheese",
+    "note": "cubed"
+   },
+   {
+    "n": "basil leaves"
+   }
+  ],
+  "steps": [
+   "Grate the corn on the coarse side of a grater, keeping all the juice.",
+   "Cook the onion and bell pepper in the oil for 10 minutes. Add the paprika.",
+   "Add the grated corn and salt and cook 10 minutes, stirring.",
+   "Add the milk little by little and cook 15 minutes more on low, stirring, until thick like soft polenta.",
+   "Add the cheese, turn off and serve with basil."
+  ],
+  "tips": [
+   "If the corn is young and sweet, nothing more is needed; if it's starchy, add a little more milk.",
+   "It's served in a clay pot with more cheese on top."
+  ],
+  "video": "humita en olla recipe"
+ },
+ "added": "2026-09-30"
+}
