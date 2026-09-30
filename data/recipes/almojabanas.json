@@ -1,0 +1,134 @@
+{
+ "id": "almojabanas",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 40,
+ "serves": 12,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Almojábanas",
+  "blurb": "Panecillos redondos de cuajada y maíz, esponjosos y suaves. Se toman con chocolate en Bogotá y Boyacá.",
+  "ing": [
+   {
+    "n": "harina de maíz precocida"
+   },
+   {
+    "n": "cuajada o queso fresco",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "mantequilla derretida"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "leche"
+   }
+  ],
+  "steps": [
+   "Aplasta la cuajada con un tenedor hasta que quede fina.",
+   "Mezcla con la harina, el polvo de hornear y el azúcar.",
+   "Añade los huevos, la mantequilla y la leche poco a poco hasta tener una masa suave.",
+   "Forma 12 bolas y colócalas en una bandeja con papel.",
+   "Hornea a 200 °C durante 20 minutos, hasta que estén doradas."
+  ],
+  "tips": [
+   "La cuajada debe estar escurrida o la masa queda aguada.",
+   "Sírvelas tibias."
+  ],
+  "video": "almojábanas receta colombiana"
+ },
+ "en": {
+  "name": "Almojábanas (Colombian Curd Cheese Rolls)",
+  "blurb": "Round rolls of fresh curd and corn, fluffy and soft. Eaten with hot chocolate in Bogotá and Boyacá.",
+  "ing": [
+   {
+    "n": "pre-cooked corn flour"
+   },
+   {
+    "n": "fresh curd cheese",
+    "note": "crumbled"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "melted butter"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "milk"
+   }
+  ],
+  "steps": [
+   "Mash the curd with a fork until fine.",
+   "Mix with the flour, baking powder and sugar.",
+   "Add the eggs, butter and milk gradually to a soft dough.",
+   "Shape 12 balls and set on a lined tray.",
+   "Bake at 200 °C for 20 minutes, until golden."
+  ],
+  "tips": [
+   "The curd must be well drained or the dough goes watery.",
+   "Serve them warm."
+  ],
+  "video": "almojabanas recipe"
+ },
+ "added": "2026-09-30"
+}

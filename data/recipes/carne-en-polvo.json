@@ -1,0 +1,149 @@
+{
+ "id": "carne-en-polvo",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Carne en polvo",
+  "blurb": "Carne cocida, molida fina y dorada con hogao. Parte de la bandeja paisa y de los desayunos antioqueños.",
+  "ing": [
+   {
+    "n": "carne de res magra"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "tallos de cebolla larga",
+    "note": "picados"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "comino"
+   }
+  ],
+  "steps": [
+   "Cuece la carne en el agua con la sal 40 minutos. Escúrrela y déjala enfriar.",
+   "Pica la carne y muélela en el procesador hasta que parezca polvo.",
+   "Sofríe la cebolla, el tomate, el ajo y el comino en el aceite 8 minutos.",
+   "Añade la carne y cuece 5 minutos, removiendo, hasta que esté seca y suelta.",
+   "Sirve con arroz, frijoles y arepa."
+  ],
+  "tips": [
+   "La carne debe quedar seca y suelta, no apelmazada.",
+   "Guarda el agua de cocción para una sopa."
+  ],
+  "video": "carne en polvo paisa receta"
+ },
+ "en": {
+  "name": "Carne en Polvo (Colombian Ground Beef)",
+  "blurb": "Boiled beef ground to a fine powder and fried with hogao. Part of the bandeja paisa and Antioquian breakfasts.",
+  "ing": [
+   {
+    "n": "lean beef"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "long green onion stalks",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "cumin"
+   }
+  ],
+  "steps": [
+   "Simmer the beef in the water with the salt for 40 minutes. Drain and cool.",
+   "Chop the meat and grind in a food processor until it looks like powder.",
+   "Cook the green onion, tomato, garlic and cumin in the oil for 8 minutes.",
+   "Add the meat and cook 5 minutes, stirring, until dry and loose.",
+   "Serve with rice, beans and arepa."
+  ],
+  "tips": [
+   "The meat should end up dry and loose, not clumped.",
+   "Keep the cooking water for a soup."
+  ],
+  "video": "carne en polvo recipe"
+ },
+ "added": "2026-09-30"
+}

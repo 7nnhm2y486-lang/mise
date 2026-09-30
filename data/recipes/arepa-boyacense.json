@@ -1,0 +1,133 @@
+{
+ "id": "arepa-boyacense",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 40,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Arepa boyacense",
+  "blurb": "Arepa dulce de maíz tierno rellena de queso que se funde. De Boyacá, para el desayuno.",
+  "ing": [
+   {
+    "n": "maíz tierno desgranado"
+   },
+   {
+    "n": "harina de maíz precocida"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "queso campesino o doble crema",
+    "note": "en lonchas"
+   }
+  ],
+  "steps": [
+   "Licúa el maíz con la leche hasta tener una pasta.",
+   "Mezcla con la harina, la mantequilla, el azúcar y la sal hasta tener una masa suave.",
+   "Haz 16 bolitas y aplánalas en discos de 1 cm.",
+   "Pon queso sobre 8 discos, cubre con los otros y sella los bordes.",
+   "Ásalas en un sartén con un poco de mantequilla 5 minutos por lado a fuego bajo, hasta que estén doradas."
+  ],
+  "tips": [
+   "El fuego bajo deja que el queso se funda sin quemar la arepa.",
+   "Si la masa se agrieta, añade un poco de leche."
+  ],
+  "video": "arepa boyacense receta"
+ },
+ "en": {
+  "name": "Arepa Boyacense (Sweet Corn Arepa with Cheese)",
+  "blurb": "A sweet fresh-corn arepa filled with melting cheese. From Boyacá, for breakfast.",
+  "ing": [
+   {
+    "n": "fresh corn kernels"
+   },
+   {
+    "n": "pre-cooked corn flour"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "fresh farmer's cheese",
+    "note": "sliced"
+   }
+  ],
+  "steps": [
+   "Blend the corn with the milk to a paste.",
+   "Mix with the flour, butter, sugar and salt to a soft dough.",
+   "Make 16 balls and flatten into 1 cm discs.",
+   "Put cheese on 8 discs, cover with the others and seal the edges.",
+   "Cook in a frying pan with a little butter for 5 minutes a side on low, until golden."
+  ],
+  "tips": [
+   "Low heat lets the cheese melt without burning the arepa.",
+   "If the dough cracks, add a little milk."
+  ],
+  "video": "arepa boyacense recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,119 @@
+{
+ "id": "avena-colombiana",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 20,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 100,
+   "u": "g",
+   "k": "oats",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Avena colombiana",
+  "blurb": "Bebida fría y espesa de avena cocida en leche con canela. Se vende en panaderías con pandebono.",
+  "ing": [
+   {
+    "n": "hojuelas de avena"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "clavos de olor"
+   }
+  ],
+  "steps": [
+   "Cuece la avena en el agua con la canela y los clavos 10 minutos.",
+   "Añade la leche y el azúcar y cuece 5 minutos más.",
+   "Retira las especias y deja enfriar.",
+   "Licúa hasta que esté lisa.",
+   "Refrigera y sirve muy fría."
+  ],
+  "tips": [
+   "Espesa mucho en la nevera; aligera con leche fría.",
+   "Una pizca de canela molida encima queda bien."
+  ],
+  "video": "avena colombiana receta"
+ },
+ "en": {
+  "name": "Avena Colombiana (Cold Oat Drink)",
+  "blurb": "A thick cold drink of oats cooked in milk with cinnamon. Sold in bakeries with pandebono.",
+  "ing": [
+   {
+    "n": "rolled oats"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "whole cloves"
+   }
+  ],
+  "steps": [
+   "Cook the oats in the water with the cinnamon and cloves for 10 minutes.",
+   "Add the milk and sugar and cook 5 minutes more.",
+   "Remove the spices and let cool.",
+   "Blend until smooth.",
+   "Refrigerate and serve very cold."
+  ],
+  "tips": [
+   "It thickens a lot in the fridge; loosen with cold milk.",
+   "A pinch of ground cinnamon on top suits it."
+  ],
+  "video": "colombian oat drink recipe"
+ },
+ "added": "2026-09-30"
+}

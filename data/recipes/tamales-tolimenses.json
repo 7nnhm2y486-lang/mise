@@ -1,0 +1,271 @@
+{
+ "id": "tamales-tolimenses",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 300,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 1.2,
+   "u": "l",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "porkbelly",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 10,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Tamales tolimenses",
+  "blurb": "Tamales grandes de masa de maíz y arroz con cerdo, pollo, tocino, huevo y verduras, envueltos en hoja de plátano. El desayuno de domingo del Tolima.",
+  "ing": [
+   {
+    "n": "harina de maíz precocida"
+   },
+   {
+    "n": "arroz",
+    "note": "cocido a medias"
+   },
+   {
+    "n": "caldo de gallina"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "color (achiote en polvo)"
+   },
+   {
+    "n": "costilla de cerdo",
+    "note": "en trozos"
+   },
+   {
+    "n": "pollo",
+    "note": "en presas"
+   },
+   {
+    "n": "tocino de cerdo",
+    "note": "en trozos"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "papas",
+    "note": "en rodajas"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en rodajas"
+   },
+   {
+    "n": "huevos duros",
+    "note": "en rodajas"
+   },
+   {
+    "n": "tallos de cebolla larga",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "molido"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "hojas de plátano",
+    "note": "soasadas"
+   }
+  ],
+  "steps": [
+   "Adoba el cerdo, el pollo y el tocino con la cebolla, el ajo, el comino y 1 cucharadita de sal toda la noche.",
+   "Mezcla la harina, el arroz, el caldo, la manteca, el color y el resto de la sal hasta tener una masa suave. Añade las arvejas.",
+   "En cada par de hojas pon 4 cucharadas de masa, un trozo de cada carne, una rodaja de papa, zanahoria y huevo, y cubre con más masa.",
+   "Cierra en paquete cuadrado y ata con pita.",
+   "Cuece en una olla grande con agua hirviendo 3 horas y media."
+  ],
+  "tips": [
+   "Las hojas deben pasarse por la llama o por agua caliente para que no se rompan.",
+   "Se sirven con chocolate caliente y arepa."
+  ],
+  "video": "tamales tolimenses receta"
+ },
+ "en": {
+  "name": "Tamales Tolimenses",
+  "blurb": "Large tamales of corn and rice dough with pork, chicken, pork belly, egg and vegetables, wrapped in banana leaf. Sunday breakfast in Tolima.",
+  "ing": [
+   {
+    "n": "pre-cooked corn flour"
+   },
+   {
+    "n": "rice",
+    "note": "parboiled"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ground annatto (color)"
+   },
+   {
+    "n": "pork ribs",
+    "note": "in pieces"
+   },
+   {
+    "n": "chicken",
+    "note": "in pieces"
+   },
+   {
+    "n": "pork belly",
+    "note": "in pieces"
+   },
+   {
+    "n": "peas"
+   },
+   {
+    "n": "potatoes",
+    "note": "sliced"
+   },
+   {
+    "n": "carrots",
+    "note": "sliced"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "sliced"
+   },
+   {
+    "n": "long green onion stalks",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "banana leaves",
+    "note": "softened over the flame"
+   }
+  ],
+  "steps": [
+   "Season the pork, chicken and pork belly with the onion, garlic, cumin and 1 teaspoon of salt overnight.",
+   "Mix the flour, rice, stock, lard, annatto and the rest of the salt to a soft dough. Add the peas.",
+   "On each pair of leaves put 4 tablespoons of dough, a piece of each meat, a slice of potato, carrot and egg, and cover with more dough.",
+   "Close into a square parcel and tie with string.",
+   "Boil in a large pot of water for 3 and a half hours."
+  ],
+  "tips": [
+   "Pass the leaves over a flame or through hot water so they don't tear.",
+   "Served with hot chocolate and arepa."
+  ],
+  "video": "tamales tolimenses recipe"
+ },
+ "added": "2026-09-30"
+}

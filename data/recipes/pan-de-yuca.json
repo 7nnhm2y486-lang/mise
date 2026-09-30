@@ -1,0 +1,110 @@
+{
+ "id": "pan-de-yuca",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 35,
+ "serves": 12,
+ "ovenC": 220,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "cassavastarch",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "milk",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Pan de yuca",
+  "blurb": "Panecillos en forma de herradura de almidón de yuca y queso. Crujientes por fuera y elásticos por dentro, del Valle del Cauca.",
+  "ing": [
+   {
+    "n": "almidón de yuca"
+   },
+   {
+    "n": "queso costeño o feta suave",
+    "note": "rallado"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "leche"
+   }
+  ],
+  "steps": [
+   "Mezcla el almidón, el queso y el polvo de hornear.",
+   "Añade el huevo y la leche y amasa hasta tener una masa lisa.",
+   "Forma 12 cilindros y curvalos en herradura.",
+   "Colócalos en una bandeja con papel.",
+   "Hornea a 220 °C durante 15 minutos, hasta que estén dorados."
+  ],
+  "tips": [
+   "Cómelos recién hechos; al enfriar se endurecen.",
+   "Si la masa se pega, añade un poco de almidón."
+  ],
+  "video": "pan de yuca colombiano receta"
+ },
+ "en": {
+  "name": "Pan de Yuca (Colombian Cassava Cheese Bread)",
+  "blurb": "Horseshoe rolls of cassava starch and cheese. Crisp outside and chewy within, from the Cauca Valley.",
+  "ing": [
+   {
+    "n": "cassava starch"
+   },
+   {
+    "n": "costeño or mild feta cheese",
+    "note": "grated"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "milk"
+   }
+  ],
+  "steps": [
+   "Mix the starch, cheese and baking powder.",
+   "Add the egg and milk and knead to a smooth dough.",
+   "Shape 12 ropes and curve them into horseshoes.",
+   "Place on a lined tray.",
+   "Bake at 220 °C for 15 minutes, until golden."
+  ],
+  "tips": [
+   "Eat them fresh; they harden as they cool.",
+   "If the dough is sticky, add a little starch."
+  ],
+  "video": "pan de yuca recipe"
+ },
+ "added": "2026-09-30"
+}

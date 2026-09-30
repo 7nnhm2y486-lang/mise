@@ -1,0 +1,191 @@
+{
+ "id": "cuchuco-de-trigo",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 120,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "bulgur",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Cuchuco de trigo con espinazo",
+  "blurb": "Sopa espesa de trigo partido con espinazo de cerdo, papa, habas y repollo. De Boyacá y Cundinamarca.",
+  "ing": [
+   {
+    "n": "trigo partido (cuchuco)",
+    "note": "remojado 2 horas"
+   },
+   {
+    "n": "espinazo o costilla de cerdo"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "tallos de cebolla larga",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "papas",
+    "note": "en trozos"
+   },
+   {
+    "n": "habas frescas"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "repollo",
+    "note": "en tiras"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece el espinazo en el agua con la cebolla, el ajo y la sal 45 minutos.",
+   "Añade el trigo escurrido y cuece 30 minutos, removiendo a menudo.",
+   "Añade las papas, las habas y las arvejas y cuece 20 minutos.",
+   "Añade el repollo y cuece 10 minutos más.",
+   "Termina con el cilantro."
+  ],
+  "tips": [
+   "Remueve después de añadir el trigo: se asienta y se pega.",
+   "Debe quedar espeso, casi como un guiso."
+  ],
+  "video": "cuchuco de trigo con espinazo"
+ },
+ "en": {
+  "name": "Cuchuco de Trigo (Cracked Wheat and Pork Soup)",
+  "blurb": "A thick cracked-wheat soup with pork backbone, potato, fava beans and cabbage. From Boyacá and Cundinamarca.",
+  "ing": [
+   {
+    "n": "cracked wheat (cuchuco)",
+    "note": "soaked 2 hours"
+   },
+   {
+    "n": "pork backbone or ribs"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "long green onion stalks",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "potatoes",
+    "note": "in chunks"
+   },
+   {
+    "n": "fresh fava beans"
+   },
+   {
+    "n": "peas"
+   },
+   {
+    "n": "cabbage",
+    "note": "shredded"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the pork in the water with the green onion, garlic and salt for 45 minutes.",
+   "Add the drained wheat and cook 30 minutes, stirring often.",
+   "Add the potatoes, fava beans and peas and cook 20 minutes.",
+   "Add the cabbage and cook 10 minutes more.",
+   "Finish with the cilantro."
+  ],
+  "tips": [
+   "Stir after adding the wheat: it settles and sticks.",
+   "It should be thick, almost like a stew."
+  ],
+  "video": "cuchuco de trigo recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,122 @@
+{
+ "id": "merengon",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 180,
+ "serves": 8,
+ "ovenC": 100,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "eggwhite",
+   "role": "aerate"
+  },
+  {
+   "q": 220,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "cream",
+   "role": "enrich"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "fruit",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Merengón",
+  "blurb": "Discos de merengue seco con crema batida y fruta, fresas o guanábana. Postre de carretera en Bogotá.",
+  "ing": [
+   {
+    "n": "claras de huevo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "crema de leche para batir"
+   },
+   {
+    "n": "azúcar (segunda parte)"
+   },
+   {
+    "n": "fresas y guanábana",
+    "note": "en trozos"
+   }
+  ],
+  "steps": [
+   "Bate las claras con el limón a punto de nieve. Añade 220 g de azúcar poco a poco y bate hasta que brillen.",
+   "Extiende en dos discos de 22 cm sobre papel de horno.",
+   "Hornea a 100 °C durante 2 horas y deja enfriar dentro del horno apagado.",
+   "Bate la crema con 2 cucharadas de azúcar.",
+   "Arma alternando merengue, crema y fruta. Sirve en la hora siguiente."
+  ],
+  "tips": [
+   "Arma justo antes de servir: la crema ablanda el merengue.",
+   "Un día seco ayuda a que el merengue quede crujiente."
+  ],
+  "video": "merengón colombiano receta"
+ },
+ "en": {
+  "name": "Merengón (Colombian Meringue Cake)",
+  "blurb": "Crisp meringue discs with whipped cream and fruit, strawberries or soursop. A roadside dessert near Bogotá.",
+  "ing": [
+   {
+    "n": "egg whites"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "lime juice"
+   },
+   {
+    "n": "whipping cream"
+   },
+   {
+    "n": "sugar (second amount)"
+   },
+   {
+    "n": "strawberries and soursop",
+    "note": "in pieces"
+   }
+  ],
+  "steps": [
+   "Whisk the whites with the lime to stiff peaks. Add 220 g of sugar gradually and whisk until glossy.",
+   "Spread into two 22 cm discs on baking paper.",
+   "Bake at 100 °C for 2 hours and cool in the switched-off oven.",
+   "Whip the cream with 2 tablespoons of sugar.",
+   "Layer meringue, cream and fruit. Serve within the hour."
+  ],
+  "tips": [
+   "Assemble just before serving: the cream softens the meringue.",
+   "A dry day helps the meringue stay crisp."
+  ],
+  "video": "merengon recipe"
+ },
+ "added": "2026-09-30"
+}

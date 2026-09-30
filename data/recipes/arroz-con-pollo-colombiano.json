@@ -1,0 +1,215 @@
+{
+ "id": "arroz-con-pollo-colombiano",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Arroz con pollo colombiano",
+  "blurb": "Arroz amarillo con pollo desmechado y verduras. Plato de cumpleaños y reuniones en Colombia.",
+  "ing": [
+   {
+    "n": "pechugas y muslos de pollo"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "tallos de cebolla larga",
+    "note": "picados"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "pimentón rojo",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "color (achiote en polvo)"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en dados"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "habichuelas (judías verdes)",
+    "note": "en trozos"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo en el agua con 1 cucharadita de sal 25 minutos. Desmecha el pollo y guarda 900 ml del caldo.",
+   "Sofríe la cebolla, el tomate, el pimentón, el ajo y el color en el aceite 8 minutos.",
+   "Añade el arroz, las verduras y el pollo y mezcla 2 minutos.",
+   "Añade el caldo reservado y el resto de la sal. Cuece destapado hasta que el líquido baje al nivel del arroz.",
+   "Tapa y cuece 20 minutos a fuego bajo."
+  ],
+  "tips": [
+   "Se sirve con papas a la francesa, ensalada y maduro.",
+   "Si se seca antes de tiempo, añade un poco de caldo caliente."
+  ],
+  "video": "arroz con pollo colombiano receta"
+ },
+ "en": {
+  "name": "Colombian Arroz con Pollo",
+  "blurb": "Yellow rice with shredded chicken and vegetables. The birthday and gathering dish in Colombia.",
+  "ing": [
+   {
+    "n": "chicken breasts and thighs"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "long green onion stalks",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ground annatto (color)"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "carrots",
+    "note": "diced"
+   },
+   {
+    "n": "peas"
+   },
+   {
+    "n": "green beans",
+    "note": "in pieces"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken in the water with 1 teaspoon of salt for 25 minutes. Shred and keep 900 ml of the broth.",
+   "Cook the green onion, tomato, pepper, garlic and annatto in the oil for 8 minutes.",
+   "Add the rice, vegetables and chicken and stir 2 minutes.",
+   "Add the reserved broth and the rest of the salt. Cook uncovered until the liquid drops to the rice.",
+   "Cover and cook 20 minutes on low."
+  ],
+  "tips": [
+   "It's served with chips, salad and fried ripe plantain.",
+   "If it dries too soon, add a little hot broth."
+  ],
+  "video": "colombian chicken and rice recipe"
+ },
+ "added": "2026-09-30"
+}
