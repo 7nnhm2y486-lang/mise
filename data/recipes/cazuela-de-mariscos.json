@@ -1,0 +1,273 @@
+{
+ "id": "cazuela-de-mariscos",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "clam",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "mussel",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "squid",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "fishstock",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "heavycream",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Cazuela de mariscos",
+  "blurb": "La sopa cremosa de la costa colombiana: mariscos y pescado en leche de coco con sofrito y achiote.",
+  "ing": [
+   {
+    "n": "camarones",
+    "note": "pelados"
+   },
+   {
+    "n": "almejas",
+    "note": "limpias"
+   },
+   {
+    "n": "mejillones",
+    "note": "limpios"
+   },
+   {
+    "n": "calamar",
+    "note": "en aros"
+   },
+   {
+    "n": "pescado blanco firme",
+    "note": "en cubos"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimentón rojo",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "achiote en polvo"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "caldo de pescado"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "crema de leche"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Derrite la mantequilla y sofríe la cebolla, el pimentón y el ajo 8 minutos. Añade el tomate y el achiote y cuece 5 minutos.",
+   "Añade el vino y deja reducir 3 minutos.",
+   "Añade el caldo y la leche de coco y hierve suave 10 minutos.",
+   "Añade las almejas y los mejillones, tapa y cuece 4 minutos, hasta que se abran. Tira los que sigan cerrados.",
+   "Añade el pescado, el calamar y los camarones y cuece 3 minutos.",
+   "Añade la crema y la sal, calienta sin hervir y sirve con cilantro."
+  ],
+  "tips": [
+   "Los mariscos van en orden de cocción y al final: pasados quedan de caucho.",
+   "Con arroz con coco y patacones."
+  ],
+  "video": "cazuela de mariscos colombiana receta"
+ },
+ "en": {
+  "name": "Colombian Seafood Chowder (Cazuela de Mariscos)",
+  "blurb": "The creamy soup of Colombia's coast: shellfish and fish in coconut milk with a sofrito and annatto.",
+  "ing": [
+   {
+    "n": "shrimp",
+    "note": "peeled"
+   },
+   {
+    "n": "clams",
+    "note": "scrubbed"
+   },
+   {
+    "n": "mussels",
+    "note": "cleaned"
+   },
+   {
+    "n": "squid",
+    "note": "in rings"
+   },
+   {
+    "n": "firm white fish",
+    "note": "cubed"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "fish stock"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "heavy cream"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Melt the butter and cook the onion, bell pepper and garlic for 8 minutes. Add the tomato and annatto and cook 5 minutes.",
+   "Add the wine and reduce 3 minutes.",
+   "Add the stock and coconut milk and simmer 10 minutes.",
+   "Add the clams and mussels, cover and cook 4 minutes, until they open. Discard any that stay shut.",
+   "Add the fish, squid and shrimp and cook 3 minutes.",
+   "Add the cream and salt, heat without boiling and serve with cilantro."
+  ],
+  "tips": [
+   "The seafood goes in by cooking time and at the end: overcooked, it turns rubbery.",
+   "Serve with coconut rice and patacones."
+  ],
+  "video": "cazuela de mariscos recipe"
+ },
+ "added": "2026-09-30"
+}

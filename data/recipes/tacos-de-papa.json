@@ -21,7 +21,7 @@
   {
    "q": 1,
    "u": "",
-   "k": "chipotle",
+   "k": "chipotleadobo",
    "role": "aromatic"
   },
   {
@@ -57,7 +57,7 @@
   {
    "q": 250,
    "u": "ml",
-   "k": "tomatillo",
+   "k": "salsa",
    "role": "sauce"
   }
  ],

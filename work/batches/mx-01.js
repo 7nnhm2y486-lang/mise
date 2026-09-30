@@ -186,7 +186,7 @@ module.exports = [
     [2,"clove","garlic","aromatic","ajo","garlic"],
     [2,"","herb","aromatic","hojas de laurel","bay leaves"],
     [500,"g","tomato","aromatic","jitomates","tomatoes"],
-    [3,"","chipotle","aromatic","chiles chipotle en adobo","chipotles in adobo","más 1 cda del adobo","plus 1 tbsp of the sauce"],
+    [3,"","chipotleadobo","aromatic","chiles chipotle en adobo","chipotles in adobo","más 1 cda del adobo","plus 1 tbsp of the sauce"],
     [2,"tbsp","oil","fat","aceite","oil"],
     [1,"tsp","herb","aromatic","orégano mexicano","Mexican oregano"],
     [1.5,"tsp","salt","salt","sal","salt"],

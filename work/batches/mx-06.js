@@ -234,7 +234,7 @@ module.exports = [
  i:[[700,"g","shrimp","protein","camarones grandes","large shrimp","pelados, con cola","peeled, tails on"],
     [4,"","chilli","aromatic","chiles guajillo","guajillo chiles","sin semillas","seeded"],
     [6,"","chilli","aromatic","chiles de árbol","árbol chiles"],
-    [2,"","chipotle","aromatic","chiles chipotles en adobo","chipotles in adobo"],
+    [2,"","chipotleadobo","aromatic","chiles chipotles en adobo","chipotles in adobo"],
     [3,"","tomato","sauce","jitomates","tomatoes"],
     [3,"clove","garlic","aromatic","ajo","garlic"],
     [0.25,"","onion","aromatic","cebolla","onion"],

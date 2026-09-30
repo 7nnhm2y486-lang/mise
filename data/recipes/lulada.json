@@ -1,0 +1,107 @@
+{
+ "id": "lulada",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 10,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "fruit",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "ice",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Lulada",
+  "blurb": "La bebida de Cali: lulo machacado con limón, azúcar y hielo, con trozos de fruta, no licuada.",
+  "ing": [
+   {
+    "n": "lulos (o naranjillas)",
+    "note": "pelados, en cuartos"
+   },
+   {
+    "n": "limón",
+    "note": "en jugo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua fría"
+   },
+   {
+    "n": "hielo"
+   }
+  ],
+  "steps": [
+   "Machaca los lulos en una jarra con el azúcar hasta que suelten todo su jugo pero queden trozos.",
+   "Añade el limón, el agua y el hielo.",
+   "Mezcla y sirve de inmediato con cuchara larga."
+  ],
+  "tips": [
+   "No la licúes: las semillas molidas amargan y pierde la textura.",
+   "Con lulo congelado en pulpa sale bien; usa 200 gramos."
+  ],
+  "video": "lulada caleña receta"
+ },
+ "en": {
+  "name": "Lulada (Lulo Drink)",
+  "blurb": "Cali's drink: lulo muddled with lime, sugar and ice, left chunky rather than blended.",
+  "ing": [
+   {
+    "n": "lulos (naranjilla)",
+    "note": "peeled, quartered"
+   },
+   {
+    "n": "lime",
+    "note": "juiced"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cold water"
+   },
+   {
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Muddle the lulos in a jug with the sugar until they release all their juice but still have chunks.",
+   "Add the lime, water and ice.",
+   "Stir and serve right away with a long spoon."
+  ],
+  "tips": [
+   "Don't blend it: ground seeds turn it bitter and it loses its texture.",
+   "Frozen lulo pulp works; use 200 grams."
+  ],
+  "video": "lulada recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,133 @@
+{
+ "id": "natilla",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 40,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "thicken"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "enrich"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "desiccatedcoconut",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Natilla colombiana",
+  "blurb": "El postre firme de Navidad: leche con panela y canela espesada con fécula hasta poder cortarse en cuadros.",
+  "ing": [
+   {
+    "n": "leche"
+   },
+   {
+    "n": "panela rallada"
+   },
+   {
+    "n": "rajas de canela"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "coco rallado",
+    "note": "opcional"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Disuelve la fécula en 250 ml de la leche fría.",
+   "Calienta el resto de la leche con la panela y la canela hasta que la panela se disuelva.",
+   "Saca la canela y añade la leche con fécula, moviendo sin parar.",
+   "Cuece a fuego medio-bajo 15 minutos, moviendo con cuchara de palo, hasta que esté muy espesa y se vea el fondo de la olla al pasar la cuchara.",
+   "Añade la mantequilla y el coco. Vierte en un molde engrasado, espolvorea canela y deja enfriar 2 horas antes de cortar."
+  ],
+  "tips": [
+   "No dejes de mover: la fécula se pega y hace grumos en segundos.",
+   "Con buñuelos es la pareja de diciembre."
+  ],
+  "video": "natilla colombiana receta"
+ },
+ "en": {
+  "name": "Colombian Natilla",
+  "blurb": "The firm Christmas dessert: milk with panela and cinnamon thickened with cornstarch until it can be cut into squares.",
+  "ing": [
+   {
+    "n": "milk"
+   },
+   {
+    "n": "grated panela (unrefined cane sugar)"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "shredded coconut",
+    "note": "optional"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Dissolve the cornstarch in 250 ml of the cold milk.",
+   "Heat the rest of the milk with the panela and cinnamon until the panela dissolves.",
+   "Remove the cinnamon and add the cornstarch milk, stirring constantly.",
+   "Cook over medium-low heat for 15 minutes, stirring with a wooden spoon, until very thick and the spoon leaves a clear trail on the bottom of the pot.",
+   "Stir in the butter and coconut. Pour into a greased dish, dust with cinnamon and cool 2 hours before cutting."
+  ],
+  "tips": [
+   "Keep stirring: cornstarch sticks and lumps in seconds.",
+   "With buñuelos it is December's pair."
+  ],
+  "video": "natilla recipe"
+ },
+ "added": "2026-09-30"
+}

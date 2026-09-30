@@ -1,0 +1,134 @@
+{
+ "id": "pandebono",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 40,
+ "serves": 12,
+ "ovenC": 220,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "queso",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "cassavastarch",
+   "role": "structure"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "milk",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Pandebono",
+  "blurb": "Panecillos del Valle del Cauca de queso y almidón de yuca: crujientes por fuera, elásticos por dentro. Sin trigo.",
+  "ing": [
+   {
+    "n": "queso costeño o feta rallado fino"
+   },
+   {
+    "n": "almidón de yuca"
+   },
+   {
+    "n": "harina de maíz precocida"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "leche",
+    "note": "si hace falta"
+   }
+  ],
+  "steps": [
+   "Calienta el horno a 220 °C.",
+   "Mezcla el queso, el almidón, la harina de maíz, el azúcar y el polvo de hornear, frotando con los dedos.",
+   "Añade el huevo y amasa hasta que la masa esté lisa y no se pegue. Si está seca, añade leche de a cucharadita.",
+   "Forma 12 bolas o roscas y ponlas en una charola con papel.",
+   "Hornea 15 a 18 minutos, hasta que estén infladas y doradas. Cómelos tibios."
+  ],
+  "tips": [
+   "Frío pierden la gracia; recaliéntalos 3 minutos en el horno.",
+   "El queso debe ser salado y firme: si usas uno fresco y húmedo, necesitarás más almidón."
+  ],
+  "video": "pandebono receta"
+ },
+ "en": {
+  "name": "Pandebono (Cheese Bread)",
+  "blurb": "Cheese and tapioca rolls from Valle del Cauca: crisp outside, chewy inside. No wheat.",
+  "ing": [
+   {
+    "n": "finely grated queso costeño or feta"
+   },
+   {
+    "n": "tapioca starch"
+   },
+   {
+    "n": "precooked cornmeal (masarepa)"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "milk",
+    "note": "if needed"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 220 °C.",
+   "Mix the cheese, tapioca starch, cornmeal, sugar and baking powder, rubbing with your fingers.",
+   "Add the egg and knead until the dough is smooth and not sticky. If dry, add milk a teaspoon at a time.",
+   "Shape 12 balls or rings and set them on a lined tray.",
+   "Bake 15 to 18 minutes, until puffed and golden. Eat them warm."
+  ],
+  "tips": [
+   "Cold they lose their charm; reheat 3 minutes in the oven.",
+   "The cheese should be salty and firm: a fresh, moist one will need more starch."
+  ],
+  "video": "pandebono recipe"
+ },
+ "added": "2026-09-30"
+}

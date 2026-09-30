@@ -1,0 +1,185 @@
+{
+ "id": "sobrebarriga",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 180,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Sobrebarriga en salsa",
+  "blurb": "Falda de res cocida despacio con cebolla larga y tomillo hasta ablandarse, luego dorada y bañada en salsa criolla.",
+  "ing": [
+   {
+    "n": "sobrebarriga de res",
+    "note": "en una pieza"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "tallos de cebolla larga"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "hojas de laurel"
+   },
+   {
+    "n": "tomillo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "comino molido"
+   }
+  ],
+  "steps": [
+   "Cuece la carne con el agua, la cebolla larga, 2 dientes de ajo, el laurel, el tomillo y la sal 2 horas a fuego bajo, hasta que esté tierna.",
+   "Saca la carne y guarda 250 ml del líquido.",
+   "Dora la carne en el aceite 4 minutos por lado. Sácala.",
+   "En la misma grasa, sofríe la cebolla y 2 dientes de ajo picados 5 minutos. Añade el tomate y el comino y cuece 10 minutos.",
+   "Añade el líquido guardado y la carne, y cuece 10 minutos, bañándola. Corta en tajadas contra la fibra."
+  ],
+  "tips": [
+   "Corta contra la fibra: a favor, queda en hilos duros.",
+   "Con papas saladas, arroz y aguacate."
+  ],
+  "video": "sobrebarriga en salsa receta"
+ },
+ "en": {
+  "name": "Braised Flank Steak (Sobrebarriga)",
+  "blurb": "Beef flank simmered slowly with green onion and thyme until tender, then browned and bathed in a Creole tomato sauce.",
+  "ing": [
+   {
+    "n": "beef flank",
+    "note": "in one piece"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "green onion stalks"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "thyme"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "ground cumin"
+   }
+  ],
+  "steps": [
+   "Simmer the beef with the water, green onion, 2 garlic cloves, bay, thyme and salt for 2 hours on low, until tender.",
+   "Lift out the beef and keep 250 ml of the liquid.",
+   "Brown the beef in the oil for 4 minutes per side. Remove.",
+   "In the same fat, cook the onion and 2 chopped garlic cloves for 5 minutes. Add the tomato and cumin and cook 10 minutes.",
+   "Add the reserved liquid and the beef and cook 10 minutes, basting. Slice against the grain."
+  ],
+  "tips": [
+   "Slice against the grain: with it, the beef turns into tough strings.",
+   "Serve with salted potatoes, rice and avocado."
+  ],
+  "video": "sobrebarriga recipe"
+ },
+ "added": "2026-09-30"
+}

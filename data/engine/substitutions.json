@@ -8206,6 +8206,221 @@
      }
     ]
    }
+  },
+  "cassavastarch": {
+   "a": []
+  },
+  "fishstock": {
+   "a": [
+    "fish"
+   ],
+   "may": [
+    "shellfish",
+    "celery",
+    "allium",
+    "wheat",
+    "soy",
+    "milk"
+   ],
+   "label": {
+    "es": "El caldo de pescado comprado puede llevar marisco, apio, cebolla, trigo o soja: revisa la etiqueta o hazlo en casa con espinas de pescado blanco.",
+    "en": "Bought fish stock can contain shellfish, celery, onion, wheat or soy: check the label or make it with white fish bones."
+   },
+   "s": {
+    "fish": [
+     {
+      "f": 1,
+      "carries": [],
+      "may": [
+       "celery",
+       "allium"
+      ],
+      "es": {
+       "to": "caldo de verduras con un trozo de alga kombu",
+       "note": "El alga da el fondo de mar sin pescado."
+      },
+      "en": {
+       "to": "vegetable stock with a piece of kombu",
+       "note": "The seaweed gives a taste of the sea with no fish."
+      }
+     }
+    ],
+    "shellfish": [
+     {
+      "f": 1,
+      "carries": [
+       "fish"
+      ],
+      "es": {
+       "to": "fumet casero de espinas de pescado blanco",
+       "note": "Espinas, agua y sal, 30 minutos a fuego bajo; sin marisco."
+      },
+      "en": {
+       "to": "homemade stock from white fish bones",
+       "note": "Bones, water and salt, 30 minutes on low; no shellfish."
+      }
+     }
+    ],
+    "celery": [
+     {
+      "f": 1,
+      "carries": [
+       "fish"
+      ],
+      "es": {
+       "to": "fumet casero de espinas de pescado blanco",
+       "note": "Espinas, agua y sal, 30 minutos a fuego bajo; sin apio."
+      },
+      "en": {
+       "to": "homemade stock from white fish bones",
+       "note": "Bones, water and salt, 30 minutes on low; no celery."
+      }
+     }
+    ],
+    "allium": [
+     {
+      "f": 1,
+      "carries": [
+       "fish"
+      ],
+      "es": {
+       "to": "fumet casero de espinas de pescado blanco",
+       "note": "Espinas, agua y sal, 30 minutos a fuego bajo; sin cebolla."
+      },
+      "en": {
+       "to": "homemade stock from white fish bones",
+       "note": "Bones, water and salt, 30 minutes on low; no onion."
+      }
+     }
+    ]
+   }
+  },
+  "chipotleadobo": {
+   "a": [
+    "nightshade"
+   ],
+   "may": [
+    "allium",
+    "sulphite",
+    "sugar"
+   ],
+   "label": {
+    "es": "El adobo de lata suele llevar cebolla, vinagre y azúcar: revisa la etiqueta.",
+    "en": "The canned adobo usually contains onion, vinegar and sugar: check the label."
+   },
+   "s": {
+    "nightshade": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "remolacha en polvo para el color + pimienta blanca y jengibre para el picor",
+       "note": "Nada replica la capsaicina. Construye el picor con pimienta, jengibre y rábano picante."
+      },
+      "en": {
+       "to": "beet powder for color + white pepper and ginger for heat",
+       "note": "Nothing replicates capsaicin. Build the heat from pepper, ginger and horseradish."
+      },
+      "may": [
+       "mustard"
+      ]
+     }
+    ],
+    "allium": [
+     {
+      "f": 1,
+      "carries": [
+       "nightshade"
+      ],
+      "es": {
+       "to": "chile chipotle seco rehidratado",
+       "note": "Remójalo en agua caliente 15 minutos; sin el adobo de lata."
+      },
+      "en": {
+       "to": "dried chipotle, rehydrated",
+       "note": "Soak it in hot water for 15 minutes; no canned adobo."
+      }
+     }
+    ],
+    "sulphite": [
+     {
+      "f": 1,
+      "carries": [
+       "nightshade"
+      ],
+      "es": {
+       "to": "chile chipotle seco rehidratado",
+       "note": "Remójalo en agua caliente 15 minutos; sin el adobo de lata."
+      },
+      "en": {
+       "to": "dried chipotle, rehydrated",
+       "note": "Soak it in hot water for 15 minutes; no canned adobo."
+      }
+     }
+    ],
+    "sugar": [
+     {
+      "f": 1,
+      "carries": [
+       "nightshade"
+      ],
+      "es": {
+       "to": "chile chipotle seco rehidratado",
+       "note": "Remójalo en agua caliente 15 minutos; sin el adobo de lata."
+      },
+      "en": {
+       "to": "dried chipotle, rehydrated",
+       "note": "Soak it in hot water for 15 minutes; no canned adobo."
+      }
+     }
+    ]
+   }
+  },
+  "salsa": {
+   "a": [
+    "nightshade",
+    "allium"
+   ],
+   "may": [
+    "sulphite",
+    "sugar"
+   ],
+   "label": {
+    "es": "Las salsas de mesa llevan chile y casi siempre ajo o cebolla; las de frasco pueden llevar vinagre o azúcar.",
+    "en": "Table salsas contain chile and nearly always garlic or onion; jarred ones can contain vinegar or sugar."
+   },
+   "s": {
+    "allium": [
+     {
+      "f": 1,
+      "carries": [
+       "nightshade"
+      ],
+      "es": {
+       "to": "salsa de tomatillo y chile hecha en casa sin ajo ni cebolla",
+       "note": "Tomatillo hervido, chile, cilantro y sal, licuados."
+      },
+      "en": {
+       "to": "homemade tomatillo and chile salsa without garlic or onion",
+       "note": "Boiled tomatillo, chile, cilantro and salt, blended."
+      }
+     }
+    ],
+    "nightshade": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "salsa de aguacate, cilantro y limón",
+       "note": "Fresca y ácida, sin chile ni tomate."
+      },
+      "en": {
+       "to": "avocado, cilantro and lime salsa",
+       "note": "Fresh and sharp, with no chile or tomato."
+      }
+     }
+    ]
+   }
   }
  },
  "roles": {

@@ -198,7 +198,7 @@ module.exports = [
     [0.25,"","veg","garnish","col","cabbage","en tiras finas","finely shredded"],
     [80,"g","mayo","sauce","mayonesa","mayonnaise"],
     [60,"ml","crema","sauce","crema","crema"],
-    [1,"tbsp","chipotle","sauce","adobo de chipotle","chipotle adobo sauce"],
+    [1,"tbsp","chipotleadobo","sauce","adobo de chipotle","chipotle adobo sauce"],
     [2,"","citrus","acid","limones","limes"],
     [150,"ml","hotsauce","sauce","pico de gallo o salsa","pico de gallo or salsa"]],
  es:{n:"Tacos de pescado estilo Baja", b:"Pescado en capeado de cerveza, frito hasta crujir, en tortilla de maíz con col, crema de chipotle y limón. Ensenada en un taco.",

@@ -1,0 +1,121 @@
+{
+ "id": "arroz-con-coco",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "side",
+ "time": 50,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "jaggery",
+   "role": "caramel"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Arroz con coco",
+  "blurb": "El arroz de la costa caribe: leche de coco reducida hasta caramelizar, que tiñe el arroz de café y lo vuelve dulce y salado a la vez.",
+  "ing": [
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "panela rallada"
+   },
+   {
+    "n": "arroz blanco",
+    "note": "enjuagado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "pasas",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Hierve 400 ml de la leche de coco con la panela en una olla, moviendo, 15 minutos, hasta que el agua se evapore, la grasa se separe y queden grumos dorados en el fondo.",
+   "Añade el arroz y revuelve 2 minutos en esa grasa.",
+   "Añade el resto de la leche de coco, el agua, la sal y las pasas. Hierve hasta que el líquido baje al nivel del arroz.",
+   "Tapa, baja el fuego al mínimo y cuece 20 minutos. Apaga y deja tapado 5 minutos antes de soltar con tenedor."
+  ],
+  "tips": [
+   "Los grumos tostados del coco (el titoté) son el sabor: déjalos dorar bien sin quemar.",
+   "Va con pescado frito, posta negra y patacones."
+  ],
+  "video": "arroz con coco titote receta"
+ },
+ "en": {
+  "name": "Colombian Coconut Rice",
+  "blurb": "Rice from the Caribbean coast: coconut milk reduced until it caramelises, turning the rice brown and both sweet and savoury.",
+  "ing": [
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "grated panela (unrefined cane sugar)"
+   },
+   {
+    "n": "white rice",
+    "note": "rinsed"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "raisins",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Boil 400 ml of the coconut milk with the panela in a pot, stirring, for 15 minutes, until the water evaporates, the fat separates and golden bits form on the bottom.",
+   "Add the rice and stir it in that fat for 2 minutes.",
+   "Add the rest of the coconut milk, the water, salt and raisins. Boil until the liquid drops to the level of the rice.",
+   "Cover, turn the heat to the lowest and cook 20 minutes. Turn off and leave covered 5 minutes before fluffing with a fork."
+  ],
+  "tips": [
+   "The toasted coconut bits (titoté) are the flavour: let them brown well without burning.",
+   "It goes with fried fish, posta negra and patacones."
+  ],
+  "video": "colombian coconut rice recipe"
+ },
+ "added": "2026-09-30"
+}

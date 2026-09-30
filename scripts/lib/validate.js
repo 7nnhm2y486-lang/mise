@@ -11,6 +11,9 @@ const UNITS = ["", "g", "kg", "ml", "l", "tbsp", "tsp", "clove", "pinch", "bigpi
 const ROLES = ["protein", "acid", "umami", "aromatic", "liquid", "sweet", "fat", "structure", "crunch", "salt", "set", "binder", "leaven", "garnish",
   "moisture", "dredge", "enrich", "aerate", "caramel", "thicken", "glaze", "spread", "sauce", "serve", "preserve"];
 
+const COMPOSITE = /\b(salsa (verde|roja|de tomatillo|taquera|criolla)|hogao|sofrito|recaito|en adobo|chimichurri|pico de gallo)\b/i;
+const RAW = ["tomato", "tomatillo", "chilli", "chipotle", "ancho", "onion", "garlic", "herb", "bellpepper", "scallion", "veg"];
+
 function validate(r, E){
   const p = [];
   const need = (cond, msg) => { if(!cond) p.push(msg); };
@@ -58,6 +61,8 @@ function validate(r, E){
     need(es && en, `ing ${i}: name`);
     for(const a of scan(es)) if(!cov.has(a) && !EX[`ing|${a}|${es.toLowerCase()}`]) p.push(`ing ${i} "${es}" mentions ${a} but key ${ing.k} doesn't have it`);
     for(const a of scanEn(en)) if(!cov.has(a) && !EX[`ing-en|${a}|${en.toLowerCase()}`]) p.push(`ing ${i} "${en}" mentions ${a} but key ${ing.k} doesn't have it`);
+    // A prepared mixture (salsa, sofrito, adobo) under a single raw ingredient's key hides its other allergens.
+    if(COMPOSITE.test(es) && RAW.includes(ing.k)) p.push(`ing ${i} "${es}" is a prepared mixture; use a composite key (salsa, chipotleadobo…) or list its parts`);
   });
   return p;
 }

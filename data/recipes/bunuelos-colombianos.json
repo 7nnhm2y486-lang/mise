@@ -1,0 +1,133 @@
+{
+ "id": "bunuelos-colombianos",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 40,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "queso",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "cassavastarch",
+   "role": "structure"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Buñuelos colombianos",
+  "blurb": "Bolas de queso fritas que se voltean solas en el aceite, doradas y huecas por dentro. Infaltables en Navidad con natilla.",
+  "ing": [
+   {
+    "n": "queso costeño o feta rallado fino"
+   },
+   {
+    "n": "almidón de yuca"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   }
+  ],
+  "steps": [
+   "Mezcla el queso, el almidón, la fécula, el azúcar y el polvo de hornear.",
+   "Añade el huevo y amasa hasta tener una masa lisa que no se pegue.",
+   "Forma 16 bolas lisas, sin grietas.",
+   "Calienta el aceite a 150 °C. Fríe las bolas de a pocas 8 a 10 minutos: se hundirán, subirán y se voltearán solas. Súbelo a 170 °C los últimos 2 minutos para dorar.",
+   "Escurre en papel y sirve tibios."
+  ],
+  "tips": [
+   "Aceite muy caliente al principio y se revientan: empieza tibio.",
+   "Si se agrietan al formarlas, añade unas gotas de leche o agua."
+  ],
+  "video": "buñuelos colombianos receta"
+ },
+ "en": {
+  "name": "Colombian Buñuelos (Cheese Fritters)",
+  "blurb": "Fried cheese balls that turn themselves over in the oil, golden and hollow inside. A Christmas must with natilla.",
+  "ing": [
+   {
+    "n": "finely grated queso costeño or feta"
+   },
+   {
+    "n": "tapioca starch"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   }
+  ],
+  "steps": [
+   "Mix the cheese, tapioca starch, cornstarch, sugar and baking powder.",
+   "Add the egg and knead into a smooth dough that doesn't stick.",
+   "Shape 16 smooth balls without cracks.",
+   "Heat the oil to 150 °C. Fry a few at a time for 8 to 10 minutes: they sink, rise and flip themselves. Raise it to 170 °C for the last 2 minutes to brown.",
+   "Drain on paper and serve warm."
+  ],
+  "tips": [
+   "Oil too hot at the start and they burst: begin warm.",
+   "If they crack when shaped, add a few drops of milk or water."
+  ],
+  "video": "colombian bunuelos recipe"
+ },
+ "added": "2026-09-30"
+}

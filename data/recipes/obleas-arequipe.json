@@ -1,0 +1,97 @@
+{
+ "id": "obleas-arequipe",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 10,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 8,
+   "u": "",
+   "k": "wafer",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "dulcedeleche",
+   "role": "spread"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "jam",
+   "role": "spread"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "cheese",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Obleas con arequipe",
+  "blurb": "Dos obleas finísimas unidas con arequipe, y si quieres, mermelada de mora y queso. El dulce de parque de Colombia.",
+  "ing": [
+   {
+    "n": "obleas grandes"
+   },
+   {
+    "n": "arequipe"
+   },
+   {
+    "n": "mermelada de mora",
+    "note": "opcional"
+   },
+   {
+    "n": "queso blanco rallado",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Unta una oblea con 2 cucharadas de arequipe.",
+   "Añade 1 cucharada de mermelada y un poco de queso rallado, si quieres.",
+   "Tapa con otra oblea y aprieta con suavidad.",
+   "Cómelas enseguida: las obleas se ablandan en 10 minutos."
+  ],
+  "tips": [
+   "Se come sobre un plato: el arequipe se sale por los bordes.",
+   "Con leche condensada en vez de arequipe también es clásica."
+  ],
+  "video": "obleas con arequipe"
+ },
+ "en": {
+  "name": "Wafers with Arequipe (Obleas)",
+  "blurb": "Two paper-thin wafers stuck together with arequipe, plus blackberry jam and cheese if you like. Colombia's park-bench sweet.",
+  "ing": [
+   {
+    "n": "large wafers"
+   },
+   {
+    "n": "arequipe (dulce de leche)"
+   },
+   {
+    "n": "blackberry jam",
+    "note": "optional"
+   },
+   {
+    "n": "grated white cheese",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Spread one wafer with 2 tablespoons of arequipe.",
+   "Add 1 tablespoon of jam and a little grated cheese, if you like.",
+   "Cover with another wafer and press gently.",
+   "Eat right away: the wafers soften within 10 minutes."
+  ],
+  "tips": [
+   "Eat it over a plate: the arequipe oozes out the sides.",
+   "Condensed milk instead of arequipe is also classic."
+  ],
+  "video": "obleas colombianas"
+ },
+ "added": "2026-09-30"
+}

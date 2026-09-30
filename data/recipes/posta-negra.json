@@ -1,0 +1,187 @@
+{
+ "id": "posta-negra",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "pepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "jaggery",
+   "role": "caramel"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Posta negra cartagenera",
+  "blurb": "Res cocida en un caramelo oscuro de panela con cebolla y tomate hasta quedar negra, brillante y agridulce. Clásico de Cartagena.",
+  "ing": [
+   {
+    "n": "posta o muchacho de res",
+    "note": "en una pieza"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "panela rallada"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "hojas de laurel"
+   }
+  ],
+  "steps": [
+   "Unta la carne con el ajo, el comino, la pimienta y la sal. Déjala 1 hora o toda la noche en el refrigerador.",
+   "Calienta el aceite en una olla gruesa, añade la panela y deja que se derrita y oscurezca 3 minutos, hasta color café oscuro sin quemarse.",
+   "Dora la carne en el caramelo por todos lados, 8 minutos. Cuidado: salpica.",
+   "Añade la cebolla, el tomate, el laurel y el agua. Tapa y cuece a fuego bajo 2 horas, volteando cada 30 minutos.",
+   "Saca la carne y reduce la salsa hasta que esté espesa y brillante. Rebana la carne y báñala con la salsa."
+  ],
+  "tips": [
+   "El caramelo debe ser oscuro pero no negro: quemado amarga toda la olla.",
+   "Con arroz con coco y patacones es la comida de la costa."
+  ],
+  "video": "posta negra cartagenera receta"
+ },
+ "en": {
+  "name": "Cartagena Black Beef (Posta Negra)",
+  "blurb": "Beef cooked in a dark panela caramel with onion and tomato until black, glossy and sweet-sour. A Cartagena classic.",
+  "ing": [
+   {
+    "n": "beef eye of round",
+    "note": "in one piece"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "grated panela (unrefined cane sugar)"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "bay leaves"
+   }
+  ],
+  "steps": [
+   "Rub the beef with the garlic, cumin, pepper and salt. Leave it 1 hour or overnight in the fridge.",
+   "Heat the oil in a heavy pot, add the panela and let it melt and darken for 3 minutes, to dark brown without burning.",
+   "Brown the beef in the caramel on all sides, 8 minutes. Careful: it spatters.",
+   "Add the onion, tomato, bay and water. Cover and cook on low for 2 hours, turning every 30 minutes.",
+   "Lift out the beef and reduce the sauce until thick and glossy. Slice the beef and spoon the sauce over."
+  ],
+  "tips": [
+   "The caramel should be dark but not black: burned, it makes the whole pot bitter.",
+   "With coconut rice and patacones it is the meal of the coast."
+  ],
+  "video": "posta negra recipe"
+ },
+ "added": "2026-09-30"
+}

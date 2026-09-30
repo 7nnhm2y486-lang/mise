@@ -1,0 +1,161 @@
+{
+ "id": "calentado",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 20,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "cornmeal",
+   "role": "serve"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Calentado",
+  "blurb": "Los frijoles y el arroz de ayer salteados juntos con hogao, con huevo frito y arepa. El desayuno paisa.",
+  "ing": [
+   {
+    "n": "frijoles rojos cocidos del día anterior"
+   },
+   {
+    "n": "arroz blanco del día anterior"
+   },
+   {
+    "n": "tomate",
+    "note": "picado"
+   },
+   {
+    "n": "tallos de cebolla larga",
+    "note": "picados"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "arepas"
+   },
+   {
+    "n": "aguacate",
+    "note": "en rebanadas"
+   }
+  ],
+  "steps": [
+   "Calienta el aceite en un sartén y sofríe el tomate y la cebolla larga 5 minutos, hasta tener un hogao.",
+   "Añade los frijoles con un poco de su líquido y el arroz. Saltea a fuego medio 8 minutos, aplastando un poco, hasta que se pegue y dore en partes.",
+   "Prueba de sal.",
+   "Fríe los huevos y calienta las arepas.",
+   "Sirve el calentado con el huevo encima, la arepa y el aguacate."
+  ],
+  "tips": [
+   "Deja que se dore en el fondo del sartén sin mover: esa costra es lo mejor.",
+   "Con chorizo o carne desmechada sobrantes, añádelos con el arroz."
+  ],
+  "video": "calentado paisa receta"
+ },
+ "en": {
+  "name": "Calentado (Colombian Rice and Beans Hash)",
+  "blurb": "Yesterday's beans and rice fried together with hogao, with a fried egg and arepa. The Paisa breakfast.",
+  "ing": [
+   {
+    "n": "leftover cooked red beans"
+   },
+   {
+    "n": "leftover white rice"
+   },
+   {
+    "n": "tomato",
+    "note": "chopped"
+   },
+   {
+    "n": "green onion stalks",
+    "note": "chopped"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "corn arepas"
+   },
+   {
+    "n": "avocado",
+    "note": "sliced"
+   }
+  ],
+  "steps": [
+   "Heat the oil in a pan and cook the tomato and green onion for 5 minutes, into a hogao.",
+   "Add the beans with a little of their liquid and the rice. Fry over medium heat for 8 minutes, pressing down a little, until it sticks and browns in places.",
+   "Taste for salt.",
+   "Fry the eggs and warm the arepas.",
+   "Serve the calentado with the egg on top, the arepa and avocado."
+  ],
+  "tips": [
+   "Let it brown on the bottom of the pan without stirring: that crust is the best part.",
+   "With leftover chorizo or shredded beef, add them with the rice."
+  ],
+  "video": "calentado recipe"
+ },
+ "added": "2026-09-30"
+}
