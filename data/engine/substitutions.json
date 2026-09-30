@@ -3932,6 +3932,21 @@
      {
       "f": 1,
       "carries": [],
+      "may": [
+       "soy"
+      ],
+      "es": {
+       "to": "manteca vegetal",
+       "note": "La misma textura en tamales y masas; revisa si lleva soja."
+      },
+      "en": {
+       "to": "vegetable shortening",
+       "note": "Same texture in tamales and pastry; check whether it contains soy."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
       "es": {
        "to": "sebo de res",
        "note": "Misma solidez para masas quebradas."
@@ -8160,6 +8175,33 @@
       "en": {
        "to": "cashew cream with lime",
        "note": "The most neutral."
+      }
+     }
+    ]
+   }
+  },
+  "refriedbeans": {
+   "a": [],
+   "may": [
+    "pork",
+    "milk"
+   ],
+   "label": {
+    "es": "Los frijoles refritos de lata o de fonda suelen llevar manteca de cerdo; algunos llevan queso. Hazlos con aceite o revisa la etiqueta.",
+    "en": "Canned or restaurant refried beans are often made with lard; some contain cheese. Make them with oil or check the label."
+   },
+   "s": {
+    "pork": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "frijoles refritos caseros con aceite",
+       "note": "Machaca frijoles cocidos y fríelos en aceite hasta que espesen."
+      },
+      "en": {
+       "to": "homemade refried beans with oil",
+       "note": "Mash cooked beans and fry them in oil until thick."
       }
      }
     ]

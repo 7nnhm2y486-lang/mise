@@ -246,7 +246,7 @@ module.exports = [
  i:[[500,"g","masa","structure","masa de maíz","corn masa","o 250 g de harina de maíz nixtamalizado con agua","or 250 g masa harina mixed with water"],
     [0.5,"tsp","salt","salt","sal","salt"],
     [2,"tbsp","lard","fat","manteca de cerdo","lard"],
-    [300,"g","legume","protein","frijoles refritos","refried beans"],
+    [300,"g","refriedbeans","protein","frijoles refritos","refried beans"],
     [200,"g","chorizo","protein","chorizo","chorizo","sin tripa, frito","casing removed, fried"],
     [150,"ml","hotsauce","sauce","salsa roja","red salsa"],
     [80,"g","queso","garnish","queso fresco","queso fresco","desmoronado","crumbled"],

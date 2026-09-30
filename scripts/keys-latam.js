@@ -42,5 +42,11 @@ I.peanut.s = {peanut: [
   sub(1, [], [], ["semillas de girasol tostadas", "Mismo crujido y la misma grasa. Tuéstalas hasta que suenen."], ["toasted sunflower seeds", "Same crunch, same fat. Toast them until they crackle."]),
   sub(1, [], [], ["pepitas de calabaza tostadas", "Más terrosas; muy buenas en moles y salsas."], ["toasted pumpkin seeds", "Earthier; very good in moles and sauces."]),
   sub(1, [], [], ["garbanzos tostados", "Solo para el crujiente."], ["roasted chickpeas", "Only for crunch."])]};
+// Refried beans: canned or restaurant ones are often made with lard, sometimes with cheese.
+put("refriedbeans", [], ["pork", "milk"], T("Los frijoles refritos de lata o de fonda suelen llevar manteca de cerdo; algunos llevan queso. Hazlos con aceite o revisa la etiqueta.", "Canned or restaurant refried beans are often made with lard; some contain cheese. Make them with oil or check the label."), {pork: [
+  sub(1, [], [], ["frijoles refritos caseros con aceite", "Machaca frijoles cocidos y fríelos en aceite hasta que espesen."], ["homemade refried beans with oil", "Mash cooked beans and fry them in oil until thick."])]});
+// Tamales and flaky doughs: vegetable shortening is the classic lard swap.
+if(!I.lard.s.pork.some(x => x.es.to === "manteca vegetal"))
+  I.lard.s.pork.unshift(sub(1, [], ["soy"], ["manteca vegetal", "La misma textura en tamales y masas; revisa si lleva soja."], ["vegetable shortening", "Same texture in tamales and pastry; check whether it contains soy."]));
 fs.writeFileSync(EFILE, JSON.stringify(S, null, 1) + "\n");
 console.log("keys:", Object.keys(I).length);

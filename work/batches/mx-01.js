@@ -304,7 +304,7 @@ module.exports = [
     [0.25,"","onion","aromatic","cebolla blanca","white onion"],
     [1,"clove","garlic","aromatic","ajo","garlic"],
     [0.5,"tsp","salt","salt","sal","salt"],
-    [150,"g","legume","serve","frijoles refritos","refried beans","opcional","optional"],
+    [150,"g","refriedbeans","serve","frijoles refritos","refried beans","opcional","optional"],
     [1,"sprig","herb","garnish","cilantro","cilantro"]],
  es:{n:"Huevos rancheros", b:"Huevos estrellados sobre tortillas pasadas por aceite, bañados en salsa ranchera caliente. Un desayuno de rancho que no necesita más.",
   st:["Asa los jitomates, el chile, la cebolla y el ajo en un comal hasta que tengan manchas negras. Lícualos con la sal sin que quede totalmente liso.",

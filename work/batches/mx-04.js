@@ -254,7 +254,7 @@ module.exports = [
     [1,"tbsp","oil","fat","aceite","oil"],
     [0.5,"tsp","salt","salt","sal","salt"],
     [6,"","corntortilla","serve","tortillas de maíz","corn tortillas","calientes","warm"],
-    [250,"g","legume","serve","frijoles refritos","refried beans"]],
+    [250,"g","refriedbeans","serve","frijoles refritos","refried beans"]],
  es:{n:"Huevos a la mexicana", b:"Huevos revueltos con jitomate, cebolla y chile: los colores de la bandera en el desayuno.",
   st:["Calienta el aceite y sofríe la cebolla y el chile 2 minutos.",
       "Añade el jitomate y cuece 3 minutos, hasta que suelte su jugo y se seque un poco.",
