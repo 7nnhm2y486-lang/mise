@@ -9,13 +9,13 @@
   {
    "q": 1,
    "u": "kg",
-   "k": "",
+   "k": "chicken",
    "role": "protein"
   },
   {
    "q": 180,
    "u": "ml",
-   "k": "",
+   "k": "canevinegar",
    "role": "acid"
   },
   {
@@ -33,19 +33,19 @@
   {
    "q": 4,
    "u": "",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   },
   {
    "q": 180,
    "u": "ml",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
@@ -57,7 +57,7 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   }
  ],

@@ -11,7 +11,7 @@
   {
    "q": 180,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
@@ -41,13 +41,13 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "bakingsoda",
    "role": "leaven"
   },
   {
    "q": 1.25,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
@@ -59,13 +59,13 @@
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "citrus",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

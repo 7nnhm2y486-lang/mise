@@ -15,7 +15,7 @@
   {
    "q": 4,
    "u": "tbsp",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
@@ -27,7 +27,7 @@
   {
    "q": 1.2,
    "u": "l",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
@@ -45,13 +45,13 @@
   {
    "q": 1,
    "u": "pinch",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 4,
    "u": "pod",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {

@@ -39,25 +39,25 @@
   {
    "q": 8,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 80,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 1,
    "u": "pinch",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   }
  ],

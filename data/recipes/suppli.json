@@ -9,19 +9,19 @@
   {
    "q": 300,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
    "q": 300,
    "u": "g",
-   "k": "tomato",
+   "k": "ragu",
    "role": "protein"
   },
   {
    "q": 900,
    "u": "ml",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   },
   {
@@ -63,13 +63,13 @@
   {
    "q": 1.5,
    "u": "l",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

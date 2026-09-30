@@ -34,13 +34,13 @@
   {
    "q": 0.75,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 150,
    "u": "g",
-   "k": "sugar",
+   "k": "jam",
    "role": "structure"
   },
   {
@@ -58,13 +58,13 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 80,
    "u": "g",
-   "k": "",
+   "k": "driedfruit",
    "role": "structure"
   },
   {

@@ -9,31 +9,31 @@
   {
    "q": 700,
    "u": "g",
-   "k": "",
+   "k": "legume",
    "role": "protein"
   },
   {
    "q": 300,
    "u": "g",
-   "k": "",
+   "k": "driedmeat",
    "role": "protein"
   },
   {
    "q": 500,
    "u": "g",
-   "k": "",
+   "k": "pork",
    "role": "protein"
   },
   {
    "q": 300,
    "u": "g",
-   "k": "chorizo",
+   "k": "sausage",
    "role": "protein"
   },
   {
    "q": 300,
    "u": "g",
-   "k": "",
+   "k": "porkbelly",
    "role": "protein"
   },
   {
@@ -57,37 +57,37 @@
   {
    "q": 4,
    "u": "",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "citrus",
    "role": "aromatic"
   },
   {
    "q": 200,
    "u": "g",
-   "k": "masa",
+   "k": "farofa",
    "role": "structure"
   },
   {
    "q": 300,
    "u": "g",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
    "q": 400,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

@@ -10,19 +10,19 @@
   {
    "q": 2,
    "u": "kg",
-   "k": "",
+   "k": "pork",
    "role": "protein"
   },
   {
    "q": 100,
    "u": "g",
-   "k": "",
+   "k": "achiote",
    "role": "aromatic"
   },
   {
    "q": 300,
    "u": "ml",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
@@ -34,25 +34,25 @@
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   },
   {
    "q": 4,
    "u": "",
-   "k": "",
+   "k": "herb",
    "role": "structure"
   },
   {
@@ -70,7 +70,7 @@
   {
    "q": 3,
    "u": "",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
@@ -82,7 +82,7 @@
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

@@ -39,31 +39,31 @@
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "vinegar",
    "role": "acid"
   },
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

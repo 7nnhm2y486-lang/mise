@@ -10,13 +10,13 @@
   {
    "q": 4,
    "u": "",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
@@ -34,7 +34,7 @@
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "ricevinegar",
    "role": "acid"
   },
   {
@@ -46,7 +46,7 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "chilli",
+   "k": "chilioil",
    "role": "fat"
   },
   {
@@ -64,7 +64,7 @@
   {
    "q": 20,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   }
  ],

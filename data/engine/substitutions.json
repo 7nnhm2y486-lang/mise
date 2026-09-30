@@ -104,6 +104,11 @@
    "major": false,
    "es": "Gelatina",
    "en": "Gelatin"
+  },
+  "honey": {
+   "major": false,
+   "es": "Miel",
+   "en": "Honey"
   }
  },
  "ingredients": {
@@ -405,7 +410,10 @@
       "en": {
        "to": "soy milk + 1 tbsp vinegar per 240 ml",
        "note": "Let it sit 10 min until it curdles. Soy protein curdles more convincingly."
-      }
+      },
+      "may": [
+       "sulphite"
+      ]
      },
      {
       "f": 1,
@@ -873,7 +881,10 @@
       "en": {
        "to": "thick coconut yogurt, strained overnight",
        "note": "Looser; add 1 tsp cornstarch if it's going in the oven."
-      }
+      },
+      "may": [
+       "corn"
+      ]
      }
     ]
    }
@@ -888,7 +899,8 @@
      {
       "f": 1,
       "carries": [
-       "coconut"
+       "coconut",
+       "sugar"
       ],
       "es": {
        "to": "leche condensada de coco",
@@ -930,7 +942,8 @@
      {
       "f": 1,
       "carries": [
-       "treenut"
+       "treenut",
+       "coconut"
       ],
       "es": {
        "to": "mascarpone de anacardo",
@@ -1025,7 +1038,9 @@
       },
       {
        "f": 1,
-       "carries": [],
+       "carries": [
+        "nightshade"
+       ],
        "es": {
         "to": "puré de papa cocida (2 cda)",
         "note": "Tradicional en croquetas y pasteles de pescado; aporta almidón, no sabor."
@@ -1101,7 +1116,13 @@
        "en": {
         "to": "1 tbsp cornstarch + 60 ml plant milk",
         "note": "Per egg. Thickens custards and fillings; you lose the yolk flavor, so add vanilla or a bit more fat."
-       }
+       },
+       "may": [
+        "soy",
+        "treenut",
+        "coconut",
+        "wheat"
+       ]
       }
      ]
     },
@@ -1134,7 +1155,8 @@
       {
        "f": 1,
        "carries": [
-        "soy"
+        "soy",
+        "corn"
        ],
        "es": {
         "to": "tofu sedoso triturado + 1 cdta de fécula de maíz por cada 100 g",
@@ -1230,7 +1252,9 @@
     ]
    },
    "may": [
-    "mustard"
+    "mustard",
+    "soy",
+    "sulphite"
    ],
    "label": {
     "es": "Muchas mayonesas llevan mostaza: revisa la etiqueta.",
@@ -1262,7 +1286,9 @@
       },
       {
        "f": 1,
-       "carries": [],
+       "carries": [
+        "nightshade"
+       ],
        "es": {
         "to": "harina de arroz fina + almidón de papa + tapioca (60:30:10)",
         "note": "Mezcla casera. Aplican las mismas reglas de xantana y reposo."
@@ -1931,7 +1957,10 @@
       ]
      }
     ]
-   }
+   },
+   "may": [
+    "wheat"
+   ]
   },
   "tofu": {
    "a": [
@@ -2022,7 +2051,8 @@
       "f": 1,
       "carries": [
        "nightshade",
-       "sugar"
+       "sugar",
+       "honey"
       ],
       "es": {
        "to": "miso de garbanzo + gochugaru + miel (2:2:1)",
@@ -2081,7 +2111,8 @@
       },
       "may": [
        "wheat",
-       "soy"
+       "soy",
+       "sulphite"
       ]
      }
     ]
@@ -2118,7 +2149,8 @@
    "a": [
     "mollusc",
     "soy",
-    "wheat"
+    "wheat",
+    "sugar"
    ],
    "s": {
     "mollusc": [
@@ -2156,10 +2188,7 @@
       }
      }
     ]
-   },
-   "may": [
-    "wheat"
-   ]
+   }
   },
   "peanut": {
    "a": [
@@ -2191,7 +2220,11 @@
       "en": {
        "to": "tahini",
        "note": "Best in savory sauces; thinner and more bitter, so add a little honey."
-      }
+      },
+      "may": [
+       "sugar",
+       "honey"
+      ]
      },
      {
       "f": 1,
@@ -2238,7 +2271,11 @@
       "en": {
        "to": "tahini",
        "note": "Best in savory sauces; thinner and more bitter, so add a little honey."
-      }
+      },
+      "may": [
+       "sugar",
+       "honey"
+      ]
      },
      {
       "f": 1,
@@ -2567,7 +2604,7 @@
       "f": 1,
       "carries": [],
       "es": {
-       "to": "mantequilla o semillas de girasol tostadas",
+       "to": "mantequilla de girasol o semillas de girasol tostadas",
        "note": "Más suave y menos amarga, así que reduce un poco el limón."
       },
       "en": {
@@ -2588,7 +2625,7 @@
       "f": 1,
       "carries": [],
       "es": {
-       "to": "mantequilla o semillas de girasol tostadas",
+       "to": "mantequilla de girasol o semillas de girasol tostadas",
        "note": "Más suave y menos amarga, así que reduce un poco el limón."
       },
       "en": {
@@ -2644,7 +2681,8 @@
       "f": 1,
       "carries": [
        "soy",
-       "wheat"
+       "wheat",
+       "sugar"
       ],
       "es": {
        "to": "salsa de soja + jugo de lima + una pizca de azúcar (2:1)",
@@ -2860,7 +2898,10 @@
       }
      }
     ]
-   }
+   },
+   "may": [
+    "soy"
+   ]
   },
   "shrimp": {
    "a": [
@@ -3167,7 +3208,8 @@
      {
       "f": 1,
       "carries": [
-       "sugar"
+       "sugar",
+       "honey"
       ],
       "es": {
        "to": "1/2 cdta de miel por cada cdta de mostaza",
@@ -3191,7 +3233,10 @@
       }
      }
     ]
-   }
+   },
+   "may": [
+    "sulphite"
+   ]
   },
   "celery": {
    "a": [
@@ -3294,7 +3339,10 @@
       "en": {
        "to": "homemade stock + lemon juice",
        "note": "1 tsp lemon per 60 ml. No sulphites, no alcohol."
-      }
+      },
+      "may": [
+       "celery"
+      ]
      }
     ]
    }
@@ -3365,7 +3413,10 @@
       "en": {
        "to": "homemade stock + lemon juice",
        "note": "1 tsp lemon per 60 ml. No sulphites, no alcohol."
-      }
+      },
+      "may": [
+       "celery"
+      ]
      }
     ]
    }
@@ -3436,7 +3487,10 @@
       "en": {
        "to": "homemade stock + lemon juice",
        "note": "1 tsp lemon per 60 ml. No sulphites, no alcohol."
-      }
+      },
+      "may": [
+       "celery"
+      ]
      }
     ]
    }
@@ -3508,7 +3562,8 @@
   },
   "mirin": {
    "a": [
-    "alcohol"
+    "alcohol",
+    "sugar"
    ],
    "s": {
     "alcohol": [
@@ -3640,7 +3695,10 @@
       ]
      }
     ]
-   }
+   },
+   "may": [
+    "sulphite"
+   ]
   },
   "bacon": {
    "a": [
@@ -3841,7 +3899,8 @@
      {
       "f": 1,
       "carries": [
-       "nightshade"
+       "nightshade",
+       "allium"
       ],
       "es": {
        "to": "pimentón ahumado + hinojo + ajo en aceite",
@@ -4579,7 +4638,10 @@
       "en": {
        "to": "beet powder for color + white pepper and ginger for heat",
        "note": "Nothing replicates capsaicin. Build the heat from pepper, ginger and horseradish."
-      }
+      },
+      "may": [
+       "mustard"
+      ]
      }
     ]
    }
@@ -4600,7 +4662,10 @@
       "en": {
        "to": "beet powder for color + white pepper and ginger for heat",
        "note": "Nothing replicates capsaicin. Build the heat from pepper, ginger and horseradish."
-      }
+      },
+      "may": [
+       "mustard"
+      ]
      }
     ]
    }
@@ -4621,7 +4686,10 @@
       "en": {
        "to": "beet powder for color + white pepper and ginger for heat",
        "note": "Nothing replicates capsaicin. Build the heat from pepper, ginger and horseradish."
-      }
+      },
+      "may": [
+       "mustard"
+      ]
      }
     ]
    }
@@ -4642,7 +4710,10 @@
       "en": {
        "to": "beet powder for color + white pepper and ginger for heat",
        "note": "Nothing replicates capsaicin. Build the heat from pepper, ginger and horseradish."
-      }
+      },
+      "may": [
+       "mustard"
+      ]
      }
     ]
    }
@@ -4663,7 +4734,10 @@
       "en": {
        "to": "beet powder for color + white pepper and ginger for heat",
        "note": "Nothing replicates capsaicin. Build the heat from pepper, ginger and horseradish."
-      }
+      },
+      "may": [
+       "mustard"
+      ]
      }
     ]
    }
@@ -4684,7 +4758,10 @@
       "en": {
        "to": "beet powder for color + white pepper and ginger for heat",
        "note": "Nothing replicates capsaicin. Build the heat from pepper, ginger and horseradish."
-      }
+      },
+      "may": [
+       "mustard"
+      ]
      }
     ]
    }
@@ -4794,7 +4871,10 @@
       "en": {
        "to": "monk fruit and erythritol blend",
        "note": "Measures cup-for-cup like sugar and tastes clean. It doesn't caramelize and recrystallizes as it cools, so expect a slight crunch the next day."
-      }
+      },
+      "may": [
+       "corn"
+      ]
      },
      {
       "f": 1.3,
@@ -4806,7 +4886,10 @@
       "en": {
        "to": "erythritol",
        "note": "Cheap and everywhere, with a distinct cooling feel on the tongue and zero browning."
-      }
+      },
+      "may": [
+       "corn"
+      ]
      }
     ]
    },
@@ -4823,7 +4906,10 @@
        "en": {
         "to": "allulose",
         "note": "Allulose cookies spread more, not less, because it melts at a lower temperature. Chill the dough well and add 2 tbsp flour or you'll get one continuous sheet."
-       }
+       },
+       "may": [
+        "wheat"
+       ]
       },
       {
        "f": 1,
@@ -4835,7 +4921,10 @@
        "en": {
         "to": "monk fruit and erythritol blend",
         "note": "The opposite problem: they barely spread, so flatten the balls before baking or they'll bake up domed and sandy."
-       }
+       },
+       "may": [
+        "corn"
+       ]
       }
      ]
     },
@@ -4852,18 +4941,6 @@
         "to": "allulose",
         "note": "The only common substitute that truly caramelizes. Browns sooner and burns sooner: pull it early."
        }
-      },
-      {
-       "f": 0,
-       "carries": [],
-       "es": {
-        "to": "sin sustituto — replantea la receta",
-        "note": "Ni el eritritol, ni el xilitol, ni la estevia caramelizan a ninguna temperatura. Si el caramelo es el punto del plato, es alulosa o nada."
-       },
-       "en": {
-        "to": "no substitute — rethink the recipe",
-        "note": "Erythritol, xylitol and stevia don't caramelize at any temperature. If caramel is the point of the dish, it's allulose or nothing."
-       }
       }
      ]
     },
@@ -4879,7 +4956,10 @@
        "en": {
         "to": "granulated erythritol or a crystalline blend",
         "note": "Creaming needs sharp crystals to cut air pockets into the butter. Powdered or liquid sweeteners can't do it."
-       }
+       },
+       "may": [
+        "corn"
+       ]
       },
       {
        "f": 1.3,
@@ -4986,20 +5066,6 @@
        "to": "brown sugar substitute (allulose with molasses flavoring)",
        "note": "Sold ready-made. The molasses note matters more than you'd think: it's most of what makes a chewy cookie taste the way it does."
       }
-     },
-     {
-      "f": 1.2,
-      "carries": [
-       "sugar"
-      ],
-      "es": {
-       "to": "alulosa + 1 cdta de melaza negra por cada 100 g",
-       "note": "La melaza es azúcar, pero una cucharadita aporta el sabor con una fracción de la carga. Azúcar."
-      },
-      "en": {
-       "to": "allulose + 1 tsp blackstrap molasses per 100 g",
-       "note": "Molasses is sugar, but a teaspoon brings the flavor at a fraction of the load."
-      }
      }
     ]
    }
@@ -5025,6 +5091,13 @@
       }
      }
     ]
+   },
+   "may": [
+    "corn"
+   ],
+   "label": {
+    "es": "El azúcar glas suele llevar fécula de maíz.",
+    "en": "Powdered sugar usually contains cornstarch."
    }
   },
   "palmsugar": {
@@ -5092,8 +5165,7 @@
   },
   "molasses": {
    "a": [
-    "sugar",
-    "corn"
+    "sugar"
    ],
    "s": {
     "sugar": [
@@ -5114,8 +5186,7 @@
   },
   "treacle": {
    "a": [
-    "sugar",
-    "corn"
+    "sugar"
    ],
    "s": {
     "sugar": [
@@ -5136,8 +5207,7 @@
   },
   "goldensyrup": {
    "a": [
-    "sugar",
-    "corn"
+    "sugar"
    ],
    "s": {
     "sugar": [
@@ -5180,7 +5250,8 @@
   },
   "darkchocolate": {
    "a": [
-    "soy"
+    "soy",
+    "sugar"
    ],
    "s": {
     "soy": [
@@ -5212,30 +5283,7 @@
    }
   },
   "cocoanibs": {
-   "a": [
-    "soy"
-   ],
-   "s": {
-    "soy": [
-     {
-      "f": 1,
-      "carries": [
-       "sugar"
-      ],
-      "es": {
-       "to": "chocolate negro con lecitina de girasol",
-       "note": "Varias marcas la usan. Revisa la etiqueta: la lecitina de soja está en casi todo el chocolate industrial como emulsionante, en cantidades mínimas."
-      },
-      "en": {
-       "to": "dark chocolate made with sunflower lecithin",
-       "note": "Several brands use it. Check the label: soy lecithin is in almost all commercial chocolate as an emulsifier, in tiny amounts."
-      },
-      "may": [
-       "milk"
-      ]
-     }
-    ]
-   },
+   "a": [],
    "may": [
     "milk"
    ],
@@ -5436,7 +5484,10 @@
       "en": {
        "to": "sunflower seed marzipan",
        "note": "Grind toasted sunflower seeds with powdered sugar and a little water. The green-color warning applies with any leavener."
-      }
+      },
+      "may": [
+       "corn"
+      ]
      }
     ]
    }
@@ -5460,7 +5511,10 @@
       "en": {
        "to": "sunflower seed marzipan",
        "note": "Grind toasted sunflower seeds with powdered sugar and a little water. The green-color warning applies with any leavener."
-      }
+      },
+      "may": [
+       "corn"
+      ]
      }
     ]
    }
@@ -5678,13 +5732,16 @@
   },
   "almondextract": {
    "a": [
-    "treenut"
+    "treenut",
+    "alcohol"
    ],
    "s": {
     "treenut": [
      {
       "f": 1,
-      "carries": [],
+      "carries": [
+       "alcohol"
+      ],
       "es": {
        "to": "extracto de vainilla",
        "note": "Otro aroma, mismo papel."
@@ -5728,7 +5785,8 @@
     "celery",
     "wheat",
     "soy",
-    "milk"
+    "milk",
+    "allium"
    ],
    "label": {
     "es": "El caldo comprado suele llevar apio, trigo o soja: revisa la etiqueta o hazlo en casa.",
@@ -5736,7 +5794,9 @@
    }
   },
   "currypowder": {
-   "a": [],
+   "a": [
+    "nightshade"
+   ],
    "may": [
     "mustard",
     "wheat",
@@ -5782,11 +5842,12 @@
    "a": [],
    "may": [
     "wheat",
-    "corn"
+    "corn",
+    "sulphite"
    ],
    "label": {
-    "es": "La pasta de achiote comercial a veces lleva harina de trigo o de maíz.",
-    "en": "Commercial achiote paste sometimes contains wheat or corn flour."
+    "es": "La pasta de achiote comercial a veces lleva harina de trigo o de maíz, y vinagre.",
+    "en": "Commercial achiote paste sometimes contains wheat or corn flour, and vinegar."
    }
   },
   "risotto": {
@@ -5794,6 +5855,9 @@
     "milk"
    ],
    "may": [
+    "alcohol",
+    "sulphite",
+    "celery",
     "wheat"
    ],
    "s": {
@@ -5811,6 +5875,1853 @@
       }
      }
     ]
+   }
+  },
+  "salt": {
+   "a": []
+  },
+  "water": {
+   "a": []
+  },
+  "ice": {
+   "a": []
+  },
+  "pepper": {
+   "a": []
+  },
+  "spice": {
+   "a": []
+  },
+  "herb": {
+   "a": []
+  },
+  "citrus": {
+   "a": []
+  },
+  "veg": {
+   "a": []
+  },
+  "fruit": {
+   "a": []
+  },
+  "rice": {
+   "a": []
+  },
+  "legume": {
+   "a": []
+  },
+  "mushroom": {
+   "a": []
+  },
+  "seaweed": {
+   "a": []
+  },
+  "beef": {
+   "a": []
+  },
+  "chicken": {
+   "a": []
+  },
+  "lamb": {
+   "a": []
+  },
+  "duck": {
+   "a": []
+  },
+  "veal": {
+   "a": []
+  },
+  "rabbit": {
+   "a": []
+  },
+  "yeast": {
+   "a": []
+  },
+  "bakingsoda": {
+   "a": []
+  },
+  "creamoftartar": {
+   "a": []
+  },
+  "coffee": {
+   "a": []
+  },
+  "flax": {
+   "a": []
+  },
+  "nutyeast": {
+   "a": []
+  },
+  "glycerin": {
+   "a": []
+  },
+  "beeswax": {
+   "a": []
+  },
+  "skewer": {
+   "a": []
+  },
+  "oliveoil": {
+   "a": []
+  },
+  "oil": {
+   "a": [],
+   "label": {
+    "es": "Usa un aceite neutro como girasol o canola. Si usas aceite de cacahuate o de sésamo, cuenta ese alérgeno.",
+    "en": "Use a neutral oil such as sunflower or canola. If you use peanut or sesame oil, count that allergen."
+   }
+  },
+  "vanillabean": {
+   "a": []
+  },
+  "cocoa": {
+   "a": [],
+   "may": [
+    "milk"
+   ],
+   "label": {
+    "es": "Algunos cacaos se procesan en líneas con leche: revisa el aviso de trazas.",
+    "en": "Some cocoa is processed on lines shared with milk: check the 'may contain' note."
+   }
+  },
+  "xanthan": {
+   "a": [],
+   "may": [
+    "corn"
+   ],
+   "label": {
+    "es": "La goma xantana suele fermentarse con azúcar de maíz.",
+    "en": "Xanthan gum is usually fermented from corn sugar."
+   }
+  },
+  "sugarsub": {
+   "a": [],
+   "may": [
+    "corn"
+   ],
+   "label": {
+    "es": "Muchos sustitutos de azúcar (eritritol) se hacen a partir de maíz.",
+    "en": "Many sugar substitutes (erythritol) are made from corn."
+   }
+  },
+  "allulose": {
+   "a": []
+  },
+  "foodcolour": {
+   "a": [],
+   "may": [
+    "corn"
+   ],
+   "label": {
+    "es": "Los colorantes en gel suelen llevar jarabe de maíz o glicerina.",
+    "en": "Gel colours often contain corn syrup or glycerin."
+   }
+  },
+  "duckfat": {
+   "a": []
+  },
+  "chickenfat": {
+   "a": []
+  },
+  "lambfat": {
+   "a": []
+  },
+  "bonemarrow": {
+   "a": []
+  },
+  "vanilla": {
+   "a": [
+    "alcohol"
+   ],
+   "label": {
+    "es": "El extracto de vainilla lleva alrededor de 35% de alcohol.",
+    "en": "Vanilla extract is about 35% alcohol."
+   },
+   "s": {
+    "alcohol": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "semillas de vaina de vainilla",
+       "note": "Media vaina por cada cucharadita de extracto."
+      },
+      "en": {
+       "to": "vanilla bean seeds",
+       "note": "Half a bean per teaspoon of extract."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "may": [
+       "corn",
+       "sugar"
+      ],
+      "es": {
+       "to": "vainilla sin alcohol (a base de glicerina) o vainilla en polvo",
+       "note": "Misma cantidad. Revisa la etiqueta: algunas llevan jarabe de maíz."
+      },
+      "en": {
+       "to": "alcohol-free vanilla (glycerin-based) or vanilla powder",
+       "note": "Same amount. Check the label: some contain corn syrup."
+      }
+     }
+    ]
+   }
+  },
+  "spirit": {
+   "a": [
+    "alcohol"
+   ],
+   "may": [
+    "sulphite"
+   ],
+   "s": {
+    "alcohol": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "may": [
+       "sulphite"
+      ],
+      "es": {
+       "to": "jugo de manzana o de uva blanca",
+       "note": "Aporta el líquido y algo de fruta, no el golpe del alcohol."
+      },
+      "en": {
+       "to": "apple or white grape juice",
+       "note": "Brings the liquid and some fruit, not the kick of the alcohol."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "agua con unas gotas de jugo de limón",
+       "note": "Para marinadas y salmueras, donde el alcohol solo aporta líquido y acidez."
+      },
+      "en": {
+       "to": "water with a few drops of lemon juice",
+       "note": "For marinades and cures, where the alcohol only adds liquid and acidity."
+      }
+     }
+    ]
+   }
+  },
+  "nutliqueur": {
+   "a": [
+    "alcohol",
+    "treenut",
+    "sugar"
+   ],
+   "label": {
+    "es": "El amaretto y los licores de avellana o almendra cuentan como frutos secos.",
+    "en": "Amaretto and hazelnut or almond liqueurs count as tree nuts."
+   },
+   "s": {
+    "alcohol": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "may": [
+       "sulphite"
+      ],
+      "es": {
+       "to": "jugo de uva blanca + unas gotas de vainilla en vaina",
+       "note": "Dulzor y aroma sin alcohol ni frutos secos."
+      },
+      "en": {
+       "to": "white grape juice + a little vanilla bean",
+       "note": "Sweetness and aroma with no alcohol or nuts."
+      }
+     }
+    ],
+    "treenut": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "may": [
+       "sulphite"
+      ],
+      "es": {
+       "to": "jugo de uva blanca + unas gotas de vainilla en vaina",
+       "note": "Dulzor y aroma sin alcohol ni frutos secos."
+      },
+      "en": {
+       "to": "white grape juice + a little vanilla bean",
+       "note": "Sweetness and aroma with no alcohol or nuts."
+      }
+     }
+    ]
+   }
+  },
+  "cidervinegar": {
+   "a": [],
+   "may": [
+    "sulphite"
+   ],
+   "label": {
+    "es": "Algunos vinagres de manzana llevan sulfitos añadidos.",
+    "en": "Some cider vinegars have added sulphites."
+   },
+   "s": {
+    "sulphite": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "jugo de limón",
+       "note": "La misma acidez, sin sulfitos."
+      },
+      "en": {
+       "to": "lemon juice",
+       "note": "Same acidity, no sulphites."
+      }
+     }
+    ]
+   }
+  },
+  "whitevinegar": {
+   "a": [],
+   "may": [
+    "corn"
+   ],
+   "label": {
+    "es": "El vinagre blanco destilado suele hacerse de maíz.",
+    "en": "Distilled white vinegar is often made from corn."
+   },
+   "s": {
+    "corn": [
+     {
+      "f": 1,
+      "carries": [],
+      "may": [
+       "sulphite"
+      ],
+      "es": {
+       "to": "vinagre de manzana",
+       "note": "Misma acidez, algo más afrutado."
+      },
+      "en": {
+       "to": "cider vinegar",
+       "note": "Same acidity, a little fruitier."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "jugo de limón",
+       "note": "Misma acidez."
+      },
+      "en": {
+       "to": "lemon juice",
+       "note": "Same acidity."
+      }
+     }
+    ]
+   }
+  },
+  "vinegar": {
+   "a": [],
+   "may": [
+    "sulphite",
+    "corn",
+    "wheat"
+   ],
+   "label": {
+    "es": "Según el tipo, el vinagre puede llevar sulfitos (vino), maíz (destilado) o gluten (malta). Usa uno cuyo origen conozcas.",
+    "en": "Depending on the type, vinegar can carry sulphites (wine), corn (distilled) or gluten (malt). Use one whose source you know."
+   },
+   "s": {
+    "sulphite": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "jugo de limón",
+       "note": "La misma acidez."
+      },
+      "en": {
+       "to": "lemon juice",
+       "note": "Same acidity."
+      }
+     }
+    ]
+   }
+  },
+  "ricevinegar": {
+   "a": []
+  },
+  "canevinegar": {
+   "a": [],
+   "may": [
+    "coconut",
+    "sulphite"
+   ],
+   "label": {
+    "es": "Si usas vinagre de coco, cuenta el coco.",
+    "en": "If you use coconut vinegar, count coconut."
+   }
+  },
+  "maltvinegar": {
+   "a": [
+    "wheat"
+   ],
+   "label": {
+    "es": "El vinagre de malta se hace con cebada: tiene gluten.",
+    "en": "Malt vinegar is made from barley: it contains gluten."
+   },
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "may": [
+       "sulphite"
+      ],
+      "es": {
+       "to": "vinagre de manzana",
+       "note": "Menos malteado, misma acidez."
+      },
+      "en": {
+       "to": "cider vinegar",
+       "note": "Less malty, same acidity."
+      }
+     }
+    ]
+   },
+   "may": [
+    "sulphite"
+   ]
+  },
+  "pork": {
+   "a": [
+    "pork"
+   ],
+   "s": {
+    "pork": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "muslo de pollo deshuesado o aguja de res, cortado igual",
+       "note": "El muslo aguanta cocciones largas; la res necesita algo más de tiempo."
+      },
+      "en": {
+       "to": "boneless chicken thigh or beef chuck, cut the same way",
+       "note": "Thigh holds up to long cooking; beef needs a little longer."
+      }
+     }
+    ]
+   }
+  },
+  "porkbelly": {
+   "a": [
+    "pork"
+   ],
+   "s": {
+    "pork": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "costilla de res deshuesada o muslo de pollo con piel",
+       "note": "Busca la misma proporción de grasa; la costilla de res es lo más parecido."
+      },
+      "en": {
+       "to": "boneless beef short rib or skin-on chicken thigh",
+       "note": "Look for the same fat ratio; beef short rib is closest."
+      }
+     }
+    ]
+   }
+  },
+  "porktrotter": {
+   "a": [
+    "pork"
+   ],
+   "label": {
+    "es": "La manita da gelatina al caldo.",
+    "en": "The trotter gives the broth its body."
+   },
+   "s": {
+    "pork": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "pata o alas de pollo",
+       "note": "Mucho colágeno: el caldo cuaja igual al enfriarse."
+      },
+      "en": {
+       "to": "chicken feet or wings",
+       "note": "Lots of collagen: the broth still sets when cold."
+      }
+     }
+    ]
+   }
+  },
+  "porkskin": {
+   "a": [
+    "pork"
+   ],
+   "s": {
+    "pork": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "omítela",
+       "note": "Solo aporta cuerpo; el plato funciona sin ella."
+      },
+      "en": {
+       "to": "leave it out",
+       "note": "It only adds body; the dish works without it."
+      }
+     }
+    ]
+   }
+  },
+  "sausage": {
+   "a": [
+    "pork"
+   ],
+   "may": [
+    "wheat",
+    "milk",
+    "soy",
+    "sulphite",
+    "mustard",
+    "celery"
+   ],
+   "label": {
+    "es": "Los embutidos comerciales pueden llevar trigo, leche, soja, sulfitos, mostaza o apio: revisa la etiqueta.",
+    "en": "Commercial sausages can contain wheat, milk, soy, sulphites, mustard or celery: check the label."
+   },
+   "s": {
+    "pork": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "salchicha de pollo o de res",
+       "note": "Revisa la etiqueta igual que con la de cerdo."
+      },
+      "en": {
+       "to": "chicken or beef sausage",
+       "note": "Check the label just as with pork."
+      }
+     }
+    ]
+   }
+  },
+  "chinesesausage": {
+   "a": [
+    "pork",
+    "alcohol",
+    "soy",
+    "sugar"
+   ],
+   "may": [
+    "wheat",
+    "sulphite"
+   ],
+   "label": {
+    "es": "El lap cheong lleva vino de arroz y salsa de soja.",
+    "en": "Lap cheong contains rice wine and soy sauce."
+   }
+  },
+  "curedmeat": {
+   "a": [
+    "pork"
+   ],
+   "may": [
+    "milk",
+    "treenut",
+    "sulphite"
+   ],
+   "label": {
+    "es": "La mortadela suele llevar pistachos; algunos embutidos llevan leche.",
+    "en": "Mortadella often contains pistachios; some cured meats contain milk."
+   },
+   "s": {
+    "pork": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "pechuga de pavo curada o bresaola",
+       "note": "Revisa la etiqueta de la misma forma."
+      },
+      "en": {
+       "to": "cured turkey breast or bresaola",
+       "note": "Check the label the same way."
+      }
+     }
+    ]
+   }
+  },
+  "chashu": {
+   "a": [
+    "pork",
+    "soy",
+    "wheat",
+    "alcohol",
+    "sugar"
+   ],
+   "label": {
+    "es": "Se hace con salsa de soja, mirin y sake.",
+    "en": "Made with soy sauce, mirin and sake."
+   }
+  },
+  "ramenegg": {
+   "a": [
+    "egg",
+    "soy",
+    "wheat",
+    "alcohol"
+   ],
+   "label": {
+    "es": "Marinado en salsa de soja y mirin.",
+    "en": "Marinated in soy sauce and mirin."
+   }
+  },
+  "duckconfit": {
+   "a": [],
+   "may": [
+    "pork",
+    "sulphite"
+   ],
+   "label": {
+    "es": "Algunos confit se conservan en manteca de cerdo.",
+    "en": "Some confit is kept in pork lard."
+   }
+  },
+  "driedmeat": {
+   "a": [],
+   "may": [
+    "sulphite"
+   ],
+   "label": {
+    "es": "La carne seca comercial puede llevar sulfitos o nitritos.",
+    "en": "Commercial dried meat can contain sulphites or nitrites."
+   }
+  },
+  "ketchup": {
+   "a": [
+    "nightshade",
+    "sugar"
+   ],
+   "may": [
+    "corn",
+    "celery",
+    "sulphite"
+   ],
+   "label": {
+    "es": "Muchos kétchups llevan jarabe de maíz o vinagre de maíz.",
+    "en": "Many ketchups contain corn syrup or corn vinegar."
+   }
+  },
+  "worcestershire": {
+   "a": [
+    "fish",
+    "sugar"
+   ],
+   "may": [
+    "wheat",
+    "soy",
+    "sulphite"
+   ],
+   "label": {
+    "es": "Lleva anchoas. Algunas versiones usan vinagre de malta (gluten).",
+    "en": "Contains anchovies. Some versions use malt vinegar (gluten)."
+   },
+   "s": {
+    "fish": [
+     {
+      "f": 1,
+      "carries": [
+       "soy",
+       "sugar"
+      ],
+      "may": [
+       "wheat",
+       "sulphite"
+      ],
+      "es": {
+       "to": "salsa de soja + unas gotas de vinagre de manzana y una pizca de azúcar",
+       "note": "Umami y acidez sin pescado."
+      },
+      "en": {
+       "to": "soy sauce + a few drops of cider vinegar and a pinch of sugar",
+       "note": "Umami and acidity without the fish."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "coconut",
+       "sugar"
+      ],
+      "may": [
+       "sulphite"
+      ],
+      "es": {
+       "to": "aminos de coco + unas gotas de vinagre de manzana",
+       "note": "Sin pescado, soja ni trigo; algo más dulce."
+      },
+      "en": {
+       "to": "coconut aminos + a few drops of cider vinegar",
+       "note": "No fish, soy or wheat; a little sweeter."
+      }
+     }
+    ]
+   }
+  },
+  "horseradish": {
+   "a": [],
+   "may": [
+    "sulphite",
+    "milk",
+    "egg",
+    "mustard"
+   ],
+   "label": {
+    "es": "El rábano picante preparado puede llevar sulfitos, leche o huevo. Es pariente de la mostaza: con alergia a la mostaza, consúltalo.",
+    "en": "Prepared horseradish can contain sulphites, milk or egg. It is related to mustard: with a mustard allergy, check with your doctor."
+   }
+  },
+  "sriracha": {
+   "a": [
+    "nightshade",
+    "allium",
+    "sugar"
+   ],
+   "may": [
+    "sulphite"
+   ]
+  },
+  "hotsauce": {
+   "a": [
+    "nightshade"
+   ],
+   "may": [
+    "allium",
+    "sulphite"
+   ],
+   "label": {
+    "es": "Revisa la etiqueta: muchas salsas picantes llevan ajo.",
+    "en": "Check the label: many hot sauces contain garlic."
+   }
+  },
+  "harissa": {
+   "a": [
+    "nightshade",
+    "allium"
+   ]
+  },
+  "chilioil": {
+   "a": [
+    "nightshade"
+   ],
+   "may": [
+    "soy",
+    "sesame",
+    "peanut",
+    "allium"
+   ],
+   "label": {
+    "es": "Los aceites de chile comerciales pueden llevar soja, sésamo o cacahuate.",
+    "en": "Commercial chili oils can contain soy, sesame or peanut."
+   }
+  },
+  "chilipaste": {
+   "a": [
+    "nightshade"
+   ],
+   "may": [
+    "shellfish",
+    "fish",
+    "soy",
+    "allium"
+   ],
+   "label": {
+    "es": "Las pastas de chile del sudeste asiático suelen llevar camarón seco o pescado.",
+    "en": "Southeast Asian chili pastes often contain dried shrimp or fish."
+   }
+  },
+  "currypaste": {
+   "a": [
+    "nightshade",
+    "allium",
+    "shellfish"
+   ],
+   "may": [
+    "fish",
+    "peanut",
+    "soy",
+    "sugar"
+   ],
+   "label": {
+    "es": "Casi todas las pastas de curry tailandesas llevan pasta de camarón.",
+    "en": "Almost all Thai curry pastes contain shrimp paste."
+   },
+   "s": {
+    "shellfish": [
+     {
+      "f": 1,
+      "carries": [
+       "nightshade",
+       "allium"
+      ],
+      "may": [
+       "soy",
+       "fish",
+       "peanut"
+      ],
+      "es": {
+       "to": "pasta de curry vegana (etiqueta sin camarón)",
+       "note": "Existen marcas sin marisco; revisa la etiqueta completa."
+      },
+      "en": {
+       "to": "vegan curry paste (labelled shrimp-free)",
+       "note": "Shellfish-free brands exist; read the whole label."
+      }
+     }
+    ]
+   }
+  },
+  "spiceblend": {
+   "a": [],
+   "may": [
+    "nightshade",
+    "mustard",
+    "wheat",
+    "celery"
+   ],
+   "label": {
+    "es": "Las mezclas de especias pueden llevar chile, mostaza, apio o asafétida cortada con trigo: revisa la etiqueta.",
+    "en": "Spice blends can contain chili, mustard, celery or asafoetida cut with wheat: check the label."
+   }
+  },
+  "chilliblend": {
+   "a": [
+    "nightshade"
+   ],
+   "may": [
+    "allium",
+    "wheat",
+    "celery"
+   ],
+   "label": {
+    "es": "Las mezclas de chile a menudo llevan ajo.",
+    "en": "Chili blends often contain garlic."
+   }
+  },
+  "cajun": {
+   "a": [
+    "nightshade"
+   ],
+   "may": [
+    "allium",
+    "celery",
+    "mustard",
+    "wheat"
+   ],
+   "label": {
+    "es": "Las mezclas cajún suelen llevar ajo y a veces apio o mostaza.",
+    "en": "Cajun blends usually contain garlic and sometimes celery or mustard."
+   }
+  },
+  "shichimi": {
+   "a": [
+    "nightshade",
+    "sesame"
+   ]
+  },
+  "kimchi": {
+   "a": [
+    "nightshade",
+    "allium",
+    "fish",
+    "shellfish"
+   ],
+   "may": [
+    "wheat",
+    "mollusc",
+    "sugar"
+   ],
+   "label": {
+    "es": "El kimchi tradicional lleva salsa de pescado y camarón salado.",
+    "en": "Traditional kimchi contains fish sauce and salted shrimp."
+   },
+   "s": {
+    "fish": [
+     {
+      "f": 1,
+      "carries": [
+       "nightshade",
+       "allium"
+      ],
+      "may": [
+       "soy",
+       "wheat"
+      ],
+      "es": {
+       "to": "kimchi vegano (etiqueta sin pescado ni marisco)",
+       "note": "Se vende en muchas tiendas coreanas."
+      },
+      "en": {
+       "to": "vegan kimchi (labelled no fish or shellfish)",
+       "note": "Sold in many Korean groceries."
+      }
+     }
+    ],
+    "shellfish": [
+     {
+      "f": 1,
+      "carries": [
+       "nightshade",
+       "allium"
+      ],
+      "may": [
+       "soy",
+       "wheat"
+      ],
+      "es": {
+       "to": "kimchi vegano (etiqueta sin pescado ni marisco)",
+       "note": "Se vende en muchas tiendas coreanas."
+      },
+      "en": {
+       "to": "vegan kimchi (labelled no fish or shellfish)",
+       "note": "Sold in many Korean groceries."
+      }
+     }
+    ]
+   }
+  },
+  "fishcake": {
+   "a": [
+    "fish",
+    "wheat"
+   ],
+   "may": [
+    "soy",
+    "egg",
+    "shellfish",
+    "sugar"
+   ]
+  },
+  "pesto": {
+   "a": [
+    "treenut",
+    "milk",
+    "allium"
+   ],
+   "label": {
+    "es": "Lleva piñones y parmesano; algunos comerciales usan anacardo.",
+    "en": "Contains pine nuts and parmesan; some store-bought ones use cashew."
+   },
+   "s": {
+    "treenut": [
+     {
+      "f": 1,
+      "carries": [
+       "milk",
+       "allium"
+      ],
+      "es": {
+       "to": "pesto hecho con semillas de girasol en vez de piñones",
+       "note": "Tuesta las semillas; mismo cuerpo."
+      },
+      "en": {
+       "to": "pesto made with sunflower seeds instead of pine nuts",
+       "note": "Toast the seeds; same body."
+      }
+     }
+    ],
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "treenut",
+       "allium"
+      ],
+      "es": {
+       "to": "pesto sin queso con 1 cda de levadura nutricional",
+       "note": "Sal un poco más."
+      },
+      "en": {
+       "to": "cheese-free pesto with 1 tbsp nutritional yeast",
+       "note": "Salt it a little more."
+      }
+     }
+    ]
+   }
+  },
+  "ragu": {
+   "a": [
+    "nightshade",
+    "allium",
+    "milk",
+    "pork",
+    "alcohol",
+    "sulphite",
+    "celery"
+   ],
+   "label": {
+    "es": "Hazlo con la receta de ragú de Mise aplicando tus sustituciones.",
+    "en": "Make it from Mise's ragù recipe with your swaps applied."
+   }
+  },
+  "fermentedtofu": {
+   "a": [
+    "soy",
+    "alcohol"
+   ],
+   "may": [
+    "wheat"
+   ]
+  },
+  "yeastextract": {
+   "a": [
+    "wheat"
+   ],
+   "label": {
+    "es": "El extracto de levadura se hace con levadura de cerveza (cebada).",
+    "en": "Yeast extract is made from brewer's yeast (barley)."
+   }
+  },
+  "maltose": {
+   "a": [
+    "sugar"
+   ],
+   "may": [
+    "wheat"
+   ],
+   "label": {
+    "es": "La maltosa se hace a veces con malta de cebada.",
+    "en": "Maltose is sometimes made with barley malt."
+   }
+  },
+  "ricesyrup": {
+   "a": [
+    "sugar"
+   ],
+   "may": [
+    "wheat"
+   ],
+   "label": {
+    "es": "El jarabe de arroz coreano suele hacerse con malta de cebada.",
+    "en": "Korean rice syrup is often made with barley malt."
+   }
+  },
+  "pickledmustardgreens": {
+   "a": [
+    "mustard"
+   ],
+   "may": [
+    "sulphite",
+    "soy",
+    "sugar"
+   ],
+   "label": {
+    "es": "Son hojas de mostaza: con alergia a la mostaza, evítalas.",
+    "en": "These are mustard greens: avoid them with a mustard allergy."
+   }
+  },
+  "chinesesesamepaste": {
+   "a": [
+    "sesame"
+   ],
+   "may": [
+    "peanut"
+   ],
+   "label": {
+    "es": "Algunas pastas de sésamo chinas se mezclan con cacahuate.",
+    "en": "Some Chinese sesame pastes are blended with peanut."
+   }
+  },
+  "friedshallot": {
+   "a": [
+    "allium"
+   ],
+   "may": [
+    "wheat"
+   ],
+   "label": {
+    "es": "La chalota frita comercial a veces se enharina con trigo.",
+    "en": "Store-bought fried shallots are sometimes dusted with wheat flour."
+   }
+  },
+  "gingergarlic": {
+   "a": [
+    "allium"
+   ],
+   "may": [
+    "sulphite"
+   ]
+  },
+  "sundriedtomato": {
+   "a": [
+    "nightshade"
+   ],
+   "may": [
+    "sulphite"
+   ]
+  },
+  "pickledpepper": {
+   "a": [
+    "nightshade"
+   ],
+   "may": [
+    "sulphite"
+   ]
+  },
+  "capers": {
+   "a": [],
+   "may": [
+    "sulphite"
+   ]
+  },
+  "olives": {
+   "a": [],
+   "may": [
+    "sulphite"
+   ]
+  },
+  "driedfruit": {
+   "a": [],
+   "may": [
+    "sulphite"
+   ],
+   "label": {
+    "es": "La fruta seca comercial a menudo lleva sulfitos.",
+    "en": "Commercial dried fruit often contains sulphites."
+   }
+  },
+  "candiedfruit": {
+   "a": [
+    "sugar"
+   ],
+   "may": [
+    "sulphite",
+    "corn"
+   ],
+   "label": {
+    "es": "La fruta confitada suele llevar sulfitos y jarabe de maíz.",
+    "en": "Candied fruit usually contains sulphites and corn syrup."
+   }
+  },
+  "jam": {
+   "a": [
+    "sugar"
+   ],
+   "may": [
+    "sulphite",
+    "corn"
+   ]
+  },
+  "sprinkles": {
+   "a": [
+    "sugar"
+   ],
+   "may": [
+    "corn",
+    "soy",
+    "milk",
+    "gelatin",
+    "wheat"
+   ],
+   "label": {
+    "es": "Revisa la etiqueta: pueden llevar maíz, soja, leche, gelatina o trigo.",
+    "en": "Check the label: they can contain corn, soy, milk, gelatin or wheat."
+   }
+  },
+  "caramelsauce": {
+   "a": [
+    "sugar"
+   ],
+   "may": [
+    "milk"
+   ]
+  },
+  "farofa": {
+   "a": [],
+   "may": [
+    "milk",
+    "pork"
+   ],
+   "label": {
+    "es": "La farofa es harina de yuca tostada, a menudo con mantequilla o tocino.",
+    "en": "Farofa is toasted cassava flour, often with butter or bacon."
+   }
+  },
+  "ricecake": {
+   "a": [],
+   "may": [
+    "wheat"
+   ],
+   "label": {
+    "es": "Algunos tteok llevan trigo: busca los de 100% arroz.",
+    "en": "Some tteok contain wheat: look for 100% rice ones."
+   }
+  },
+  "tamarind": {
+   "a": [],
+   "may": [
+    "sulphite"
+   ]
+  },
+  "yuzu": {
+   "a": []
+  },
+  "icecream": {
+   "a": [
+    "milk",
+    "sugar"
+   ],
+   "may": [
+    "egg",
+    "soy",
+    "corn"
+   ],
+   "label": {
+    "es": "Muchos helados de vainilla llevan yema de huevo.",
+    "en": "Many vanilla ice creams contain egg yolk."
+   },
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "may": [
+       "soy",
+       "coconut",
+       "treenut",
+       "wheat"
+      ],
+      "es": {
+       "to": "helado sin lácteos",
+       "note": "Revisa la base (soja, coco, frutos secos o avena)."
+      },
+      "en": {
+       "to": "dairy-free ice cream",
+       "note": "Check the base (soy, coconut, nuts or oat)."
+      }
+     }
+    ]
+   }
+  },
+  "dulcedeleche": {
+   "a": [
+    "milk",
+    "sugar"
+   ],
+   "may": [
+    "corn"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "coconut",
+       "sugar"
+      ],
+      "es": {
+       "to": "dulce de leche de coco (leche de coco condensada reducida)",
+       "note": "Cocina a fuego bajo hasta que tome color caramelo."
+      },
+      "en": {
+       "to": "coconut dulce de leche (reduced sweetened condensed coconut milk)",
+       "note": "Cook low until it turns caramel-coloured."
+      }
+     }
+    ]
+   }
+  },
+  "nutspread": {
+   "a": [
+    "treenut",
+    "milk",
+    "sugar"
+   ],
+   "may": [
+    "soy"
+   ],
+   "s": {
+    "treenut": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "may": [
+       "milk",
+       "soy"
+      ],
+      "es": {
+       "to": "crema de semillas de girasol con cacao",
+       "note": "Hay marcas hechas en plantas sin frutos secos."
+      },
+      "en": {
+       "to": "sunflower seed cocoa spread",
+       "note": "Some brands are made in nut-free facilities."
+      }
+     }
+    ]
+   }
+  },
+  "maltedmilk": {
+   "a": [
+    "milk",
+    "wheat"
+   ],
+   "label": {
+    "es": "La leche malteada lleva malta de cebada y harina de trigo.",
+    "en": "Malted milk powder contains barley malt and wheat flour."
+   }
+  },
+  "milkpowder": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "soy"
+      ],
+      "es": {
+       "to": "leche de soja en polvo",
+       "note": "Mismo papel: dora y da sabor tostado."
+      },
+      "en": {
+       "to": "soy milk powder",
+       "note": "Same job: browning and toasty flavour."
+      }
+     }
+    ]
+   }
+  },
+  "veganbutter": {
+   "a": [],
+   "may": [
+    "soy",
+    "coconut",
+    "treenut"
+   ],
+   "label": {
+    "es": "Las mantequillas veganas se hacen con coco, soja o anacardo: revisa la etiqueta.",
+    "en": "Vegan butters are made from coconut, soy or cashew: check the label."
+   }
+  },
+  "dfchocolate": {
+   "a": [
+    "sugar"
+   ],
+   "may": [
+    "soy",
+    "milk",
+    "treenut"
+   ],
+   "label": {
+    "es": "Aunque diga sin lácteos, revisa el aviso de trazas de leche y frutos secos.",
+    "en": "Even when labelled dairy-free, check the 'may contain' note for milk and nuts."
+   }
+  },
+  "unsweetenedchocolate": {
+   "a": [],
+   "may": [
+    "milk",
+    "soy"
+   ]
+  },
+  "cookiedough": {
+   "a": [
+    "wheat",
+    "milk",
+    "egg",
+    "sugar",
+    "soy",
+    "alcohol"
+   ],
+   "label": {
+    "es": "Hazla con la receta de galletas de Mise aplicando tus sustituciones.",
+    "en": "Make it from Mise's cookie recipe with your swaps applied."
+   }
+  },
+  "gfflour": {
+   "a": [],
+   "may": [
+    "corn",
+    "soy",
+    "nightshade"
+   ],
+   "label": {
+    "es": "Revisa que la mezcla sea certificada sin gluten; muchas llevan maíz, soja o avena.",
+    "en": "Check the blend is certified gluten-free; many contain corn, soy or oats."
+   }
+  },
+  "rye": {
+   "a": [
+    "wheat"
+   ],
+   "label": {
+    "es": "El centeno tiene gluten.",
+    "en": "Rye contains gluten."
+   },
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "harina de trigo sarraceno",
+       "note": "Mismo sabor terroso y oscuro, sin gluten."
+      },
+      "en": {
+       "to": "buckwheat flour",
+       "note": "Same dark, earthy flavour, no gluten."
+      }
+     }
+    ]
+   }
+  },
+  "sourdoughstarter": {
+   "a": [
+    "wheat"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "masa madre sin gluten (de arroz integral o trigo sarraceno)",
+       "note": "Misma hidratación; aliméntala igual."
+      },
+      "en": {
+       "to": "gluten-free starter (brown rice or buckwheat)",
+       "note": "Same hydration; feed it the same way."
+      }
+     }
+    ]
+   }
+  },
+  "shortcrust": {
+   "a": [
+    "wheat",
+    "milk"
+   ],
+   "may": [
+    "egg",
+    "pork"
+   ],
+   "label": {
+    "es": "La masa quebrada comprada puede llevar huevo o manteca de cerdo.",
+    "en": "Store-bought shortcrust can contain egg or lard."
+   },
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [
+       "milk"
+      ],
+      "may": [
+       "egg",
+       "corn"
+      ],
+      "es": {
+       "to": "masa quebrada sin gluten",
+       "note": "Más frágil: extiéndela entre dos papeles."
+      },
+      "en": {
+       "to": "gluten-free shortcrust",
+       "note": "More fragile: roll it between two sheets of paper."
+      }
+     }
+    ],
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "wheat"
+      ],
+      "may": [
+       "soy",
+       "coconut",
+       "treenut"
+      ],
+      "es": {
+       "to": "masa quebrada hecha con mantequilla vegana en bloque",
+       "note": "Enfría la masa 30 min más."
+      },
+      "en": {
+       "to": "shortcrust made with vegan block butter",
+       "note": "Chill the dough 30 min longer."
+      }
+     }
+    ]
+   }
+  },
+  "sweetshortcrust": {
+   "a": [
+    "wheat",
+    "milk",
+    "egg",
+    "sugar"
+   ],
+   "label": {
+    "es": "Hazla con la receta de pâte sucrée de Mise aplicando tus sustituciones.",
+    "en": "Make it from Mise's pâte sucrée recipe with your swaps applied."
+   }
+  },
+  "choux": {
+   "a": [
+    "wheat",
+    "milk",
+    "egg"
+   ],
+   "label": {
+    "es": "Hazla con la receta de choux de Mise. No hay sustituto fiable del huevo en la pasta choux.",
+    "en": "Make it from Mise's choux recipe. There is no reliable egg substitute in choux."
+   },
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [
+       "milk",
+       "egg"
+      ],
+      "may": [
+       "corn"
+      ],
+      "es": {
+       "to": "pasta choux con mezcla sin gluten",
+       "note": "Hace menos volumen; hornéala 5 min más."
+      },
+      "en": {
+       "to": "choux made with a gluten-free blend",
+       "note": "Puffs less; bake 5 min longer."
+      }
+     }
+    ],
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "wheat",
+       "egg"
+      ],
+      "may": [
+       "soy",
+       "coconut",
+       "treenut"
+      ],
+      "es": {
+       "to": "pasta choux con agua y mantequilla vegana",
+       "note": "Todo agua en vez de leche; queda más crujiente."
+      },
+      "en": {
+       "to": "choux made with water and vegan butter",
+       "note": "All water instead of milk; crisper shell."
+      }
+     }
+    ]
+   }
+  },
+  "croissant": {
+   "a": [
+    "wheat",
+    "milk",
+    "egg"
+   ],
+   "may": [
+    "sugar"
+   ]
+  },
+  "enrichedbread": {
+   "a": [
+    "wheat",
+    "egg",
+    "milk"
+   ],
+   "may": [
+    "sesame",
+    "soy",
+    "sugar"
+   ],
+   "label": {
+    "es": "Los panes de hamburguesa pueden llevar sésamo o soja.",
+    "en": "Burger buns can contain sesame or soy."
+   },
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "may": [
+       "egg",
+       "milk",
+       "soy",
+       "sesame"
+      ],
+      "es": {
+       "to": "pan sin gluten",
+       "note": "Tuéstalo antes."
+      },
+      "en": {
+       "to": "gluten-free bread",
+       "note": "Toast it first."
+      }
+     }
+    ]
+   }
+  },
+  "eggpasta": {
+   "a": [
+    "wheat",
+    "egg"
+   ],
+   "s": {
+    "egg": [
+     {
+      "f": 1,
+      "carries": [
+       "wheat"
+      ],
+      "es": {
+       "to": "pasta seca de sémola (sin huevo)",
+       "note": "La mayoría de la pasta seca no lleva huevo; revisa la etiqueta."
+      },
+      "en": {
+       "to": "dried semolina pasta (no egg)",
+       "note": "Most dried pasta has no egg; check the label."
+      }
+     }
+    ],
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "may": [
+       "egg",
+       "corn"
+      ],
+      "es": {
+       "to": "pasta sin gluten",
+       "note": "Cuécela 1 min menos y termínala en la salsa."
+      },
+      "en": {
+       "to": "gluten-free pasta",
+       "note": "Cook it 1 minute less and finish it in the sauce."
+      }
+     }
+    ]
+   }
+  },
+  "eggnoodles": {
+   "a": [
+    "wheat",
+    "egg"
+   ],
+   "may": [
+    "soy"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "fideos de arroz",
+       "note": "Mordida más suave."
+      },
+      "en": {
+       "to": "rice noodles",
+       "note": "Softer bite."
+      }
+     }
+    ],
+    "egg": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "fideos de arroz",
+       "note": "Mordida más suave."
+      },
+      "en": {
+       "to": "rice noodles",
+       "note": "Softer bite."
+      }
+     }
+    ]
+   }
+  },
+  "ladyfingers": {
+   "a": [
+    "wheat",
+    "egg",
+    "sugar"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [
+       "egg",
+       "sugar"
+      ],
+      "may": [
+       "corn"
+      ],
+      "es": {
+       "to": "soletillas sin gluten",
+       "note": "Se venden hechas; se empapan más rápido."
+      },
+      "en": {
+       "to": "gluten-free ladyfingers",
+       "note": "Sold ready-made; they soak faster."
+      }
+     }
+    ]
+   }
+  },
+  "amaretti": {
+   "a": [
+    "treenut",
+    "egg",
+    "sugar"
+   ],
+   "may": [
+    "wheat"
+   ],
+   "s": {
+    "treenut": [
+     {
+      "f": 1,
+      "carries": [
+       "wheat",
+       "sugar"
+      ],
+      "may": [
+       "milk",
+       "egg",
+       "soy"
+      ],
+      "es": {
+       "to": "galletas de jengibre trituradas",
+       "note": "Mismo crujido y especia; no son sin gluten."
+      },
+      "en": {
+       "to": "crushed ginger snaps",
+       "note": "Same crunch and spice; not gluten-free."
+      }
+     }
+    ]
+   }
+  },
+  "tenkasu": {
+   "a": [
+    "wheat"
+   ],
+   "may": [
+    "egg"
+   ]
+  },
+  "wafer": {
+   "a": [
+    "wheat"
+   ],
+   "may": [
+    "milk",
+    "soy",
+    "sugar"
+   ]
+  },
+  "youtiao": {
+   "a": [
+    "wheat"
+   ],
+   "may": [
+    "egg",
+    "milk"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "galletas de arroz troceadas",
+       "note": "Aportan el crujido."
+      },
+      "en": {
+       "to": "broken rice crackers",
+       "note": "They bring the crunch."
+      }
+     }
+    ]
+   }
+  },
+  "stuffedpasta": {
+   "a": [
+    "wheat",
+    "egg",
+    "milk"
+   ],
+   "may": [
+    "pork",
+    "treenut"
+   ],
+   "label": {
+    "es": "La pasta rellena comprada suele llevar queso y a veces cerdo o nueces.",
+    "en": "Store-bought filled pasta usually contains cheese and sometimes pork or nuts."
+   }
+  },
+  "flatbread": {
+   "a": [
+    "wheat"
+   ],
+   "may": [
+    "milk",
+    "sesame"
+   ]
+  },
+  "injera": {
+   "a": [],
+   "may": [
+    "wheat"
+   ],
+   "label": {
+    "es": "La injera 100% teff no tiene gluten, pero muchas mezclan trigo o cebada.",
+    "en": "100% teff injera is gluten-free, but many mix in wheat or barley."
+   }
+  },
+  "flowerwater": {
+   "a": [],
+   "may": [
+    "alcohol"
+   ],
+   "label": {
+    "es": "Algunas aguas de rosas o de azahar llevan alcohol como conservante.",
+    "en": "Some rose and orange-blossom waters use alcohol as a preservative."
    }
   }
  },
@@ -5984,5 +7895,79 @@
     }
    ]
   }
+ },
+ "generic": {
+  "fat": [
+   "butter",
+   "ghee"
+  ],
+  "thicken": [
+   "apflour",
+   "breadflour",
+   "breadcrumbs",
+   "bread"
+  ],
+  "structure": [
+   "apflour",
+   "breadflour"
+  ],
+  "binder": [
+   "egg",
+   "eggyolk",
+   "eggwhite"
+  ],
+  "umami": [
+   "soysauce",
+   "oystersauce",
+   "hoisin",
+   "fermentedtofu",
+   "anchovy",
+   "worcestershire",
+   "katsuobushi",
+   "fishsauce",
+   "dashi"
+  ],
+  "crunch": [
+   "peanut",
+   "almond",
+   "cashew",
+   "walnut",
+   "pistachio",
+   "pinenut",
+   "hazelnut",
+   "pecan"
+  ],
+  "sweet": [
+   "sugar",
+   "brownsugar",
+   "icingsugar",
+   "palmsugar",
+   "jaggery",
+   "maple",
+   "honey",
+   "goldensyrup",
+   "molasses",
+   "treacle",
+   "cornsyrup",
+   "mirin",
+   "ricesyrup",
+   "maltose"
+  ],
+  "caramel": [
+   "sugar",
+   "brownsugar",
+   "icingsugar",
+   "palmsugar",
+   "jaggery",
+   "maple",
+   "honey",
+   "goldensyrup",
+   "molasses",
+   "treacle",
+   "cornsyrup",
+   "mirin",
+   "ricesyrup",
+   "maltose"
+  ]
  }
 }

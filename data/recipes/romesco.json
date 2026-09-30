@@ -51,19 +51,19 @@
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "winevinegar",
    "role": "acid"
   },
   {
    "q": 150,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

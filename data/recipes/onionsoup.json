@@ -21,7 +21,7 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
@@ -33,25 +33,25 @@
   {
    "q": 1.5,
    "u": "l",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   },
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "spirit",
    "role": "aromatic"
   },
   {
    "q": 6,
    "u": "sprig",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 2,
    "u": "",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -75,7 +75,7 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

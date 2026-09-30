@@ -10,7 +10,7 @@
   {
    "q": 500,
    "u": "g",
-   "k": "",
+   "k": "ricecake",
    "role": "structure"
   },
   {
@@ -46,7 +46,7 @@
   {
    "q": 150,
    "u": "g",
-   "k": "bacon",
+   "k": "sausage",
    "role": "protein"
   },
   {

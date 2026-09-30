@@ -22,7 +22,7 @@
   {
    "q": 60,
    "u": "ml",
-   "k": "",
+   "k": "spirit",
    "role": "acid"
   },
   {
@@ -64,19 +64,19 @@
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 20,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

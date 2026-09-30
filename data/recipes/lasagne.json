@@ -10,13 +10,13 @@
   {
    "q": 1,
    "u": "batch",
-   "k": "tomato",
+   "k": "ragu",
    "role": "protein"
   },
   {
    "q": 400,
    "u": "g",
-   "k": "pasta",
+   "k": "eggpasta",
    "role": "structure"
   },
   {
@@ -40,7 +40,7 @@
   {
    "q": 1,
    "u": "pinch",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
@@ -52,7 +52,7 @@
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

@@ -27,7 +27,7 @@
   {
    "q": 15,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -39,7 +39,7 @@
   {
    "q": 15,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -57,19 +57,19 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "cidervinegar",
    "role": "acid"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

@@ -22,19 +22,19 @@
   {
    "q": 180,
    "u": "ml",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
    "q": 10,
    "u": "g",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 600,
    "u": "g",
-   "k": "",
+   "k": "beef",
    "role": "protein"
   },
   {
@@ -58,7 +58,7 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
@@ -70,7 +70,7 @@
   {
    "q": 100,
    "u": "g",
-   "k": "",
+   "k": "olives",
    "role": "structure"
   },
   {
@@ -88,7 +88,7 @@
   {
    "q": 100,
    "u": "ml",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   }
  ],

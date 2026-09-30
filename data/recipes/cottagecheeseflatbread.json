@@ -28,13 +28,13 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
@@ -46,7 +46,7 @@
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

@@ -40,19 +40,19 @@
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "bakingpowder",
    "role": "leaven"
   },
   {
    "q": 0.25,
    "u": "tsp",
-   "k": "",
+   "k": "creamoftartar",
    "role": "leaven"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "vanilla",
    "role": "aromatic"
   },
   {
@@ -64,7 +64,7 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {

@@ -9,7 +9,7 @@
   {
    "q": 400,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
@@ -21,7 +21,7 @@
   {
    "q": 60,
    "u": "g",
-   "k": "chorizo",
+   "k": "chinesesausage",
    "role": "protein"
   },
   {
@@ -33,7 +33,7 @@
   {
    "q": 150,
    "u": "g",
-   "k": "",
+   "k": "legume",
    "role": "structure"
   },
   {
@@ -69,7 +69,7 @@
   {
    "q": 1,
    "u": "tbsp",
-   "k": "chilli",
+   "k": "chilipaste",
    "role": "aromatic"
   },
   {
@@ -81,7 +81,7 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],
@@ -104,7 +104,7 @@
     "n": "huevos"
    },
    {
-    "n": "germinado de soja"
+    "n": "germinado de frijol mungo"
    },
    {
     "n": "cebollino chino"
@@ -165,7 +165,7 @@
     "n": "eggs"
    },
    {
-    "n": "bean sprouts"
+    "n": "mung bean sprouts"
    },
    {
     "n": "Chinese chives"

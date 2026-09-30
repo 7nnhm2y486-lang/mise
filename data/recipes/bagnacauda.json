@@ -27,7 +27,7 @@
   {
    "q": 200,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
@@ -39,7 +39,7 @@
   {
    "q": 1,
    "u": "plate",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   }
  ],

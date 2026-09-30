@@ -22,19 +22,19 @@
   {
    "q": 120,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 12,
    "u": "g",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   }
  ],

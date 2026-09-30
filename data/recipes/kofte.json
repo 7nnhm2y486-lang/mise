@@ -9,13 +9,13 @@
   {
    "q": 700,
    "u": "g",
-   "k": "",
+   "k": "lamb",
    "role": "protein"
   },
   {
    "q": 100,
    "u": "g",
-   "k": "",
+   "k": "lambfat",
    "role": "fat"
   },
   {
@@ -39,19 +39,19 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 20,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
@@ -59,6 +59,12 @@
    "u": "",
    "k": "onion",
    "role": "garnish"
+  },
+  {
+   "q": null,
+   "u": "",
+   "k": "flatbread",
+   "role": "serve"
   }
  ],
  "es": {
@@ -93,6 +99,10 @@
    {
     "n": "cebolla con zumaque",
     "note": "cebolla en rodajas con zumaque y perejil"
+   },
+   {
+    "n": "pan plano",
+    "note": "para servir"
    }
   ],
   "steps": [
@@ -142,6 +152,10 @@
    {
     "n": "sumac onions",
     "note": "sliced onion with sumac and parsley"
+   },
+   {
+    "n": "flatbread",
+    "note": "to serve"
    }
   ],
   "steps": [

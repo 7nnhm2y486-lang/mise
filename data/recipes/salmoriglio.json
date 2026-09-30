@@ -9,25 +9,25 @@
   {
    "q": 150,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 60,
    "u": "ml",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -39,19 +39,19 @@
   {
    "q": 20,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

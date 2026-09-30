@@ -9,31 +9,31 @@
   {
    "q": 250,
    "u": "g",
-   "k": "",
+   "k": "legume",
    "role": "protein"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "tamarind",
    "role": "acid"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "chilli",
+   "k": "spiceblend",
    "role": "aromatic"
   },
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 300,
    "u": "g",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
@@ -57,25 +57,25 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "mustard",
    "role": "aromatic"
   },
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 15,
    "u": "",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 0.25,
    "u": "tsp",
-   "k": "",
+   "k": "asafoetida",
    "role": "aromatic"
   },
   {
@@ -87,13 +87,13 @@
   {
    "q": 20,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

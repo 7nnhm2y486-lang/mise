@@ -15,7 +15,7 @@
   {
    "q": 150,
    "u": "g",
-   "k": "",
+   "k": "porkmince",
    "role": "protein"
   },
   {
@@ -33,7 +33,7 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   },
   {
@@ -51,13 +51,13 @@
   {
    "q": 20,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 300,
    "u": "ml",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   },
   {
@@ -75,7 +75,7 @@
   {
    "q": 4,
    "u": "tbsp",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {

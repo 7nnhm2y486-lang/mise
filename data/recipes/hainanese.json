@@ -9,13 +9,13 @@
   {
    "q": 1.6,
    "u": "kg",
-   "k": "",
+   "k": "chicken",
    "role": "protein"
   },
   {
    "q": 80,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -33,13 +33,13 @@
   {
    "q": 400,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "chickenfat",
    "role": "fat"
   },
   {
@@ -51,7 +51,7 @@
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "veg",
    "role": "garnish"
   },
   {
@@ -63,7 +63,7 @@
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
@@ -75,7 +75,7 @@
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

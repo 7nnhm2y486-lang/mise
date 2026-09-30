@@ -11,7 +11,7 @@
   {
    "q": 70,
    "u": "g",
-   "k": "",
+   "k": "cocoa",
    "role": "structure"
   },
   {
@@ -53,13 +53,13 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "bakingsoda",
    "role": "leaven"
   },
   {
    "q": 1.25,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {

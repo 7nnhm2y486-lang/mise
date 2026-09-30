@@ -9,7 +9,7 @@
   {
    "q": 150,
    "u": "g",
-   "k": "tomato",
+   "k": "sundriedtomato",
    "role": "umami"
   },
   {
@@ -21,7 +21,7 @@
   {
    "q": 30,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -45,7 +45,7 @@
   {
    "q": 120,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
@@ -57,7 +57,7 @@
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

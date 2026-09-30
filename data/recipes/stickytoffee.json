@@ -16,13 +16,13 @@
   {
    "q": 250,
    "u": "ml",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "bakingsoda",
    "role": "leaven"
   },
   {
@@ -76,7 +76,7 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

@@ -9,13 +9,13 @@
   {
    "q": 1.4,
    "u": "l",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   },
   {
    "q": 100,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
@@ -27,31 +27,31 @@
   {
    "q": 80,
    "u": "ml",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
    "q": 250,
    "u": "g",
-   "k": "",
+   "k": "chicken",
    "role": "protein"
   },
   {
    "q": 15,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

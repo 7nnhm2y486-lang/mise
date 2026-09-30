@@ -9,13 +9,13 @@
   {
    "q": 1,
    "u": "kg",
-   "k": "",
+   "k": "pork",
    "role": "protein"
   },
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "porktrotter",
    "role": "protein"
   },
   {
@@ -51,25 +51,25 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 3,
    "u": "",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "plate",
-   "k": "",
+   "k": "onion",
    "role": "garnish"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

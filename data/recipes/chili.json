@@ -9,7 +9,7 @@
   {
    "q": 1.5,
    "u": "kg",
-   "k": "",
+   "k": "beef",
    "role": "protein"
   },
   {
@@ -45,19 +45,19 @@
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 800,
    "u": "ml",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   },
   {
@@ -81,19 +81,19 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "cidervinegar",
    "role": "acid"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

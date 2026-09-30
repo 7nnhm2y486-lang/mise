@@ -9,19 +9,19 @@
   {
    "q": 320,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
    "q": 1,
    "u": "bigpinch",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 1.2,
    "u": "l",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   },
   {
@@ -51,13 +51,13 @@
   {
    "q": 40,
    "u": "g",
-   "k": "",
+   "k": "bonemarrow",
    "role": "fat"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

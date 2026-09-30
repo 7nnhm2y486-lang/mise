@@ -10,7 +10,7 @@
   {
    "q": 1,
    "u": "batch",
-   "k": "apflour",
+   "k": "choux",
    "role": "structure"
   },
   {
@@ -40,13 +40,13 @@
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "citrus",
    "role": "aromatic"
   },
   {
    "q": 12,
    "u": "",
-   "k": "sugar",
+   "k": "candiedfruit",
    "role": "garnish"
   },
   {
@@ -58,7 +58,7 @@
   {
    "q": 1.5,
    "u": "l",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   }
  ],

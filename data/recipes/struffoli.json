@@ -33,19 +33,19 @@
   {
    "q": 2,
    "u": "",
-   "k": "",
+   "k": "citrus",
    "role": "aromatic"
   },
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "spirit",
    "role": "aromatic"
   },
   {
    "q": 0.25,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
@@ -57,19 +57,19 @@
   {
    "q": 100,
    "u": "g",
-   "k": "sugar",
+   "k": "candiedfruit",
    "role": "garnish"
   },
   {
    "q": 40,
    "u": "g",
-   "k": "sugar",
+   "k": "sprinkles",
    "role": "garnish"
   },
   {
    "q": 1.5,
    "u": "l",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   }
  ],

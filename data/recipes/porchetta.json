@@ -10,13 +10,13 @@
   {
    "q": 3,
    "u": "kg",
-   "k": "",
+   "k": "porkbelly",
    "role": "protein"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
@@ -28,19 +28,19 @@
   {
    "q": 30,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 20,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 2,
    "u": "",
-   "k": "",
+   "k": "citrus",
    "role": "aromatic"
   },
   {
@@ -52,13 +52,13 @@
   {
    "q": 40,
    "u": "g",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   },
   {

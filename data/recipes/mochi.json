@@ -9,7 +9,7 @@
   {
    "q": 200,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
@@ -21,13 +21,13 @@
   {
    "q": 250,
    "u": "ml",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
    "q": 60,
    "u": "g",
-   "k": "",
+   "k": "potato",
    "role": "dredge"
   },
   {
@@ -39,7 +39,7 @@
   {
    "q": 12,
    "u": "",
-   "k": "",
+   "k": "fruit",
    "role": "structure"
   }
  ],

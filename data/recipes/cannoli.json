@@ -15,7 +15,7 @@
   {
    "q": 90,
    "u": "ml",
-   "k": "",
+   "k": "wine",
    "role": "liquid"
   },
   {
@@ -33,7 +33,7 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "cocoa",
    "role": "aromatic"
   },
   {
@@ -57,7 +57,7 @@
   {
    "q": 60,
    "u": "g",
-   "k": "sugar",
+   "k": "candiedfruit",
    "role": "structure"
   },
   {
@@ -75,7 +75,7 @@
   {
    "q": 1,
    "u": "l",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   }
  ],

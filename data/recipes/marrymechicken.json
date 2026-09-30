@@ -10,7 +10,7 @@
   {
    "q": 4,
    "u": "",
-   "k": "",
+   "k": "chicken",
    "role": "protein"
   },
   {
@@ -22,7 +22,7 @@
   {
    "q": 120,
    "u": "g",
-   "k": "tomato",
+   "k": "sundriedtomato",
    "role": "umami"
   },
   {
@@ -34,7 +34,7 @@
   {
    "q": 200,
    "u": "ml",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   },
   {
@@ -52,7 +52,7 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -64,7 +64,7 @@
   {
    "q": 20,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -76,13 +76,13 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

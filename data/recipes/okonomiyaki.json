@@ -21,7 +21,7 @@
   {
    "q": 120,
    "u": "g",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
@@ -33,7 +33,7 @@
   {
    "q": 350,
    "u": "g",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
@@ -45,25 +45,25 @@
   {
    "q": 120,
    "u": "g",
-   "k": "",
+   "k": "porkbelly",
    "role": "protein"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "apflour",
+   "k": "tenkasu",
    "role": "crunch"
   },
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "pickles",
    "role": "acid"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "okonomi",
    "role": "sauce"
   },
   {
@@ -81,13 +81,13 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "seaweed",
    "role": "garnish"
   },
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   }
  ],

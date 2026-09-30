@@ -22,7 +22,7 @@
   {
    "q": 800,
    "u": "g",
-   "k": "",
+   "k": "lamb",
    "role": "protein"
   },
   {
@@ -52,13 +52,13 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -94,13 +94,13 @@
   {
    "q": 1,
    "u": "pinch",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 120,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   }
  ],

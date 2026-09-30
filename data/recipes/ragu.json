@@ -9,13 +9,13 @@
   {
    "q": 500,
    "u": "g",
-   "k": "",
+   "k": "beef",
    "role": "protein"
   },
   {
    "q": 250,
    "u": "g",
-   "k": "",
+   "k": "porkmince",
    "role": "protein"
   },
   {
@@ -33,7 +33,7 @@
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "veg",
    "role": "aromatic"
   },
   {
@@ -63,7 +63,7 @@
   {
    "q": 500,
    "u": "ml",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   },
   {
@@ -75,19 +75,19 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 1,
    "u": "pinch",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   }
  ],

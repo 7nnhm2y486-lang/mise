@@ -29,19 +29,19 @@
   {
    "q": 2,
    "u": "drop",
-   "k": "",
+   "k": "foodcolour",
    "role": "garnish"
   },
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "vanilla",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "pinch",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

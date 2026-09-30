@@ -40,13 +40,13 @@
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "nutliqueur",
    "role": "aromatic"
   },
   {

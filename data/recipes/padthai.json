@@ -9,13 +9,13 @@
   {
    "q": 180,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "tamarind",
    "role": "acid"
   },
   {
@@ -57,7 +57,7 @@
   {
    "q": 150,
    "u": "g",
-   "k": "",
+   "k": "legume",
    "role": "structure"
   },
   {
@@ -69,7 +69,7 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "pickles",
    "role": "umami"
   },
   {
@@ -87,13 +87,13 @@
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   }
  ],
@@ -128,7 +128,7 @@
     "n": "cebollino chino"
    },
    {
-    "n": "germinado de soja"
+    "n": "germinado de frijol mungo"
    },
    {
     "n": "camarón seco",
@@ -197,7 +197,7 @@
     "n": "garlic chives"
    },
    {
-    "n": "bean sprouts"
+    "n": "mung bean sprouts"
    },
    {
     "n": "dried shrimp",

@@ -9,7 +9,7 @@
   {
    "q": 500,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
@@ -45,7 +45,7 @@
   {
    "q": 200,
    "u": "g",
-   "k": "",
+   "k": "chicken",
    "role": "protein"
   },
   {
@@ -69,7 +69,7 @@
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
@@ -81,7 +81,7 @@
   {
    "q": 3,
    "u": "tbsp",
-   "k": "onion",
+   "k": "friedshallot",
    "role": "crunch"
   }
  ],

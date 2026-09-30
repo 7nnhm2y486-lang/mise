@@ -9,7 +9,7 @@
   {
    "q": 1.6,
    "u": "kg",
-   "k": "",
+   "k": "chicken",
    "role": "protein"
   },
   {
@@ -21,13 +21,13 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   },
   {
    "q": 10,
    "u": "sprig",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -45,7 +45,7 @@
   {
    "q": 40,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -63,25 +63,25 @@
   {
    "q": 60,
    "u": "ml",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 60,
    "u": "ml",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

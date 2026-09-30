@@ -9,19 +9,19 @@
   {
    "q": 150,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
    "q": 2,
    "u": "l",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   },
   {
    "q": 30,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -39,7 +39,7 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   },
   {
@@ -57,19 +57,19 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "onion",
+   "k": "friedshallot",
    "role": "crunch"
   },
   {
    "q": 1,
    "u": "",
-   "k": "apflour",
+   "k": "youtiao",
    "role": "garnish"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

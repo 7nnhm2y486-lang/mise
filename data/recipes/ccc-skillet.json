@@ -47,13 +47,13 @@
   {
    "q": 0.75,
    "u": "tsp",
-   "k": "",
+   "k": "bakingsoda",
    "role": "leaven"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
@@ -65,14 +65,20 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "vanilla",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
+  },
+  {
+   "q": null,
+   "u": "",
+   "k": "icecream",
+   "role": "serve"
   }
  ],
  "es": {
@@ -113,6 +119,10 @@
    },
    {
     "n": "sal en escamas"
+   },
+   {
+    "n": "helado de vainilla",
+    "note": "opcional, para servir"
    }
   ],
   "steps": [
@@ -168,6 +178,10 @@
    },
    {
     "n": "flaky salt"
+   },
+   {
+    "n": "vanilla ice cream",
+    "note": "optional, to serve"
    }
   ],
   "steps": [

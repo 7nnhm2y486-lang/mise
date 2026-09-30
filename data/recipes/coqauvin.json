@@ -9,7 +9,7 @@
   {
    "q": 1.5,
    "u": "kg",
-   "k": "",
+   "k": "chicken",
    "role": "protein"
   },
   {
@@ -27,7 +27,7 @@
   {
    "q": 300,
    "u": "g",
-   "k": "",
+   "k": "mushroom",
    "role": "aromatic"
   },
   {
@@ -39,7 +39,7 @@
   {
    "q": 2,
    "u": "",
-   "k": "",
+   "k": "veg",
    "role": "aromatic"
   },
   {
@@ -63,7 +63,7 @@
   {
    "q": 400,
    "u": "ml",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   },
   {
@@ -75,13 +75,13 @@
   {
    "q": 1,
    "u": "bunch",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

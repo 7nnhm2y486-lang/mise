@@ -10,31 +10,31 @@
   {
    "q": 600,
    "u": "g",
-   "k": "",
+   "k": "legume",
    "role": "protein"
   },
   {
    "q": 4,
    "u": "thigh",
-   "k": "",
+   "k": "duckconfit",
    "role": "protein"
   },
   {
    "q": 6,
    "u": "",
-   "k": "chorizo",
+   "k": "sausage",
    "role": "protein"
   },
   {
    "q": 400,
    "u": "g",
-   "k": "",
+   "k": "porkbelly",
    "role": "protein"
   },
   {
    "q": 200,
    "u": "g",
-   "k": "",
+   "k": "porkskin",
    "role": "structure"
   },
   {
@@ -46,7 +46,7 @@
   {
    "q": 2,
    "u": "",
-   "k": "",
+   "k": "veg",
    "role": "aromatic"
   },
   {
@@ -64,19 +64,19 @@
   {
    "q": 1,
    "u": "bunch",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 60,
    "u": "g",
-   "k": "",
+   "k": "duckfat",
    "role": "fat"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

@@ -34,7 +34,7 @@
   {
    "q": 0.25,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
@@ -46,7 +46,7 @@
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "vanilla",
    "role": "aromatic"
   }
  ],

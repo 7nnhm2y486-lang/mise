@@ -9,13 +9,13 @@
   {
    "q": 700,
    "u": "g",
-   "k": "",
+   "k": "beef",
    "role": "protein"
   },
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "fruit",
    "role": "acid"
   },
   {
@@ -57,7 +57,7 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   },
   {

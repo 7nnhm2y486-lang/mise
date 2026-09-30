@@ -15,7 +15,7 @@
   {
    "q": 600,
    "u": "g",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
@@ -45,13 +45,13 @@
   {
    "q": 90,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

@@ -9,13 +9,13 @@
   {
    "q": 400,
    "u": "g",
-   "k": "",
+   "k": "porkbelly",
    "role": "protein"
   },
   {
    "q": 400,
    "u": "g",
-   "k": "",
+   "k": "porkmince",
    "role": "protein"
   },
   {
@@ -45,43 +45,43 @@
   {
    "q": 80,
    "u": "ml",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
    "q": 400,
    "u": "ml",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
    "q": 400,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
    "q": 200,
    "u": "g",
-   "k": "",
+   "k": "veg",
    "role": "garnish"
   },
   {
    "q": 1,
    "u": "plate",
-   "k": "",
+   "k": "herb",
    "role": "garnish"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tbsp",
-   "k": "sugar",
+   "k": "caramelsauce",
    "role": "sweet"
   }
  ],

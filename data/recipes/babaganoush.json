@@ -21,7 +21,7 @@
   {
    "q": 60,
    "u": "ml",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
@@ -33,31 +33,31 @@
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 50,
    "u": "g",
-   "k": "",
+   "k": "fruit",
    "role": "garnish"
   },
   {
    "q": 15,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   }
  ],

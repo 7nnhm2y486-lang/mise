@@ -16,13 +16,13 @@
   {
    "q": 400,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "ice",
    "role": "liquid"
   },
   {
@@ -40,25 +40,25 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "chilli",
+   "k": "sriracha",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
    "q": 100,
    "u": "g",
-   "k": "chilli",
+   "k": "kimchi",
    "role": "structure"
   },
   {
    "q": 4,
    "u": "leaf",
-   "k": "",
+   "k": "seaweed",
    "role": "structure"
   },
   {

@@ -9,7 +9,7 @@
   {
    "q": 600,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
@@ -51,31 +51,31 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "currypowder",
    "role": "aromatic"
   },
   {
    "q": 3,
    "u": "",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 750,
    "u": "ml",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

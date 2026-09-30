@@ -11,13 +11,13 @@
   {
    "q": 260,
    "u": "g",
-   "k": "",
+   "k": "allulose",
    "role": "spread"
   },
   {
    "q": 80,
    "u": "g",
-   "k": "brownsugar",
+   "k": "sugarsub",
    "role": "moisture"
   },
   {
@@ -47,31 +47,31 @@
   {
    "q": 0.75,
    "u": "tsp",
-   "k": "",
+   "k": "bakingsoda",
    "role": "leaven"
   },
   {
    "q": 1.25,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 250,
    "u": "g",
-   "k": "chocolatechips",
+   "k": "unsweetenedchocolate",
    "role": "structure"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "vanilla",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "glycerin",
    "role": "moisture"
   }
  ],

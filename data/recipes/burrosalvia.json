@@ -15,7 +15,7 @@
   {
    "q": 20,
    "u": "leaf",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -27,14 +27,20 @@
   {
    "q": 1,
    "u": "pinch",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "stuffedpasta",
+   "role": "structure"
   }
  ],
  "es": {
@@ -57,6 +63,10 @@
    },
    {
     "n": "pimienta negra"
+   },
+   {
+    "n": "pasta rellena",
+    "note": "ravioli, tortellini o similar"
    }
   ],
   "steps": [
@@ -94,6 +104,10 @@
    },
    {
     "n": "black pepper"
+   },
+   {
+    "n": "stuffed pasta",
+    "note": "ravioli, tortellini or similar"
    }
   ],
   "steps": [

@@ -15,7 +15,7 @@
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
@@ -27,7 +27,7 @@
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
@@ -57,7 +57,7 @@
   {
    "q": 30,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -75,8 +75,20 @@
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
+  },
+  {
+   "q": null,
+   "u": "",
+   "k": "rice",
+   "role": "serve"
+  },
+  {
+   "q": null,
+   "u": "",
+   "k": "farofa",
+   "role": "serve"
   }
  ],
  "es": {
@@ -124,6 +136,14 @@
    },
    {
     "n": "sal"
+   },
+   {
+    "n": "arroz blanco",
+    "note": "para servir"
+   },
+   {
+    "n": "farofa",
+    "note": "para servir"
    }
   ],
   "steps": [
@@ -186,6 +206,14 @@
    },
    {
     "n": "salt"
+   },
+   {
+    "n": "white rice",
+    "note": "to serve"
+   },
+   {
+    "n": "farofa",
+    "note": "to serve"
    }
   ],
   "steps": [

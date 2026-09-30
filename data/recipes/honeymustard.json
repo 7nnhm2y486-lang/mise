@@ -21,7 +21,7 @@
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "mustard",
    "role": "aromatic"
   },
   {
@@ -39,7 +39,7 @@
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "cidervinegar",
    "role": "acid"
   },
   {
@@ -51,13 +51,13 @@
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

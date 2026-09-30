@@ -15,7 +15,7 @@
   {
    "q": 180,
    "u": "ml",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
@@ -39,19 +39,19 @@
   {
    "q": 400,
    "u": "g",
-   "k": "chorizo",
+   "k": "sausage",
    "role": "protein"
   },
   {
    "q": 800,
    "u": "g",
-   "k": "",
+   "k": "chicken",
    "role": "protein"
   },
   {
    "q": 2.5,
    "u": "l",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   },
   {
@@ -63,19 +63,19 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "paprika",
+   "k": "cajun",
    "role": "aromatic"
   },
   {
    "q": 3,
    "u": "",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "thicken"
   },
   {
@@ -87,7 +87,7 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

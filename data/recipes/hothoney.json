@@ -28,13 +28,13 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "cidervinegar",
    "role": "acid"
   },
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {

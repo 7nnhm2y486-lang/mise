@@ -21,7 +21,7 @@
   {
    "q": 60,
    "u": "ml",
-   "k": "",
+   "k": "wine",
    "role": "aromatic"
   },
   {
@@ -39,25 +39,25 @@
   {
    "q": 300,
    "u": "g",
-   "k": "apflour",
+   "k": "ladyfingers",
    "role": "structure"
   },
   {
    "q": 400,
    "u": "ml",
-   "k": "",
+   "k": "coffee",
    "role": "liquid"
   },
   {
    "q": 30,
    "u": "g",
-   "k": "",
+   "k": "cocoa",
    "role": "garnish"
   },
   {
    "q": 1,
    "u": "pinch",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

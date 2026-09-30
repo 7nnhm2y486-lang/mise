@@ -15,7 +15,7 @@
   {
    "q": 180,
    "u": "ml",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
@@ -63,13 +63,13 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

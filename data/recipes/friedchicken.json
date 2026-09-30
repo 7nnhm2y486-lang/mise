@@ -9,7 +9,7 @@
   {
    "q": 1.4,
    "u": "kg",
-   "k": "",
+   "k": "chicken",
    "role": "protein"
   },
   {
@@ -21,7 +21,7 @@
   {
    "q": 25,
    "u": "g",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
@@ -39,7 +39,7 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "bakingpowder",
    "role": "leaven"
   },
   {
@@ -63,13 +63,13 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   },
   {
    "q": 2,
    "u": "l",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   }
  ],

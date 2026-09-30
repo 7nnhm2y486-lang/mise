@@ -10,19 +10,19 @@
   {
    "q": 1,
    "u": "base",
-   "k": "apflour",
+   "k": "sweetshortcrust",
    "role": "structure"
   },
   {
    "q": 180,
    "u": "ml",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
    "q": 3,
    "u": "",
-   "k": "",
+   "k": "citrus",
    "role": "aromatic"
   },
   {
@@ -52,7 +52,7 @@
   {
    "q": 0.25,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

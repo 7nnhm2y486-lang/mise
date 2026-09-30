@@ -9,7 +9,7 @@
   {
    "q": 1.5,
    "u": "kg",
-   "k": "",
+   "k": "beef",
    "role": "protein"
   },
   {
@@ -21,13 +21,13 @@
   {
    "q": 4,
    "u": "tbsp",
-   "k": "garlic",
+   "k": "gingergarlic",
    "role": "aromatic"
   },
   {
    "q": 4,
    "u": "tbsp",
-   "k": "chilli",
+   "k": "spiceblend",
    "role": "aromatic"
   },
   {
@@ -51,13 +51,13 @@
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 50,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "garnish"
   },
   {
@@ -69,19 +69,19 @@
   {
    "q": 30,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "garnish"
   },
   {
    "q": 2,
    "u": "",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

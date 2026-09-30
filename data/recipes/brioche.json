@@ -34,13 +34,13 @@
   {
    "q": 12,
    "u": "g",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 10,
    "u": "g",
-   "k": "",
+   "k": "yeast",
    "role": "leaven"
   },
   {

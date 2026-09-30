@@ -33,7 +33,7 @@
   {
    "q": 1,
    "u": "stalk",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -45,7 +45,7 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "tamarind",
    "role": "acid"
   },
   {
@@ -63,13 +63,13 @@
   {
    "q": 4,
    "u": "tbsp",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

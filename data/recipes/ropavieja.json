@@ -9,7 +9,7 @@
   {
    "q": 1.2,
    "u": "kg",
-   "k": "",
+   "k": "beef",
    "role": "protein"
   },
   {
@@ -39,19 +39,19 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 3,
    "u": "",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -63,13 +63,13 @@
   {
    "q": 100,
    "u": "g",
-   "k": "",
+   "k": "olives",
    "role": "salt"
   },
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "capers",
    "role": "salt"
   },
   {
@@ -81,13 +81,13 @@
   {
    "q": 4,
    "u": "tbsp",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

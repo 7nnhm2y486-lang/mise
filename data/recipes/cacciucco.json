@@ -63,13 +63,13 @@
   {
    "q": 6,
    "u": "leaf",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 100,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
@@ -81,7 +81,7 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

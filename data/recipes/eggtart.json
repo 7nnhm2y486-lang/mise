@@ -46,7 +46,7 @@
   {
    "q": 240,
    "u": "ml",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
@@ -58,7 +58,7 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "vanilla",
    "role": "aromatic"
   }
  ],

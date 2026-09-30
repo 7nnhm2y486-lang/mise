@@ -9,19 +9,19 @@
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "chicken",
    "role": "protein"
   },
   {
    "q": 500,
    "u": "g",
-   "k": "",
+   "k": "beef",
    "role": "protein"
   },
   {
    "q": 2,
    "u": "",
-   "k": "",
+   "k": "veg",
    "role": "aromatic"
   },
   {
@@ -51,13 +51,13 @@
   {
    "q": 150,
    "u": "g",
-   "k": "",
+   "k": "pork",
    "role": "protein"
   },
   {
    "q": 100,
    "u": "g",
-   "k": "pancetta",
+   "k": "curedmeat",
    "role": "protein"
   },
   {
@@ -75,7 +75,7 @@
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
@@ -87,7 +87,7 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

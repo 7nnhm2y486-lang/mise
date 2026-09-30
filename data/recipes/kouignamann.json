@@ -16,19 +16,19 @@
   {
    "q": 250,
    "u": "ml",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
    "q": 6,
    "u": "g",
-   "k": "",
+   "k": "yeast",
    "role": "leaven"
   },
   {
    "q": 9,
    "u": "g",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {

@@ -22,7 +22,7 @@
   {
    "q": 7,
    "u": "g",
-   "k": "",
+   "k": "yeast",
    "role": "leaven"
   },
   {
@@ -34,13 +34,13 @@
   {
    "q": 8,
    "u": "g",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {

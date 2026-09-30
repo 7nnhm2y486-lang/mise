@@ -34,19 +34,19 @@
   {
    "q": 8,
    "u": "g",
-   "k": "",
+   "k": "yeast",
    "role": "leaven"
   },
   {
    "q": 25,
    "u": "",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 7,
    "u": "g",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {

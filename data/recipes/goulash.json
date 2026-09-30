@@ -9,7 +9,7 @@
   {
    "q": 1.2,
    "u": "kg",
-   "k": "",
+   "k": "beef",
    "role": "protein"
   },
   {
@@ -33,7 +33,7 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
@@ -63,13 +63,13 @@
   {
    "q": 600,
    "u": "ml",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

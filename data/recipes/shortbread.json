@@ -16,7 +16,7 @@
   {
    "q": 60,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
@@ -34,13 +34,13 @@
   {
    "q": 0.75,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "vanilla",
    "role": "aromatic"
   },
   {

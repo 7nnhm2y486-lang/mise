@@ -9,31 +9,31 @@
   {
    "q": 250,
    "u": "g",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
    "q": 200,
    "u": "g",
-   "k": "",
+   "k": "beef",
    "role": "protein"
   },
   {
    "q": 200,
    "u": "g",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
    "q": 100,
    "u": "g",
-   "k": "",
+   "k": "mushroom",
    "role": "structure"
   },
   {
@@ -81,7 +81,7 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   }
  ],

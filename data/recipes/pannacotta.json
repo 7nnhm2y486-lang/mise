@@ -33,19 +33,19 @@
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "vanillabean",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "pinch",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 1,
    "u": "strip",
-   "k": "",
+   "k": "citrus",
    "role": "aromatic"
   }
  ],

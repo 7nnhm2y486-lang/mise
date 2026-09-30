@@ -9,19 +9,19 @@
   {
    "q": 800,
    "u": "g",
-   "k": "",
+   "k": "beef",
    "role": "protein"
   },
   {
    "q": 500,
    "u": "g",
-   "k": "",
+   "k": "pork",
    "role": "protein"
   },
   {
    "q": 300,
    "u": "g",
-   "k": "chorizo",
+   "k": "sausage",
    "role": "protein"
   },
   {
@@ -51,13 +51,13 @@
   {
    "q": 80,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 30,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -69,7 +69,7 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

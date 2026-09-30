@@ -11,7 +11,7 @@
   {
    "q": 220,
    "u": "g",
-   "k": "butter",
+   "k": "veganbutter",
    "role": "fat"
   },
   {
@@ -29,19 +29,19 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "flax",
    "role": "binder"
   },
   {
    "q": 5,
    "u": "tbsp",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "vanilla",
    "role": "aromatic"
   },
   {
@@ -53,25 +53,25 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "bakingsoda",
    "role": "leaven"
   },
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "bakingpowder",
    "role": "leaven"
   },
   {
    "q": 1.25,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 280,
    "u": "g",
-   "k": "darkchocolate",
+   "k": "dfchocolate",
    "role": "structure"
   }
  ],

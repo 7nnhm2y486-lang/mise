@@ -11,7 +11,7 @@
   {
    "q": 50,
    "u": "g",
-   "k": "milk",
+   "k": "milkpowder",
    "role": "aromatic"
   },
   {
@@ -53,13 +53,13 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "bakingsoda",
    "role": "leaven"
   },
   {
    "q": 1.25,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
@@ -71,7 +71,7 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "vanilla",
    "role": "aromatic"
   }
  ],

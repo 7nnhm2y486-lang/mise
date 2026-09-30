@@ -10,7 +10,7 @@
   {
    "q": 3,
    "u": "tbsp",
-   "k": "pinenut",
+   "k": "pesto",
    "role": "fat"
   },
   {
@@ -34,7 +34,7 @@
   {
    "q": 0.5,
    "u": "",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
@@ -46,7 +46,7 @@
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

@@ -10,7 +10,7 @@
   {
    "q": 800,
    "u": "g",
-   "k": "",
+   "k": "beef",
    "role": "protein"
   },
   {
@@ -22,7 +22,7 @@
   {
    "q": 500,
    "u": "ml",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   },
   {
@@ -40,19 +40,19 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "anchovy",
+   "k": "worcestershire",
    "role": "umami"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "soysauce",
+   "k": "yeastextract",
    "role": "umami"
   },
   {
    "q": 400,
    "u": "g",
-   "k": "apflour",
+   "k": "shortcrust",
    "role": "structure"
   },
   {
@@ -70,19 +70,19 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

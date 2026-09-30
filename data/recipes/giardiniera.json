@@ -9,13 +9,13 @@
   {
    "q": 300,
    "u": "g",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
    "q": 3,
    "u": "",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
@@ -45,25 +45,25 @@
   {
    "q": 60,
    "u": "g",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 500,
    "u": "ml",
-   "k": "",
+   "k": "winevinegar",
    "role": "acid"
   },
   {
    "q": 300,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -75,7 +75,7 @@
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

@@ -33,25 +33,25 @@
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "anchovy",
+   "k": "worcestershire",
    "role": "umami"
   },
   {
    "q": 100,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 80,
    "u": "ml",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
@@ -63,7 +63,7 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

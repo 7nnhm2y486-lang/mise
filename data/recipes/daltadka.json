@@ -9,13 +9,13 @@
   {
    "q": 250,
    "u": "g",
-   "k": "",
+   "k": "legume",
    "role": "protein"
   },
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
@@ -27,7 +27,7 @@
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
@@ -45,7 +45,7 @@
   {
    "q": 0.25,
    "u": "tsp",
-   "k": "",
+   "k": "asafoetida",
    "role": "aromatic"
   },
   {
@@ -63,19 +63,19 @@
   {
    "q": 12,
    "u": "",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 15,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

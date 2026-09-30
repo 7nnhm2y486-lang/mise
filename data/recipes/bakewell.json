@@ -10,13 +10,13 @@
   {
    "q": 1,
    "u": "base",
-   "k": "apflour",
+   "k": "sweetshortcrust",
    "role": "structure"
   },
   {
    "q": 150,
    "u": "g",
-   "k": "sugar",
+   "k": "jam",
    "role": "sweet"
   },
   {
@@ -52,7 +52,7 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "almondextract",
    "role": "aromatic"
   },
   {

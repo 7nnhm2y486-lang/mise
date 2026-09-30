@@ -33,7 +33,7 @@
   {
    "q": 5,
    "u": "g",
-   "k": "",
+   "k": "yeast",
    "role": "leaven"
   },
   {
@@ -45,19 +45,19 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 200,
    "u": "g",
-   "k": "molasses",
+   "k": "goldensyrup",
    "role": "structure"
   },
   {
@@ -75,7 +75,7 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   }
  ],

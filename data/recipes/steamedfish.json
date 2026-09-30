@@ -15,7 +15,7 @@
   {
    "q": 40,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -39,7 +39,7 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
@@ -51,7 +51,7 @@
   {
    "q": 15,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -63,7 +63,7 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

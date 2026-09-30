@@ -9,13 +9,13 @@
   {
    "q": 400,
    "u": "g",
-   "k": "noodles",
+   "k": "eggnoodles",
    "role": "structure"
   },
   {
    "q": 800,
    "u": "g",
-   "k": "",
+   "k": "chicken",
    "role": "protein"
   },
   {
@@ -27,19 +27,19 @@
   {
    "q": 4,
    "u": "tbsp",
-   "k": "chilli",
+   "k": "currypaste",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "currypowder",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
@@ -63,25 +63,25 @@
   {
    "q": 100,
    "u": "g",
-   "k": "mustard",
+   "k": "pickledmustardgreens",
    "role": "garnish"
   },
   {
    "q": 2,
    "u": "",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
    "q": 500,
    "u": "ml",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
    "q": 20,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   }
  ],

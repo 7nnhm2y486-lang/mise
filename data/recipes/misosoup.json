@@ -9,7 +9,7 @@
   {
    "q": 10,
    "u": "g",
-   "k": "",
+   "k": "seaweed",
    "role": "umami"
   },
   {
@@ -21,7 +21,7 @@
   {
    "q": 1,
    "u": "l",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
@@ -39,7 +39,7 @@
   {
    "q": 5,
    "u": "g",
-   "k": "",
+   "k": "seaweed",
    "role": "structure"
   },
   {

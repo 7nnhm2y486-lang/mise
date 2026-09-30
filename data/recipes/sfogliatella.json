@@ -16,7 +16,7 @@
   {
    "q": 180,
    "u": "ml",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
@@ -28,7 +28,7 @@
   {
    "q": 10,
    "u": "g",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
@@ -70,13 +70,13 @@
   {
    "q": 80,
    "u": "g",
-   "k": "sugar",
+   "k": "candiedfruit",
    "role": "structure"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {

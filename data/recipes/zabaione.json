@@ -21,25 +21,25 @@
   {
    "q": 120,
    "u": "ml",
-   "k": "",
+   "k": "wine",
    "role": "liquid"
   },
   {
    "q": 1,
    "u": "pinch",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 0.5,
    "u": "",
-   "k": "",
+   "k": "citrus",
    "role": "aromatic"
   },
   {
    "q": 8,
    "u": "",
-   "k": "apflour",
+   "k": "ladyfingers",
    "role": "structure"
   }
  ],

@@ -33,19 +33,19 @@
   {
    "q": 100,
    "u": "g",
-   "k": "",
+   "k": "olives",
    "role": "salt"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "capers",
    "role": "salt"
   },
   {
    "q": 80,
    "u": "ml",
-   "k": "",
+   "k": "winevinegar",
    "role": "acid"
   },
   {
@@ -63,25 +63,25 @@
   {
    "q": 50,
    "u": "g",
-   "k": "",
+   "k": "driedfruit",
    "role": "structure"
   },
   {
    "q": 20,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 150,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

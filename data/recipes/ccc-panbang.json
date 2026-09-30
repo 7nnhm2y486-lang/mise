@@ -35,7 +35,7 @@
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "vanilla",
    "role": "aromatic"
   },
   {
@@ -47,25 +47,25 @@
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "bakingsoda",
    "role": "leaven"
   },
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "bakingpowder",
    "role": "leaven"
   },
   {
    "q": 0.75,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {

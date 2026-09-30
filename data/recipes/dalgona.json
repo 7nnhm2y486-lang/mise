@@ -10,7 +10,7 @@
   {
    "q": 4,
    "u": "tbsp",
-   "k": "",
+   "k": "coffee",
    "role": "aromatic"
   },
   {
@@ -22,7 +22,7 @@
   {
    "q": 4,
    "u": "tbsp",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
@@ -34,13 +34,13 @@
   {
    "q": 8,
    "u": "cube",
-   "k": "",
+   "k": "ice",
    "role": "structure"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "cocoa",
    "role": "garnish"
   }
  ],

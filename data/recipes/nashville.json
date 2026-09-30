@@ -10,7 +10,7 @@
   {
    "q": 1,
    "u": "kg",
-   "k": "",
+   "k": "chicken",
    "role": "protein"
   },
   {
@@ -22,7 +22,7 @@
   {
    "q": 60,
    "u": "ml",
-   "k": "chilli",
+   "k": "hotsauce",
    "role": "acid"
   },
   {
@@ -70,7 +70,7 @@
   {
    "q": 2,
    "u": "l",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
@@ -82,13 +82,13 @@
   {
    "q": 100,
    "u": "g",
-   "k": "",
+   "k": "pickles",
    "role": "acid"
   },
   {
    "q": 25,
    "u": "g",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

@@ -46,19 +46,19 @@
   {
    "q": 50,
    "u": "ml",
-   "k": "",
+   "k": "spirit",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "vanillabean",
    "role": "aromatic"
   },
   {
    "q": 30,
    "u": "g",
-   "k": "",
+   "k": "beeswax",
    "role": "fat"
   }
  ],

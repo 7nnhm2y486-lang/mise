@@ -39,19 +39,19 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "spirit",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "pinch",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   },
   {

@@ -22,19 +22,19 @@
   {
    "q": 125,
    "u": "ml",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
    "q": 5,
    "u": "g",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   }
  ],

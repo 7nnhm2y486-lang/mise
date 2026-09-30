@@ -10,7 +10,7 @@
   {
    "q": 1.2,
    "u": "kg",
-   "k": "",
+   "k": "pork",
    "role": "protein"
   },
   {
@@ -40,13 +40,13 @@
   {
    "q": 3,
    "u": "tbsp",
-   "k": "sugar",
+   "k": "maltose",
    "role": "caramel"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
@@ -58,7 +58,7 @@
   {
    "q": 2,
    "u": "cube",
-   "k": "soysauce",
+   "k": "fermentedtofu",
    "role": "umami"
   },
   {
@@ -70,7 +70,7 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

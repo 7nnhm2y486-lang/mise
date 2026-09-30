@@ -34,7 +34,7 @@
   {
    "q": 350,
    "u": "g",
-   "k": "",
+   "k": "cookedwheat",
    "role": "structure"
   },
   {
@@ -64,25 +64,25 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "flowerwater",
    "role": "aromatic"
   },
   {
    "q": 120,
    "u": "g",
-   "k": "sugar",
+   "k": "candiedfruit",
    "role": "structure"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "citrus",
    "role": "aromatic"
   }
  ],

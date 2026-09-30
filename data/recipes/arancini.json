@@ -9,13 +9,13 @@
   {
    "q": 800,
    "u": "g",
-   "k": "",
+   "k": "risotto",
    "role": "structure"
   },
   {
    "q": 200,
    "u": "g",
-   "k": "tomato",
+   "k": "ragu",
    "role": "protein"
   },
   {
@@ -27,7 +27,7 @@
   {
    "q": 80,
    "u": "g",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
@@ -57,13 +57,13 @@
   {
    "q": 1.5,
    "u": "l",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

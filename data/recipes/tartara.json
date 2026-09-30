@@ -15,13 +15,13 @@
   {
    "q": 100,
    "u": "g",
-   "k": "",
+   "k": "pickles",
    "role": "acid"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "capers",
    "role": "salt"
   },
   {
@@ -33,13 +33,13 @@
   {
    "q": 20,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 8,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -51,7 +51,7 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
@@ -63,13 +63,13 @@
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

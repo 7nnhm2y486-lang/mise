@@ -9,7 +9,7 @@
   {
    "q": 4,
    "u": "",
-   "k": "",
+   "k": "pork",
    "role": "protein"
   },
   {
@@ -39,19 +39,19 @@
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

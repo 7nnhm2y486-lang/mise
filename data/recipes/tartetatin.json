@@ -10,7 +10,7 @@
   {
    "q": 1.4,
    "u": "kg",
-   "k": "",
+   "k": "fruit",
    "role": "structure"
   },
   {
@@ -34,19 +34,19 @@
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "vanillabean",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "pinch",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

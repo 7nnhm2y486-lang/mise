@@ -10,7 +10,7 @@
   {
    "q": 500,
    "u": "g",
-   "k": "",
+   "k": "fruit",
    "role": "structure"
   },
   {
@@ -22,19 +22,19 @@
   {
    "q": 150,
    "u": "ml",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
    "q": 8,
    "u": "",
-   "k": "",
+   "k": "skewer",
    "role": "structure"
   }
  ],

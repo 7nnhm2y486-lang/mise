@@ -46,19 +46,19 @@
   {
    "q": 8,
    "u": "g",
-   "k": "",
+   "k": "yeast",
    "role": "leaven"
   },
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "citrus",
    "role": "aromatic"
   },
   {
    "q": 7,
    "u": "g",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
@@ -76,7 +76,7 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "vanilla",
    "role": "aromatic"
   }
  ],

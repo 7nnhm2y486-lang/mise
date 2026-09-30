@@ -15,13 +15,13 @@
   {
    "q": 100,
    "u": "ml",
-   "k": "",
+   "k": "cidervinegar",
    "role": "acid"
   },
   {
    "q": 2,
    "u": "tbsp",
-   "k": "mustard",
+   "k": "horseradish",
    "role": "aromatic"
   },
   {
@@ -33,7 +33,7 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
@@ -57,13 +57,13 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

@@ -9,7 +9,7 @@
   {
    "q": 600,
    "u": "g",
-   "k": "",
+   "k": "beef",
    "role": "protein"
   },
   {
@@ -51,37 +51,37 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "winevinegar",
    "role": "acid"
   },
   {
    "q": 20,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
    "q": 400,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

@@ -10,7 +10,7 @@
   {
    "q": 1,
    "u": "batch",
-   "k": "apflour",
+   "k": "choux",
    "role": "structure"
   },
   {
@@ -40,7 +40,7 @@
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "vanillabean",
    "role": "aromatic"
   },
   {

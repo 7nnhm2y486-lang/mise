@@ -10,13 +10,13 @@
   {
    "q": 4,
    "u": "",
-   "k": "apflour",
+   "k": "croissant",
    "role": "structure"
   },
   {
    "q": 200,
    "u": "g",
-   "k": "chocolatechips",
+   "k": "cookiedough",
    "role": "structure"
   },
   {
@@ -34,7 +34,7 @@
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

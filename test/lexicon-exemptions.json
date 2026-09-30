@@ -1,0 +1,21 @@
+{
+ "_about": "Reviewed false positives of the allergen word check. Key: '<where>|<allergen>|<text>'. Each needs a reason.",
+ "sub-note|treenut|aceite de oliva suave": "Note describes ghee's nutty flavour; no nuts.",
+ "sub-note|fish|puré de papa cocida (2 cda)": "Note mentions fish cakes as a dish; no fish.",
+ "sub-note|celery|sorgo perlado o arroz integral de grano corto": "Note refers to the dish's own broth.",
+ "sub-note|milk|palmitos": "Note refers to a cream sauce or roll the swap goes into.",
+ "sub-note|alcohol|verjus etiquetado sin sulfitos añadidos": "Verjuice is unfermented; the note talks about wine.",
+ "sub-note|honey|jarabe de alulosa o de monk fruit": "Note describes honey, the ingredient being replaced.",
+ "sub-note|egg|eritritol": "'clara' is used as an adjective (clear).",
+ "sub-note|milk|eritritol granulado o mezcla cristalina": "Note refers to the recipe's own butter.",
+ "sub-note|wheat|sustituto de azúcar morena (alulosa con saborizante de melaza)": "'galleta' refers to the cookie being made.",
+ "sub-note|celery|pata o alas de pollo": "Note refers to the dish's own broth.",
+ "ing|milk|manteca o mantequilla": "Either lard or butter; each is keyed on its own when chosen. Lard (pork) is the default.",
+ "ing|wheat|mezcla de harina sin gluten": "Gluten-free blend; wheat is not in it.",
+ "ing|sugar|sustituto de azúcar morena": "Sugar substitute, not sugar.",
+ "ing|sugar|chocolate negro sin azúcar": "Unsweetened chocolate.",
+ "ing|celery|caldo de anchoa": "Homemade anchovy broth made in the recipe; no celery.",
+ "ing|mollusc|setas ostra": "Oyster mushrooms, not oysters.",
+ "ing|pork|caldo de pollo o cerdo": "Chicken or pork stock; chicken stock is fine for pork-free diets.",
+ "ing|sulphite|vinagre blanco": "Distilled white vinegar has no sulphites (corn is flagged instead)."
+}

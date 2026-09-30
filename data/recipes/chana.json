@@ -9,7 +9,7 @@
   {
    "q": 2,
    "u": "can",
-   "k": "",
+   "k": "legume",
    "role": "protein"
   },
   {
@@ -27,7 +27,7 @@
   {
    "q": 25,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -39,31 +39,31 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "acid"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "spiceblend",
    "role": "aromatic"
   },
   {
@@ -81,13 +81,13 @@
   {
    "q": 20,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

@@ -9,7 +9,7 @@
   {
    "q": 1.5,
    "u": "kg",
-   "k": "",
+   "k": "beef",
    "role": "protein"
   },
   {
@@ -27,7 +27,7 @@
   {
    "q": 2,
    "u": "",
-   "k": "",
+   "k": "veg",
    "role": "aromatic"
   },
   {
@@ -45,25 +45,25 @@
   {
    "q": 1,
    "u": "sprig",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 3,
    "u": "",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 3,
    "u": "",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 2,
    "u": "sprig",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -75,7 +75,7 @@
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
@@ -87,7 +87,7 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

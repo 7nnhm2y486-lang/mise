@@ -27,13 +27,13 @@
   {
    "q": 25,
    "u": "g",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 120,
    "u": "ml",
-   "k": "",
+   "k": "whitevinegar",
    "role": "acid"
   }
  ],

@@ -21,13 +21,13 @@
   {
    "q": 180,
    "u": "ml",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
    "q": 60,
    "u": "ml",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
@@ -45,7 +45,7 @@
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "veg",
    "role": "garnish"
   }
  ],

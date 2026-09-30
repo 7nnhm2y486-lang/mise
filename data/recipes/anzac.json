@@ -10,7 +10,7 @@
   {
    "q": 100,
    "u": "g",
-   "k": "",
+   "k": "oats",
    "role": "structure"
   },
   {
@@ -40,25 +40,25 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "molasses",
+   "k": "goldensyrup",
    "role": "sweet"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "bakingsoda",
    "role": "leaven"
   },
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

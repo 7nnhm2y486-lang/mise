@@ -9,7 +9,7 @@
   {
    "q": 2,
    "u": "",
-   "k": "",
+   "k": "pork",
    "role": "protein"
   },
   {
@@ -33,31 +33,31 @@
   {
    "q": 1,
    "u": "l",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
    "q": 300,
    "u": "g",
-   "k": "",
+   "k": "veg",
    "role": "garnish"
   },
   {
    "q": 4,
    "u": "tbsp",
-   "k": "",
+   "k": "tonkatsu",
    "role": "sauce"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

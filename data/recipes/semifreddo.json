@@ -21,7 +21,7 @@
   {
    "q": 50,
    "u": "ml",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
@@ -39,7 +39,7 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "vanilla",
    "role": "aromatic"
   },
   {
@@ -57,7 +57,7 @@
   {
    "q": 1,
    "u": "pinch",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

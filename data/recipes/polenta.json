@@ -15,7 +15,7 @@
   {
    "q": 1.4,
    "u": "l",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   },
   {
@@ -33,13 +33,13 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 1,
    "u": "sprig",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   }
  ],

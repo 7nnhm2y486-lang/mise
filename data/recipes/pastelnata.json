@@ -34,7 +34,7 @@
   {
    "q": 100,
    "u": "ml",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
@@ -52,19 +52,19 @@
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "strip",
-   "k": "",
+   "k": "citrus",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "vanilla",
    "role": "aromatic"
   }
  ],

@@ -10,13 +10,13 @@
   {
    "q": 400,
    "u": "g",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
    "q": 2,
    "u": "",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
@@ -28,19 +28,19 @@
   {
    "q": 40,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 30,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 50,
    "u": "g",
-   "k": "",
+   "k": "veg",
    "role": "aromatic"
   },
   {
@@ -58,31 +58,31 @@
   {
    "q": 60,
    "u": "ml",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "nutyeast",
    "role": "umami"
   },
   {
    "q": 60,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 80,
    "u": "ml",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

@@ -21,7 +21,7 @@
   {
    "q": 1,
    "u": "",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
@@ -33,19 +33,19 @@
   {
    "q": 30,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 90,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "winevinegar",
    "role": "acid"
   },
   {
@@ -57,7 +57,7 @@
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

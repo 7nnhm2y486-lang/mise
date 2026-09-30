@@ -21,19 +21,19 @@
   {
    "q": 120,
    "u": "ml",
-   "k": "",
+   "k": "yuzu",
    "role": "acid"
   },
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "ricevinegar",
    "role": "acid"
   },
   {
    "q": 10,
    "u": "g",
-   "k": "",
+   "k": "seaweed",
    "role": "umami"
   },
   {

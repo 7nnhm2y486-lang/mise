@@ -9,13 +9,13 @@
   {
    "q": 200,
    "u": "g",
-   "k": "",
+   "k": "legume",
    "role": "protein"
   },
   {
    "q": 250,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
@@ -27,7 +27,7 @@
   {
    "q": 240,
    "u": "g",
-   "k": "",
+   "k": "legume",
    "role": "protein"
   },
   {
@@ -51,13 +51,13 @@
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "whitevinegar",
    "role": "acid"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
@@ -69,13 +69,13 @@
   {
    "q": 200,
    "u": "ml",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

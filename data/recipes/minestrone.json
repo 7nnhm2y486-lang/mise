@@ -15,7 +15,7 @@
   {
    "q": 2,
    "u": "",
-   "k": "",
+   "k": "veg",
    "role": "aromatic"
   },
   {
@@ -33,25 +33,25 @@
   {
    "q": 2,
    "u": "",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
    "q": 150,
    "u": "g",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
    "q": 250,
    "u": "g",
-   "k": "",
+   "k": "legume",
    "role": "protein"
   },
   {
    "q": 150,
    "u": "g",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
@@ -75,19 +75,19 @@
   {
    "q": 80,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 30,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

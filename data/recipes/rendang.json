@@ -9,7 +9,7 @@
   {
    "q": 1.2,
    "u": "kg",
-   "k": "",
+   "k": "beef",
    "role": "protein"
   },
   {
@@ -39,31 +39,31 @@
   {
    "q": 50,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 30,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 4,
    "u": "stalk",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 20,
    "u": "g",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 6,
    "u": "",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -75,7 +75,7 @@
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "tamarind",
    "role": "acid"
   },
   {
@@ -87,7 +87,7 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

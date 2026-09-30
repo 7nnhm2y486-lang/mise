@@ -9,7 +9,7 @@
   {
    "q": 400,
    "u": "g",
-   "k": "",
+   "k": "legume",
    "role": "protein"
   },
   {
@@ -27,7 +27,7 @@
   {
    "q": 2,
    "u": "sprig",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -45,7 +45,7 @@
   {
    "q": 70,
    "u": "ml",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
@@ -57,13 +57,13 @@
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

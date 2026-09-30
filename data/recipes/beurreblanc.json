@@ -15,7 +15,7 @@
   {
    "q": 60,
    "u": "ml",
-   "k": "",
+   "k": "winevinegar",
    "role": "acid"
   },
   {
@@ -39,13 +39,13 @@
   {
    "q": 0.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 1,
    "u": "pinch",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

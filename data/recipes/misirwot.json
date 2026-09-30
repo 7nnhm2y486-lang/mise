@@ -9,7 +9,7 @@
   {
    "q": 300,
    "u": "g",
-   "k": "",
+   "k": "legume",
    "role": "protein"
   },
   {
@@ -21,7 +21,7 @@
   {
    "q": 3,
    "u": "tbsp",
-   "k": "chilli",
+   "k": "chilliblend",
    "role": "aromatic"
   },
   {
@@ -39,7 +39,7 @@
   {
    "q": 20,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -51,14 +51,20 @@
   {
    "q": 900,
    "u": "ml",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
+  },
+  {
+   "q": null,
+   "u": "",
+   "k": "injera",
+   "role": "serve"
   }
  ],
  "es": {
@@ -93,6 +99,10 @@
    },
    {
     "n": "sal"
+   },
+   {
+    "n": "injera",
+    "note": "para servir"
    }
   ],
   "steps": [
@@ -141,6 +151,10 @@
    },
    {
     "n": "salt"
+   },
+   {
+    "n": "injera",
+    "note": "to serve"
    }
   ],
   "steps": [

@@ -11,13 +11,13 @@
   {
    "q": 300,
    "u": "g",
-   "k": "apflour",
+   "k": "gfflour",
    "role": "structure"
   },
   {
    "q": 1.5,
    "u": "g",
-   "k": "",
+   "k": "xanthan",
    "role": "binder"
   },
   {
@@ -53,13 +53,13 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "bakingsoda",
    "role": "leaven"
   },
   {
    "q": 1.25,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
@@ -71,7 +71,7 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "vanilla",
    "role": "aromatic"
   }
  ],

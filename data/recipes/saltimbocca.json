@@ -9,7 +9,7 @@
   {
    "q": 8,
    "u": "",
-   "k": "",
+   "k": "veal",
    "role": "protein"
   },
   {
@@ -21,7 +21,7 @@
   {
    "q": 16,
    "u": "leaf",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -45,13 +45,13 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "oliveoil",
    "role": "fat"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

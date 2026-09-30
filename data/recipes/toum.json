@@ -15,25 +15,25 @@
   {
    "q": 600,
    "u": "ml",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
    "q": 80,
    "u": "ml",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

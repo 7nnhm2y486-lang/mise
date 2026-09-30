@@ -9,7 +9,7 @@
   {
    "q": 300,
    "u": "g",
-   "k": "",
+   "k": "chicken",
    "role": "protein"
   },
   {
@@ -57,7 +57,7 @@
   {
    "q": 400,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
@@ -69,7 +69,7 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "chilli",
+   "k": "shichimi",
    "role": "garnish"
   }
  ],

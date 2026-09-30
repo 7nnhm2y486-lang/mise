@@ -15,7 +15,7 @@
   {
    "q": 120,
    "u": "g",
-   "k": "",
+   "k": "porkbelly",
    "role": "protein"
   },
   {
@@ -45,7 +45,7 @@
   {
    "q": 100,
    "u": "g",
-   "k": "chilli",
+   "k": "kimchi",
    "role": "aromatic"
   },
   {

@@ -9,7 +9,7 @@
   {
    "q": 4,
    "u": "",
-   "k": "",
+   "k": "veg",
    "role": "structure"
   },
   {
@@ -27,7 +27,7 @@
   {
    "q": 30,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -39,13 +39,13 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

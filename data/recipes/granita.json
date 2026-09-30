@@ -9,7 +9,7 @@
   {
    "q": 700,
    "u": "ml",
-   "k": "",
+   "k": "coffee",
    "role": "liquid"
   },
   {
@@ -21,13 +21,13 @@
   {
    "q": 100,
    "u": "ml",
-   "k": "",
+   "k": "water",
    "role": "liquid"
   },
   {
    "q": 1,
    "u": "pinch",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
@@ -39,7 +39,7 @@
   {
    "q": 6,
    "u": "",
-   "k": "bread",
+   "k": "enrichedbread",
    "role": "structure"
   }
  ],

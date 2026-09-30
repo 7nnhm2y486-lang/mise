@@ -15,25 +15,25 @@
   {
    "q": 200,
    "u": "g",
-   "k": "",
+   "k": "porkmince",
    "role": "protein"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "pickledmustardgreens",
    "role": "umami"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "tahini",
+   "k": "chinesesesamepaste",
    "role": "fat"
   },
   {
    "q": 4,
    "u": "tbsp",
-   "k": "chilli",
+   "k": "chilioil",
    "role": "fat"
   },
   {
@@ -45,13 +45,13 @@
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "chinkiang",
    "role": "acid"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   },
   {
@@ -81,7 +81,7 @@
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   }
  ],

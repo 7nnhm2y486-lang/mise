@@ -9,7 +9,7 @@
   {
    "q": 800,
    "u": "g",
-   "k": "",
+   "k": "chicken",
    "role": "protein"
   },
   {
@@ -21,7 +21,7 @@
   {
    "q": 3,
    "u": "tbsp",
-   "k": "garlic",
+   "k": "gingergarlic",
    "role": "aromatic"
   },
   {
@@ -33,13 +33,13 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "spiceblend",
    "role": "aromatic"
   },
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
@@ -69,7 +69,7 @@
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
@@ -81,7 +81,7 @@
   {
    "q": 2,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],

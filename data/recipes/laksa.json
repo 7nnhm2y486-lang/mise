@@ -9,7 +9,7 @@
   {
    "q": 400,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
@@ -21,7 +21,7 @@
   {
    "q": 400,
    "u": "g",
-   "k": "",
+   "k": "chicken",
    "role": "protein"
   },
   {
@@ -33,7 +33,7 @@
   {
    "q": 800,
    "u": "ml",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   },
   {
@@ -57,13 +57,13 @@
   {
    "q": 3,
    "u": "stalk",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 30,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -75,7 +75,7 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
@@ -93,25 +93,25 @@
   {
    "q": 150,
    "u": "g",
-   "k": "",
+   "k": "legume",
    "role": "structure"
   },
   {
    "q": 20,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 90,
    "u": "ml",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   }
  ],
@@ -164,7 +164,7 @@
     "n": "tofu frito"
    },
    {
-    "n": "germinado de soja"
+    "n": "germinado de frijol mungo"
    },
    {
     "n": "hojas de laksa"
@@ -240,7 +240,7 @@
     "n": "fried tofu puffs"
    },
    {
-    "n": "bean sprouts"
+    "n": "mung bean sprouts"
    },
    {
     "n": "laksa leaves"

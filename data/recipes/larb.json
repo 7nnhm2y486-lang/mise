@@ -9,19 +9,19 @@
   {
    "q": 500,
    "u": "g",
-   "k": "",
+   "k": "chicken",
    "role": "protein"
   },
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "rice",
    "role": "crunch"
   },
   {
    "q": 60,
    "u": "ml",
-   "k": "",
+   "k": "citrus",
    "role": "acid"
   },
   {
@@ -45,13 +45,13 @@
   {
    "q": 30,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 20,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -69,13 +69,13 @@
   {
    "q": 1,
    "u": "plate",
-   "k": "",
+   "k": "herb",
    "role": "garnish"
   },
   {
    "q": 60,
    "u": "ml",
-   "k": "",
+   "k": "stock",
    "role": "liquid"
   }
  ],

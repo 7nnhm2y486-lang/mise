@@ -10,13 +10,13 @@
   {
    "q": 600,
    "u": "g",
-   "k": "",
+   "k": "beef",
    "role": "protein"
   },
   {
    "q": 4,
    "u": "",
-   "k": "bread",
+   "k": "enrichedbread",
    "role": "structure"
   },
   {
@@ -34,7 +34,7 @@
   {
    "q": 60,
    "u": "g",
-   "k": "",
+   "k": "pickles",
    "role": "acid"
   },
   {
@@ -46,7 +46,7 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "tomato",
+   "k": "ketchup",
    "role": "sauce"
   },
   {
@@ -64,13 +64,13 @@
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

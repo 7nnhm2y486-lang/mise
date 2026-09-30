@@ -9,7 +9,7 @@
   {
    "q": 80,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
@@ -33,13 +33,13 @@
   {
    "q": 6,
    "u": "pod",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "pinch",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
@@ -57,13 +57,13 @@
   {
    "q": 30,
    "u": "g",
-   "k": "",
+   "k": "driedfruit",
    "role": "structure"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "flowerwater",
    "role": "aromatic"
   }
  ],

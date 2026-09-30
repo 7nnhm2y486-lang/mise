@@ -9,7 +9,7 @@
   {
    "q": 500,
    "u": "g",
-   "k": "tomato",
+   "k": "ketchup",
    "role": "liquid"
   },
   {
@@ -27,7 +27,7 @@
   {
    "q": 120,
    "u": "ml",
-   "k": "",
+   "k": "cidervinegar",
    "role": "acid"
   },
   {
@@ -39,7 +39,7 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "anchovy",
+   "k": "worcestershire",
    "role": "umami"
   },
   {
@@ -75,13 +75,13 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   }
  ],

@@ -9,7 +9,7 @@
   {
    "q": 300,
    "u": "g",
-   "k": "",
+   "k": "rice",
    "role": "structure"
   },
   {
@@ -27,13 +27,13 @@
   {
    "q": 1,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 2,
    "u": "",
-   "k": "",
+   "k": "fruit",
    "role": "structure"
   },
   {
@@ -51,7 +51,7 @@
   {
    "q": 2,
    "u": "tbsp",
-   "k": "",
+   "k": "legume",
    "role": "crunch"
   }
  ],

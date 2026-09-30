@@ -9,7 +9,7 @@
   {
    "q": 900,
    "u": "g",
-   "k": "",
+   "k": "beef",
    "role": "protein"
   },
   {
@@ -21,7 +21,7 @@
   {
    "q": 5,
    "u": "tbsp",
-   "k": "chilli",
+   "k": "currypaste",
    "role": "aromatic"
   },
   {
@@ -45,7 +45,7 @@
   {
    "q": 3,
    "u": "tbsp",
-   "k": "",
+   "k": "tamarind",
    "role": "acid"
   },
   {
@@ -63,25 +63,25 @@
   {
    "q": 1,
    "u": "sprig",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 5,
    "u": "pod",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 3,
    "u": "",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
    "q": 2,
    "u": "",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   }
  ],

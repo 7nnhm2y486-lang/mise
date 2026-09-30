@@ -10,7 +10,7 @@
   {
    "q": 500,
    "u": "ml",
-   "k": "",
+   "k": "oil",
    "role": "fat"
   },
   {
@@ -28,7 +28,7 @@
   {
    "q": 40,
    "u": "g",
-   "k": "",
+   "k": "herb",
    "role": "aromatic"
   },
   {
@@ -40,19 +40,19 @@
   {
    "q": 1,
    "u": "tbsp",
-   "k": "",
+   "k": "pepper",
    "role": "aromatic"
   },
   {
    "q": 2,
    "u": "",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
    "q": 1,
    "u": "sprig",
-   "k": "",
+   "k": "spice",
    "role": "aromatic"
   },
   {
@@ -76,13 +76,13 @@
   {
    "q": 1.5,
    "u": "tsp",
-   "k": "",
+   "k": "salt",
    "role": "salt"
   },
   {
    "q": 10,
    "u": "g",
-   "k": "",
+   "k": "mushroom",
    "role": "umami"
   }
  ],
