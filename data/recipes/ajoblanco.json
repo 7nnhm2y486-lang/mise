@@ -1,0 +1,143 @@
+{
+ "id": "ajoblanco",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "almond",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "bread",
+   "role": "thicken"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "winevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "fruit",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Ajoblanco",
+  "blurb": "Sopa fría de almendra, ajo y aceite de oliva, servida con uvas. La prima blanca del gazpacho, de Málaga.",
+  "ing": [
+   {
+    "n": "almendras crudas peladas"
+   },
+   {
+    "n": "miga de pan del día anterior"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "aceite de oliva virgen extra"
+   },
+   {
+    "n": "vinagre de Jerez"
+   },
+   {
+    "n": "agua muy fría"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "uvas blancas"
+   }
+  ],
+  "steps": [
+   "Remoja el pan en un poco del agua 5 minutos.",
+   "Tritura las almendras, el ajo, el pan y la sal con la mitad del agua hasta que esté muy fino.",
+   "Añade el aceite en hilo sin dejar de triturar, y luego el vinagre.",
+   "Añade el resto del agua y refrigera 2 horas.",
+   "Sirve muy frío con las uvas."
+  ],
+  "tips": [
+   "Cuélalo si quieres una textura más sedosa.",
+   "Usa medio diente de ajo si lo quieres más suave."
+  ],
+  "video": "ajoblanco malagueño"
+ },
+ "en": {
+  "name": "Ajoblanco (Chilled Almond Garlic Soup)",
+  "blurb": "A cold soup of almonds, garlic and olive oil, served with grapes. Gazpacho's white cousin, from Málaga.",
+  "ing": [
+   {
+    "n": "blanched almonds"
+   },
+   {
+    "n": "day-old bread, crusts off"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "extra virgin olive oil"
+   },
+   {
+    "n": "sherry vinegar"
+   },
+   {
+    "n": "ice-cold water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "white grapes"
+   }
+  ],
+  "steps": [
+   "Soak the bread in a little of the water for 5 minutes.",
+   "Blend the almonds, garlic, bread and salt with half the water until very smooth.",
+   "Pour in the oil in a thin stream while blending, then the vinegar.",
+   "Add the rest of the water and chill 2 hours.",
+   "Serve very cold with the grapes."
+  ],
+  "tips": [
+   "Strain it for a silkier texture.",
+   "Use half a garlic clove for a milder soup."
+  ],
+  "video": "spanish ajoblanco"
+ },
+ "added": "2026-09-30"
+}

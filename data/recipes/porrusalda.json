@@ -1,0 +1,137 @@
+{
+ "id": "porrusalda",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "leek",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Porrusalda",
+  "blurb": "Sopa vasca humilde de puerro, patata y zanahoria. Consuelo de invierno en Euskadi.",
+  "ing": [
+   {
+    "n": "puerros",
+    "note": "en rodajas"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "ajo",
+    "note": "laminado"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en rodajas"
+   },
+   {
+    "n": "patatas",
+    "note": "chascadas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe el ajo en el aceite 1 minuto. Añade el puerro y cocina 8 minutos a fuego bajo.",
+   "Añade la zanahoria y la patata y remueve 2 minutos.",
+   "Añade el agua y la sal y cuece 25 minutos, hasta que la patata esté tierna.",
+   "Deja reposar 5 minutos antes de servir."
+  ],
+  "tips": [
+   "Chascar la patata, rompiéndola con el cuchillo, suelta almidón y espesa el caldo.",
+   "Con un buen aceite de oliva no necesita nada más."
+  ],
+  "video": "porrusalda vasca"
+ },
+ "en": {
+  "name": "Porrusalda (Basque Leek and Potato Soup)",
+  "blurb": "A humble Basque soup of leek, potato and carrot. Winter comfort in the Basque Country.",
+  "ing": [
+   {
+    "n": "leeks",
+    "note": "sliced"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "garlic",
+    "note": "sliced"
+   },
+   {
+    "n": "carrots",
+    "note": "sliced"
+   },
+   {
+    "n": "potatoes",
+    "note": "broken into chunks"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Fry the garlic in the oil for 1 minute. Add the leek and cook 8 minutes on low.",
+   "Add the carrot and potato and stir 2 minutes.",
+   "Add the water and salt and simmer 25 minutes, until the potato is tender.",
+   "Rest 5 minutes before serving."
+  ],
+  "tips": [
+   "Snapping the potato into chunks, rather than slicing, releases starch that thickens the broth.",
+   "With good olive oil it needs nothing else."
+  ],
+  "video": "basque porrusalda"
+ },
+ "added": "2026-09-30"
+}

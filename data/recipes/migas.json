@@ -1,0 +1,149 @@
+{
+ "id": "migas",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 6,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "pancetta",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Migas",
+  "blurb": "Pan del día anterior salteado despacio con ajo, chorizo y panceta. Comida de pastores de Extremadura y La Mancha.",
+  "ing": [
+   {
+    "n": "pan del día anterior",
+    "note": "en dados pequeños"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "ajo",
+    "note": "con piel, aplastados"
+   },
+   {
+    "n": "chorizo",
+    "note": "en rodajas"
+   },
+   {
+    "n": "panceta",
+    "note": "en dados"
+   },
+   {
+    "n": "pimentón dulce"
+   }
+  ],
+  "steps": [
+   "Humedece el pan con el agua y la sal, tapa con un paño y deja reposar toda la noche.",
+   "Fríe los ajos en el aceite 3 minutos. Añade el chorizo y la panceta y cocina 5 minutos. Sácalos.",
+   "Añade el pan y el pimentón al aceite y remueve sin parar a fuego medio 20 minutos, hasta que las migas estén sueltas y doradas.",
+   "Vuelve a poner el chorizo, la panceta y los ajos y mezcla."
+  ],
+  "tips": [
+   "Remueve y corta con la espumadera sin parar: es el secreto de unas buenas migas.",
+   "El pan debe estar húmedo pero no empapado."
+  ],
+  "video": "migas extremeñas"
+ },
+ "en": {
+  "name": "Migas (Spanish Fried Breadcrumbs)",
+  "blurb": "Day-old bread fried slowly with garlic, chorizo and pancetta. Shepherds' food from Extremadura and La Mancha.",
+  "ing": [
+   {
+    "n": "day-old bread",
+    "note": "in small dice"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "garlic",
+    "note": "unpeeled, crushed"
+   },
+   {
+    "n": "chorizo",
+    "note": "sliced"
+   },
+   {
+    "n": "pancetta",
+    "note": "diced"
+   },
+   {
+    "n": "sweet paprika"
+   }
+  ],
+  "steps": [
+   "Dampen the bread with the water and salt, cover with a cloth and leave overnight.",
+   "Fry the garlic in the oil for 3 minutes. Add the chorizo and pancetta and cook 5 minutes. Lift out.",
+   "Add the bread and paprika to the oil and stir constantly over medium heat for 20 minutes, until loose and golden.",
+   "Return the chorizo, pancetta and garlic and mix."
+  ],
+  "tips": [
+   "Keep stirring and chopping with the spatula: that's the secret to good migas.",
+   "The bread should be damp, not soaked."
+  ],
+  "video": "spanish migas"
+ },
+ "added": "2026-09-30"
+}

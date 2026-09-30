@@ -1,0 +1,133 @@
+{
+ "id": "acorda-alentejana",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1.2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Açorda alentejana",
+  "blurb": "Sopa de pan con ajo, cilantro y aceite de oliva, con huevo escalfado. Cocina pobre y sabrosa del Alentejo.",
+  "ing": [
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "sal gruesa"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "agua hirviendo"
+   },
+   {
+    "n": "pan alentejano del día anterior",
+    "note": "en rebanadas"
+   },
+   {
+    "n": "huevos"
+   }
+  ],
+  "steps": [
+   "Machaca el ajo, el cilantro y la sal en un mortero hasta tener una pasta.",
+   "Pon la pasta en una sopera con el aceite.",
+   "Escalfa los huevos en el agua hirviendo 3 minutos. Sácalos.",
+   "Vierte el agua caliente sobre la pasta y añade el pan.",
+   "Sirve con un huevo en cada plato."
+  ],
+  "tips": [
+   "El pan debe ser denso y de varios días para que no se deshaga.",
+   "Machaca bien el cilantro: su aroma es el plato."
+  ],
+  "video": "açorda alentejana"
+ },
+ "en": {
+  "name": "Açorda Alentejana (Portuguese Bread Soup)",
+  "blurb": "Bread soup with garlic, coriander and olive oil, topped with a poached egg. The humble, tasty cooking of the Alentejo.",
+  "ing": [
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "coriander"
+   },
+   {
+    "n": "coarse salt"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "boiling water"
+   },
+   {
+    "n": "day-old country bread",
+    "note": "sliced"
+   },
+   {
+    "n": "eggs"
+   }
+  ],
+  "steps": [
+   "Pound the garlic, coriander and salt in a mortar to a paste.",
+   "Put the paste in a tureen with the oil.",
+   "Poach the eggs in the boiling water for 3 minutes. Lift out.",
+   "Pour the hot water over the paste and add the bread.",
+   "Serve with an egg in each bowl."
+  ],
+  "tips": [
+   "Use dense bread that's a few days old so it doesn't fall apart.",
+   "Pound the coriander well: its aroma is the dish."
+  ],
+  "video": "portuguese acorda alentejana"
+ },
+ "added": "2026-09-30"
+}

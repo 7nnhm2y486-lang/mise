@@ -87,6 +87,8 @@ put("creamofcoconut", ["coconut", "sugar"], [], T("La crema de coco para cóctel
 // Soft drinks (ginger ale, cola) are sweetened; many use corn syrup.
 put("softdrink", ["sugar"], ["corn"], T("Los refrescos llevan azúcar; muchos usan jarabe de maíz.", "Soft drinks contain sugar; many use corn syrup."), {
   sugar: [sub(1, [], [], ["agua con gas y jengibre rallado", "Menos dulce, con el mismo picor del jengibre."], ["sparkling water with grated ginger", "Less sweet, with the same ginger bite."])]});
+put("mariebiscuit", ["wheat","sugar"], ["milk","soy","egg"], T("Las galletas María llevan trigo y azúcar; algunas marcas llevan leche, soja o huevo: revisa la etiqueta.", "Marie biscuits contain wheat and sugar; some brands contain milk, soy or egg: check the label."), {
+  wheat: [sub(1, ["sugar"], ["milk","soy","egg"], ["galletas María sin gluten","Misma textura; revisa la etiqueta por leche o soja."], ["gluten-free Marie-style biscuits","Same texture; check the label for milk or soy."])]});
 // Refried beans: canned or restaurant ones are often made with lard, sometimes with cheese.
 put("refriedbeans", [], ["pork", "milk"], T("Los frijoles refritos de lata o de fonda suelen llevar manteca de cerdo; algunos llevan queso. Hazlos con aceite o revisa la etiqueta.", "Canned or restaurant refried beans are often made with lard; some contain cheese. Make them with oil or check the label."), {pork: [
   sub(1, [], [], ["frijoles refritos caseros con aceite", "Machaca frijoles cocidos y fríelos en aceite hasta que espesen."], ["homemade refried beans with oil", "Mash cooked beans and fry them in oil until thick."])]});

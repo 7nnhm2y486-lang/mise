@@ -1,0 +1,151 @@
+{
+ "id": "piperrada",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 5,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Piperrada",
+  "blurb": "Pimientos, cebolla y tomate pochados despacio, con huevos al final. Plato vasco de huerta.",
+  "ing": [
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebollas",
+    "note": "en tiras"
+   },
+   {
+    "n": "ajo",
+    "note": "laminado"
+   },
+   {
+    "n": "pimientos rojos",
+    "note": "en tiras"
+   },
+   {
+    "n": "pimientos verdes",
+    "note": "en tiras"
+   },
+   {
+    "n": "tomates maduros",
+    "note": "pelados y picados"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos"
+   }
+  ],
+  "steps": [
+   "Pocha la cebolla y el ajo en el aceite 10 minutos a fuego bajo.",
+   "Añade los pimientos y cocina 15 minutos, hasta que estén blandos.",
+   "Añade el tomate y la sal y cocina 10 minutos más.",
+   "Casca los huevos encima, tapa y cocina 4 minutos, hasta que cuajen las claras."
+  ],
+  "tips": [
+   "La clave es el fuego lento: los pimientos deben quedar melosos.",
+   "También se puede revolver los huevos con la verdura."
+  ],
+  "video": "piperrada vasca"
+ },
+ "en": {
+  "name": "Piperrada (Basque Peppers and Eggs)",
+  "blurb": "Peppers, onion and tomato stewed slowly, with eggs at the end. A Basque garden dish.",
+  "ing": [
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onions",
+    "note": "in strips"
+   },
+   {
+    "n": "garlic",
+    "note": "sliced"
+   },
+   {
+    "n": "red bell peppers",
+    "note": "in strips"
+   },
+   {
+    "n": "green bell peppers",
+    "note": "in strips"
+   },
+   {
+    "n": "ripe tomatoes",
+    "note": "peeled and chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "eggs"
+   }
+  ],
+  "steps": [
+   "Soften the onion and garlic in the oil for 10 minutes on low.",
+   "Add the peppers and cook 15 minutes, until soft.",
+   "Add the tomato and salt and cook 10 minutes more.",
+   "Crack the eggs on top, cover and cook 4 minutes, until the whites set."
+  ],
+  "tips": [
+   "Low heat is the key: the peppers should turn silky.",
+   "You can also scramble the eggs into the vegetables."
+  ],
+  "video": "basque piperrada"
+ },
+ "added": "2026-09-30"
+}

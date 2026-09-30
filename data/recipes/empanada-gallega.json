@@ -1,0 +1,211 @@
+{
+ "id": "empanada-gallega",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "pastry",
+ "time": 150,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "tuna",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "glaze"
+  }
+ ],
+ "es": {
+  "name": "Empanada gallega de atún",
+  "blurb": "Empanada grande de masa de pan rellena de sofrito de cebolla y pimiento con atún. Infaltable en las romerías gallegas.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "aceite de oliva (para la masa)"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebollas",
+    "note": "en tiras"
+   },
+   {
+    "n": "pimientos rojos",
+    "note": "en tiras"
+   },
+   {
+    "n": "tomate triturado"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "atún en aceite",
+    "note": "escurrido"
+   },
+   {
+    "n": "huevos duros",
+    "note": "picados"
+   },
+   {
+    "n": "huevo batido"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la levadura, la sal, el agua y el aceite de la masa. Amasa 8 minutos y deja levar 1 hora.",
+   "Pocha la cebolla y el pimiento en el aceite 20 minutos. Añade el tomate y el pimentón y cocina 10 minutos. Deja enfriar y mezcla con el atún y el huevo duro.",
+   "Divide la masa en dos, estira una parte y forra una bandeja de 30 x 40 cm.",
+   "Rellena, cubre con la otra parte y sella los bordes. Haz un agujero en el centro y pinta con el huevo batido.",
+   "Hornea a 190 °C 40 minutos, hasta que esté dorada."
+  ],
+  "tips": [
+   "Usa un poco del aceite del sofrito en la masa para darle sabor.",
+   "Está mejor templada que recién salida del horno."
+  ],
+  "video": "empanada gallega de atún"
+ },
+ "en": {
+  "name": "Empanada Gallega (Galician Tuna Pie)",
+  "blurb": "A large bread-dough pie filled with slow-cooked onion and pepper and tuna. A must at Galician village festivals.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "dried yeast"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "olive oil (for the dough)"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onions",
+    "note": "in strips"
+   },
+   {
+    "n": "red bell peppers",
+    "note": "in strips"
+   },
+   {
+    "n": "crushed tomatoes"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "tuna in oil",
+    "note": "drained"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "chopped"
+   },
+   {
+    "n": "beaten egg"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, salt, water and dough oil. Knead 8 minutes and rise 1 hour.",
+   "Soften the onion and pepper in the oil for 20 minutes. Add the tomato and paprika and cook 10 minutes. Cool and mix with the tuna and hard-boiled egg.",
+   "Split the dough in two, roll one half and line a 30 x 40 cm tray.",
+   "Fill, cover with the other half and seal the edges. Cut a hole in the centre and brush with the beaten egg.",
+   "Bake at 190 °C for 40 minutes, until golden."
+  ],
+  "tips": [
+   "Use a little oil from the filling in the dough for flavour.",
+   "It's better warm than straight from the oven."
+  ],
+  "video": "galician empanada tuna"
+ },
+ "added": "2026-09-30"
+}

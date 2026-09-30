@@ -1,0 +1,137 @@
+{
+ "id": "ameijoas-a-bulhao-pato",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "starter",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "clam",
+   "role": "protein"
+  },
+  {
+   "q": 5,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "pepper",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Almejas a Bulhão Pato",
+  "blurb": "Almejas abiertas en ajo, aceite de oliva, cilantro y limón. La tapa de marisco más querida de Lisboa.",
+  "ing": [
+   {
+    "n": "almejas",
+    "note": "purgadas"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "ajo",
+    "note": "laminado"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "limón"
+   },
+   {
+    "n": "pimienta"
+   }
+  ],
+  "steps": [
+   "Deja las almejas en agua con sal 1 hora para que suelten la arena.",
+   "Dora el ajo en el aceite 1 minuto.",
+   "Añade las almejas y el vino, tapa y cuece 4 minutos, hasta que se abran.",
+   "Añade el cilantro, la pimienta y el jugo del limón y mueve la cazuela.",
+   "Sirve de inmediato con su jugo."
+  ],
+  "tips": [
+   "Tira las almejas que no se abran.",
+   "No tires el jugo: es la mejor parte."
+  ],
+  "video": "amêijoas à bulhão pato"
+ },
+ "en": {
+  "name": "Clams Bulhão Pato",
+  "blurb": "Clams opened in garlic, olive oil, coriander and lemon. Lisbon's best-loved seafood petisco.",
+  "ing": [
+   {
+    "n": "clams",
+    "note": "purged"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "garlic",
+    "note": "sliced"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "lemon"
+   },
+   {
+    "n": "pepper"
+   }
+  ],
+  "steps": [
+   "Soak the clams in salted water for 1 hour so they release their sand.",
+   "Fry the garlic in the oil for 1 minute.",
+   "Add the clams and wine, cover and cook 4 minutes, until they open.",
+   "Add the coriander, pepper and lemon juice and shake the pan.",
+   "Serve at once with the juices."
+  ],
+  "tips": [
+   "Discard any clams that don't open.",
+   "Spoon up the juices: they're the best part."
+  ],
+  "video": "portuguese clams bulhao pato"
+ },
+ "added": "2026-09-30"
+}

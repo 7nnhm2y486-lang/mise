@@ -1,0 +1,159 @@
+{
+ "id": "merluza-en-salsa-verde",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "fillet",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "clam",
+   "role": "protein"
+  },
+  {
+   "q": 5,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Merluza en salsa verde",
+  "blurb": "Merluza con almejas en una salsa ligada de ajo y perejil. Un clásico de la cocina vasca.",
+  "ing": [
+   {
+    "n": "lomos de merluza"
+   },
+   {
+    "n": "almejas"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "ajo",
+    "note": "picado fino"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "perejil",
+    "note": "picado fino"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sala la merluza.",
+   "Sofríe el ajo en el aceite en una cazuela baja 1 minuto, sin dorar. Añade la harina y cocina 1 minuto.",
+   "Añade el vino y el agua poco a poco, removiendo.",
+   "Añade la merluza con la piel hacia arriba y las almejas. Mueve la cazuela en vaivén 5 minutos para ligar la salsa.",
+   "Da la vuelta a la merluza, añade el perejil y cocina 2 minutos más."
+  ],
+  "tips": [
+   "Mover la cazuela, no remover, liga la salsa con la gelatina del pescado.",
+   "Tira las almejas que no se abran."
+  ],
+  "video": "merluza en salsa verde"
+ },
+ "en": {
+  "name": "Hake in Green Sauce",
+  "blurb": "Hake with clams in a silky garlic and parsley sauce. A Basque classic.",
+  "ing": [
+   {
+    "n": "hake fillets"
+   },
+   {
+    "n": "clams"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "garlic",
+    "note": "finely chopped"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "parsley",
+    "note": "finely chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Salt the hake.",
+   "Fry the garlic in the oil in a wide shallow pan for 1 minute, without browning. Add the flour and cook 1 minute.",
+   "Add the wine and water gradually, stirring.",
+   "Add the hake skin side up and the clams. Swirl the pan back and forth for 5 minutes to bind the sauce.",
+   "Turn the hake, add the parsley and cook 2 minutes more."
+  ],
+  "tips": [
+   "Swirling the pan, not stirring, binds the sauce with the fish's gelatine.",
+   "Discard any clams that don't open."
+  ],
+  "video": "spanish hake green sauce"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,121 @@
+{
+ "id": "salame-de-chocolate",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 20,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "mariebiscuit",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "cocoa",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "eggyolk",
+   "role": "binder"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "icingsugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Salame de chocolate",
+  "blurb": "Rollo de chocolate y galleta que parece un salame al cortarlo. Postre sin horno de las casas portuguesas.",
+  "ing": [
+   {
+    "n": "galletas María",
+    "note": "partidas en trozos"
+   },
+   {
+    "n": "mantequilla blanda"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "cacao en polvo"
+   },
+   {
+    "n": "yemas de huevo pasteurizadas"
+   },
+   {
+    "n": "azúcar glas"
+   }
+  ],
+  "steps": [
+   "Bate la mantequilla con el azúcar hasta que esté cremosa.",
+   "Añade las yemas y el cacao y mezcla bien.",
+   "Añade las galletas y mezcla hasta que estén cubiertas.",
+   "Forma un cilindro sobre papel film, envuélvelo apretado y refrigera 4 horas.",
+   "Pasa por el azúcar glas y corta en rodajas."
+  ],
+  "tips": [
+   "Usa yemas pasteurizadas porque no se cuecen.",
+   "Deja trozos de galleta de distintos tamaños para que parezca salame."
+  ],
+  "video": "salame de chocolate portugués"
+ },
+ "en": {
+  "name": "Salame de Chocolate (Chocolate Salami)",
+  "blurb": "A chocolate and biscuit log that looks like salami when sliced. A no-bake dessert from Portuguese homes.",
+  "ing": [
+   {
+    "n": "Marie biscuits",
+    "note": "broken into pieces"
+   },
+   {
+    "n": "soft butter"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cocoa powder"
+   },
+   {
+    "n": "pasteurised egg yolks"
+   },
+   {
+    "n": "icing sugar"
+   }
+  ],
+  "steps": [
+   "Beat the butter with the sugar until creamy.",
+   "Add the yolks and cocoa and mix well.",
+   "Add the biscuits and mix until coated.",
+   "Shape into a log on cling film, wrap tightly and chill 4 hours.",
+   "Roll in the icing sugar and slice."
+  ],
+  "tips": [
+   "Use pasteurised yolks because they aren't cooked.",
+   "Leave biscuit pieces in different sizes so it looks like salami."
+  ],
+  "video": "portuguese chocolate salami"
+ },
+ "added": "2026-09-30"
+}

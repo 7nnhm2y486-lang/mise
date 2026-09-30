@@ -8633,6 +8633,44 @@
      }
     ]
    }
+  },
+  "mariebiscuit": {
+   "a": [
+    "wheat",
+    "sugar"
+   ],
+   "may": [
+    "milk",
+    "soy",
+    "egg"
+   ],
+   "label": {
+    "es": "Las galletas María llevan trigo y azúcar; algunas marcas llevan leche, soja o huevo: revisa la etiqueta.",
+    "en": "Marie biscuits contain wheat and sugar; some brands contain milk, soy or egg: check the label."
+   },
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "may": [
+       "milk",
+       "soy",
+       "egg"
+      ],
+      "es": {
+       "to": "galletas María sin gluten",
+       "note": "Misma textura; revisa la etiqueta por leche o soja."
+      },
+      "en": {
+       "to": "gluten-free Marie-style biscuits",
+       "note": "Same texture; check the label for milk or soy."
+      }
+     }
+    ]
+   }
   }
  },
  "roles": {

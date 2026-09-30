@@ -1,0 +1,145 @@
+{
+ "id": "frango-piri-piri",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 90,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "winevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Frango piri-piri",
+  "blurb": "Pollo abierto adobado en guindilla, ajo y limón, asado a la brasa. El pollo más famoso de Portugal.",
+  "ing": [
+   {
+    "n": "pollo entero abierto en mariposa"
+   },
+   {
+    "n": "guindillas piri-piri o bird's eye"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "vinagre de vino tinto"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Tritura las guindillas, el ajo, el limón, el aceite, el pimentón, el vinagre y la sal.",
+   "Unta el pollo con la mitad de la salsa y marina 1 hora como mínimo.",
+   "Ásalo a la parrilla o en el horno a 220 °C 45 minutos, con la piel hacia arriba.",
+   "Píntalo con el resto de la salsa los últimos 10 minutos.",
+   "Deja reposar 5 minutos antes de cortar."
+  ],
+  "tips": [
+   "Si lo quieres menos picante, quita las semillas de las guindillas.",
+   "Marinado toda la noche queda aún mejor."
+  ],
+  "video": "frango piri piri"
+ },
+ "en": {
+  "name": "Frango Piri-Piri (Portuguese Chilli Chicken)",
+  "blurb": "Spatchcocked chicken marinated in chilli, garlic and lemon and grilled. Portugal's most famous chicken.",
+  "ing": [
+   {
+    "n": "whole chicken, spatchcocked"
+   },
+   {
+    "n": "piri-piri or bird's eye chillies"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "lemons",
+    "note": "juiced"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "red wine vinegar"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Blend the chillies, garlic, lemon, oil, paprika, vinegar and salt.",
+   "Rub the chicken with half the sauce and marinate at least 1 hour.",
+   "Grill it, or roast at 220 °C for 45 minutes, skin side up.",
+   "Brush with the rest of the sauce for the last 10 minutes.",
+   "Rest 5 minutes before carving."
+  ],
+  "tips": [
+   "For less heat, seed the chillies.",
+   "Marinated overnight it's even better."
+  ],
+  "video": "portuguese piri piri chicken"
+ },
+ "added": "2026-09-30"
+}
