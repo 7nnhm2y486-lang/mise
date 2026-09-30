@@ -1,0 +1,187 @@
+{
+ "id": "seco-de-cordero",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "lamb",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 350,
+   "u": "ml",
+   "k": "beer",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Seco de cordero",
+  "blurb": "Cordero guisado en culantro, ají amarillo y cerveza. Plato norteño peruano.",
+  "ing": [
+   {
+    "n": "pierna de cordero",
+    "note": "en trozos"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ají amarillo molido"
+   },
+   {
+    "n": "culantro (cilantro)",
+    "note": "licuado con 250 ml de agua"
+   },
+   {
+    "n": "cerveza rubia"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "papas amarillas",
+    "note": "en mitades"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sala el cordero y dóralo en el aceite 10 minutos. Sácalo.",
+   "Sofríe la cebolla, el ajo y el ají 6 minutos. Añade el culantro licuado y cocina 5 minutos.",
+   "Añade la cerveza, el agua y el cordero. Tapa y cuece 70 minutos a fuego bajo.",
+   "Añade las papas y cuece 20 minutos. Añade las arvejas los últimos 5 minutos."
+  ],
+  "tips": [
+   "Sírvelo con arroz blanco.",
+   "Tradicionalmente se usa chicha de jora, que es de maíz: si la usas, cuenta el maíz."
+  ],
+  "video": "seco de cordero norteño"
+ },
+ "en": {
+  "name": "Seco de Cordero (Peruvian Coriander Lamb Stew)",
+  "blurb": "Lamb stewed in coriander, ají amarillo and beer. A dish from northern Peru.",
+  "ing": [
+   {
+    "n": "lamb leg",
+    "note": "in pieces"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "coriander",
+    "note": "blended with 250 ml water"
+   },
+   {
+    "n": "lager"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "green peas"
+   },
+   {
+    "n": "yellow potatoes",
+    "note": "halved"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Salt the lamb and brown it in the oil for 10 minutes. Remove.",
+   "Cook the onion, garlic and ají for 6 minutes. Add the blended coriander and cook 5 minutes.",
+   "Add the beer, water and lamb. Cover and simmer 70 minutes on low.",
+   "Add the potatoes and cook 20 minutes. Add the peas for the last 5 minutes."
+  ],
+  "tips": [
+   "Serve with white rice.",
+   "Traditionally chicha de jora is used, which is made from corn: if you use it, count the corn."
+  ],
+  "video": "peruvian lamb seco"
+ },
+ "added": "2026-09-30"
+}

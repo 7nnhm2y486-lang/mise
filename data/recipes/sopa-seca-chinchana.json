@@ -1,0 +1,181 @@
+{
+ "id": "sopa-seca-chinchana",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "thigh",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Sopa seca chinchana",
+  "blurb": "Tallarines cocidos en una salsa de albahaca, culantro y ají panca hasta absorberla. Se sirve con carapulcra en Chincha.",
+  "ing": [
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ají panca molido"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "culantro (cilantro)"
+   },
+   {
+    "n": "tomates"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "tallarines"
+   },
+   {
+    "n": "muslos de pollo"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Licúa la albahaca, el culantro y el tomate con un poco del agua.",
+   "Dora el pollo en el aceite 8 minutos. Sácalo.",
+   "Sofríe la cebolla, el ajo y el ají 6 minutos. Añade lo licuado y cocina 5 minutos.",
+   "Añade el agua, la sal y el pollo y hierve. Añade los tallarines crudos partidos y cuece 15 minutos, removiendo, hasta que absorban el líquido."
+  ],
+  "tips": [
+   "Debe quedar seca, sin caldo: de ahí el nombre.",
+   "Remueve a menudo al final para que no se pegue."
+  ],
+  "video": "sopa seca chinchana"
+ },
+ "en": {
+  "name": "Sopa Seca (Peruvian Basil Noodles)",
+  "blurb": "Spaghetti cooked in a basil, coriander and ají panca sauce until it's all absorbed. Served with carapulcra in Chincha.",
+  "ing": [
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "coriander"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "spaghetti"
+   },
+   {
+    "n": "chicken thighs"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Blend the basil, coriander and tomato with a little of the water.",
+   "Brown the chicken in the oil for 8 minutes. Remove.",
+   "Cook the onion, garlic and ají for 6 minutes. Add the blended herbs and cook 5 minutes.",
+   "Add the water, salt and chicken and bring to the boil. Add the broken raw spaghetti and cook 15 minutes, stirring, until the liquid is absorbed."
+  ],
+  "tips": [
+   "It should end up dry, with no broth: hence the name.",
+   "Stir often at the end so it doesn't stick."
+  ],
+  "video": "peruvian sopa seca"
+ },
+ "added": "2026-09-30"
+}

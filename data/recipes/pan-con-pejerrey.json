@@ -1,0 +1,161 @@
+{
+ "id": "pan-con-pejerrey",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Pan con pejerrey",
+  "blurb": "Pan francés con pejerrey frito y salsa criolla. Desayuno de los mercados del Callao y Chorrillos.",
+  "ing": [
+   {
+    "n": "pejerreyes limpios y abiertos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "panes franceses"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "en pluma fina"
+   },
+   {
+    "n": "ají limo",
+    "note": "picado"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   },
+   {
+    "n": "culantro (cilantro)",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Sala los pejerreyes y pásalos por la harina.",
+   "Fríelos a 180 °C 2 minutos por lado. Escurre.",
+   "Mezcla la cebolla, el ají, el limón, el culantro y una pizca de sal.",
+   "Abre los panes y rellénalos con el pescado y la cebolla."
+  ],
+  "tips": [
+   "Enjuaga la cebolla en agua fría para que pique menos.",
+   "Si no hay pejerrey, usa filetes finos de pescado blanco."
+  ],
+  "video": "pan con pejerrey"
+ },
+ "en": {
+  "name": "Pan con Pejerrey (Peruvian Fried Fish Sandwich)",
+  "blurb": "A crusty roll with fried silverside and onion relish. Breakfast at the markets of Callao and Chorrillos.",
+  "ing": [
+   {
+    "n": "cleaned, butterflied silversides"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "crusty rolls"
+   },
+   {
+    "n": "red onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "limo chilli",
+    "note": "chopped"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Salt the fish and dredge in the flour.",
+   "Fry at 180 °C for 2 minutes per side. Drain.",
+   "Mix the onion, chilli, lime, coriander and a pinch of salt.",
+   "Split the rolls and fill with the fish and onion."
+  ],
+  "tips": [
+   "Rinse the onion in cold water to tame it.",
+   "No silversides? Use thin white fish fillets."
+  ],
+  "video": "peruvian fried fish sandwich"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,211 @@
+{
+ "id": "escabeche-de-pescado",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "fillet",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "winevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "olives",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Escabeche de pescado",
+  "blurb": "Pescado frito cubierto con cebolla en vinagre y ají, con huevo y aceituna. Plato de Semana Santa en Lima.",
+  "ing": [
+   {
+    "n": "filetes de pescado blanco (bonito o corvina)"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebollas rojas",
+    "note": "en gajos gruesos"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ají panca molido"
+   },
+   {
+    "n": "ají amarillo fresco",
+    "note": "en tiras"
+   },
+   {
+    "n": "vinagre de vino tinto"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos duros",
+    "note": "en rodajas"
+   },
+   {
+    "n": "aceitunas de botija"
+   }
+  ],
+  "steps": [
+   "Sala el pescado, pásalo por la harina y fríelo en el aceite 3 minutos por lado. Reserva.",
+   "Sofríe el ajo, el ají panca, el comino y el orégano en 3 cucharadas del aceite 2 minutos.",
+   "Añade la cebolla y el ají amarillo y cocina 3 minutos: la cebolla debe quedar crujiente.",
+   "Añade el vinagre y el resto de la sal y hierve 1 minuto.",
+   "Cubre el pescado con el escabeche y decora con el huevo y las aceitunas."
+  ],
+  "tips": [
+   "Se sirve tibio o frío: está mejor tras reposar 1 hora.",
+   "No cocines de más la cebolla."
+  ],
+  "video": "escabeche de pescado peruano"
+ },
+ "en": {
+  "name": "Peruvian Escabeche de Pescado",
+  "blurb": "Fried fish topped with onions in vinegar and ají, with egg and olive. A Holy Week dish in Lima.",
+  "ing": [
+   {
+    "n": "white fish fillets"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onions",
+    "note": "in thick wedges"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "fresh ají amarillo",
+    "note": "in strips"
+   },
+   {
+    "n": "red wine vinegar"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "sliced"
+   },
+   {
+    "n": "Peruvian black olives"
+   }
+  ],
+  "steps": [
+   "Salt the fish, dredge in the flour and fry in the oil for 3 minutes per side. Set aside.",
+   "Cook the garlic, ají panca, cumin and oregano in 3 tablespoons of the oil for 2 minutes.",
+   "Add the onion and ají amarillo and cook 3 minutes: the onion should stay crisp.",
+   "Add the vinegar and remaining salt and boil 1 minute.",
+   "Spoon the escabeche over the fish and garnish with the egg and olives."
+  ],
+  "tips": [
+   "Serve warm or cold: it's better after resting 1 hour.",
+   "Don't overcook the onion."
+  ],
+  "video": "peruvian fish escabeche"
+ },
+ "added": "2026-09-30"
+}

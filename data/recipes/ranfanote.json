@@ -1,0 +1,161 @@
+{
+ "id": "ranfanote",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "walnut",
+   "role": "crunch"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "desiccatedcoconut",
+   "role": "crunch"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Ranfañote",
+  "blurb": "Pan tostado bañado en miel de chancaca con nueces, pasas, coco y queso fresco. Postre afroperuano de la vieja Lima.",
+  "ing": [
+   {
+    "n": "pan francés del día anterior",
+    "note": "en cubos y tostado"
+   },
+   {
+    "n": "chancaca"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "nueces",
+    "note": "picadas"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "coco rallado"
+   },
+   {
+    "n": "queso fresco",
+    "note": "en cubos"
+   }
+  ],
+  "steps": [
+   "Hierve la chancaca con el agua, la canela y el clavo 15 minutos, hasta tener una miel.",
+   "Cuela y deja entibiar.",
+   "Mezcla el pan con las nueces, las pasas y el coco en una fuente.",
+   "Baña con la miel tibia y añade el queso.",
+   "Sirve de inmediato."
+  ],
+  "tips": [
+   "Tuesta bien el pan para que no se deshaga con la miel.",
+   "El queso salado equilibra el dulzor."
+  ],
+  "video": "ranfañote limeño"
+ },
+ "en": {
+  "name": "Ranfañote (Peruvian Bread Pudding in Cane Syrup)",
+  "blurb": "Toasted bread soaked in cane-sugar syrup with walnuts, raisins, coconut and fresh cheese. An Afro-Peruvian dessert from old Lima.",
+  "ing": [
+   {
+    "n": "day-old French bread",
+    "note": "cubed and toasted"
+   },
+   {
+    "n": "chancaca (unrefined cane sugar)"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "walnuts",
+    "note": "chopped"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "desiccated coconut"
+   },
+   {
+    "n": "queso fresco",
+    "note": "cubed"
+   }
+  ],
+  "steps": [
+   "Boil the chancaca with the water, cinnamon and cloves for 15 minutes, into a syrup.",
+   "Strain and let it cool slightly.",
+   "Mix the bread with the walnuts, raisins and coconut in a dish.",
+   "Pour over the warm syrup and add the cheese.",
+   "Serve at once."
+  ],
+  "tips": [
+   "Toast the bread well so it doesn't fall apart in the syrup.",
+   "The salty cheese balances the sweetness."
+  ],
+  "video": "peruvian ranfanote"
+ },
+ "added": "2026-09-30"
+}

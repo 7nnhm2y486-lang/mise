@@ -1,0 +1,185 @@
+{
+ "id": "tamal-criollo",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "main",
+ "time": 180,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "hominy",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 10,
+   "u": "",
+   "k": "olives",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "peanut",
+   "role": "garnish"
+  },
+  {
+   "q": 10,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Tamal criollo",
+  "blurb": "Tamal de maíz blanco con ají panca relleno de cerdo, aceituna, huevo y maní, envuelto en hoja de plátano. Desayuno de domingo en Lima.",
+  "ing": [
+   {
+    "n": "maíz blanco pelado (mote)"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "ají panca molido"
+   },
+   {
+    "n": "ajo",
+    "note": "molido"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "carne de cerdo",
+    "note": "en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceitunas de botija"
+   },
+   {
+    "n": "huevos duros",
+    "note": "en cuartos"
+   },
+   {
+    "n": "maní tostado"
+   },
+   {
+    "n": "hojas de plátano"
+   }
+  ],
+  "steps": [
+   "Cuece el maíz 60 minutos y muélelo hasta tener una masa.",
+   "Cuece el cerdo en el agua con 1 cucharadita de sal 40 minutos.",
+   "Fríe el ajo y el ají en la manteca 5 minutos. Añade la masa y el resto de la sal y cocina 15 minutos, removiendo.",
+   "Pon masa en cada hoja, añade cerdo, una aceituna, huevo y maní, y cubre con más masa. Envuelve y ata.",
+   "Cuece al vapor 60 minutos."
+  ],
+  "tips": [
+   "Pasa las hojas por el fuego para que se ablanden y no se rompan.",
+   "Sírvelos calientes, recién salidos del vapor."
+  ],
+  "video": "tamal criollo peruano"
+ },
+ "en": {
+  "name": "Tamal Criollo (Peruvian Pork Tamales)",
+  "blurb": "White corn tamales with ají panca, filled with pork, olive, egg and peanut and wrapped in banana leaf. Sunday breakfast in Lima.",
+  "ing": [
+   {
+    "n": "hulled white corn"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "pork shoulder",
+    "note": "in pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "Peruvian black olives"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "quartered"
+   },
+   {
+    "n": "roasted peanuts"
+   },
+   {
+    "n": "banana leaves"
+   }
+  ],
+  "steps": [
+   "Cook the corn 60 minutes and grind into a dough.",
+   "Simmer the pork in the water with 1 teaspoon of salt for 40 minutes.",
+   "Fry the garlic and ají in the lard for 5 minutes. Add the dough and remaining salt and cook 15 minutes, stirring.",
+   "Spread dough on each leaf, add pork, an olive, egg and peanuts, and cover with more dough. Wrap and tie.",
+   "Steam 60 minutes."
+  ],
+  "tips": [
+   "Pass the leaves over a flame so they soften and don't tear.",
+   "Serve them warm, straight from the steamer."
+  ],
+  "video": "peruvian tamal criollo"
+ },
+ "added": "2026-09-30"
+}

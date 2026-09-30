@@ -1,0 +1,131 @@
+{
+ "id": "wantan-frito",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 50,
+ "serves": 30,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "porkmince",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sesameoil",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "",
+   "k": "eggnoodles",
+   "role": "structure"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Wantán frito",
+  "blurb": "Wantanes crujientes rellenos de cerdo. La entrada infaltable de los chifas peruanos.",
+  "ing": [
+   {
+    "n": "carne molida de cerdo"
+   },
+   {
+    "n": "cebolla china",
+    "note": "picada"
+   },
+   {
+    "n": "sillao (salsa de soja)"
+   },
+   {
+    "n": "aceite de ajonjolí"
+   },
+   {
+    "n": "jengibre rallado"
+   },
+   {
+    "n": "masas de wantán (trigo y huevo)"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Mezcla el cerdo, la cebolla china, el sillao, el aceite de ajonjolí y el jengibre.",
+   "Pon 1 cucharadita de relleno en cada masa, moja los bordes con agua y dobla en triángulo. Une dos puntas.",
+   "Fríe a 175 °C en tandas 3 minutos, hasta que estén dorados.",
+   "Escurre en papel."
+  ],
+  "tips": [
+   "Cubre las masas con un paño húmedo para que no se sequen.",
+   "Revisa la etiqueta de las masas por si llevan soja."
+  ],
+  "video": "wantán frito chifa"
+ },
+ "en": {
+  "name": "Wantán Frito (Peruvian Chifa Fried Wontons)",
+  "blurb": "Crisp fried wontons filled with pork. The must-have starter of Peruvian chifa restaurants.",
+  "ing": [
+   {
+    "n": "minced pork"
+   },
+   {
+    "n": "spring onions",
+    "note": "chopped"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "sesame oil"
+   },
+   {
+    "n": "grated ginger"
+   },
+   {
+    "n": "wonton wrappers (wheat and egg)"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Mix the pork, spring onion, soy sauce, sesame oil and ginger.",
+   "Put 1 teaspoon of filling on each wrapper, wet the edges and fold into a triangle. Join two corners.",
+   "Fry at 175 °C in batches for 3 minutes, until golden.",
+   "Drain on paper."
+  ],
+  "tips": [
+   "Keep the wrappers under a damp cloth so they don't dry out.",
+   "Check the wrapper label in case they contain soy."
+  ],
+  "video": "peruvian fried wontons"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,199 @@
+{
+ "id": "tallarines-rojos",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "thigh",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "parmesan",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Tallarines rojos con pollo",
+  "blurb": "Tallarines con salsa de tomate, ají panca y pollo guisado. Almuerzo de domingo en muchas casas peruanas.",
+  "ing": [
+   {
+    "n": "presas de pollo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ají panca molido"
+   },
+   {
+    "n": "tomates",
+    "note": "licuados"
+   },
+   {
+    "n": "zanahoria",
+    "note": "rallada"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "tallarines"
+   },
+   {
+    "n": "queso parmesano rallado"
+   }
+  ],
+  "steps": [
+   "Sala el pollo y dóralo en el aceite 8 minutos. Sácalo.",
+   "Sofríe la cebolla, el ajo, el ají y la zanahoria 8 minutos.",
+   "Añade el tomate, el laurel, el orégano, el resto de la sal y el pollo. Cuece tapado 35 minutos.",
+   "Cuece los tallarines en agua con sal según el paquete.",
+   "Mezcla con la salsa y sirve con el pollo y el queso."
+  ],
+  "tips": [
+   "La zanahoria rallada quita la acidez al tomate.",
+   "Si la salsa espesa demasiado, añade un poco del agua de la pasta."
+  ],
+  "video": "tallarines rojos peruanos"
+ },
+ "en": {
+  "name": "Tallarines Rojos (Peruvian Red Spaghetti)",
+  "blurb": "Spaghetti in tomato and ají panca sauce with braised chicken. Sunday lunch in many Peruvian homes.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "tomatoes",
+    "note": "blended"
+   },
+   {
+    "n": "carrot",
+    "note": "grated"
+   },
+   {
+    "n": "bay leaf"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "spaghetti"
+   },
+   {
+    "n": "grated parmesan"
+   }
+  ],
+  "steps": [
+   "Salt the chicken and brown it in the oil for 8 minutes. Remove.",
+   "Cook the onion, garlic, ají and carrot for 8 minutes.",
+   "Add the tomato, bay, oregano, remaining salt and the chicken. Cover and simmer 35 minutes.",
+   "Cook the spaghetti in salted water as the packet says.",
+   "Toss with the sauce and serve with the chicken and cheese."
+  ],
+  "tips": [
+   "The grated carrot takes the edge off the tomato's acidity.",
+   "If the sauce gets too thick, add a little pasta water."
+  ],
+  "video": "peruvian red spaghetti chicken"
+ },
+ "added": "2026-09-30"
+}

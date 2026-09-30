@@ -1,0 +1,207 @@
+{
+ "id": "picante-de-mariscos",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "squid",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "mussel",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Picante de mariscos",
+  "blurb": "Mariscos en una crema de ají amarillo, leche y queso, con papas. Plato de la costa peruana.",
+  "ing": [
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ají amarillo molido"
+   },
+   {
+    "n": "ají panca molido"
+   },
+   {
+    "n": "langostinos pelados"
+   },
+   {
+    "n": "calamar en aros"
+   },
+   {
+    "n": "choros sin concha"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "queso fresco"
+   },
+   {
+    "n": "papas amarillas cocidas"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo y los ajíes en el aceite 6 minutos.",
+   "Añade el vino y deja reducir 2 minutos.",
+   "Licúa la leche con el queso y añádelo. Cuece 3 minutos.",
+   "Añade los mariscos y la sal y cocina 4 minutos.",
+   "Sirve sobre las papas cocidas en rodajas."
+  ],
+  "tips": [
+   "No cocines de más los mariscos o quedan gomosos.",
+   "Sírvelo con arroz blanco."
+  ],
+  "video": "picante de mariscos peruano"
+ },
+ "en": {
+  "name": "Picante de Mariscos (Peruvian Spicy Seafood)",
+  "blurb": "Seafood in a creamy sauce of ají amarillo, milk and cheese, with potatoes. A dish of the Peruvian coast.",
+  "ing": [
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "peeled prawns"
+   },
+   {
+    "n": "squid rings"
+   },
+   {
+    "n": "shelled mussels"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "queso fresco"
+   },
+   {
+    "n": "boiled yellow potatoes"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic and ají pastes in the oil for 6 minutes.",
+   "Add the wine and reduce 2 minutes.",
+   "Blend the milk with the cheese and add it. Cook 3 minutes.",
+   "Add the seafood and salt and cook 4 minutes.",
+   "Serve over the sliced boiled potatoes."
+  ],
+  "tips": [
+   "Don't overcook the seafood or it turns rubbery.",
+   "Serve with white rice."
+  ],
+  "video": "peruvian spicy seafood"
+ },
+ "added": "2026-09-30"
+}
