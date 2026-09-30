@@ -1,0 +1,185 @@
+{
+ "id": "pan-de-carne",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 80,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "breadcrumbs",
+   "role": "binder"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "pepper",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Pan de carne",
+  "blurb": "Rollo de carne picada horneado con huevos duros en el centro. Se come caliente o frío, en rodajas.",
+  "ing": [
+   {
+    "n": "carne picada de res"
+   },
+   {
+    "n": "pan rallado"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "huevos duros",
+    "note": "pelados"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Calienta el horno a 180 °C. Remoja el pan rallado en la leche 5 minutos.",
+   "Mezcla la carne, el pan remojado, los huevos crudos, la cebolla, el ajo, el perejil, la nuez moscada, la sal y la pimienta.",
+   "Extiende la mezcla en un rectángulo, pon los huevos duros en fila y enrolla formando un pan.",
+   "Hornea en una fuente 60 minutos. Deja reposar 10 minutos antes de cortar."
+  ],
+  "tips": [
+   "Frío se corta más limpio y rinde para sándwiches.",
+   "Se congela bien en rodajas."
+  ],
+  "video": "pan de carne con huevo"
+ },
+ "en": {
+  "name": "Pan de Carne (Argentine Meatloaf)",
+  "blurb": "A baked minced beef loaf with hard-boiled eggs in the centre. Eaten warm or cold, in slices.",
+  "ing": [
+   {
+    "n": "minced beef"
+   },
+   {
+    "n": "dried breadcrumbs"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "peeled"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 180 °C. Soak the breadcrumbs in the milk for 5 minutes.",
+   "Mix the beef, soaked crumbs, raw eggs, onion, garlic, parsley, nutmeg, salt and pepper.",
+   "Spread the mixture into a rectangle, lay the boiled eggs in a row and roll into a loaf.",
+   "Bake in a dish for 60 minutes. Rest 10 minutes before slicing."
+  ],
+  "tips": [
+   "Cold, it slices more cleanly and makes good sandwiches.",
+   "It freezes well in slices."
+  ],
+  "video": "argentine meatloaf"
+ },
+ "added": "2026-09-30"
+}

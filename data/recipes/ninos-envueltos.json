@@ -1,0 +1,187 @@
+{
+ "id": "ninos-envueltos",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 100,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Niños envueltos",
+  "blurb": "Hojas de repollo rellenas de carne y arroz, cocidas en salsa de tomate. Receta de las abuelas con raíz de Europa del Este y Medio Oriente.",
+  "ing": [
+   {
+    "n": "repollo",
+    "note": "en hojas enteras"
+   },
+   {
+    "n": "carne picada de res"
+   },
+   {
+    "n": "arroz",
+    "note": "crudo"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "cebollas",
+    "note": "picadas"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "tomate triturado"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Blanquea las hojas de repollo 3 minutos en agua hirviendo y escúrrelas.",
+   "Mezcla la carne, el arroz, el huevo, la mitad de la cebolla y del ajo y 1 cucharadita de sal.",
+   "Pon una cucharada de relleno en cada hoja, dobla los lados y enrolla.",
+   "Sofríe el resto de la cebolla y del ajo en el aceite 6 minutos, añade el pimentón, el tomate, el agua y el resto de la sal.",
+   "Acomoda los rollitos en la salsa, tapa y cuece a fuego bajo 50 minutos."
+  ],
+  "tips": [
+   "Acomódalos apretados y con la unión hacia abajo para que no se abran.",
+   "Se congelan bien con su salsa."
+  ],
+  "video": "niños envueltos de repollo"
+ },
+ "en": {
+  "name": "Niños Envueltos (Stuffed Cabbage Rolls)",
+  "blurb": "Cabbage leaves filled with beef and rice, cooked in tomato sauce. A grandmother's recipe with Eastern European and Middle Eastern roots.",
+  "ing": [
+   {
+    "n": "white cabbage",
+    "note": "leaves separated"
+   },
+   {
+    "n": "minced beef"
+   },
+   {
+    "n": "rice",
+    "note": "uncooked"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "onions",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "crushed tomatoes"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Blanch the cabbage leaves for 3 minutes in boiling water and drain.",
+   "Mix the beef, rice, egg, half the onion and garlic and 1 teaspoon of salt.",
+   "Put a spoonful of filling on each leaf, fold in the sides and roll up.",
+   "Cook the rest of the onion and garlic in the oil for 6 minutes, add the paprika, tomato, water and remaining salt.",
+   "Arrange the rolls in the sauce, cover and simmer on low heat for 50 minutes."
+  ],
+  "tips": [
+   "Pack them tightly, seam side down, so they don't open.",
+   "They freeze well in their sauce."
+  ],
+  "video": "argentine cabbage rolls"
+ },
+ "added": "2026-09-30"
+}

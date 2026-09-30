@@ -1,0 +1,227 @@
+{
+ "id": "buseca",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 180,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Buseca",
+  "blurb": "Guiso de mondongo con porotos blancos y chorizo colorado. Herencia italiana de los bodegones porteños.",
+  "ing": [
+   {
+    "n": "mondongo limpio"
+   },
+   {
+    "n": "limones"
+   },
+   {
+    "n": "porotos blancos",
+    "note": "remojados toda la noche"
+   },
+   {
+    "n": "chorizos colorados",
+    "note": "en rodajas"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento morrón rojo",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en rodajas"
+   },
+   {
+    "n": "tomate triturado"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "hojas de laurel"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Frota el mondongo con el limón, enjuágalo y cuécelo en 2 litros de agua 2 horas. Córtalo en tiras.",
+   "Aparte, cuece los porotos en el resto del agua 60 minutos.",
+   "Sofríe la cebolla, el morrón y el ajo en el aceite 8 minutos. Añade el chorizo y la zanahoria y cocina 5 minutos más.",
+   "Añade el pimentón, el tomate, el laurel, la sal, el mondongo y los porotos con parte de su agua.",
+   "Cuece a fuego bajo 30 minutos, hasta que espese."
+  ],
+  "tips": [
+   "En olla a presión el mondongo tarda 45 minutos.",
+   "Es mejor al día siguiente."
+  ],
+  "video": "buseca porteña"
+ },
+ "en": {
+  "name": "Buseca (Argentine Tripe and Bean Stew)",
+  "blurb": "Beef tripe stewed with white beans and paprika chorizo. An Italian legacy of Buenos Aires taverns.",
+  "ing": [
+   {
+    "n": "cleaned beef tripe"
+   },
+   {
+    "n": "lemons"
+   },
+   {
+    "n": "white beans",
+    "note": "soaked overnight"
+   },
+   {
+    "n": "cured paprika chorizos",
+    "note": "sliced"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "red pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "carrots",
+    "note": "sliced"
+   },
+   {
+    "n": "crushed tomatoes"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Rub the tripe with the lemon, rinse and simmer in 2 litres of water for 2 hours. Cut into strips.",
+   "Separately, simmer the beans in the rest of the water for 60 minutes.",
+   "Cook the onion, pepper and garlic in the oil for 8 minutes. Add the chorizo and carrot and cook 5 minutes more.",
+   "Add the paprika, tomato, bay, salt, tripe and beans with some of their water.",
+   "Simmer on low heat for 30 minutes, until thick."
+  ],
+  "tips": [
+   "In a pressure cooker the tripe takes 45 minutes.",
+   "It's better the next day."
+  ],
+  "video": "argentine buseca"
+ },
+ "added": "2026-09-30"
+}

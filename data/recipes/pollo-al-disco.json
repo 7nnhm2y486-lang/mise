@@ -1,0 +1,187 @@
+{
+ "id": "pollo-al-disco",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 90,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.8,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Pollo al disco",
+  "blurb": "Pollo guisado con vino, morrones y papas en el disco de arado, al fuego de leña. Comida de reunión en el campo.",
+  "ing": [
+   {
+    "n": "presas de pollo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebollas",
+    "note": "en pluma"
+   },
+   {
+    "n": "pimientos morrones",
+    "note": "en tiras"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "tomate triturado"
+   },
+   {
+    "n": "papas",
+    "note": "en cubos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Dora el pollo con la sal en el aceite, en el disco o en una olla ancha, 10 minutos. Retíralo.",
+   "Rehoga la cebolla, los morrones y el ajo en la misma grasa 10 minutos.",
+   "Añade el pimentón, el vino y deja reducir 5 minutos. Añade el tomate y el pollo.",
+   "Cuece 25 minutos, añade las papas y cocina 25 minutos más, hasta que estén tiernas. Termina con el perejil."
+  ],
+  "tips": [
+   "En casa sale igual en una sartén grande o una paellera.",
+   "Mantén el fuego parejo y bajo después de dorar."
+  ],
+  "video": "pollo al disco de arado"
+ },
+ "en": {
+  "name": "Pollo al Disco (Ploughshare Chicken Stew)",
+  "blurb": "Chicken stewed with wine, peppers and potatoes in a ploughshare disc over a wood fire. A countryside gathering meal.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onions",
+    "note": "sliced"
+   },
+   {
+    "n": "peppers",
+    "note": "in strips"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "crushed tomatoes"
+   },
+   {
+    "n": "potatoes",
+    "note": "cubed"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Brown the chicken with the salt in the oil, in the disc or a wide pot, for 10 minutes. Remove.",
+   "Soften the onion, peppers and garlic in the same fat for 10 minutes.",
+   "Add the paprika and wine and reduce 5 minutes. Add the tomato and the chicken.",
+   "Simmer 25 minutes, add the potatoes and cook 25 minutes more, until tender. Finish with the parsley."
+  ],
+  "tips": [
+   "At home it works just as well in a large frying pan or paella pan.",
+   "Keep the heat low and steady after browning."
+  ],
+  "video": "argentine disc chicken"
+ },
+ "added": "2026-09-30"
+}

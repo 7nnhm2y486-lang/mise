@@ -1,0 +1,211 @@
+{
+ "id": "sorrentinos",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "ham",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "mozzarella",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "ricottacheese",
+   "role": "protein"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "parmesan",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Sorrentinos de jamón y queso",
+  "blurb": "Pasta rellena redonda y generosa con jamón, mozzarella y ricota, en salsa fileto. Invento de Mar del Plata.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "jamón cocido",
+    "note": "picado fino"
+   },
+   {
+    "n": "mozzarella",
+    "note": "rallada"
+   },
+   {
+    "n": "ricota"
+   },
+   {
+    "n": "queso parmesano rallado"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tomate triturado"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Forma una corona con la harina, pon en el centro 3 huevos, el aceite y media cucharadita de sal y amasa 10 minutos. Tapa y deja reposar 30 minutos.",
+   "Mezcla el jamón, la mozzarella, la ricota, el parmesano y el huevo restante.",
+   "Estira la masa muy fina, pon bolitas de relleno cada 8 cm, cubre con otra lámina, presiona alrededor y corta con un aro de 7 cm.",
+   "Para la salsa, rehoga la cebolla y el ajo en el aceite 6 minutos, añade el tomate y media cucharadita de sal y cuece 20 minutos. Termina con la albahaca.",
+   "Hierve los sorrentinos en agua con el resto de la sal 5 minutos y sírvelos con la salsa."
+  ],
+  "tips": [
+   "Se congelan crudos en una bandeja y luego en bolsa; se hierven sin descongelar, 7 minutos.",
+   "Sella bien los bordes para que el relleno no se escape."
+  ],
+  "video": "sorrentinos caseros"
+ },
+ "en": {
+  "name": "Sorrentinos (Argentine Ham and Cheese Ravioli)",
+  "blurb": "Large round filled pasta with ham, mozzarella and ricotta in a simple tomato sauce. Invented in Mar del Plata.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "cooked ham",
+    "note": "finely chopped"
+   },
+   {
+    "n": "mozzarella",
+    "note": "grated"
+   },
+   {
+    "n": "ricotta"
+   },
+   {
+    "n": "grated parmesan"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "crushed tomatoes"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Make a well in the flour, add 3 eggs, the oil and half a teaspoon of salt and knead 10 minutes. Cover and rest 30 minutes.",
+   "Mix the ham, mozzarella, ricotta, parmesan and the remaining egg.",
+   "Roll the dough very thin, place balls of filling 8 cm apart, cover with a second sheet, press around them and cut with a 7 cm ring.",
+   "For the sauce, soften the onion and garlic in the oil for 6 minutes, add the tomato and half a teaspoon of salt and simmer 20 minutes. Finish with the basil.",
+   "Boil the sorrentinos in water with the rest of the salt for 5 minutes and serve with the sauce."
+  ],
+  "tips": [
+   "Freeze them raw on a tray, then bag them; boil from frozen for 7 minutes.",
+   "Seal the edges well so the filling doesn't leak."
+  ],
+  "video": "homemade sorrentinos"
+ },
+ "added": "2026-09-30"
+}

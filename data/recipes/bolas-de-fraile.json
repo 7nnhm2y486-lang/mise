@@ -1,0 +1,159 @@
+{
+ "id": "bolas-de-fraile",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 150,
+ "serves": 16,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "dulcedeleche",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Bolas de fraile",
+  "blurb": "Bollitos de masa dulce fritos, pasados por azúcar y rellenos de dulce de leche. Las facturas de las panaderías.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "leche tibia"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "mantequilla",
+    "note": "blanda"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "dulce de leche repostero"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la levadura, 30 g de azúcar y la sal. Añade la leche y los huevos y amasa 8 minutos. Incorpora la mantequilla y amasa 5 minutos más.",
+   "Deja levar tapado 60 minutos, hasta que doble.",
+   "Divide en 16 bollos, colócalos sobre papel y deja levar 30 minutos más.",
+   "Fríe en el aceite a 170 °C 2 minutos por lado. Escúrrelos y pásalos por el resto del azúcar.",
+   "Ábrelos por un costado y rellénalos con el dulce de leche con una manga."
+  ],
+  "tips": [
+   "El aceite muy caliente los dora por fuera y los deja crudos por dentro.",
+   "Son mejores el mismo día."
+  ],
+  "video": "bolas de fraile de panadería"
+ },
+ "en": {
+  "name": "Bolas de Fraile (Dulce de Leche Doughnuts)",
+  "blurb": "Fried sweet dough balls rolled in sugar and filled with dulce de leche. A bakery pastry favourite.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "dried yeast"
+   },
+   {
+    "n": "warm milk"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "thick dulce de leche"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, 30 g of the sugar and salt. Add the milk and eggs and knead 8 minutes. Work in the butter and knead 5 minutes more.",
+   "Cover and let rise 60 minutes, until doubled.",
+   "Divide into 16 balls, set them on paper and let rise 30 minutes more.",
+   "Fry in the oil at 170 °C for 2 minutes a side. Drain and roll in the remaining sugar.",
+   "Cut a slit in the side and pipe in the dulce de leche."
+  ],
+  "tips": [
+   "Oil that's too hot browns the outside and leaves the inside raw.",
+   "They're best the same day."
+  ],
+  "video": "argentine bolas de fraile"
+ },
+ "added": "2026-09-30"
+}

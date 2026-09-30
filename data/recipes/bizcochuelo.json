@@ -1,0 +1,125 @@
+{
+ "id": "bizcochuelo",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 6,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Bizcochuelo",
+  "blurb": "Bizcocho esponjoso solo con huevos, azúcar y harina. La base de las tortas de cumpleaños argentinas.",
+  "ing": [
+   {
+    "n": "huevos",
+    "note": "a temperatura ambiente"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "harina de trigo",
+    "note": "tamizada"
+   },
+   {
+    "n": "ralladura de limón"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "mantequilla",
+    "note": "para el molde"
+   }
+  ],
+  "steps": [
+   "Unta con mantequilla y enharina un molde de 24 cm y calienta el horno a 180 °C.",
+   "Bate los huevos con el azúcar y la sal a velocidad alta 10 minutos, hasta que la mezcla triplique su volumen y forme cintas.",
+   "Añade la ralladura e incorpora la harina en tres veces con movimientos envolventes, sin batir.",
+   "Vierte en el molde y hornea 35 minutos sin abrir el horno. Está listo cuando un palillo sale seco.",
+   "Desmolda y deja enfriar sobre una rejilla."
+  ],
+  "tips": [
+   "El secreto es el batido largo: sin él no sube.",
+   "Se corta en tres capas para rellenar."
+  ],
+  "video": "bizcochuelo argentino"
+ },
+ "en": {
+  "name": "Bizcochuelo (Argentine Sponge Cake)",
+  "blurb": "A light sponge made with just eggs, sugar and flour. The base of every Argentine birthday cake.",
+  "ing": [
+   {
+    "n": "eggs",
+    "note": "at room temperature"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "plain flour",
+    "note": "sifted"
+   },
+   {
+    "n": "lemon zest"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "butter",
+    "note": "for the tin"
+   }
+  ],
+  "steps": [
+   "Butter and flour a 24 cm tin and heat the oven to 180 °C.",
+   "Whisk the eggs with the sugar and salt on high speed for 10 minutes, until tripled in volume and ribbony.",
+   "Add the zest and fold in the flour in three additions, without beating.",
+   "Pour into the tin and bake 35 minutes without opening the oven. It's done when a skewer comes out dry.",
+   "Unmould and cool on a rack."
+  ],
+  "tips": [
+   "The long whisking is the secret: without it the cake won't rise.",
+   "Slice it into three layers to fill."
+  ],
+  "video": "argentine sponge cake"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,147 @@
+{
+ "id": "tomates-rellenos",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 8,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 340,
+   "u": "g",
+   "k": "tuna",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "enrich"
+  },
+  {
+   "q": 5,
+   "u": "tbsp",
+   "k": "mayo",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "pepper",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Tomates rellenos con atún",
+  "blurb": "Tomates frescos rellenos de atún, arroz, huevo y mayonesa. Entrada fría de las fiestas y del verano.",
+  "ing": [
+   {
+    "n": "tomates redondos firmes"
+   },
+   {
+    "n": "atún en lata",
+    "note": "escurrido"
+   },
+   {
+    "n": "arroz blanco",
+    "note": "cocido y frío"
+   },
+   {
+    "n": "huevos duros",
+    "note": "picados"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Corta una tapa a cada tomate, vacíalos con una cucharita y sálalos por dentro. Déjalos boca abajo 10 minutos.",
+   "Mezcla el atún, el arroz, el huevo, la mayonesa, el perejil y la pimienta.",
+   "Rellena los tomates, coloca la tapa y enfría 20 minutos antes de servir."
+  ],
+  "tips": [
+   "La pulpa que sacas sirve para una salsa.",
+   "Rellenos se conservan en la heladera hasta 1 día."
+  ],
+  "video": "tomates rellenos"
+ },
+ "en": {
+  "name": "Tomates Rellenos (Tuna-Stuffed Tomatoes)",
+  "blurb": "Fresh tomatoes stuffed with tuna, rice, egg and mayonnaise. A cold starter for holidays and summer.",
+  "ing": [
+   {
+    "n": "firm round tomatoes"
+   },
+   {
+    "n": "canned tuna",
+    "note": "drained"
+   },
+   {
+    "n": "white rice",
+    "note": "cooked and cold"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "chopped"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Cut a lid off each tomato, scoop them out with a teaspoon and salt the insides. Leave upside down for 10 minutes.",
+   "Mix the tuna, rice, egg, mayonnaise, parsley and pepper.",
+   "Fill the tomatoes, replace the lids and chill 20 minutes before serving."
+  ],
+  "tips": [
+   "Use the scooped-out pulp for a sauce.",
+   "Filled, they keep in the fridge for up to 1 day."
+  ],
+  "video": "stuffed tomatoes"
+ },
+ "added": "2026-09-30"
+}

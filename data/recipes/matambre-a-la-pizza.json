@@ -1,0 +1,161 @@
+{
+ "id": "matambre-a-la-pizza",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "mozzarella",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "garnish"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "olives",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Matambre a la pizza",
+  "blurb": "Matambre tiernizado en leche y gratinado con salsa, mozzarella y orégano. Clásico de parrilla y de horno.",
+  "ing": [
+   {
+    "n": "matambre de res",
+    "note": "sin exceso de grasa"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "tomate triturado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "mozzarella",
+    "note": "en fetas"
+   },
+   {
+    "n": "pimiento morrón rojo asado",
+    "note": "en tiras"
+   },
+   {
+    "n": "aceitunas verdes"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece el matambre cubierto con la leche y 1 cucharadita de sal a fuego bajo 60 minutos, hasta que esté tierno.",
+   "Escúrrelo y dóralo en la parrilla o en el horno a 220 °C 10 minutos por lado.",
+   "Mezcla el tomate con el ajo y el resto de la sal y úntalo sobre la carne.",
+   "Cubre con la mozzarella, el morrón y las aceitunas y gratina 8 minutos. Espolvorea el orégano y sirve."
+  ],
+  "tips": [
+   "Pide el matambre de novillo, que es más tierno.",
+   "La leche de la cocción se desecha."
+  ],
+  "video": "matambre a la pizza"
+ },
+ "en": {
+  "name": "Matambre a la Pizza (Pizza-Topped Flank)",
+  "blurb": "Flank tenderised in milk and grilled with tomato, mozzarella and oregano. A steakhouse and home-oven classic.",
+  "ing": [
+   {
+    "n": "beef flank matambre",
+    "note": "trimmed"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "crushed tomatoes"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "mozzarella",
+    "note": "sliced"
+   },
+   {
+    "n": "roasted red pepper",
+    "note": "in strips"
+   },
+   {
+    "n": "green olives"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the matambre covered in the milk with 1 teaspoon of salt on low heat for 60 minutes, until tender.",
+   "Drain and brown it on the grill or in the oven at 220 °C, 10 minutes a side.",
+   "Mix the tomato with the garlic and the rest of the salt and spread it over the meat.",
+   "Top with the mozzarella, pepper and olives and grill 8 minutes. Sprinkle with oregano and serve."
+  ],
+  "tips": [
+   "Ask for steer matambre, which is more tender.",
+   "Discard the cooking milk."
+  ],
+  "video": "pizza-style matambre"
+ },
+ "added": "2026-09-30"
+}

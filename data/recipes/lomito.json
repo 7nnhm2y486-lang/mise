@@ -1,0 +1,169 @@
+{
+ "id": "lomito",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "slice",
+   "k": "ham",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "slice",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "leaf",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "garnish"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "mayo",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Lomito completo",
+  "blurb": "Sándwich de bife de lomo con jamón, queso, huevo frito, lechuga y tomate. El gran sándwich de Córdoba.",
+  "ing": [
+   {
+    "n": "lomo de res",
+    "note": "en bifes finos"
+   },
+   {
+    "n": "panes de lomito o pan francés"
+   },
+   {
+    "n": "jamón cocido"
+   },
+   {
+    "n": "queso de máquina"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "lechuga"
+   },
+   {
+    "n": "tomates",
+    "note": "en rodajas"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sala los bifes y cocínalos en la plancha caliente con la mitad del aceite 2 minutos por lado.",
+   "Pon encima el jamón y el queso y tapa 1 minuto para que se funda.",
+   "Fríe los huevos en el resto del aceite.",
+   "Abre y tuesta los panes, úntalos con la mayonesa y arma con la lechuga, el tomate, la carne y el huevo."
+  ],
+  "tips": [
+   "Aplasta los bifes con un golpe para que queden parejos.",
+   "Sírvelo enseguida, cortado al medio."
+  ],
+  "video": "lomito cordobés"
+ },
+ "en": {
+  "name": "Lomito Completo (Argentine Steak Sandwich)",
+  "blurb": "A tenderloin steak sandwich with ham, cheese, fried egg, lettuce and tomato. Córdoba's great sandwich.",
+  "ing": [
+   {
+    "n": "beef tenderloin",
+    "note": "in thin steaks"
+   },
+   {
+    "n": "long crusty rolls"
+   },
+   {
+    "n": "cooked ham"
+   },
+   {
+    "n": "mild sliced cheese"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "lettuce"
+   },
+   {
+    "n": "tomatoes",
+    "note": "sliced"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Salt the steaks and cook on a hot griddle with half the oil, 2 minutes a side.",
+   "Top with the ham and cheese and cover for 1 minute to melt.",
+   "Fry the eggs in the remaining oil.",
+   "Split and toast the rolls, spread with mayonnaise and build with lettuce, tomato, steak and egg."
+  ],
+  "tips": [
+   "Pound the steaks once so they're even.",
+   "Serve at once, cut in half."
+  ],
+  "video": "argentine lomito"
+ },
+ "added": "2026-09-30"
+}
