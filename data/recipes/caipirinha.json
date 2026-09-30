@@ -1,0 +1,93 @@
+{
+ "id": "caipirinha",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 5,
+ "serves": 1,
+ "ing": [
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "spirit",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "ice",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Caipirinha",
+  "blurb": "Lima machacada con azúcar, cachaça y hielo picado. El cóctel nacional de Brasil.",
+  "ing": [
+   {
+    "n": "lima",
+    "note": "en 8 gajos, sin el centro blanco"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "cachaça"
+   },
+   {
+    "n": "hielo picado"
+   }
+  ],
+  "steps": [
+   "Pon la lima y el azúcar en un vaso bajo y machaca 10 veces para sacar el jugo y el aceite de la cáscara.",
+   "Llena el vaso de hielo picado.",
+   "Añade la cachaça y remueve con la cuchara del fondo hacia arriba."
+  ],
+  "tips": [
+   "Quita el centro blanco de la lima: es lo que amarga.",
+   "No machaques de más; la cáscara rota suelta amargor."
+  ],
+  "video": "caipirinha receita original"
+ },
+ "en": {
+  "name": "Caipirinha",
+  "blurb": "Lime muddled with sugar, cachaça and crushed ice. Brazil's national cocktail.",
+  "ing": [
+   {
+    "n": "lime",
+    "note": "cut in 8 wedges, pith removed"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cachaça"
+   },
+   {
+    "n": "crushed ice"
+   }
+  ],
+  "steps": [
+   "Put the lime and sugar in a short glass and muddle 10 times to release the juice and the oil in the peel.",
+   "Fill the glass with crushed ice.",
+   "Add the cachaça and stir from the bottom up."
+  ],
+  "tips": [
+   "Remove the white core of the lime: that's what turns it bitter.",
+   "Don't over-muddle; torn peel releases bitterness."
+  ],
+  "video": "caipirinha recipe"
+ },
+ "added": "2026-09-30"
+}

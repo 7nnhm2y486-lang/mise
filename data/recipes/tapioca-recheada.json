@@ -1,0 +1,109 @@
+{
+ "id": "tapioca-recheada",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 15,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 120,
+   "u": "g",
+   "k": "cassavastarch",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "cheese",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "desiccatedcoconut",
+   "role": "enrich"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Tapioca de queso y coco",
+  "blurb": "Crepe de almidón de yuca que se cuaja sola en la sartén, rellena de queso y coco. Desayuno del nordeste.",
+  "ing": [
+   {
+    "n": "almidón de yuca hidratado (goma de tapioca)"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "queso coalho o queso de freír",
+    "note": "rallado"
+   },
+   {
+    "n": "coco rallado"
+   },
+   {
+    "n": "mantequilla"
+   }
+  ],
+  "steps": [
+   "Pasa el almidón por un colador para dejarlo como arena fina y añade la sal.",
+   "Calienta una sartén antiadherente de 20 cm a fuego medio, sin grasa.",
+   "Espolvorea la mitad del almidón en una capa pareja y aplánalo con una cuchara. Cuece 1 minuto, hasta que se una en un disco.",
+   "Pon la mitad del queso y del coco en una mitad, dobla y cuece 1 minuto por lado.",
+   "Pinta con la mitad de la mantequilla y sirve. Repite con el resto."
+  ],
+  "tips": [
+   "Si compras almidón seco, mézclalo con agua hasta que parezca arena húmeda, cuélalo y deja secar 10 minutos.",
+   "No muevas la tapioca hasta que se despegue sola."
+  ],
+  "video": "tapioca de queijo coalho receita"
+ },
+ "en": {
+  "name": "Tapioca Crêpe with Cheese and Coconut",
+  "blurb": "A cassava-starch crêpe that sets by itself in the pan, filled with cheese and coconut. A northeastern breakfast.",
+  "ing": [
+   {
+    "n": "hydrated cassava starch (tapioca goma)"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "coalho or frying cheese",
+    "note": "grated"
+   },
+   {
+    "n": "desiccated coconut"
+   },
+   {
+    "n": "butter"
+   }
+  ],
+  "steps": [
+   "Push the starch through a sieve so it's like fine sand and add the salt.",
+   "Heat a 20 cm non-stick frying pan over medium heat, without fat.",
+   "Sprinkle half the starch in an even layer and flatten with a spoon. Cook 1 minute, until it fuses into a disc.",
+   "Put half the cheese and coconut on one half, fold and cook 1 minute each side.",
+   "Brush with half the butter and serve. Repeat with the rest."
+  ],
+  "tips": [
+   "If you buy dry starch, mix it with water until it looks like damp sand, sieve it and leave 10 minutes to dry.",
+   "Don't move the tapioca until it releases on its own."
+  ],
+  "video": "brazilian tapioca crepe recipe"
+ },
+ "added": "2026-09-30"
+}

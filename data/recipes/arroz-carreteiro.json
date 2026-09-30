@@ -1,0 +1,167 @@
+{
+ "id": "arroz-carreteiro",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "driedmeat",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 900,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Arroz carreteiro",
+  "blurb": "Arroz con charque dorado, cocido en una sola olla. La comida de los carreteros gauchos del sur de Brasil.",
+  "ing": [
+   {
+    "n": "charque (carne seca)",
+    "note": "desalado 12 horas, en dados"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "arroz de grano largo"
+   },
+   {
+    "n": "agua caliente"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Cuece el charque desalado en agua 20 minutos y escúrrelo.",
+   "Dora el charque en el aceite 8 minutos, hasta que tenga bordes tostados.",
+   "Añade la cebolla, el ajo, el pimiento y el tomate y cuece 5 minutos.",
+   "Añade el arroz y mezcla 2 minutos. Añade el agua, tapa y cuece 18 minutos a fuego bajo.",
+   "Deja reposar 5 minutos, suelta con un tenedor y termina con el perejil."
+  ],
+  "tips": [
+   "Prueba el charque tras cocerlo antes de añadir sal; normalmente no hace falta.",
+   "Se hace también con restos de churrasco en lugar de charque."
+  ],
+  "video": "arroz carreteiro receita"
+ },
+ "en": {
+  "name": "Arroz Carreteiro (Cart-Driver's Rice)",
+  "blurb": "Rice with browned charque, cooked in one pot. The food of the gaucho cart drivers of southern Brazil.",
+  "ing": [
+   {
+    "n": "charque (salted dried beef)",
+    "note": "desalted 12 hours, diced"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "long-grain rice"
+   },
+   {
+    "n": "hot water"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Simmer the desalted charque in water for 20 minutes and drain.",
+   "Brown the charque in the oil for 8 minutes, until the edges crisp.",
+   "Add the onion, garlic, pepper and tomato and cook 5 minutes.",
+   "Add the rice and stir 2 minutes. Add the water, cover and cook 18 minutes on low.",
+   "Rest 5 minutes, fluff with a fork and finish with the parsley."
+  ],
+  "tips": [
+   "Taste the charque after simmering before adding salt; it usually needs none.",
+   "It is also made with leftover grilled beef instead of charque."
+  ],
+  "video": "arroz carreteiro recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,203 @@
+{
+ "id": "vatapa",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "main",
+ "time": 45,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "bread",
+   "role": "thicken"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "shrimp",
+   "role": "umami"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "peanut",
+   "role": "thicken"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "cashew",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Vatapá",
+  "blurb": "Crema espesa de pan, leche de coco, camarón seco, maní y anacardo con dendê. Plato de Bahía de raíz africana.",
+  "ing": [
+   {
+    "n": "pan blanco del día anterior",
+    "note": "sin corteza"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "camarones secos",
+    "note": "remojados 20 minutos"
+   },
+   {
+    "n": "maní tostado sin sal"
+   },
+   {
+    "n": "anacardos tostados"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "jengibre fresco",
+    "note": "rallado"
+   },
+   {
+    "n": "aceite de palma (dendê)"
+   },
+   {
+    "n": "limón",
+    "note": "en jugo"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja el pan en la leche de coco y el agua 10 minutos.",
+   "Licúa el pan con su líquido, los camarones escurridos, el maní, los anacardos, la cebolla y el jengibre hasta que esté liso.",
+   "Pasa a una olla con el dendê y cuece a fuego bajo 20 minutos, removiendo sin parar, hasta que se despegue del fondo.",
+   "Añade el jugo de limón y la sal y mezcla.",
+   "Termina con el cilantro. Sirve caliente con arroz blanco."
+  ],
+  "tips": [
+   "Remueve con cuchara de madera todo el tiempo; se pega con facilidad.",
+   "Los camarones secos ya son salados: prueba antes de salar."
+  ],
+  "video": "vatapá baiano receita"
+ },
+ "en": {
+  "name": "Vatapá (Bahian Bread and Coconut Cream)",
+  "blurb": "A thick cream of bread, coconut milk, dried shrimp, peanuts and cashews with dendê. A Bahian dish with African roots.",
+  "ing": [
+   {
+    "n": "day-old white bread",
+    "note": "crusts removed"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "dried shrimp",
+    "note": "soaked 20 minutes"
+   },
+   {
+    "n": "unsalted roasted peanuts"
+   },
+   {
+    "n": "roasted cashews"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "fresh ginger",
+    "note": "grated"
+   },
+   {
+    "n": "palm oil (dendê)"
+   },
+   {
+    "n": "lime",
+    "note": "juiced"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the bread in the coconut milk and water for 10 minutes.",
+   "Blend the bread and its liquid with the drained shrimp, peanuts, cashews, onion and ginger until smooth.",
+   "Transfer to a pot with the dendê and cook over low heat for 20 minutes, stirring constantly, until it pulls from the bottom.",
+   "Add the lime juice and salt and mix.",
+   "Finish with the cilantro. Serve hot with white rice."
+  ],
+  "tips": [
+   "Stir with a wooden spoon the whole time; it catches easily.",
+   "Dried shrimp are already salty: taste before salting."
+  ],
+  "video": "vatapa recipe"
+ },
+ "added": "2026-09-30"
+}

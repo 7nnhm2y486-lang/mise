@@ -1,0 +1,201 @@
+{
+ "id": "pastel-de-feira",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 75,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "spirit",
+   "role": "aerate"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "olives",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Pastel de feria",
+  "blurb": "Empanada rectangular de masa fina que se infla en burbujas al freír. El clásico del mercado callejero de São Paulo.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cachaça"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "aceitunas verdes",
+    "note": "picadas"
+   },
+   {
+    "n": "huevos duros",
+    "note": "picados"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la sal, el aceite, la cachaça y el agua y amasa 5 minutos. Tapa y deja 30 minutos.",
+   "Dora la carne con la cebolla y el ajo 10 minutos. Sala al gusto, añade las aceitunas y el perejil y deja enfriar. Mezcla con el huevo.",
+   "Estira la masa muy fina, de 1 mm, y corta rectángulos de 12 x 20 cm.",
+   "Pon relleno en una mitad, dobla, sella con un tenedor y quita el aire.",
+   "Fríe a 190 °C durante 2 minutos por lado, hasta que se infle y dore."
+  ],
+  "tips": [
+   "La cachaça hace las burbujas crujientes; se evapora al freír.",
+   "El aceite debe estar muy caliente o el pastel absorbe grasa."
+  ],
+  "video": "pastel de feira receita"
+ },
+ "en": {
+  "name": "Pastel de Feira (Market Pastry)",
+  "blurb": "A thin rectangular turnover that blisters as it fries. The street-market classic of São Paulo.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "cachaça"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "green olives",
+    "note": "chopped"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "chopped"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Mix the flour, salt, oil, cachaça and water and knead 5 minutes. Cover and leave 30 minutes.",
+   "Brown the beef with the onion and garlic for 10 minutes. Salt to taste, add the olives and parsley and let cool. Mix in the egg.",
+   "Roll the dough very thin, to 1 mm, and cut 12 x 20 cm rectangles.",
+   "Put filling on one half, fold, seal with a fork and press out the air.",
+   "Fry at 190 °C for 2 minutes a side, until puffed and golden."
+  ],
+  "tips": [
+   "The cachaça makes the crisp blisters; it evaporates in the fryer.",
+   "The oil must be very hot or the pastry soaks up fat."
+  ],
+  "video": "pastel de feira recipe"
+ },
+ "added": "2026-09-30"
+}

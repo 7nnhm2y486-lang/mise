@@ -1,0 +1,179 @@
+{
+ "id": "baiao-de-dois",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "bacon",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "cheese",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ghee",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Baião de dois",
+  "blurb": "Arroz y frijol de ojo negro cocidos juntos con tocino y queso coalho. El plato del sertón de Ceará.",
+  "ing": [
+   {
+    "n": "frijoles de ojo negro",
+    "note": "remojados 4 horas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "tocino ahumado",
+    "note": "en dados"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "arroz de grano largo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "queso coalho o queso de freír",
+    "note": "en dados"
+   },
+   {
+    "n": "mantequilla clarificada (manteiga de garrafa)"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Cuece los frijoles en el agua 25 minutos, hasta que estén tiernos pero enteros. Guarda 700 ml del agua de cocción.",
+   "Fríe el tocino 5 minutos en una olla. Añade la cebolla y el ajo y cuece 4 minutos.",
+   "Añade el arroz y mezcla 1 minuto. Añade los frijoles, el agua reservada y la sal. Tapa y cuece 18 minutos a fuego bajo.",
+   "Dora el queso en una sartén 3 minutos.",
+   "Mezcla el queso y la mantequilla clarificada con el arroz y termina con el cilantro."
+  ],
+  "tips": [
+   "Los frijoles deben quedar enteros: vigílalos a partir de los 20 minutos.",
+   "El queso coalho no se derrite; por eso se puede dorar."
+  ],
+  "video": "baião de dois receita cearense"
+ },
+ "en": {
+  "name": "Baião de Dois (Rice and Black-Eyed Peas)",
+  "blurb": "Rice and black-eyed peas cooked together with bacon and coalho cheese. The dish of the Ceará backlands.",
+  "ing": [
+   {
+    "n": "black-eyed peas",
+    "note": "soaked 4 hours"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "smoked bacon",
+    "note": "diced"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "long-grain rice"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "coalho or frying cheese",
+    "note": "diced"
+   },
+   {
+    "n": "clarified butter (manteiga de garrafa)"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Cook the peas in the water for 25 minutes, until tender but whole. Keep 700 ml of the cooking water.",
+   "Fry the bacon for 5 minutes in a pot. Add the onion and garlic and cook 4 minutes.",
+   "Add the rice and stir 1 minute. Add the peas, the reserved water and the salt. Cover and cook 18 minutes on low.",
+   "Brown the cheese in a frying pan for 3 minutes.",
+   "Stir the cheese and clarified butter into the rice and finish with the cilantro."
+  ],
+  "tips": [
+   "The peas should stay whole: watch them from 20 minutes on.",
+   "Coalho cheese doesn't melt; that's why it can be browned."
+  ],
+  "video": "baiao de dois recipe"
+ },
+ "added": "2026-09-30"
+}

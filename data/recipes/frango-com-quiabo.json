@@ -1,0 +1,191 @@
+{
+ "id": "frango-com-quiabo",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "whitevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Frango com quiabo",
+  "blurb": "Pollo guisado con quimbombó dorado aparte para que no quede baboso. Plato de domingo en Minas Gerais.",
+  "ing": [
+   {
+    "n": "pollo en presas"
+   },
+   {
+    "n": "limón",
+    "note": "en jugo"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "quimbombó (quiabo)",
+    "note": "en rodajas de 2 cm"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "perejil y cilantro",
+    "note": "picados"
+   }
+  ],
+  "steps": [
+   "Adoba el pollo con el limón, el ajo y la sal 20 minutos.",
+   "Dora el pollo en 2 cucharadas de aceite 10 minutos. Añade la cebolla y el tomate y cuece 5 minutos.",
+   "Añade el agua, tapa y cuece 30 minutos.",
+   "Mientras, saltea el quimbombó con el vinagre en el resto del aceite a fuego fuerte 8 minutos, hasta que deje de soltar baba.",
+   "Añade el quimbombó al pollo, cuece 5 minutos y termina con las hierbas."
+  ],
+  "tips": [
+   "Seca bien el quimbombó antes de cortarlo; mojado suelta más baba.",
+   "Se sirve con arroz blanco."
+  ],
+  "video": "frango com quiabo mineiro"
+ },
+ "en": {
+  "name": "Frango com Quiabo (Chicken with Okra)",
+  "blurb": "Chicken stew with okra browned separately so it isn't slimy. Sunday food in Minas Gerais.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "lime",
+    "note": "juiced"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "okra (quiabo)",
+    "note": "in 2 cm slices"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "parsley and cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Season the chicken with the lime, garlic and salt for 20 minutes.",
+   "Brown the chicken in 2 tablespoons of oil for 10 minutes. Add the onion and tomato and cook 5 minutes.",
+   "Add the water, cover and cook 30 minutes.",
+   "Meanwhile, fry the okra with the vinegar in the rest of the oil over high heat for 8 minutes, until it stops releasing slime.",
+   "Add the okra to the chicken, cook 5 minutes and finish with the herbs."
+  ],
+  "tips": [
+   "Dry the okra well before slicing; wet, it gets slimier.",
+   "It is served with white rice."
+  ],
+  "video": "frango com quiabo recipe"
+ },
+ "added": "2026-09-30"
+}

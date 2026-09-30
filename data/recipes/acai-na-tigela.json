@@ -1,0 +1,123 @@
+{
+ "id": "acai-na-tigela",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 10,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "fruit",
+   "role": "sweet"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "fruit",
+   "role": "garnish"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "fruit",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "desiccatedcoconut",
+   "role": "crunch"
+  }
+ ],
+ "es": {
+  "name": "Açaí na tigela",
+  "blurb": "Açaí congelado batido espeso con plátano y servido en bol con fruta fresca. Desayuno de playa en Río.",
+  "ing": [
+   {
+    "n": "pulpa de açaí congelada sin azúcar"
+   },
+   {
+    "n": "plátanos maduros congelados",
+    "note": "en rodajas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "plátano",
+    "note": "en rodajas"
+   },
+   {
+    "n": "fresas",
+    "note": "en láminas"
+   },
+   {
+    "n": "coco rallado tostado"
+   }
+  ],
+  "steps": [
+   "Deja la pulpa de açaí 5 minutos fuera del congelador y pártela en trozos.",
+   "Licúa el açaí, el plátano congelado y el agua a velocidad baja, empujando con el mazo, hasta que tenga textura de helado suave.",
+   "Sirve en dos boles.",
+   "Cubre con el plátano fresco, las fresas y el coco."
+  ],
+  "tips": [
+   "Añade el agua de cucharada en cucharada: debe quedar espeso, para comer con cuchara.",
+   "El plátano maduro endulza sin azúcar añadido."
+  ],
+  "video": "açaí na tigela receita"
+ },
+ "en": {
+  "name": "Açaí Bowl",
+  "blurb": "Frozen açaí blended thick with banana and served in a bowl with fresh fruit. A Rio beach breakfast.",
+  "ing": [
+   {
+    "n": "unsweetened frozen açaí pulp"
+   },
+   {
+    "n": "frozen ripe bananas",
+    "note": "sliced"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "banana",
+    "note": "sliced"
+   },
+   {
+    "n": "strawberries",
+    "note": "sliced"
+   },
+   {
+    "n": "toasted desiccated coconut"
+   }
+  ],
+  "steps": [
+   "Leave the açaí pulp out of the freezer for 5 minutes and break it into pieces.",
+   "Blend the açaí, frozen banana and water on low, pushing down with the tamper, until it has the texture of soft ice cream.",
+   "Divide between two bowls.",
+   "Top with the fresh banana, strawberries and coconut."
+  ],
+  "tips": [
+   "Add the water a spoonful at a time: it should be thick enough to eat with a spoon.",
+   "Ripe banana sweetens it with no added sugar."
+  ],
+  "video": "acai bowl recipe"
+ },
+ "added": "2026-09-30"
+}

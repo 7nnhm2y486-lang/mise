@@ -1,0 +1,107 @@
+{
+ "id": "beijinho",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 30,
+ "serves": 25,
+ "ing": [
+  {
+   "q": 395,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "structure"
+  },
+  {
+   "q": 15,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "desiccatedcoconut",
+   "role": "structure"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "desiccatedcoconut",
+   "role": "garnish"
+  },
+  {
+   "q": 25,
+   "u": "",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Beijinho",
+  "blurb": "Bolitas de leche condensada y coco con un clavo encima. El compañero blanco del brigadeiro en toda fiesta brasileña.",
+  "ing": [
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "coco rallado"
+   },
+   {
+    "n": "coco rallado para rebozar"
+   },
+   {
+    "n": "clavos de olor"
+   }
+  ],
+  "steps": [
+   "Cuece la leche condensada, la mantequilla y 80 g de coco a fuego bajo, removiendo sin parar, 12 minutos, hasta que se despegue del fondo.",
+   "Pasa a un plato engrasado y deja enfriar por completo.",
+   "Con las manos engrasadas, forma bolitas de 15 g.",
+   "Rebózalas en el resto del coco.",
+   "Pon un clavo encima de cada una y sírvelas en cápsulas de papel."
+  ],
+  "tips": [
+   "El punto está cuando al inclinar la olla la masa se mueve entera.",
+   "El clavo es decorativo; avisa que no se come."
+  ],
+  "video": "beijinho de coco receita"
+ },
+ "en": {
+  "name": "Beijinho (Coconut Kisses)",
+  "blurb": "Condensed milk and coconut balls topped with a clove. The white partner to the brigadeiro at every Brazilian party.",
+  "ing": [
+   {
+    "n": "condensed milk"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "desiccated coconut"
+   },
+   {
+    "n": "desiccated coconut for rolling"
+   },
+   {
+    "n": "whole cloves"
+   }
+  ],
+  "steps": [
+   "Cook the condensed milk, butter and 80 g of coconut over low heat, stirring constantly, for 12 minutes, until it pulls from the bottom.",
+   "Transfer to a greased plate and let cool completely.",
+   "With greased hands, roll into 15 g balls.",
+   "Roll them in the rest of the coconut.",
+   "Press a clove on top of each and serve in paper cases."
+  ],
+  "tips": [
+   "It's ready when tilting the pan moves the mass in one piece.",
+   "The clove is decorative; let people know it isn't eaten."
+  ],
+  "video": "beijinho recipe"
+ },
+ "added": "2026-09-30"
+}

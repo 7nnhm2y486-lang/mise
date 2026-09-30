@@ -1,0 +1,99 @@
+{
+ "id": "acaraje",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Acarajé",
+  "blurb": "Buñuelos de frijol de ojo negro fritos en dendê. Comida de las baianas en las calles de Salvador.",
+  "ing": [
+   {
+    "n": "frijoles de ojo negro",
+    "note": "remojados 12 horas"
+   },
+   {
+    "n": "cebolla",
+    "note": "en trozos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite de palma (dendê) para freír"
+   }
+  ],
+  "steps": [
+   "Frota los frijoles remojados entre las manos en agua para soltar la piel. Deja que las pieles floten y retíralas. Repite hasta que estén limpios.",
+   "Muele los frijoles con la cebolla en el procesador hasta tener una pasta espesa, sin agua o con muy poca.",
+   "Añade la sal y bate la pasta con una cuchara de madera 5 minutos, hasta que esté aireada y más clara.",
+   "Calienta el dendê a 175 °C. Forma bollos con dos cucharas y fríe 5 minutos, volteando, hasta que estén dorados oscuros.",
+   "Escúrrelos sobre papel y sirve calientes."
+  ],
+  "tips": [
+   "El batido final es lo que los hace ligeros por dentro; no te lo saltes.",
+   "Pelar los frijoles lleva tiempo pero es necesario: con piel quedan duros."
+  ],
+  "video": "acarajé receita baiana"
+ },
+ "en": {
+  "name": "Acarajé (Black-Eyed Pea Fritters)",
+  "blurb": "Black-eyed pea fritters fried in dendê. Street food of the baianas in Salvador.",
+  "ing": [
+   {
+    "n": "black-eyed peas",
+    "note": "soaked 12 hours"
+   },
+   {
+    "n": "onion",
+    "note": "in chunks"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "palm oil (dendê) for frying"
+   }
+  ],
+  "steps": [
+   "Rub the soaked peas between your hands in water to loosen the skins. Let the skins float and skim them off. Repeat until clean.",
+   "Grind the peas with the onion in a food processor to a thick paste, with no water or very little.",
+   "Add the salt and beat the paste with a wooden spoon for 5 minutes, until airy and paler.",
+   "Heat the dendê to 175 °C. Shape dumplings with two spoons and fry 5 minutes, turning, until deep golden.",
+   "Drain on paper and serve hot."
+  ],
+  "tips": [
+   "The final beating is what makes them light inside; don't skip it.",
+   "Skinning the peas takes time but is necessary: with skins they're tough."
+  ],
+  "video": "acaraje recipe"
+ },
+ "added": "2026-09-30"
+}
