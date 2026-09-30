@@ -63,6 +63,12 @@
   {
    "q": 1,
    "u": "plate",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
    "k": "onion",
    "role": "garnish"
   },
@@ -107,7 +113,11 @@
     "n": "laurel"
    },
    {
-    "n": "col, rábano, cebolla, limón, orégano"
+    "n": "col, rábano, limón, orégano"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "picada fina, para servir"
    },
    {
     "n": "sal"
@@ -162,7 +172,11 @@
     "n": "bay leaf"
    },
    {
-    "n": "cabbage, radish, onion, lime, oregano"
+    "n": "cabbage, radish, lime, oregano"
+   },
+   {
+    "n": "white onion",
+    "note": "finely chopped, to serve"
    },
    {
     "n": "salt"

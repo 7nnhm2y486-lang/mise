@@ -476,3 +476,26 @@ for(const f of fs.readdirSync(RECIPES)){
   });
   if(dirty) fs.writeFileSync(file, JSON.stringify(r, null, 1) + "\n");
 }
+
+/* ---------- raw onion garnish, fennel ---------- */
+{ const S6 = JSON.parse(fs.readFileSync(EFILE, "utf8")), I6 = S6.ingredients;
+  // Cooking swaps (asafoetida, fennel base) make no sense for raw onion on top of a dish.
+  for(const k of ["onion", "shallot", "leek", "scallion", "chive"]){
+    I6[k].sr = I6[k].sr || {};
+    I6[k].sr.garnish = {allium: [
+      sub(1, [], [], ["rábano en rodajas finas", "Da el mismo crujido y el picor fresco."], ["thinly sliced radish", "Same crunch and fresh bite."]),
+      sub(0, [], [], ["omítela", "Es solo guarnición."], ["leave it out", "It's only a garnish."])]};
+  }
+  // Fennel is in the celery family; cross-reactions with celery allergy are documented.
+  for(const e of Object.values(I6)) for(const l of [...Object.values(e.s || {}), ...Object.values(e.sr || {}).flatMap(Object.values)])
+    for(const s of l) if(/hinojo/.test(s.es.to) && !s.carries.includes("celery")) s.may = [...new Set([...(s.may || []), "celery"])];
+  fs.writeFileSync(EFILE, JSON.stringify(S6, null, 1) + "\n"); }
+{ const file = path.join(RECIPES, "pozole.json"), r = JSON.parse(fs.readFileSync(file, "utf8"));
+  const i = r.es.ing.findIndex(x => x.n === "col, rábano, cebolla, limón, orégano");
+  if(i >= 0){
+    r.ing[i].k = "veg"; r.es.ing[i].n = "col, rábano, limón, orégano"; r.en.ing[i].n = "cabbage, radish, lime, oregano";
+    r.ing.splice(i + 1, 0, {q: 1, u: "", k: "onion", role: "garnish"});
+    r.es.ing.splice(i + 1, 0, {n: "cebolla blanca", note: "picada fina, para servir"});
+    r.en.ing.splice(i + 1, 0, {n: "white onion", note: "finely chopped, to serve"});
+    fs.writeFileSync(file, JSON.stringify(r, null, 1) + "\n");
+  } }

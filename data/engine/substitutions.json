@@ -3254,7 +3254,10 @@
       "en": {
        "to": "fennel stalk",
        "note": "Same watery crunch, same aromatic base."
-      }
+      },
+      "may": [
+       "celery"
+      ]
      },
      {
       "f": 1,
@@ -3909,7 +3912,10 @@
       "en": {
        "to": "smoked paprika + fennel + garlic in oil",
        "note": "Fry them for a chorizo-flavored fat."
-      }
+      },
+      "may": [
+       "celery"
+      ]
      }
     ]
    }
@@ -4391,9 +4397,42 @@
       "en": {
        "to": "finely diced fennel bulb",
        "note": "Gives the sweet aromatic base without the fructans."
-      }
+      },
+      "may": [
+       "celery"
+      ]
      }
     ]
+   },
+   "sr": {
+    "garnish": {
+     "allium": [
+      {
+       "f": 1,
+       "carries": [],
+       "es": {
+        "to": "rábano en rodajas finas",
+        "note": "Da el mismo crujido y el picor fresco."
+       },
+       "en": {
+        "to": "thinly sliced radish",
+        "note": "Same crunch and fresh bite."
+       }
+      },
+      {
+       "f": 0,
+       "carries": [],
+       "es": {
+        "to": "omítela",
+        "note": "Es solo guarnición."
+       },
+       "en": {
+        "to": "leave it out",
+        "note": "It's only a garnish."
+       }
+      }
+     ]
+    }
    }
   },
   "shallot": {
@@ -4426,9 +4465,42 @@
       "en": {
        "to": "finely diced fennel bulb",
        "note": "Gives the sweet aromatic base without the fructans."
-      }
+      },
+      "may": [
+       "celery"
+      ]
      }
     ]
+   },
+   "sr": {
+    "garnish": {
+     "allium": [
+      {
+       "f": 1,
+       "carries": [],
+       "es": {
+        "to": "rábano en rodajas finas",
+        "note": "Da el mismo crujido y el picor fresco."
+       },
+       "en": {
+        "to": "thinly sliced radish",
+        "note": "Same crunch and fresh bite."
+       }
+      },
+      {
+       "f": 0,
+       "carries": [],
+       "es": {
+        "to": "omítela",
+        "note": "Es solo guarnición."
+       },
+       "en": {
+        "to": "leave it out",
+        "note": "It's only a garnish."
+       }
+      }
+     ]
+    }
    }
   },
   "leek": {
@@ -4461,9 +4533,42 @@
       "en": {
        "to": "finely diced fennel bulb",
        "note": "Gives the sweet aromatic base without the fructans."
-      }
+      },
+      "may": [
+       "celery"
+      ]
      }
     ]
+   },
+   "sr": {
+    "garnish": {
+     "allium": [
+      {
+       "f": 1,
+       "carries": [],
+       "es": {
+        "to": "rábano en rodajas finas",
+        "note": "Da el mismo crujido y el picor fresco."
+       },
+       "en": {
+        "to": "thinly sliced radish",
+        "note": "Same crunch and fresh bite."
+       }
+      },
+      {
+       "f": 0,
+       "carries": [],
+       "es": {
+        "to": "omítela",
+        "note": "Es solo guarnición."
+       },
+       "en": {
+        "to": "leave it out",
+        "note": "It's only a garnish."
+       }
+      }
+     ]
+    }
    }
   },
   "scallion": {
@@ -4496,9 +4601,42 @@
       "en": {
        "to": "finely diced fennel bulb",
        "note": "Gives the sweet aromatic base without the fructans."
-      }
+      },
+      "may": [
+       "celery"
+      ]
      }
     ]
+   },
+   "sr": {
+    "garnish": {
+     "allium": [
+      {
+       "f": 1,
+       "carries": [],
+       "es": {
+        "to": "rábano en rodajas finas",
+        "note": "Da el mismo crujido y el picor fresco."
+       },
+       "en": {
+        "to": "thinly sliced radish",
+        "note": "Same crunch and fresh bite."
+       }
+      },
+      {
+       "f": 0,
+       "carries": [],
+       "es": {
+        "to": "omítela",
+        "note": "Es solo guarnición."
+       },
+       "en": {
+        "to": "leave it out",
+        "note": "It's only a garnish."
+       }
+      }
+     ]
+    }
    }
   },
   "chive": {
@@ -4531,9 +4669,42 @@
       "en": {
        "to": "finely diced fennel bulb",
        "note": "Gives the sweet aromatic base without the fructans."
-      }
+      },
+      "may": [
+       "celery"
+      ]
      }
     ]
+   },
+   "sr": {
+    "garnish": {
+     "allium": [
+      {
+       "f": 1,
+       "carries": [],
+       "es": {
+        "to": "rábano en rodajas finas",
+        "note": "Da el mismo crujido y el picor fresco."
+       },
+       "en": {
+        "to": "thinly sliced radish",
+        "note": "Same crunch and fresh bite."
+       }
+      },
+      {
+       "f": 0,
+       "carries": [],
+       "es": {
+        "to": "omítela",
+        "note": "Es solo guarnición."
+       },
+       "en": {
+        "to": "leave it out",
+        "note": "It's only a garnish."
+       }
+      }
+     ]
+    }
    }
   },
   "garlic": {
@@ -4817,7 +4988,10 @@
       "en": {
        "to": "zucchini or fennel",
        "note": "Similar body once cooked."
-      }
+      },
+      "may": [
+       "celery"
+      ]
      }
     ]
    }
@@ -4838,7 +5012,10 @@
       "en": {
        "to": "zucchini or fennel",
        "note": "Similar body once cooked."
-      }
+      },
+      "may": [
+       "celery"
+      ]
      }
     ]
    }
