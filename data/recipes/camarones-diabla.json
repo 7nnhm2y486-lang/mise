@@ -1,0 +1,183 @@
+{
+ "id": "camarones-diabla",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 700,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chipotle",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Camarones a la diabla",
+  "blurb": "Camarones en una salsa roja muy picante de guajillo, árbol y chipotle, terminada con mantequilla.",
+  "ing": [
+   {
+    "n": "camarones grandes",
+    "note": "pelados, con cola"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "sin semillas"
+   },
+   {
+    "n": "chiles de árbol"
+   },
+   {
+    "n": "chiles chipotles en adobo"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Hierve los guajillos, los chiles de árbol y los jitomates 10 minutos.",
+   "Licúalos con los chipotles, el ajo, la cebolla, el agua y la sal. Cuela.",
+   "Calienta el aceite y la mantequilla en un sartén grande. Fríe la salsa 8 minutos, hasta que espese.",
+   "Añade los camarones y cuece 3 a 4 minutos, moviendo, hasta que estén rosados.",
+   "Sirve con arroz blanco."
+  ],
+  "tips": [
+   "Para menos picante, usa 2 chiles de árbol.",
+   "Los camarones se cuecen en minutos: añádelos al final y sirve enseguida."
+  ],
+  "video": "camarones a la diabla receta"
+ },
+ "en": {
+  "name": "Devilled Shrimp (Camarones a la Diabla)",
+  "blurb": "Shrimp in a very hot red sauce of guajillo, árbol and chipotle chiles, finished with butter.",
+  "ing": [
+   {
+    "n": "large shrimp",
+    "note": "peeled, tails on"
+   },
+   {
+    "n": "guajillo chiles",
+    "note": "seeded"
+   },
+   {
+    "n": "árbol chiles"
+   },
+   {
+    "n": "chipotles in adobo"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Boil the guajillos, árbol chiles and tomatoes for 10 minutes.",
+   "Blend with the chipotles, garlic, onion, water and salt. Strain.",
+   "Heat the oil and butter in a large pan. Fry the sauce for 8 minutes, until thick.",
+   "Add the shrimp and cook 3 to 4 minutes, stirring, until pink.",
+   "Serve with white rice."
+  ],
+  "tips": [
+   "For less heat, use 2 árbol chiles.",
+   "Shrimp cook in minutes: add them last and serve right away."
+  ],
+  "video": "camarones a la diabla recipe"
+ },
+ "added": "2026-09-30"
+}

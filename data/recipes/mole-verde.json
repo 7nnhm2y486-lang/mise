@@ -1,0 +1,207 @@
+{
+ "id": "mole-verde",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 90,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "seeds",
+   "role": "thicken"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "tomatillo",
+   "role": "sauce"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "leaf",
+   "k": "veg",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "lard",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Mole verde con cerdo",
+  "blurb": "Un mole fresco de pepita, tomatillo y hierbas verdes, con cerdo tierno. Verde brillante si no se hierve de más.",
+  "ing": [
+   {
+    "n": "espinazo o costilla de cerdo",
+    "note": "en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pepitas de calabaza peladas"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "chiles jalapeños"
+   },
+   {
+    "n": "hojas de lechuga romana"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "hojas santas (opcional)"
+   },
+   {
+    "n": "manteca de cerdo"
+   }
+  ],
+  "steps": [
+   "Cuece el cerdo con el agua, la cebolla, 2 dientes de ajo y la sal 60 minutos, hasta que esté tierno. Guarda el líquido.",
+   "Tuesta las pepitas en un sartén seco hasta que empiecen a saltar. No las dejes dorar.",
+   "Hierve los tomatillos y los jalapeños 5 minutos.",
+   "Licúa las pepitas, los tomatillos, los jalapeños, 2 dientes de ajo y 500 ml del líquido del cerdo. Luego añade la lechuga y las hierbas y licúa solo hasta que esté liso.",
+   "Calienta la manteca en una olla y fríe la salsa 5 minutos a fuego medio, moviendo.",
+   "Añade el cerdo y más líquido hasta que la salsa cubra una cuchara. Calienta sin hervir fuerte y sirve."
+  ],
+  "tips": [
+   "Las hierbas se licúan al final y no hierven mucho: así el mole queda verde y no café.",
+   "Con pollo en vez de cerdo se cuece 35 minutos."
+  ],
+  "video": "mole verde receta"
+ },
+ "en": {
+  "name": "Green Mole with Pork",
+  "blurb": "A fresh mole of pumpkin seeds, tomatillo and green herbs, with tender pork. Bright green as long as you don't overboil it.",
+  "ing": [
+   {
+    "n": "pork backbone or ribs",
+    "note": "in pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "hulled pumpkin seeds"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "jalapeño chiles"
+   },
+   {
+    "n": "romaine lettuce leaves"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "hoja santa leaves (optional)"
+   },
+   {
+    "n": "lard"
+   }
+  ],
+  "steps": [
+   "Simmer the pork with the water, onion, 2 garlic cloves and salt for 60 minutes, until tender. Keep the liquid.",
+   "Toast the pumpkin seeds in a dry pan until they start to pop. Don't let them brown.",
+   "Boil the tomatillos and jalapeños for 5 minutes.",
+   "Blend the seeds, tomatillos, jalapeños, 2 garlic cloves and 500 ml of the pork liquid. Then add the lettuce and herbs and blend just until smooth.",
+   "Heat the lard in a pot and fry the sauce for 5 minutes over medium heat, stirring.",
+   "Add the pork and more liquid until the sauce coats a spoon. Heat without a hard boil and serve."
+  ],
+  "tips": [
+   "The herbs are blended last and barely boiled: that keeps the mole green, not brown.",
+   "With chicken instead of pork, simmer it 35 minutes."
+  ],
+  "video": "mole verde recipe"
+ },
+ "added": "2026-09-30"
+}

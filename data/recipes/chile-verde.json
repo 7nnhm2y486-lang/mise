@@ -1,0 +1,193 @@
+{
+ "id": "chile-verde",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 700,
+   "u": "g",
+   "k": "tomatillo",
+   "role": "sauce"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Chile verde de cerdo",
+  "blurb": "Cerdo guisado en una salsa de tomatillo, poblano y jalapeño asados. Ácido, verde y para comer con tortillas de harina o maíz.",
+  "ing": [
+   {
+    "n": "espaldilla de cerdo",
+    "note": "en cubos de 3 cm"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "chiles poblanos"
+   },
+   {
+    "n": "chiles jalapeños"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "agua"
+   }
+  ],
+  "steps": [
+   "Asa los tomatillos, los chiles, la cebolla en trozos y el ajo bajo el grill o en comal hasta que estén manchados de negro. Pela los poblanos y quítales las semillas.",
+   "Licúa todo lo asado con el cilantro, el comino, el orégano y el agua.",
+   "Sala el cerdo y dóralo en el aceite en tandas.",
+   "Vierte la salsa, tapa y cuece a fuego bajo 90 minutos, hasta que el cerdo esté tierno.",
+   "Prueba de sal y sirve."
+  ],
+  "tips": [
+   "El asado es el sabor: no hiervas los tomatillos para esta receta.",
+   "Si la salsa quedó muy ácida, cuece 10 minutos más destapado."
+  ],
+  "video": "chile verde de puerco receta"
+ },
+ "en": {
+  "name": "Pork Chile Verde",
+  "blurb": "Pork braised in a sauce of charred tomatillo, poblano and jalapeño. Tart, green and made for tortillas.",
+  "ing": [
+   {
+    "n": "pork shoulder",
+    "note": "in 3 cm cubes"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "poblano chiles"
+   },
+   {
+    "n": "jalapeño chiles"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "water"
+   }
+  ],
+  "steps": [
+   "Char the tomatillos, chiles, onion in chunks and garlic under the grill or on a griddle until blackened in spots. Peel and seed the poblanos.",
+   "Blend everything charred with the cilantro, cumin, oregano and water.",
+   "Salt the pork and brown it in the oil in batches.",
+   "Pour in the sauce, cover and simmer on low for 90 minutes, until the pork is tender.",
+   "Taste for salt and serve."
+  ],
+  "tips": [
+   "The charring is the flavour: don't boil the tomatillos for this one.",
+   "If the sauce is too tart, simmer 10 minutes more uncovered."
+  ],
+  "video": "chile verde pork recipe"
+ },
+ "added": "2026-09-30"
+}

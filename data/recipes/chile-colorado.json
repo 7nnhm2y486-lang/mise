@@ -1,0 +1,145 @@
+{
+ "id": "chile-colorado",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Chile colorado",
+  "blurb": "Res en una salsa roja de chile seco, sin jitomate: solo chile, ajo, comino y orégano. El guiso del norte para burritos.",
+  "ing": [
+   {
+    "n": "espaldilla de res",
+    "note": "en cubos de 3 cm"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "chiles guajillo o de Nuevo México",
+    "note": "sin semillas"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "agua"
+   }
+  ],
+  "steps": [
+   "Hierve los chiles en 500 ml del agua 10 minutos. Licúalos con esa agua, el ajo, el comino y el orégano. Cuela.",
+   "Sala la carne y dórala en el aceite en tandas.",
+   "Vierte la salsa y el resto del agua. Tapa y cuece a fuego bajo 90 minutos, hasta que la carne esté tierna y la salsa espesa.",
+   "Prueba de sal y sirve con frijoles, arroz o en tortillas."
+  ],
+  "tips": [
+   "Colar la salsa es obligatorio: la piel del chile seco no se deshace.",
+   "Si queda amarga, quedaron semillas o venas en los chiles: quítalas todas."
+  ],
+  "video": "chile colorado receta"
+ },
+ "en": {
+  "name": "Chile Colorado",
+  "blurb": "Beef in a red sauce of dried chiles with no tomato: just chile, garlic, cumin and oregano. The northern stew for burritos.",
+  "ing": [
+   {
+    "n": "beef chuck",
+    "note": "in 3 cm cubes"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "guajillo or New Mexico chiles",
+    "note": "seeded"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "water"
+   }
+  ],
+  "steps": [
+   "Boil the chiles in 500 ml of the water for 10 minutes. Blend with that water, the garlic, cumin and oregano. Strain.",
+   "Salt the beef and brown it in the oil in batches.",
+   "Pour in the sauce and the rest of the water. Cover and simmer on low for 90 minutes, until the beef is tender and the sauce thick.",
+   "Taste for salt and serve with beans, rice or in tortillas."
+  ],
+  "tips": [
+   "Straining is a must: dried chile skin never breaks down.",
+   "If it tastes bitter, seeds or veins were left in the chiles: remove them all."
+  ],
+  "video": "chile colorado recipe"
+ },
+ "added": "2026-09-30"
+}

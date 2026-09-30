@@ -1,0 +1,204 @@
+{
+ "id": "pollo-pibil",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 150,
+ "serves": 6,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "leaf",
+   "k": "veg",
+   "role": "serve"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 18,
+   "u": "",
+   "k": "corntortilla",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Pollo pibil",
+  "blurb": "Pollo marinado en achiote y naranja agria, envuelto en hoja de plátano y horneado hasta deshacerse. Con cebolla morada en limón y habanero.",
+  "ing": [
+   {
+    "n": "piezas de pollo",
+    "note": "sin piel"
+   },
+   {
+    "n": "pasta de achiote"
+   },
+   {
+    "n": "jugo de naranja agria (o mitad naranja y mitad limón)"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "hojas de plátano",
+    "note": "pasadas por la llama"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "en pluma fina"
+   },
+   {
+    "n": "chile habanero",
+    "note": "picado fino"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "tortillas de maíz"
+   }
+  ],
+  "steps": [
+   "Licúa el achiote con el jugo de naranja agria, el ajo, el orégano, el comino y la sal.",
+   "Marina el pollo en la mezcla al menos 2 horas.",
+   "Calienta el horno a 180 °C. Forra un refractario con las hojas de plátano, pon el pollo con toda la marinada y cierra las hojas encima. Tapa con aluminio.",
+   "Hornea 90 minutos. Deshebra el pollo en su jugo.",
+   "Mezcla la cebolla con el habanero, el jugo de limón y una pizca de sal. Deja 20 minutos.",
+   "Sirve el pollo en tortillas con la cebolla encima."
+  ],
+  "tips": [
+   "Usa guantes para el achiote y el habanero: el primero tiñe y el segundo quema.",
+   "Si falta hoja de plátano, papel aluminio funciona, pero pierde el aroma."
+  ],
+  "video": "pollo pibil receta"
+ },
+ "en": {
+  "name": "Pollo Pibil",
+  "blurb": "Chicken marinated in achiote and sour orange, wrapped in banana leaves and baked until it falls apart. With red onion in lime and habanero.",
+  "ing": [
+   {
+    "n": "chicken pieces",
+    "note": "skinless"
+   },
+   {
+    "n": "achiote paste"
+   },
+   {
+    "n": "sour orange juice (or half orange, half lime)"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "banana leaves",
+    "note": "passed over a flame"
+   },
+   {
+    "n": "red onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "habanero chile",
+    "note": "finely chopped"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "corn tortillas"
+   }
+  ],
+  "steps": [
+   "Blend the achiote with the sour orange juice, garlic, oregano, cumin and salt.",
+   "Marinate the chicken in the mixture for at least 2 hours.",
+   "Heat the oven to 180 °C. Line a baking dish with the banana leaves, add the chicken with all the marinade and fold the leaves over. Cover with foil.",
+   "Bake 90 minutes. Shred the chicken in its juices.",
+   "Mix the onion with the habanero, lime juice and a pinch of salt. Leave 20 minutes.",
+   "Serve the chicken in corn tortillas with the onion on top."
+  ],
+  "tips": [
+   "Wear gloves for the achiote and the habanero: one stains and the other burns.",
+   "No banana leaves? Foil works, but you lose the aroma."
+  ],
+  "video": "pollo pibil recipe"
+ },
+ "added": "2026-09-30"
+}

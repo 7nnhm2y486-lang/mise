@@ -1,0 +1,209 @@
+{
+ "id": "pipian-rojo",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 75,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "seeds",
+   "role": "thicken"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sesameseed",
+   "role": "thicken"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "ancho",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Pipián rojo con pollo",
+  "blurb": "Salsa roja espesada con pepitas y ajonjolí tostados, con guajillo y ancho. Más rápida que un mole y igual de profunda.",
+  "ing": [
+   {
+    "n": "piezas de pollo"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pepitas de calabaza peladas"
+   },
+   {
+    "n": "ajonjolí"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "sin semillas"
+   },
+   {
+    "n": "chiles anchos",
+    "note": "sin semillas"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "canela molida"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo con el agua, la cebolla, 2 dientes de ajo y la sal 35 minutos. Guarda el líquido.",
+   "Tuesta las pepitas y el ajonjolí en un sartén seco hasta que huelan y empiecen a saltar. Tuesta los chiles 20 segundos por lado.",
+   "Remoja los chiles en agua caliente 15 minutos.",
+   "Licúa las semillas, los chiles, los jitomates, 1 diente de ajo, la canela y el clavo con 500 ml del líquido del pollo. Cuela.",
+   "Fríe la salsa en el aceite 10 minutos a fuego bajo, moviendo, hasta que espese. Añade líquido si hace falta.",
+   "Añade el pollo, calienta 5 minutos y sirve con arroz."
+  ],
+  "tips": [
+   "Las semillas se queman en segundos: sácalas del sartén en cuanto empiecen a saltar.",
+   "Sin ajonjolí, usa 30 gramos más de pepitas."
+  ],
+  "video": "pipian rojo receta"
+ },
+ "en": {
+  "name": "Red Pipián with Chicken",
+  "blurb": "A red sauce thickened with toasted pumpkin and sesame seeds, with guajillo and ancho. Quicker than mole and just as deep.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "hulled pumpkin seeds"
+   },
+   {
+    "n": "sesame seeds"
+   },
+   {
+    "n": "guajillo chiles",
+    "note": "seeded"
+   },
+   {
+    "n": "ancho chiles",
+    "note": "seeded"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "ground cinnamon"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken with the water, onion, 2 garlic cloves and salt for 35 minutes. Keep the liquid.",
+   "Toast the pumpkin and sesame seeds in a dry pan until fragrant and starting to pop. Toast the chiles 20 seconds per side.",
+   "Soak the chiles in hot water for 15 minutes.",
+   "Blend the seeds, chiles, tomatoes, 1 garlic clove, cinnamon and cloves with 500 ml of the chicken liquid. Strain.",
+   "Fry the sauce in the oil for 10 minutes on low, stirring, until thick. Add liquid if needed.",
+   "Add the chicken, heat 5 minutes and serve with rice."
+  ],
+  "tips": [
+   "Seeds burn in seconds: take them out of the pan as soon as they start to pop.",
+   "No sesame? Use 30 grams more pumpkin seeds."
+  ],
+  "video": "pipian rojo recipe"
+ },
+ "added": "2026-09-30"
+}

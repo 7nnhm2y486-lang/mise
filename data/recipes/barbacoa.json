@@ -1,0 +1,252 @@
+{
+ "id": "barbacoa",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 300,
+ "serves": 8,
+ "ovenC": 160,
+ "ing": [
+  {
+   "q": 2,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "ancho",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "cidervinegar",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 24,
+   "u": "",
+   "k": "corntortilla",
+   "role": "serve"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Barbacoa de res al horno",
+  "blurb": "Res adobada con guajillo y ancho, cocida tapada durante horas hasta deshacerse. La barbacoa de hoyo, adaptada a la cocina de casa.",
+  "ing": [
+   {
+    "n": "cachete o espaldilla de res",
+    "note": "en trozos grandes"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "sin semillas"
+   },
+   {
+    "n": "chiles anchos",
+    "note": "sin semillas"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cebolla blanca"
+   },
+   {
+    "n": "vinagre de manzana"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "hojas de laurel"
+   },
+   {
+    "n": "hojas de aguacate secas",
+    "note": "opcional"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "tortillas de maíz"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "picada"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Remoja los chiles en agua caliente 15 minutos. Licúalos con el ajo, la cebolla, el vinagre, el comino, el orégano, el clavo, la sal y el agua.",
+   "Unta la carne con el adobo y déjala en el refrigerador al menos 2 horas o toda la noche.",
+   "Calienta el horno a 160 °C. Pon el laurel y las hojas de aguacate en el fondo de una olla de hierro, la carne encima y todo el adobo.",
+   "Tapa bien, con papel aluminio bajo la tapa, y hornea 4 horas, hasta que la carne se deshaga con un tenedor.",
+   "Deshebra la carne en su jugo. Sirve en tortillas calientes con cebolla y cilantro, y el jugo aparte en tazas."
+  ],
+  "tips": [
+   "El jugo de la olla se toma como consomé: sálalo y sírvelo con garbanzos cocidos.",
+   "Las hojas de aguacate dan el sabor anisado del hoyo; si no las encuentras, se puede sin ellas."
+  ],
+  "video": "barbacoa de res al horno receta"
+ },
+ "en": {
+  "name": "Oven Beef Barbacoa",
+  "blurb": "Beef marinated in guajillo and ancho, cooked covered for hours until it falls apart. Pit barbacoa, adapted to a home kitchen.",
+  "ing": [
+   {
+    "n": "beef cheek or chuck",
+    "note": "in large pieces"
+   },
+   {
+    "n": "guajillo chiles",
+    "note": "seeded"
+   },
+   {
+    "n": "ancho chiles",
+    "note": "seeded"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "white onion"
+   },
+   {
+    "n": "cider vinegar"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "dried avocado leaves",
+    "note": "optional"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "corn tortillas"
+   },
+   {
+    "n": "white onion",
+    "note": "chopped"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Soak the chiles in hot water for 15 minutes. Blend with the garlic, onion, vinegar, cumin, oregano, cloves, salt and water.",
+   "Coat the beef in the marinade and chill at least 2 hours or overnight.",
+   "Heat the oven to 160 °C. Put the bay and avocado leaves in the bottom of a cast-iron pot, the beef on top and all the marinade.",
+   "Cover tightly, with foil under the lid, and bake 4 hours, until the beef falls apart with a fork.",
+   "Shred the beef in its juices. Serve in warm corn tortillas with onion and cilantro, and the juices on the side in cups."
+  ],
+  "tips": [
+   "The pot juices are drunk as consommé: salt them and serve with cooked chickpeas.",
+   "Avocado leaves give the anise note of the pit; if you can't find them, it works without."
+  ],
+  "video": "beef barbacoa recipe"
+ },
+ "added": "2026-09-30"
+}

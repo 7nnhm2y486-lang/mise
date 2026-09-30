@@ -1,0 +1,123 @@
+{
+ "id": "champurrado",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 25,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 90,
+   "u": "g",
+   "k": "tablechocolate",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "masa",
+   "role": "thicken"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Champurrado",
+  "blurb": "Atole espeso de masa de maíz con chocolate de mesa, piloncillo y canela. La bebida caliente de los tamales.",
+  "ing": [
+   {
+    "n": "agua"
+   },
+   {
+    "n": "raja de canela"
+   },
+   {
+    "n": "piloncillo",
+    "note": "picado"
+   },
+   {
+    "n": "chocolate de mesa",
+    "note": "en trozos"
+   },
+   {
+    "n": "masa fresca de maíz"
+   },
+   {
+    "n": "leche"
+   }
+  ],
+  "steps": [
+   "Hierve el agua con la canela y el piloncillo 5 minutos, hasta que se disuelva.",
+   "Añade el chocolate y mueve hasta que se funda.",
+   "Deshaz la masa en la leche con las manos o licúala, hasta que no queden grumos.",
+   "Vierte la leche con masa a la olla colándola, moviendo sin parar.",
+   "Cuece a fuego bajo 10 minutos, moviendo, hasta que espese y cubra una cuchara. Saca la canela y sirve caliente."
+  ],
+  "tips": [
+   "Mueve todo el tiempo: la masa se pega al fondo en segundos.",
+   "Bátelo con molinillo o batidor antes de servir para que haga espuma."
+  ],
+  "video": "champurrado receta"
+ },
+ "en": {
+  "name": "Champurrado",
+  "blurb": "A thick corn masa drink with Mexican table chocolate, piloncillo and cinnamon. The hot drink that goes with tamales.",
+  "ing": [
+   {
+    "n": "water"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "piloncillo (unrefined cane sugar)",
+    "note": "chopped"
+   },
+   {
+    "n": "Mexican table chocolate",
+    "note": "in pieces"
+   },
+   {
+    "n": "fresh corn masa"
+   },
+   {
+    "n": "milk"
+   }
+  ],
+  "steps": [
+   "Boil the water with the cinnamon and piloncillo for 5 minutes, until dissolved.",
+   "Add the chocolate and stir until melted.",
+   "Break up the masa in the milk with your hands or blend it, until there are no lumps.",
+   "Strain the masa milk into the pot, stirring constantly.",
+   "Cook on low for 10 minutes, stirring, until thick enough to coat a spoon. Remove the cinnamon and serve hot."
+  ],
+  "tips": [
+   "Stir the whole time: masa sticks to the bottom in seconds.",
+   "Froth it with a molinillo or whisk before serving."
+  ],
+  "video": "champurrado recipe"
+ },
+ "added": "2026-09-30"
+}

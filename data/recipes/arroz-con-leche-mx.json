@@ -1,0 +1,159 @@
+{
+ "id": "arroz-con-leche-mx",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 50,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "garnish"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Arroz con leche",
+  "blurb": "Arroz cocido con canela y terminado en leche y leche condensada hasta quedar cremoso. Tibio o frío, con canela encima.",
+  "ing": [
+   {
+    "n": "arroz blanco",
+    "note": "enjuagado"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "raja de canela"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "pasas",
+    "note": "opcional"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Hierve el arroz en el agua con la raja de canela 15 minutos, hasta que se absorba casi toda el agua.",
+   "Añade la leche y la sal. Cuece a fuego bajo 20 minutos, moviendo seguido para que no se pegue.",
+   "Añade la leche condensada y las pasas; cuece 5 minutos más.",
+   "Apaga el fuego, saca la canela y añade la vainilla.",
+   "Sirve con canela molida. Se espesa al enfriar."
+  ],
+  "tips": [
+   "Si quedó muy espeso al día siguiente, añade un chorro de leche y calienta.",
+   "Remoja las pasas en agua caliente 10 minutos antes para que queden jugosas."
+  ],
+  "video": "arroz con leche mexicano receta"
+ },
+ "en": {
+  "name": "Mexican Rice Pudding (Arroz con Leche)",
+  "blurb": "Rice cooked with cinnamon and finished in milk and condensed milk until creamy. Warm or cold, with cinnamon on top.",
+  "ing": [
+   {
+    "n": "white rice",
+    "note": "rinsed"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "sweetened condensed milk"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "raisins",
+    "note": "optional"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Boil the rice in the water with the cinnamon stick for 15 minutes, until nearly all the water is absorbed.",
+   "Add the milk and salt. Simmer on low for 20 minutes, stirring often so it doesn't stick.",
+   "Add the condensed milk and raisins; cook 5 minutes more.",
+   "Turn off the heat, remove the cinnamon and add the vanilla.",
+   "Serve with ground cinnamon. It thickens as it cools."
+  ],
+  "tips": [
+   "If it's too thick the next day, add a splash of milk and warm it.",
+   "Soak the raisins in hot water for 10 minutes first so they're plump."
+  ],
+  "video": "arroz con leche recipe"
+ },
+ "added": "2026-09-30"
+}
