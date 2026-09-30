@@ -1,0 +1,118 @@
+{
+ "id": "pisco-sour",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 5,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "spirit",
+   "role": "liquid"
+  },
+  {
+   "q": 45,
+   "u": "ml",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 30,
+   "u": "ml",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggwhite",
+   "role": "aerate"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "ice",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "drop",
+   "k": "spirit",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Pisco sour",
+  "blurb": "El cóctel del Perú: pisco, limón, jarabe y clara batidos con hielo hasta espumar, con gotas de amargo encima.",
+  "ing": [
+   {
+    "n": "pisco quebranta"
+   },
+   {
+    "n": "jugo de limón",
+    "note": "recién exprimido"
+   },
+   {
+    "n": "jarabe de goma (azúcar y agua 1:1)"
+   },
+   {
+    "n": "clara de huevo"
+   },
+   {
+    "n": "hielo"
+   },
+   {
+    "n": "amargo de angostura"
+   }
+  ],
+  "steps": [
+   "Pon el pisco, el limón, el jarabe y la clara en una coctelera o licuadora.",
+   "Añade el hielo y bate 15 segundos, hasta que haga espuma espesa.",
+   "Sirve en vasos cortos y pon 3 gotas de amargo sobre la espuma."
+  ],
+  "tips": [
+   "Lleva alcohol y clara cruda: con embarazo o defensas bajas, no. Usa clara pasteurizada si dudas.",
+   "El limón debe exprimirse en el momento, sin apretar la cáscara, para que no amargue."
+  ],
+  "video": "pisco sour receta"
+ },
+ "en": {
+  "name": "Pisco Sour",
+  "blurb": "Peru's cocktail: pisco, lime, syrup and egg white shaken with ice until foamy, with drops of bitters on top.",
+  "ing": [
+   {
+    "n": "pisco (quebranta)"
+   },
+   {
+    "n": "lime juice",
+    "note": "freshly squeezed"
+   },
+   {
+    "n": "simple syrup (1:1 sugar and water)"
+   },
+   {
+    "n": "egg white"
+   },
+   {
+    "n": "ice"
+   },
+   {
+    "n": "Angostura bitters"
+   }
+  ],
+  "steps": [
+   "Put the pisco, lime, syrup and egg white in a shaker or blender.",
+   "Add the ice and shake 15 seconds, until thickly foamy.",
+   "Pour into short glasses and put 3 drops of bitters on the foam."
+  ],
+  "tips": [
+   "It contains alcohol and raw egg white: not for pregnancy or weakened immunity. Use pasteurised white if in doubt.",
+   "Squeeze the limes just before, without pressing the peel, so it doesn't turn bitter."
+  ],
+  "video": "pisco sour recipe"
+ },
+ "added": "2026-09-30"
+}

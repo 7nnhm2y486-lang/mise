@@ -1,0 +1,196 @@
+{
+ "id": "solterito",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "corn",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 10,
+   "u": "",
+   "k": "olives",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Solterito arequipeño",
+  "blurb": "Ensalada fresca de Arequipa con habas, choclo, queso fresco, aceituna y rocoto, aliñada con limón.",
+  "ing": [
+   {
+    "n": "habas frescas o congeladas",
+    "note": "peladas"
+   },
+   {
+    "n": "choclos",
+    "note": "cocidos, desgranados"
+   },
+   {
+    "n": "tomates",
+    "note": "en cubos"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "en cubos"
+   },
+   {
+    "n": "rocoto",
+    "note": "sin semillas, en cubos pequeños"
+   },
+   {
+    "n": "queso fresco",
+    "note": "en cubos"
+   },
+   {
+    "n": "aceitunas negras",
+    "note": "en rodajas"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Hierve las habas 4 minutos en agua con sal. Escurre y enfría en agua fría.",
+   "Mezcla las habas, el choclo, el tomate, la cebolla, el rocoto, el queso y las aceitunas.",
+   "Bate el limón con el aceite y la sal y aliña.",
+   "Termina con perejil y sirve frío."
+  ],
+  "tips": [
+   "El rocoto es muy picante: empieza con poco.",
+   "Quien toma medicamentos llamados IMAO o tiene favismo (déficit de G6PD) no debe comer habas."
+  ],
+  "video": "solterito arequipeño receta"
+ },
+ "en": {
+  "name": "Solterito (Arequipa Fava Bean Salad)",
+  "blurb": "A fresh Arequipa salad of fava beans, corn, queso fresco, olives and rocoto, dressed with lime.",
+  "ing": [
+   {
+    "n": "fresh or frozen fava beans",
+    "note": "peeled"
+   },
+   {
+    "n": "ears of corn",
+    "note": "cooked, kernels cut off"
+   },
+   {
+    "n": "tomatoes",
+    "note": "diced"
+   },
+   {
+    "n": "red onion",
+    "note": "diced"
+   },
+   {
+    "n": "rocoto pepper",
+    "note": "seeded, finely diced"
+   },
+   {
+    "n": "queso fresco",
+    "note": "cubed"
+   },
+   {
+    "n": "black olives",
+    "note": "sliced"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Boil the fava beans 4 minutes in salted water. Drain and cool in cold water.",
+   "Mix the beans, corn, tomato, onion, rocoto, cheese and olives.",
+   "Whisk the lime with the oil and salt and dress the salad.",
+   "Finish with parsley and serve cold."
+  ],
+  "tips": [
+   "Rocoto is very hot: start with a little.",
+   "Anyone on MAOI medication or with favism (G6PD deficiency) should not eat fava beans."
+  ],
+  "video": "solterito recipe"
+ },
+ "added": "2026-09-30"
+}

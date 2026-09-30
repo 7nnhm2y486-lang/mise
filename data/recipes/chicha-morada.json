@@ -1,0 +1,160 @@
+{
+ "id": "chicha-morada",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 75,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "corn",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "fruit",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "fruit",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "ice",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Chicha morada",
+  "blurb": "Refresco peruano de maíz morado hervido con piña, manzana, canela y clavo. Sin alcohol, dulce y ácido.",
+  "ing": [
+   {
+    "n": "maíz morado",
+    "note": "en mazorcas partidas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cáscara de piña"
+   },
+   {
+    "n": "manzana",
+    "note": "en trozos"
+   },
+   {
+    "n": "rajas de canela"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "hielo"
+   }
+  ],
+  "steps": [
+   "Hierve el maíz, la cáscara de piña, la manzana, la canela y el clavo en el agua 45 minutos.",
+   "Cuela y deja enfriar.",
+   "Añade el azúcar y el limón al gusto y mezcla hasta disolver.",
+   "Sirve muy fría con hielo y trocitos de manzana."
+  ],
+  "tips": [
+   "Se puede hervir el maíz una segunda vez con agua nueva para otra jarra más suave.",
+   "Dura 4 días en el refrigerador sin el limón; añádelo al servir."
+  ],
+  "video": "chicha morada receta"
+ },
+ "en": {
+  "name": "Chicha Morada (Purple Corn Drink)",
+  "blurb": "A Peruvian cooler of purple corn boiled with pineapple, apple, cinnamon and clove. Alcohol-free, sweet and tart.",
+  "ing": [
+   {
+    "n": "purple corn",
+    "note": "cobs, broken"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "pineapple peel"
+   },
+   {
+    "n": "apple",
+    "note": "in pieces"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Boil the corn, pineapple peel, apple, cinnamon and cloves in the water for 45 minutes.",
+   "Strain and cool.",
+   "Add the sugar and lime to taste and stir to dissolve.",
+   "Serve very cold with ice and bits of apple."
+  ],
+  "tips": [
+   "You can boil the corn a second time with fresh water for another, milder jug.",
+   "Keeps 4 days in the fridge without the lime; add it when serving."
+  ],
+  "video": "chicha morada recipe"
+ },
+ "added": "2026-09-30"
+}

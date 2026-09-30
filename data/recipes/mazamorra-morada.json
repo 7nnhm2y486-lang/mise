@@ -1,0 +1,176 @@
+{
+ "id": "mazamorra-morada",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 90,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "fruit",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "fruit",
+   "role": "sweet"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "potato",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Mazamorra morada",
+  "blurb": "Postre espeso de maíz morado con frutas secas, canela y clavo. Morado brillante y con arroz con leche al lado se llama clásico.",
+  "ing": [
+   {
+    "n": "maíz morado",
+    "note": "en mazorcas partidas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cáscara de piña"
+   },
+   {
+    "n": "rajas de canela"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "orejones y ciruelas secas",
+    "note": "en trozos"
+   },
+   {
+    "n": "manzana",
+    "note": "en cubos"
+   },
+   {
+    "n": "chuño (fécula de papa)",
+    "note": "disuelto en agua fría"
+   },
+   {
+    "n": "limón",
+    "note": "en jugo"
+   }
+  ],
+  "steps": [
+   "Hierve el maíz, la cáscara de piña, la canela y el clavo en el agua 45 minutos. Cuela y guarda el líquido morado.",
+   "Añade el azúcar, las frutas secas y la manzana. Hierve 15 minutos.",
+   "Añade el chuño disuelto poco a poco, moviendo sin parar. Cuece 5 minutos, hasta que espese.",
+   "Apaga, añade el limón y sirve tibia o fría con canela encima."
+  ],
+  "tips": [
+   "El limón al final aviva el color morado.",
+   "Media porción de mazamorra y media de arroz con leche en el mismo plato es un clásico."
+  ],
+  "video": "mazamorra morada receta"
+ },
+ "en": {
+  "name": "Mazamorra Morada (Purple Corn Pudding)",
+  "blurb": "A thick pudding of purple corn with dried fruit, cinnamon and clove. Bright purple, and with rice pudding alongside it's called a classic.",
+  "ing": [
+   {
+    "n": "purple corn",
+    "note": "cobs, broken"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "pineapple peel"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "dried apricots and prunes",
+    "note": "chopped"
+   },
+   {
+    "n": "apple",
+    "note": "diced"
+   },
+   {
+    "n": "potato starch (chuño)",
+    "note": "dissolved in cold water"
+   },
+   {
+    "n": "lime",
+    "note": "juiced"
+   }
+  ],
+  "steps": [
+   "Boil the corn, pineapple peel, cinnamon and cloves in the water for 45 minutes. Strain and keep the purple liquid.",
+   "Add the sugar, dried fruit and apple. Boil 15 minutes.",
+   "Add the dissolved potato starch little by little, stirring constantly. Cook 5 minutes, until thick.",
+   "Turn off, add the lime and serve warm or cold with cinnamon on top."
+  ],
+  "tips": [
+   "The lime at the end brightens the purple.",
+   "Half mazamorra and half rice pudding on one plate is a classic."
+  ],
+  "video": "mazamorra morada recipe"
+ },
+ "added": "2026-09-30"
+}

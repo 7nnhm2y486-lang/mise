@@ -1,0 +1,182 @@
+{
+ "id": "pan-con-chicharron",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 120,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "porkbelly",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bread",
+   "role": "serve"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Pan con chicharrón",
+  "blurb": "El desayuno de domingo en Lima: pan crujiente con chicharrón de cerdo, camote frito y salsa criolla.",
+  "ing": [
+   {
+    "n": "panceta o costilla de cerdo",
+    "note": "en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "camote",
+    "note": "en rodajas"
+   },
+   {
+    "n": "panes franceses o bolillos"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "en pluma fina"
+   },
+   {
+    "n": "ají limo o amarillo",
+    "note": "en tiras"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Pon el cerdo con el agua, la sal y el ajo en una olla ancha. Hierve destapado 60 minutos, hasta que el agua se evapore.",
+   "Deja que el cerdo se fría en su propia grasa 20 minutos, volteando, hasta que esté dorado y crujiente.",
+   "Fríe las rodajas de camote en la grasa del cerdo 4 minutos, hasta que estén doradas.",
+   "Mezcla la cebolla con el ají, el limón, el cilantro y una pizca de sal.",
+   "Abre los panes y rellena con chicharrón, camote y la salsa criolla."
+  ],
+  "tips": [
+   "El agua cuece el cerdo y luego, al evaporarse, deja la grasa para freírlo: no añadas aceite.",
+   "Remoja la cebolla en agua fría 10 minutos para quitarle el picor."
+  ],
+  "video": "pan con chicharron receta"
+ },
+ "en": {
+  "name": "Pan con Chicharrón (Pork Crackling Sandwich)",
+  "blurb": "Sunday breakfast in Lima: crusty bread with pork crackling, fried sweet potato and salsa criolla.",
+  "ing": [
+   {
+    "n": "pork belly or ribs",
+    "note": "in pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "sweet potato",
+    "note": "sliced"
+   },
+   {
+    "n": "crusty rolls"
+   },
+   {
+    "n": "red onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "ají limo or yellow chile",
+    "note": "in strips"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Put the pork with the water, salt and garlic in a wide pot. Boil uncovered for 60 minutes, until the water evaporates.",
+   "Let the pork fry in its own fat for 20 minutes, turning, until golden and crisp.",
+   "Fry the sweet potato slices in the pork fat for 4 minutes, until golden.",
+   "Mix the onion with the chile, lime, cilantro and a pinch of salt.",
+   "Split the rolls and fill with pork, sweet potato and the salsa."
+  ],
+  "tips": [
+   "The water cooks the pork, then evaporates and leaves the fat to fry it in: add no oil.",
+   "Soak the onion in cold water for 10 minutes to take the bite off."
+  ],
+  "video": "pan con chicharron recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,192 @@
+{
+ "id": "quinua-atamalada",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "grain",
+   "role": "structure"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "enrich"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Quinua atamalada",
+  "blurb": "Quinua cremosa como un tamal suelto, con ají amarillo, papa, leche y queso fresco. Plato andino de un solo tiempo.",
+  "ing": [
+   {
+    "n": "quinua",
+    "note": "bien enjuagada"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají amarillo"
+   },
+   {
+    "n": "papa amarilla",
+    "note": "en cubos"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "queso fresco",
+    "note": "en cubos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huacatay o cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Frota la quinua bajo el agua hasta que deje de hacer espuma: quita el amargor.",
+   "Sofríe la cebolla, el ajo y el ají en el aceite 8 minutos.",
+   "Añade la quinua, la papa, el agua y la sal. Cuece a fuego bajo 20 minutos, moviendo de vez en cuando, hasta que la quinua abra y esté cremosa.",
+   "Añade la leche y el queso y cuece 3 minutos más.",
+   "Sirve con huacatay picado."
+  ],
+  "tips": [
+   "Debe quedar cremosa como un risotto; añade agua si se seca.",
+   "Con un huevo frito encima es una comida completa."
+  ],
+  "video": "quinua atamalada receta"
+ },
+ "en": {
+  "name": "Quinua Atamalada (Creamy Quinoa Stew)",
+  "blurb": "Quinoa as creamy as a loose tamale, with ají amarillo, potato, milk and queso fresco. A one-pot Andean dish.",
+  "ing": [
+   {
+    "n": "quinoa",
+    "note": "well rinsed"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "yellow potato",
+    "note": "diced"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "queso fresco",
+    "note": "cubed"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "huacatay or cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Rub the quinoa under running water until it stops foaming: that removes the bitterness.",
+   "Cook the onion, garlic and ají in the oil for 8 minutes.",
+   "Add the quinoa, potato, water and salt. Simmer on low for 20 minutes, stirring now and then, until the quinoa opens and turns creamy.",
+   "Add the milk and cheese and cook 3 minutes more.",
+   "Serve with chopped huacatay."
+  ],
+  "tips": [
+   "It should be creamy like risotto; add water if it dries out.",
+   "With a fried egg on top it's a complete meal."
+  ],
+  "video": "quinoa atamalada recipe"
+ },
+ "added": "2026-09-30"
+}

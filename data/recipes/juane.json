@@ -1,0 +1,226 @@
+{
+ "id": "juane",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 6,
+   "u": "thigh",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "olives",
+   "role": "garnish"
+  },
+  {
+   "q": 12,
+   "u": "leaf",
+   "k": "veg",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Juane",
+  "blurb": "El plato de la selva peruana para San Juan: arroz amarillo con pollo, huevo y aceituna, envuelto en hoja y hervido.",
+  "ing": [
+   {
+    "n": "muslos de pollo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "cúrcuma (palillo)"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "arroz blanco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "huevos",
+    "note": "batidos"
+   },
+   {
+    "n": "huevos duros",
+    "note": "en mitades"
+   },
+   {
+    "n": "aceitunas negras"
+   },
+   {
+    "n": "hojas de plátano o bijao",
+    "note": "pasadas por la llama"
+   }
+  ],
+  "steps": [
+   "Sala el pollo y dóralo en el aceite. Añade la cebolla, el ajo, la cúrcuma, el comino y el orégano y sofríe 5 minutos.",
+   "Añade el arroz y el agua. Cuece tapado 20 minutos. Deja entibiar y mezcla con los huevos batidos.",
+   "Cruza 2 hojas, pon una porción de arroz en el centro, un muslo, medio huevo duro y 2 aceitunas, y cubre con más arroz.",
+   "Cierra las hojas formando una bolsa y amarra con pabilo.",
+   "Hierve los juanes en agua con sal 40 minutos. Escurre y sirve abiertos en el plato."
+  ],
+  "tips": [
+   "Los huevos batidos unen el arroz para que el juane se corte en rebanadas.",
+   "En la selva se sirve con plátano frito."
+  ],
+  "video": "juane receta"
+ },
+ "en": {
+  "name": "Juane (Amazonian Rice Parcels)",
+  "blurb": "The Peruvian Amazon's dish for San Juan: yellow rice with chicken, egg and olive, wrapped in leaves and boiled.",
+  "ing": [
+   {
+    "n": "chicken thighs"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ground turmeric"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "white rice"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "eggs",
+    "note": "beaten"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "halved"
+   },
+   {
+    "n": "black olives"
+   },
+   {
+    "n": "banana or bijao leaves",
+    "note": "passed over a flame"
+   }
+  ],
+  "steps": [
+   "Salt the chicken and brown it in the oil. Add the onion, garlic, turmeric, cumin and oregano and cook 5 minutes.",
+   "Add the rice and water. Cook covered 20 minutes. Cool slightly and mix with the beaten eggs.",
+   "Cross 2 leaves, put a portion of rice in the centre, a thigh, half a boiled egg and 2 olives, and cover with more rice.",
+   "Close the leaves into a pouch and tie with string.",
+   "Boil the juanes in salted water for 40 minutes. Drain and serve opened on the plate."
+  ],
+  "tips": [
+   "The beaten eggs bind the rice so the juane slices cleanly.",
+   "In the Amazon it comes with fried plantain."
+  ],
+  "video": "juane recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,146 @@
+{
+ "id": "suspiro-limeno",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 395,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "eggwhite",
+   "role": "aerate"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "wine",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Suspiro limeño",
+  "blurb": "Manjar blanco de leche con yemas cubierto de un merengue perfumado con oporto y canela. Dulce como un suspiro de mujer, dicen.",
+  "ing": [
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "claras de huevo"
+   },
+   {
+    "n": "azúcar",
+    "note": "para el merengue"
+   },
+   {
+    "n": "oporto"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Cuece la leche condensada y la evaporada a fuego medio-bajo 25 minutos, moviendo sin parar, hasta que espese y se vea el fondo de la olla.",
+   "Retira del fuego. Bate las yemas y añade un poco del manjar caliente, luego mezcla todo. Añade la vainilla. Reparte en copas y enfría.",
+   "Hierve el oporto con el azúcar 5 minutos, hasta que haga un almíbar a punto de hilo.",
+   "Bate las claras a punto de nieve. Vierte el almíbar caliente en hilo mientras bates, hasta que el merengue esté brillante y frío.",
+   "Cubre el manjar con el merengue y espolvorea canela."
+  ],
+  "tips": [
+   "Las yemas cuajan con el calor del manjar: no lo regreses al fuego después.",
+   "Las claras no se cuecen del todo en este merengue: en embarazo o con defensas bajas, usa claras pasteurizadas."
+  ],
+  "video": "suspiro limeño receta"
+ },
+ "en": {
+  "name": "Suspiro Limeño",
+  "blurb": "A milk and yolk caramel cream under a meringue scented with port and cinnamon. Sweet as a woman's sigh, the saying goes.",
+  "ing": [
+   {
+    "n": "sweetened condensed milk"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "egg whites"
+   },
+   {
+    "n": "sugar",
+    "note": "for the meringue"
+   },
+   {
+    "n": "port wine"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Cook the condensed and evaporated milk over medium-low heat for 25 minutes, stirring constantly, until thick and the bottom of the pot shows.",
+   "Take off the heat. Whisk the yolks, add a little of the hot cream, then combine everything. Add the vanilla. Divide among glasses and cool.",
+   "Boil the port with the sugar for 5 minutes, to a syrup at thread stage.",
+   "Whisk the whites to stiff peaks. Pour in the hot syrup in a thin stream while whisking, until the meringue is glossy and cool.",
+   "Top the cream with the meringue and dust with cinnamon."
+  ],
+  "tips": [
+   "The yolks set with the heat of the cream: don't return it to the stove.",
+   "The whites aren't fully cooked in this meringue: if pregnant or immunocompromised, use pasteurised whites."
+  ],
+  "video": "suspiro limeno recipe"
+ },
+ "added": "2026-09-30"
+}

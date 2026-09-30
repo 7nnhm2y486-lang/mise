@@ -1,0 +1,202 @@
+{
+ "id": "arroz-tapado",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 600,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "olives",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Arroz tapado",
+  "blurb": "Arroz blanco moldeado con un relleno de picadillo, pasas, aceituna y huevo en medio. Almuerzo de casa limeña.",
+  "ing": [
+   {
+    "n": "arroz blanco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají panca"
+   },
+   {
+    "n": "tomate",
+    "note": "picado"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "aceitunas negras",
+    "note": "picadas"
+   },
+   {
+    "n": "huevos duros",
+    "note": "picados"
+   }
+  ],
+  "steps": [
+   "Cuece el arroz con el agua y 1 cucharadita de sal.",
+   "Sofríe la cebolla, el ajo y el ají en el aceite 5 minutos. Añade la carne, el tomate y el resto de la sal y cuece 12 minutos. Añade las pasas, las aceitunas y el huevo.",
+   "Engrasa una taza o molde. Pon una capa de arroz apretada, luego el relleno, y cubre con más arroz.",
+   "Voltea sobre el plato y retira el molde.",
+   "Sirve con plátano frito y salsa criolla."
+  ],
+  "tips": [
+   "Aprieta bien cada capa para que el arroz se sostenga al desmoldar.",
+   "Un huevo frito encima lo convierte en arroz tapado a caballo."
+  ],
+  "video": "arroz tapado receta"
+ },
+ "en": {
+  "name": "Arroz Tapado (Rice Mould with Picadillo)",
+  "blurb": "White rice moulded around a filling of beef picadillo, raisins, olive and egg. A Lima home lunch.",
+  "ing": [
+   {
+    "n": "white rice"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "tomato",
+    "note": "chopped"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "black olives",
+    "note": "chopped"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Cook the rice with the water and 1 teaspoon of salt.",
+   "Cook the onion, garlic and ají in the oil for 5 minutes. Add the beef, tomato and the rest of the salt and cook 12 minutes. Add the raisins, olives and egg.",
+   "Grease a cup or mould. Press in a layer of rice, then the filling, and cover with more rice.",
+   "Turn out onto the plate and lift off the mould.",
+   "Serve with fried plantain and salsa criolla."
+  ],
+  "tips": [
+   "Press each layer firmly so the rice holds when turned out.",
+   "A fried egg on top makes it arroz tapado a caballo."
+  ],
+  "video": "arroz tapado recipe"
+ },
+ "added": "2026-09-30"
+}

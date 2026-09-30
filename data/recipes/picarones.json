@@ -1,0 +1,208 @@
+{
+ "id": "picarones",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 7,
+   "u": "g",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Picarones",
+  "blurb": "Aros fritos de masa de zapallo y camote con anís, bañados en miel de chancaca especiada. El dulce de las calles de Lima.",
+  "ing": [
+   {
+    "n": "zapallo",
+    "note": "pelado, en trozos"
+   },
+   {
+    "n": "camote",
+    "note": "pelado, en trozos"
+   },
+   {
+    "n": "anís en grano"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "chancaca o panela",
+    "note": "para la miel"
+   },
+   {
+    "n": "agua",
+    "note": "para la miel"
+   },
+   {
+    "n": "rajas de canela"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "cáscara de naranja",
+    "note": "en tiras"
+   }
+  ],
+  "steps": [
+   "Hierve el zapallo y el camote con el anís en agua 20 minutos. Escurre, guarda 250 ml del agua y haz un puré.",
+   "Disuelve la levadura y el azúcar en el agua tibia guardada. Deja 10 minutos, hasta que haga espuma.",
+   "Mezcla el puré, la levadura y la harina y bate con la mano 10 minutos, hasta que la masa esté elástica y pegajosa.",
+   "Tapa y deja crecer 90 minutos, hasta que doble y tenga burbujas.",
+   "Para la miel, hierve la chancaca con el agua, la canela, el clavo y la naranja 20 minutos, hasta que espese un poco. Cuela.",
+   "Calienta el aceite a 180 °C. Con la mano mojada, toma un poco de masa, haz un agujero con el pulgar y déjala caer al aceite. Fríe 1 minuto por lado.",
+   "Sirve calientes bañados en la miel."
+  ],
+  "tips": [
+   "Moja la mano en agua con sal entre cada picarón para que la masa no se pegue.",
+   "Sin práctica salen deformes; saben igual de bien."
+  ],
+  "video": "picarones receta"
+ },
+ "en": {
+  "name": "Picarones (Pumpkin and Sweet Potato Doughnuts)",
+  "blurb": "Fried rings of pumpkin and sweet potato dough with anise, drenched in spiced chancaca syrup. The street sweet of Lima.",
+  "ing": [
+   {
+    "n": "pumpkin (zapallo)",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "sweet potato",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "aniseed"
+   },
+   {
+    "n": "instant yeast"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "chancaca or panela (unrefined cane sugar)",
+    "note": "for the syrup"
+   },
+   {
+    "n": "water",
+    "note": "for the syrup"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "orange peel",
+    "note": "in strips"
+   }
+  ],
+  "steps": [
+   "Boil the pumpkin and sweet potato with the aniseed in water for 20 minutes. Drain, keep 250 ml of the water and mash.",
+   "Dissolve the yeast and sugar in the reserved warm water. Leave 10 minutes, until foamy.",
+   "Mix the mash, yeast and flour and beat by hand for 10 minutes, until elastic and sticky.",
+   "Cover and let rise 90 minutes, until doubled and bubbly.",
+   "For the syrup, boil the chancaca with the water, cinnamon, cloves and orange peel for 20 minutes, until slightly thick. Strain.",
+   "Heat the oil to 180 °C. With a wet hand, grab some dough, poke a hole with your thumb and drop it into the oil. Fry 1 minute per side.",
+   "Serve hot, drenched in the syrup."
+  ],
+  "tips": [
+   "Dip your hand in salted water between each one so the dough doesn't stick.",
+   "Without practice they come out misshapen; they taste just as good."
+  ],
+  "video": "picarones recipe"
+ },
+ "added": "2026-09-30"
+}
