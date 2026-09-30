@@ -1,0 +1,189 @@
+{
+ "id": "frijol-con-puerco",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "garnish"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "garnish"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Frijol con puerco",
+  "blurb": "Frijoles negros cocidos con cerdo y epazote, servidos con salsa de jitomate y rábano. El plato de los lunes en Yucatán.",
+  "ing": [
+   {
+    "n": "frijoles negros secos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "carne de cerdo (espinazo y pierna)",
+    "note": "en trozos"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "jitomates",
+    "note": "asados y picados"
+   },
+   {
+    "n": "rábanos",
+    "note": "picados"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "chile habanero",
+    "note": "picado"
+   },
+   {
+    "n": "limones"
+   }
+  ],
+  "steps": [
+   "Remoja los frijoles 8 horas y escúrrelos.",
+   "Cuécelos en el agua con la cebolla 60 minutos.",
+   "Añade el cerdo, el epazote y la sal y cuece 60 minutos más.",
+   "Mezcla el jitomate, el rábano, el cilantro, el chile y el jugo de un limón.",
+   "Sirve el frijol con la carne y la salsa al lado, y limón."
+  ],
+  "tips": [
+   "Tradicionalmente se sirve la carne aparte del caldo de frijol.",
+   "Sirve el habanero aparte para quien lo quiera."
+  ],
+  "video": "frijol con puerco yucateco"
+ },
+ "en": {
+  "name": "Frijol con Puerco (Yucatán Pork and Black Beans)",
+  "blurb": "Black beans simmered with pork and epazote, served with a tomato and radish salsa. Monday's dish in Yucatán.",
+  "ing": [
+   {
+    "n": "dried black beans"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "pork (backbone and leg)",
+    "note": "in pieces"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "tomatoes",
+    "note": "charred and chopped"
+   },
+   {
+    "n": "radishes",
+    "note": "chopped"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "habanero chilli",
+    "note": "chopped"
+   },
+   {
+    "n": "limes"
+   }
+  ],
+  "steps": [
+   "Soak the beans 8 hours and drain.",
+   "Simmer them in the water with the onion for 60 minutes.",
+   "Add the pork, epazote and salt and cook 60 minutes more.",
+   "Mix the tomato, radish, coriander, chilli and the juice of one lime.",
+   "Serve the beans with the pork, the salsa on the side, and lime."
+  ],
+  "tips": [
+   "Traditionally the meat is served separately from the bean broth.",
+   "Serve the habanero on the side for those who want it."
+  ],
+  "video": "yucatan frijol con puerco"
+ },
+ "added": "2026-09-30"
+}

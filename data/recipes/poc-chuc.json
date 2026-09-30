@@ -1,0 +1,139 @@
+{
+ "id": "poc-chuc",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Poc chuc",
+  "blurb": "Cerdo marinado en naranja agria y asado a la brasa, con cebolla y jitomate asados. Clásico de Yucatán.",
+  "ing": [
+   {
+    "n": "filetes finos de pierna de cerdo"
+   },
+   {
+    "n": "naranjas agrias (o 3 naranjas y 1 limón)",
+    "note": "exprimidas"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "en rodajas"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Marina el cerdo con la mitad del jugo, el ajo y la sal 30 minutos.",
+   "Asa el cerdo a la parrilla muy caliente 3 minutos por lado.",
+   "Asa la cebolla y los jitomates hasta que se tuesten.",
+   "Pica los jitomates y mézclalos con la cebolla, el cilantro y el resto del jugo.",
+   "Corta el cerdo en tiras y sirve con la salsa."
+  ],
+  "tips": [
+   "No marines más de 1 hora: el cítrico cuece la carne.",
+   "Una sartén de hierro bien caliente sustituye la parrilla."
+  ],
+  "video": "poc chuc yucateco"
+ },
+ "en": {
+  "name": "Poc Chuc (Yucatán Grilled Pork)",
+  "blurb": "Pork marinated in sour orange and grilled, with charred onion and tomato. A Yucatán classic.",
+  "ing": [
+   {
+    "n": "thin pork leg steaks"
+   },
+   {
+    "n": "sour oranges (or 3 oranges and 1 lime)",
+    "note": "juiced"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "red onion",
+    "note": "sliced"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Marinate the pork with half the juice, the garlic and salt for 30 minutes.",
+   "Grill the pork over very high heat for 3 minutes per side.",
+   "Grill the onion and tomatoes until charred.",
+   "Chop the tomatoes and mix with the onion, coriander and the rest of the juice.",
+   "Slice the pork and serve with the salsa."
+  ],
+  "tips": [
+   "Don't marinate over 1 hour: the citrus cooks the meat.",
+   "A very hot cast-iron pan stands in for the grill."
+  ],
+  "video": "poc chuc grilled pork"
+ },
+ "added": "2026-09-30"
+}

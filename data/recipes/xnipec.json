@@ -1,0 +1,125 @@
+{
+ "id": "xnipec",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 15,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Xnipec",
+  "blurb": "Salsa yucateca cruda de habanero, cebolla morada y naranja agria. Su nombre maya significa nariz de perro, por lo que hace sudar.",
+  "ing": [
+   {
+    "n": "cebolla morada",
+    "note": "picada"
+   },
+   {
+    "n": "jitomates",
+    "note": "sin semillas, picados"
+   },
+   {
+    "n": "chiles habaneros",
+    "note": "picados finos"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "naranjas agrias (o 2 limones)",
+    "note": "exprimidas"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Mezcla la cebolla, el jitomate, el chile y el cilantro.",
+   "Añade el jugo y la sal.",
+   "Deja reposar 10 minutos antes de servir."
+  ],
+  "tips": [
+   "Usa guantes al picar el habanero.",
+   "Se conserva 2 días en la nevera."
+  ],
+  "video": "xnipec salsa yucateca"
+ },
+ "en": {
+  "name": "Xnipec (Yucatán Habanero Salsa)",
+  "blurb": "A raw Yucatán salsa of habanero, red onion and sour orange. Its Mayan name means dog's nose, for the sweat it brings on.",
+  "ing": [
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "seeded, chopped"
+   },
+   {
+    "n": "habanero chillies",
+    "note": "finely chopped"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "sour oranges (or 2 limes)",
+    "note": "juiced"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Mix the onion, tomato, chilli and coriander.",
+   "Add the juice and salt.",
+   "Rest 10 minutes before serving."
+  ],
+  "tips": [
+   "Wear gloves when chopping the habanero.",
+   "It keeps 2 days in the fridge."
+  ],
+  "video": "xnipec habanero salsa"
+ },
+ "added": "2026-09-30"
+}

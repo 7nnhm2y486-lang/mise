@@ -1,0 +1,187 @@
+{
+ "id": "chilaquiles-rojos",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 12,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "ancho",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "sauce"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "sauce"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "crema",
+   "role": "garnish"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Chilaquiles rojos",
+  "blurb": "Totopos bañados en salsa roja de guajillo, con crema y queso. El desayuno mexicano por excelencia.",
+  "ing": [
+   {
+    "n": "tortillas de maíz del día anterior",
+    "note": "en triángulos"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "sin semillas"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "crema"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmoronado"
+   },
+   {
+    "n": "cebolla (para decorar)",
+    "note": "en aros"
+   }
+  ],
+  "steps": [
+   "Fríe los triángulos de tortilla en el aceite hasta que estén crujientes. Escurre.",
+   "Hierve los jitomates y los chiles 8 minutos. Lícualos con el ajo, la cebolla, el agua y la sal.",
+   "Fríe la salsa en 1 cucharada del aceite 5 minutos.",
+   "Añade los totopos y mezcla 1 minuto.",
+   "Sirve con crema, queso y cebolla."
+  ],
+  "tips": [
+   "Sírvelos en cuanto los mezcles si los quieres crujientes.",
+   "Tortillas del día anterior se fríen mejor."
+  ],
+  "video": "chilaquiles rojos"
+ },
+ "en": {
+  "name": "Chilaquiles Rojos",
+  "blurb": "Fried tortilla chips tossed in red guajillo sauce, with crema and cheese. The Mexican breakfast.",
+  "ing": [
+   {
+    "n": "day-old corn tortillas",
+    "note": "cut in triangles"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "guajillo chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "Mexican crema"
+   },
+   {
+    "n": "queso fresco",
+    "note": "crumbled"
+   },
+   {
+    "n": "onion (to garnish)",
+    "note": "in rings"
+   }
+  ],
+  "steps": [
+   "Fry the tortilla triangles in the oil until crisp. Drain.",
+   "Boil the tomatoes and chillies for 8 minutes. Blend with the garlic, onion, water and salt.",
+   "Fry the sauce in 1 tablespoon of the oil for 5 minutes.",
+   "Add the chips and toss 1 minute.",
+   "Serve with crema, cheese and onion."
+  ],
+  "tips": [
+   "Serve straight after tossing if you like them crisp.",
+   "Day-old tortillas fry better."
+  ],
+  "video": "red chilaquiles"
+ },
+ "added": "2026-09-30"
+}

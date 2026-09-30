@@ -1,0 +1,133 @@
+{
+ "id": "marquesitas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 30,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "cheese",
+   "role": "enrich"
+  }
+ ],
+ "es": {
+  "name": "Marquesitas",
+  "blurb": "Crepas crujientes enrolladas con queso de bola rallado. Se venden en carritos en las plazas de Mérida.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "mantequilla derretida"
+   },
+   {
+    "n": "esencia de vainilla"
+   },
+   {
+    "n": "queso de bola (Edam)",
+    "note": "rallado"
+   }
+  ],
+  "steps": [
+   "Bate la harina, los huevos, la leche, el azúcar, la mantequilla y la vainilla hasta tener una masa líquida.",
+   "Vierte un cucharón en una sartén antiadherente caliente y extiende muy fino.",
+   "Cocina 3 minutos a fuego medio, hasta que esté dorada y crujiente.",
+   "Espolvorea queso por encima y enrolla como un tubo.",
+   "Sirve de inmediato."
+  ],
+  "tips": [
+   "Deben quedar crujientes como un barquillo: cocina a fuego medio sin prisa.",
+   "El contraste dulce y salado es la gracia."
+  ],
+  "video": "marquesitas yucatecas"
+ },
+ "en": {
+  "name": "Marquesitas (Yucatán Crispy Cheese Crêpes)",
+  "blurb": "Crisp crêpes rolled around grated Edam cheese. Sold from carts in the squares of Mérida.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "melted butter"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "Edam cheese",
+    "note": "grated"
+   }
+  ],
+  "steps": [
+   "Whisk the flour, eggs, milk, sugar, butter and vanilla into a runny batter.",
+   "Pour a ladleful into a hot non-stick pan and spread very thin.",
+   "Cook 3 minutes over medium heat, until golden and crisp.",
+   "Sprinkle cheese over and roll into a tube.",
+   "Serve at once."
+  ],
+  "tips": [
+   "They should be crisp like a wafer: cook over medium heat, unhurried.",
+   "The sweet-salty contrast is the point."
+  ],
+  "video": "yucatan marquesitas"
+ },
+ "added": "2026-09-30"
+}

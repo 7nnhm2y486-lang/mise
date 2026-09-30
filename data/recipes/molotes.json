@@ -1,0 +1,133 @@
+{
+ "id": "molotes",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 60,
+ "serves": 16,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "crema",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "handful",
+   "k": "veg",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Molotes",
+  "blurb": "Empanadas alargadas de masa de maíz rellenas de papa con chorizo, fritas. Antojito de Puebla y Oaxaca.",
+  "ing": [
+   {
+    "n": "masa de maíz"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "papas"
+   },
+   {
+    "n": "chorizo mexicano"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "crema"
+   },
+   {
+    "n": "lechuga",
+    "note": "picada"
+   }
+  ],
+  "steps": [
+   "Cuece la papa 20 minutos, pélala y hazla puré.",
+   "Fríe el chorizo 5 minutos y mézclalo con la papa.",
+   "Amasa la masa con la sal. Aplana porciones en óvalos finos entre dos plásticos.",
+   "Rellena, dobla y cierra en forma de huso.",
+   "Fríe a 180 °C 4 minutos, hasta que estén dorados. Sirve con crema y lechuga."
+  ],
+  "tips": [
+   "Si la masa se agrieta, añade un poco de agua.",
+   "Sella bien las puntas para que no entre aceite."
+  ],
+  "video": "molotes de papa con chorizo"
+ },
+ "en": {
+  "name": "Molotes (Fried Masa Turnovers)",
+  "blurb": "Spindle-shaped corn masa turnovers filled with potato and chorizo, fried. A street snack from Puebla and Oaxaca.",
+  "ing": [
+   {
+    "n": "fresh corn masa"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "potatoes"
+   },
+   {
+    "n": "Mexican chorizo"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "Mexican crema"
+   },
+   {
+    "n": "lettuce",
+    "note": "shredded"
+   }
+  ],
+  "steps": [
+   "Boil the potato 20 minutes, peel and mash.",
+   "Fry the chorizo 5 minutes and mix with the potato.",
+   "Knead the masa with the salt. Press portions into thin ovals between two sheets of plastic.",
+   "Fill, fold and seal into a spindle shape.",
+   "Fry at 180 °C for 4 minutes, until golden. Serve with crema and lettuce."
+  ],
+  "tips": [
+   "If the masa cracks, add a little water.",
+   "Seal the tips well so oil doesn't get in."
+  ],
+  "video": "mexican molotes"
+ },
+ "added": "2026-09-30"
+}

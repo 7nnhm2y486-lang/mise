@@ -1,0 +1,155 @@
+{
+ "id": "huevos-ahogados",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "sauce"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Huevos ahogados",
+  "blurb": "Huevos escalfados en un caldillo picante de jitomate con epazote. Desayuno de casa mexicano.",
+  "ing": [
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "chiles serranos"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos"
+   }
+  ],
+  "steps": [
+   "Licúa los jitomates, los chiles, la cebolla y el ajo.",
+   "Fríe la salsa en el aceite 5 minutos. Añade el agua, el epazote y la sal y hierve 5 minutos.",
+   "Baja el fuego y casca los huevos uno a uno en el caldillo.",
+   "Tapa y cuece 5 minutos, hasta que las claras cuajen.",
+   "Sirve en platos hondos con el caldillo."
+  ],
+  "tips": [
+   "El caldillo debe hervir suave, no a borbotones, para que los huevos no se rompan.",
+   "Casca cada huevo en una taza antes de echarlo."
+  ],
+  "video": "huevos ahogados en caldillo"
+ },
+ "en": {
+  "name": "Huevos Ahogados (Eggs Poached in Tomato Broth)",
+  "blurb": "Eggs poached in a spicy tomato broth with epazote. A Mexican home breakfast.",
+  "ing": [
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "serrano chillies"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "eggs"
+   }
+  ],
+  "steps": [
+   "Blend the tomatoes, chillies, onion and garlic.",
+   "Fry the sauce in the oil for 5 minutes. Add the water, epazote and salt and boil 5 minutes.",
+   "Lower the heat and crack the eggs one by one into the broth.",
+   "Cover and cook 5 minutes, until the whites set.",
+   "Serve in deep bowls with the broth."
+  ],
+  "tips": [
+   "Keep the broth at a gentle simmer so the eggs don't break.",
+   "Crack each egg into a cup first."
+  ],
+  "video": "mexican eggs poached tomato broth"
+ },
+ "added": "2026-09-30"
+}

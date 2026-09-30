@@ -1,0 +1,147 @@
+{
+ "id": "memelas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "legume",
+   "role": "spread"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "sauce"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Memelas",
+  "blurb": "Tortillas gruesas con bordes pellizcados, untadas con asiento, frijol, salsa y queso. Desayuno de mercado en Oaxaca.",
+  "ing": [
+   {
+    "n": "masa de maíz"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "asiento (manteca de cerdo)"
+   },
+   {
+    "n": "frijoles negros cocidos",
+    "note": "machacados"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "chiles de árbol"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "quesillo o queso fresco",
+    "note": "desmenuzado"
+   }
+  ],
+  "steps": [
+   "Amasa la masa con la sal. Forma 8 tortillas gruesas de 12 cm.",
+   "Cuécelas en el comal 2 minutos por lado y pellizca el borde para formar un reborde.",
+   "Asa los jitomates, los chiles y el ajo y lícualos con sal.",
+   "Unta cada memela con asiento y vuelve al comal 1 minuto.",
+   "Cubre con frijol, salsa y queso."
+  ],
+  "tips": [
+   "Pellizca las memelas en caliente, con cuidado de no quemarte.",
+   "El asiento es la manteca con restos de chicharrón: le da el sabor oaxaqueño."
+  ],
+  "video": "memelas oaxaqueñas"
+ },
+ "en": {
+  "name": "Memelas (Oaxacan Masa Cakes)",
+  "blurb": "Thick tortillas with pinched edges, spread with lard, beans, salsa and cheese. A market breakfast in Oaxaca.",
+  "ing": [
+   {
+    "n": "fresh corn masa"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "pork lard"
+   },
+   {
+    "n": "cooked black beans",
+    "note": "mashed"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "árbol chillies"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "Oaxaca cheese or queso fresco",
+    "note": "shredded"
+   }
+  ],
+  "steps": [
+   "Knead the masa with the salt. Shape 8 thick 12 cm tortillas.",
+   "Cook on the griddle 2 minutes per side and pinch the edge into a rim.",
+   "Char the tomatoes, chillies and garlic and blend with salt.",
+   "Spread each memela with lard and return to the griddle for 1 minute.",
+   "Top with beans, salsa and cheese."
+  ],
+  "tips": [
+   "Pinch them while hot, taking care not to burn yourself.",
+   "Oaxacan asiento is lard with crackling bits: it gives the local flavour."
+  ],
+  "video": "oaxacan memelas"
+ },
+ "added": "2026-09-30"
+}

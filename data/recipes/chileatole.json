@@ -1,0 +1,121 @@
+{
+ "id": "chileatole",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "masa",
+   "role": "thicken"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Chileatole verde",
+  "blurb": "Atole salado de elote espesado con masa, verde de chile y epazote. Se toma en el campo de Puebla y Tlaxcala.",
+  "ing": [
+   {
+    "n": "elotes",
+    "note": "desgranados"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "masa de maíz"
+   },
+   {
+    "n": "chiles serranos"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece los granos de elote en el agua con la sal 15 minutos.",
+   "Licúa los chiles y el epazote con 250 ml del caldo.",
+   "Disuelve la masa en 250 ml del caldo.",
+   "Añade ambas mezclas a la olla y cuece 10 minutos removiendo, hasta que espese.",
+   "Sirve caliente."
+  ],
+  "tips": [
+   "Remueve sin parar al añadir la masa para evitar grumos.",
+   "Añade más agua si lo quieres más ligero."
+  ],
+  "video": "chileatole verde de elote"
+ },
+ "en": {
+  "name": "Chileatole Verde (Savoury Corn Atole)",
+  "blurb": "A savoury corn drink-soup thickened with masa, green with chilli and epazote. Enjoyed in the countryside of Puebla and Tlaxcala.",
+  "ing": [
+   {
+    "n": "corn cobs",
+    "note": "kernels cut off"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "corn masa"
+   },
+   {
+    "n": "serrano chillies"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the corn kernels in the water with the salt for 15 minutes.",
+   "Blend the chillies and epazote with 250 ml of the broth.",
+   "Dissolve the masa in 250 ml of the broth.",
+   "Stir both into the pot and cook 10 minutes, stirring, until thick.",
+   "Serve hot."
+  ],
+  "tips": [
+   "Stir constantly when adding the masa to avoid lumps.",
+   "Add more water for a thinner version."
+  ],
+  "video": "mexican chileatole"
+ },
+ "added": "2026-09-30"
+}

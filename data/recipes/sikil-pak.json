@@ -1,0 +1,133 @@
+{
+ "id": "sikil-pak",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 30,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "seeds",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Sikil pak",
+  "blurb": "Dip maya de pepita de calabaza tostada con jitomate asado y habanero. Botana de Yucatán.",
+  "ing": [
+   {
+    "n": "pepitas de calabaza peladas"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "chile habanero"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "cebollines"
+   },
+   {
+    "n": "naranja agria o limón",
+    "note": "exprimido"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Tuesta las pepitas en una sartén seca 5 minutos, hasta que se inflen y doren.",
+   "Asa los jitomates y el chile en un comal 8 minutos.",
+   "Muele las pepitas hasta que estén finas.",
+   "Licúa las pepitas con los jitomates, el chile, el cilantro, los cebollines, el jugo y la sal hasta tener una pasta.",
+   "Sirve a temperatura ambiente."
+  ],
+  "tips": [
+   "Usa medio habanero si no te gusta muy picante.",
+   "Añade agua si queda demasiado espeso."
+  ],
+  "video": "sikil pak yucateco"
+ },
+ "en": {
+  "name": "Sikil Pak (Mayan Pumpkin Seed Dip)",
+  "blurb": "A Mayan dip of toasted pumpkin seeds with charred tomato and habanero. A Yucatán snack.",
+  "ing": [
+   {
+    "n": "hulled pumpkin seeds"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "habanero chilli"
+   },
+   {
+    "n": "coriander"
+   },
+   {
+    "n": "spring onions"
+   },
+   {
+    "n": "sour orange or lime",
+    "note": "juiced"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Toast the seeds in a dry pan for 5 minutes, until puffed and golden.",
+   "Char the tomatoes and chilli on a griddle for 8 minutes.",
+   "Grind the seeds finely.",
+   "Blend the seeds with the tomatoes, chilli, coriander, spring onions, juice and salt into a paste.",
+   "Serve at room temperature."
+  ],
+  "tips": [
+   "Use half a habanero for milder heat.",
+   "Add water if it's too thick."
+  ],
+  "video": "sikil pak pumpkin seed dip"
+ },
+ "added": "2026-09-30"
+}
