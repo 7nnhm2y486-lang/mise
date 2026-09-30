@@ -1,0 +1,153 @@
+{
+ "id": "camarones-al-mojo-de-ajo",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 700,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 10,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Camarones al mojo de ajo",
+  "blurb": "Camarones salteados en mantequilla con mucho ajo dorado y chile guajillo. Clásico de las marisquerías.",
+  "ing": [
+   {
+    "n": "camarones grandes",
+    "note": "pelados, con cola"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "ajo",
+    "note": "picado fino"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "en aros"
+   },
+   {
+    "n": "limón",
+    "note": "en jugo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Calienta la mantequilla y el aceite a fuego medio-bajo.",
+   "Añade el ajo y el chile y cuece 4 minutos, hasta que el ajo esté dorado pálido.",
+   "Sube el fuego, añade los camarones y la sal y saltea 3 minutos, hasta que estén rosados.",
+   "Añade el jugo de limón.",
+   "Termina con el perejil y sirve con arroz blanco."
+  ],
+  "tips": [
+   "Cuida el ajo: debe dorarse suave, no quemarse.",
+   "Seca bien los camarones antes de saltearlos."
+  ],
+  "video": "camarones al mojo de ajo receta"
+ },
+ "en": {
+  "name": "Camarones al Mojo de Ajo (Garlic Butter Shrimp)",
+  "blurb": "Shrimp sautéed in butter with plenty of golden garlic and guajillo chilli. A seafood-restaurant classic.",
+  "ing": [
+   {
+    "n": "large shrimp",
+    "note": "peeled, tails on"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "garlic",
+    "note": "finely chopped"
+   },
+   {
+    "n": "guajillo chillies",
+    "note": "in rings"
+   },
+   {
+    "n": "lime",
+    "note": "juiced"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Heat the butter and oil over medium-low heat.",
+   "Add the garlic and chilli and cook 4 minutes, until the garlic is pale gold.",
+   "Raise the heat, add the shrimp and salt and sauté 3 minutes, until pink.",
+   "Add the lime juice.",
+   "Finish with the parsley and serve with white rice."
+  ],
+  "tips": [
+   "Watch the garlic: it should turn gently golden, not burn.",
+   "Pat the shrimp dry before sautéing."
+  ],
+  "video": "garlic shrimp mexican recipe"
+ },
+ "added": "2026-09-30"
+}

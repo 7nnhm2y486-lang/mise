@@ -1,0 +1,139 @@
+{
+ "id": "machaca-con-huevo",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "driedmeat",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "flourtortilla",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Machaca con huevo",
+  "blurb": "Carne seca deshebrada revuelta con huevo, tomate y chile. El desayuno de Monterrey, en tortilla de harina.",
+  "ing": [
+   {
+    "n": "machaca (carne seca deshebrada)"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "chiles serranos o jalapeños",
+    "note": "picados"
+   },
+   {
+    "n": "huevos",
+    "note": "batidos"
+   },
+   {
+    "n": "tortillas de harina"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el tomate y el chile en el aceite 4 minutos.",
+   "Añade la machaca y cuece 3 minutos, hasta que se hidrate con el jugo del tomate.",
+   "Añade los huevos y revuelve a fuego medio 2 minutos, hasta que cuajen.",
+   "Prueba antes de salar: la machaca ya es salada.",
+   "Sirve con las tortillas de harina calientes."
+  ],
+  "tips": [
+   "Si la machaca está muy seca, añade una cucharada de agua con el tomate.",
+   "Se come en burritos para llevar."
+  ],
+  "video": "machaca con huevo receta"
+ },
+ "en": {
+  "name": "Machaca con Huevo (Dried Beef and Eggs)",
+  "blurb": "Shredded dried beef scrambled with egg, tomato and chilli. Monterrey's breakfast, in a flour tortilla.",
+  "ing": [
+   {
+    "n": "machaca (shredded dried beef)"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "serrano or jalapeño chillies",
+    "note": "chopped"
+   },
+   {
+    "n": "eggs",
+    "note": "beaten"
+   },
+   {
+    "n": "flour tortillas"
+   }
+  ],
+  "steps": [
+   "Cook the onion, tomato and chilli in the oil for 4 minutes.",
+   "Add the machaca and cook 3 minutes, until it rehydrates in the tomato juice.",
+   "Add the eggs and scramble over medium heat for 2 minutes, until set.",
+   "Taste before salting: machaca is already salty.",
+   "Serve with the warm flour tortillas."
+  ],
+  "tips": [
+   "If the machaca is very dry, add a spoonful of water with the tomato.",
+   "It's eaten in burritos to go."
+  ],
+  "video": "machaca con huevo recipe"
+ },
+ "added": "2026-09-30"
+}

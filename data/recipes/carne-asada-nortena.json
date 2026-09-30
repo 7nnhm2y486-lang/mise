@@ -1,0 +1,149 @@
+{
+ "id": "carne-asada-nortena",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "pepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "scallion",
+   "role": "serve"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "corntortilla",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Carne asada norteña",
+  "blurb": "Carne delgada marinada en limón y naranja, asada al carbón con cebollitas. El domingo en el norte de México.",
+  "ing": [
+   {
+    "n": "arrachera o diezmillo delgado"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "naranja",
+    "note": "en jugo"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "sal gruesa"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "cebollitas cambray"
+   },
+   {
+    "n": "tortillas de maíz"
+   }
+  ],
+  "steps": [
+   "Marina la carne con los jugos, el ajo y la pimienta 1 hora.",
+   "Enciende el carbón hasta que esté blanco.",
+   "Sala la carne justo antes de asarla y ásala 3 minutos por lado.",
+   "Asa las cebollitas junto a la carne hasta que estén tiernas.",
+   "Pica la carne y sirve en tortillas calientes con las cebollitas."
+  ],
+  "tips": [
+   "Sala justo antes de asar para que no suelte jugo.",
+   "Corta siempre contra la fibra."
+  ],
+  "video": "carne asada norteña receta"
+ },
+ "en": {
+  "name": "Carne Asada Norteña (Northern Grilled Steak)",
+  "blurb": "Thin steak marinated in lime and orange, grilled over charcoal with spring onions. Sunday in northern Mexico.",
+  "ing": [
+   {
+    "n": "thin skirt or chuck steak"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "orange",
+    "note": "juiced"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "coarse salt"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "spring onions"
+   },
+   {
+    "n": "corn tortillas"
+   }
+  ],
+  "steps": [
+   "Marinate the meat with the juices, garlic and pepper for 1 hour.",
+   "Light the charcoal until white.",
+   "Salt the meat just before grilling and grill 3 minutes a side.",
+   "Grill the spring onions beside the meat until tender.",
+   "Chop the meat and serve in warm tortillas with the onions."
+  ],
+  "tips": [
+   "Salt just before grilling so it doesn't weep.",
+   "Always slice against the grain."
+  ],
+  "video": "carne asada recipe"
+ },
+ "added": "2026-09-30"
+}

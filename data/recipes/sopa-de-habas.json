@@ -1,0 +1,161 @@
+{
+ "id": "sopa-de-habas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chipotle",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Sopa de habas",
+  "blurb": "Sopa espesa de habas secas con jitomate, chipotle y cilantro. Comida de Cuaresma en el centro de México.",
+  "ing": [
+   {
+    "n": "habas secas peladas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "jitomates",
+    "note": "licuados"
+   },
+   {
+    "n": "chile chipotle seco"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja las habas 4 horas y escúrrelas.",
+   "Sofríe la cebolla y el ajo en el aceite 4 minutos. Añade el jitomate y cuece 5 minutos.",
+   "Añade las habas, el agua, el chipotle y la sal. Cuece 50 minutos, hasta que las habas se deshagan.",
+   "Añade el cilantro los últimos 5 minutos.",
+   "Retira el chipotle y sirve."
+  ],
+  "tips": [
+   "Si la quieres lisa, licúa la mitad.",
+   "Rompe el chipotle si la quieres más picante."
+  ],
+  "video": "sopa de habas receta"
+ },
+ "en": {
+  "name": "Sopa de Habas (Fava Bean Soup)",
+  "blurb": "A thick soup of dried fava beans with tomato, chipotle and cilantro. Lenten food in central Mexico.",
+  "ing": [
+   {
+    "n": "dried peeled fava beans"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "blended"
+   },
+   {
+    "n": "dried chipotle chilli"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the beans 4 hours and drain.",
+   "Cook the onion and garlic in the oil for 4 minutes. Add the tomato and cook 5 minutes.",
+   "Add the beans, water, chipotle and salt. Cook 50 minutes, until the beans break down.",
+   "Add the cilantro for the last 5 minutes.",
+   "Remove the chipotle and serve."
+  ],
+  "tips": [
+   "For a smooth soup, blend half.",
+   "Break the chipotle open for more heat."
+  ],
+  "video": "fava bean soup recipe"
+ },
+ "added": "2026-09-30"
+}

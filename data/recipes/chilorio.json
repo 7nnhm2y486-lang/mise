@@ -1,0 +1,159 @@
+{
+ "id": "chilorio",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 180,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "chilli",
+   "role": "sauce"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "whitevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "lard",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Chilorio sinaloense",
+  "blurb": "Cerdo cocido, deshebrado y frito en manteca con adobo de chile y vinagre. Relleno de burritos en Sinaloa.",
+  "ing": [
+   {
+    "n": "pierna o paleta de cerdo",
+    "note": "en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "chiles anchos o guajillo",
+    "note": "sin semillas"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "manteca de cerdo"
+   }
+  ],
+  "steps": [
+   "Cuece el cerdo en el agua con la sal 90 minutos, hasta que se deshaga. Deshebra y guarda 250 ml del líquido.",
+   "Remoja los chiles en agua caliente 15 minutos. Licúa con el ajo, el comino, el orégano, el vinagre y el líquido reservado.",
+   "Calienta la manteca y fríe la carne 5 minutos.",
+   "Añade el adobo y cuece a fuego bajo 30 minutos, removiendo, hasta que se absorba y la carne quede jugosa.",
+   "Sirve en burritos o con tortillas."
+  ],
+  "tips": [
+   "Guarda en frascos cubierto con su grasa; dura 1 semana en la nevera.",
+   "Mejora de un día para otro."
+  ],
+  "video": "chilorio sinaloense receta"
+ },
+ "en": {
+  "name": "Chilorio (Sinaloa Chilli Pork)",
+  "blurb": "Pork simmered, shredded and fried in lard with a chilli and vinegar sauce. Burrito filling in Sinaloa.",
+  "ing": [
+   {
+    "n": "pork leg or shoulder",
+    "note": "in chunks"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ancho or guajillo chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "lard"
+   }
+  ],
+  "steps": [
+   "Simmer the pork in the water with the salt for 90 minutes, until falling apart. Shred and keep 250 ml of the liquid.",
+   "Soak the chillies in hot water for 15 minutes. Blend with the garlic, cumin, oregano, vinegar and the reserved liquid.",
+   "Heat the lard and fry the meat for 5 minutes.",
+   "Add the sauce and cook on low for 30 minutes, stirring, until absorbed and the meat is juicy.",
+   "Serve in burritos or with tortillas."
+  ],
+  "tips": [
+   "Store in jars covered with its fat; keeps 1 week in the fridge.",
+   "It improves overnight."
+  ],
+  "video": "chilorio recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,85 @@
+{
+ "id": "chocolate-caliente-mexicano",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 15,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "tablechocolate",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Chocolate caliente mexicano",
+  "blurb": "Chocolate de mesa con canela, batido con molinillo hasta hacer espuma. Con pan dulce en la merienda.",
+  "ing": [
+   {
+    "n": "leche"
+   },
+   {
+    "n": "chocolate de mesa",
+    "note": "en trozos"
+   },
+   {
+    "n": "rama de canela"
+   }
+  ],
+  "steps": [
+   "Calienta la leche con la canela hasta que humee.",
+   "Añade el chocolate y remueve hasta que se disuelva.",
+   "Cuece 5 minutos a fuego bajo.",
+   "Saca la canela.",
+   "Bate con molinillo o batidor hasta que haga mucha espuma y sirve."
+  ],
+  "tips": [
+   "La espuma es parte del chocolate: bate justo antes de servir.",
+   "También se hace con agua en lugar de leche, como en Oaxaca."
+  ],
+  "video": "chocolate caliente mexicano receta"
+ },
+ "en": {
+  "name": "Mexican Hot Chocolate",
+  "blurb": "Table chocolate with cinnamon, whisked with a molinillo until frothy. With sweet bread at teatime.",
+  "ing": [
+   {
+    "n": "milk"
+   },
+   {
+    "n": "Mexican table chocolate",
+    "note": "in pieces"
+   },
+   {
+    "n": "cinnamon stick"
+   }
+  ],
+  "steps": [
+   "Heat the milk with the cinnamon until steaming.",
+   "Add the chocolate and stir until dissolved.",
+   "Simmer 5 minutes on low.",
+   "Remove the cinnamon.",
+   "Froth with a molinillo or whisk until very foamy and serve."
+  ],
+  "tips": [
+   "The foam is part of it: whisk just before serving.",
+   "It's also made with water instead of milk, as in Oaxaca."
+  ],
+  "video": "mexican hot chocolate recipe"
+ },
+ "added": "2026-09-30"
+}

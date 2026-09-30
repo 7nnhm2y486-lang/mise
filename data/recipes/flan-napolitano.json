@@ -1,0 +1,120 @@
+{
+ "id": "flan-napolitano",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 90,
+ "serves": 10,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 395,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 360,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 190,
+   "u": "g",
+   "k": "creamcheese",
+   "role": "enrich"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Flan napolitano",
+  "blurb": "Flan mexicano de leche condensada y queso crema, más denso y cremoso, con caramelo.",
+  "ing": [
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "queso crema"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "extracto de vainilla"
+   }
+  ],
+  "steps": [
+   "Derrite el azúcar a fuego medio hasta tener un caramelo ámbar y cubre un molde de 22 cm.",
+   "Licúa la leche condensada, la leche evaporada, el queso crema, los huevos y la vainilla 1 minuto.",
+   "Vierte sobre el caramelo y cubre con papel de aluminio.",
+   "Hornea al baño María a 180 °C durante 60 minutos, hasta que cuaje con un temblor en el centro.",
+   "Enfría, refrigera 6 horas y desmolda."
+  ],
+  "tips": [
+   "Deja reposar la mezcla 5 minutos para que suban las burbujas.",
+   "Para desmoldar, pasa un cuchillo por el borde y voltea con decisión."
+  ],
+  "video": "flan napolitano receta"
+ },
+ "en": {
+  "name": "Flan Napolitano (Mexican Cream Cheese Flan)",
+  "blurb": "A Mexican flan of condensed milk and cream cheese, denser and creamier, with caramel.",
+  "ing": [
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "condensed milk"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "cream cheese"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "vanilla extract"
+   }
+  ],
+  "steps": [
+   "Melt the sugar over medium heat to an amber caramel and coat a 22 cm mould.",
+   "Blend the condensed milk, evaporated milk, cream cheese, eggs and vanilla for 1 minute.",
+   "Pour over the caramel and cover with foil.",
+   "Bake in a water bath at 180 °C for 60 minutes, until set with a wobble in the centre.",
+   "Cool, refrigerate 6 hours and turn out."
+  ],
+  "tips": [
+   "Let the mixture rest 5 minutes so the bubbles rise.",
+   "To turn out, run a knife round the edge and flip decisively."
+  ],
+  "video": "flan napolitano recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,171 @@
+{
+ "id": "chalupas-poblanas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 12,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomatillo",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "sauce"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Chalupas poblanas",
+  "blurb": "Tortillas pequeñas fritas en manteca, mitad con salsa verde y mitad con salsa roja, con cerdo deshebrado. De Puebla.",
+  "ing": [
+   {
+    "n": "tortillas de maíz pequeñas"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "carne de cerdo cocida",
+    "note": "deshebrada"
+   },
+   {
+    "n": "tomates verdes"
+   },
+   {
+    "n": "chiles serranos"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "chiles chipotles secos"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   }
+  ],
+  "steps": [
+   "Cuece los tomates verdes con los serranos 8 minutos y licúa con 1 ajo y media cucharadita de sal.",
+   "Asa los jitomates y los chipotles y licúa con el otro ajo y el resto de la sal.",
+   "Calienta la manteca en un comal y fríe las tortillas por un lado 1 minuto.",
+   "Voltea y baña la mitad de cada una con salsa verde y la otra mitad con salsa roja.",
+   "Cubre con el cerdo y la cebolla y sirve de inmediato."
+  ],
+  "tips": [
+   "Las tortillas deben quedar suaves por dentro y crujientes en los bordes.",
+   "Quita las semillas de los chiles para que piquen menos."
+  ],
+  "video": "chalupas poblanas receta"
+ },
+ "en": {
+  "name": "Chalupas Poblanas",
+  "blurb": "Small tortillas fried in lard, half with green salsa and half with red, topped with shredded pork. From Puebla.",
+  "ing": [
+   {
+    "n": "small corn tortillas"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "cooked pork",
+    "note": "shredded"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "serrano chillies"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "dried chipotle chillies"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Boil the tomatillos with the serranos for 8 minutes and blend with 1 garlic clove and half a teaspoon of salt.",
+   "Char the tomatoes and chipotles and blend with the other garlic clove and the rest of the salt.",
+   "Heat the lard on a griddle and fry the tortillas on one side for 1 minute.",
+   "Turn and spoon green salsa over half of each and red salsa over the other half.",
+   "Top with the pork and onion and serve at once."
+  ],
+  "tips": [
+   "The tortillas should stay soft in the middle and crisp at the edges.",
+   "Seed the chillies for less heat."
+  ],
+  "video": "chalupas poblanas recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,179 @@
+{
+ "id": "tacos-gobernador",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "flourtortilla",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "cheese",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Tacos gobernador",
+  "blurb": "Tacos de camarón guisado con poblano y queso fundido en tortilla dorada. De Sinaloa.",
+  "ing": [
+   {
+    "n": "camarones pelados",
+    "note": "picados"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "chile poblano asado",
+    "note": "en rajas"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "tortillas de harina"
+   },
+   {
+    "n": "queso Chihuahua o manchego",
+    "note": "rallado"
+   },
+   {
+    "n": "aguacate",
+    "note": "en rebanadas"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla en la mantequilla 3 minutos. Añade las rajas y el tomate y cuece 3 minutos.",
+   "Añade el camarón, el orégano y la sal y cuece 3 minutos, hasta que esté rosado.",
+   "Pon queso en media tortilla, añade el camarón y dobla.",
+   "Dora en un comal 2 minutos por lado, hasta que el queso se funda.",
+   "Sirve con el aguacate."
+  ],
+  "tips": [
+   "Pica el camarón en trozos pequeños para que se reparta bien.",
+   "No cuezas el camarón de más: termina de hacerse en el comal."
+  ],
+  "video": "tacos gobernador sinaloa receta"
+ },
+ "en": {
+  "name": "Tacos Gobernador (Shrimp and Cheese Tacos)",
+  "blurb": "Tacos of stewed shrimp with poblano and melted cheese in a crisped tortilla. From Sinaloa.",
+  "ing": [
+   {
+    "n": "peeled shrimp",
+    "note": "chopped"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "roasted poblano chilli",
+    "note": "in strips"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "flour tortillas"
+   },
+   {
+    "n": "Chihuahua or Monterey Jack cheese",
+    "note": "grated"
+   },
+   {
+    "n": "avocado",
+    "note": "sliced"
+   }
+  ],
+  "steps": [
+   "Cook the onion in the butter for 3 minutes. Add the poblano and tomato and cook 3 minutes.",
+   "Add the shrimp, oregano and salt and cook 3 minutes, until pink.",
+   "Put cheese on half a tortilla, add the shrimp and fold.",
+   "Crisp on a griddle for 2 minutes a side, until the cheese melts.",
+   "Serve with the avocado."
+  ],
+  "tips": [
+   "Chop the shrimp small so it spreads evenly.",
+   "Don't overcook the shrimp: it finishes on the griddle."
+  ],
+  "video": "tacos gobernador recipe"
+ },
+ "added": "2026-09-30"
+}
