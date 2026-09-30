@@ -1,0 +1,133 @@
+{
+ "id": "payagua-mascada",
+ "country": "Paraguay",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Payagua mascada",
+  "blurb": "Tortitas de mandioca y carne molida, fritas. Comida rápida de casa en Paraguay.",
+  "ing": [
+   {
+    "n": "mandioca",
+    "note": "pelada"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Cuece la mandioca 25 minutos, retira las fibras y hazla puré.",
+   "Mezcla con la carne cruda, la cebolla, el huevo, el orégano y la sal.",
+   "Forma 12 tortitas de 2 cm.",
+   "Fríe a 170 °C 4 minutos por lado, hasta que estén doradas y la carne cocida."
+  ],
+  "tips": [
+   "No las frías muy calientes: la carne debe cocerse por dentro.",
+   "Escúrrelas en papel antes de servir."
+  ],
+  "video": "payagua mascada"
+ },
+ "en": {
+  "name": "Payagua Mascada (Cassava Beef Patties)",
+  "blurb": "Fried patties of cassava and minced beef. Quick home food in Paraguay.",
+  "ing": [
+   {
+    "n": "cassava",
+    "note": "peeled"
+   },
+   {
+    "n": "minced beef"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Boil the cassava 25 minutes, remove the fibres and mash.",
+   "Mix with the raw beef, onion, egg, oregano and salt.",
+   "Shape 12 patties 2 cm thick.",
+   "Fry at 170 °C for 4 minutes per side, until golden and cooked through."
+  ],
+  "tips": [
+   "Don't fry too hot: the beef must cook inside.",
+   "Drain on paper before serving."
+  ],
+  "video": "paraguayan payagua mascada"
+ },
+ "added": "2026-09-30"
+}

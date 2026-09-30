@@ -1,0 +1,145 @@
+{
+ "id": "pastel-de-queso-bo",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 60,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Pasteles de queso",
+  "blurb": "Empanadas fritas de queso que se inflan en el aceite, con azúcar glas. Se toman con api en las mañanas de La Paz.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "azúcar glas"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el polvo de hornear, la sal y la manteca. Añade el agua y amasa 5 minutos. Reposa 20 minutos.",
+   "Divide en 12 bolas y estíralas muy finas, de 15 cm.",
+   "Pon queso en el centro, dobla y cierra con los dedos.",
+   "Fríe a 180 °C 2 minutos por lado, bañándolos con aceite para que se inflen.",
+   "Escurre y espolvorea con el azúcar glas."
+  ],
+  "tips": [
+   "Cuanto más fina la masa, más se inflan.",
+   "Sírvelos recién fritos."
+  ],
+  "video": "pasteles de queso bolivianos"
+ },
+ "en": {
+  "name": "Bolivian Cheese Pasteles",
+  "blurb": "Fried cheese turnovers that puff up in the oil, dusted with icing sugar. Eaten with api on La Paz mornings.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "fresh white cheese",
+    "note": "crumbled"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "icing sugar"
+   }
+  ],
+  "steps": [
+   "Mix the flour, baking powder, salt and lard. Add the water and knead 5 minutes. Rest 20 minutes.",
+   "Divide into 12 balls and roll very thin, to 15 cm.",
+   "Put cheese in the centre, fold over and seal with your fingers.",
+   "Fry at 180 °C for 2 minutes per side, basting with oil so they puff.",
+   "Drain and dust with the icing sugar."
+  ],
+  "tips": [
+   "The thinner the dough, the more they puff.",
+   "Serve straight from the fryer."
+  ],
+  "video": "bolivian cheese pastel"
+ },
+ "added": "2026-09-30"
+}

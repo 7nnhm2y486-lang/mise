@@ -1,0 +1,159 @@
+{
+ "id": "bunuelos-de-acelga",
+ "country": "Uruguay",
+ "region": "latin-america",
+ "course": "side",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "parmesan",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Buñuelos de acelga",
+  "blurb": "Buñuelos esponjosos de acelga con ajo y queso. Acompañante clásico de la cocina uruguaya.",
+  "ing": [
+   {
+    "n": "acelga",
+    "note": "hervida y picada"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "queso rallado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Escurre muy bien la acelga apretándola con las manos.",
+   "Bate los huevos con la leche, el ajo, el queso y la sal.",
+   "Añade la harina y el polvo de hornear y luego la acelga.",
+   "Fríe cucharadas a 175 °C 3 minutos, dándoles la vuelta, hasta que estén dorados.",
+   "Escurre en papel."
+  ],
+  "tips": [
+   "Si la acelga está húmeda, los buñuelos se deshacen.",
+   "También se hacen con espinaca."
+  ],
+  "video": "buñuelos de acelga uruguayos"
+ },
+ "en": {
+  "name": "Buñuelos de Acelga (Chard Fritters)",
+  "blurb": "Fluffy chard fritters with garlic and cheese. A classic Uruguayan side.",
+  "ing": [
+   {
+    "n": "chard",
+    "note": "blanched and chopped"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "grated parmesan"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Squeeze the chard very dry with your hands.",
+   "Whisk the eggs with the milk, garlic, cheese and salt.",
+   "Add the flour and baking powder, then the chard.",
+   "Fry spoonfuls at 175 °C for 3 minutes, turning, until golden.",
+   "Drain on paper."
+  ],
+  "tips": [
+   "Wet chard makes the fritters fall apart.",
+   "Spinach works too."
+  ],
+  "video": "uruguayan chard fritters"
+ },
+ "added": "2026-09-30"
+}

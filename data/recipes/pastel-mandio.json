@@ -1,0 +1,159 @@
+{
+ "id": "pastel-mandio",
+ "country": "Paraguay",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 70,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "cassavastarch",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Pastel mandi'o",
+  "blurb": "Empanadas de masa de mandioca rellenas de carne y fritas. Merienda paraguaya.",
+  "ing": [
+   {
+    "n": "mandioca",
+    "note": "pelada"
+   },
+   {
+    "n": "almidón de mandioca"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite (para el relleno)"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Cuece la mandioca 25 minutos, retira las fibras y hazla puré en caliente.",
+   "Mezcla con el almidón, el huevo y la sal hasta tener una masa.",
+   "Sofríe la cebolla en el aceite del relleno 5 minutos. Añade la carne y el comino y cocina 8 minutos.",
+   "Forma discos de masa, rellena, dobla y cierra.",
+   "Fríe a 180 °C 3 minutos por lado, hasta que estén dorados."
+  ],
+  "tips": [
+   "Trabaja la masa con las manos húmedas.",
+   "Si la masa se agrieta, añade un poco más de puré caliente."
+  ],
+  "video": "pastel mandio paraguayo"
+ },
+ "en": {
+  "name": "Pastel Mandi'o (Paraguayan Cassava Empanadas)",
+  "blurb": "Cassava-dough turnovers filled with beef and fried. A Paraguayan afternoon snack.",
+  "ing": [
+   {
+    "n": "cassava",
+    "note": "peeled"
+   },
+   {
+    "n": "cassava starch"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil (for the filling)"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "minced beef"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Boil the cassava 25 minutes, remove the fibres and mash it hot.",
+   "Mix with the starch, egg and salt into a dough.",
+   "Cook the onion in the filling oil for 5 minutes. Add the beef and cumin and cook 8 minutes.",
+   "Shape discs of dough, fill, fold and seal.",
+   "Fry at 180 °C for 3 minutes per side, until golden."
+  ],
+  "tips": [
+   "Work the dough with wet hands.",
+   "If the dough cracks, add a little more hot mash."
+  ],
+  "video": "paraguayan cassava empanadas"
+ },
+ "added": "2026-09-30"
+}

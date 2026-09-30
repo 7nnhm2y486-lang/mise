@@ -1,0 +1,159 @@
+{
+ "id": "soo-yosopy",
+ "country": "Paraguay",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "So'o yosopy",
+  "blurb": "Sopa de carne molida finísima deshecha en agua fría, que se cuaja al hervir. Receta guaraní de Paraguay.",
+  "ing": [
+   {
+    "n": "carne de res molida muy fina"
+   },
+   {
+    "n": "agua fría"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento",
+    "note": "picado"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Mezcla la carne con el agua fría deshaciéndola con las manos. Deja reposar 10 minutos.",
+   "Sofríe la cebolla, el pimiento y el tomate en el aceite 8 minutos.",
+   "Añade la carne con su agua, el arroz, el orégano y la sal.",
+   "Cuece a fuego medio 20 minutos, removiendo sin parar para que la carne no forme grumos."
+  ],
+  "tips": [
+   "Pide al carnicero que muela la carne dos veces.",
+   "Remueve siempre: si no, la carne se apelmaza."
+  ],
+  "video": "so'o yosopy paraguayo"
+ },
+ "en": {
+  "name": "So'o Yosopy (Paraguayan Beef Soup)",
+  "blurb": "A soup of very finely minced beef broken up in cold water, which sets as it boils. A Guaraní recipe from Paraguay.",
+  "ing": [
+   {
+    "n": "very finely minced beef"
+   },
+   {
+    "n": "cold water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Mix the beef with the cold water, breaking it up with your hands. Rest 10 minutes.",
+   "Cook the onion, pepper and tomato in the oil for 8 minutes.",
+   "Add the beef with its water, the rice, oregano and salt.",
+   "Simmer over medium heat for 20 minutes, stirring constantly so the beef doesn't clump."
+  ],
+  "tips": [
+   "Ask the butcher to mince the beef twice.",
+   "Keep stirring or the meat will clump."
+  ],
+  "video": "paraguayan soo yosopy"
+ },
+ "added": "2026-09-30"
+}

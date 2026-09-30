@@ -1,0 +1,81 @@
+{
+ "id": "cocido-quemado",
+ "country": "Paraguay",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 15,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Cocido quemado",
+  "blurb": "Yerba mate tostada con azúcar caramelizada y hervida en agua. El desayuno de los paraguayos.",
+  "ing": [
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "yerba mate"
+   },
+   {
+    "n": "agua"
+   }
+  ],
+  "steps": [
+   "Pon el azúcar y la yerba en una olla a fuego medio.",
+   "Remueve 3 minutos, hasta que el azúcar se funda y caramelice con la yerba.",
+   "Añade el agua con cuidado: salpica.",
+   "Hierve 3 minutos, cuela y sirve caliente."
+  ],
+  "tips": [
+   "Algunos meten una brasa en la olla para quemar el azúcar, que es la forma tradicional.",
+   "No dejes que el azúcar se ponga negro o amarga."
+  ],
+  "video": "cocido quemado paraguayo"
+ },
+ "en": {
+  "name": "Cocido Quemado (Burnt-Sugar Yerba Mate)",
+  "blurb": "Yerba mate toasted with caramelised sugar and boiled in water. Paraguay's breakfast drink.",
+  "ing": [
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "yerba mate"
+   },
+   {
+    "n": "water"
+   }
+  ],
+  "steps": [
+   "Put the sugar and yerba in a pan over medium heat.",
+   "Stir 3 minutes, until the sugar melts and caramelises with the yerba.",
+   "Add the water carefully: it spits.",
+   "Boil 3 minutes, strain and serve hot."
+  ],
+  "tips": [
+   "Traditionally a hot ember is dropped in the pot to burn the sugar.",
+   "Don't let the sugar go black or it turns bitter."
+  ],
+  "video": "paraguayan cocido quemado"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,161 @@
+{
+ "id": "capeletis-a-la-caruso",
+ "country": "Uruguay",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "stuffedpasta",
+   "role": "structure"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "mushroom",
+   "role": "umami"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "ham",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "heavycream",
+   "role": "sauce"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "parmesan",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Capeletis a la Caruso",
+  "blurb": "Pasta rellena en salsa de crema, jamón, champiñones y queso. Inventada en Montevideo en honor al tenor Caruso.",
+  "ing": [
+   {
+    "n": "capeletis rellenos"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "champiñones",
+    "note": "en láminas"
+   },
+   {
+    "n": "jamón cocido",
+    "note": "en tiras"
+   },
+   {
+    "n": "crema de leche"
+   },
+   {
+    "n": "queso parmesano rallado"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Derrite la mantequilla y sofríe la cebolla 5 minutos.",
+   "Añade los champiñones y saltea 5 minutos. Añade el jamón.",
+   "Añade la crema y la nuez moscada y cuece 5 minutos, hasta que espese un poco. Añade el queso.",
+   "Cuece los capeletis en agua con sal según el paquete.",
+   "Escúrrelos y mézclalos con la salsa."
+  ],
+  "tips": [
+   "Guarda un poco de agua de la pasta por si la salsa espesa demasiado.",
+   "Revisa la etiqueta de los capeletis: el relleno varía."
+  ],
+  "video": "capeletis a la caruso uruguayos"
+ },
+ "en": {
+  "name": "Capeletis a la Caruso",
+  "blurb": "Filled pasta in a sauce of cream, ham, mushrooms and cheese. Created in Montevideo in honour of the tenor Caruso.",
+  "ing": [
+   {
+    "n": "cappelletti"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "mushrooms",
+    "note": "sliced"
+   },
+   {
+    "n": "cooked ham",
+    "note": "in strips"
+   },
+   {
+    "n": "double cream"
+   },
+   {
+    "n": "grated parmesan"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Melt the butter and cook the onion for 5 minutes.",
+   "Add the mushrooms and sauté 5 minutes. Add the ham.",
+   "Add the cream and nutmeg and simmer 5 minutes, until slightly thickened. Stir in the cheese.",
+   "Cook the cappelletti in salted water as the packet says.",
+   "Drain and toss with the sauce."
+  ],
+  "tips": [
+   "Keep some pasta water in case the sauce gets too thick.",
+   "Check the cappelletti label: fillings vary."
+  ],
+  "video": "uruguayan capeletis caruso"
+ },
+ "added": "2026-09-30"
+}

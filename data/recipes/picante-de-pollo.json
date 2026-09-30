@@ -1,0 +1,213 @@
+{
+ "id": "picante-de-pollo",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 80,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Picante de pollo",
+  "blurb": "Pollo cocido en una salsa roja de ají, con ensalada de tomate y locoto. Plato de fiesta en La Paz y Cochabamba.",
+  "ing": [
+   {
+    "n": "pollo en presas"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebollas",
+    "note": "en juliana"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ají colorado molido"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "tomates",
+    "note": "en rodajas"
+   },
+   {
+    "n": "cebolla (para la ensalada)",
+    "note": "en aros"
+   },
+   {
+    "n": "locoto",
+    "note": "en tiras"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo en el agua con la sal 30 minutos. Guarda el caldo.",
+   "Sofríe la cebolla, el ajo, el ají, el comino y el orégano en el aceite 10 minutos.",
+   "Añade el pollo y 500 ml del caldo y cuece 25 minutos a fuego bajo.",
+   "Añade las arvejas y cuece 5 minutos.",
+   "Sirve con la ensalada de tomate, cebolla y locoto por encima."
+  ],
+  "tips": [
+   "Tradicionalmente se sirve con arroz blanco.",
+   "El locoto es muy picante: quita las venas si lo quieres suave."
+  ],
+  "video": "picante de pollo boliviano"
+ },
+ "en": {
+  "name": "Picante de Pollo (Bolivian Spicy Chicken)",
+  "blurb": "Chicken simmered in a red ají sauce, topped with a tomato and locoto salad. A festive dish in La Paz and Cochabamba.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onions",
+    "note": "sliced"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ground red ají paste"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "green peas"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "tomatoes",
+    "note": "sliced"
+   },
+   {
+    "n": "onion (for the salad)",
+    "note": "in rings"
+   },
+   {
+    "n": "locoto chilli",
+    "note": "in strips"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken in the water with the salt for 30 minutes. Keep the broth.",
+   "Cook the onion, garlic, ají, cumin and oregano in the oil for 10 minutes.",
+   "Add the chicken and 500 ml of the broth and simmer 25 minutes on low.",
+   "Add the peas and cook 5 minutes.",
+   "Serve with the tomato, onion and locoto salad on top."
+  ],
+  "tips": [
+   "It's traditionally eaten with white rice.",
+   "Locoto is very hot: remove the veins for a milder dish."
+  ],
+  "video": "bolivian picante de pollo"
+ },
+ "added": "2026-09-30"
+}

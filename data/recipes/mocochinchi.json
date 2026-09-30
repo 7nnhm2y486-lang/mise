@@ -1,0 +1,117 @@
+{
+ "id": "mocochinchi",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 60,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "structure"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "ice",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Mocochinchi",
+  "blurb": "Refresco de durazno deshidratado con canela. Se vende en todas las plazas de Bolivia, con el durazno en el vaso.",
+  "ing": [
+   {
+    "n": "mocochinchi (duraznos deshidratados)"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "hielo"
+   }
+  ],
+  "steps": [
+   "Lava los duraznos y remójalos en 1 l de agua 2 horas.",
+   "Hiérvelos en esa agua con el resto del agua, la canela y el clavo 40 minutos.",
+   "Añade el azúcar y deja enfriar.",
+   "Sirve frío con hielo y un durazno en cada vaso."
+  ],
+  "tips": [
+   "El durazno se come al final: es parte del refresco.",
+   "Se conserva 3 días en la nevera."
+  ],
+  "video": "mocochinchi boliviano"
+ },
+ "en": {
+  "name": "Mocochinchi (Bolivian Dried Peach Drink)",
+  "blurb": "A dried-peach cooler with cinnamon. Sold in every Bolivian plaza, with a peach in the glass.",
+  "ing": [
+   {
+    "n": "dried whole peaches"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Rinse the peaches and soak them in 1 l of the water for 2 hours.",
+   "Boil them in that water with the rest of the water, the cinnamon and cloves for 40 minutes.",
+   "Add the sugar and cool.",
+   "Serve cold with ice and a peach in each glass."
+  ],
+  "tips": [
+   "You eat the peach at the end: it's part of the drink.",
+   "It keeps 3 days in the fridge."
+  ],
+  "video": "bolivian mocochinchi"
+ },
+ "added": "2026-09-30"
+}

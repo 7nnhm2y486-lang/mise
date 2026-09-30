@@ -1,0 +1,109 @@
+{
+ "id": "sonso-de-yuca",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "side",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Sonso de yuca",
+  "blurb": "Masa de yuca con mucho queso, asada en la sartén hasta dorar. Acompañante oriental de Santa Cruz.",
+  "ing": [
+   {
+    "n": "yuca",
+    "note": "pelada y en trozos"
+   },
+   {
+    "n": "queso fresco menonita",
+    "note": "rallado"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece la yuca en agua con sal 25 minutos, hasta que esté muy tierna. Retira las fibras.",
+   "Aplástala en caliente con la mantequilla, la leche y la sal hasta tener una masa lisa.",
+   "Añade el queso y amasa.",
+   "Extiende en una sartén aceitada de 1 cm de grosor y dora 6 minutos por lado a fuego medio."
+  ],
+  "tips": [
+   "Aplasta la yuca en caliente: fría se pone chiclosa.",
+   "También se hace en brochetas, asado sobre brasas."
+  ],
+  "video": "sonso de yuca cruceño"
+ },
+ "en": {
+  "name": "Sonso de Yuca (Bolivian Cassava Cheese Cake)",
+  "blurb": "Cassava mash loaded with cheese, pan-fried until golden. An eastern Bolivian side from Santa Cruz.",
+  "ing": [
+   {
+    "n": "cassava",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "fresh white cheese",
+    "note": "grated"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Boil the cassava in salted water for 25 minutes, until very soft. Remove the fibres.",
+   "Mash it hot with the butter, milk and salt into a smooth dough.",
+   "Add the cheese and knead.",
+   "Spread 1 cm thick in an oiled pan and brown 6 minutes per side over medium heat."
+  ],
+  "tips": [
+   "Mash the cassava hot: cold, it turns gummy.",
+   "It's also shaped on skewers and grilled over embers."
+  ],
+  "video": "bolivian sonso de yuca"
+ },
+ "added": "2026-09-30"
+}
