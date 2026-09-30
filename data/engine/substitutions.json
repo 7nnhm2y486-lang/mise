@@ -3730,6 +3730,13 @@
       }
      }
     ]
+   },
+   "may": [
+    "sugar"
+   ],
+   "label": {
+    "es": "La mayoría del tocino se cura con azúcar.",
+    "en": "Most bacon is cured with sugar."
    }
   },
   "pancetta": {
@@ -3835,6 +3842,15 @@
       }
      }
     ]
+   },
+   "may": [
+    "sugar",
+    "milk",
+    "soy"
+   ],
+   "label": {
+    "es": "El jamón cocido suele llevar azúcar o dextrosa y a veces proteína de leche o de soja: revisa la etiqueta.",
+    "en": "Cooked ham usually contains sugar or dextrose and sometimes milk or soy protein: check the label."
    }
   },
   "prosciutto": {

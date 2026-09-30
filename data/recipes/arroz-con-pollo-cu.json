@@ -1,0 +1,249 @@
+{
+ "id": "arroz-con-pollo-cu",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "main",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 330,
+   "u": "ml",
+   "k": "beer",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Arroz con pollo a la cubana",
+  "blurb": "Arroz amarillo y húmedo con pollo marinado en naranja agria, cerveza y sofrito. El plato de fiesta de la casa cubana.",
+  "ing": [
+   {
+    "n": "pollo en presas"
+   },
+   {
+    "n": "naranjas agrias (o 2 naranjas y 1 limón)",
+    "note": "en jugo"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ají pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "puré de tomate"
+   },
+   {
+    "n": "bijol o achiote en polvo"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "hoja de laurel"
+   },
+   {
+    "n": "arroz de grano medio"
+   },
+   {
+    "n": "cerveza clara"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "petit pois"
+   },
+   {
+    "n": "pimiento rojo asado",
+    "note": "en tiras"
+   }
+  ],
+  "steps": [
+   "Marina el pollo con el jugo de naranja, el ajo y 1 cucharadita de sal al menos 1 hora.",
+   "Dora el pollo en el aceite 8 minutos. Añade la cebolla y el ají y sofríe 5 minutos.",
+   "Añade el puré de tomate, el bijol, el comino, el laurel y la marinada. Cuece 5 minutos.",
+   "Añade el arroz, la cerveza, el caldo y el resto de la sal. Hierve, tapa y cuece a fuego bajo 25 minutos.",
+   "Añade los petit pois, tapa y deja 5 minutos. Decora con el pimiento. Debe quedar húmedo, no seco."
+  ],
+  "tips": [
+   "El arroz a la cubana queda meloso; si lo quieres suelto, usa 100 ml menos de caldo.",
+   "Sin cerveza, usa la misma cantidad de caldo."
+  ],
+  "video": "arroz con pollo cubano receta"
+ },
+ "en": {
+  "name": "Cuban Arroz con Pollo",
+  "blurb": "Moist yellow rice with chicken marinated in sour orange, beer and sofrito. The party dish of a Cuban home.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "sour oranges (or 2 oranges and 1 lime)",
+    "note": "juiced"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato purée"
+   },
+   {
+    "n": "bijol or ground annatto"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "bay leaf"
+   },
+   {
+    "n": "medium-grain rice"
+   },
+   {
+    "n": "lager beer"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "peas"
+   },
+   {
+    "n": "roasted red pepper",
+    "note": "in strips"
+   }
+  ],
+  "steps": [
+   "Marinate the chicken with the orange juice, garlic and 1 teaspoon of salt for at least 1 hour.",
+   "Brown the chicken in the oil for 8 minutes. Add the onion and pepper and cook 5 minutes.",
+   "Add the tomato purée, bijol, cumin, bay and the marinade. Cook 5 minutes.",
+   "Add the rice, beer, stock and the rest of the salt. Bring to a boil, cover and cook on low for 25 minutes.",
+   "Add the peas, cover and leave 5 minutes. Garnish with the pepper. It should be moist, not dry."
+  ],
+  "tips": [
+   "Cuban-style rice is soft and creamy; for separate grains, use 100 ml less stock.",
+   "Without beer, use the same amount of stock."
+  ],
+  "video": "cuban arroz con pollo recipe"
+ },
+ "added": "2026-09-30"
+}

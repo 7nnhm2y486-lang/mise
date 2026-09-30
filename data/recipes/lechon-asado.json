@@ -1,0 +1,148 @@
+{
+ "id": "lechon-asado",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "main",
+ "time": 300,
+ "serves": 10,
+ "ovenC": 160,
+ "ing": [
+  {
+   "q": 3,
+   "u": "kg",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 12,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "pepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 350,
+   "u": "ml",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Lechón asado",
+  "blurb": "Paleta de cerdo marinada en mojo de ajo y naranja agria toda la noche y asada lenta hasta deshacerse, con la piel crujiente.",
+  "ing": [
+   {
+    "n": "paleta de cerdo con hueso y piel"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "jugo de naranja agria (o 2 partes de naranja y 1 de limón)"
+   },
+   {
+    "n": "cebollas",
+    "note": "en aros"
+   }
+  ],
+  "steps": [
+   "Machaca el ajo con la sal, el comino, el orégano y la pimienta. Mezcla con el jugo de naranja: es el mojo.",
+   "Haz cortes profundos en la carne, sin cortar la piel. Mete mojo en los cortes y marina con la cebolla toda la noche.",
+   "Calienta el horno a 160 °C. Pon el cerdo con la piel arriba sobre la cebolla y la marinada, tapa con aluminio.",
+   "Asa 3 horas y media, bañando cada hora.",
+   "Destapa, sube el horno a 230 °C y asa 30 minutos más, hasta que la piel cruja.",
+   "Reposa 20 minutos, deshebra y sirve con los jugos, moros y yuca."
+  ],
+  "tips": [
+   "Seca bien la piel antes del último golpe de horno para que cruja.",
+   "Guarda un poco de mojo sin usar para rociar al servir."
+  ],
+  "video": "lechon asado cubano receta"
+ },
+ "en": {
+  "name": "Cuban Roast Pork (Lechón Asado)",
+  "blurb": "Pork shoulder marinated overnight in garlic and sour orange mojo and roasted slowly until it falls apart, with crackling skin.",
+  "ing": [
+   {
+    "n": "bone-in, skin-on pork shoulder"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "sour orange juice (or 2 parts orange to 1 part lime)"
+   },
+   {
+    "n": "onions",
+    "note": "in rings"
+   }
+  ],
+  "steps": [
+   "Mash the garlic with the salt, cumin, oregano and pepper. Mix with the orange juice: this is the mojo.",
+   "Cut deep slits in the meat without cutting the skin. Push mojo into the slits and marinate with the onion overnight.",
+   "Heat the oven to 160 °C. Set the pork skin-side up on the onion and marinade, cover with foil.",
+   "Roast 3 and a half hours, basting every hour.",
+   "Uncover, raise the oven to 230 °C and roast 30 minutes more, until the skin crackles.",
+   "Rest 20 minutes, shred and serve with the juices, black beans and rice and cassava."
+  ],
+  "tips": [
+   "Pat the skin dry before the final blast so it crackles.",
+   "Keep a little unused mojo to drizzle when serving."
+  ],
+  "video": "cuban lechon asado recipe"
+ },
+ "added": "2026-09-30"
+}

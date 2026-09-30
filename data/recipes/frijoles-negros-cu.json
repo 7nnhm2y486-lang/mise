@@ -1,0 +1,199 @@
+{
+ "id": "frijoles-negros-cu",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "side",
+ "time": 150,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "winevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Frijoles negros cubanos",
+  "blurb": "Frijoles negros dormidos: espesos, con sofrito, comino, un toque de vinagre y azúcar. Mejor al día siguiente.",
+  "ing": [
+   {
+    "n": "frijoles negros",
+    "note": "remojados toda la noche"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "hojas de laurel"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ají pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "vinagre de vino"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece los frijoles escurridos en el agua con el laurel 90 minutos, hasta que estén blandos.",
+   "Sofríe la cebolla, el ají y el ajo en el aceite 10 minutos con el comino y el orégano.",
+   "Aplasta 1 taza de frijoles con el sofrito y regrésalo todo a la olla.",
+   "Añade el vinagre, el azúcar y la sal y cuece 30 minutos a fuego bajo, hasta que espesen.",
+   "Deja reposar tapados. Son frijoles dormidos si se comen al día siguiente."
+  ],
+  "tips": [
+   "El chorrito de aceite de oliva crudo al servir es de rigor.",
+   "Sin azúcar también quedan bien; el vinagre es lo que no puede faltar."
+  ],
+  "video": "frijoles negros cubanos receta"
+ },
+ "en": {
+  "name": "Cuban Black Beans",
+  "blurb": "Black beans left to rest: thick, with sofrito, cumin, a touch of vinegar and sugar. Better the next day.",
+  "ing": [
+   {
+    "n": "black beans",
+    "note": "soaked overnight"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "wine vinegar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the drained beans in the water with the bay for 90 minutes, until soft.",
+   "Cook the onion, pepper and garlic in the oil for 10 minutes with the cumin and oregano.",
+   "Mash 1 cup of beans with the sofrito and return everything to the pot.",
+   "Add the vinegar, sugar and salt and cook 30 minutes on low, until thick.",
+   "Leave to rest covered. They're called sleeping beans if eaten the next day."
+  ],
+  "tips": [
+   "A splash of raw olive oil when serving is a must.",
+   "They're good without the sugar too; the vinegar is what can't be skipped."
+  ],
+  "video": "cuban black beans recipe"
+ },
+ "added": "2026-09-30"
+}

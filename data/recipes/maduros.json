@@ -1,0 +1,83 @@
+{
+ "id": "maduros",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "side",
+ "time": 15,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "plantain",
+   "role": "sweet"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Plátanos maduros fritos",
+  "blurb": "Plátano maduro frito en rodajas diagonales hasta caramelizar por fuera y quedar cremoso por dentro.",
+  "ing": [
+   {
+    "n": "plátanos maduros (con la cáscara casi negra)",
+    "note": "pelados"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Corta los plátanos en rodajas diagonales de 1 centímetro.",
+   "Calienta el aceite a fuego medio.",
+   "Fríe 3 minutos por lado, hasta que estén caramelizados y oscuros en los bordes.",
+   "Escurre y espolvorea la sal."
+  ],
+  "tips": [
+   "El plátano debe estar casi negro: amarillo no carameliza.",
+   "Fuego medio: alto quema el azúcar natural antes de que se ablande."
+  ],
+  "video": "platanos maduros fritos"
+ },
+ "en": {
+  "name": "Maduros (Fried Sweet Plantains)",
+  "blurb": "Ripe plantain fried in diagonal slices until caramelised outside and creamy inside.",
+  "ing": [
+   {
+    "n": "ripe plantains (skins nearly black)",
+    "note": "peeled"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cut the plantains into 1 centimetre diagonal slices.",
+   "Heat the oil over medium heat.",
+   "Fry 3 minutes per side, until caramelised and dark at the edges.",
+   "Drain and sprinkle with the salt."
+  ],
+  "tips": [
+   "The plantain should be nearly black: yellow ones won't caramelise.",
+   "Medium heat: high heat burns the natural sugar before it softens."
+  ],
+  "video": "fried sweet plantains"
+ },
+ "added": "2026-09-30"
+}

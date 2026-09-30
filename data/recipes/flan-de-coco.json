@@ -1,0 +1,122 @@
+{
+ "id": "flan-de-coco",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "sweet",
+ "time": 90,
+ "serves": 8,
+ "ovenC": 170,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 395,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "desiccatedcoconut",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Flan de coco",
+  "blurb": "Flan cubano con leche de coco y coco rallado que sube y forma una capa en el fondo. Sobre caramelo oscuro.",
+  "ing": [
+   {
+    "n": "azúcar",
+    "note": "para el caramelo"
+   },
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "coco rallado"
+   }
+  ],
+  "steps": [
+   "Derrite el azúcar en el molde a fuego medio hasta que esté ámbar. Cubre el fondo.",
+   "Calienta el horno a 170 °C.",
+   "Licúa la leche condensada, la leche de coco, la evaporada y los huevos 20 segundos. Añade el coco rallado sin licuar.",
+   "Vierte sobre el caramelo, tapa con aluminio y pon el molde en una bandeja con agua caliente.",
+   "Hornea 60 minutos, hasta que el centro apenas tiemble. Enfría y refrigera 4 horas antes de desmoldar."
+  ],
+  "tips": [
+   "El coco sube durante el horneado y queda como base al desmoldar.",
+   "Tuesta el coco antes si lo quieres más aromático."
+  ],
+  "video": "flan de coco cubano receta"
+ },
+ "en": {
+  "name": "Cuban Coconut Flan",
+  "blurb": "Cuban flan with coconut milk and shredded coconut that rises to form a layer at the base. Over dark caramel.",
+  "ing": [
+   {
+    "n": "sugar",
+    "note": "for the caramel"
+   },
+   {
+    "n": "sweetened condensed milk"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "shredded coconut"
+   }
+  ],
+  "steps": [
+   "Melt the sugar in the mould over medium heat until amber. Coat the bottom.",
+   "Heat the oven to 170 °C.",
+   "Blend the condensed milk, coconut milk, evaporated milk and eggs for 20 seconds. Stir in the shredded coconut without blending.",
+   "Pour over the caramel, cover with foil and set the mould in a tray of hot water.",
+   "Bake 60 minutes, until the centre barely wobbles. Cool and chill 4 hours before turning out."
+  ],
+  "tips": [
+   "The coconut rises during baking and becomes the base when turned out.",
+   "Toast the coconut first for more aroma."
+  ],
+  "video": "cuban coconut flan recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,139 @@
+{
+ "id": "sandwich-cubano",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "main",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "loaf",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "ham",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "cheese",
+   "role": "protein"
+  },
+  {
+   "q": 8,
+   "u": "slice",
+   "k": "pickles",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "mustard",
+   "role": "spread"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Sándwich cubano",
+  "blurb": "Pan cubano con lechón, jamón, queso suizo, pepinillos y mostaza, prensado en plancha hasta crujir. Nació entre La Habana, Tampa y Miami.",
+  "ing": [
+   {
+    "n": "pan cubano (o baguette suave)"
+   },
+   {
+    "n": "lechón asado",
+    "note": "en tajadas"
+   },
+   {
+    "n": "jamón cocido",
+    "note": "en tajadas"
+   },
+   {
+    "n": "queso suizo",
+    "note": "en tajadas"
+   },
+   {
+    "n": "pepinillos en rodajas"
+   },
+   {
+    "n": "mostaza amarilla"
+   },
+   {
+    "n": "mantequilla",
+    "note": "suave"
+   }
+  ],
+  "steps": [
+   "Corta el pan en 4 trozos y ábrelos a lo largo.",
+   "Unta mostaza por dentro. Pon queso, jamón, lechón, pepinillos y otra capa de queso.",
+   "Unta mantequilla por fuera.",
+   "Prensa en una plancha o sartén con peso encima 4 minutos por lado, hasta que el pan cruja y el queso se funda.",
+   "Corta en diagonal y sirve."
+  ],
+  "tips": [
+   "Sin prensa, pon una olla pesada encima del sándwich.",
+   "Lleva exactamente esto: sin lechuga ni tomate."
+  ],
+  "video": "sandwich cubano receta"
+ },
+ "en": {
+  "name": "Cuban Sandwich",
+  "blurb": "Cuban bread with roast pork, ham, Swiss cheese, pickles and mustard, pressed on a griddle until crisp. Born between Havana, Tampa and Miami.",
+  "ing": [
+   {
+    "n": "Cuban bread (or soft baguette)"
+   },
+   {
+    "n": "roast pork",
+    "note": "sliced"
+   },
+   {
+    "n": "cooked ham",
+    "note": "sliced"
+   },
+   {
+    "n": "Swiss cheese",
+    "note": "sliced"
+   },
+   {
+    "n": "sliced dill pickles"
+   },
+   {
+    "n": "yellow mustard"
+   },
+   {
+    "n": "butter",
+    "note": "soft"
+   }
+  ],
+  "steps": [
+   "Cut the bread into 4 pieces and split them lengthwise.",
+   "Spread mustard inside. Layer cheese, ham, pork, pickles and another layer of cheese.",
+   "Butter the outside.",
+   "Press on a griddle or in a pan with a weight on top for 4 minutes per side, until the bread is crisp and the cheese melts.",
+   "Cut diagonally and serve."
+  ],
+  "tips": [
+   "No press? Put a heavy pot on top of the sandwich.",
+   "It's exactly this: no lettuce or tomato."
+  ],
+  "video": "cuban sandwich recipe"
+ },
+ "added": "2026-09-30"
+}

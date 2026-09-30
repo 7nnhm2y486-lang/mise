@@ -1,0 +1,209 @@
+{
+ "id": "picadillo-cubano",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "olives",
+   "role": "umami"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "capers",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Picadillo a la habanera",
+  "blurb": "Carne molida con sofrito, aceitunas, pasas y alcaparras. Dulce, salado y ácido, con arroz blanco y plátano maduro.",
+  "ing": [
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ají pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "puré de tomate"
+   },
+   {
+    "n": "vino seco"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "aceitunas verdes sin hueso"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "alcaparras"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ají y el ajo en el aceite 8 minutos.",
+   "Añade la carne y cuece 8 minutos, deshaciéndola, hasta que pierda el color rosado.",
+   "Añade el puré de tomate, el vino, el comino, el orégano y la sal. Cuece 10 minutos.",
+   "Añade las aceitunas, las pasas y las alcaparras y cuece 5 minutos más.",
+   "Sirve con arroz blanco y maduros fritos."
+  ],
+  "tips": [
+   "El vino seco de cocina cubano es salado: si lo usas, quita sal.",
+   "El vino se puede cambiar por la misma cantidad de agua con un chorrito de limón."
+  ],
+  "video": "picadillo cubano receta"
+ },
+ "en": {
+  "name": "Cuban Picadillo",
+  "blurb": "Ground beef with sofrito, olives, raisins and capers. Sweet, salty and sharp, with white rice and sweet plantains.",
+  "ing": [
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato purée"
+   },
+   {
+    "n": "dry white wine"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "pitted green olives"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "capers"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion, pepper and garlic in the oil for 8 minutes.",
+   "Add the beef and cook 8 minutes, breaking it up, until no longer pink.",
+   "Add the tomato purée, wine, cumin, oregano and salt. Cook 10 minutes.",
+   "Add the olives, raisins and capers and cook 5 minutes more.",
+   "Serve with white rice and fried sweet plantains."
+  ],
+  "tips": [
+   "Cuban cooking wine is salted: if you use it, cut the salt.",
+   "The wine can be replaced with the same amount of water with a squeeze of lime."
+  ],
+  "video": "cuban picadillo recipe"
+ },
+ "added": "2026-09-30"
+}

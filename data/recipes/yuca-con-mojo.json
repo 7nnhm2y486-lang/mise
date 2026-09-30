@@ -1,0 +1,123 @@
+{
+ "id": "yuca-con-mojo",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "side",
+ "time": 45,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 8,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Yuca con mojo",
+  "blurb": "Yuca hervida bañada en mojo caliente de ajo, naranja agria y aceite de oliva. Imprescindible junto al lechón.",
+  "ing": [
+   {
+    "n": "yuca",
+    "note": "pelada, en trozos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "jugo de naranja agria (o mitad naranja y mitad limón)"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "en aros finos"
+   }
+  ],
+  "steps": [
+   "Cuece la yuca en agua con 1 cucharadita de sal 30 minutos, hasta que esté blanda y se abra. Escurre y quita la fibra del centro.",
+   "Machaca el ajo con el resto de la sal hasta hacer una pasta.",
+   "Calienta el aceite a fuego medio y sofríe la cebolla y el ajo 1 minuto, sin dorar.",
+   "Apaga, añade el jugo de naranja con cuidado (salpica) y vierte sobre la yuca caliente."
+  ],
+  "tips": [
+   "Echar agua fría a media cocción, como en Cuba, hace que la yuca se abra y quede suave.",
+   "La yuca debe cocerse del todo: nunca se come cruda."
+  ],
+  "video": "yuca con mojo receta"
+ },
+ "en": {
+  "name": "Yuca con Mojo (Cassava with Garlic Citrus Sauce)",
+  "blurb": "Boiled cassava drenched in hot mojo of garlic, sour orange and olive oil. A must beside roast pork.",
+  "ing": [
+   {
+    "n": "cassava",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "sour orange juice (or half orange, half lime)"
+   },
+   {
+    "n": "white onion",
+    "note": "in thin rings"
+   }
+  ],
+  "steps": [
+   "Boil the cassava in water with 1 teaspoon of salt for 30 minutes, until soft and split. Drain and remove the woody core.",
+   "Mash the garlic with the rest of the salt into a paste.",
+   "Heat the oil over medium heat and cook the onion and garlic for 1 minute, without browning.",
+   "Turn off, add the orange juice carefully (it spatters) and pour over the hot cassava."
+  ],
+  "tips": [
+   "Adding cold water halfway through, the Cuban way, makes the cassava split and turn tender.",
+   "Cassava must be fully cooked: never eat it raw."
+  ],
+  "video": "yuca con mojo recipe"
+ },
+ "added": "2026-09-30"
+}

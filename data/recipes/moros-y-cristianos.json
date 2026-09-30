@@ -1,0 +1,187 @@
+{
+ "id": "moros-y-cristianos",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "side",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Moros y cristianos",
+  "blurb": "Arroz cocido junto con frijoles negros en su caldo oscuro, con sofrito y comino. Congrí, en el oriente de Cuba.",
+  "ing": [
+   {
+    "n": "frijoles negros cocidos"
+   },
+   {
+    "n": "líquido de cocción de los frijoles"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ají pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "hoja de laurel"
+   },
+   {
+    "n": "arroz de grano largo",
+    "note": "enjuagado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ají y el ajo en el aceite 8 minutos con el comino y el orégano.",
+   "Añade el arroz y revuelve 2 minutos.",
+   "Añade los frijoles, su líquido, el laurel y la sal. Si no llega a 1 centímetro sobre el arroz, añade agua.",
+   "Hierve hasta que el líquido baje al nivel del arroz. Tapa y cuece a fuego bajo 20 minutos.",
+   "Deja 5 minutos tapado y suelta con tenedor."
+  ],
+  "tips": [
+   "El líquido de los frijoles es lo que tiñe el arroz: no lo cambies por agua.",
+   "Con frijoles colorados se llama congrí oriental."
+  ],
+  "video": "moros y cristianos receta"
+ },
+ "en": {
+  "name": "Moros y Cristianos (Cuban Black Beans and Rice)",
+  "blurb": "Rice cooked with black beans in their dark liquid, with sofrito and cumin. Called congrí in eastern Cuba.",
+  "ing": [
+   {
+    "n": "cooked black beans"
+   },
+   {
+    "n": "bean cooking liquid"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "bay leaf"
+   },
+   {
+    "n": "long-grain rice",
+    "note": "rinsed"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion, pepper and garlic in the oil for 8 minutes with the cumin and oregano.",
+   "Add the rice and stir 2 minutes.",
+   "Add the beans, their liquid, the bay and salt. If it doesn't reach 1 centimetre above the rice, add water.",
+   "Boil until the liquid drops to the level of the rice. Cover and cook on low for 20 minutes.",
+   "Leave covered 5 minutes and fluff with a fork."
+  ],
+  "tips": [
+   "The bean liquid is what colours the rice: don't swap it for water.",
+   "With red beans it's called congrí oriental."
+  ],
+  "video": "moros y cristianos recipe"
+ },
+ "added": "2026-09-30"
+}

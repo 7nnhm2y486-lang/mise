@@ -1,0 +1,137 @@
+{
+ "id": "vaca-frita",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "main",
+ "time": 120,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Vaca frita",
+  "blurb": "Falda de res hervida, desmenuzada, marinada en ajo y limón y frita hasta que las hebras crujen, con mucha cebolla.",
+  "ing": [
+   {
+    "n": "falda de res"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "cebollas",
+    "note": "en aros finos"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Cuece la carne en el agua con 1 cucharadita de sal 90 minutos. Escurre y desmenuza en hebras.",
+   "Mezcla la carne con el ajo, el limón y el resto de la sal. Deja 30 minutos.",
+   "Calienta el aceite en un sartén grande a fuego fuerte. Fríe la cebolla 3 minutos.",
+   "Añade la carne y aplástala contra el sartén. Déjala 5 minutos sin mover, hasta que se dore y cruja; voltea y repite.",
+   "Sirve con arroz, frijoles negros y maduros."
+  ],
+  "tips": [
+   "Sartén muy caliente y sin llenarlo: si hay demasiada carne, se cuece en vez de freírse.",
+   "Seca bien la carne antes de freír."
+  ],
+  "video": "vaca frita receta"
+ },
+ "en": {
+  "name": "Vaca Frita (Cuban Crispy Beef)",
+  "blurb": "Beef flank simmered, shredded, marinated in garlic and lime and fried until the strands crisp, with lots of onion.",
+  "ing": [
+   {
+    "n": "beef flank"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "onions",
+    "note": "in thin rings"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Simmer the beef in the water with 1 teaspoon of salt for 90 minutes. Drain and shred into strands.",
+   "Mix the beef with the garlic, lime and the rest of the salt. Leave 30 minutes.",
+   "Heat the oil in a large pan over high heat. Fry the onion 3 minutes.",
+   "Add the beef and press it into the pan. Leave 5 minutes without stirring, until browned and crisp; turn and repeat.",
+   "Serve with rice, black beans and sweet plantains."
+  ],
+  "tips": [
+   "Very hot pan and don't crowd it: too much beef steams instead of frying.",
+   "Pat the beef dry before frying."
+  ],
+  "video": "vaca frita recipe"
+ },
+ "added": "2026-09-30"
+}

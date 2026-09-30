@@ -75,6 +75,11 @@ I.gelatin.label = T("La mayoría de la gelatina es de cerdo; si evitas cerdo, bu
 I.gelatin.s.pork = [sub(0.33, [], [], ["agar agar en polvo", "Un tercio del peso; debe hervir 2 minutos para activarse."], ["agar agar powder", "A third of the weight; it must boil for 2 minutes to activate."])];
 // Salsa Lizano (Costa Rica): sugar, onion, mustard and spices; vegetable content varies.
 put("lizano", ["sugar", "mustard", "allium"], ["celery", "nightshade"], T("La salsa Lizano lleva azúcar, cebolla, mostaza y especias.", "Salsa Lizano contains sugar, onion, mustard and spices."));
+// Cured pork: most hams and bacons are cured with sugar or dextrose; deli ham can contain milk or soy protein.
+I.ham.may = [...new Set([...(I.ham.may || []), "sugar", "milk", "soy"])];
+I.ham.label = T("El jamón cocido suele llevar azúcar o dextrosa y a veces proteína de leche o de soja: revisa la etiqueta.", "Cooked ham usually contains sugar or dextrose and sometimes milk or soy protein: check the label.");
+I.bacon.may = [...new Set([...(I.bacon.may || []), "sugar"])];
+I.bacon.label = T("La mayoría del tocino se cura con azúcar.", "Most bacon is cured with sugar.");
 // Refried beans: canned or restaurant ones are often made with lard, sometimes with cheese.
 put("refriedbeans", [], ["pork", "milk"], T("Los frijoles refritos de lata o de fonda suelen llevar manteca de cerdo; algunos llevan queso. Hazlos con aceite o revisa la etiqueta.", "Canned or restaurant refried beans are often made with lard; some contain cheese. Make them with oil or check the label."), {pork: [
   sub(1, [], [], ["frijoles refritos caseros con aceite", "Machaca frijoles cocidos y fríelos en aceite hasta que espesen."], ["homemade refried beans with oil", "Mash cooked beans and fry them in oil until thick."])]});
