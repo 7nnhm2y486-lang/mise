@@ -1,0 +1,177 @@
+{
+ "id": "sopa-de-flor-de-calabaza",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Sopa de flor de calabaza",
+  "blurb": "Sopa ligera de flor de calabaza, calabacita y elote. Sabor de la temporada de lluvias en el centro de México.",
+  "ing": [
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "calabacitas",
+    "note": "en cubos"
+   },
+   {
+    "n": "granos de elote"
+   },
+   {
+    "n": "flores de calabaza",
+    "note": "sin pistilos, picadas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "queso fresco",
+    "note": "en cubos"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla y el ajo en la mantequilla 4 minutos.",
+   "Añade la calabacita y el elote y cocina 5 minutos.",
+   "Añade el agua, el epazote y la sal y cuece 10 minutos.",
+   "Añade las flores y cuece 3 minutos más.",
+   "Sirve con el queso en cubos."
+  ],
+  "tips": [
+   "Las flores se cuecen en segundos: añádelas al final.",
+   "Quita los pistilos: amargan."
+  ],
+  "video": "sopa de flor de calabaza"
+ },
+ "en": {
+  "name": "Squash Blossom Soup",
+  "blurb": "A light soup of squash blossoms, courgette and corn. The taste of the rainy season in central Mexico.",
+  "ing": [
+   {
+    "n": "butter"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "courgettes",
+    "note": "cubed"
+   },
+   {
+    "n": "corn kernels"
+   },
+   {
+    "n": "squash blossoms",
+    "note": "stamens removed, chopped"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "queso fresco",
+    "note": "cubed"
+   }
+  ],
+  "steps": [
+   "Cook the onion and garlic in the butter for 4 minutes.",
+   "Add the courgette and corn and cook 5 minutes.",
+   "Add the water, epazote and salt and simmer 10 minutes.",
+   "Add the blossoms and cook 3 minutes more.",
+   "Serve with the cubed cheese."
+  ],
+  "tips": [
+   "The blossoms cook in seconds: add them last.",
+   "Remove the stamens: they're bitter."
+  ],
+  "video": "mexican squash blossom soup"
+ },
+ "added": "2026-09-30"
+}

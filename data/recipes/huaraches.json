@@ -1,0 +1,187 @@
+{
+ "id": "huaraches",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomatillo",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "sauce"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "crema",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Huaraches",
+  "blurb": "Tortillas alargadas de masa rellenas de frijol, con bistec, salsa verde y queso. Nacieron en los mercados de la Ciudad de México.",
+  "ing": [
+   {
+    "n": "masa de maíz"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "frijoles negros cocidos",
+    "note": "machacados"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "bistec de res",
+    "note": "en tiras"
+   },
+   {
+    "n": "tomates verdes"
+   },
+   {
+    "n": "chile serrano"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmoronado"
+   },
+   {
+    "n": "crema"
+   }
+  ],
+  "steps": [
+   "Amasa la masa con la sal. Divide en 4 bolas y forma cilindros de 15 cm.",
+   "Abre cada cilindro, pon una línea de frijol, cierra y aplana en forma de suela de 5 mm.",
+   "Cuécelos en un comal caliente 3 minutos por lado.",
+   "Hierve los tomates verdes, el chile y el ajo 8 minutos y licúalos con sal.",
+   "Saltea la carne en el aceite 4 minutos. Cubre cada huarache con salsa, carne, cebolla, queso y crema."
+  ],
+  "tips": [
+   "Aplana entre dos plásticos para que no se rompan.",
+   "Pasa los huaraches por el aceite caliente de la carne para que se doren."
+  ],
+  "video": "huaraches de bistec"
+ },
+ "en": {
+  "name": "Huaraches",
+  "blurb": "Long, sandal-shaped masa cakes filled with beans and topped with steak, green salsa and cheese. Born in Mexico City's markets.",
+  "ing": [
+   {
+    "n": "fresh corn masa"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cooked black beans",
+    "note": "mashed"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "beef steak",
+    "note": "in strips"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "serrano chilli"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "queso fresco",
+    "note": "crumbled"
+   },
+   {
+    "n": "Mexican crema"
+   }
+  ],
+  "steps": [
+   "Knead the masa with the salt. Divide into 4 balls and roll into 15 cm logs.",
+   "Open each log, lay in a line of beans, close and flatten into a 5 mm sole shape.",
+   "Cook on a hot griddle for 3 minutes per side.",
+   "Boil the tomatillos, chilli and garlic for 8 minutes and blend with salt.",
+   "Stir-fry the beef in the oil for 4 minutes. Top each huarache with salsa, beef, onion, cheese and crema."
+  ],
+  "tips": [
+   "Flatten between two sheets of plastic so they don't tear.",
+   "Crisp the huaraches in the hot oil from the steak."
+  ],
+  "video": "mexican huaraches"
+ },
+ "added": "2026-09-30"
+}

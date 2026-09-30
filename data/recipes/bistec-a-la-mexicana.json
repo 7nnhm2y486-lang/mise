@@ -1,0 +1,139 @@
+{
+ "id": "bistec-a-la-mexicana",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Bistec a la mexicana",
+  "blurb": "Bistec en tiras guisado con jitomate, cebolla y chile: los colores de la bandera. Guisado de fonda.",
+  "ing": [
+   {
+    "n": "bistec de res",
+    "note": "en tiras"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "chiles serranos",
+    "note": "picados"
+   },
+   {
+    "n": "jitomates",
+    "note": "picados"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Sala la carne y dórala en el aceite a fuego fuerte 4 minutos.",
+   "Añade la cebolla y el chile y cocina 3 minutos.",
+   "Añade el jitomate y cocina 8 minutos, hasta que suelte su jugo.",
+   "Termina con el cilantro."
+  ],
+  "tips": [
+   "Sírvelo con arroz blanco.",
+   "Si el jitomate está seco, añade un chorrito de agua."
+  ],
+  "video": "bistec a la mexicana"
+ },
+ "en": {
+  "name": "Bistec a la Mexicana",
+  "blurb": "Beef strips stewed with tomato, onion and chilli: the colours of the flag. A Mexican diner stew.",
+  "ing": [
+   {
+    "n": "beef steak",
+    "note": "in strips"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "serrano chillies",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Salt the beef and brown it in the oil over high heat for 4 minutes.",
+   "Add the onion and chilli and cook 3 minutes.",
+   "Add the tomato and cook 8 minutes, until juicy.",
+   "Finish with the coriander."
+  ],
+  "tips": [
+   "Serve with white rice.",
+   "If the tomato is dry, add a splash of water."
+  ],
+  "video": "mexican steak with tomato"
+ },
+ "added": "2026-09-30"
+}

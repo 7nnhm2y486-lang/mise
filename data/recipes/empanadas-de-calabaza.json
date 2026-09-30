@@ -1,0 +1,169 @@
+{
+ "id": "empanadas-de-calabaza",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "pastry",
+ "time": 90,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "shortening",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Empanadas de calabaza",
+  "blurb": "Empanadas horneadas rellenas de calabaza con piloncillo y canela. Panadería de temporada de otoño en México.",
+  "ing": [
+   {
+    "n": "calabaza de Castilla",
+    "note": "en trozos"
+   },
+   {
+    "n": "piloncillo"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "manteca vegetal"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "agua fría (segunda parte)"
+   },
+   {
+    "n": "azúcar"
+   }
+  ],
+  "steps": [
+   "Cuece la calabaza con el piloncillo, la canela y el agua 30 minutos. Retira la canela, machaca y cuece hasta que espese. Deja enfriar.",
+   "Mezcla la harina, el polvo de hornear y la sal. Frota la manteca y añade el agua fría hasta formar una masa.",
+   "Estira a 3 mm y corta círculos de 12 cm.",
+   "Rellena, dobla y sella con un tenedor. Espolvorea con el azúcar.",
+   "Hornea a 190 °C 20 minutos, hasta que estén doradas."
+  ],
+  "tips": [
+   "El relleno debe estar frío y espeso para que no se salga.",
+   "Pincha cada empanada para que salga el vapor."
+  ],
+  "video": "empanadas de calabaza"
+ },
+ "en": {
+  "name": "Empanadas de Calabaza (Pumpkin Turnovers)",
+  "blurb": "Baked turnovers filled with pumpkin, cane sugar and cinnamon. Autumn bakery fare in Mexico.",
+  "ing": [
+   {
+    "n": "pumpkin",
+    "note": "in chunks"
+   },
+   {
+    "n": "piloncillo (unrefined cane sugar)"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "vegetable shortening"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cold water (second part)"
+   },
+   {
+    "n": "sugar"
+   }
+  ],
+  "steps": [
+   "Cook the pumpkin with the piloncillo, cinnamon and water for 30 minutes. Remove the cinnamon, mash and cook until thick. Cool.",
+   "Mix the flour, baking powder and salt. Rub in the shortening and add the cold water to form a dough.",
+   "Roll to 3 mm and cut 12 cm circles.",
+   "Fill, fold and seal with a fork. Sprinkle with the sugar.",
+   "Bake at 190 °C for 20 minutes, until golden."
+  ],
+  "tips": [
+   "The filling must be cold and thick so it doesn't leak.",
+   "Prick each turnover to let steam out."
+  ],
+  "video": "mexican pumpkin empanadas"
+ },
+ "added": "2026-09-30"
+}

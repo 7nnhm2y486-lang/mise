@@ -1,0 +1,185 @@
+{
+ "id": "caldo-de-pollo-mx",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Caldo de pollo",
+  "blurb": "El caldo de pollo mexicano con verduras en trozos grandes. Remedio de abuela para cualquier mal.",
+  "ing": [
+   {
+    "n": "pollo en piezas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en trozos"
+   },
+   {
+    "n": "calabacitas",
+    "note": "en trozos"
+   },
+   {
+    "n": "papas",
+    "note": "en trozos"
+   },
+   {
+    "n": "elote",
+    "note": "en rodajas"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "limones"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo en el agua con la cebolla, el ajo y la sal 40 minutos, espumando.",
+   "Añade la zanahoria, la papa y el elote y cuece 15 minutos.",
+   "Añade la calabacita y el cilantro y cuece 8 minutos más.",
+   "Sirve con limón."
+  ],
+  "tips": [
+   "Espuma bien al principio para un caldo limpio.",
+   "Sirve con un poco de arroz blanco dentro del plato, como en las fondas."
+  ],
+  "video": "caldo de pollo mexicano"
+ },
+ "en": {
+  "name": "Caldo de Pollo (Mexican Chicken Soup)",
+  "blurb": "Mexican chicken soup with big chunks of vegetables. Grandma's cure for anything.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "carrots",
+    "note": "in chunks"
+   },
+   {
+    "n": "courgettes",
+    "note": "in chunks"
+   },
+   {
+    "n": "potatoes",
+    "note": "in chunks"
+   },
+   {
+    "n": "corn cob",
+    "note": "in rounds"
+   },
+   {
+    "n": "coriander"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "limes"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken in the water with the onion, garlic and salt for 40 minutes, skimming.",
+   "Add the carrot, potato and corn and cook 15 minutes.",
+   "Add the courgette and coriander and cook 8 minutes more.",
+   "Serve with lime."
+  ],
+  "tips": [
+   "Skim well at the start for a clear broth.",
+   "Serve with a scoop of plain rice in the bowl, as diners do."
+  ],
+  "video": "mexican caldo de pollo"
+ },
+ "added": "2026-09-30"
+}

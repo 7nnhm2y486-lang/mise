@@ -1,0 +1,107 @@
+{
+ "id": "agua-de-chia",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 20,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "seeds",
+   "role": "structure"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "ice",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Agua de limón con chía",
+  "blurb": "Limonada con semillas de chía hidratadas. Refrescante y de las aguas frescas más vendidas en México.",
+  "ing": [
+   {
+    "n": "semillas de chía"
+   },
+   {
+    "n": "agua fría"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "hielo"
+   }
+  ],
+  "steps": [
+   "Hidrata la chía en 250 ml de agua 15 minutos, removiendo a veces.",
+   "Mezcla el resto del agua con el jugo de limón y el azúcar hasta que se disuelva.",
+   "Añade la chía y remueve.",
+   "Sirve con el hielo."
+  ],
+  "tips": [
+   "Remueve la chía al principio para que no forme grumos.",
+   "Remueve antes de servir: la chía se asienta."
+  ],
+  "video": "agua de limón con chía"
+ },
+ "en": {
+  "name": "Agua de Chía (Chia Limeade)",
+  "blurb": "Limeade with soaked chia seeds. Refreshing and one of Mexico's best-selling aguas frescas.",
+  "ing": [
+   {
+    "n": "chia seeds"
+   },
+   {
+    "n": "cold water"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Soak the chia in 250 ml of the water for 15 minutes, stirring now and then.",
+   "Mix the rest of the water with the lime juice and sugar until dissolved.",
+   "Add the chia and stir.",
+   "Serve over the ice."
+  ],
+  "tips": [
+   "Stir the chia early on so it doesn't clump.",
+   "Stir before serving: the chia settles."
+  ],
+  "video": "chia limeade agua fresca"
+ },
+ "added": "2026-09-30"
+}

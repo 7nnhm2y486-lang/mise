@@ -1,0 +1,197 @@
+{
+ "id": "chiles-en-escabeche",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 30,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "chilli",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "whitevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Chiles en escabeche",
+  "blurb": "Jalapeños y zanahorias en vinagre con hierbas. Están en la mesa de toda taquería mexicana.",
+  "ing": [
+   {
+    "n": "chiles jalapeños",
+    "note": "en rodajas"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en rodajas"
+   },
+   {
+    "n": "cebolla",
+    "note": "en gajos"
+   },
+   {
+    "n": "ajo",
+    "note": "pelados"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "tomillo seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "azúcar"
+   }
+  ],
+  "steps": [
+   "Sofríe el ajo, la cebolla y la zanahoria en el aceite 4 minutos.",
+   "Añade los chiles y cocina 3 minutos.",
+   "Añade el vinagre, el agua, las hierbas, la sal y el azúcar y hierve 5 minutos.",
+   "Pasa a frascos limpios y deja enfriar. Refrigera 24 horas antes de comer."
+  ],
+  "tips": [
+   "Se conservan 1 mes en la nevera.",
+   "No los cuezas de más: deben seguir firmes."
+  ],
+  "video": "chiles en escabeche caseros"
+ },
+ "en": {
+  "name": "Chiles en Escabeche (Pickled Jalapeños)",
+  "blurb": "Jalapeños and carrots pickled with herbs. On the table of every Mexican taquería.",
+  "ing": [
+   {
+    "n": "jalapeño chillies",
+    "note": "sliced"
+   },
+   {
+    "n": "carrots",
+    "note": "sliced"
+   },
+   {
+    "n": "onion",
+    "note": "in wedges"
+   },
+   {
+    "n": "garlic",
+    "note": "peeled"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "dried thyme"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "sugar"
+   }
+  ],
+  "steps": [
+   "Cook the garlic, onion and carrot in the oil for 4 minutes.",
+   "Add the chillies and cook 3 minutes.",
+   "Add the vinegar, water, herbs, salt and sugar and boil 5 minutes.",
+   "Pour into clean jars and cool. Chill 24 hours before eating."
+  ],
+  "tips": [
+   "They keep 1 month in the fridge.",
+   "Don't overcook: they should stay firm."
+  ],
+  "video": "mexican pickled jalapenos"
+ },
+ "added": "2026-09-30"
+}

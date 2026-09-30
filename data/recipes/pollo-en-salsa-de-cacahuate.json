@@ -1,0 +1,169 @@
+{
+ "id": "pollo-en-salsa-de-cacahuate",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "thigh",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "peanut",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "ancho",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pollo en salsa de cacahuate",
+  "blurb": "Pollo en una salsa espesa de cacahuate tostado, jitomate y guajillo. Comida de fiesta en Veracruz y Puebla.",
+  "ing": [
+   {
+    "n": "muslos de pollo"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cacahuates tostados sin sal"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "sin semillas"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo en el agua con 1 cucharadita de sal 25 minutos. Guarda el caldo.",
+   "Tuesta los chiles 30 segundos y remójalos en caldo caliente 10 minutos.",
+   "Licúa los cacahuates, los chiles, el jitomate, la cebolla, el ajo, la canela y 500 ml de caldo.",
+   "Fríe la salsa en el aceite 10 minutos, removiendo, y sala.",
+   "Añade el pollo y cuece 10 minutos a fuego bajo."
+  ],
+  "tips": [
+   "Si la salsa espesa demasiado, añade más caldo.",
+   "Remueve siempre: el cacahuate se pega fácil."
+  ],
+  "video": "pollo en salsa de cacahuate"
+ },
+ "en": {
+  "name": "Chicken in Peanut Sauce (Mexican)",
+  "blurb": "Chicken in a thick sauce of roasted peanuts, tomato and guajillo. A festive dish in Veracruz and Puebla.",
+  "ing": [
+   {
+    "n": "chicken thighs"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "unsalted roasted peanuts"
+   },
+   {
+    "n": "guajillo chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken in the water with 1 teaspoon of salt for 25 minutes. Keep the broth.",
+   "Toast the chillies for 30 seconds and soak in hot broth for 10 minutes.",
+   "Blend the peanuts, chillies, tomato, onion, garlic, cinnamon and 500 ml of broth.",
+   "Fry the sauce in the oil for 10 minutes, stirring, and salt.",
+   "Add the chicken and simmer 10 minutes on low."
+  ],
+  "tips": [
+   "If the sauce gets too thick, add more broth.",
+   "Keep stirring: peanut catches easily."
+  ],
+  "video": "mexican chicken peanut sauce"
+ },
+ "added": "2026-09-30"
+}

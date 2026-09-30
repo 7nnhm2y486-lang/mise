@@ -1,0 +1,171 @@
+{
+ "id": "costillas-en-salsa-verde",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 90,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tomatillo",
+   "role": "sauce"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "sauce"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Costillas de cerdo en salsa verde",
+  "blurb": "Costillas tiernas guisadas en salsa de tomate verde con calabacitas. Guisado de comida corrida mexicana.",
+  "ing": [
+   {
+    "n": "costillas de cerdo",
+    "note": "en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "tomates verdes"
+   },
+   {
+    "n": "chiles serranos"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "calabacitas",
+    "note": "en cubos"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Cuece las costillas en el agua con la sal 45 minutos. Guarda 300 ml del caldo.",
+   "Hierve los tomates verdes y los chiles 8 minutos. Lícualos con la cebolla, el ajo, el cilantro y el caldo.",
+   "Dora las costillas escurridas en el aceite 5 minutos.",
+   "Añade la salsa y cuece 10 minutos.",
+   "Añade la calabacita y cuece 10 minutos más."
+  ],
+  "tips": [
+   "Dorar las costillas antes de la salsa les da más sabor.",
+   "Prueba de sal al final."
+  ],
+  "video": "costillas en salsa verde"
+ },
+ "en": {
+  "name": "Pork Ribs in Salsa Verde",
+  "blurb": "Tender pork ribs stewed in tomatillo sauce with courgettes. A Mexican set-lunch stew.",
+  "ing": [
+   {
+    "n": "pork ribs",
+    "note": "in pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "serrano chillies"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "coriander"
+   },
+   {
+    "n": "courgettes",
+    "note": "cubed"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Simmer the ribs in the water with the salt for 45 minutes. Keep 300 ml of the broth.",
+   "Boil the tomatillos and chillies for 8 minutes. Blend with the onion, garlic, coriander and broth.",
+   "Brown the drained ribs in the oil for 5 minutes.",
+   "Add the sauce and simmer 10 minutes.",
+   "Add the courgette and cook 10 minutes more."
+  ],
+  "tips": [
+   "Browning the ribs before the sauce adds flavour.",
+   "Taste for salt at the end."
+  ],
+  "video": "mexican pork ribs green sauce"
+ },
+ "added": "2026-09-30"
+}

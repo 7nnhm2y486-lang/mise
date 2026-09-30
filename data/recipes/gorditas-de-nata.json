@@ -1,0 +1,129 @@
+{
+ "id": "gorditas-de-nata",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 40,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "cream",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Gorditas de nata",
+  "blurb": "Panecitos dulces y suaves hechos con nata, cocidos en comal. Se venden en las ferias y en la Villa de Guadalupe.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "nata o crema espesa"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "esencia de vainilla"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el polvo de hornear, el azúcar y la canela.",
+   "Añade la nata, el huevo y la vainilla y mezcla hasta tener una masa suave.",
+   "Forma 12 bolas y aplánalas a 1 cm.",
+   "Cuécelas en un comal a fuego bajo 4 minutos por lado, hasta que estén doradas."
+  ],
+  "tips": [
+   "El fuego bajo es clave para que se cuezan por dentro.",
+   "Guárdalas envueltas en un paño para que sigan suaves."
+  ],
+  "video": "gorditas de nata"
+ },
+ "en": {
+  "name": "Gorditas de Nata (Sweet Cream Griddle Cakes)",
+  "blurb": "Soft, sweet little cakes made with cream and cooked on a griddle. Sold at fairs and outside the Basilica of Guadalupe.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "thick cream"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Mix the flour, baking powder, sugar and cinnamon.",
+   "Add the cream, egg and vanilla and mix into a soft dough.",
+   "Shape 12 balls and flatten to 1 cm.",
+   "Cook on a griddle over low heat for 4 minutes per side, until golden."
+  ],
+  "tips": [
+   "Low heat is key so they cook through.",
+   "Keep them wrapped in a tea towel so they stay soft."
+  ],
+  "video": "mexican gorditas de nata"
+ },
+ "added": "2026-09-30"
+}
