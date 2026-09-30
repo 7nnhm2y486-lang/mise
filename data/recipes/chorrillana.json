@@ -1,0 +1,149 @@
+{
+ "id": "chorrillana",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Chorrillana",
+  "blurb": "Una montaña de papas fritas con carne salteada, cebolla y huevos fritos encima. Para compartir en Valparaíso.",
+  "ing": [
+   {
+    "n": "papas",
+    "note": "en bastones"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "carne de res",
+    "note": "en tiras"
+   },
+   {
+    "n": "cebollas",
+    "note": "en pluma"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "comino molido"
+   }
+  ],
+  "steps": [
+   "Fríe las papas a 160 °C durante 8 minutos. Sube a 190 °C y fríe 3 minutos más, hasta que estén doradas. Sala.",
+   "Saltea la cebolla en 1 cucharada de aceite 10 minutos, hasta que esté blanda y dorada.",
+   "Saltea la carne con el comino y 1 cucharadita de sal en el resto del aceite a fuego fuerte 3 minutos. Mezcla con la cebolla.",
+   "Fríe los huevos.",
+   "Pon las papas en una fuente grande, la carne y la cebolla encima y los huevos al final."
+  ],
+  "tips": [
+   "Sirve de inmediato: las papas pierden lo crujiente bajo la carne.",
+   "Corta la carne en tiras finas para que se saltee en poco tiempo."
+  ],
+  "video": "chorrillana chilena receta"
+ },
+ "en": {
+  "name": "Chorrillana (Chilean Loaded Fries)",
+  "blurb": "A mountain of chips with stir-fried beef, onion and fried eggs on top. For sharing in Valparaíso.",
+  "ing": [
+   {
+    "n": "potatoes",
+    "note": "in batons"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "beef steak",
+    "note": "in strips"
+   },
+   {
+    "n": "onions",
+    "note": "sliced"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ground cumin"
+   }
+  ],
+  "steps": [
+   "Fry the potatoes at 160 °C for 8 minutes. Raise to 190 °C and fry 3 minutes more, until golden. Salt.",
+   "Cook the onion in 1 tablespoon of oil for 10 minutes, until soft and golden.",
+   "Stir-fry the beef with the cumin and 1 teaspoon of salt in the rest of the oil over high heat for 3 minutes. Mix with the onion.",
+   "Fry the eggs.",
+   "Pile the chips on a large platter, the beef and onion on top and the eggs last."
+  ],
+  "tips": [
+   "Serve at once: the chips lose their crunch under the meat.",
+   "Cut the beef in thin strips so it stir-fries quickly."
+  ],
+  "video": "chorrillana recipe"
+ },
+ "added": "2026-09-30"
+}

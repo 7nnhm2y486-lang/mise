@@ -1,0 +1,189 @@
+{
+ "id": "fricase-paceno",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "breadcrumbs",
+   "role": "thicken"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "hominy",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Fricasé paceño",
+  "blurb": "Sopa picante de cerdo con ají amarillo, comino y mote. El levantamuertos de La Paz.",
+  "ing": [
+   {
+    "n": "costilla o pierna de cerdo",
+    "note": "en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "ají amarillo molido"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "molido"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pan molido"
+   },
+   {
+    "n": "papas",
+    "note": "cocidas"
+   },
+   {
+    "n": "mote de maíz blanco",
+    "note": "cocido"
+   }
+  ],
+  "steps": [
+   "Cuece el cerdo en el agua con la sal 60 minutos, quitando la espuma.",
+   "Sofríe la cebolla, el ajo, el ají, el comino y el orégano en un poco de la grasa del cerdo 10 minutos.",
+   "Añade el sofrito a la olla y cuece 40 minutos más.",
+   "Añade el pan molido para espesar y cuece 10 minutos.",
+   "Sirve con una papa y mote en cada plato."
+  ],
+  "tips": [
+   "Añade el pan molido poco a poco hasta la espesura que te guste.",
+   "Es mejor recalentado."
+  ],
+  "video": "fricasé paceño receta"
+ },
+ "en": {
+  "name": "Fricasé Paceño (La Paz Pork and Chilli Soup)",
+  "blurb": "A spicy pork soup with ají amarillo, cumin and hominy. La Paz's hangover cure.",
+  "ing": [
+   {
+    "n": "pork ribs or leg",
+    "note": "in pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "ground ají amarillo"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "breadcrumbs"
+   },
+   {
+    "n": "potatoes",
+    "note": "boiled"
+   },
+   {
+    "n": "white hominy (mote)",
+    "note": "cooked"
+   }
+  ],
+  "steps": [
+   "Simmer the pork in the water with the salt for 60 minutes, skimming.",
+   "Cook the onion, garlic, ají, cumin and oregano in a little of the pork fat for 10 minutes.",
+   "Add to the pot and cook 40 minutes more.",
+   "Add the breadcrumbs to thicken and cook 10 minutes.",
+   "Serve with a potato and hominy in each bowl."
+  ],
+  "tips": [
+   "Add the breadcrumbs a little at a time until it's as thick as you like.",
+   "It's better reheated."
+  ],
+  "video": "fricase paceno recipe"
+ },
+ "added": "2026-09-30"
+}

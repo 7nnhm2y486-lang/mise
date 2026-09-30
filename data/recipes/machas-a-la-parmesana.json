@@ -1,0 +1,124 @@
+{
+ "id": "machas-a-la-parmesana",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 20,
+ "serves": 4,
+ "ovenC": 220,
+ "ing": [
+  {
+   "q": 24,
+   "u": "",
+   "k": "clam",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "parmesan",
+   "role": "glaze"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "pepper",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Machas a la parmesana",
+  "blurb": "Machas en su concha con vino blanco, mantequilla y parmesano, gratinadas. Aperitivo chileno de costa.",
+  "ing": [
+   {
+    "n": "machas o almejas grandes en su concha"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "mantequilla",
+    "note": "en trocitos"
+   },
+   {
+    "n": "queso parmesano rallado"
+   },
+   {
+    "n": "limón",
+    "note": "en jugo"
+   },
+   {
+    "n": "pimienta blanca"
+   }
+  ],
+  "steps": [
+   "Pon las machas en su media concha sobre una bandeja.",
+   "Echa unas gotas de limón y un chorrito de vino en cada una.",
+   "Añade un trocito de mantequilla y una pizca de pimienta.",
+   "Cubre con el parmesano.",
+   "Gratina a 220 °C durante 5 minutos, hasta que el queso esté dorado."
+  ],
+  "tips": [
+   "No las dejes más de 5 minutos o se endurecen.",
+   "Asienta las conchas sobre sal gruesa para que no se vuelquen."
+  ],
+  "video": "machas a la parmesana receta"
+ },
+ "en": {
+  "name": "Machas a la Parmesana (Clams with Parmesan)",
+  "blurb": "Clams on the half shell with white wine, butter and parmesan, grilled. A Chilean coastal starter.",
+  "ing": [
+   {
+    "n": "razor clams or large clams on the half shell"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "butter",
+    "note": "in small pieces"
+   },
+   {
+    "n": "grated parmesan"
+   },
+   {
+    "n": "lemon",
+    "note": "juiced"
+   },
+   {
+    "n": "white pepper"
+   }
+  ],
+  "steps": [
+   "Arrange the clams on their half shells on a tray.",
+   "Add a few drops of lemon and a splash of wine to each.",
+   "Add a small piece of butter and a pinch of pepper.",
+   "Cover with the parmesan.",
+   "Bake at 220 °C for 5 minutes, until the cheese is golden."
+  ],
+  "tips": [
+   "Don't leave them more than 5 minutes or they toughen.",
+   "Sit the shells on coarse salt so they don't tip over."
+  ],
+  "video": "machas a la parmesana recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,120 @@
+{
+ "id": "pan-amasado",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 150,
+ "serves": 12,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 15,
+   "u": "g",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Pan amasado",
+  "blurb": "Pan chileno redondo y denso, hecho con manteca y pinchado con tenedor. El pan del campo y de la once.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "manteca de cerdo derretida"
+   },
+   {
+    "n": "agua tibia"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la levadura, el azúcar y la sal. Añade la manteca y el agua y amasa 15 minutos, hasta que esté lisa.",
+   "Tapa y deja reposar 30 minutos.",
+   "Divide en 12 bollos, aplánalos a 2 cm y pínchalos con un tenedor.",
+   "Deja crecer 40 minutos en la bandeja.",
+   "Hornea a 200 °C durante 20 minutos, hasta que estén dorados."
+  ],
+  "tips": [
+   "El amasado largo es lo que le da su miga apretada.",
+   "Pínchalos bien: evita que se inflen como globos."
+  ],
+  "video": "pan amasado chileno receta"
+ },
+ "en": {
+  "name": "Pan Amasado (Chilean Lard Bread)",
+  "blurb": "A round, dense Chilean bread made with lard and pricked with a fork. Country bread for teatime.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "dried yeast"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "melted lard"
+   },
+   {
+    "n": "warm water"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar and salt. Add the lard and water and knead 15 minutes, until smooth.",
+   "Cover and rest 30 minutes.",
+   "Divide into 12 rolls, flatten to 2 cm and prick with a fork.",
+   "Rise 40 minutes on the tray.",
+   "Bake at 200 °C for 20 minutes, until golden."
+  ],
+  "tips": [
+   "The long kneading gives its tight crumb.",
+   "Prick them well: it stops them puffing like balloons."
+  ],
+  "video": "pan amasado recipe"
+ },
+ "added": "2026-09-30"
+}

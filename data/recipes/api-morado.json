@@ -1,0 +1,119 @@
+{
+ "id": "api-morado",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "fruit",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Api morado",
+  "blurb": "Bebida caliente y espesa de maíz morado con canela y clavo. Se toma con pasteles de queso en las mañanas frías.",
+  "ing": [
+   {
+    "n": "harina de maíz morado"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "cáscara de piña"
+   },
+   {
+    "n": "azúcar"
+   }
+  ],
+  "steps": [
+   "Hierve 1 l del agua con la canela, los clavos y la cáscara de piña 15 minutos. Cuela.",
+   "Disuelve la harina de maíz en el resto del agua fría.",
+   "Añade la mezcla al agua caliente, batiendo.",
+   "Cuece a fuego bajo 15 minutos, sin dejar de remover, hasta que espese.",
+   "Añade el azúcar y sirve caliente."
+  ],
+  "tips": [
+   "Remueve siempre o se forman grumos.",
+   "Si espesa demasiado, añade agua caliente."
+  ],
+  "video": "api morado boliviano receta"
+ },
+ "en": {
+  "name": "Api Morado (Hot Purple Corn Drink)",
+  "blurb": "A thick hot drink of purple corn with cinnamon and clove. Drunk with cheese pastries on cold mornings.",
+  "ing": [
+   {
+    "n": "purple corn flour"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "whole cloves"
+   },
+   {
+    "n": "pineapple peel"
+   },
+   {
+    "n": "sugar"
+   }
+  ],
+  "steps": [
+   "Boil 1 l of the water with the cinnamon, cloves and pineapple peel for 15 minutes. Strain.",
+   "Dissolve the corn flour in the rest of the cold water.",
+   "Add it to the hot water, whisking.",
+   "Cook on low for 15 minutes, stirring constantly, until thick.",
+   "Add the sugar and serve hot."
+  ],
+  "tips": [
+   "Keep stirring or lumps form.",
+   "If it gets too thick, add hot water."
+  ],
+  "video": "api morado recipe"
+ },
+ "added": "2026-09-30"
+}

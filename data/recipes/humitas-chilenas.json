@@ -1,0 +1,135 @@
+{
+ "id": "humitas-chilenas",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "main",
+ "time": 90,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 8,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "milk",
+   "role": "moisture"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Humitas chilenas",
+  "blurb": "Pasta de choclo fresco con cebolla y albahaca, envuelta en sus hojas y hervida. Plato de verano.",
+  "ing": [
+   {
+    "n": "choclos (mazorcas frescas) con sus hojas"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "albahaca",
+    "note": "picada"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "ají de color"
+   }
+  ],
+  "steps": [
+   "Corta la base de los choclos y saca las hojas con cuidado. Guarda las más grandes.",
+   "Ralla o muele los granos de choclo.",
+   "Sofríe la cebolla en la mantequilla con el ají de color 5 minutos. Mezcla con el choclo, la albahaca, la leche y la sal.",
+   "Pon 2 hojas cruzadas, añade 3 cucharadas de pasta, dobla en paquete y ata con tiras de hoja.",
+   "Cuece en agua hirviendo con sal 40 minutos."
+  ],
+  "tips": [
+   "Si la pasta queda muy líquida, añade menos leche; depende de lo tierno del choclo.",
+   "Se comen calientes, recién sacadas del agua."
+  ],
+  "video": "humitas chilenas receta"
+ },
+ "en": {
+  "name": "Chilean Humitas (Fresh Corn Parcels)",
+  "blurb": "A paste of fresh corn with onion and basil, wrapped in its husks and boiled. A summer dish.",
+  "ing": [
+   {
+    "n": "fresh corn cobs with their husks"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "basil",
+    "note": "chopped"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "sweet paprika (ají de color)"
+   }
+  ],
+  "steps": [
+   "Cut the base off the cobs and carefully remove the husks. Keep the largest.",
+   "Grate or grind the corn kernels.",
+   "Cook the onion in the butter with the paprika for 5 minutes. Mix with the corn, basil, milk and salt.",
+   "Cross 2 husks, add 3 tablespoons of paste, fold into a parcel and tie with strips of husk.",
+   "Boil in salted water for 40 minutes."
+  ],
+  "tips": [
+   "If the paste is very runny, add less milk; it depends on how young the corn is.",
+   "Eat them hot, straight from the water."
+  ],
+  "video": "chilean humitas recipe"
+ },
+ "added": "2026-09-30"
+}

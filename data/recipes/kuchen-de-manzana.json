@@ -1,0 +1,172 @@
+{
+ "id": "kuchen-de-manzana",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 75,
+ "serves": 10,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "cream",
+   "role": "enrich"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Kuchen de manzana",
+  "blurb": "Tarta de masa quebrada con manzanas y crema, herencia alemana del sur de Chile.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "mantequilla fría",
+    "note": "en dados"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "manzanas",
+    "note": "en láminas finas"
+   },
+   {
+    "n": "crema de leche"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "azúcar para el relleno"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el polvo de hornear y 80 g de azúcar. Frota la mantequilla hasta tener migas. Añade 1 huevo y junta la masa. Refrigera 20 minutos.",
+   "Forra un molde de 26 cm con la masa, presionando con los dedos.",
+   "Coloca las manzanas en círculos superpuestos.",
+   "Bate la crema con 2 huevos, el azúcar del relleno y la canela y viértelo sobre las manzanas.",
+   "Hornea a 180 °C durante 45 minutos, hasta que la crema cuaje y esté dorada."
+  ],
+  "tips": [
+   "Usa manzanas ácidas que aguanten el horno sin deshacerse.",
+   "Se sirve a la hora de once con té."
+  ],
+  "video": "kuchen de manzana chileno"
+ },
+ "en": {
+  "name": "Chilean Apple Kuchen",
+  "blurb": "A shortcrust tart with apples and cream, a German legacy from southern Chile.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cold butter",
+    "note": "diced"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "apples",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "cream"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "sugar for the filling"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Mix the flour, baking powder and 80 g of sugar. Rub in the butter to crumbs. Add 1 egg and bring together. Chill 20 minutes.",
+   "Line a 26 cm tin with the dough, pressing with your fingers.",
+   "Arrange the apples in overlapping circles.",
+   "Whisk the cream with 2 eggs, the filling sugar and the cinnamon and pour over the apples.",
+   "Bake at 180 °C for 45 minutes, until the custard is set and golden."
+  ],
+  "tips": [
+   "Use tart apples that hold their shape in the oven.",
+   "Served at teatime (once) with tea."
+  ],
+  "video": "chilean apple kuchen recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,177 @@
+{
+ "id": "majadito",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "driedmeat",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 800,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "plantain",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Majadito de charque",
+  "blurb": "Arroz amarillo de urucú con charque desmenuzado, huevo frito y plátano. De Santa Cruz, Bolivia.",
+  "ing": [
+   {
+    "n": "charque de res",
+    "note": "desalado y desmenuzado"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "urucú (achiote)"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "plátanos maduros",
+    "note": "en rodajas, fritos"
+   }
+  ],
+  "steps": [
+   "Fríe el charque en el aceite 5 minutos, hasta que esté dorado.",
+   "Añade la cebolla, el tomate, el pimiento y el urucú y cuece 5 minutos.",
+   "Añade el arroz y el agua, tapa y cuece 20 minutos a fuego bajo. Debe quedar húmedo.",
+   "Fríe los huevos.",
+   "Sirve el majadito con un huevo encima y el plátano frito al lado."
+  ],
+  "tips": [
+   "Prueba el charque antes de salar; normalmente no hace falta sal.",
+   "El majadito queda más húmedo que un arroz normal; remuévelo al final."
+  ],
+  "video": "majadito de charque receta"
+ },
+ "en": {
+  "name": "Majadito (Bolivian Charque Rice)",
+  "blurb": "Annatto-yellow rice with shredded dried beef, fried egg and plantain. From Santa Cruz, Bolivia.",
+  "ing": [
+   {
+    "n": "beef charque (dried beef)",
+    "note": "desalted and shredded"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "annatto (urucú)"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "ripe plantains",
+    "note": "sliced, fried"
+   }
+  ],
+  "steps": [
+   "Fry the charque in the oil for 5 minutes, until golden.",
+   "Add the onion, tomato, pepper and annatto and cook 5 minutes.",
+   "Add the rice and water, cover and cook 20 minutes on low. It should stay moist.",
+   "Fry the eggs.",
+   "Serve the majadito with an egg on top and the fried plantain alongside."
+  ],
+  "tips": [
+   "Taste the charque before salting; usually none is needed.",
+   "Majadito is moister than ordinary rice; stir it at the end."
+  ],
+  "video": "majadito recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,219 @@
+{
+ "id": "paila-marina",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "fishstock",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "mussel",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "clam",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Paila marina",
+  "blurb": "Sopa de mariscos y pescado servida en paila de greda, hirviendo. El plato de los mercados de Chile.",
+  "ing": [
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pimiento rojo",
+    "note": "picado"
+   },
+   {
+    "n": "ají de color (pimentón)"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "caldo de pescado"
+   },
+   {
+    "n": "congrio o pescado blanco",
+    "note": "en trozos"
+   },
+   {
+    "n": "choritos (mejillones)",
+    "note": "limpios"
+   },
+   {
+    "n": "almejas",
+    "note": "purgadas"
+   },
+   {
+    "n": "camarones",
+    "note": "pelados"
+   },
+   {
+    "n": "cilantro o perejil",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo y el pimiento en el aceite 8 minutos. Añade el ají de color.",
+   "Añade el vino y cuece 2 minutos. Añade el caldo y la sal y hierve.",
+   "Añade el pescado y cuece 4 minutos.",
+   "Añade los choritos, las almejas y los camarones, tapa y cuece 4 minutos, hasta que se abran.",
+   "Sirve de inmediato con la hierba picada. Tira los mariscos que no se abran."
+  ],
+  "tips": [
+   "Cada marisco entra en su momento: el pescado primero, lo delicado al final.",
+   "Si tienes paila de barro, caliéntala en el horno y sirve en ella hirviendo."
+  ],
+  "video": "paila marina chilena receta"
+ },
+ "en": {
+  "name": "Paila Marina (Chilean Seafood Soup)",
+  "blurb": "A seafood and fish soup served boiling in a clay dish. The dish of Chile's markets.",
+  "ing": [
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet paprika (ají de color)"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "fish stock"
+   },
+   {
+    "n": "conger eel or white fish",
+    "note": "in chunks"
+   },
+   {
+    "n": "mussels",
+    "note": "cleaned"
+   },
+   {
+    "n": "clams",
+    "note": "purged"
+   },
+   {
+    "n": "shrimp",
+    "note": "peeled"
+   },
+   {
+    "n": "cilantro or parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic and pepper in the oil for 8 minutes. Add the paprika.",
+   "Add the wine and cook 2 minutes. Add the stock and salt and bring to a boil.",
+   "Add the fish and cook 4 minutes.",
+   "Add the mussels, clams and shrimp, cover and cook 4 minutes, until open.",
+   "Serve at once with the chopped herb. Discard any shellfish that stay closed."
+  ],
+  "tips": [
+   "Each seafood goes in at its moment: fish first, the delicate ones last.",
+   "If you have a clay dish, heat it in the oven and serve in it boiling."
+  ],
+  "video": "paila marina recipe"
+ },
+ "added": "2026-09-30"
+}

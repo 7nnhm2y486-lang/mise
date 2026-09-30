@@ -1,0 +1,113 @@
+{
+ "id": "ensalada-chilena",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "side",
+ "time": 15,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Ensalada chilena",
+  "blurb": "Tomate pelado con cebolla en pluma desflemada y cilantro. Acompaña el asado y las empanadas.",
+  "ing": [
+   {
+    "n": "tomates",
+    "note": "pelados, en gajos finos"
+   },
+   {
+    "n": "cebolla",
+    "note": "en pluma muy fina"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja la cebolla en agua fría con sal 15 minutos para quitarle el picor. Escurre.",
+   "Pela los tomates y córtalos en gajos finos.",
+   "Mezcla el tomate con la cebolla.",
+   "Aliña con el aceite y la sal.",
+   "Termina con el cilantro."
+  ],
+  "tips": [
+   "Desflemar la cebolla es lo que la hace suave y crujiente.",
+   "Para pelar los tomates, sumérgelos 20 segundos en agua hirviendo."
+  ],
+  "video": "ensalada chilena receta"
+ },
+ "en": {
+  "name": "Ensalada Chilena (Tomato and Onion Salad)",
+  "blurb": "Peeled tomato with soaked sliced onion and cilantro. Served with barbecue and empanadas.",
+  "ing": [
+   {
+    "n": "tomatoes",
+    "note": "peeled, in thin wedges"
+   },
+   {
+    "n": "onion",
+    "note": "very thinly sliced"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the onion in cold salted water for 15 minutes to tame it. Drain.",
+   "Peel the tomatoes and cut into thin wedges.",
+   "Mix the tomato with the onion.",
+   "Dress with the oil and salt.",
+   "Finish with the cilantro."
+  ],
+  "tips": [
+   "Soaking the onion makes it mild and crunchy.",
+   "To peel the tomatoes, dip them in boiling water for 20 seconds."
+  ],
+  "video": "chilean salad recipe"
+ },
+ "added": "2026-09-30"
+}
