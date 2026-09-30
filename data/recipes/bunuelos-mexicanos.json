@@ -1,0 +1,179 @@
+{
+ "id": "bunuelos-mexicanos",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 90,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Buñuelos de rodilla",
+  "blurb": "Discos de masa estirados finísimos, fritos hasta crujir y bañados en almíbar de piloncillo. Postre de posada navideña.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "mantequilla derretida"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "piloncillo"
+   },
+   {
+    "n": "agua (segunda parte)"
+   },
+   {
+    "n": "ramas de canela"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el polvo de hornear, el azúcar y la sal. Añade el huevo, la mantequilla y el agua y amasa 5 minutos. Tapa y deja 30 minutos.",
+   "Cuece el piloncillo con el agua y la canela 15 minutos, hasta tener un almíbar ligero.",
+   "Divide la masa en 12 bolitas. Estira cada una lo más fino posible, hasta que casi se transparente.",
+   "Fríe cada disco a 180 °C durante 1 minuto por lado, hasta que esté dorado y crujiente. Escurre sobre papel.",
+   "Sirve con la almíbar de piloncillo por encima."
+  ],
+  "tips": [
+   "Tradicionalmente se estiran sobre la rodilla cubierta con un paño; así salen finísimos.",
+   "Guárdalos sin almíbar en una lata; se bañan justo al servir."
+  ],
+  "video": "buñuelos mexicanos receta"
+ },
+ "en": {
+  "name": "Mexican Buñuelos",
+  "blurb": "Dough rounds stretched paper-thin, fried until crisp and drenched in piloncillo syrup. A Christmas posada dessert.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "melted butter"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "piloncillo (unrefined cane sugar)"
+   },
+   {
+    "n": "water (second amount)"
+   },
+   {
+    "n": "cinnamon sticks"
+   }
+  ],
+  "steps": [
+   "Mix the flour, baking powder, sugar and salt. Add the egg, butter and water and knead 5 minutes. Cover and leave 30 minutes.",
+   "Simmer the piloncillo with the water and cinnamon for 15 minutes, to a light syrup.",
+   "Divide the dough into 12 balls. Stretch each as thin as possible, until almost see-through.",
+   "Fry each round at 180 °C for 1 minute a side, until golden and crisp. Drain on paper.",
+   "Serve with the piloncillo syrup poured over."
+  ],
+  "tips": [
+   "Traditionally they are stretched over a cloth-covered knee; that's how they get so thin.",
+   "Store them unsyruped in a tin; pour the syrup on just before serving."
+  ],
+  "video": "mexican bunuelos recipe"
+ },
+ "added": "2026-09-30"
+}

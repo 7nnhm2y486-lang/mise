@@ -1,0 +1,189 @@
+{
+ "id": "tamal-en-cazuela",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "main",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Tamal en cazuela",
+  "blurb": "Todo el sabor del tamal cubano sin envolver: harina de maíz cocida con cerdo en sofrito, suave como una polenta.",
+  "ing": [
+   {
+    "n": "carne de cerdo",
+    "note": "en dados de 2 cm"
+   },
+   {
+    "n": "naranjas agrias (o 1 naranja y 1 limón)",
+    "note": "en jugo"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ají pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "puré de tomate"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "harina de maíz amarilla fina"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Adoba el cerdo con el jugo de naranja, el ajo y 1 cucharadita de sal 30 minutos.",
+   "Dora el cerdo escurrido en el aceite 8 minutos. Añade la cebolla y el ají y cuece 5 minutos. Añade el puré de tomate, el comino y la marinada y cuece 5 minutos.",
+   "Mezcla la harina de maíz con 500 ml del agua fría hasta que no haya grumos.",
+   "Añade el resto del agua y la sal a la olla y hierve. Añade la harina de maíz disuelta, batiendo.",
+   "Cuece a fuego bajo 35 minutos, removiendo a menudo, hasta que esté espeso y la harina no sepa cruda."
+  ],
+  "tips": [
+   "Disolver la harina en agua fría primero evita los grumos.",
+   "Espesa al reposar; si queda muy firme, añade agua caliente al recalentar."
+  ],
+  "video": "tamal en cazuela cubano receta"
+ },
+ "en": {
+  "name": "Tamal en Cazuela (Cuban Cornmeal and Pork Stew)",
+  "blurb": "All the flavour of a Cuban tamal without the wrapping: cornmeal cooked with pork in sofrito, soft like polenta.",
+  "ing": [
+   {
+    "n": "pork",
+    "note": "in 2 cm dice"
+   },
+   {
+    "n": "sour oranges (or 1 orange and 1 lime)",
+    "note": "juiced"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato purée"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "fine yellow cornmeal"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Season the pork with the orange juice, garlic and 1 teaspoon of salt for 30 minutes.",
+   "Brown the drained pork in the oil for 8 minutes. Add the onion and pepper and cook 5 minutes. Add the tomato purée, cumin and marinade and cook 5 minutes.",
+   "Mix the cornmeal with 500 ml of the cold water until smooth.",
+   "Add the rest of the water and the salt to the pot and bring to a boil. Add the dissolved cornmeal, whisking.",
+   "Cook on low for 35 minutes, stirring often, until thick and the cornmeal no longer tastes raw."
+  ],
+  "tips": [
+   "Dissolving the cornmeal in cold water first prevents lumps.",
+   "It thickens as it stands; if too firm, add hot water when reheating."
+  ],
+  "video": "cuban tamal en cazuela recipe"
+ },
+ "added": "2026-09-30"
+}

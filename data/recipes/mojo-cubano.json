@@ -1,0 +1,117 @@
+{
+ "id": "mojo-cubano",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "sauce",
+ "time": 10,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 10,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Mojo criollo cubano",
+  "blurb": "Ajo, naranja agria y aceite caliente. Adobo para el lechón y salsa para la yuca.",
+  "ing": [
+   {
+    "n": "jugo de naranja agria"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "aceite de oliva"
+   }
+  ],
+  "steps": [
+   "Maja el ajo con la sal hasta tener una pasta.",
+   "Añade el comino, el orégano y el jugo de naranja agria.",
+   "Calienta el aceite hasta que brille, sin que humee, y viértelo sobre la mezcla. Chisporroteará.",
+   "Mezcla y deja reposar 10 minutos antes de usar."
+  ],
+  "tips": [
+   "Sin naranja agria, usa 2 partes de jugo de naranja y 1 de jugo de lima.",
+   "Guarda hasta 1 semana en la nevera en un frasco cerrado."
+  ],
+  "video": "mojo criollo cubano receta"
+ },
+ "en": {
+  "name": "Cuban Mojo",
+  "blurb": "Garlic, sour orange and hot oil. A marinade for roast pork and a sauce for cassava.",
+  "ing": [
+   {
+    "n": "sour orange juice"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "olive oil"
+   }
+  ],
+  "steps": [
+   "Mash the garlic with the salt to a paste.",
+   "Add the cumin, oregano and sour orange juice.",
+   "Heat the oil until shimmering, not smoking, and pour it over the mixture. It will sizzle.",
+   "Stir and leave 10 minutes before using."
+  ],
+  "tips": [
+   "Without sour orange, use 2 parts orange juice to 1 part lime juice.",
+   "Keeps up to 1 week in the fridge in a closed jar."
+  ],
+  "video": "cuban mojo recipe"
+ },
+ "added": "2026-09-30"
+}

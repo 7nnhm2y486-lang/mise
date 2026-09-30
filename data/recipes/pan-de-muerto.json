@@ -1,0 +1,194 @@
+{
+ "id": "pan-de-muerto",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 240,
+ "serves": 8,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "enrich"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "flowerwater",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "butter",
+   "role": "glaze"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "glaze"
+  }
+ ],
+ "es": {
+  "name": "Pan de muerto",
+  "blurb": "Pan dulce de azahar y naranja con huesitos encima y cubierto de azúcar. Se hace para el Día de Muertos.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "leche tibia"
+   },
+   {
+    "n": "mantequilla blanda"
+   },
+   {
+    "n": "agua de azahar"
+   },
+   {
+    "n": "ralladura de naranja"
+   },
+   {
+    "n": "semillas de anís",
+    "note": "molidas"
+   },
+   {
+    "n": "mantequilla derretida"
+   },
+   {
+    "n": "azúcar para cubrir"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, 100 g de azúcar, la levadura, la sal y el anís. Añade los huevos, la leche, el azahar y la ralladura y amasa 10 minutos.",
+   "Añade la mantequilla blanda poco a poco y amasa 10 minutos más, hasta que la masa esté lisa y elástica.",
+   "Tapa y deja crecer 2 horas, hasta que doble su tamaño.",
+   "Aparta un cuarto de la masa. Forma 2 bolas con el resto. Con la masa apartada, haz tiras con nudos para los huesos y bolitas para la cabeza y ponlas encima. Deja crecer 45 minutos.",
+   "Hornea a 180 °C durante 30 minutos. Aún tibio, pinta con la mantequilla derretida y cubre con el azúcar."
+  ],
+  "tips": [
+   "La masa es pegajosa al principio; no añadas harina, sigue amasando.",
+   "Para que el azúcar se pegue, pinta y reboza cuando el pan aún esté tibio."
+  ],
+  "video": "pan de muerto receta tradicional"
+ },
+ "en": {
+  "name": "Pan de Muerto (Day of the Dead Bread)",
+  "blurb": "A sweet orange-blossom and orange bread with dough bones on top and a sugar coating. Made for the Day of the Dead.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "dried yeast"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "warm milk"
+   },
+   {
+    "n": "soft butter"
+   },
+   {
+    "n": "orange-blossom water"
+   },
+   {
+    "n": "orange zest"
+   },
+   {
+    "n": "aniseed",
+    "note": "ground"
+   },
+   {
+    "n": "melted butter"
+   },
+   {
+    "n": "sugar for coating"
+   }
+  ],
+  "steps": [
+   "Mix the flour, 100 g of sugar, the yeast, salt and aniseed. Add the eggs, milk, orange-blossom water and zest and knead 10 minutes.",
+   "Add the soft butter a little at a time and knead 10 minutes more, until the dough is smooth and elastic.",
+   "Cover and leave to rise 2 hours, until doubled.",
+   "Set aside a quarter of the dough. Shape 2 balls from the rest. With the reserved dough, make knotted ropes for the bones and small balls for the skull and set them on top. Rise 45 minutes.",
+   "Bake at 180 °C for 30 minutes. While still warm, brush with the melted butter and coat with the sugar."
+  ],
+  "tips": [
+   "The dough is sticky at first; don't add flour, keep kneading.",
+   "For the sugar to stick, brush and coat while the bread is still warm."
+  ],
+  "video": "pan de muerto recipe"
+ },
+ "added": "2026-09-30"
+}

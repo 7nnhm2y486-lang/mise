@@ -1,0 +1,120 @@
+{
+ "id": "bolillos",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 180,
+ "serves": 8,
+ "ovenC": 220,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 7,
+   "u": "g",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 320,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "shortening",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Bolillos",
+  "blurb": "El pan blanco de cada día en México: corteza crujiente, miga suave y la raya en el centro. Base de tortas y molletes.",
+  "ing": [
+   {
+    "n": "harina de trigo de fuerza"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "manteca vegetal"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la levadura, el azúcar y la sal. Añade el agua y la manteca y amasa 10 minutos, hasta que la masa esté lisa.",
+   "Tapa y deja crecer 1 hora, hasta que doble su tamaño.",
+   "Divide en 8 piezas. Aplana cada una, enróllala apretada y dale forma alargada con las puntas finas. Deja crecer 40 minutos.",
+   "Haz un corte a lo largo en cada bolillo.",
+   "Hornea a 220 °C durante 20 minutos con un recipiente con agua en el fondo del horno, hasta que estén dorados y suenen huecos."
+  ],
+  "tips": [
+   "El vapor del agua en el horno es lo que da la corteza delgada y crujiente.",
+   "Al día siguiente, rocíalos con agua y caliéntalos 5 minutos para que vuelvan a crujir."
+  ],
+  "video": "bolillos caseros receta"
+ },
+ "en": {
+  "name": "Bolillos (Mexican Bread Rolls)",
+  "blurb": "Mexico's everyday white roll: crisp crust, soft crumb and a split down the middle. The base for tortas and molletes.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "dried yeast"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "vegetable shortening"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar and salt. Add the water and shortening and knead 10 minutes, until smooth.",
+   "Cover and rise 1 hour, until doubled.",
+   "Divide into 8 pieces. Flatten each, roll up tightly and shape into an oval with tapered ends. Rise 40 minutes.",
+   "Slash each roll lengthwise.",
+   "Bake at 220 °C for 20 minutes with a tray of water at the bottom of the oven, until golden and hollow-sounding."
+  ],
+  "tips": [
+   "Steam from the water in the oven is what gives the thin, crisp crust.",
+   "Next day, mist with water and warm for 5 minutes to crisp them again."
+  ],
+  "video": "bolillo recipe"
+ },
+ "added": "2026-09-30"
+}

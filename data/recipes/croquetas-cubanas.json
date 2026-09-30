@@ -1,0 +1,171 @@
+{
+ "id": "croquetas-cubanas",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "snack",
+ "time": 240,
+ "serves": 30,
+ "ing": [
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 90,
+   "u": "g",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "ham",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "breadcrumbs",
+   "role": "dredge"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Croquetas de jamón cubanas",
+  "blurb": "Croquetas alargadas de bechamel espesa y jamón molido. En Cuba y Miami se comen a cualquier hora con café.",
+  "ing": [
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada muy fina"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "jamón cocido",
+    "note": "molido"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos batidos"
+   },
+   {
+    "n": "pan rallado fino"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla en la mantequilla 5 minutos. Añade la harina y cuece 2 minutos.",
+   "Añade la leche poco a poco, batiendo, y cuece 8 minutos, hasta que la masa se despegue de la olla.",
+   "Añade el jamón, la nuez moscada y la sal. Extiende en una fuente, tapa y refrigera 3 horas.",
+   "Forma cilindros de 6 cm, pásalos por el huevo y luego por el pan rallado.",
+   "Fríe a 180 °C durante 3 minutos, hasta que estén dorados."
+  ],
+  "tips": [
+   "Prueba antes de salar: el jamón ya aporta sal.",
+   "Congela las croquetas empanizadas en una bandeja y luego en bolsa; fríelas sin descongelar."
+  ],
+  "video": "croquetas de jamon cubanas"
+ },
+ "en": {
+  "name": "Cuban Ham Croquettes",
+  "blurb": "Long croquettes of thick béchamel and minced ham. In Cuba and Miami they're eaten at any hour with coffee.",
+  "ing": [
+   {
+    "n": "butter"
+   },
+   {
+    "n": "onion",
+    "note": "very finely chopped"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "cooked ham",
+    "note": "minced"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "beaten eggs"
+   },
+   {
+    "n": "fine breadcrumbs"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Cook the onion in the butter for 5 minutes. Add the flour and cook 2 minutes.",
+   "Add the milk a little at a time, whisking, and cook 8 minutes, until the mixture pulls away from the pot.",
+   "Add the ham, nutmeg and salt. Spread in a dish, cover and refrigerate 3 hours.",
+   "Shape into 6 cm logs, dip in the egg and then the breadcrumbs.",
+   "Fry at 180 °C for 3 minutes, until golden."
+  ],
+  "tips": [
+   "Taste before salting: the ham already brings salt.",
+   "Freeze crumbed croquettes on a tray, then bag them; fry from frozen."
+  ],
+  "video": "cuban ham croquettes recipe"
+ },
+ "added": "2026-09-30"
+}

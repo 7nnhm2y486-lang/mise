@@ -1,0 +1,209 @@
+{
+ "id": "menudo",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 300,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "chilli",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "ancho",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "hominy",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Menudo rojo",
+  "blurb": "Sopa de panza y pata de res en caldillo de guajillo con maíz pozolero. El remedio de los domingos en el norte de México.",
+  "ing": [
+   {
+    "n": "panza de res (callo)",
+    "note": "lavada y en cuadros de 3 cm"
+   },
+   {
+    "n": "pata de res",
+    "note": "partida en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla",
+    "note": "en mitades"
+   },
+   {
+    "n": "cabeza de ajo",
+    "note": "partida a la mitad"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "sin semillas"
+   },
+   {
+    "n": "chiles anchos",
+    "note": "sin semillas"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "maíz pozolero cocido",
+    "note": "escurrido"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "picada"
+   },
+   {
+    "n": "limones",
+    "note": "en cuartos"
+   }
+  ],
+  "steps": [
+   "Cubre la panza y la pata con el agua, añade la cebolla en mitades, el ajo y la sal. Hierve y cuece tapado a fuego bajo 3 horas, hasta que la panza esté tierna.",
+   "Remoja los chiles en agua caliente 15 minutos. Licúalos con 250 ml del líquido de la olla y cuela.",
+   "Saca la cebolla y el ajo. Deshuesa la pata y regresa la carne a la olla.",
+   "Añade la salsa de chile, la mitad del orégano y el maíz. Cuece 45 minutos más.",
+   "Sirve con la cebolla picada, el resto del orégano y los limones."
+  ],
+  "tips": [
+   "Lava la panza con agua y limón y enjuaga bien antes de cocerla; así huele menos.",
+   "Sabe mejor al día siguiente. Quita la grasa que cuaja arriba al enfriar."
+  ],
+  "video": "menudo rojo norteño receta"
+ },
+ "en": {
+  "name": "Menudo (Red Tripe and Hominy Soup)",
+  "blurb": "Beef tripe and foot in a guajillo chilli soup with hominy. The Sunday cure of northern Mexico.",
+  "ing": [
+   {
+    "n": "beef tripe",
+    "note": "washed, in 3 cm squares"
+   },
+   {
+    "n": "beef foot",
+    "note": "cut in pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "onion",
+    "note": "halved"
+   },
+   {
+    "n": "head of garlic",
+    "note": "halved"
+   },
+   {
+    "n": "guajillo chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "ancho chillies",
+    "note": "seeded"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "cooked hominy",
+    "note": "drained"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "white onion",
+    "note": "chopped"
+   },
+   {
+    "n": "limes",
+    "note": "in wedges"
+   }
+  ],
+  "steps": [
+   "Cover the tripe and foot with the water and add the halved onion, garlic and salt. Bring to a boil and simmer covered on low for 3 hours, until the tripe is tender.",
+   "Soak the chillies in hot water for 15 minutes. Blend with 250 ml of the pot liquid and strain.",
+   "Remove the onion and garlic. Take the meat off the foot bones and return it to the pot.",
+   "Add the chilli sauce, half the oregano and the hominy. Cook 45 minutes more.",
+   "Serve with the chopped onion, the rest of the oregano and the limes."
+  ],
+  "tips": [
+   "Wash the tripe with water and lime and rinse well before cooking; it smells less.",
+   "It tastes better the next day. Lift off the fat that sets on top as it cools."
+  ],
+  "video": "menudo recipe"
+ },
+ "added": "2026-09-30"
+}

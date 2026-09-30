@@ -1,0 +1,159 @@
+{
+ "id": "boniatillo",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "sweet",
+ "time": 45,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 15,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Boniatillo",
+  "blurb": "Crema dulce de boniato con canela y limón. Un postre cubano de siempre, sencillo y barato.",
+  "ing": [
+   {
+    "n": "boniato (batata blanca)",
+    "note": "pelado, en trozos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "cáscara de limón",
+    "note": "en una tira"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Hierve el boniato en agua 20 minutos, hasta que esté tierno. Escurre y haz un puré fino.",
+   "Cuece el azúcar con el agua, la canela y la cáscara de limón 10 minutos, hasta tener un almíbar ligero. Saca la canela y la cáscara.",
+   "Añade el puré al almíbar y cuece 10 minutos a fuego bajo, removiendo, hasta que espese.",
+   "Retira del fuego, añade las yemas batidas, la mantequilla y la sal, y mezcla rápido. Cuece 2 minutos más sin que hierva.",
+   "Sirve frío o tibio con la canela molida por encima."
+  ],
+  "tips": [
+   "Añade las yemas fuera del fuego y mezcla rápido para que no cuajen en grumos.",
+   "Si lo quieres más firme, cuécelo 5 minutos más antes de las yemas."
+  ],
+  "video": "boniatillo cubano receta"
+ },
+ "en": {
+  "name": "Boniatillo (Cuban Sweet Potato Pudding)",
+  "blurb": "A sweet cream of boniato with cinnamon and lime. An old Cuban dessert, simple and cheap.",
+  "ing": [
+   {
+    "n": "boniato (white sweet potato)",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "lime peel",
+    "note": "in one strip"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Boil the boniato in water for 20 minutes, until tender. Drain and mash smooth.",
+   "Simmer the sugar with the water, cinnamon and lime peel for 10 minutes, to a light syrup. Remove the cinnamon and peel.",
+   "Add the mash to the syrup and cook 10 minutes on low, stirring, until thick.",
+   "Off the heat, add the beaten yolks, butter and salt and mix quickly. Cook 2 minutes more without boiling.",
+   "Serve cold or warm with the ground cinnamon on top."
+  ],
+  "tips": [
+   "Add the yolks off the heat and mix fast so they don't set in lumps.",
+   "For a firmer set, cook it 5 minutes longer before the yolks."
+  ],
+  "video": "boniatillo recipe"
+ },
+ "added": "2026-09-30"
+}

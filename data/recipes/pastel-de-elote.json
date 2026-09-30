@@ -1,0 +1,134 @@
+{
+ "id": "pastel-de-elote",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 10,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 395,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pastel de elote",
+  "blurb": "Pan húmedo de elote licuado con leche condensada. Entre pastel y budín, dulce de maíz.",
+  "ing": [
+   {
+    "n": "granos de elote",
+    "note": "frescos o congelados"
+   },
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "mantequilla derretida"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Enciende el horno a 180 °C y engrasa un molde de 22 cm.",
+   "Licúa el elote, la leche condensada, los huevos y la mantequilla hasta que esté casi liso.",
+   "Añade la fécula, el polvo de hornear y la sal y licúa 10 segundos más.",
+   "Vierte en el molde y hornea 45 minutos, hasta que esté dorado y firme en el centro.",
+   "Deja enfriar 20 minutos antes de desmoldar."
+  ],
+  "tips": [
+   "Con elote fresco sale más húmedo y dulce que con congelado.",
+   "Queda como budín firme; no esperes la miga de un bizcocho."
+  ],
+  "video": "pastel de elote receta"
+ },
+ "en": {
+  "name": "Pastel de Elote (Sweetcorn Cake)",
+  "blurb": "A moist cake of blended sweetcorn and condensed milk. Somewhere between cake and pudding.",
+  "ing": [
+   {
+    "n": "sweetcorn kernels",
+    "note": "fresh or frozen"
+   },
+   {
+    "n": "condensed milk"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "melted butter"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 180 °C and grease a 22 cm tin.",
+   "Blend the corn, condensed milk, eggs and butter until almost smooth.",
+   "Add the cornstarch, baking powder and salt and blend 10 seconds more.",
+   "Pour into the tin and bake 45 minutes, until golden and firm in the centre.",
+   "Cool 20 minutes before turning out."
+  ],
+  "tips": [
+   "Fresh corn makes it moister and sweeter than frozen.",
+   "It sets like a firm pudding; don't expect the crumb of a sponge."
+  ],
+  "video": "mexican corn cake recipe"
+ },
+ "added": "2026-09-30"
+}
