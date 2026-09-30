@@ -1,0 +1,139 @@
+{
+ "id": "salmorejo",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "bread",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "prosciutto",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Salmorejo cordobés",
+  "blurb": "Crema fría y espesa de tomate, pan y aceite, con huevo duro y jamón. Más densa que el gazpacho.",
+  "ing": [
+   {
+    "n": "tomates maduros",
+    "note": "en trozos"
+   },
+   {
+    "n": "pan de miga densa del día anterior",
+    "note": "sin corteza"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "aceite de oliva virgen extra"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos duros",
+    "note": "picados"
+   },
+   {
+    "n": "jamón serrano",
+    "note": "en tiras"
+   }
+  ],
+  "steps": [
+   "Licúa el tomate hasta que esté líquido y cuela para quitar pieles y semillas.",
+   "Añade el pan y deja que se empape 10 minutos.",
+   "Añade el ajo y la sal y licúa hasta que esté liso.",
+   "Con el motor en marcha, añade el aceite en hilo hasta que emulsione y espese.",
+   "Refrigera 2 horas. Sirve con el huevo y el jamón por encima y un hilo de aceite."
+  ],
+  "tips": [
+   "Debe quedar tan espeso que el huevo no se hunda.",
+   "Usa el pan más denso que encuentres; el de molde lo deja pastoso."
+  ],
+  "video": "salmorejo cordobés receta"
+ },
+ "en": {
+  "name": "Salmorejo (Cordoban Cold Tomato Cream)",
+  "blurb": "A thick cold cream of tomato, bread and olive oil, topped with egg and ham. Denser than gazpacho.",
+  "ing": [
+   {
+    "n": "ripe tomatoes",
+    "note": "in chunks"
+   },
+   {
+    "n": "day-old dense white bread",
+    "note": "crusts removed"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "extra virgin olive oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "chopped"
+   },
+   {
+    "n": "Spanish cured ham",
+    "note": "in strips"
+   }
+  ],
+  "steps": [
+   "Blend the tomato until liquid and strain to remove skins and seeds.",
+   "Add the bread and let it soak 10 minutes.",
+   "Add the garlic and salt and blend until smooth.",
+   "With the motor running, drizzle in the oil until it emulsifies and thickens.",
+   "Refrigerate 2 hours. Serve with the egg and ham on top and a thread of oil."
+  ],
+  "tips": [
+   "It should be thick enough that the egg doesn't sink.",
+   "Use the densest bread you can find; sliced sandwich bread makes it pasty."
+  ],
+  "video": "salmorejo recipe"
+ },
+ "added": "2026-09-30"
+}

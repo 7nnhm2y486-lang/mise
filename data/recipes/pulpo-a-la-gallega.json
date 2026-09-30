@@ -1,0 +1,123 @@
+{
+ "id": "pulpo-a-la-gallega",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "starter",
+ "time": 75,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "squid",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Pulpo a la gallega",
+  "blurb": "Pulpo tierno sobre patata cocida, con sal gruesa, pimentón y aceite. El plato de las ferias de Galicia.",
+  "ing": [
+   {
+    "n": "pulpo",
+    "note": "congelado y descongelado"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "patatas",
+    "note": "en rodajas de 2 cm"
+   },
+   {
+    "n": "sal gruesa"
+   },
+   {
+    "n": "pimentón dulce y picante"
+   },
+   {
+    "n": "aceite de oliva virgen extra"
+   }
+  ],
+  "steps": [
+   "Hierve el agua. Sujeta el pulpo por la cabeza y sumérgelo 3 veces en el agua para que se ricen las patas, luego déjalo dentro.",
+   "Cuece 40 minutos, hasta que un palillo entre sin resistencia en la parte gruesa de la pata.",
+   "Apaga y deja el pulpo en el agua 10 minutos. Sácalo.",
+   "Cuece las patatas en la misma agua 15 minutos.",
+   "Corta el pulpo con tijeras en rodajas sobre las patatas. Cubre con la sal gruesa, el pimentón y el aceite."
+  ],
+  "tips": [
+   "Congelar el pulpo antes de cocerlo lo ablanda; el fresco hay que golpearlo.",
+   "Se sirve templado, no caliente, sobre una tabla de madera."
+  ],
+  "video": "pulpo a la gallega receta"
+ },
+ "en": {
+  "name": "Pulpo a la Gallega (Galician Octopus)",
+  "blurb": "Tender octopus on boiled potato, with coarse salt, paprika and olive oil. The dish of Galician fairs.",
+  "ing": [
+   {
+    "n": "octopus",
+    "note": "frozen and thawed"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "potatoes",
+    "note": "in 2 cm slices"
+   },
+   {
+    "n": "coarse salt"
+   },
+   {
+    "n": "sweet and hot paprika"
+   },
+   {
+    "n": "extra virgin olive oil"
+   }
+  ],
+  "steps": [
+   "Bring the water to a boil. Hold the octopus by the head and dip it 3 times so the tentacles curl, then leave it in.",
+   "Cook 40 minutes, until a toothpick slides easily into the thick part of a tentacle.",
+   "Turn off the heat and leave the octopus in the water for 10 minutes. Lift out.",
+   "Cook the potatoes in the same water for 15 minutes.",
+   "Snip the octopus into rounds over the potatoes. Top with the coarse salt, paprika and oil."
+  ],
+  "tips": [
+   "Freezing the octopus before cooking tenderises it; fresh octopus must be beaten.",
+   "It is served warm, not hot, on a wooden board."
+  ],
+  "video": "pulpo a la gallega recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,163 @@
+{
+ "id": "gazpacho",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 20,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "bread",
+   "role": "thicken"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "winevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Gazpacho andaluz",
+  "blurb": "Sopa fría de tomate, pepino, pimiento y aceite de oliva, batida hasta quedar sedosa. El verano de Andalucía.",
+  "ing": [
+   {
+    "n": "tomates maduros",
+    "note": "en trozos"
+   },
+   {
+    "n": "pepino",
+    "note": "pelado, en trozos"
+   },
+   {
+    "n": "pimiento verde italiano",
+    "note": "en trozos"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "pan del día anterior",
+    "note": "sin corteza"
+   },
+   {
+    "n": "aceite de oliva virgen extra"
+   },
+   {
+    "n": "vinagre de Jerez"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "agua fría"
+   }
+  ],
+  "steps": [
+   "Remoja el pan en el agua 5 minutos.",
+   "Licúa el tomate, el pepino, el pimiento, el ajo y el pan con su agua hasta que esté liso.",
+   "Con el motor en marcha, añade el aceite en hilo, luego el vinagre y la sal.",
+   "Cuela si lo quieres muy fino.",
+   "Refrigera al menos 2 horas y sirve bien frío."
+  ],
+  "tips": [
+   "Prueba y ajusta el vinagre y la sal después de enfriar: el frío apaga los sabores.",
+   "Para un gazpacho sin gluten, quita el pan; queda más ligero pero igual de bueno."
+  ],
+  "video": "gazpacho andaluz receta"
+ },
+ "en": {
+  "name": "Andalusian Gazpacho",
+  "blurb": "A cold soup of tomato, cucumber, pepper and olive oil, blended until silky. Summer in Andalusia.",
+  "ing": [
+   {
+    "n": "ripe tomatoes",
+    "note": "in chunks"
+   },
+   {
+    "n": "cucumber",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "Italian green pepper",
+    "note": "in chunks"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "day-old bread",
+    "note": "crusts removed"
+   },
+   {
+    "n": "extra virgin olive oil"
+   },
+   {
+    "n": "sherry vinegar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cold water"
+   }
+  ],
+  "steps": [
+   "Soak the bread in the water for 5 minutes.",
+   "Blend the tomato, cucumber, pepper, garlic and the bread with its water until smooth.",
+   "With the motor running, drizzle in the oil, then the vinegar and salt.",
+   "Strain it if you want it very fine.",
+   "Refrigerate at least 2 hours and serve well chilled."
+  ],
+  "tips": [
+   "Taste and adjust the vinegar and salt after chilling: cold dulls flavour.",
+   "For a gluten-free gazpacho, leave out the bread; it's lighter but just as good."
+  ],
+  "video": "gazpacho recipe"
+ },
+ "added": "2026-09-30"
+}

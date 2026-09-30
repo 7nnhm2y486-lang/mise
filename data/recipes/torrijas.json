@@ -1,0 +1,159 @@
+{
+ "id": "torrijas",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Torrijas",
+  "blurb": "Pan empapado en leche con canela y limón, pasado por huevo y frito. El dulce de Semana Santa en España.",
+  "ing": [
+   {
+    "n": "barra de pan del día anterior",
+    "note": "en rebanadas de 2 cm"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "cáscara de limón",
+    "note": "en una tira"
+   },
+   {
+    "n": "huevos batidos"
+   },
+   {
+    "n": "aceite de oliva suave para freír"
+   },
+   {
+    "n": "azúcar para rebozar"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Calienta la leche con 80 g de azúcar, la canela y el limón hasta que hierva. Deja infusionar y templar 15 minutos.",
+   "Coloca el pan en una fuente y vierte la leche colada por encima. Deja empapar 10 minutos, dándoles la vuelta.",
+   "Mezcla el azúcar de rebozar con la canela molida.",
+   "Pasa cada rebanada por el huevo y fríe en el aceite a 170 °C durante 2 minutos por lado, hasta que esté dorada.",
+   "Escurre sobre papel y reboza en el azúcar con canela mientras están calientes."
+  ],
+  "tips": [
+   "El pan debe ser del día anterior: el fresco se deshace en la leche.",
+   "Sácalas de la leche con una espumadera para que no se rompan."
+  ],
+  "video": "torrijas receta tradicional"
+ },
+ "en": {
+  "name": "Torrijas (Spanish French Toast)",
+  "blurb": "Bread soaked in cinnamon and lemon milk, dipped in egg and fried. Spain's Holy Week sweet.",
+  "ing": [
+   {
+    "n": "day-old baguette",
+    "note": "in 2 cm slices"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "lemon peel",
+    "note": "in one strip"
+   },
+   {
+    "n": "beaten eggs"
+   },
+   {
+    "n": "light olive oil for frying"
+   },
+   {
+    "n": "sugar for coating"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Heat the milk with 80 g of sugar, the cinnamon and lemon until boiling. Leave to infuse and cool 15 minutes.",
+   "Lay the bread in a dish and strain the milk over it. Soak 10 minutes, turning.",
+   "Mix the coating sugar with the ground cinnamon.",
+   "Dip each slice in the egg and fry in the oil at 170 °C for 2 minutes a side, until golden.",
+   "Drain on paper and roll in the cinnamon sugar while hot."
+  ],
+  "tips": [
+   "The bread must be a day old: fresh bread falls apart in the milk.",
+   "Lift them out of the milk with a slotted spoon so they don't break."
+  ],
+  "video": "torrijas recipe"
+ },
+ "added": "2026-09-30"
+}

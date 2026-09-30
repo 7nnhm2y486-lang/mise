@@ -1,0 +1,145 @@
+{
+ "id": "patatas-bravas",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "starter",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Patatas bravas",
+  "blurb": "Dados de patata fritos dos veces con salsa brava de pimentón picante. La tapa de todos los bares de Madrid.",
+  "ing": [
+   {
+    "n": "patatas harinosas",
+    "note": "en dados de 3 cm"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "pimentón picante"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "agua"
+   }
+  ],
+  "steps": [
+   "Fríe las patatas a 140 °C durante 10 minutos, hasta que estén tiernas. Escúrrelas.",
+   "Para la salsa, calienta el aceite de oliva, añade la harina y cuece 1 minuto. Retira del fuego y añade los dos pimentones.",
+   "Añade el agua poco a poco, batiendo, y 1 cucharadita de sal. Cuece 5 minutos hasta que espese.",
+   "Sube el aceite a 190 °C y fríe las patatas otra vez 4 minutos, hasta que estén doradas y crujientes.",
+   "Sala las patatas y sirve con la salsa brava por encima."
+  ],
+  "tips": [
+   "Añade el pimentón fuera del fuego: quemado amarga.",
+   "Seca bien las patatas antes de freír para que crujan."
+  ],
+  "video": "patatas bravas receta salsa brava"
+ },
+ "en": {
+  "name": "Patatas Bravas",
+  "blurb": "Twice-fried potato cubes with a hot paprika brava sauce. The tapa at every bar in Madrid.",
+  "ing": [
+   {
+    "n": "floury potatoes",
+    "note": "in 3 cm cubes"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "hot smoked paprika"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "water"
+   }
+  ],
+  "steps": [
+   "Fry the potatoes at 140 °C for 10 minutes, until tender. Drain.",
+   "For the sauce, heat the olive oil, add the flour and cook 1 minute. Take off the heat and add both paprikas.",
+   "Add the water a little at a time, whisking, and 1 teaspoon of salt. Cook 5 minutes until thick.",
+   "Raise the oil to 190 °C and fry the potatoes again for 4 minutes, until golden and crisp.",
+   "Salt the potatoes and serve with the brava sauce over the top."
+  ],
+  "tips": [
+   "Add the paprika off the heat: burnt, it turns bitter.",
+   "Dry the potatoes well before frying so they crisp."
+  ],
+  "video": "patatas bravas recipe"
+ },
+ "added": "2026-09-30"
+}

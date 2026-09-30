@@ -1,0 +1,125 @@
+{
+ "id": "gambas-al-ajillo",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "starter",
+ "time": 15,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "prawn",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Gambas al ajillo",
+  "blurb": "Gambas en aceite de oliva hirviendo con ajo y guindilla, servidas en la cazuela de barro chisporroteando.",
+  "ing": [
+   {
+    "n": "gambas peladas"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "ajo",
+    "note": "en láminas"
+   },
+   {
+    "n": "guindillas secas",
+    "note": "en aros"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Seca bien las gambas y sálalas.",
+   "Calienta el aceite con el ajo y la guindilla a fuego medio en una cazuela de barro o sartén pequeña, hasta que el ajo empiece a dorarse.",
+   "Añade las gambas y cuece 2 minutos, dándoles la vuelta a mitad, hasta que estén rosadas.",
+   "Espolvorea el perejil.",
+   "Sirve enseguida en la misma cazuela, todavía chisporroteando."
+  ],
+  "tips": [
+   "No dejes que el ajo se dore demasiado antes de las gambas; se quema mientras se cuecen.",
+   "Las gambas pasadas se vuelven gomosas: sácalas en cuanto cambien de color."
+  ],
+  "video": "gambas al ajillo receta"
+ },
+ "en": {
+  "name": "Gambas al Ajillo (Garlic Prawns)",
+  "blurb": "Prawns in sizzling olive oil with garlic and chilli, served bubbling in the clay dish.",
+  "ing": [
+   {
+    "n": "peeled prawns"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "garlic",
+    "note": "sliced"
+   },
+   {
+    "n": "dried chillies",
+    "note": "in rings"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Pat the prawns very dry and salt them.",
+   "Heat the oil with the garlic and chilli over medium heat in a clay dish or small frying pan, until the garlic begins to colour.",
+   "Add the prawns and cook 2 minutes, turning halfway, until pink.",
+   "Sprinkle with the parsley.",
+   "Serve at once in the same dish, still sizzling."
+  ],
+  "tips": [
+   "Don't let the garlic brown too far before the prawns go in; it burns while they cook.",
+   "Overcooked prawns turn rubbery: take them off as soon as they change colour."
+  ],
+  "video": "gambas al ajillo recipe"
+ },
+ "added": "2026-09-30"
+}

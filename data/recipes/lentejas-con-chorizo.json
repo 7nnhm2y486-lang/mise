@@ -1,0 +1,203 @@
+{
+ "id": "lentejas-con-chorizo",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Lentejas con chorizo",
+  "blurb": "Lentejas guisadas con chorizo, patata y verduras. Comida de cuchara de toda la vida.",
+  "ing": [
+   {
+    "n": "lentejas pardinas"
+   },
+   {
+    "n": "chorizo",
+    "note": "en rodajas"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en rodajas"
+   },
+   {
+    "n": "patatas",
+    "note": "en trozos"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "hoja de laurel"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo y el pimiento en el aceite 8 minutos.",
+   "Añade el chorizo y cuece 2 minutos. Retira del fuego y añade el pimentón.",
+   "Añade las lentejas, la zanahoria, el laurel y el agua. Hierve y cuece a fuego bajo 25 minutos.",
+   "Añade la patata y la sal y cuece 20 minutos más, hasta que la patata esté tierna.",
+   "Deja reposar 5 minutos antes de servir."
+  ],
+  "tips": [
+   "Las pardinas no necesitan remojo y no se deshacen.",
+   "Rompe la patata con el cuchillo en lugar de cortarla: suelta almidón y espesa el guiso."
+  ],
+  "video": "lentejas con chorizo receta"
+ },
+ "en": {
+  "name": "Lentejas con Chorizo (Lentil and Chorizo Stew)",
+  "blurb": "Lentils stewed with chorizo, potato and vegetables. Everyday Spanish spoon food.",
+  "ing": [
+   {
+    "n": "pardina lentils"
+   },
+   {
+    "n": "chorizo",
+    "note": "sliced"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "carrots",
+    "note": "sliced"
+   },
+   {
+    "n": "potatoes",
+    "note": "in chunks"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "bay leaf"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic and pepper in the oil for 8 minutes.",
+   "Add the chorizo and cook 2 minutes. Take off the heat and add the paprika.",
+   "Add the lentils, carrot, bay and water. Bring to a boil and simmer 25 minutes.",
+   "Add the potato and salt and cook 20 minutes more, until the potato is tender.",
+   "Rest 5 minutes before serving."
+  ],
+  "tips": [
+   "Pardina lentils need no soaking and hold their shape.",
+   "Snap the potato with the knife instead of cutting cleanly: it releases starch and thickens the stew."
+  ],
+  "video": "spanish lentils with chorizo recipe"
+ },
+ "added": "2026-09-30"
+}

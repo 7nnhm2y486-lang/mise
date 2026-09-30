@@ -1,0 +1,133 @@
+{
+ "id": "crema-catalana",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 30,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "thicken"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  }
+ ],
+ "es": {
+  "name": "Crema catalana",
+  "blurb": "Natilla de limón y canela con una capa de azúcar quemado que cruje bajo la cuchara.",
+  "ing": [
+   {
+    "n": "leche"
+   },
+   {
+    "n": "cáscara de limón",
+    "note": "en una tira"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "azúcar para quemar"
+   }
+  ],
+  "steps": [
+   "Calienta 400 ml de la leche con la cáscara de limón y la canela hasta que hierva. Tapa y deja infusionar 15 minutos.",
+   "Bate las yemas con 100 g de azúcar y la fécula disuelta en el resto de la leche.",
+   "Cuela la leche caliente sobre las yemas, batiendo. Vuelve a la olla y cuece a fuego bajo, sin dejar de remover, hasta que espese, sin que hierva.",
+   "Reparte en 6 cazuelitas y refrigera al menos 3 horas.",
+   "Justo antes de servir, espolvorea el resto del azúcar y quémalo con un soplete o una plancha de hierro caliente."
+  ],
+  "tips": [
+   "Quema el azúcar en el último momento; si espera, la capa se ablanda con la humedad.",
+   "Si se corta la crema, bátela en caliente con la batidora de mano."
+  ],
+  "video": "crema catalana receta"
+ },
+ "en": {
+  "name": "Crema Catalana",
+  "blurb": "A lemon and cinnamon custard with a burnt-sugar top that cracks under the spoon.",
+  "ing": [
+   {
+    "n": "milk"
+   },
+   {
+    "n": "lemon peel",
+    "note": "in one strip"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "sugar for burning"
+   }
+  ],
+  "steps": [
+   "Heat 400 ml of the milk with the lemon peel and cinnamon until boiling. Cover and infuse 15 minutes.",
+   "Whisk the yolks with 100 g of sugar and the cornstarch dissolved in the rest of the milk.",
+   "Strain the hot milk onto the yolks, whisking. Return to the pot and cook over low heat, stirring constantly, until thick, without boiling.",
+   "Divide between 6 shallow dishes and refrigerate at least 3 hours.",
+   "Just before serving, sprinkle over the rest of the sugar and burn it with a blowtorch or a hot iron."
+  ],
+  "tips": [
+   "Burn the sugar at the last moment; if it waits, moisture softens the crust.",
+   "If the custard splits, blitz it while hot with a stick blender."
+  ],
+  "video": "crema catalana recipe"
+ },
+ "added": "2026-09-30"
+}

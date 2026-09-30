@@ -1,0 +1,165 @@
+{
+ "id": "pisto",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 5,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Pisto manchego",
+  "blurb": "Verduras de huerta pochadas despacio en aceite de oliva, con huevo frito encima. La ratatouille de La Mancha.",
+  "ing": [
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebolla",
+    "note": "en dados"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "en dados"
+   },
+   {
+    "n": "pimiento rojo",
+    "note": "en dados"
+   },
+   {
+    "n": "calabacines",
+    "note": "en dados"
+   },
+   {
+    "n": "tomates maduros",
+    "note": "rallados"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   }
+  ],
+  "steps": [
+   "Pocha la cebolla en el aceite a fuego bajo 10 minutos.",
+   "Añade los pimientos y cuece 10 minutos.",
+   "Añade el calabacín y cuece 10 minutos más.",
+   "Añade el tomate, la sal y el azúcar y cuece 20 minutos a fuego bajo, hasta que no quede líquido.",
+   "Fríe los huevos y sirve uno sobre cada ración de pisto."
+  ],
+  "tips": [
+   "El secreto es el fuego bajo y la paciencia: las verduras se confitan, no se fríen.",
+   "El azúcar solo corrige la acidez del tomate; quítalo si el tomate es dulce."
+  ],
+  "video": "pisto manchego receta"
+ },
+ "en": {
+  "name": "Pisto Manchego (Spanish Vegetable Stew)",
+  "blurb": "Garden vegetables cooked slowly in olive oil, with a fried egg on top. La Mancha's ratatouille.",
+  "ing": [
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onion",
+    "note": "diced"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "diced"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "diced"
+   },
+   {
+    "n": "courgettes (zucchini)",
+    "note": "diced"
+   },
+   {
+    "n": "ripe tomatoes",
+    "note": "grated"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   }
+  ],
+  "steps": [
+   "Cook the onion gently in the oil over low heat for 10 minutes.",
+   "Add the peppers and cook 10 minutes.",
+   "Add the courgette and cook 10 minutes more.",
+   "Add the tomato, salt and sugar and cook 20 minutes on low, until no liquid remains.",
+   "Fry the eggs and serve one on each portion."
+  ],
+  "tips": [
+   "The secret is low heat and patience: the vegetables should soften in the oil, not fry.",
+   "The sugar only balances the tomato's acidity; leave it out if the tomatoes are sweet."
+  ],
+  "video": "pisto manchego recipe"
+ },
+ "added": "2026-09-30"
+}

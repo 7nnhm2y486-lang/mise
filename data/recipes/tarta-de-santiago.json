@@ -1,0 +1,120 @@
+{
+ "id": "tarta-de-santiago",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 50,
+ "serves": 10,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "almondflour",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "icingsugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Tarta de Santiago",
+  "blurb": "Tarta húmeda de almendra, sin harina, con la cruz de Santiago dibujada en azúcar glas. Dulce de Galicia.",
+  "ing": [
+   {
+    "n": "almendra molida"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "ralladura de limón"
+   },
+   {
+    "n": "canela molida"
+   },
+   {
+    "n": "azúcar glas"
+   }
+  ],
+  "steps": [
+   "Bate los huevos con el azúcar 3 minutos, hasta que blanqueen.",
+   "Añade la almendra, la ralladura y la canela y mezcla con espátula.",
+   "Vierte en un molde de 24 cm engrasado y forrado.",
+   "Hornea a 180 °C durante 35 minutos, hasta que esté dorada y firme.",
+   "Enfría, pon una plantilla de la cruz de Santiago en el centro y espolvorea el azúcar glas."
+  ],
+  "tips": [
+   "Sin harina de trigo por naturaleza; revisa que la almendra molida no se procese junto a trigo si cocinas para celíacos.",
+   "Mejora al día siguiente, más húmeda."
+  ],
+  "video": "tarta de santiago receta"
+ },
+ "en": {
+  "name": "Tarta de Santiago (Galician Almond Cake)",
+  "blurb": "A moist, flourless almond cake with the cross of Saint James stencilled in icing sugar. A sweet from Galicia.",
+  "ing": [
+   {
+    "n": "ground almonds"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "lemon zest"
+   },
+   {
+    "n": "ground cinnamon"
+   },
+   {
+    "n": "icing sugar"
+   }
+  ],
+  "steps": [
+   "Whisk the eggs with the sugar for 3 minutes, until pale.",
+   "Add the almonds, zest and cinnamon and fold with a spatula.",
+   "Pour into a greased and lined 24 cm tin.",
+   "Bake at 180 °C for 35 minutes, until golden and firm.",
+   "Cool, place a Saint James cross stencil in the centre and dust with the icing sugar."
+  ],
+  "tips": [
+   "Naturally free of wheat flour; check the ground almonds aren't processed alongside wheat if cooking for coeliacs.",
+   "It improves the next day, becoming moister."
+  ],
+  "video": "tarta de santiago recipe"
+ },
+ "added": "2026-09-30"
+}
