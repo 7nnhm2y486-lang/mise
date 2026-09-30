@@ -1,0 +1,119 @@
+{
+ "id": "torta-frita",
+ "country": "Uruguay",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 45,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Tortas fritas",
+  "blurb": "Discos de masa fritos con un agujero en el centro. En Uruguay se hacen el día que llueve, con mate.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "grasa de cerdo o manteca vegetal"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el polvo de hornear y la sal. Añade la grasa derretida y el agua y amasa 5 minutos. Reposa 20 minutos.",
+   "Estira a medio centímetro y corta círculos de 12 centímetros. Haz un agujero pequeño en el centro de cada uno.",
+   "Fríe en aceite a 180 °C 2 minutos por lado, hasta que estén doradas e infladas.",
+   "Escurre y sirve calientes."
+  ],
+  "tips": [
+   "El agujero del centro hace que se frían parejas.",
+   "Envueltas en un paño se mantienen tibias un buen rato."
+  ],
+  "video": "tortas fritas uruguayas receta"
+ },
+ "en": {
+  "name": "Tortas Fritas (Uruguayan Fried Bread)",
+  "blurb": "Rounds of dough fried with a hole in the middle. In Uruguay they're made on rainy days, with mate.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "lard or vegetable shortening"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   }
+  ],
+  "steps": [
+   "Mix the flour, baking powder and salt. Add the melted fat and the water and knead 5 minutes. Rest 20 minutes.",
+   "Roll to half a centimetre and cut 12 centimetre circles. Poke a small hole in the centre of each.",
+   "Fry in oil at 180 °C for 2 minutes per side, until golden and puffed.",
+   "Drain and serve hot."
+  ],
+  "tips": [
+   "The hole in the middle makes them fry evenly.",
+   "Wrapped in a towel they stay warm for a good while."
+  ],
+  "video": "tortas fritas recipe"
+ },
+ "added": "2026-09-30"
+}

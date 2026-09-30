@@ -1,0 +1,243 @@
+{
+ "id": "nacatamal",
+ "country": "Nicaragua",
+ "region": "latin-america",
+ "course": "main",
+ "time": 300,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 2.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "",
+   "k": "olives",
+   "role": "garnish"
+  },
+  {
+   "q": 10,
+   "u": "leaf",
+   "k": "veg",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Nacatamal",
+  "blurb": "El tamal grande del domingo nicaragüense: masa ácida con naranja agria, cerdo con achiote, arroz, papa, tomate y hierbabuena, en hoja de plátano.",
+  "ing": [
+   {
+    "n": "masa de maíz para tamales"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "jugo de naranja agria (o mitad naranja y mitad limón)"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "carne de cerdo",
+    "note": "en trozos"
+   },
+   {
+    "n": "achiote en polvo"
+   },
+   {
+    "n": "arroz",
+    "note": "remojado 30 minutos"
+   },
+   {
+    "n": "papas",
+    "note": "en rodajas"
+   },
+   {
+    "n": "tomates",
+    "note": "en rodajas"
+   },
+   {
+    "n": "cebolla",
+    "note": "en aros"
+   },
+   {
+    "n": "chile dulce (pimiento)",
+    "note": "en tiras"
+   },
+   {
+    "n": "hierbabuena"
+   },
+   {
+    "n": "aceitunas verdes"
+   },
+   {
+    "n": "hojas de plátano",
+    "note": "en cuadros de 30 cm"
+   }
+  ],
+  "steps": [
+   "Marina el cerdo con el achiote, 1 cucharadita de sal y la mitad del jugo de naranja al menos 2 horas.",
+   "Bate la manteca 3 minutos. Añade la masa, el caldo, el resto del jugo y de la sal. Bate 10 minutos, hasta que esté suave y esponjosa.",
+   "Unta una hoja de plátano con manteca. Pon 1 taza de masa, encima un trozo de cerdo, 1 cucharada de arroz, 1 rodaja de papa, tomate, cebolla, chile, 2 aceitunas y 2 hojas de hierbabuena.",
+   "Dobla la hoja en un paquete cuadrado y amarra con pabilo.",
+   "Cuece en una olla grande con agua hirviendo 4 horas, añadiendo agua caliente cuando baje.",
+   "Sirve en su hoja con pan y café."
+  ],
+  "tips": [
+   "La cocción larga es la que ablanda el cerdo crudo dentro: no la acortes.",
+   "Congelados duran 2 meses; recaliéntalos hervidos 45 minutos."
+  ],
+  "video": "nacatamal nicaragüense receta"
+ },
+ "en": {
+  "name": "Nacatamal (Nicaraguan Tamale)",
+  "blurb": "Nicaragua's big Sunday tamale: sour-orange masa, annatto pork, rice, potato, tomato and mint, wrapped in banana leaf.",
+  "ing": [
+   {
+    "n": "corn masa for tamales"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "sour orange juice (or half orange, half lime)"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "pork shoulder",
+    "note": "in pieces"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "rice",
+    "note": "soaked 30 minutes"
+   },
+   {
+    "n": "potatoes",
+    "note": "sliced"
+   },
+   {
+    "n": "tomatoes",
+    "note": "sliced"
+   },
+   {
+    "n": "onion",
+    "note": "in rings"
+   },
+   {
+    "n": "sweet pepper",
+    "note": "in strips"
+   },
+   {
+    "n": "mint"
+   },
+   {
+    "n": "green olives"
+   },
+   {
+    "n": "banana leaves",
+    "note": "in 30 cm squares"
+   }
+  ],
+  "steps": [
+   "Marinate the pork with the annatto, 1 teaspoon of salt and half the orange juice for at least 2 hours.",
+   "Beat the lard 3 minutes. Add the masa, the stock, the rest of the juice and salt. Beat 10 minutes, until soft and fluffy.",
+   "Grease a banana leaf with lard. Add 1 cup of masa, then a piece of pork, 1 tablespoon of rice, 1 slice of potato, tomato, onion, pepper, 2 olives and 2 mint leaves.",
+   "Fold the leaf into a square parcel and tie with string.",
+   "Boil in a large pot of water for 4 hours, topping up with hot water as it drops.",
+   "Serve in its leaf with bread and coffee."
+  ],
+  "tips": [
+   "The long boil is what cooks the raw pork inside: don't cut it short.",
+   "Frozen they keep 2 months; reheat by boiling 45 minutes."
+  ],
+  "video": "nacatamal recipe"
+ },
+ "added": "2026-09-30"
+}

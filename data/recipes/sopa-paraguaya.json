@@ -1,0 +1,136 @@
+{
+ "id": "sopa-paraguaya",
+ "country": "Paraguay",
+ "region": "latin-america",
+ "course": "side",
+ "time": 75,
+ "serves": 8,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Sopa paraguaya",
+  "blurb": "La única sopa sólida del mundo: un pan de maíz húmedo con cebolla y queso, horneado hasta dorar.",
+  "ing": [
+   {
+    "n": "harina de maíz"
+   },
+   {
+    "n": "cebollas",
+    "note": "picadas"
+   },
+   {
+    "n": "grasa de cerdo"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "queso Paraguay o queso fresco",
+    "note": "en cubos"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla en la grasa 10 minutos, hasta que esté suave. Deja entibiar.",
+   "Calienta el horno a 200 °C y engrasa un molde de 30 por 20 centímetros.",
+   "Bate los huevos con la leche y la sal. Añade la cebolla con su grasa y el queso.",
+   "Añade la harina de maíz y mezcla hasta integrar.",
+   "Vierte en el molde y hornea 40 minutos, hasta que esté dorada y un palillo salga limpio."
+  ],
+  "tips": [
+   "Deja reposar 10 minutos antes de cortar.",
+   "Va con asado o con sopa de verdad al lado."
+  ],
+  "video": "sopa paraguaya receta"
+ },
+ "en": {
+  "name": "Sopa Paraguaya (Paraguayan Cornbread)",
+  "blurb": "The world's only solid soup: a moist cornbread with onion and cheese, baked until golden.",
+  "ing": [
+   {
+    "n": "cornmeal"
+   },
+   {
+    "n": "onions",
+    "note": "chopped"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "Paraguayan cheese or queso fresco",
+    "note": "cubed"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion in the fat for 10 minutes, until soft. Let it cool slightly.",
+   "Heat the oven to 200 °C and grease a 30 by 20 centimetre tin.",
+   "Whisk the eggs with the milk and salt. Add the onion with its fat and the cheese.",
+   "Add the cornmeal and mix until combined.",
+   "Pour into the tin and bake 40 minutes, until golden and a toothpick comes out clean."
+  ],
+  "tips": [
+   "Rest 10 minutes before cutting.",
+   "It goes with grilled meat or a real soup on the side."
+  ],
+  "video": "sopa paraguaya recipe"
+ },
+ "added": "2026-09-30"
+}

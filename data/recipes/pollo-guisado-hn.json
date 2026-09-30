@@ -1,0 +1,217 @@
+{
+ "id": "pollo-guisado-hn",
+ "country": "Honduras",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Pollo guisado hondureño",
+  "blurb": "Pollo con achiote y comino guisado con tomate, chile dulce, papa y zanahoria. La comida de casa en Honduras.",
+  "ing": [
+   {
+    "n": "pollo en piezas"
+   },
+   {
+    "n": "achiote en polvo"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "chile dulce (pimiento)",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "papas",
+    "note": "en cubos"
+   },
+   {
+    "n": "zanahoria",
+    "note": "en rodajas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Unta el pollo con el achiote, el comino y la sal. Deja 30 minutos.",
+   "Dóralo en el aceite 8 minutos. Sácalo.",
+   "Sofríe la cebolla, el chile dulce y el ajo 5 minutos. Añade el tomate y cuece 5 minutos.",
+   "Regresa el pollo con la papa, la zanahoria y el agua. Tapa y cuece 30 minutos.",
+   "Termina con cilantro y sirve con arroz y tortillas."
+  ],
+  "tips": [
+   "Destapa los últimos 10 minutos si la salsa está muy líquida.",
+   "Con frijoles fritos y aguacate es el plato típico."
+  ],
+  "video": "pollo guisado hondureño receta"
+ },
+ "en": {
+  "name": "Honduran Chicken Stew (Pollo Guisado)",
+  "blurb": "Chicken with annatto and cumin stewed with tomato, sweet pepper, potato and carrot. Home cooking in Honduras.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "potatoes",
+    "note": "cubed"
+   },
+   {
+    "n": "carrot",
+    "note": "sliced"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Rub the chicken with the annatto, cumin and salt. Leave 30 minutes.",
+   "Brown it in the oil for 8 minutes. Remove.",
+   "Cook the onion, sweet pepper and garlic for 5 minutes. Add the tomato and cook 5 minutes.",
+   "Return the chicken with the potato, carrot and water. Cover and cook 30 minutes.",
+   "Finish with cilantro and serve with rice and tortillas."
+  ],
+  "tips": [
+   "Uncover for the last 10 minutes if the sauce is too thin.",
+   "With fried beans and avocado it's the typical plate."
+  ],
+  "video": "honduran chicken stew recipe"
+ },
+ "added": "2026-09-30"
+}

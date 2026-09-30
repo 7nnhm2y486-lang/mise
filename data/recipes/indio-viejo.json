@@ -1,0 +1,199 @@
+{
+ "id": "indio-viejo",
+ "country": "Nicaragua",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "masa",
+   "role": "thicken"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Indio viejo",
+  "blurb": "Guiso espeso de carne desmenuzada con masa de maíz, naranja agria y hierbabuena. Uno de los platos más antiguos de Nicaragua.",
+  "ing": [
+   {
+    "n": "falda de res"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "chile dulce (pimiento)",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "achiote en polvo"
+   },
+   {
+    "n": "masa de maíz"
+   },
+   {
+    "n": "jugo de naranja agria"
+   },
+   {
+    "n": "hierbabuena"
+   }
+  ],
+  "steps": [
+   "Cuece la carne en el agua con 1 cucharadita de sal 90 minutos. Desmenúzala y guarda el caldo.",
+   "Disuelve la masa en 1 litro del caldo tibio, sin grumos.",
+   "Sofríe la cebolla, el chile, el ajo y el tomate con el achiote en el aceite 8 minutos.",
+   "Añade la carne y la masa disuelta y cuece 15 minutos a fuego bajo, moviendo, hasta que espese como un atole.",
+   "Añade el jugo de naranja, la hierbabuena y el resto de la sal. Cuece 5 minutos y sirve."
+  ],
+  "tips": [
+   "Mueve sin parar después de la masa: se pega.",
+   "La naranja agria y la hierbabuena al final le dan su frescura."
+  ],
+  "video": "indio viejo nicaragua receta"
+ },
+ "en": {
+  "name": "Indio Viejo (Nicaraguan Beef and Masa Stew)",
+  "blurb": "A thick stew of shredded beef with corn masa, sour orange and mint. One of Nicaragua's oldest dishes.",
+  "ing": [
+   {
+    "n": "beef flank"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "corn masa"
+   },
+   {
+    "n": "sour orange juice"
+   },
+   {
+    "n": "mint"
+   }
+  ],
+  "steps": [
+   "Simmer the beef in the water with 1 teaspoon of salt for 90 minutes. Shred it and keep the broth.",
+   "Dissolve the masa in 1 litre of the warm broth, without lumps.",
+   "Cook the onion, pepper, garlic and tomato with the annatto in the oil for 8 minutes.",
+   "Add the beef and dissolved masa and cook 15 minutes on low, stirring, until thick like porridge.",
+   "Add the orange juice, mint and the rest of the salt. Cook 5 minutes and serve."
+  ],
+  "tips": [
+   "Stir constantly after the masa goes in: it sticks.",
+   "The sour orange and mint at the end give it freshness."
+  ],
+  "video": "indio viejo recipe"
+ },
+ "added": "2026-09-30"
+}

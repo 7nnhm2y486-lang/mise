@@ -1,0 +1,207 @@
+{
+ "id": "kak-ik",
+ "country": "Guatemala",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 120,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "turkey",
+   "role": "protein"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomatillo",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Kak'ik",
+  "blurb": "El caldo rojo q'eqchi' de pavo con chiles tostados, achiote y hierbabuena. Patrimonio de Guatemala.",
+  "ing": [
+   {
+    "n": "pavo en piezas (muslos y alas)"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "tomates"
+   },
+   {
+    "n": "miltomates (tomatillos)"
+   },
+   {
+    "n": "chiles guaque (guajillo)",
+    "note": "sin semillas"
+   },
+   {
+    "n": "chile pasa (ancho)",
+    "note": "sin semillas"
+   },
+   {
+    "n": "chiles cobaneros o de árbol"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "achiote en polvo"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "hierbabuena"
+   }
+  ],
+  "steps": [
+   "Cuece el pavo en el agua con la sal 60 minutos, espumando.",
+   "Tuesta en comal los tomates, los miltomates, la cebolla y el ajo hasta que estén manchados. Tuesta los chiles 30 segundos.",
+   "Licúa todo lo tostado con el achiote y 500 ml del caldo del pavo. Cuela a la olla.",
+   "Añade el cilantro y la hierbabuena atados y cuece 30 minutos más.",
+   "Saca las hierbas y sirve con arroz y tamalitos."
+  ],
+  "tips": [
+   "El chile cobanero es ahumado y muy picante: usa 1 si prefieres suave.",
+   "Sirve una pieza de pavo en cada plato con bastante caldo."
+  ],
+  "video": "kak ik guatemala receta"
+ },
+ "en": {
+  "name": "Kak'ik (Guatemalan Turkey Soup)",
+  "blurb": "The red Q'eqchi' turkey broth with toasted chiles, annatto and mint. A national heritage dish of Guatemala.",
+  "ing": [
+   {
+    "n": "turkey pieces (thighs and wings)"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "guajillo chiles",
+    "note": "seeded"
+   },
+   {
+    "n": "ancho chile",
+    "note": "seeded"
+   },
+   {
+    "n": "cobanero or árbol chiles"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "mint"
+   }
+  ],
+  "steps": [
+   "Simmer the turkey in the water with the salt for 60 minutes, skimming.",
+   "Char the tomatoes, tomatillos, onion and garlic on a griddle until spotted. Toast the chiles for 30 seconds.",
+   "Blend everything charred with the annatto and 500 ml of the turkey broth. Strain into the pot.",
+   "Add the cilantro and mint tied in a bundle and simmer 30 minutes more.",
+   "Remove the herbs and serve with rice and small tamales."
+  ],
+  "tips": [
+   "Cobanero chile is smoky and very hot: use 1 if you prefer it mild.",
+   "Serve a piece of turkey in each bowl with plenty of broth."
+  ],
+  "video": "kak ik recipe"
+ },
+ "added": "2026-09-30"
+}

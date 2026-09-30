@@ -1,0 +1,150 @@
+{
+ "id": "sancocho-panameno",
+ "country": "Panama",
+ "countryEs": "Panamá",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 90,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Sancocho panameño",
+  "blurb": "El sancocho de Panamá es de gallina, ñame y culantro, nada más. El ñame se deshace y espesa el caldo.",
+  "ing": [
+   {
+    "n": "gallina o pollo en presas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "ñame",
+    "note": "pelado, en trozos"
+   },
+   {
+    "n": "culantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Cuece la gallina con el agua, la cebolla, el ajo, el orégano y la sal 60 minutos (35 si es pollo).",
+   "Añade el ñame y cuece 25 minutos, hasta que esté blando y empiece a deshacerse.",
+   "Añade el culantro y cuece 5 minutos.",
+   "Sirve con arroz blanco aparte."
+  ],
+  "tips": [
+   "El culantro de hoja ancha es el que manda; el cilantro sirve pero sabe más suave.",
+   "Aplasta unos trozos de ñame contra la olla si quieres más espeso."
+  ],
+  "video": "sancocho panameño receta"
+ },
+ "en": {
+  "name": "Panamanian Sancocho",
+  "blurb": "Panama's sancocho is hen, yam and culantro, nothing more. The yam melts and thickens the broth.",
+  "ing": [
+   {
+    "n": "hen or chicken pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "yam (ñame)",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "culantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Simmer the hen with the water, onion, garlic, oregano and salt for 60 minutes (35 if using chicken).",
+   "Add the yam and cook 25 minutes, until soft and starting to break down.",
+   "Add the culantro and cook 5 minutes.",
+   "Serve with white rice on the side."
+  ],
+  "tips": [
+   "Broad-leaf culantro is what gives it its flavour; cilantro works but tastes milder.",
+   "Mash a few pieces of yam against the pot if you want it thicker."
+  ],
+  "video": "panamanian sancocho recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,181 @@
+{
+ "id": "chivito",
+ "country": "Uruguay",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 2,
+   "u": "",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "slice",
+   "k": "ham",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "slice",
+   "k": "mozzarella",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "strip",
+   "k": "bacon",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "leaf",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "garnish"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "mayo",
+   "role": "spread"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Chivito uruguayo",
+  "blurb": "El sándwich nacional de Uruguay: lomo fino, jamón, mozzarella, panceta, huevo, lechuga, tomate y mayonesa.",
+  "ing": [
+   {
+    "n": "bifes finos de lomo"
+   },
+   {
+    "n": "panes de hamburguesa grandes"
+   },
+   {
+    "n": "jamón cocido"
+   },
+   {
+    "n": "mozzarella"
+   },
+   {
+    "n": "panceta"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "hojas de lechuga"
+   },
+   {
+    "n": "tomate",
+    "note": "en rodajas"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Fríe la panceta hasta que esté crujiente. Fríe los huevos en la misma grasa.",
+   "Sala los bifes y cocínalos a fuego fuerte 1 minuto por lado. Pon encima el jamón y la mozzarella, tapa 1 minuto para que se funda.",
+   "Tuesta los panes.",
+   "Unta con mayonesa y arma: lechuga, tomate, bife con jamón y queso, panceta y huevo.",
+   "Sirve con papas fritas."
+  ],
+  "tips": [
+   "El bife debe ser muy fino para que el sándwich se pueda morder.",
+   "Sin pan, en plato con papas fritas, se llama chivito al plato."
+  ],
+  "video": "chivito uruguayo receta"
+ },
+ "en": {
+  "name": "Chivito (Uruguayan Steak Sandwich)",
+  "blurb": "Uruguay's national sandwich: thin tenderloin, ham, mozzarella, bacon, egg, lettuce, tomato and mayonnaise.",
+  "ing": [
+   {
+    "n": "thin beef tenderloin steaks"
+   },
+   {
+    "n": "large burger buns"
+   },
+   {
+    "n": "cooked ham"
+   },
+   {
+    "n": "mozzarella"
+   },
+   {
+    "n": "bacon"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "lettuce leaves"
+   },
+   {
+    "n": "tomato",
+    "note": "sliced"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Fry the bacon until crisp. Fry the eggs in the same fat.",
+   "Salt the steaks and sear over high heat for 1 minute per side. Top with the ham and mozzarella, cover 1 minute to melt.",
+   "Toast the buns.",
+   "Spread with mayonnaise and build: lettuce, tomato, steak with ham and cheese, bacon and egg.",
+   "Serve with fries."
+  ],
+  "tips": [
+   "The steak must be very thin so the sandwich can be bitten.",
+   "Without bread, on a plate with fries, it's a chivito al plato."
+  ],
+  "video": "chivito recipe"
+ },
+ "added": "2026-09-30"
+}

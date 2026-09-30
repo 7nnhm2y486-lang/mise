@@ -1,0 +1,193 @@
+{
+ "id": "vori-vori",
+ "country": "Paraguay",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Vori vori",
+  "blurb": "Sopa paraguaya de pollo con bolitas de maíz y queso que se cuecen en el caldo. Para los días de frío.",
+  "ing": [
+   {
+    "n": "pollo en presas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento rojo",
+    "note": "picado"
+   },
+   {
+    "n": "zanahoria",
+    "note": "en cubos"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "harina de maíz",
+    "note": "para las bolitas"
+   },
+   {
+    "n": "queso Paraguay o queso fresco",
+    "note": "rallado"
+   },
+   {
+    "n": "agua caliente",
+    "note": "para las bolitas"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el pimiento y la zanahoria en el aceite 8 minutos. Añade el pollo, el agua y la sal y cuece 40 minutos.",
+   "Mezcla la harina de maíz con el queso y el agua caliente hasta tener una masa. Forma bolitas de 2 centímetros.",
+   "Saca el pollo, desmenúzalo y regrésalo.",
+   "Echa las bolitas al caldo hirviendo y cuece 15 minutos, moviendo con cuidado, hasta que estén firmes y el caldo espese.",
+   "Sirve con perejil."
+  ],
+  "tips": [
+   "Si las bolitas se deshacen, a la masa le falta queso o le sobra agua.",
+   "El nombre viene de bori, bolita en guaraní."
+  ],
+  "video": "vori vori receta"
+ },
+ "en": {
+  "name": "Vori Vori (Chicken Soup with Corn Dumplings)",
+  "blurb": "Paraguayan chicken soup with corn and cheese dumplings cooked in the broth. For cold days.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "carrot",
+    "note": "diced"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cornmeal",
+    "note": "for the dumplings"
+   },
+   {
+    "n": "Paraguayan cheese or queso fresco",
+    "note": "grated"
+   },
+   {
+    "n": "hot water",
+    "note": "for the dumplings"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Cook the onion, bell pepper and carrot in the oil for 8 minutes. Add the chicken, water and salt and simmer 40 minutes.",
+   "Mix the cornmeal with the cheese and hot water into a dough. Roll into 2 centimetre balls.",
+   "Lift out the chicken, shred it and return it.",
+   "Drop the balls into the boiling broth and cook 15 minutes, stirring gently, until firm and the broth thickens.",
+   "Serve with parsley."
+  ],
+  "tips": [
+   "If the dumplings fall apart, the dough needs more cheese or less water.",
+   "The name comes from bori, Guaraní for little ball."
+  ],
+  "video": "vori vori recipe"
+ },
+ "added": "2026-09-30"
+}

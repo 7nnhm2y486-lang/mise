@@ -1,0 +1,134 @@
+{
+ "id": "chipa",
+ "country": "Paraguay",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 45,
+ "serves": 12,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "cassavastarch",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "queso",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Chipá",
+  "blurb": "Panecitos paraguayos de almidón de mandioca y queso, con anís. Crujientes por fuera, densos y elásticos por dentro. Sin trigo.",
+  "ing": [
+   {
+    "n": "almidón de mandioca"
+   },
+   {
+    "n": "queso Paraguay o queso fresco firme",
+    "note": "rallado"
+   },
+   {
+    "n": "grasa de cerdo"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "anís en grano"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Bate la grasa con los huevos hasta que esté cremosa.",
+   "Añade el queso, el anís y la sal.",
+   "Añade el almidón y la leche de a poco y amasa hasta que la masa esté lisa y no se pegue.",
+   "Forma 12 roscas o bolas y ponlas en una bandeja con papel.",
+   "Calienta el horno a 200 °C. Hornea 20 minutos, hasta que estén doradas."
+  ],
+  "tips": [
+   "Si la masa se agrieta, añade un poco de leche.",
+   "Se comen el mismo día; al siguiente, recaliéntalas 3 minutos."
+  ],
+  "video": "chipa paraguaya receta"
+ },
+ "en": {
+  "name": "Chipa (Paraguayan Cheese Bread)",
+  "blurb": "Paraguayan rolls of tapioca starch and cheese with aniseed. Crisp outside, dense and chewy inside. No wheat.",
+  "ing": [
+   {
+    "n": "tapioca starch"
+   },
+   {
+    "n": "Paraguayan cheese or firm fresh cheese",
+    "note": "grated"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "aniseed"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Beat the fat with the eggs until creamy.",
+   "Add the cheese, aniseed and salt.",
+   "Add the starch and milk a little at a time and knead until smooth and not sticky.",
+   "Shape 12 rings or balls and set them on a lined tray.",
+   "Heat the oven to 200 °C. Bake 20 minutes, until golden."
+  ],
+  "tips": [
+   "If the dough cracks, add a little milk.",
+   "Eat them the same day; the next day, reheat for 3 minutes."
+  ],
+  "video": "chipa recipe"
+ },
+ "added": "2026-09-30"
+}
