@@ -1,0 +1,213 @@
+{
+ "id": "arroz-de-marisco",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 1.2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "prawn",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "clam",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "mussel",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Arroz de marisco",
+  "blurb": "Arroz caldoso con gambas, almejas y mejillones, lleno de cilantro. El arroz de las marisquerías portuguesas.",
+  "ing": [
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "tomates maduros",
+    "note": "picados"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "arroz de grano medio"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "gambas enteras"
+   },
+   {
+    "n": "almejas"
+   },
+   {
+    "n": "mejillones"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Pela las gambas y hierve las cáscaras en el agua 15 minutos. Cuela.",
+   "Sofríe la cebolla, el ajo y el pimiento en el aceite 6 minutos. Añade el tomate y cocina 8 minutos.",
+   "Añade el vino, el arroz, el caldo y la sal y cuece 12 minutos.",
+   "Añade las almejas, los mejillones y las gambas y cuece 5 minutos, hasta que se abran.",
+   "Termina con el cilantro y sirve de inmediato: debe quedar caldoso."
+  ],
+  "tips": [
+   "Tira las almejas y los mejillones que no se abran.",
+   "Sírvelo en cuanto esté: el arroz sigue absorbiendo."
+  ],
+  "video": "arroz de marisco português"
+ },
+ "en": {
+  "name": "Arroz de Marisco (Portuguese Seafood Rice)",
+  "blurb": "Soupy rice with prawns, clams and mussels, loaded with coriander. The rice of Portuguese seafood houses.",
+  "ing": [
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "ripe tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "medium-grain rice"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "whole prawns"
+   },
+   {
+    "n": "clams"
+   },
+   {
+    "n": "mussels"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Peel the prawns and boil the shells in the water for 15 minutes. Strain.",
+   "Cook the onion, garlic and pepper in the oil for 6 minutes. Add the tomato and cook 8 minutes.",
+   "Add the wine, rice, stock and salt and cook 12 minutes.",
+   "Add the clams, mussels and prawns and cook 5 minutes, until they open.",
+   "Finish with the coriander and serve at once: it should be soupy."
+  ],
+  "tips": [
+   "Discard any clams or mussels that don't open.",
+   "Serve as soon as it's ready: the rice keeps absorbing."
+  ],
+  "video": "portuguese seafood rice"
+ },
+ "added": "2026-09-30"
+}

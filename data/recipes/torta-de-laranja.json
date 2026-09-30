@@ -1,0 +1,109 @@
+{
+ "id": "torta-de-laranja",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 45,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 6,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "cornstarch",
+   "role": "structure"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "sugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Torta de laranja",
+  "blurb": "Brazo de naranja sin harina, húmedo y con piel caramelizada. Clásico de pastelería portuguesa.",
+  "ing": [
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "naranjas",
+    "note": "ralladura y jugo"
+   },
+   {
+    "n": "maicena"
+   },
+   {
+    "n": "azúcar (para el papel)"
+   }
+  ],
+  "steps": [
+   "Bate los huevos con el azúcar 5 minutos.",
+   "Añade la ralladura, 150 ml de jugo de naranja y la maicena.",
+   "Forra una bandeja de 30 x 40 cm con papel, engrásalo y espolvorea el azúcar.",
+   "Vierte la mezcla y hornea a 200 °C 15 minutos.",
+   "Vuelca sobre un paño con azúcar, retira el papel y enrolla en caliente."
+  ],
+  "tips": [
+   "Enróllala en caliente o se agrieta.",
+   "La superficie arrugada es la marca de una buena torta."
+  ],
+  "video": "torta de laranja"
+ },
+ "en": {
+  "name": "Torta de Laranja (Portuguese Orange Roll)",
+  "blurb": "A flourless orange roll, moist with a caramelised skin. A Portuguese bakery classic.",
+  "ing": [
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "oranges",
+    "note": "zest and juice"
+   },
+   {
+    "n": "cornflour"
+   },
+   {
+    "n": "sugar (for the paper)"
+   }
+  ],
+  "steps": [
+   "Whisk the eggs with the sugar for 5 minutes.",
+   "Add the zest, 150 ml of orange juice and the cornflour.",
+   "Line a 30 x 40 cm tray with paper, grease it and sprinkle with the sugar.",
+   "Pour in the mixture and bake at 200 °C for 15 minutes.",
+   "Turn onto a sugared cloth, peel off the paper and roll up while hot."
+  ],
+  "tips": [
+   "Roll it hot or it will crack.",
+   "The wrinkled top is the mark of a good torta."
+  ],
+  "video": "portuguese orange roll"
+ },
+ "added": "2026-09-30"
+}

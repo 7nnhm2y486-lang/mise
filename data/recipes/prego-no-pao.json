@@ -1,0 +1,131 @@
+{
+ "id": "prego-no-pao",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "slice",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Prego no pão",
+  "blurb": "Filete fino con ajo en un panecillo crujiente. El bocadillo de las tascas portuguesas.",
+  "ing": [
+   {
+    "n": "filetes finos de ternera"
+   },
+   {
+    "n": "ajo",
+    "note": "laminado"
+   },
+   {
+    "n": "sal gruesa"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "panecillos portugueses (papo-secos)"
+   },
+   {
+    "n": "laurel"
+   }
+  ],
+  "steps": [
+   "Frota los filetes con el ajo y la sal y deja reposar 15 minutos.",
+   "Calienta el aceite, la mantequilla y el laurel en una sartén a fuego fuerte.",
+   "Cocina los filetes con el ajo 1 minuto por lado.",
+   "Abre los panes, mójalos en el jugo de la sartén y pon un filete en cada uno."
+  ],
+  "tips": [
+   "Mojar el pan en el jugo es el secreto.",
+   "No cocines de más la carne: debe quedar jugosa."
+  ],
+  "video": "prego no pão"
+ },
+ "en": {
+  "name": "Prego no Pão (Portuguese Steak Roll)",
+  "blurb": "A thin garlicky steak in a crusty roll. The sandwich of Portuguese taverns.",
+  "ing": [
+   {
+    "n": "thin beef steaks"
+   },
+   {
+    "n": "garlic",
+    "note": "sliced"
+   },
+   {
+    "n": "coarse salt"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "crusty Portuguese rolls"
+   },
+   {
+    "n": "bay leaf"
+   }
+  ],
+  "steps": [
+   "Rub the steaks with the garlic and salt and rest 15 minutes.",
+   "Heat the oil, butter and bay in a pan over high heat.",
+   "Cook the steaks with the garlic for 1 minute per side.",
+   "Split the rolls, dip them in the pan juices and put a steak in each."
+  ],
+  "tips": [
+   "Dipping the bread in the juices is the secret.",
+   "Don't overcook the beef: it should stay juicy."
+  ],
+  "video": "portuguese steak sandwich"
+ },
+ "added": "2026-09-30"
+}

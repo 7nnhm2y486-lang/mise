@@ -1,0 +1,203 @@
+{
+ "id": "caldeirada-de-peixe",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Caldeirada de peixe",
+  "blurb": "Guiso de pescados variados en capas con patata, pimiento y tomate. El guiso de los pescadores portugueses.",
+  "ing": [
+   {
+    "n": "pescados variados (rape, raya, pescadilla) en rodajas"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebollas",
+    "note": "en rodajas"
+   },
+   {
+    "n": "ajo",
+    "note": "laminado"
+   },
+   {
+    "n": "pimientos rojos",
+    "note": "en tiras"
+   },
+   {
+    "n": "tomates maduros",
+    "note": "en rodajas"
+   },
+   {
+    "n": "patatas",
+    "note": "en rodajas"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sala el pescado.",
+   "En una olla ancha, pon una capa de cebolla, ajo, pimiento, tomate y patata con aceite y pimentón.",
+   "Añade una capa de pescado y repite las capas, terminando con tomate. Añade el laurel y el perejil.",
+   "Riega con el vino y el resto del aceite.",
+   "Tapa y cuece 35 minutos a fuego bajo, moviendo la olla sin remover."
+  ],
+  "tips": [
+   "No remuevas: se mueve la olla para que el pescado no se rompa.",
+   "Usa pescados de carne firme."
+  ],
+  "video": "caldeirada de peixe portuguesa"
+ },
+ "en": {
+  "name": "Caldeirada (Portuguese Fish Stew)",
+  "blurb": "A layered stew of mixed fish with potato, pepper and tomato. The Portuguese fishermen's stew.",
+  "ing": [
+   {
+    "n": "mixed fish steaks (monkfish, skate, whiting)"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onions",
+    "note": "sliced"
+   },
+   {
+    "n": "garlic",
+    "note": "sliced"
+   },
+   {
+    "n": "red bell peppers",
+    "note": "in strips"
+   },
+   {
+    "n": "ripe tomatoes",
+    "note": "sliced"
+   },
+   {
+    "n": "potatoes",
+    "note": "sliced"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Salt the fish.",
+   "In a wide pot, layer onion, garlic, pepper, tomato and potato with oil and paprika.",
+   "Add a layer of fish and repeat, ending with tomato. Add the bay and parsley.",
+   "Pour over the wine and the rest of the oil.",
+   "Cover and cook 35 minutes on low, shaking the pot rather than stirring."
+  ],
+  "tips": [
+   "Don't stir: shake the pot so the fish stays whole.",
+   "Use firm-fleshed fish."
+  ],
+  "video": "portuguese caldeirada"
+ },
+ "added": "2026-09-30"
+}

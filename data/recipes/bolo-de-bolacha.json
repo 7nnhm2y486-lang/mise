@@ -1,0 +1,107 @@
+{
+ "id": "bolo-de-bolacha",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 40,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "mariebiscuit",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "coffee",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  }
+ ],
+ "es": {
+  "name": "Bolo de bolacha",
+  "blurb": "Pastel sin horno de galletas mojadas en café con crema de mantequilla. Postre de las casas portuguesas.",
+  "ing": [
+   {
+    "n": "galletas María"
+   },
+   {
+    "n": "café fuerte frío"
+   },
+   {
+    "n": "mantequilla blanda"
+   },
+   {
+    "n": "azúcar glas"
+   },
+   {
+    "n": "yemas de huevo pasteurizadas"
+   }
+  ],
+  "steps": [
+   "Bate la mantequilla con el azúcar glas 5 minutos. Añade las yemas y bate hasta que esté esponjosa.",
+   "Moja cada galleta en el café un segundo.",
+   "Alterna capas de galletas y crema en un plato, formando una torre.",
+   "Cubre todo con crema y espolvorea galleta molida.",
+   "Refrigera 4 horas."
+  ],
+  "tips": [
+   "Moja las galletas muy rápido para que no se deshagan.",
+   "Usa yemas pasteurizadas porque no se cuecen."
+  ],
+  "video": "bolo de bolacha"
+ },
+ "en": {
+  "name": "Bolo de Bolacha (Portuguese Biscuit Cake)",
+  "blurb": "A no-bake cake of coffee-dipped biscuits and butter cream. A Portuguese home dessert.",
+  "ing": [
+   {
+    "n": "Marie biscuits"
+   },
+   {
+    "n": "strong coffee, cooled"
+   },
+   {
+    "n": "soft butter"
+   },
+   {
+    "n": "icing sugar"
+   },
+   {
+    "n": "pasteurised egg yolks"
+   }
+  ],
+  "steps": [
+   "Beat the butter with the icing sugar for 5 minutes. Add the yolks and beat until fluffy.",
+   "Dip each biscuit in the coffee for a second.",
+   "Alternate layers of biscuits and cream on a plate, building a stack.",
+   "Cover with cream and sprinkle with crushed biscuit.",
+   "Chill 4 hours."
+  ],
+  "tips": [
+   "Dip the biscuits very briefly so they don't fall apart.",
+   "Use pasteurised yolks because they aren't cooked."
+  ],
+  "video": "portuguese biscuit cake"
+ },
+ "added": "2026-09-30"
+}

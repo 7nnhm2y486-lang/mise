@@ -1,0 +1,81 @@
+{
+ "id": "baba-de-camelo",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 180,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 397,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "aerate"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "almond",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Baba de camelo",
+  "blurb": "Mousse de leche condensada caramelizada. Postre portugués de tres ingredientes.",
+  "ing": [
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "huevos pasteurizados, separadas claras y yemas"
+   },
+   {
+    "n": "almendra laminada tostada"
+   }
+  ],
+  "steps": [
+   "Hierve la lata cerrada de leche condensada cubierta de agua 2 horas y media. Deja enfriar del todo.",
+   "Abre la lata y bate el dulce con las yemas.",
+   "Bate las claras a punto de nieve e incorpóralas con movimientos envolventes.",
+   "Reparte en copas, refrigera 2 horas y decora con la almendra."
+  ],
+  "tips": [
+   "La lata debe estar siempre cubierta de agua mientras hierve.",
+   "Usa huevos pasteurizados porque no se cuecen."
+  ],
+  "video": "baba de camelo"
+ },
+ "en": {
+  "name": "Baba de Camelo (Portuguese Caramel Mousse)",
+  "blurb": "A mousse of caramelised condensed milk. A three-ingredient Portuguese dessert.",
+  "ing": [
+   {
+    "n": "condensed milk"
+   },
+   {
+    "n": "pasteurised eggs, separated"
+   },
+   {
+    "n": "toasted flaked almonds"
+   }
+  ],
+  "steps": [
+   "Boil the sealed can of condensed milk covered in water for 2 and a half hours. Cool completely.",
+   "Open the can and beat the caramel with the yolks.",
+   "Whisk the whites to stiff peaks and fold them in.",
+   "Divide between glasses, chill 2 hours and top with the almonds."
+  ],
+  "tips": [
+   "Keep the can covered with water at all times while it boils.",
+   "Use pasteurised eggs because they aren't cooked."
+  ],
+  "video": "portuguese caramel mousse"
+ },
+ "added": "2026-09-30"
+}

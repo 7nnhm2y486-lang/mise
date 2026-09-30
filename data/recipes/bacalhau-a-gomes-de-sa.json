@@ -1,0 +1,165 @@
+{
+ "id": "bacalhau-a-gomes-de-sa",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 700,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "olives",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Bacalhau à Gomes de Sá",
+  "blurb": "Bacalao desmigado con patata, cebolla y aceite, al horno con huevo y aceitunas. Receta de Oporto.",
+  "ing": [
+   {
+    "n": "bacalao salado desalado"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "patatas",
+    "note": "cocidas en rodajas"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebollas",
+    "note": "en rodajas"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "huevos duros",
+    "note": "en rodajas"
+   },
+   {
+    "n": "aceitunas negras"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Calienta la leche, apaga y deja el bacalao en ella 1 hora. Escurre y desmíga.",
+   "Pocha la cebolla y el ajo en el aceite 10 minutos.",
+   "Mezcla con la patata y el bacalao.",
+   "Pasa a una fuente y hornea a 200 °C 15 minutos.",
+   "Decora con el huevo, las aceitunas y el perejil."
+  ],
+  "tips": [
+   "Remojar el bacalao en leche lo suaviza.",
+   "No escatimes el aceite: es parte del plato."
+  ],
+  "video": "bacalhau à gomes de sá"
+ },
+ "en": {
+  "name": "Bacalhau à Gomes de Sá (Porto Salt Cod Bake)",
+  "blurb": "Flaked salt cod with potato, onion and olive oil, baked and topped with egg and olives. A recipe from Porto.",
+  "ing": [
+   {
+    "n": "desalted salt cod"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "potatoes",
+    "note": "boiled and sliced"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onions",
+    "note": "sliced"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "sliced"
+   },
+   {
+    "n": "black olives"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Heat the milk, turn off and leave the cod in it for 1 hour. Drain and flake.",
+   "Soften the onion and garlic in the oil for 10 minutes.",
+   "Mix with the potato and cod.",
+   "Tip into a dish and bake at 200 °C for 15 minutes.",
+   "Top with the egg, olives and parsley."
+  ],
+  "tips": [
+   "Soaking the cod in milk makes it tender.",
+   "Don't skimp on the oil: it's part of the dish."
+  ],
+  "video": "portuguese gomes de sa"
+ },
+ "added": "2026-09-30"
+}

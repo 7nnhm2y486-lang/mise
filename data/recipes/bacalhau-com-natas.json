@@ -1,0 +1,199 @@
+{
+ "id": "bacalhau-com-natas",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "cream",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "parmesan",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Bacalhau com natas",
+  "blurb": "Bacalao con patata frita y cebolla en salsa cremosa, gratinado. Uno de los platos más populares de Portugal.",
+  "ing": [
+   {
+    "n": "bacalao salado desalado",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "patatas",
+    "note": "en daditos"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebollas",
+    "note": "en tiras finas"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "nata"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "queso rallado"
+   }
+  ],
+  "steps": [
+   "Fríe la patata en el aceite hasta que esté dorada. Escurre.",
+   "Pocha la cebolla y el ajo en el aceite de oliva 10 minutos. Añade el bacalao y cocina 5 minutos.",
+   "Derrite la mantequilla, añade la harina y cocina 1 minuto. Añade la leche batiendo y cuece 5 minutos. Añade la nata y la nuez moscada.",
+   "Mezcla el bacalao, la patata y dos tercios de la salsa. Pasa a una fuente y cubre con el resto de la salsa y el queso.",
+   "Gratina a 220 °C 20 minutos."
+  ],
+  "tips": [
+   "Prueba antes de salar: el bacalao aporta sal.",
+   "Desala el bacalao 36 horas, cambiando el agua a menudo."
+  ],
+  "video": "bacalhau com natas"
+ },
+ "en": {
+  "name": "Bacalhau com Natas (Creamy Salt Cod Bake)",
+  "blurb": "Salt cod with fried potato and onion in a creamy sauce, gratinéed. One of Portugal's most popular dishes.",
+  "ing": [
+   {
+    "n": "desalted salt cod",
+    "note": "flaked"
+   },
+   {
+    "n": "potatoes",
+    "note": "small dice"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onions",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "single cream"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "grated cheese"
+   }
+  ],
+  "steps": [
+   "Fry the potato in the oil until golden. Drain.",
+   "Soften the onion and garlic in the olive oil for 10 minutes. Add the cod and cook 5 minutes.",
+   "Melt the butter, add the flour and cook 1 minute. Whisk in the milk and cook 5 minutes. Add the cream and nutmeg.",
+   "Mix the cod, potato and two thirds of the sauce. Tip into a dish and top with the rest of the sauce and the cheese.",
+   "Bake at 220 °C for 20 minutes."
+  ],
+  "tips": [
+   "Taste before salting: the cod adds salt.",
+   "Soak the cod 36 hours, changing the water often."
+  ],
+  "video": "portuguese salt cod cream bake"
+ },
+ "added": "2026-09-30"
+}

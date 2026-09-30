@@ -1,0 +1,147 @@
+{
+ "id": "pataniscas-de-bacalhau",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "snack",
+ "time": 40,
+ "serves": 16,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "pepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Pataniscas de bacalhau",
+  "blurb": "Buñuelos planos de bacalao con perejil y cebolla. Tapa de las tascas de Lisboa.",
+  "ing": [
+   {
+    "n": "bacalao salado desalado",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "pimienta"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Bate la harina, los huevos y el agua hasta tener una masa lisa.",
+   "Añade el bacalao, la cebolla, el perejil y la pimienta.",
+   "Fríe cucharadas de masa a 180 °C, aplanándolas, 2 minutos por lado.",
+   "Escurre en papel."
+  ],
+  "tips": [
+   "Prueba el bacalao: si está salado, remójalo más.",
+   "Deben quedar planas e irregulares."
+  ],
+  "video": "pataniscas de bacalhau"
+ },
+ "en": {
+  "name": "Pataniscas de Bacalhau (Salt Cod Fritters)",
+  "blurb": "Flat salt cod fritters with parsley and onion. A tapa in Lisbon's taverns.",
+  "ing": [
+   {
+    "n": "desalted salt cod",
+    "note": "flaked"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "pepper"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Whisk the flour, eggs and water into a smooth batter.",
+   "Add the cod, onion, parsley and pepper.",
+   "Fry spoonfuls at 180 °C, flattening them, for 2 minutes per side.",
+   "Drain on paper."
+  ],
+  "tips": [
+   "Taste the cod: if salty, soak it longer.",
+   "They should be flat and irregular."
+  ],
+  "video": "portuguese salt cod fritters"
+ },
+ "added": "2026-09-30"
+}
