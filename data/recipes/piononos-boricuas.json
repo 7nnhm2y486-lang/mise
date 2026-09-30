@@ -1,0 +1,187 @@
+{
+ "id": "piononos-boricuas",
+ "country": "Puerto Rico",
+ "region": "caribbean",
+ "course": "starter",
+ "time": 60,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "olives",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  }
+ ],
+ "es": {
+  "name": "Piononos boricuas",
+  "blurb": "Tiras de plátano maduro enrolladas en círculo, rellenas de picadillo y fritas con huevo. Fritura puertorriqueña.",
+  "ing": [
+   {
+    "n": "plátanos maduros"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "aceite (para el relleno)"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "salsa de tomate natural"
+   },
+   {
+    "n": "aceitunas",
+    "note": "picadas"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos batidos"
+   }
+  ],
+  "steps": [
+   "Corta los plátanos a lo largo en 4 tiras cada uno y fríelas 2 minutos, sin dorar. Escurre.",
+   "Sofríe la cebolla, el pimiento y el ajo en el aceite del relleno 5 minutos. Añade la carne, el tomate, las aceitunas y la sal y cocina 12 minutos.",
+   "Forma un aro con cada tira de plátano, sujeta con un palillo y rellena con la carne.",
+   "Pasa cada pionono por el huevo por ambos lados.",
+   "Fríelos 2 minutos por lado hasta que estén dorados. Quita los palillos."
+  ],
+  "tips": [
+   "Los plátanos deben estar amarillos con manchas negras: así se doblan sin romperse.",
+   "Pon un poco de huevo en la sartén y apoya el pionono encima para sellar la base."
+  ],
+  "video": "piononos de plátano maduro"
+ },
+ "en": {
+  "name": "Piononos (Stuffed Plantain Rings)",
+  "blurb": "Ripe plantain strips curled into rings, filled with picadillo and fried in egg. A Puerto Rican fritter.",
+  "ing": [
+   {
+    "n": "ripe plantains"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "oil (for the filling)"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "minced beef"
+   },
+   {
+    "n": "tomato passata"
+   },
+   {
+    "n": "olives",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "beaten eggs"
+   }
+  ],
+  "steps": [
+   "Cut each plantain lengthways into 4 strips and fry them 2 minutes, without browning. Drain.",
+   "Cook the onion, pepper and garlic in the filling oil for 5 minutes. Add the beef, tomato, olives and salt and cook 12 minutes.",
+   "Curl each plantain strip into a ring, pin with a toothpick and fill with the beef.",
+   "Dip each pionono in the egg on both sides.",
+   "Fry 2 minutes per side until golden. Remove the toothpicks."
+  ],
+  "tips": [
+   "The plantains should be yellow with black spots: that way they bend without breaking.",
+   "Pour a little egg into the pan and set the pionono on it to seal the base."
+  ],
+  "video": "puerto rican piononos"
+ },
+ "added": "2026-09-30"
+}

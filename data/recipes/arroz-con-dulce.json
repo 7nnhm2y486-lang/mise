@@ -1,0 +1,169 @@
+{
+ "id": "arroz-con-dulce",
+ "country": "Puerto Rico",
+ "region": "caribbean",
+ "course": "sweet",
+ "time": 90,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 800,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Arroz con dulce",
+  "blurb": "Arroz cocido en leche de coco con jengibre, canela y clavo. El postre navideño de Puerto Rico.",
+  "ing": [
+   {
+    "n": "arroz de grano corto"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "trozo de jengibre",
+    "note": "en rodajas"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Remoja el arroz 1 hora y escúrrelo.",
+   "Hierve el agua con el jengibre, el clavo y la canela 10 minutos. Cuela.",
+   "Cuece el arroz en esa agua con la leche de coco y la sal 25 minutos, removiendo.",
+   "Añade el azúcar y las pasas y cuece 10 minutos más, hasta que espese.",
+   "Pasa a una fuente, deja enfriar y espolvorea la canela molida."
+  ],
+  "tips": [
+   "Remueve a menudo al final: el coco se pega fácil.",
+   "Se come frío, en cuadritos."
+  ],
+  "video": "arroz con dulce boricua"
+ },
+ "en": {
+  "name": "Arroz con Dulce (Coconut Rice Pudding)",
+  "blurb": "Rice cooked in coconut milk with ginger, cinnamon and clove. Puerto Rico's Christmas dessert.",
+  "ing": [
+   {
+    "n": "short-grain rice"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "piece of ginger",
+    "note": "sliced"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Soak the rice 1 hour and drain.",
+   "Boil the water with the ginger, cloves and cinnamon for 10 minutes. Strain.",
+   "Cook the rice in that water with the coconut milk and salt for 25 minutes, stirring.",
+   "Add the sugar and raisins and cook 10 minutes more, until thick.",
+   "Spread in a dish, cool and dust with the ground cinnamon."
+  ],
+  "tips": [
+   "Stir often at the end: coconut catches easily.",
+   "It's eaten cold, in squares."
+  ],
+  "video": "puerto rican arroz con dulce"
+ },
+ "added": "2026-09-30"
+}

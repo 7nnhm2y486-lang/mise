@@ -1,0 +1,149 @@
+{
+ "id": "bacalaitos",
+ "country": "Puerto Rico",
+ "region": "caribbean",
+ "course": "snack",
+ "time": 40,
+ "serves": 16,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Bacalaítos",
+  "blurb": "Frituras finas y crujientes de bacalao. Se compran en los kioskos de la playa de Piñones en Puerto Rico.",
+  "ing": [
+   {
+    "n": "bacalao salado desalado",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "culantro o cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "achiote molido"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Desala el bacalao 24 horas en agua fría, cambiando el agua 3 veces. Desmenúzalo.",
+   "Mezcla la harina, el polvo de hornear y el achiote. Añade el agua y bate hasta tener una masa líquida.",
+   "Añade el bacalao, el ajo y el culantro.",
+   "Fríe cucharones de masa a 180 °C 2 minutos por lado, extendiéndolos finos.",
+   "Escurre en papel y sirve caliente."
+  ],
+  "tips": [
+   "Prueba el bacalao antes de mezclar: si está salado, remójalo más.",
+   "Deben quedar finos y con bordes crujientes."
+  ],
+  "video": "bacalaítos puertorriqueños"
+ },
+ "en": {
+  "name": "Bacalaítos (Salt Cod Fritters)",
+  "blurb": "Thin, crisp salt cod fritters. Sold at the beach kiosks of Piñones, Puerto Rico.",
+  "ing": [
+   {
+    "n": "desalted salt cod",
+    "note": "flaked"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "culantro or coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Soak the cod for 24 hours in cold water, changing the water 3 times. Flake it.",
+   "Mix the flour, baking powder and annatto. Add the water and whisk to a runny batter.",
+   "Add the cod, garlic and culantro.",
+   "Fry ladlefuls of batter at 180 °C for 2 minutes per side, spreading them thin.",
+   "Drain on paper and serve hot."
+  ],
+  "tips": [
+   "Taste the cod before mixing: if it's salty, soak it longer.",
+   "They should be thin with crisp edges."
+  ],
+  "video": "puerto rican bacalaitos"
+ },
+ "added": "2026-09-30"
+}

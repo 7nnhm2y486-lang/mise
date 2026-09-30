@@ -1,0 +1,211 @@
+{
+ "id": "locrio-de-pollo",
+ "country": "Dominican Republic",
+ "region": "caribbean",
+ "course": "main",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "tomatopaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 900,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "olives",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Locrio de pollo",
+  "blurb": "Arroz con pollo dominicano, con el pollo dorado en azúcar quemada para darle color.",
+  "ing": [
+   {
+    "n": "pollo en presas pequeñas"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ají morrón",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de tomate"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceitunas"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Marina el pollo con el limón, el ajo, el orégano y la sal 30 minutos.",
+   "Calienta el aceite con el azúcar hasta que se ponga caramelo oscuro. Dora el pollo 8 minutos.",
+   "Añade la cebolla, el ají y la pasta de tomate y cocina 5 minutos.",
+   "Añade el agua y las aceitunas y hierve. Añade el arroz y cuece destapado hasta que se seque la superficie.",
+   "Tapa y cuece 20 minutos a fuego bajo."
+  ],
+  "tips": [
+   "Cuidado con el azúcar: si se quema de más amarga.",
+   "El concón del fondo es lo más buscado."
+  ],
+  "video": "locrio de pollo dominicano"
+ },
+ "en": {
+  "name": "Locrio de Pollo (Dominican Chicken and Rice)",
+  "blurb": "Dominican chicken and rice, with the chicken browned in burnt sugar for colour.",
+  "ing": [
+   {
+    "n": "chicken in small pieces"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "olives"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Marinate the chicken with the lime, garlic, oregano and salt for 30 minutes.",
+   "Heat the oil with the sugar until it turns dark caramel. Brown the chicken 8 minutes.",
+   "Add the onion, pepper and tomato paste and cook 5 minutes.",
+   "Add the water and olives and boil. Add the rice and cook uncovered until the surface dries.",
+   "Cover and cook 20 minutes on low."
+  ],
+  "tips": [
+   "Watch the sugar: if it burns too far it turns bitter.",
+   "The crust at the bottom, the concón, is the best part."
+  ],
+  "video": "dominican locrio de pollo"
+ },
+ "added": "2026-09-30"
+}

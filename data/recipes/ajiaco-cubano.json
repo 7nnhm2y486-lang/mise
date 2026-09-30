@@ -1,0 +1,275 @@
+{
+ "id": "ajiaco-cubano",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "soup",
+ "time": 150,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Ajiaco cubano",
+  "blurb": "El gran caldo campesino de Cuba: carnes y todas las viandas de la tierra, cocidas hasta que espesan el caldo.",
+  "ing": [
+   {
+    "n": "carne de cerdo",
+    "note": "en trozos"
+   },
+   {
+    "n": "falda de res",
+    "note": "en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "yuca",
+    "note": "en trozos"
+   },
+   {
+    "n": "malanga",
+    "note": "en trozos"
+   },
+   {
+    "n": "boniato",
+    "note": "en trozos"
+   },
+   {
+    "n": "calabaza",
+    "note": "en trozos"
+   },
+   {
+    "n": "plátano verde",
+    "note": "en rodajas"
+   },
+   {
+    "n": "mazorcas de maíz",
+    "note": "en rodajas de 3 cm"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ají pimiento",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "salsa de tomate natural"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "limón"
+   }
+  ],
+  "steps": [
+   "Cuece las carnes en el agua 60 minutos, espumando.",
+   "Añade la yuca, la malanga y el maíz y cuece 20 minutos.",
+   "Añade el boniato, la calabaza y el plátano y cuece 20 minutos más.",
+   "Sofríe la cebolla, el ají y el ajo en el aceite 6 minutos. Añade el tomate y el comino y cocina 5 minutos.",
+   "Añade el sofrito al caldo con la sal y cuece 15 minutos. Aplasta algunas viandas para espesar.",
+   "Sirve con unas gotas de limón."
+  ],
+  "tips": [
+   "La calabaza se deshace y le da color y cuerpo al caldo.",
+   "Mejor al día siguiente, como todo guiso."
+  ],
+  "video": "ajiaco cubano tradicional"
+ },
+ "en": {
+  "name": "Ajiaco Cubano (Cuban Root Vegetable Stew)",
+  "blurb": "Cuba's great country stew: meats and every root vegetable, cooked until they thicken the broth.",
+  "ing": [
+   {
+    "n": "pork shoulder",
+    "note": "in pieces"
+   },
+   {
+    "n": "beef flank",
+    "note": "in pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cassava",
+    "note": "in chunks"
+   },
+   {
+    "n": "malanga (taro)",
+    "note": "in chunks"
+   },
+   {
+    "n": "white sweet potato",
+    "note": "in chunks"
+   },
+   {
+    "n": "pumpkin",
+    "note": "in chunks"
+   },
+   {
+    "n": "green plantain",
+    "note": "sliced"
+   },
+   {
+    "n": "corn cobs",
+    "note": "in 3 cm rounds"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato passata"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "lime"
+   }
+  ],
+  "steps": [
+   "Simmer the meats in the water for 60 minutes, skimming.",
+   "Add the cassava, malanga and corn and cook 20 minutes.",
+   "Add the sweet potato, pumpkin and plantain and cook 20 minutes more.",
+   "Cook the onion, pepper and garlic in the oil for 6 minutes. Add the tomato and cumin and cook 5 minutes.",
+   "Stir this into the pot with the salt and cook 15 minutes. Crush some vegetables to thicken.",
+   "Serve with a squeeze of lime."
+  ],
+  "tips": [
+   "The pumpkin melts in and gives the broth colour and body.",
+   "Better the next day, like any stew."
+  ],
+  "video": "cuban ajiaco stew"
+ },
+ "added": "2026-09-30"
+}

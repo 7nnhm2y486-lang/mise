@@ -1,0 +1,105 @@
+{
+ "id": "morir-sonando",
+ "country": "Dominican Republic",
+ "region": "caribbean",
+ "course": "drink",
+ "time": 10,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "fruit",
+   "role": "liquid"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "ice",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Morir soñando",
+  "blurb": "Leche con jugo de naranja, bien fría. La bebida más querida de la República Dominicana.",
+  "ing": [
+   {
+    "n": "leche fría"
+   },
+   {
+    "n": "jugo de naranja"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "esencia de vainilla"
+   },
+   {
+    "n": "hielo"
+   }
+  ],
+  "steps": [
+   "Mezcla la leche con el azúcar y la vainilla hasta que se disuelva.",
+   "Pon el hielo en una jarra y añade la leche.",
+   "Añade el jugo de naranja poco a poco, removiendo sin parar.",
+   "Sirve de inmediato."
+  ],
+  "tips": [
+   "Todo debe estar muy frío y el jugo se añade a la leche, no al revés: así no se corta.",
+   "Hazlo justo antes de servir."
+  ],
+  "video": "morir soñando dominicano"
+ },
+ "en": {
+  "name": "Morir Soñando (Orange Milk Cooler)",
+  "blurb": "Ice-cold milk with orange juice. The Dominican Republic's best-loved drink.",
+  "ing": [
+   {
+    "n": "cold milk"
+   },
+   {
+    "n": "orange juice"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Mix the milk with the sugar and vanilla until dissolved.",
+   "Put the ice in a jug and add the milk.",
+   "Pour in the orange juice gradually, stirring constantly.",
+   "Serve at once."
+  ],
+  "tips": [
+   "Keep everything very cold and add the juice to the milk, not the other way round, so it doesn't curdle.",
+   "Make it just before serving."
+  ],
+  "video": "dominican morir sonando"
+ },
+ "added": "2026-09-30"
+}

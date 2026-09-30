@@ -1,0 +1,237 @@
+{
+ "id": "fricase-de-pollo",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "main",
+ "time": 75,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "olives",
+   "role": "umami"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Fricasé de pollo",
+  "blurb": "Pollo marinado en naranja agria y guisado con papas, aceitunas y pasas. Almuerzo de domingo cubano.",
+  "ing": [
+   {
+    "n": "pollo en presas"
+   },
+   {
+    "n": "naranjas agrias (o 2 naranjas y 1 limón)",
+    "note": "exprimidas"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ají pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "salsa de tomate natural"
+   },
+   {
+    "n": "vino seco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "papas",
+    "note": "en trozos"
+   },
+   {
+    "n": "aceitunas verdes"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Marina el pollo con el jugo de naranja, el ajo y la sal 1 hora.",
+   "Escurre el pollo y dóralo en el aceite 8 minutos. Sácalo.",
+   "Sofríe la cebolla y el ají 6 minutos. Añade el comino y el orégano.",
+   "Añade el tomate, el vino, el agua, la marinada y el pollo. Tapa y cuece 25 minutos.",
+   "Añade las papas, las aceitunas y las pasas y cuece 20 minutos más, hasta que las papas estén tiernas."
+  ],
+  "tips": [
+   "Sírvelo con arroz blanco.",
+   "Si la salsa queda muy líquida, destapa los últimos 10 minutos."
+  ],
+  "video": "fricasé de pollo cubano"
+ },
+ "en": {
+  "name": "Fricasé de Pollo (Cuban Chicken Fricassee)",
+  "blurb": "Chicken marinated in sour orange and stewed with potatoes, olives and raisins. Cuban Sunday lunch.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "sour oranges (or 2 oranges and 1 lime)",
+    "note": "juiced"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato passata"
+   },
+   {
+    "n": "dry white wine"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "potatoes",
+    "note": "in chunks"
+   },
+   {
+    "n": "green olives"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Marinate the chicken with the orange juice, garlic and salt for 1 hour.",
+   "Drain the chicken and brown it in the oil for 8 minutes. Remove.",
+   "Cook the onion and pepper for 6 minutes. Add the cumin and oregano.",
+   "Add the tomato, wine, water, marinade and chicken. Cover and simmer 25 minutes.",
+   "Add the potatoes, olives and raisins and cook 20 minutes more, until the potatoes are tender."
+  ],
+  "tips": [
+   "Serve with white rice.",
+   "If the sauce is thin, uncover for the last 10 minutes."
+  ],
+  "video": "cuban chicken fricassee"
+ },
+ "added": "2026-09-30"
+}

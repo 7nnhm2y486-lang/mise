@@ -1,0 +1,163 @@
+{
+ "id": "masitas-de-puerco",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "main",
+ "time": 120,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Masitas de puerco fritas",
+  "blurb": "Trozos de cerdo marinados en mojo, cocidos y luego fritos hasta quedar crujientes. Infaltables en la mesa cubana.",
+  "ing": [
+   {
+    "n": "paleta de cerdo",
+    "note": "en cubos de 4 cm"
+   },
+   {
+    "n": "naranjas agrias (o 2 naranjas y 1 limón)",
+    "note": "exprimidas"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "cebolla",
+    "note": "en aros finos"
+   }
+  ],
+  "steps": [
+   "Marina el cerdo con la naranja, el ajo, el comino, el orégano y la sal 2 horas.",
+   "Pon el cerdo con la marinada y el agua en una olla. Cuece tapado 60 minutos.",
+   "Destapa y cuece hasta que se evapore el líquido.",
+   "Fríe las masitas en el aceite a 180 °C 4 minutos, hasta que estén doradas.",
+   "Sirve con la cebolla cruda por encima."
+  ],
+  "tips": [
+   "Sécalas bien antes de freír para que no salpiquen.",
+   "Guarda un poco de marinada para rociarlas al servir."
+  ],
+  "video": "masitas de puerco fritas cubanas"
+ },
+ "en": {
+  "name": "Masitas de Puerco (Cuban Fried Pork Chunks)",
+  "blurb": "Pork chunks marinated in mojo, braised, then fried until crisp. A must on the Cuban table.",
+  "ing": [
+   {
+    "n": "pork shoulder",
+    "note": "in 4 cm cubes"
+   },
+   {
+    "n": "sour oranges (or 2 oranges and 1 lime)",
+    "note": "juiced"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "onion",
+    "note": "in thin rings"
+   }
+  ],
+  "steps": [
+   "Marinate the pork with the orange, garlic, cumin, oregano and salt for 2 hours.",
+   "Put the pork with the marinade and water in a pot. Simmer covered for 60 minutes.",
+   "Uncover and cook until the liquid has evaporated.",
+   "Fry the chunks in the oil at 180 °C for 4 minutes, until golden.",
+   "Serve with the raw onion on top."
+  ],
+  "tips": [
+   "Pat them dry before frying so they don't spit.",
+   "Keep back some marinade to drizzle over when serving."
+  ],
+  "video": "cuban fried pork chunks masitas"
+ },
+ "added": "2026-09-30"
+}

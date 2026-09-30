@@ -1,0 +1,237 @@
+{
+ "id": "asopao-de-pollo",
+ "country": "Puerto Rico",
+ "region": "caribbean",
+ "course": "soup",
+ "time": 70,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "tomatopaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "olives",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "capers",
+   "role": "umami"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "legume",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Asopao de pollo",
+  "blurb": "Arroz caldoso con pollo, aceitunas y alcaparras. La sopa de los días de lluvia en Puerto Rico.",
+  "ing": [
+   {
+    "n": "muslos de pollo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "ajíes dulces",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "culantro y cilantro",
+    "note": "picados"
+   },
+   {
+    "n": "pasta de tomate"
+   },
+   {
+    "n": "achiote molido"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "arroz de grano medio"
+   },
+   {
+    "n": "aceitunas"
+   },
+   {
+    "n": "alcaparras"
+   },
+   {
+    "n": "guisantes"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sala el pollo y dóralo en el aceite 8 minutos.",
+   "Añade la cebolla, los pimientos, los ajíes, el ajo y las hierbas y sofríe 6 minutos.",
+   "Añade la pasta de tomate, el achiote y el agua. Cuece 30 minutos.",
+   "Saca el pollo, desmenúzalo y devuélvelo a la olla sin huesos.",
+   "Añade el arroz, las aceitunas y las alcaparras y cuece 18 minutos. Añade los guisantes los últimos 3 minutos."
+  ],
+  "tips": [
+   "Debe quedar entre sopa y arroz: añade agua si espesa demasiado.",
+   "Sírvelo en cuanto esté, porque el arroz sigue absorbiendo."
+  ],
+  "video": "asopao de pollo puertorriqueño"
+ },
+ "en": {
+  "name": "Asopao de Pollo (Puerto Rican Chicken and Rice Soup)",
+  "blurb": "Soupy rice with chicken, olives and capers. Puerto Rico's rainy-day soup.",
+  "ing": [
+   {
+    "n": "chicken thighs"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet ají peppers",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "culantro and coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "medium-grain rice"
+   },
+   {
+    "n": "olives"
+   },
+   {
+    "n": "capers"
+   },
+   {
+    "n": "green peas"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Salt the chicken and brown it in the oil for 8 minutes.",
+   "Add the onion, peppers, ají, garlic and herbs and cook 6 minutes.",
+   "Add the tomato paste, annatto and water. Simmer 30 minutes.",
+   "Lift out the chicken, shred it and return it to the pot without the bones.",
+   "Add the rice, olives and capers and cook 18 minutes. Add the peas for the last 3 minutes."
+  ],
+  "tips": [
+   "It should sit between soup and rice: add water if it gets too thick.",
+   "Serve straight away, as the rice keeps absorbing."
+  ],
+  "video": "puerto rican asopao de pollo"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,149 @@
+{
+ "id": "bistec-de-palomilla",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "slice",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "pepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Bistec de palomilla",
+  "blurb": "Bistec finísimo marinado en ajo y limón, con cebolla por encima. El bistec de todas las cafeterías cubanas.",
+  "ing": [
+   {
+    "n": "bistecs finos de palomilla (tapa de cadera)"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "en aros finos"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Marina los bistecs con el ajo, el limón, la sal y la pimienta 30 minutos.",
+   "Calienta el aceite a fuego fuerte y cocina los bistecs 1 minuto por lado. Sácalos.",
+   "Saltea la cebolla en la misma sartén 3 minutos con la marinada.",
+   "Pon la cebolla sobre los bistecs y termina con el perejil."
+  ],
+  "tips": [
+   "Aplana los bistecs con un mazo si no son finos.",
+   "No lo marines más de 1 hora: el limón endurece la carne."
+  ],
+  "video": "bistec de palomilla cubano"
+ },
+ "en": {
+  "name": "Bistec de Palomilla (Cuban Steak)",
+  "blurb": "A very thin steak marinated in garlic and lime, topped with onions. The steak of every Cuban café.",
+  "ing": [
+   {
+    "n": "thin top sirloin steaks"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "pepper"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "in thin rings"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Marinate the steaks with the garlic, lime, salt and pepper for 30 minutes.",
+   "Heat the oil over high heat and cook the steaks 1 minute per side. Remove.",
+   "Sauté the onion in the same pan for 3 minutes with the marinade.",
+   "Pile the onion on the steaks and finish with the parsley."
+  ],
+  "tips": [
+   "Pound the steaks with a mallet if they aren't thin.",
+   "Don't marinate over 1 hour: the lime toughens the meat."
+  ],
+  "video": "cuban palomilla steak"
+ },
+ "added": "2026-09-30"
+}
