@@ -1,0 +1,210 @@
+{
+ "id": "ocopa",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "peanut",
+   "role": "thicken"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "crackers",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "olives",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Ocopa arequipeña",
+  "blurb": "Papas bañadas en una salsa verde de ají mirasol, huacatay, maní y queso. De Arequipa.",
+  "ing": [
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "en trozos"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "pasta de ají mirasol"
+   },
+   {
+    "n": "hojas de huacatay"
+   },
+   {
+    "n": "maní tostado"
+   },
+   {
+    "n": "queso fresco"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "galletas de soda"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "papas amarillas",
+    "note": "cocidas, en rodajas"
+   },
+   {
+    "n": "huevos duros",
+    "note": "en mitades"
+   },
+   {
+    "n": "aceitunas negras"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo y la pasta de ají en el aceite 8 minutos.",
+   "Añade el huacatay y cuece 1 minuto.",
+   "Licúa el sofrito con el maní, el queso, la leche, las galletas y la sal hasta tener una crema espesa.",
+   "Pon las papas en una fuente y cúbrelas con la salsa.",
+   "Decora con los huevos y las aceitunas."
+  ],
+  "tips": [
+   "Ajusta la espesura con más leche o más galletas.",
+   "El huacatay se encuentra congelado o en pasta en tiendas latinas."
+  ],
+  "video": "ocopa arequipeña receta"
+ },
+ "en": {
+  "name": "Ocopa (Potatoes in Huacatay Peanut Sauce)",
+  "blurb": "Potatoes covered in a green sauce of ají mirasol, huacatay, peanuts and cheese. From Arequipa.",
+  "ing": [
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "in chunks"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "ají mirasol paste"
+   },
+   {
+    "n": "huacatay (black mint) leaves"
+   },
+   {
+    "n": "roasted peanuts"
+   },
+   {
+    "n": "fresh cheese"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "soda crackers"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "yellow potatoes",
+    "note": "boiled, sliced"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "halved"
+   },
+   {
+    "n": "black olives"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic and ají paste in the oil for 8 minutes.",
+   "Add the huacatay and cook 1 minute.",
+   "Blend the mixture with the peanuts, cheese, milk, crackers and salt to a thick cream.",
+   "Lay the potatoes on a platter and cover with the sauce.",
+   "Garnish with the eggs and olives."
+  ],
+  "tips": [
+   "Adjust the thickness with more milk or more crackers.",
+   "Huacatay is sold frozen or as a paste in Latin shops."
+  ],
+  "video": "ocopa recipe"
+ },
+ "added": "2026-09-30"
+}

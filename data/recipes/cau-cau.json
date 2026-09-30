@@ -1,0 +1,190 @@
+{
+ "id": "cau-cau",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Cau cau",
+  "blurb": "Mondongo guisado con papa, ají amarillo, palillo y hierbabuena. Guiso criollo limeño de herencia africana.",
+  "ing": [
+   {
+    "n": "mondongo (panza de res)",
+    "note": "limpio"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají amarillo"
+   },
+   {
+    "n": "palillo (cúrcuma)"
+   },
+   {
+    "n": "papas blancas",
+    "note": "en dados"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "hierbabuena",
+    "note": "picada"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece el mondongo en el agua con 1 cucharadita de sal 90 minutos, hasta que esté tierno. Córtalo en dados pequeños y guarda 500 ml del agua.",
+   "Sofríe la cebolla, el ajo, la pasta de ají y el palillo en el aceite 8 minutos.",
+   "Añade el mondongo y el agua reservada y cuece 10 minutos.",
+   "Añade las papas, las arvejas y el resto de la sal y cuece 20 minutos, hasta que la papa esté tierna.",
+   "Termina con la hierbabuena y sirve con arroz."
+  ],
+  "tips": [
+   "Lava el mondongo con limón y sal antes de cocerlo.",
+   "Parte de la papa se deshace y espesa el guiso; es lo esperado."
+  ],
+  "video": "cau cau peruano receta"
+ },
+ "en": {
+  "name": "Cau Cau (Peruvian Tripe Stew)",
+  "blurb": "Tripe stewed with potato, ají amarillo, turmeric and mint. A Lima Creole stew with African roots.",
+  "ing": [
+   {
+    "n": "beef tripe",
+    "note": "cleaned"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "ground turmeric (palillo)"
+   },
+   {
+    "n": "white potatoes",
+    "note": "diced"
+   },
+   {
+    "n": "peas"
+   },
+   {
+    "n": "mint",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the tripe in the water with 1 teaspoon of salt for 90 minutes, until tender. Dice small and keep 500 ml of the water.",
+   "Cook the onion, garlic, ají paste and turmeric in the oil for 8 minutes.",
+   "Add the tripe and reserved water and cook 10 minutes.",
+   "Add the potatoes, peas and the rest of the salt and cook 20 minutes, until tender.",
+   "Finish with the mint and serve with rice."
+  ],
+  "tips": [
+   "Wash the tripe with lime and salt before cooking.",
+   "Some of the potato breaks down and thickens the stew; that's intended."
+  ],
+  "video": "cau cau recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,254 @@
+{
+ "id": "arroz-con-mariscos",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 700,
+   "u": "ml",
+   "k": "fishstock",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "squid",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "mussel",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Arroz con mariscos",
+  "blurb": "Arroz húmedo y anaranjado de ají, con camarones, calamares y choritos. Un clásico de las cebicherías.",
+  "ing": [
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají amarillo"
+   },
+   {
+    "n": "pasta de ají panca"
+   },
+   {
+    "n": "pimiento rojo",
+    "note": "en dados"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "caldo de pescado"
+   },
+   {
+    "n": "camarones pelados"
+   },
+   {
+    "n": "calamares",
+    "note": "en anillas"
+   },
+   {
+    "n": "choritos (mejillones)",
+    "note": "limpios"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "limón",
+    "note": "en gajos"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo y las dos pastas de ají en el aceite 8 minutos.",
+   "Añade el pimiento y el vino y cuece 2 minutos.",
+   "Añade el arroz, el caldo y la sal. Cuece tapado 15 minutos a fuego bajo.",
+   "Añade los camarones, los calamares, los choritos y las arvejas. Tapa y cuece 5 minutos, hasta que los choritos se abran.",
+   "Termina con el cilantro y sirve con el limón."
+  ],
+  "tips": [
+   "Debe quedar húmedo, no seco como una paella.",
+   "Tira los choritos que sigan cerrados."
+  ],
+  "video": "arroz con mariscos peruano receta"
+ },
+ "en": {
+  "name": "Peruvian Arroz con Mariscos (Seafood Rice)",
+  "blurb": "Moist rice, orange with ají, with shrimp, squid and mussels. A cebichería classic.",
+  "ing": [
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "diced"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "fish stock"
+   },
+   {
+    "n": "peeled shrimp"
+   },
+   {
+    "n": "squid",
+    "note": "in rings"
+   },
+   {
+    "n": "mussels",
+    "note": "cleaned"
+   },
+   {
+    "n": "peas"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "lime",
+    "note": "in wedges"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic and both ají pastes in the oil for 8 minutes.",
+   "Add the pepper and wine and cook 2 minutes.",
+   "Add the rice, stock and salt. Cook covered on low for 15 minutes.",
+   "Add the shrimp, squid, mussels and peas. Cover and cook 5 minutes, until the mussels open.",
+   "Finish with the cilantro and serve with the lime."
+  ],
+  "tips": [
+   "It should be moist, not dry like a paella.",
+   "Discard any mussels that stay closed."
+  ],
+  "video": "peruvian seafood rice recipe"
+ },
+ "added": "2026-09-30"
+}

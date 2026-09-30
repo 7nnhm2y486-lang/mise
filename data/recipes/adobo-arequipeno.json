@@ -1,0 +1,174 @@
+{
+ "id": "adobo-arequipeno",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "winevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "bread",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Adobo arequipeño",
+  "blurb": "Cerdo marinado en ají panca y vinagre, cocido con cebolla en gajos. Se toma el domingo temprano con pan.",
+  "ing": [
+   {
+    "n": "paleta o costilla de cerdo",
+    "note": "en trozos grandes"
+   },
+   {
+    "n": "pasta de ají panca"
+   },
+   {
+    "n": "ajo",
+    "note": "molido"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "vinagre de vino tinto"
+   },
+   {
+    "n": "cebollas rojas",
+    "note": "en gajos gruesos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "panes de tres puntas o panecillos"
+   }
+  ],
+  "steps": [
+   "Mezcla la pasta de ají, el ajo, el comino, el orégano, el vinagre y la sal. Marina el cerdo 12 horas.",
+   "Pon el cerdo con su marinada en una olla de barro o pesada con la cebolla y el agua.",
+   "Tapa y cuece a fuego bajo 2 horas, hasta que la carne esté muy tierna.",
+   "Prueba y ajusta la sal.",
+   "Sirve en platos hondos con su jugo y el pan para mojar."
+  ],
+  "tips": [
+   "La marinada larga es clave: no la acortes.",
+   "En Arequipa se usa chicha de jora; el vinagre da un resultado muy parecido."
+  ],
+  "video": "adobo arequipeño receta"
+ },
+ "en": {
+  "name": "Adobo Arequipeño (Arequipa Pork Stew)",
+  "blurb": "Pork marinated in ají panca and vinegar, cooked with onion wedges. An early Sunday meal with bread.",
+  "ing": [
+   {
+    "n": "pork shoulder or ribs",
+    "note": "in large pieces"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "red wine vinegar"
+   },
+   {
+    "n": "red onions",
+    "note": "in thick wedges"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "three-cornered bread or rolls"
+   }
+  ],
+  "steps": [
+   "Mix the ají paste, garlic, cumin, oregano, vinegar and salt. Marinate the pork 12 hours.",
+   "Put the pork and its marinade in a clay or heavy pot with the onion and water.",
+   "Cover and cook on low for 2 hours, until very tender.",
+   "Taste and adjust the salt.",
+   "Serve in deep bowls with its juices and the bread for dipping."
+  ],
+  "tips": [
+   "The long marinade is key: don't cut it short.",
+   "In Arequipa chicha de jora is used; vinegar gives a very similar result."
+  ],
+  "video": "adobo arequipeno recipe"
+ },
+ "added": "2026-09-30"
+}

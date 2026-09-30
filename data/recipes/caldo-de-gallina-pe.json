@@ -1,0 +1,166 @@
+{
+ "id": "caldo-de-gallina-pe",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Caldo de gallina",
+  "blurb": "Sopa de gallina con kion, fideos, papa amarilla y huevo duro. Se toma de madrugada en Lima.",
+  "ing": [
+   {
+    "n": "gallina en presas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "kion (jengibre fresco)",
+    "note": "en rodajas"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "papas amarillas",
+    "note": "peladas"
+   },
+   {
+    "n": "fideos cabello de ángel o tallarín"
+   },
+   {
+    "n": "huevos duros",
+    "note": "pelados"
+   },
+   {
+    "n": "cebolla china",
+    "note": "picada"
+   },
+   {
+    "n": "limones",
+    "note": "en gajos"
+   }
+  ],
+  "steps": [
+   "Cuece la gallina en el agua con el kion y la sal 2 horas, quitando la espuma.",
+   "Añade las papas y cuece 15 minutos.",
+   "Añade los fideos y cuece 8 minutos.",
+   "Reparte en platos hondos con una presa de gallina, una papa y un huevo.",
+   "Sirve con la cebolla china y el limón."
+  ],
+  "tips": [
+   "La gallina necesita cocción larga; con pollo, 45 minutos bastan.",
+   "Cuece los fideos en el caldo justo antes de servir para que no se pasen."
+  ],
+  "video": "caldo de gallina peruano"
+ },
+ "en": {
+  "name": "Caldo de Gallina (Peruvian Hen Soup)",
+  "blurb": "Hen soup with ginger, noodles, yellow potato and hard-boiled egg. Eaten in the early hours in Lima.",
+  "ing": [
+   {
+    "n": "boiling hen pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "fresh ginger (kion)",
+    "note": "sliced"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "yellow potatoes",
+    "note": "peeled"
+   },
+   {
+    "n": "angel-hair noodles or tagliatelle"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "peeled"
+   },
+   {
+    "n": "spring onion",
+    "note": "chopped"
+   },
+   {
+    "n": "limes",
+    "note": "in wedges"
+   }
+  ],
+  "steps": [
+   "Simmer the hen in the water with the ginger and salt for 2 hours, skimming.",
+   "Add the potatoes and cook 15 minutes.",
+   "Add the noodles and cook 8 minutes.",
+   "Divide into deep bowls with a piece of hen, a potato and an egg each.",
+   "Serve with the spring onion and lime."
+  ],
+  "tips": [
+   "A hen needs long cooking; with chicken, 45 minutes is enough.",
+   "Cook the noodles in the soup just before serving so they don't go soft."
+  ],
+  "video": "peruvian hen soup recipe"
+ },
+ "added": "2026-09-30"
+}

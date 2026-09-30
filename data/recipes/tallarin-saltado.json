@@ -1,0 +1,206 @@
+{
+ "id": "tallarin-saltado",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oystersauce",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "winevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Tallarín saltado",
+  "blurb": "Fideos salteados al wok con tiras de res, cebolla, tomate y sillao. Chifa limeño, primo del lomo saltado.",
+  "ing": [
+   {
+    "n": "tallarines o espaguetis"
+   },
+   {
+    "n": "lomo o bistec de res",
+    "note": "en tiras"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "kion (jengibre)",
+    "note": "rallado"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "en gajos"
+   },
+   {
+    "n": "tomates",
+    "note": "en gajos"
+   },
+   {
+    "n": "ají amarillo",
+    "note": "en tiras"
+   },
+   {
+    "n": "sillao (salsa de soja)"
+   },
+   {
+    "n": "salsa de ostión"
+   },
+   {
+    "n": "vinagre de vino tinto"
+   },
+   {
+    "n": "cebolla china",
+    "note": "en trozos"
+   }
+  ],
+  "steps": [
+   "Cuece los tallarines en agua con sal y escúrrelos.",
+   "Saltea la carne en el wok muy caliente con la mitad del aceite 2 minutos. Sácala.",
+   "Saltea el ajo y el kion en el resto del aceite 30 segundos. Añade la cebolla, el tomate y el ají y saltea 2 minutos.",
+   "Añade el sillao, la salsa de ostión, el vinagre y la carne.",
+   "Añade los tallarines y la cebolla china y saltea 1 minuto, hasta que se impregnen."
+  ],
+  "tips": [
+   "El wok debe estar humeando para que la carne se selle sin soltar jugo.",
+   "La cebolla y el tomate deben quedar crujientes."
+  ],
+  "video": "tallarín saltado de carne"
+ },
+ "en": {
+  "name": "Tallarín Saltado (Peruvian Stir-Fried Noodles)",
+  "blurb": "Noodles stir-fried with beef strips, onion, tomato and soy. Lima chifa, cousin to lomo saltado.",
+  "ing": [
+   {
+    "n": "spaghetti"
+   },
+   {
+    "n": "beef sirloin",
+    "note": "in strips"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ginger (kion)",
+    "note": "grated"
+   },
+   {
+    "n": "red onion",
+    "note": "in wedges"
+   },
+   {
+    "n": "tomatoes",
+    "note": "in wedges"
+   },
+   {
+    "n": "ají amarillo",
+    "note": "in strips"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "oyster sauce"
+   },
+   {
+    "n": "red wine vinegar"
+   },
+   {
+    "n": "spring onion",
+    "note": "in lengths"
+   }
+  ],
+  "steps": [
+   "Cook the noodles in salted water and drain.",
+   "Stir-fry the beef in a very hot wok with half the oil for 2 minutes. Remove.",
+   "Stir-fry the garlic and ginger in the rest of the oil for 30 seconds. Add the onion, tomato and ají and stir-fry 2 minutes.",
+   "Add the soy sauce, oyster sauce, vinegar and the beef.",
+   "Add the noodles and spring onion and toss 1 minute, until coated."
+  ],
+  "tips": [
+   "The wok must be smoking so the meat sears without releasing juice.",
+   "The onion and tomato should stay crisp."
+  ],
+  "video": "tallarin saltado recipe"
+ },
+ "added": "2026-09-30"
+}

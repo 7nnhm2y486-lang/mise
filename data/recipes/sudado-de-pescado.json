@@ -1,0 +1,192 @@
+{
+ "id": "sudado-de-pescado",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "fishstock",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Sudado de pescado",
+  "blurb": "Pescado cocido al vapor sobre cebolla, tomate y ají. Rápido, ligero y muy del norte del Perú.",
+  "ing": [
+   {
+    "n": "filetes de pescado blanco firme"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "en gajos gruesos"
+   },
+   {
+    "n": "tomates",
+    "note": "en gajos"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají amarillo"
+   },
+   {
+    "n": "ají amarillo fresco",
+    "note": "en tiras"
+   },
+   {
+    "n": "caldo de pescado"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "limón",
+    "note": "en jugo"
+   }
+  ],
+  "steps": [
+   "Sala el pescado.",
+   "Sofríe el ajo y la pasta de ají en el aceite 2 minutos en una sartén ancha.",
+   "Añade la cebolla, el tomate y el ají fresco y cuece 3 minutos.",
+   "Pon el pescado encima, añade el caldo, tapa y cuece 8 minutos a fuego medio.",
+   "Rocía con el limón, termina con el cilantro y sirve con arroz y yuca."
+  ],
+  "tips": [
+   "La cebolla y el tomate deben quedar enteros y algo firmes.",
+   "No muevas el pescado mientras se cuece o se rompe."
+  ],
+  "video": "sudado de pescado peruano"
+ },
+ "en": {
+  "name": "Sudado de Pescado (Peruvian Steamed Fish)",
+  "blurb": "Fish steamed over onion, tomato and ají. Quick, light and very northern Peru.",
+  "ing": [
+   {
+    "n": "firm white fish fillets"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "in thick wedges"
+   },
+   {
+    "n": "tomatoes",
+    "note": "in wedges"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "fresh ají amarillo",
+    "note": "in strips"
+   },
+   {
+    "n": "fish stock"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "lime",
+    "note": "juiced"
+   }
+  ],
+  "steps": [
+   "Salt the fish.",
+   "Cook the garlic and ají paste in the oil for 2 minutes in a wide frying pan.",
+   "Add the onion, tomato and fresh ají and cook 3 minutes.",
+   "Lay the fish on top, add the stock, cover and cook 8 minutes over medium heat.",
+   "Drizzle with the lime, finish with the cilantro and serve with rice and cassava."
+  ],
+  "tips": [
+   "The onion and tomato should stay whole and a little firm.",
+   "Don't move the fish while it cooks or it breaks."
+  ],
+  "video": "peruvian steamed fish recipe"
+ },
+ "added": "2026-09-30"
+}

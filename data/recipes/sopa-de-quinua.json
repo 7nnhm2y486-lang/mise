@@ -1,0 +1,194 @@
+{
+ "id": "sopa-de-quinua",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 45,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "grain",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 1.8,
+   "u": "l",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Sopa de quinua",
+  "blurb": "Sopa andina de quinua con papa, zanahoria y queso fresco. Nutritiva y reconfortante.",
+  "ing": [
+   {
+    "n": "quinua",
+    "note": "bien lavada"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají amarillo"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en dados"
+   },
+   {
+    "n": "papas",
+    "note": "en dados"
+   },
+   {
+    "n": "caldo de pollo o de verduras"
+   },
+   {
+    "n": "queso fresco",
+    "note": "en dados"
+   },
+   {
+    "n": "huacatay o cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo y la pasta de ají en el aceite 5 minutos.",
+   "Añade la quinua y tuesta 2 minutos.",
+   "Añade el caldo, la zanahoria y la sal y cuece 15 minutos.",
+   "Añade la papa y cuece 15 minutos más, hasta que esté tierna.",
+   "Añade el queso y la hierba y sirve."
+  ],
+  "tips": [
+   "Lava bien la quinua frotándola bajo el agua; la saponina amarga.",
+   "Espesa al reposar; añade caldo al recalentar."
+  ],
+  "video": "sopa de quinua peruana"
+ },
+ "en": {
+  "name": "Peruvian Quinoa Soup",
+  "blurb": "An Andean quinoa soup with potato, carrot and fresh cheese. Nourishing and comforting.",
+  "ing": [
+   {
+    "n": "quinoa",
+    "note": "well rinsed"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "carrots",
+    "note": "diced"
+   },
+   {
+    "n": "potatoes",
+    "note": "diced"
+   },
+   {
+    "n": "chicken or vegetable stock"
+   },
+   {
+    "n": "fresh cheese",
+    "note": "diced"
+   },
+   {
+    "n": "huacatay or cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic and ají paste in the oil for 5 minutes.",
+   "Add the quinoa and toast 2 minutes.",
+   "Add the stock, carrot and salt and cook 15 minutes.",
+   "Add the potato and cook 15 minutes more, until tender.",
+   "Add the cheese and herb and serve."
+  ],
+  "tips": [
+   "Rinse the quinoa well, rubbing it under the tap; the saponin is bitter.",
+   "It thickens on standing; add stock when reheating."
+  ],
+  "video": "peruvian quinoa soup recipe"
+ },
+ "added": "2026-09-30"
+}

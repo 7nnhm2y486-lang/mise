@@ -1,0 +1,181 @@
+{
+ "id": "turron-de-dona-pepa",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 120,
+ "serves": 16,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "eggyolk",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "sprinkles",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Turrón de Doña Pepa",
+  "blurb": "Palitos de masa de anís en capas con miel de chancaca y grageas. El dulce del mes morado en Lima.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "anís en grano"
+   },
+   {
+    "n": "agua de anís tibia"
+   },
+   {
+    "n": "chancaca"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cáscara de naranja"
+   },
+   {
+    "n": "ramas de canela y clavos"
+   },
+   {
+    "n": "grageas de colores"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el polvo de hornear y el anís. Añade la mantequilla, las yemas y el agua de anís y junta la masa sin amasar.",
+   "Forma palitos de 1 cm de grosor y 20 cm de largo. Hornea a 180 °C durante 15 minutos.",
+   "Cuece la chancaca con el agua, la naranja, la canela y los clavos 30 minutos, hasta tener un almíbar espeso. Cuela.",
+   "En una fuente, pon una capa de palitos, báñala con almíbar y repite 3 capas.",
+   "Termina con almíbar y las grageas. Deja reposar 2 horas antes de cortar."
+  ],
+  "tips": [
+   "El almíbar está listo cuando una gota en agua fría forma una bolita blanda.",
+   "Se guarda 1 semana tapado a temperatura ambiente."
+  ],
+  "video": "turrón de doña pepa receta"
+ },
+ "en": {
+  "name": "Turrón de Doña Pepa (Peruvian Anise Layer Sweet)",
+  "blurb": "Anise pastry sticks layered with chancaca syrup and sprinkles. The sweet of Lima's purple month.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "aniseed"
+   },
+   {
+    "n": "warm aniseed tea"
+   },
+   {
+    "n": "chancaca (unrefined cane sugar)"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "orange peel"
+   },
+   {
+    "n": "cinnamon sticks and cloves"
+   },
+   {
+    "n": "coloured sprinkles"
+   }
+  ],
+  "steps": [
+   "Mix the flour, baking powder and aniseed. Add the butter, yolks and aniseed tea and bring together without kneading.",
+   "Shape into sticks 1 cm thick and 20 cm long. Bake at 180 °C for 15 minutes.",
+   "Simmer the chancaca with the water, orange, cinnamon and cloves for 30 minutes, to a thick syrup. Strain.",
+   "In a dish, lay a layer of sticks, pour over syrup and repeat for 3 layers.",
+   "Finish with syrup and the sprinkles. Leave 2 hours before cutting."
+  ],
+  "tips": [
+   "The syrup is ready when a drop in cold water forms a soft ball.",
+   "Keeps 1 week covered at room temperature."
+  ],
+  "video": "turron de dona pepa recipe"
+ },
+ "added": "2026-09-30"
+}

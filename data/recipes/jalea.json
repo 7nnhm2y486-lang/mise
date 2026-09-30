@@ -1,0 +1,194 @@
+{
+ "id": "jalea",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "squid",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Jalea mixta",
+  "blurb": "Pescado y mariscos fritos crujientes con yuca frita y salsa criolla encima. Para compartir en la mesa.",
+  "ing": [
+   {
+    "n": "pescado blanco",
+    "note": "en trozos"
+   },
+   {
+    "n": "camarones pelados"
+   },
+   {
+    "n": "calamares",
+    "note": "en anillas"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "yuca cocida",
+    "note": "en bastones"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "en pluma fina"
+   },
+   {
+    "n": "ají limo",
+    "note": "picado"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Mezcla la cebolla, el ají, el jugo de limón, el cilantro y 1 cucharadita de sal. Deja reposar.",
+   "Fríe la yuca a 180 °C durante 4 minutos, hasta que esté dorada. Escúrrela.",
+   "Sala el pescado y los mariscos y pásalos por la harina.",
+   "Fríe en tandas a 180 °C durante 2 minutos, hasta que estén dorados.",
+   "Sirve el frito sobre la yuca con la salsa criolla por encima."
+  ],
+  "tips": [
+   "Fríe en tandas pequeñas para que el aceite no se enfríe.",
+   "La salsa criolla se pone al final para que el rebozado siga crujiente."
+  ],
+  "video": "jalea mixta peruana receta"
+ },
+ "en": {
+  "name": "Jalea (Peruvian Fried Seafood Platter)",
+  "blurb": "Crisp fried fish and seafood with fried cassava and salsa criolla on top. For sharing.",
+  "ing": [
+   {
+    "n": "white fish",
+    "note": "in chunks"
+   },
+   {
+    "n": "peeled shrimp"
+   },
+   {
+    "n": "squid",
+    "note": "in rings"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "boiled cassava",
+    "note": "in batons"
+   },
+   {
+    "n": "red onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "ají limo",
+    "note": "chopped"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Mix the onion, ají, lime juice, cilantro and 1 teaspoon of salt. Set aside.",
+   "Fry the cassava at 180 °C for 4 minutes, until golden. Drain.",
+   "Salt the fish and seafood and coat in the flour.",
+   "Fry in batches at 180 °C for 2 minutes, until golden.",
+   "Serve the fried seafood over the cassava with the salsa criolla on top."
+  ],
+  "tips": [
+   "Fry in small batches so the oil doesn't cool.",
+   "The salsa goes on last so the coating stays crisp."
+  ],
+  "video": "jalea peruvian recipe"
+ },
+ "added": "2026-09-30"
+}
