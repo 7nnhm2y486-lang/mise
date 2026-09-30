@@ -9,6 +9,9 @@ const {recipeAllergens} = require("../src/engine.js");
 const argBase = process.argv.indexOf("--base");
 const BASE = (argBase > 0 ? process.argv[argBase + 1] : process.env.SITE_URL || "https://mise.example").replace(/\/$/, "");
 const LANGS = ["en", "es"];
+// --preview N: build a small, fully relative copy (explicit index.html links) for hosts without clean URLs.
+const argPrev = process.argv.indexOf("--preview");
+const PREVIEW = argPrev > 0 ? +process.argv[argPrev + 1] : 0;
 const SEG = {en: "recipes", es: "recetas"};
 
 const E = JSON.parse(fs.readFileSync(path.join(ROOT, "data/engine/substitutions.json"), "utf8"));
@@ -17,7 +20,12 @@ const ALL = fs.readdirSync(path.join(ROOT, "data/recipes")).filter(f => f.endsWi
   .map(f => JSON.parse(fs.readFileSync(path.join(ROOT, "data/recipes", f), "utf8")));
 // Only published recipes go live. Recipes without "publish" (the original 307) are live.
 const TODAY = process.env.MISE_TODAY || new Date().toISOString().slice(0, 10);
-const RECIPES = ALL.filter(r => !r.publish || r.publish <= TODAY).sort((a, b) => a.en.name.localeCompare(b.en.name));
+let RECIPES = ALL.filter(r => !r.publish || r.publish <= TODAY).sort((a, b) => a.en.name.localeCompare(b.en.name));
+if(PREVIEW){
+  const latam = RECIPES.filter(r => r.region === "latin-america" || r.region === "caribbean");
+  const rest = RECIPES.filter(r => !latam.includes(r));
+  RECIPES = [...latam.slice(0, Math.ceil(PREVIEW * 0.7)), ...rest.filter((_, i) => i % Math.max(1, Math.floor(rest.length / (PREVIEW * 0.3))) === 0)].slice(0, PREVIEW);
+}
 
 const esc = s => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 // Recipe text may contain <b>/<i> from the reference data only; recipe fields are plain text.
@@ -44,6 +52,14 @@ const COUNTRY_ES_DEFAULT = {"Nigeria":"Nigeria","Ghana":"Ghana","Ethiopia":"Etio
 
 function write(rel, content){
   const file = path.join(OUT, rel);
+  if(rel.endsWith(".html")){
+    // Make every internal link relative, so the site works from any folder.
+    const depth = rel.split("/").length - 1, root = depth ? "../".repeat(depth) : "./";
+    content = content.replace(/(href|src)="\/(?!\/)([^"]*)"/g, (m, a, u) => {
+      if(PREVIEW && (u === "" || u.endsWith("/"))) u += "index.html";
+      return `${a}="${root}${u}"`;
+    }).replace("<body ", `<body data-root="${root}" `);
+  }
   fs.mkdirSync(path.dirname(file), {recursive: true});
   fs.writeFileSync(file, content);
 }
@@ -295,7 +311,7 @@ for(const r of RECIPES){
 // Root: send people to their language; crawlers get links.
 write("index.html", `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Mise</title>
 <link rel="alternate" hreflang="en" href="${BASE}/en/"><link rel="alternate" hreflang="es" href="${BASE}/es/"><link rel="alternate" hreflang="x-default" href="${BASE}/en/">
-<script>try{var l=localStorage.getItem("mise.lang")||((navigator.language||"en").slice(0,2)==="es"?"es":"en");location.replace("/"+l+"/")}catch(e){location.replace("/en/")}</script>
+<script>try{var l=localStorage.getItem("mise.lang")||((navigator.language||"en").slice(0,2)==="es"?"es":"en");location.replace(l+"/${PREVIEW ? "index.html" : ""}")}catch(e){location.replace("en/${PREVIEW ? "index.html" : ""}")}</script>
 <style>body{font:16px Georgia,serif;display:grid;place-items:center;min-height:90vh;background:#EAEDE8;color:#161D1A}a{margin:0 12px}</style></head>
 <body><p><a href="/en/">English</a><a href="/es/">Español</a></p></body></html>`);
 write("404.html", page({lang: "en", title: "Not found · Mise", desc: "Page not found", path: "/404.html", body: `<div class="wrap prose-page"><h1>${T.en.notFound}</h1><p>${T.en.notFoundLead} <a href="/en/">${T.en.backHome}</a> · <a href="/es/">${T.es.backHome}</a></p></div>`}));
@@ -304,6 +320,7 @@ write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 ${sitemap.filter(a => !seen.has(a.en) && seen.add(a.en)).flatMap(a => LANGS.map(l => `<url><loc>${BASE + a[l]}</loc>${LANGS.map(o => `<xhtml:link rel="alternate" hreflang="${o}" href="${BASE + a[o]}"/>`).join("")}</url>`)).join("\n")}
 </urlset>`);
+if(PREVIEW) fs.copyFileSync(path.join(ROOT, "src/preview-main.html"), path.join(OUT, "preview-main.html"));
 write("robots.txt", `User-agent: *\nAllow: /\nSitemap: ${BASE}/sitemap.xml\n`);
 write("_headers", `/assets/*\n  Cache-Control: public, max-age=31536000, immutable\n/data/*\n  Cache-Control: public, max-age=3600\n`);
 console.log(`built ${RECIPES.length} recipes (${ALL.length - RECIPES.length} scheduled) x ${LANGS.length} languages -> dist/`);

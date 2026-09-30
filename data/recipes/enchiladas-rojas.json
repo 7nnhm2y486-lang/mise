@@ -1,0 +1,213 @@
+{
+ "id": "enchiladas-rojas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 12,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "ancho",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Enchiladas rojas",
+  "blurb": "Tortillas pasadas por salsa de guajillo y ancho, rellenas de queso fresco y dobladas. La versión de mercado: sencilla, roja y rápida.",
+  "ing": [
+   {
+    "n": "tortillas de maíz"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "desvenados"
+   },
+   {
+    "n": "chiles anchos",
+    "note": "desvenados"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cebolla blanca"
+   },
+   {
+    "n": "orégano mexicano"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmoronado"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "picada"
+   },
+   {
+    "n": "hojas de lechuga",
+    "note": "en tiras"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Tuesta los chiles en un comal 15 segundos por lado y remójalos en agua caliente 15 minutos.",
+   "Lícualos con el ajo, la cebolla, el orégano, el comino, la sal y el caldo. Cuela.",
+   "Fríe la salsa en 1 cucharada de aceite 8 minutos, hasta que se espese y brille.",
+   "Pasa cada tortilla por aceite caliente 5 segundos y luego por la salsa caliente.",
+   "Rellena con queso, dobla por la mitad y sirve con más salsa, cebolla y lechuga."
+  ],
+  "tips": [
+   "Colar la salsa quita las pieles del chile, que amargan y raspan.",
+   "Trabaja con la salsa caliente: fría, la tortilla se rompe."
+  ],
+  "video": "enchiladas rojas receta"
+ },
+ "en": {
+  "name": "Red Enchiladas",
+  "blurb": "Tortillas dipped in guajillo and ancho sauce, filled with queso fresco and folded. The market-stall version: simple, red and quick.",
+  "ing": [
+   {
+    "n": "corn tortillas"
+   },
+   {
+    "n": "guajillo chiles",
+    "note": "stemmed and seeded"
+   },
+   {
+    "n": "ancho chiles",
+    "note": "stemmed and seeded"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "white onion"
+   },
+   {
+    "n": "Mexican oregano"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "queso fresco",
+    "note": "crumbled"
+   },
+   {
+    "n": "white onion",
+    "note": "chopped"
+   },
+   {
+    "n": "lettuce leaves",
+    "note": "shredded"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Toast the chiles on a griddle for 15 seconds per side and soak them in hot water for 15 minutes.",
+   "Blend them with the garlic, onion, oregano, cumin, salt and stock. Strain.",
+   "Fry the sauce in 1 tablespoon of oil for 8 minutes, until thick and glossy.",
+   "Pass each tortilla through hot oil for 5 seconds, then through the hot sauce.",
+   "Fill with cheese, fold in half and serve with more sauce, onion and lettuce."
+  ],
+  "tips": [
+   "Straining removes the chile skins, which taste bitter and scratch.",
+   "Work with hot sauce: cold, the tortilla tears."
+  ],
+  "video": "red enchiladas recipe"
+ },
+ "added": "2026-09-30"
+}

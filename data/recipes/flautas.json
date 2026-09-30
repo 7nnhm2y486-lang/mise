@@ -1,0 +1,165 @@
+{
+ "id": "flautas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 16,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "crema",
+   "role": "garnish"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "hotsauce",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Flautas de pollo",
+  "blurb": "Tortillas enrolladas muy apretadas con pollo y fritas hasta crujir de punta a punta. Se comen con la mano y con mucha salsa.",
+  "ing": [
+   {
+    "n": "tortillas de maíz",
+    "note": "delgadas"
+   },
+   {
+    "n": "pollo cocido deshebrado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "hojas de lechuga",
+    "note": "en tiras"
+   },
+   {
+    "n": "crema"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmoronado"
+   },
+   {
+    "n": "salsa verde"
+   },
+   {
+    "n": "aguacate",
+    "note": "en rebanadas"
+   }
+  ],
+  "steps": [
+   "Calienta las tortillas en el comal para que se ablanden; si están frías se rompen al enrollar.",
+   "Pon una línea de pollo salado en el borde de cada tortilla y enrolla bien apretado. Sujeta con un palillo.",
+   "Fríe en aceite a 180 °C, con la unión hacia abajo primero, 3-4 minutos, girándolas hasta que estén doradas y firmes.",
+   "Escurre de pie sobre papel para que suelten el aceite.",
+   "Sirve sobre lechuga con crema, queso, salsa y aguacate."
+  ],
+  "tips": [
+   "Freír primero con la unión abajo la sella y ya no hace falta el palillo.",
+   "Escurrirlas verticales las deja menos grasosas que acostadas."
+  ],
+  "video": "flautas de pollo receta"
+ },
+ "en": {
+  "name": "Chicken Flautas",
+  "blurb": "Tortillas rolled tight around chicken and fried until crisp end to end. Eaten by hand, with plenty of salsa.",
+  "ing": [
+   {
+    "n": "corn tortillas",
+    "note": "thin"
+   },
+   {
+    "n": "cooked shredded chicken"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "lettuce leaves",
+    "note": "shredded"
+   },
+   {
+    "n": "crema"
+   },
+   {
+    "n": "queso fresco",
+    "note": "crumbled"
+   },
+   {
+    "n": "salsa verde"
+   },
+   {
+    "n": "avocado",
+    "note": "sliced"
+   }
+  ],
+  "steps": [
+   "Warm the tortillas on a griddle to soften them; cold ones crack when rolled.",
+   "Lay a line of salted chicken along the edge of each tortilla and roll up tightly. Secure with a toothpick.",
+   "Fry in oil at 180 °C, seam side down first, for 3-4 minutes, turning until golden and firm.",
+   "Drain them standing up on paper so the oil runs off.",
+   "Serve on lettuce with crema, cheese, salsa and avocado."
+  ],
+  "tips": [
+   "Frying seam side down first seals it, so the toothpick is no longer needed.",
+   "Draining them upright leaves them less greasy than lying flat."
+  ],
+  "video": "chicken flautas recipe"
+ },
+ "added": "2026-09-30"
+}

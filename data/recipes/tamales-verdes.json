@@ -1,0 +1,191 @@
+{
+ "id": "tamales-verdes",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 180,
+ "serves": 20,
+ "ing": [
+  {
+   "q": 1000,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "tomatillo",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 25,
+   "u": "",
+   "k": "cornhusk",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Tamales verdes",
+  "blurb": "Masa batida con manteca hasta que flota, rellena de pollo en salsa verde y cocida al vapor en hoja de maíz. Una tamalada da para compartir.",
+  "ing": [
+   {
+    "n": "masa de maíz para tamales",
+    "note": "o 500 g de harina de maíz nixtamalizado"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "caldo de pollo",
+    "note": "tibio"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pollo cocido deshebrado"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "chiles serranos"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "hojas de maíz secas",
+    "note": "remojadas"
+   }
+  ],
+  "steps": [
+   "Remoja las hojas en agua caliente 1 hora hasta que estén flexibles.",
+   "Hierve los tomatillos, los serranos y el ajo 8 minutos, lícualos con el cilantro y una pizca de sal, y mezcla la salsa con el pollo.",
+   "Bate la manteca 5 minutos hasta que esté blanca y esponjosa. Añade la masa, el polvo de hornear y la sal, y bate añadiendo el caldo poco a poco durante 10 minutos.",
+   "Prueba: una bolita de masa en un vaso de agua fría debe flotar. Si se hunde, bate 3 minutos más.",
+   "Unta 2 cucharadas de masa en la parte ancha de cada hoja, pon una cucharada de relleno, dobla los lados y luego la punta hacia arriba.",
+   "Acomódalos parados en la vaporera, con la punta abierta hacia arriba. Tapa con hojas y cuece a vapor 1 hora y 15 minutos.",
+   "Están listos cuando la masa se despega sola de la hoja. Déjalos reposar 15 minutos antes de servir."
+  ],
+  "tips": [
+   "La prueba del vaso de agua dice si hay suficiente aire en la masa: ese aire es lo que los hace esponjosos.",
+   "Mete una moneda en el fondo de la vaporera: cuando deje de sonar, falta agua.",
+   "Se congelan bien. Recaliéntalos al vapor, no en el microondas."
+  ],
+  "video": "tamales verdes de pollo"
+ },
+ "en": {
+  "name": "Chicken Tamales in Green Salsa",
+  "blurb": "Masa whipped with lard until it floats, filled with chicken in green salsa and steamed in corn husks. One batch feeds a party.",
+  "ing": [
+   {
+    "n": "corn masa for tamales",
+    "note": "or 500 g masa harina"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "chicken stock",
+    "note": "warm"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cooked shredded chicken"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "serrano chiles"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "dried corn husks",
+    "note": "soaked"
+   }
+  ],
+  "steps": [
+   "Soak the husks in hot water for 1 hour until pliable.",
+   "Boil the tomatillos, serranos and garlic for 8 minutes, blend with the cilantro and a pinch of salt, and mix the salsa with the chicken.",
+   "Beat the lard for 5 minutes until white and fluffy. Add the masa, baking powder and salt and beat, adding the stock little by little, for 10 minutes.",
+   "Test it: a small ball of masa dropped in a glass of cold water should float. If it sinks, beat 3 minutes more.",
+   "Spread 2 tablespoons of masa on the wide end of each husk, add a spoonful of filling, fold in the sides, then fold the tip up.",
+   "Stand them upright in the steamer, open end up. Cover with more husks and steam for 1 hour and 15 minutes.",
+   "They're done when the masa pulls away from the husk on its own. Rest 15 minutes before serving."
+  ],
+  "tips": [
+   "The float test tells you whether there's enough air in the masa: that air is what makes them fluffy.",
+   "Put a coin in the bottom of the steamer: when it stops rattling, you're out of water.",
+   "They freeze well. Reheat them by steaming, not in the microwave."
+  ],
+  "video": "green chicken tamales recipe"
+ },
+ "added": "2026-09-30"
+}

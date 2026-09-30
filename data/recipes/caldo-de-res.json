@@ -1,0 +1,213 @@
+{
+ "id": "caldo-de-res",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 180,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1000,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 3000,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Caldo de res",
+  "blurb": "Chambarete con hueso cocido a fuego lento con elote, verduras y cilantro. Un caldo claro y generoso para días fríos o convalecencias.",
+  "ing": [
+   {
+    "n": "chambarete y costilla de res"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla blanca"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "hojas de laurel"
+   },
+   {
+    "n": "elotes",
+    "note": "en trozos"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en trozos"
+   },
+   {
+    "n": "calabacitas",
+    "note": "en trozos"
+   },
+   {
+    "n": "papas",
+    "note": "en trozos"
+   },
+   {
+    "n": "col",
+    "note": "en gajos"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "limones"
+   }
+  ],
+  "steps": [
+   "Pon la carne en el agua fría con la cebolla, el ajo y el laurel. Hierve y retira la espuma durante los primeros 10 minutos.",
+   "Baja a fuego muy bajo y cuece 2 horas, hasta que la carne esté tierna.",
+   "Añade la sal, el elote y la zanahoria y cuece 15 minutos.",
+   "Añade las papas y cuece 10 minutos. Añade la calabacita y la col y cuece 8 minutos más.",
+   "Termina con el cilantro y sirve con limón, cebolla picada y chile serrano al gusto."
+  ],
+  "tips": [
+   "Empezar con agua fría y retirar la espuma es lo que deja el caldo claro.",
+   "Las verduras entran por tiempos para que todas lleguen al punto a la vez."
+  ],
+  "video": "caldo de res mexicano"
+ },
+ "en": {
+  "name": "Mexican Beef Soup",
+  "blurb": "Bone-in beef shank simmered slowly with corn, vegetables and cilantro. A clear, generous broth for cold days or sick days.",
+  "ing": [
+   {
+    "n": "beef shank and short rib"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "white onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "ears of corn",
+    "note": "in chunks"
+   },
+   {
+    "n": "carrots",
+    "note": "in chunks"
+   },
+   {
+    "n": "zucchini",
+    "note": "in chunks"
+   },
+   {
+    "n": "potatoes",
+    "note": "in chunks"
+   },
+   {
+    "n": "cabbage",
+    "note": "in wedges"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "limes"
+   }
+  ],
+  "steps": [
+   "Put the meat in the cold water with the onion, garlic and bay. Bring to a boil and skim the foam for the first 10 minutes.",
+   "Drop to very low heat and simmer for 2 hours, until the meat is tender.",
+   "Add the salt, corn and carrot and cook for 15 minutes.",
+   "Add the potatoes and cook for 10 minutes. Add the zucchini and cabbage and cook 8 minutes more.",
+   "Finish with the cilantro and serve with lime, chopped onion and serrano chile to taste."
+  ],
+  "tips": [
+   "Starting in cold water and skimming is what keeps the broth clear.",
+   "The vegetables go in stages so they're all done at the same time."
+  ],
+  "video": "caldo de res recipe"
+ },
+ "added": "2026-09-30"
+}

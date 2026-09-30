@@ -1,0 +1,196 @@
+{
+ "id": "enchiladas-suizas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 12,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tomatillo",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "crema",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "cheese",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Enchiladas suizas",
+  "blurb": "Enchiladas de pollo en salsa verde con crema, gratinadas con queso. El nombre viene de Sanborns y de la idea de que en Suiza todo lleva lácteos.",
+  "ing": [
+   {
+    "n": "tortillas de maíz"
+   },
+   {
+    "n": "pollo cocido deshebrado"
+   },
+   {
+    "n": "tomatillos",
+    "note": "sin cáscara"
+   },
+   {
+    "n": "chiles serranos"
+   },
+   {
+    "n": "cebolla blanca"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "crema mexicana"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "queso Chihuahua o Monterey Jack",
+    "note": "rallado"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Hierve los tomatillos, los serranos, la cebolla y el ajo 8 minutos. Lícualos con el cilantro, la crema, el caldo y la sal.",
+   "Fríe la salsa en 1 cucharada de aceite 5 minutos a fuego medio, sin que hierva fuerte para que la crema no se corte.",
+   "Pasa cada tortilla por aceite caliente 5 segundos por lado y luego por la salsa.",
+   "Rellena con pollo, enrolla y acomoda en una fuente con la unión hacia abajo.",
+   "Cubre con el resto de la salsa y el queso. Hornea a 200 °C 15 minutos, hasta que el queso burbujee y se dore en manchas."
+  ],
+  "tips": [
+   "Freír la tortilla antes de mojarla en salsa evita que se rompa: el aceite la sella.",
+   "Si la salsa se ve cortada, lícuala otra vez unos segundos."
+  ],
+  "video": "enchiladas suizas receta"
+ },
+ "en": {
+  "name": "Enchiladas Suizas",
+  "blurb": "Chicken enchiladas in a creamy green salsa, baked under melted cheese. The name comes from the idea that everything in Switzerland is made with dairy.",
+  "ing": [
+   {
+    "n": "corn tortillas"
+   },
+   {
+    "n": "cooked shredded chicken"
+   },
+   {
+    "n": "tomatillos",
+    "note": "husked"
+   },
+   {
+    "n": "serrano chiles"
+   },
+   {
+    "n": "white onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "Mexican crema"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "Chihuahua or Monterey Jack cheese",
+    "note": "grated"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Boil the tomatillos, serranos, onion and garlic for 8 minutes. Blend with the cilantro, crema, stock and salt.",
+   "Fry the sauce in 1 tablespoon of oil for 5 minutes over medium heat, without letting it boil hard so the crema doesn't split.",
+   "Pass each tortilla through hot oil for 5 seconds per side, then through the sauce.",
+   "Fill with chicken, roll up and arrange seam side down in a baking dish.",
+   "Cover with the rest of the sauce and the cheese. Bake at 200 °C for 15 minutes, until the cheese bubbles and browns in spots."
+  ],
+  "tips": [
+   "Frying the tortilla before dipping keeps it from tearing: the oil seals it.",
+   "If the sauce looks split, blend it again for a few seconds."
+  ],
+  "video": "enchiladas suizas recipe"
+ },
+ "added": "2026-09-30"
+}

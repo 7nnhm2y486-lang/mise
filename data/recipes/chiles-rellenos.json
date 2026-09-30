@@ -1,0 +1,175 @@
+{
+ "id": "chiles-rellenos",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "cheese",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "aerate"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Chiles rellenos",
+  "blurb": "Poblanos asados rellenos de queso, capeados en huevo batido a punto de nieve y servidos en caldillo de jitomate. El capeado debe quedar como una nube dorada.",
+  "ing": [
+   {
+    "n": "chiles poblanos"
+   },
+   {
+    "n": "queso Oaxaca o Chihuahua",
+    "note": "en bastones"
+   },
+   {
+    "n": "huevos",
+    "note": "separados"
+   },
+   {
+    "n": "harina"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "cebolla blanca"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Asa, suda en bolsa y pela los chiles. Abre un corte, quita las semillas y rellena con el queso. Cierra con un palillo.",
+   "Para el caldillo, lícua los jitomates, la cebolla, el ajo y la sal. Fríe 5 minutos en 1 cucharada de aceite, añade el caldo y cuece 10 minutos.",
+   "Bate las claras a punto de nieve firme. Añade las yemas una a una, batiendo solo hasta integrar.",
+   "Calienta el aceite a 180 °C. Pasa cada chile por harina, sacude el exceso y báñalo en el huevo.",
+   "Fríe 2 minutos por lado, bañándolo con aceite, hasta dorar. Escurre sobre papel.",
+   "Sirve en un plato hondo sobre el caldillo caliente, o déjalo hervir 1 minuto en él."
+  ],
+  "tips": [
+   "La harina es lo que hace que el huevo se pegue al chile. Sin ella, el capeado se resbala.",
+   "Las yemas se añaden al final y solo hasta integrar: batir más baja las claras."
+  ],
+  "video": "chiles rellenos capeados"
+ },
+ "en": {
+  "name": "Chiles Rellenos",
+  "blurb": "Roasted poblanos stuffed with cheese, coated in whipped-egg batter and served in tomato broth. The coating should come out like a golden cloud.",
+  "ing": [
+   {
+    "n": "poblano chiles"
+   },
+   {
+    "n": "Oaxaca or Chihuahua cheese",
+    "note": "in sticks"
+   },
+   {
+    "n": "eggs",
+    "note": "separated"
+   },
+   {
+    "n": "flour"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "white onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Char, sweat in a bag and peel the chiles. Cut a slit, remove the seeds and stuff with the cheese. Close with a toothpick.",
+   "For the broth, blend the tomatoes, onion, garlic and salt. Fry for 5 minutes in 1 tablespoon of oil, add the stock and simmer for 10 minutes.",
+   "Whip the egg whites to stiff peaks. Add the yolks one at a time, beating only until combined.",
+   "Heat the oil to 180 °C. Dredge each chile in flour, shake off the excess and coat it in the egg.",
+   "Fry 2 minutes per side, basting with oil, until golden. Drain on paper.",
+   "Serve in a shallow bowl over the hot broth, or let it simmer in it for 1 minute."
+  ],
+  "tips": [
+   "The flour is what makes the egg stick to the chile. Without it, the coating slides off.",
+   "Add the yolks last and only until combined: more beating deflates the whites."
+  ],
+  "video": "chiles rellenos recipe"
+ },
+ "added": "2026-09-30"
+}

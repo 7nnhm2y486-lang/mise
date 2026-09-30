@@ -16,13 +16,14 @@ test("internal links all resolve", () => {
   const bad = [];
   for(const p of pages){
     const html = fs.readFileSync(p, "utf8");
-    for(const m of html.matchAll(/(?:href|src)="(\/[^"#?]*)/g)){
-      let target = path.join(OUT, m[1]);
+    for(const m of html.matchAll(/(?:href|src)="((?:\.\.\/|\.\/|\/)[^"#?]*)/g)){
+      let target = m[1].startsWith("/") ? path.join(OUT, m[1]) : path.join(path.dirname(p), m[1]);
       if(m[1].endsWith("/")) target = path.join(target, "index.html");
       if(!fs.existsSync(target)) bad.push(`${rel(p)} -> ${m[1]}`);
     }
   }
   assert.deepEqual(bad.slice(0, 20), []);
+  assert.ok(!pages.some(p => /(href|src)="\/[^\/]/.test(fs.readFileSync(p, "utf8"))), "no root-absolute links");
 });
 
 test("recipe pages: both languages, structured data, disclaimer", () => {

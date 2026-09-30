@@ -1,0 +1,270 @@
+# Dishes to write, in priority order. Format: id | country | course | Spanish name | English name
+# Latin America first (the launch focus), then Spain/Portugal, then the rest of the world.
+# When a dish is written, the add script refuses a duplicate id; delete written lines as you go (or leave them: done = file exists).
+enchiladas-suizas | Mexico | main | Enchiladas suizas | Enchiladas Suizas
+enchiladas-rojas | Mexico | main | Enchiladas rojas | Red Enchiladas
+tamales-verdes | Mexico | main | Tamales de pollo en salsa verde | Chicken Tamales in Green Salsa
+tamales-rajas | Mexico | main | Tamales de rajas con queso | Rajas and Cheese Tamales
+chiles-en-nogada | Mexico | main | Chiles en nogada | Chiles en Nogada
+chiles-rellenos | Mexico | main | Chiles rellenos de queso | Cheese-Stuffed Chiles Rellenos
+pozole-verde | Mexico | soup | Pozole verde de Guerrero | Green Pozole
+caldo-de-res | Mexico | soup | Caldo de res | Mexican Beef Soup
+mole-de-olla | Mexico | soup | Mole de olla | Mole de Olla
+sopes | Mexico | snack | Sopes | Sopes
+quesadillas | Mexico | snack | Quesadillas de comal | Griddle Quesadillas
+flautas | Mexico | main | Flautas de pollo | Chicken Flautas
+tlayudas | Mexico | main | Tlayudas | Tlayudas
+picadillo | Mexico | main | Picadillo | Mexican Picadillo
+albondigas-chipotle | Mexico | main | Albóndigas en chipotle | Meatballs in Chipotle Sauce
+pescado-veracruzana | Mexico | main | Pescado a la veracruzana | Fish Veracruz-Style
+aguachile | Mexico | starter | Aguachile verde | Green Aguachile
+coctel-de-camaron | Mexico | starter | Cóctel de camarón | Mexican Shrimp Cocktail
+pico-de-gallo | Mexico | sauce | Pico de gallo | Pico de Gallo
+salsa-taquera | Mexico | sauce | Salsa taquera de chile de árbol | Árbol Chile Taco Salsa
+salsa-molcajete | Mexico | sauce | Salsa de molcajete | Molcajete Salsa
+cebollas-encurtidas | Mexico | side | Cebolla morada encurtida | Pickled Red Onions
+rajas-con-crema | Mexico | side | Rajas con crema | Poblano Strips in Cream
+calabacitas | Mexico | side | Calabacitas a la mexicana | Mexican-Style Zucchini
+nopales | Mexico | side | Ensalada de nopales | Nopal Salad
+arroz-verde | Mexico | side | Arroz verde | Green Rice
+frijoles-charros | Mexico | side | Frijoles charros | Charro Beans
+tacos-de-canasta | Mexico | main | Tacos de canasta | Basket Tacos
+tacos-de-pescado | Mexico | main | Tacos de pescado estilo Baja | Baja Fish Tacos
+tacos-de-bistec | Mexico | main | Tacos de bistec | Steak Tacos
+tacos-de-papa | Mexico | main | Tacos dorados de papa | Crispy Potato Tacos
+gorditas | Mexico | snack | Gorditas de chicharrón prensado | Pressed Pork Gorditas
+molletes | Mexico | breakfast | Molletes | Molletes
+huevos-a-la-mexicana | Mexico | breakfast | Huevos a la mexicana | Mexican-Style Scrambled Eggs
+huevos-divorciados | Mexico | breakfast | Huevos divorciados | Divorced Eggs
+machaca-con-huevo | Mexico | breakfast | Machaca con huevo | Machaca with Eggs
+entomatadas | Mexico | main | Entomatadas | Entomatadas
+enfrijoladas | Mexico | main | Enfrijoladas | Enfrijoladas
+papadzules | Mexico | main | Papadzules | Papadzules
+sopa-de-lima | Mexico | soup | Sopa de lima | Yucatán Lime Soup
+sopa-de-fideo | Mexico | soup | Sopa de fideo | Mexican Noodle Soup
+crema-de-elote | Mexico | soup | Crema de elote | Creamy Corn Soup
+caldo-tlalpeno | Mexico | soup | Caldo tlalpeño | Caldo Tlalpeño
+menudo | Mexico | soup | Menudo rojo | Red Menudo
+barbacoa | Mexico | main | Barbacoa de res | Beef Barbacoa
+cochinita-tacos | Mexico | main | Panuchos | Panuchos
+pollo-pibil | Mexico | main | Pollo pibil | Chicken Pibil
+mole-verde | Mexico | main | Mole verde | Green Mole
+pipian-rojo | Mexico | main | Pipián rojo | Red Pipián
+mole-amarillo | Mexico | main | Mole amarillo | Yellow Mole
+adobo-de-cerdo | Mexico | main | Cerdo en adobo | Pork in Adobo
+chile-colorado | Mexico | main | Chile colorado | Chile Colorado
+chile-verde | Mexico | main | Chile verde de cerdo | Pork Chile Verde
+camarones-diabla | Mexico | main | Camarones a la diabla | Diabla Shrimp
+pollo-en-mole | Mexico | main | Arroz con pollo a la mexicana | Mexican Chicken and Rice
+arroz-con-leche-mx | Mexico | sweet | Arroz con leche | Arroz con Leche
+capirotada | Mexico | sweet | Capirotada | Capirotada
+jericalla | Mexico | sweet | Jericalla | Jericalla
+cajeta | Mexico | sauce | Cajeta | Cajeta
+conchas | Mexico | bread | Conchas | Conchas
+bolillos | Mexico | bread | Bolillos | Bolillos
+polvorones | Mexico | cookie | Polvorones | Mexican Wedding Cookies
+pan-de-muerto | Mexico | bread | Pan de muerto | Pan de Muerto
+rosca-de-reyes | Mexico | bread | Rosca de Reyes | Rosca de Reyes
+champurrado | Mexico | drink | Champurrado | Champurrado
+atole | Mexico | drink | Atole de vainilla | Vanilla Atole
+chocolate-caliente-mx | Mexico | drink | Chocolate caliente de mesa | Mexican Hot Chocolate
+agua-de-jamaica | Mexico | drink | Agua de jamaica | Hibiscus Agua Fresca
+agua-de-tamarindo | Mexico | drink | Agua de tamarindo | Tamarind Agua Fresca
+paletas-de-mango | Mexico | sweet | Paletas de mango con chile | Mango Chile Popsicles
+tortillas-de-maiz | Mexico | bread | Tortillas de maíz | Corn Tortillas
+tortillas-de-harina | Mexico | bread | Tortillas de harina | Flour Tortillas
+pastel-de-elote | Mexico | sweet | Pan de elote | Mexican Sweet Corn Cake
+buñuelos | Mexico | sweet | Buñuelos | Buñuelos
+dulce-de-calabaza | Mexico | sweet | Calabaza en tacha | Candied Pumpkin
+ajiaco | Colombia | soup | Ajiaco santafereño | Ajiaco
+bandeja-paisa | Colombia | main | Bandeja paisa | Bandeja Paisa
+sancocho | Colombia | soup | Sancocho de gallina | Hen Sancocho
+arepas-de-choclo | Colombia | breakfast | Arepas de choclo | Sweet Corn Arepas
+arepa-de-huevo | Colombia | snack | Arepa de huevo | Egg-Stuffed Arepa
+empanadas-colombianas | Colombia | snack | Empanadas colombianas | Colombian Empanadas
+changua | Colombia | breakfast | Changua | Changua
+calentado | Colombia | breakfast | Calentado | Calentado
+posta-negra | Colombia | main | Posta negra cartagenera | Cartagena Black Beef
+arroz-con-coco | Colombia | side | Arroz con coco | Coconut Rice
+patacones | Colombia | side | Patacones | Patacones
+hogao | Colombia | sauce | Hogao | Hogao
+aji-colombiano | Colombia | sauce | Ají colombiano | Colombian Ají
+pandebono | Colombia | bread | Pandebono | Pandebono
+buñuelos-colombianos | Colombia | snack | Buñuelos colombianos | Colombian Buñuelos
+natilla | Colombia | sweet | Natilla | Natilla
+obleas-arequipe | Colombia | sweet | Obleas con arequipe | Wafers with Arequipe
+lulada | Colombia | drink | Lulada | Lulada
+cazuela-de-mariscos | Colombia | soup | Cazuela de mariscos | Colombian Seafood Chowder
+sobrebarriga | Colombia | main | Sobrebarriga en salsa | Braised Flank Steak
+lechona | Colombia | main | Lechona | Lechona
+pabellon-criollo | Venezuela | main | Pabellón criollo | Pabellón Criollo
+cachapas | Venezuela | breakfast | Cachapas | Cachapas
+hallacas | Venezuela | main | Hallacas | Hallacas
+tequeños | Venezuela | snack | Tequeños | Tequeños
+asado-negro | Venezuela | main | Asado negro | Asado Negro
+reina-pepiada | Venezuela | main | Arepa reina pepiada | Reina Pepiada Arepa
+perico | Venezuela | breakfast | Perico venezolano | Venezuelan Perico
+quesillo | Venezuela | sweet | Quesillo | Quesillo
+bienmesabe | Venezuela | sweet | Bienmesabe | Bienmesabe
+pan-de-jamon | Venezuela | bread | Pan de jamón | Pan de Jamón
+chicha-venezolana | Venezuela | drink | Chicha venezolana | Venezuelan Chicha
+ceviche-carretillero | Peru | starter | Ceviche carretillero | Street-Cart Ceviche
+tiradito | Peru | starter | Tiradito | Tiradito
+leche-de-tigre | Peru | starter | Leche de tigre | Leche de Tigre
+aji-de-gallina | Peru | main | Ají de gallina | Ají de Gallina
+causa-limena | Peru | starter | Causa limeña | Causa Limeña
+papa-a-la-huancaina | Peru | starter | Papa a la huancaína | Papa a la Huancaína
+anticuchos | Peru | main | Anticuchos de corazón | Beef Heart Anticuchos
+arroz-con-pollo-pe | Peru | main | Arroz con pollo peruano | Peruvian Green Rice with Chicken
+seco-de-res | Peru | main | Seco de res | Seco de Res
+carapulcra | Peru | main | Carapulcra | Carapulcra
+rocoto-relleno | Peru | main | Rocoto relleno | Stuffed Rocoto
+tacu-tacu | Peru | main | Tacu tacu | Tacu Tacu
+arroz-chaufa | Peru | main | Arroz chaufa | Arroz Chaufa
+tallarines-verdes | Peru | main | Tallarines verdes | Peruvian Pesto Pasta
+pollo-a-la-brasa | Peru | main | Pollo a la brasa | Peruvian Roast Chicken
+salsa-huancaina | Peru | sauce | Salsa huancaína | Huancaína Sauce
+aji-verde | Peru | sauce | Ají verde | Peruvian Green Sauce
+salsa-criolla | Peru | sauce | Salsa criolla | Salsa Criolla
+chupe-de-camarones | Peru | soup | Chupe de camarones | Shrimp Chupe
+parihuela | Peru | soup | Parihuela | Parihuela
+sopa-criolla | Peru | soup | Sopa criolla | Sopa Criolla
+papas-rellenas | Peru | snack | Papas rellenas | Stuffed Potatoes
+picarones | Peru | sweet | Picarones | Picarones
+suspiro-limeno | Peru | sweet | Suspiro limeño | Suspiro Limeño
+mazamorra-morada | Peru | sweet | Mazamorra morada | Purple Corn Pudding
+chicha-morada | Peru | drink | Chicha morada | Chicha Morada
+pisco-sour | Peru | drink | Pisco sour | Pisco Sour
+quinoa-atamalada | Peru | main | Quinua atamalada | Creamy Quinoa Stew
+solterito | Peru | starter | Solterito arequipeño | Solterito Salad
+alfajores-maicena | Argentina | cookie | Alfajores de maicena | Cornstarch Alfajores
+asado | Argentina | main | Asado a la parrilla | Argentine Asado
+milanesa | Argentina | main | Milanesa | Milanesa
+milanesa-napolitana | Argentina | main | Milanesa a la napolitana | Milanesa Napolitana
+locro | Argentina | soup | Locro | Locro
+provoleta | Argentina | starter | Provoleta | Grilled Provolone
+salsa-criolla-ar | Argentina | sauce | Salsa criolla argentina | Argentine Salsa Criolla
+choripan | Argentina | main | Choripán | Choripán
+matambre-arrollado | Argentina | main | Matambre arrollado | Rolled Matambre
+humita-en-olla | Argentina | main | Humita en olla | Creamy Corn Humita
+empanadas-tucumanas | Argentina | snack | Empanadas tucumanas | Tucumán Empanadas
+fugazzeta | Argentina | main | Fugazzeta | Fugazzeta
+dulce-de-leche | Argentina | sauce | Dulce de leche casero | Homemade Dulce de Leche
+chocotorta | Argentina | sweet | Chocotorta | Chocotorta
+pastafrola | Argentina | sweet | Pastafrola | Pastafrola
+medialunas | Argentina | bread | Medialunas | Medialunas
+chipa | Paraguay | bread | Chipá | Chipa
+sopa-paraguaya | Paraguay | side | Sopa paraguaya | Sopa Paraguaya
+vori-vori | Paraguay | soup | Vori vori | Vori Vori
+chivito | Uruguay | main | Chivito | Chivito
+torta-frita | Uruguay | snack | Torta frita | Torta Frita
+pastel-de-choclo | Chile | main | Pastel de choclo | Pastel de Choclo
+cazuela-chilena | Chile | soup | Cazuela | Chilean Cazuela
+porotos-granados | Chile | main | Porotos granados | Porotos Granados
+pebre | Chile | sauce | Pebre | Pebre
+sopaipillas | Chile | bread | Sopaipillas | Sopaipillas
+empanadas-de-pino | Chile | main | Empanadas de pino | Pino Empanadas
+charquican | Chile | main | Charquicán | Charquicán
+completo | Chile | snack | Completo italiano | Chilean Completo
+mote-con-huesillo | Chile | drink | Mote con huesillo | Mote con Huesillo
+leche-asada | Chile | sweet | Leche asada | Chilean Baked Custard
+salteñas | Bolivia | snack | Salteñas | Salteñas
+silpancho | Bolivia | main | Silpancho | Silpancho
+sopa-de-mani | Bolivia | soup | Sopa de maní | Bolivian Peanut Soup
+pique-macho | Bolivia | main | Pique macho | Pique Macho
+llajua | Bolivia | sauce | Llajwa | Llajwa
+encebollado | Ecuador | soup | Encebollado | Encebollado
+locro-de-papa | Ecuador | soup | Locro de papa | Ecuadorian Potato Soup
+ceviche-ecuatoriano | Ecuador | starter | Ceviche de camarón ecuatoriano | Ecuadorian Shrimp Ceviche
+llapingachos | Ecuador | main | Llapingachos | Llapingachos
+bolon-de-verde | Ecuador | breakfast | Bolón de verde | Bolón de Verde
+fanesca | Ecuador | soup | Fanesca | Fanesca
+seco-de-pollo | Ecuador | main | Seco de pollo | Seco de Pollo
+encocado | Ecuador | main | Encocado de pescado | Fish Encocado
+pupusas | El Salvador | main | Pupusas | Pupusas
+curtido | El Salvador | side | Curtido | Curtido
+salsa-pupusas | El Salvador | sauce | Salsa roja para pupusas | Pupusa Tomato Sauce
+pollo-guisado | Honduras | main | Pollo guisado | Pollo Guisado
+baleadas | Honduras | main | Baleadas | Baleadas
+pepian | Guatemala | main | Pepián de pollo | Chicken Pepián
+jocon | Guatemala | main | Jocón | Jocón
+kak-ik | Guatemala | soup | Kak'ik | Kak'ik
+chiles-guatemala | Guatemala | main | Chiles rellenos chapines | Guatemalan Chiles Rellenos
+gallo-pinto | Costa Rica | breakfast | Gallo pinto | Gallo Pinto
+casado | Costa Rica | main | Casado | Casado
+olla-de-carne | Costa Rica | soup | Olla de carne | Olla de Carne
+vigoron | Nicaragua | main | Vigorón | Vigorón
+nacatamal | Nicaragua | main | Nacatamal | Nacatamal
+indio-viejo | Nicaragua | main | Indio viejo | Indio Viejo
+sancocho-panameno | Panama | soup | Sancocho panameño | Panamanian Sancocho
+carimañolas | Panama | snack | Carimañolas | Carimañolas
+arroz-con-pollo-cu | Cuba | main | Arroz con pollo cubano | Cuban Chicken and Rice
+picadillo-cubano | Cuba | main | Picadillo cubano | Cuban Picadillo
+frijoles-negros-cu | Cuba | side | Frijoles negros cubanos | Cuban Black Beans
+moros-y-cristianos | Cuba | side | Moros y cristianos | Moros y Cristianos
+yuca-con-mojo | Cuba | side | Yuca con mojo | Yuca con Mojo
+mojo-criollo | Cuba | sauce | Mojo criollo | Cuban Mojo
+lechon-asado | Cuba | main | Lechón asado | Cuban Roast Pork
+sandwich-cubano | Cuba | main | Sándwich cubano | Cuban Sandwich
+vaca-frita | Cuba | main | Vaca frita | Vaca Frita
+tostones | Cuba | side | Tostones | Tostones
+maduros | Cuba | side | Plátanos maduros fritos | Fried Sweet Plantains
+flan-de-coco | Cuba | sweet | Flan de coco | Coconut Flan
+mofongo | Puerto Rico | main | Mofongo | Mofongo
+arroz-con-gandules | Puerto Rico | side | Arroz con gandules | Arroz con Gandules
+pernil | Puerto Rico | main | Pernil | Pernil
+sofrito-pr | Puerto Rico | sauce | Sofrito puertorriqueño | Puerto Rican Sofrito
+tembleque | Puerto Rico | sweet | Tembleque | Tembleque
+coquito | Puerto Rico | drink | Coquito | Coquito
+alcapurrias | Puerto Rico | snack | Alcapurrias | Alcapurrias
+pastelon | Puerto Rico | main | Pastelón | Pastelón
+mangu | Dominican Republic | breakfast | Mangú | Mangú
+sancocho-dominicano | Dominican Republic | soup | Sancocho dominicano | Dominican Sancocho
+la-bandera | Dominican Republic | main | La bandera | La Bandera
+habichuelas-guisadas | Dominican Republic | side | Habichuelas guisadas | Stewed Red Beans
+habichuelas-con-dulce | Dominican Republic | sweet | Habichuelas con dulce | Sweet Cream of Beans
+chimichurri-dominicano | Dominican Republic | main | Chimi burger dominicano | Dominican Chimi Burger
+griot | Haiti | main | Griot | Griot
+pikliz | Haiti | side | Pikliz | Pikliz
+rice-and-peas | Jamaica | side | Arroz con frijoles jamaiquino | Jamaican Rice and Peas
+ackee-saltfish | Jamaica | breakfast | Ackee con bacalao | Ackee and Saltfish
+curry-goat | Jamaica | main | Curry de cabra | Curry Goat
+pelau | Trinidad and Tobago | main | Pelau | Pelau
+doubles | Trinidad and Tobago | snack | Doubles | Doubles
+brigadeiro-branco | Brazil | sweet | Beijinho | Beijinho
+coxinha | Brazil | snack | Coxinha | Coxinha
+pastel-de-feira | Brazil | snack | Pastel de feira | Brazilian Pastel
+farofa-br | Brazil | side | Farofa | Farofa
+vinagrete | Brazil | sauce | Vinagrete | Brazilian Vinaigrette Salsa
+arroz-brasileiro | Brazil | side | Arroz brasileño | Brazilian White Rice
+feijao-tropeiro | Brazil | main | Feijão tropeiro | Feijão Tropeiro
+bobo-de-camarao | Brazil | main | Bobó de camarão | Bobó de Camarão
+acaraje | Brazil | snack | Acarajé | Acarajé
+vatapa | Brazil | main | Vatapá | Vatapá
+picanha | Brazil | main | Picanha a la parrilla | Grilled Picanha
+escondidinho | Brazil | main | Escondidinho | Escondidinho
+pudim | Brazil | sweet | Pudim de leite | Brazilian Flan
+bolo-de-cenoura | Brazil | sweet | Bolo de cenoura | Brazilian Carrot Cake
+quindim | Brazil | sweet | Quindim | Quindim
+tapioca-br | Brazil | breakfast | Tapioca | Tapioca Crepes
+acai-bowl | Brazil | breakfast | Açaí en tazón | Açaí Bowl
+caipirinha | Brazil | drink | Caipiriña | Caipirinha
+gazpacho | Spain | soup | Gazpacho | Gazpacho
+salmorejo | Spain | soup | Salmorejo | Salmorejo
+patatas-bravas | Spain | starter | Patatas bravas | Patatas Bravas
+gambas-al-ajillo | Spain | starter | Gambas al ajillo | Garlic Shrimp
+croquetas | Spain | starter | Croquetas de jamón | Ham Croquetas
+pulpo-a-la-gallega | Spain | starter | Pulpo a la gallega | Galician Octopus
+pisto | Spain | side | Pisto | Pisto
+fabada | Spain | soup | Fabada asturiana | Fabada
+cocido-madrileno | Spain | soup | Cocido madrileño | Cocido Madrileño
+crema-catalana | Spain | sweet | Crema catalana | Crema Catalana
+arroz-con-leche-es | Spain | sweet | Arroz con leche asturiano | Asturian Rice Pudding
+torrijas | Spain | sweet | Torrijas | Torrijas
+pan-con-tomate | Spain | starter | Pan con tomate | Pan con Tomate
+tarta-de-santiago | Spain | sweet | Tarta de Santiago | Tarta de Santiago
+pollo-al-ajillo | Spain | main | Pollo al ajillo | Garlic Chicken
+lentejas | Spain | soup | Lentejas estofadas | Spanish Lentil Stew
+bacalhau-a-bras | Portugal | main | Bacalao a la Brás | Bacalhau à Brás
+caldo-verde | Portugal | soup | Caldo verde | Caldo Verde
+frango-piri-piri | Portugal | main | Pollo piri piri | Piri Piri Chicken

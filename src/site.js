@@ -13,7 +13,8 @@
   let avoid = store.get("avoid", []);
   let units = store.get("units", lang === "en" ? "us" : "metric");
   let E = null;
-  const engineReady = fetch("/data/engine.json").then(r => r.json()).then(d => { E = d; return d; });
+  const ROOT = document.body.dataset.root || "/";
+  const engineReady = fetch(ROOT + "data/engine.json").then(r => r.json()).then(d => { E = d; return d; });
 
   const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]));
   const alName = a => (E && E.allergens[a] ? E.allergens[a][lang] : a);
@@ -177,7 +178,7 @@
   /* ---------- home: verdicts & filters ---------- */
   const grid = $("[data-grid]");
   let RK = null;
-  const recipesReady = grid ? fetch("/data/recipes.json").then(r => r.json()).then(d => { RK = d; }) : Promise.resolve();
+  const recipesReady = grid ? fetch(ROOT + "data/recipes.json").then(r => r.json()).then(d => { RK = d; }) : Promise.resolve();
   const norm = s => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
   const verdictCache = {};
   function renderHome(){

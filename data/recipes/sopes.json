@@ -1,0 +1,165 @@
+{
+ "id": "sopes",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "hotsauce",
+   "role": "sauce"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "queso",
+   "role": "garnish"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "crema",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Sopes",
+  "blurb": "Discos gruesos de masa cocidos en comal, pellizcados en el borde para contener frijoles, chorizo, salsa y queso.",
+  "ing": [
+   {
+    "n": "masa de maíz",
+    "note": "o 250 g de harina de maíz nixtamalizado con agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "frijoles refritos"
+   },
+   {
+    "n": "chorizo",
+    "note": "sin tripa, frito"
+   },
+   {
+    "n": "salsa roja"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmoronado"
+   },
+   {
+    "n": "crema"
+   },
+   {
+    "n": "hojas de lechuga",
+    "note": "en tiras"
+   }
+  ],
+  "steps": [
+   "Amasa la masa con la sal hasta que no se pegue a las manos. Divide en 12 bolas.",
+   "Aplana cada bola a 1 centímetro de grosor, unos 9 centímetros de diámetro.",
+   "Cuécelas en un comal caliente 2 minutos por lado, hasta que tengan manchas pero sigan blandas.",
+   "Con la masa aún caliente, pellizca el borde para hacer una pared. Cuidado: quema.",
+   "Unta manteca en el comal y dora la base de los sopes 2 minutos.",
+   "Cubre con frijoles, chorizo, salsa, queso, crema y lechuga."
+  ],
+  "tips": [
+   "Pellizca el borde en caliente: fría, la masa se agrieta.",
+   "Si la masa se agrieta al aplanar, le falta agua."
+  ],
+  "video": "sopes receta"
+ },
+ "en": {
+  "name": "Sopes",
+  "blurb": "Thick masa discs cooked on a griddle and pinched at the edge to hold beans, chorizo, salsa and cheese.",
+  "ing": [
+   {
+    "n": "corn masa",
+    "note": "or 250 g masa harina mixed with water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "refried beans"
+   },
+   {
+    "n": "chorizo",
+    "note": "casing removed, fried"
+   },
+   {
+    "n": "red salsa"
+   },
+   {
+    "n": "queso fresco",
+    "note": "crumbled"
+   },
+   {
+    "n": "crema"
+   },
+   {
+    "n": "lettuce leaves",
+    "note": "shredded"
+   }
+  ],
+  "steps": [
+   "Knead the masa with the salt until it no longer sticks to your hands. Divide into 12 balls.",
+   "Flatten each ball to 1 centimeter thick, about 9 centimeters across.",
+   "Cook them on a hot griddle for 2 minutes per side, until spotted but still soft.",
+   "While still hot, pinch up the edge to make a rim. Careful: it's hot.",
+   "Grease the griddle with lard and brown the bottoms of the sopes for 2 minutes.",
+   "Top with beans, chorizo, salsa, cheese, crema and lettuce."
+  ],
+  "tips": [
+   "Pinch the edge while hot: cold masa cracks.",
+   "If the masa cracks when you flatten it, it needs more water."
+  ],
+  "video": "sopes recipe"
+ },
+ "added": "2026-09-30"
+}

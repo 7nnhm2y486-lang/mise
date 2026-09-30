@@ -1,0 +1,317 @@
+{
+ "id": "chiles-en-nogada",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 6,
+   "u": "",
+   "k": "chilli",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "porkmince",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "fruit",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "fruit",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "fruit",
+   "role": "sweet"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "plantain",
+   "role": "sweet"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "almond",
+   "role": "crunch"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "walnut",
+   "role": "sauce"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "cheese",
+   "role": "sauce"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "milk",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "fruit",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Chiles en nogada",
+  "blurb": "Poblanos rellenos de picadillo con frutas, cubiertos de salsa fría de nuez y granada. Los colores de la bandera y la temporada de agosto en Puebla.",
+  "ing": [
+   {
+    "n": "chiles poblanos"
+   },
+   {
+    "n": "carne molida de cerdo"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "picada"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "jitomate",
+    "note": "picado"
+   },
+   {
+    "n": "manzana panochera o manzana",
+    "note": "en cubos"
+   },
+   {
+    "n": "pera",
+    "note": "en cubos"
+   },
+   {
+    "n": "durazno",
+    "note": "en cubos"
+   },
+   {
+    "n": "plátano macho maduro",
+    "note": "en cubos"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "almendras",
+    "note": "picadas"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "nueces de Castilla",
+    "note": "peladas"
+   },
+   {
+    "n": "queso de cabra fresco"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "granada",
+    "note": "desgranada"
+   },
+   {
+    "n": "perejil"
+   }
+  ],
+  "steps": [
+   "Asa los chiles directo en la llama hasta que la piel esté negra por todas partes. Mételos en una bolsa 10 minutos, pélalos, haz un corte lateral y retira las semillas sin romperlos.",
+   "Para el relleno, sofríe la cebolla y el ajo en el aceite 5 minutos. Añade las carnes y dora 8 minutos.",
+   "Añade el jitomate y cocina 5 minutos. Añade las frutas, las pasas, las almendras, la canela y la sal y cocina 10 minutos, hasta que la fruta esté tierna pero entera.",
+   "Para la nogada, lícua las nueces, el queso, la leche y el azúcar hasta que esté muy lisa y espesa como crema. Ajusta con leche.",
+   "Rellena los chiles con el picadillo tibio, cúbrelos con la nogada fría y termina con granada y perejil."
+  ],
+  "tips": [
+   "Pelar la piel fina de la nuez fresca es tedioso pero es lo que hace la nogada blanca y sin amargor. Remojar las nueces en leche una noche ayuda.",
+   "El chile se sirve a temperatura ambiente y la nogada fría: es parte del plato."
+  ],
+  "video": "chiles en nogada receta"
+ },
+ "en": {
+  "name": "Chiles en Nogada",
+  "blurb": "Poblanos stuffed with fruit-studded picadillo, covered in cold walnut sauce and pomegranate. The colors of the flag and August in Puebla.",
+  "ing": [
+   {
+    "n": "poblano chiles"
+   },
+   {
+    "n": "ground pork"
+   },
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "white onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "tomato",
+    "note": "chopped"
+   },
+   {
+    "n": "apple",
+    "note": "diced"
+   },
+   {
+    "n": "pear",
+    "note": "diced"
+   },
+   {
+    "n": "peach",
+    "note": "diced"
+   },
+   {
+    "n": "ripe plantain",
+    "note": "diced"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "almonds",
+    "note": "chopped"
+   },
+   {
+    "n": "cinnamon"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "walnuts",
+    "note": "peeled"
+   },
+   {
+    "n": "fresh goat cheese"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "pomegranate",
+    "note": "seeded"
+   },
+   {
+    "n": "parsley"
+   }
+  ],
+  "steps": [
+   "Char the chiles directly over the flame until the skin is black all over. Put them in a bag for 10 minutes, peel, cut a slit down one side and remove the seeds without tearing them.",
+   "For the filling, cook the onion and garlic in the oil for 5 minutes. Add the meats and brown for 8 minutes.",
+   "Add the tomato and cook 5 minutes. Add the fruit, raisins, almonds, cinnamon and salt and cook for 10 minutes, until the fruit is tender but whole.",
+   "For the nogada, blend the walnuts, cheese, milk and sugar until very smooth and thick as cream. Adjust with milk.",
+   "Fill the chiles with the warm picadillo, cover with the cold nogada and finish with pomegranate and parsley."
+  ],
+  "tips": [
+   "Peeling the thin skin off fresh walnuts is tedious, but it's what makes the nogada white and not bitter. Soaking the nuts in milk overnight helps.",
+   "The chile is served at room temperature and the nogada cold: that contrast is part of the dish."
+  ],
+  "video": "chiles en nogada recipe"
+ },
+ "added": "2026-09-30"
+}

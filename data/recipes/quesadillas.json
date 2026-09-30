@@ -1,0 +1,99 @@
+{
+ "id": "quesadillas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 8,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "cheese",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "hotsauce",
+   "role": "sauce"
+  }
+ ],
+ "es": {
+  "name": "Quesadillas de comal",
+  "blurb": "Tortilla de maíz, queso Oaxaca y una hoja de epazote, doradas en comal seco. Tres ingredientes y la paciencia de esperar a que el queso se derrita.",
+  "ing": [
+   {
+    "n": "tortillas de maíz"
+   },
+   {
+    "n": "queso Oaxaca",
+    "note": "deshebrado"
+   },
+   {
+    "n": "epazote",
+    "note": "hojas"
+   },
+   {
+    "n": "salsa verde o roja"
+   }
+  ],
+  "steps": [
+   "Calienta un comal a fuego medio, sin grasa.",
+   "Calienta cada tortilla 20 segundos por lado para ablandarla.",
+   "Pon queso en una mitad y una o dos hojas de epazote, y dobla.",
+   "Cocina 2-3 minutos por lado, presionando, hasta que la tortilla tenga manchas doradas y el queso se derrita por completo.",
+   "Sirve de inmediato con salsa."
+  ],
+  "tips": [
+   "Fuego medio, no alto: el queso tiene que derretirse antes de que la tortilla se queme.",
+   "En la Ciudad de México, una quesadilla no siempre lleva queso. Aquí sí."
+  ],
+  "video": "quesadillas de comal"
+ },
+ "en": {
+  "name": "Griddle Quesadillas",
+  "blurb": "Corn tortilla, Oaxaca cheese and a leaf of epazote, toasted on a dry griddle. Three ingredients and the patience to let the cheese melt.",
+  "ing": [
+   {
+    "n": "corn tortillas"
+   },
+   {
+    "n": "Oaxaca cheese",
+    "note": "pulled into strands"
+   },
+   {
+    "n": "epazote",
+    "note": "leaves"
+   },
+   {
+    "n": "green or red salsa"
+   }
+  ],
+  "steps": [
+   "Heat a griddle over medium heat, no fat.",
+   "Warm each tortilla for 20 seconds per side to soften it.",
+   "Put cheese on one half with one or two epazote leaves, and fold.",
+   "Cook 2-3 minutes per side, pressing down, until the tortilla is spotted golden and the cheese is fully melted.",
+   "Serve right away with salsa."
+  ],
+  "tips": [
+   "Medium heat, not high: the cheese needs to melt before the tortilla burns.",
+   "In Mexico City a quesadilla doesn't always contain cheese. This one does."
+  ],
+  "video": "quesadilla recipe corn tortilla"
+ },
+ "added": "2026-09-30"
+}

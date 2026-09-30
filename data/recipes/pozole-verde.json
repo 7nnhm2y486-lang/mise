@@ -1,0 +1,213 @@
+{
+ "id": "pozole-verde",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 180,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1000,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "hominy",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "tomatillo",
+   "role": "acid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "seeds",
+   "role": "thicken"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "plate",
+   "k": "veg",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Pozole verde",
+  "blurb": "El pozole de Guerrero: caldo de pollo espesado con pepita tostada, tomatillo y hierbas. Más fresco y herbal que el rojo.",
+  "ing": [
+   {
+    "n": "pollo en piezas"
+   },
+   {
+    "n": "maíz pozolero",
+    "note": "cocido, escurrido"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "pepitas de calabaza",
+    "note": "peladas"
+   },
+   {
+    "n": "chiles jalapeños"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "hojas de rábano o de lechuga"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "cebolla blanca"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "rábano, lechuga, aguacate y limón",
+    "note": "para servir"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada, para servir"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo con media cebolla, el ajo y sal en 3 litros de agua a fuego bajo 45 minutos. Retira el pollo y deshébralo.",
+   "Tuesta las pepitas en una sartén seca hasta que se inflen y empiecen a saltar, sin dorarlas de más.",
+   "Hierve los tomatillos y los jalapeños 8 minutos. Lícualos con las pepitas, el cilantro, las hojas, el epazote, la otra media cebolla y 500 ml del caldo.",
+   "Añade el maíz al caldo y cuece 30 minutos.",
+   "Vierte la salsa verde y cuece a fuego bajo 15 minutos más, sin que hierva fuerte.",
+   "Devuelve el pollo, rectifica la sal y sirve con las guarniciones."
+  ],
+  "tips": [
+   "Las pepitas espesan el caldo; si hierve fuerte después de añadirlas, se separan y el caldo se ve granuloso.",
+   "Las guarniciones son la mitad del plato: cada quien arma su plato."
+  ],
+  "video": "pozole verde guerrero"
+ },
+ "en": {
+  "name": "Green Pozole",
+  "blurb": "Pozole from Guerrero: chicken broth thickened with toasted pumpkin seeds, tomatillo and herbs. Fresher and greener than red pozole.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "hominy",
+    "note": "cooked, drained"
+   },
+   {
+    "n": "tomatillos"
+   },
+   {
+    "n": "pumpkin seeds",
+    "note": "hulled"
+   },
+   {
+    "n": "jalapeños"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "radish or lettuce leaves"
+   },
+   {
+    "n": "epazote"
+   },
+   {
+    "n": "white onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "radish, lettuce, avocado and lime",
+    "note": "to serve"
+   },
+   {
+    "n": "onion",
+    "note": "chopped, to serve"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken with half the onion, the garlic and salt in 3 liters of water over low heat for 45 minutes. Remove the chicken and shred it.",
+   "Toast the pumpkin seeds in a dry skillet until they puff and start to pop, without over-browning.",
+   "Boil the tomatillos and jalapeños for 8 minutes. Blend with the seeds, cilantro, leaves, epazote, the other half onion and 500 ml of the broth.",
+   "Add the hominy to the broth and simmer for 30 minutes.",
+   "Pour in the green sauce and simmer on low for 15 minutes more, without a hard boil.",
+   "Return the chicken, adjust the salt and serve with the garnishes."
+  ],
+  "tips": [
+   "The seeds thicken the broth; if it boils hard after adding them, they separate and the broth turns grainy.",
+   "The garnishes are half the dish: everyone builds their own bowl."
+  ],
+  "video": "pozole verde recipe"
+ },
+ "added": "2026-09-30"
+}
