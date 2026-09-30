@@ -1,0 +1,151 @@
+{
+ "id": "pebre",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 15,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pebre",
+  "blurb": "El pico de gallo chileno: tomate, cebolla, cilantro y ají con aceite y limón. En la mesa con pan amasado y sopaipillas.",
+  "ing": [
+   {
+    "n": "tomates",
+    "note": "en cubos pequeños"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "ajíes verdes",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado fino"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "limón",
+    "note": "en jugo"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja la cebolla picada en agua caliente 5 minutos y escurre.",
+   "Mezcla todo.",
+   "Deja reposar 20 minutos antes de servir."
+  ],
+  "tips": [
+   "El remojo en agua caliente le quita lo fuerte a la cebolla.",
+   "Dura 2 días en el refrigerador."
+  ],
+  "video": "pebre chileno receta"
+ },
+ "en": {
+  "name": "Pebre (Chilean Salsa)",
+  "blurb": "Chile's fresh salsa: tomato, onion, cilantro and chile with oil and lemon. On the table with bread and sopaipillas.",
+  "ing": [
+   {
+    "n": "tomatoes",
+    "note": "finely diced"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "green chiles",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "finely chopped"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "lemon",
+    "note": "juiced"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the chopped onion in hot water for 5 minutes and drain.",
+   "Mix everything.",
+   "Leave 20 minutes before serving."
+  ],
+  "tips": [
+   "The hot-water soak takes the sharpness out of the onion.",
+   "Keeps 2 days in the fridge."
+  ],
+  "video": "pebre recipe"
+ },
+ "added": "2026-09-30"
+}

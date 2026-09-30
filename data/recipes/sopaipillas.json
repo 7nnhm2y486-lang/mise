@@ -1,0 +1,125 @@
+{
+ "id": "sopaipillas",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 60,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "moisture"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "shortening",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Sopaipillas",
+  "blurb": "Discos fritos de masa con zapallo, dorados e inflados. Con pebre en la calle o pasadas en chancaca cuando llueve.",
+  "ing": [
+   {
+    "n": "zapallo cocido",
+    "note": "hecho puré"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "manteca vegetal",
+    "note": "derretida"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   }
+  ],
+  "steps": [
+   "Mezcla el puré de zapallo con la manteca derretida.",
+   "Añade la harina, el polvo de hornear y la sal y amasa hasta que esté suave. Reposa 15 minutos.",
+   "Estira a medio centímetro y corta círculos de 10 centímetros. Pincha cada uno con un tenedor.",
+   "Fríe en aceite a 180 °C 2 minutos por lado, hasta que se inflen y doren.",
+   "Escurre y sirve con pebre."
+  ],
+  "tips": [
+   "Pincharlas evita que se inflen como globos.",
+   "Envueltas en un paño se mantienen tibias 30 minutos."
+  ],
+  "video": "sopaipillas chilenas receta"
+ },
+ "en": {
+  "name": "Sopaipillas (Chilean Squash Fritters)",
+  "blurb": "Fried rounds of squash dough, golden and puffed. With pebre on the street, or soaked in chancaca syrup on rainy days.",
+  "ing": [
+   {
+    "n": "cooked winter squash",
+    "note": "mashed"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "vegetable shortening",
+    "note": "melted"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   }
+  ],
+  "steps": [
+   "Mix the squash purée with the melted shortening.",
+   "Add the flour, baking powder and salt and knead until soft. Rest 15 minutes.",
+   "Roll to half a centimetre and cut 10 centimetre circles. Prick each with a fork.",
+   "Fry in oil at 180 °C for 2 minutes per side, until puffed and golden.",
+   "Drain and serve with pebre."
+  ],
+  "tips": [
+   "Pricking stops them ballooning.",
+   "Wrapped in a towel they stay warm for 30 minutes."
+  ],
+  "video": "chilean sopaipillas recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,238 @@
+{
+ "id": "pastel-de-choclo",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 6,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 8,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "olives",
+   "role": "garnish"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "caramel"
+  }
+ ],
+ "es": {
+  "name": "Pastel de choclo",
+  "blurb": "Pino de carne con pollo, huevo y aceituna bajo una pastelera de choclo con albahaca, con azúcar caramelizada encima. El verano chileno.",
+  "ing": [
+   {
+    "n": "choclos frescos",
+    "note": "desgranados"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "cebollas",
+    "note": "picadas"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "ají de color (pimentón)"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "pollo cocido",
+    "note": "en trozos"
+   },
+   {
+    "n": "huevos duros",
+    "note": "en cuartos"
+   },
+   {
+    "n": "aceitunas negras"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "azúcar",
+    "note": "para espolvorear"
+   }
+  ],
+  "steps": [
+   "Licúa el choclo con la albahaca y la leche. Cuece con la mantequilla y 1 cucharadita de sal a fuego bajo 15 minutos, moviendo, hasta que espese.",
+   "Sofríe la cebolla en el aceite 15 minutos. Añade la carne, el ají de color, el comino y el resto de la sal y cuece 10 minutos: es el pino.",
+   "Calienta el horno a 200 °C. Reparte el pino en 6 pailas de greda o en una fuente. Pon encima el pollo, el huevo, las aceitunas y las pasas.",
+   "Cubre con la pastelera de choclo y espolvorea el azúcar.",
+   "Hornea 30 minutos, hasta que la superficie esté dorada y caramelizada."
+  ],
+  "tips": [
+   "Si el choclo es poco lechoso, añade un poco más de leche al licuar.",
+   "Se come con ensalada chilena de tomate y cebolla."
+  ],
+  "video": "pastel de choclo receta"
+ },
+ "en": {
+  "name": "Pastel de Choclo (Chilean Corn Pie)",
+  "blurb": "Beef pino with chicken, egg and olive under a basil corn topping, with caramelised sugar on top. The Chilean summer.",
+  "ing": [
+   {
+    "n": "fresh ears of corn",
+    "note": "kernels cut off"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "onions",
+    "note": "chopped"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "cooked chicken",
+    "note": "in pieces"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "quartered"
+   },
+   {
+    "n": "black olives"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "sugar",
+    "note": "to sprinkle"
+   }
+  ],
+  "steps": [
+   "Blend the corn with the basil and milk. Cook with the butter and 1 teaspoon of salt on low for 15 minutes, stirring, until thick.",
+   "Cook the onion in the oil for 15 minutes. Add the beef, paprika, cumin and the rest of the salt and cook 10 minutes: this is the pino.",
+   "Heat the oven to 200 °C. Divide the pino among 6 clay dishes or one baking dish. Top with the chicken, egg, olives and raisins.",
+   "Cover with the corn topping and sprinkle with the sugar.",
+   "Bake 30 minutes, until the top is golden and caramelised."
+  ],
+  "tips": [
+   "If the corn isn't milky, add a little more milk when blending.",
+   "Serve with Chilean tomato and onion salad."
+  ],
+  "video": "pastel de choclo recipe"
+ },
+ "added": "2026-09-30"
+}

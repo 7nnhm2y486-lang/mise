@@ -1,0 +1,108 @@
+{
+ "id": "leche-asada",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 75,
+ "serves": 6,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 1,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Leche asada",
+  "blurb": "Flan chileno sin caramelo: leche con huevo y vainilla horneada hasta que la superficie se tuesta.",
+  "ing": [
+   {
+    "n": "leche"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "ralladura de limón"
+   }
+  ],
+  "steps": [
+   "Calienta el horno a 180 °C.",
+   "Bate los huevos con el azúcar. Añade la leche, la vainilla y la ralladura y mezcla sin batir de más.",
+   "Vierte en 6 pocillos o una fuente.",
+   "Hornea 45 minutos, hasta que la superficie esté dorada con manchas y el centro apenas tiemble.",
+   "Enfría y sirve frío."
+  ],
+  "tips": [
+   "Sin baño María queda con la costra tostada que lo distingue.",
+   "Si la superficie se oscurece antes de cuajar, cubre con aluminio."
+  ],
+  "video": "leche asada receta"
+ },
+ "en": {
+  "name": "Leche Asada (Chilean Baked Custard)",
+  "blurb": "Chilean flan with no caramel: milk with egg and vanilla baked until the top browns.",
+  "ing": [
+   {
+    "n": "milk"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "lemon zest"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 180 °C.",
+   "Whisk the eggs with the sugar. Add the milk, vanilla and zest and mix without overbeating.",
+   "Pour into 6 ramekins or one dish.",
+   "Bake 45 minutes, until the top is spotted golden and the centre barely wobbles.",
+   "Cool and serve cold."
+  ],
+  "tips": [
+   "Without a water bath it gets the toasted crust that sets it apart.",
+   "If the top darkens before it sets, cover with foil."
+  ],
+  "video": "leche asada recipe"
+ },
+ "added": "2026-09-30"
+}

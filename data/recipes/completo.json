@@ -1,0 +1,147 @@
+{
+ "id": "completo",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "main",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "sausage",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "avocado",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "garnish"
+  },
+  {
+   "q": 6,
+   "u": "tbsp",
+   "k": "mayo",
+   "role": "garnish"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "pickles",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "mustard",
+   "role": "garnish"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Completo italiano",
+  "blurb": "El hot dog chileno: vienesa en pan largo cubierta de palta, tomate y mucha mayonesa. Los colores de la bandera italiana.",
+  "ing": [
+   {
+    "n": "vienesas (salchichas)"
+   },
+   {
+    "n": "panes de completo"
+   },
+   {
+    "n": "paltas",
+    "note": "molidas con sal"
+   },
+   {
+    "n": "tomates",
+    "note": "en cubos"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "chucrut",
+    "note": "opcional"
+   },
+   {
+    "n": "mostaza",
+    "note": "opcional"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Hierve las vienesas 5 minutos.",
+   "Calienta los panes al vapor o en el horno 3 minutos.",
+   "Pon una vienesa en cada pan. Cubre con tomate, luego palta y termina con mayonesa en zigzag."
+  ],
+  "tips": [
+   "La palta va generosa: es lo que lo hace completo.",
+   "Con chucrut y mostaza se llama completo completo."
+  ],
+  "video": "completo italiano receta"
+ },
+ "en": {
+  "name": "Completo Italiano (Chilean Hot Dog)",
+  "blurb": "Chile's hot dog: a sausage in a long bun piled with avocado, tomato and lots of mayonnaise. The colours of the Italian flag.",
+  "ing": [
+   {
+    "n": "hot dog sausages"
+   },
+   {
+    "n": "long hot dog buns"
+   },
+   {
+    "n": "avocados",
+    "note": "mashed with salt"
+   },
+   {
+    "n": "tomatoes",
+    "note": "diced"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "sauerkraut",
+    "note": "optional"
+   },
+   {
+    "n": "mustard",
+    "note": "optional"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Boil the sausages for 5 minutes.",
+   "Warm the buns by steaming or in the oven for 3 minutes.",
+   "Put a sausage in each bun. Top with tomato, then avocado, and finish with a zigzag of mayonnaise."
+  ],
+  "tips": [
+   "Be generous with the avocado: it's what makes it complete.",
+   "With sauerkraut and mustard it's a completo completo."
+  ],
+  "video": "completo italiano recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,201 @@
+{
+ "id": "cazuela-chilena",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 90,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "corn",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "veg",
+   "role": "protein"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "rice",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Cazuela chilena",
+  "blurb": "Caldo claro de vacuno con una papa, un trozo de zapallo y medio choclo por plato. La sopa de invierno de Chile.",
+  "ing": [
+   {
+    "n": "osobuco o asiento de res",
+    "note": "en 6 trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla",
+    "note": "en cuartos"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "papas",
+    "note": "peladas"
+   },
+   {
+    "n": "trozos de zapallo"
+   },
+   {
+    "n": "choclos",
+    "note": "en mitades"
+   },
+   {
+    "n": "porotos verdes",
+    "note": "en tiras"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Cuece la carne con el agua, la cebolla, el ajo, el orégano y la sal 60 minutos, espumando.",
+   "Añade las papas y el zapallo y cuece 15 minutos.",
+   "Añade el choclo, los porotos verdes y el arroz y cuece 15 minutos más.",
+   "Sirve cada plato con 1 trozo de carne, 1 papa, 1 trozo de zapallo y medio choclo, con cilantro."
+  ],
+  "tips": [
+   "Cada plato debe llevar una pieza de cada cosa: así se sirve la cazuela.",
+   "Con pollo en vez de vacuno se cuece 35 minutos."
+  ],
+  "video": "cazuela chilena receta"
+ },
+ "en": {
+  "name": "Chilean Cazuela",
+  "blurb": "A clear beef broth with one potato, one piece of squash and half an ear of corn per bowl. Chile's winter soup.",
+  "ing": [
+   {
+    "n": "beef shank or chuck",
+    "note": "in 6 pieces"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "onion",
+    "note": "quartered"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "potatoes",
+    "note": "peeled"
+   },
+   {
+    "n": "pieces of winter squash"
+   },
+   {
+    "n": "ears of corn",
+    "note": "halved"
+   },
+   {
+    "n": "green beans",
+    "note": "sliced"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Simmer the beef with the water, onion, garlic, oregano and salt for 60 minutes, skimming.",
+   "Add the potatoes and squash and cook 15 minutes.",
+   "Add the corn, green beans and rice and cook 15 minutes more.",
+   "Serve each bowl with 1 piece of beef, 1 potato, 1 piece of squash and half an ear of corn, with cilantro."
+  ],
+  "tips": [
+   "Each bowl gets one piece of everything: that's how cazuela is served.",
+   "With chicken instead of beef, simmer 35 minutes."
+  ],
+  "video": "cazuela chilena recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,163 @@
+{
+ "id": "porotos-granados",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Porotos granados con pilco",
+  "blurb": "Porotos frescos de verano con zapallo que se deshace y choclo rallado con albahaca. Vegetariano y espeso.",
+  "ing": [
+   {
+    "n": "porotos granados frescos",
+    "note": "desgranados"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "zapallo",
+    "note": "en cubos"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ají de color (pimentón)"
+   },
+   {
+    "n": "choclos",
+    "note": "rallados"
+   },
+   {
+    "n": "albahaca",
+    "note": "picada"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece los porotos en el agua 30 minutos.",
+   "Añade el zapallo y cuece 15 minutos, hasta que empiece a deshacerse.",
+   "Sofríe la cebolla en el aceite 8 minutos con el ají de color y añádela a la olla.",
+   "Añade el choclo rallado, la albahaca y la sal y cuece 10 minutos, moviendo, hasta que espese."
+  ],
+  "tips": [
+   "Con porotos secos, remójalos toda la noche y cuécelos 90 minutos antes.",
+   "Se sirven con pebre o ensalada de tomate."
+  ],
+  "video": "porotos granados receta"
+ },
+ "en": {
+  "name": "Porotos Granados (Summer Bean Stew)",
+  "blurb": "Fresh summer beans with squash that melts away and grated corn with basil. Vegetarian and thick.",
+  "ing": [
+   {
+    "n": "fresh cranberry beans",
+    "note": "shelled"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "winter squash",
+    "note": "cubed"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "ears of corn",
+    "note": "grated"
+   },
+   {
+    "n": "basil",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the beans in the water for 30 minutes.",
+   "Add the squash and cook 15 minutes, until it starts to fall apart.",
+   "Cook the onion in the oil for 8 minutes with the paprika and add it to the pot.",
+   "Add the grated corn, basil and salt and cook 10 minutes, stirring, until thick."
+  ],
+  "tips": [
+   "With dried beans, soak overnight and cook 90 minutes first.",
+   "Serve with pebre or tomato salad."
+  ],
+  "video": "porotos granados recipe"
+ },
+ "added": "2026-09-30"
+}

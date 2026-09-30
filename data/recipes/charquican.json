@@ -1,0 +1,225 @@
+{
+ "id": "charquican",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "corn",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Charquicán",
+  "blurb": "Guiso chileno de papa y zapallo aplastados con carne, choclo y arvejas, con un huevo frito encima.",
+  "ing": [
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "ají de color (pimentón)"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "papas",
+    "note": "en cubos"
+   },
+   {
+    "n": "zapallo",
+    "note": "en cubos"
+   },
+   {
+    "n": "granos de choclo"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos",
+    "note": "fritos"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla y el ajo en el aceite 5 minutos. Añade la carne, el ají de color, el comino y el orégano y cuece 8 minutos.",
+   "Añade la papa, el zapallo, el agua y la sal. Tapa y cuece 20 minutos.",
+   "Añade el choclo y las arvejas y cuece 5 minutos.",
+   "Aplasta un poco con un tenedor para que quede un guiso grueso.",
+   "Sirve con un huevo frito encima."
+  ],
+  "tips": [
+   "El nombre viene del charqui, carne seca; hoy se hace con carne molida.",
+   "Con cebolla en escabeche al lado corta la contundencia."
+  ],
+  "video": "charquican receta"
+ },
+ "en": {
+  "name": "Charquicán (Chilean Beef and Squash Hash)",
+  "blurb": "A Chilean stew of potato and squash mashed with beef, corn and peas, with a fried egg on top.",
+  "ing": [
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "potatoes",
+    "note": "cubed"
+   },
+   {
+    "n": "winter squash",
+    "note": "cubed"
+   },
+   {
+    "n": "corn kernels"
+   },
+   {
+    "n": "peas"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "eggs",
+    "note": "fried"
+   }
+  ],
+  "steps": [
+   "Cook the onion and garlic in the oil for 5 minutes. Add the beef, paprika, cumin and oregano and cook 8 minutes.",
+   "Add the potato, squash, water and salt. Cover and cook 20 minutes.",
+   "Add the corn and peas and cook 5 minutes.",
+   "Mash a little with a fork into a chunky stew.",
+   "Serve with a fried egg on top."
+  ],
+  "tips": [
+   "The name comes from charqui, dried meat; today it's made with ground beef.",
+   "Pickled onion on the side cuts the richness."
+  ],
+  "video": "charquican recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,117 @@
+{
+ "id": "mote-con-huesillo",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 12,
+   "u": "",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "cookedwheat",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Mote con huesillo",
+  "blurb": "La bebida de verano chilena: duraznos secos en su almíbar de chancaca con mote de trigo. Se come y se toma.",
+  "ing": [
+   {
+    "n": "huesillos (duraznos deshidratados)",
+    "note": "remojados toda la noche"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "chancaca o azúcar rubia"
+   },
+   {
+    "n": "raja de canela"
+   },
+   {
+    "n": "cáscara de naranja"
+   },
+   {
+    "n": "mote de trigo cocido"
+   }
+  ],
+  "steps": [
+   "Cuece los huesillos con su agua de remojo, el agua, la chancaca, la canela y la naranja 40 minutos a fuego bajo.",
+   "Deja enfriar y refrigera.",
+   "Sirve en vasos altos: 2 cucharadas de mote, 2 huesillos y el jugo frío hasta arriba."
+  ],
+  "tips": [
+   "Se sirve con cuchara larga para el mote.",
+   "Aguanta 5 días en el refrigerador."
+  ],
+  "video": "mote con huesillo receta"
+ },
+ "en": {
+  "name": "Mote con Huesillo (Peach and Wheat Drink)",
+  "blurb": "Chile's summer drink: dried peaches in their chancaca syrup with husked wheat. You eat and drink it.",
+  "ing": [
+   {
+    "n": "dried whole peaches (huesillos)",
+    "note": "soaked overnight"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "chancaca or light brown sugar"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "orange peel"
+   },
+   {
+    "n": "cooked husked wheat (mote)"
+   }
+  ],
+  "steps": [
+   "Cook the dried peaches with their soaking water, the water, chancaca, cinnamon and orange peel for 40 minutes on low.",
+   "Cool and chill.",
+   "Serve in tall glasses: 2 tablespoons of wheat, 2 peaches and the cold syrup to the top."
+  ],
+  "tips": [
+   "Serve with a long spoon for the wheat.",
+   "Keeps 5 days in the fridge."
+  ],
+  "video": "mote con huesillo recipe"
+ },
+ "added": "2026-09-30"
+}
