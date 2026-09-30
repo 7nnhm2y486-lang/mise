@@ -1,0 +1,190 @@
+{
+ "id": "congee",
+ "country": "China",
+ "region": "east-asia",
+ "course": "main",
+ "time": 90,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "garnish"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sesameoil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "onion",
+   "role": "crunch"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "apflour",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Congee",
+  "blurb": "Una proporción y una cocción larga. Congelar el arroz antes rompe los granos y reduce el tiempo casi a la mitad.",
+  "ing": [
+   {
+    "n": "arroz de grano corto",
+    "note": "enjuagado y congelado 4 horas"
+   },
+   {
+    "n": "caldo de pollo o cerdo"
+   },
+   {
+    "n": "jengibre",
+    "note": "en rodajas"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "huevo milenario o pollo escalfado",
+    "note": "opcional"
+   },
+   {
+    "n": "pimienta blanca"
+   },
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "aceite de sésamo"
+   },
+   {
+    "n": "chalota frita"
+   },
+   {
+    "n": "youtiao",
+    "note": "palo de masa frita"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Congela el arroz enjuagado y húmedo al menos 4 horas. Los cristales de hielo abren los granos.",
+   "Lleva el caldo a hervor con el jengibre y añade el arroz directamente del congelador.",
+   "Cuece destapado, removiendo cada 10 minutos para que no se agarre, durante 45-60 minutos.",
+   "Está listo cuando los granos se han disuelto en una suspensión suelta y cremosa que apenas nape la cuchara. Aflójalo con caldo caliente si se pasa.",
+   "Sazona con sal, pimienta blanca y soja al final.",
+   "Sirve con cebollín, aceite de sésamo, chalota frita y la proteína que tengas. Youtiao aparte para mojar."
+  ],
+  "tips": [
+   "El truco del congelador funciona con cualquier arroz y reduce el tiempo a la mitad.",
+   "El congee espesa mucho al enfriarse. Déjalo más suelto de lo que quieres comerlo.",
+   "Remueve el fondo con regularidad. Un congee quemado no sabe a otra cosa."
+  ],
+  "video": "congee jook"
+ },
+ "en": {
+  "name": "Congee",
+  "blurb": "One ratio and a long simmer. Freezing the rice first breaks the grains and cuts the time nearly in half.",
+  "ing": [
+   {
+    "n": "short-grain rice",
+    "note": "rinsed and frozen 4 hours"
+   },
+   {
+    "n": "chicken or pork stock"
+   },
+   {
+    "n": "ginger",
+    "note": "sliced"
+   },
+   {
+    "n": "scallions"
+   },
+   {
+    "n": "century egg or poached chicken",
+    "note": "optional"
+   },
+   {
+    "n": "white pepper"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "sesame oil"
+   },
+   {
+    "n": "fried shallots"
+   },
+   {
+    "n": "youtiao",
+    "note": "fried dough stick"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Freeze the rinsed, still-wet rice for at least 4 hours. The ice crystals crack the grains.",
+   "Bring the stock to a boil with the ginger and add the rice straight from the freezer.",
+   "Simmer uncovered, stirring every 10 minutes so it doesn't catch, for 45-60 minutes.",
+   "It's done when the grains have broken down into a loose, creamy suspension that barely coats the spoon. Loosen it with hot stock if it goes too far.",
+   "Season with salt, white pepper and soy sauce at the end.",
+   "Serve with scallions, sesame oil, fried shallots and whatever protein you have. Youtiao on the side for dipping."
+  ],
+  "tips": [
+   "The freezer trick works with any rice and halves the time.",
+   "Congee thickens a lot as it cools. Leave it looser than you want to eat it.",
+   "Stir the bottom regularly. Scorched congee tastes of nothing else."
+  ],
+  "video": "congee jook"
+ }
+}

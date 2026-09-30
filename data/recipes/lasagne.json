@@ -1,0 +1,153 @@
+{
+ "id": "lasagne",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 270,
+ "serves": 8,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 1,
+   "u": "batch",
+   "k": "tomato",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Lasaña a la Boloñesa",
+  "blurb": "Bechamel, no ricotta. En Emilia la lasaña lleva besciamella, y la proporción correcta es capas finas y muchas: siete u ocho, no tres gruesas.",
+  "ing": [
+   {
+    "n": "ragú a la boloñesa",
+    "note": "como en la receta de ragú"
+   },
+   {
+    "n": "láminas de lasaña",
+    "note": "frescas al huevo si puedes"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "parmesano",
+    "note": "rallado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Prepara el ragú y déjalo algo más suelto de lo que lo comerías: se secará en el horno.",
+   "Haz la bechamel con la mantequilla, la harina y la leche tibia, batiendo, y cocínala 8 minutos hasta que pierda el sabor a harina. Sazona con nuez moscada y sal. Debe quedar fluida, no espesa.",
+   "Si usas láminas secas, escáldalas 1 minuto y extiéndelas sobre paños. Las frescas van directas.",
+   "Monta: una capa fina de bechamel en el fondo, pasta, ragú, bechamel, parmesano. Repite hasta siete u ocho capas.",
+   "Termina con bechamel abundante y parmesano, nunca con pasta desnuda: se quemaría.",
+   "Hornea a 180 °C durante 40 minutos y deja reposar 20 minutos antes de cortar."
+  ],
+  "tips": [
+   "Bechamel fluida. Una bechamel espesa se seca en el horno y deja la lasaña apelmazada.",
+   "Capas finas y muchas. Es la diferencia entre una lasaña de Emilia y un bloque de pasta.",
+   "Veinte minutos de reposo. Recién salida no se puede cortar en porciones limpias."
+  ],
+  "video": "lasaña boloñesa besciamella"
+ },
+ "en": {
+  "name": "Lasagne alla Bolognese",
+  "blurb": "Béchamel, not ricotta. In Emilia lasagne gets besciamella, and the right proportion is thin layers and lots of them: seven or eight, not three thick ones.",
+  "ing": [
+   {
+    "n": "ragù alla bolognese",
+    "note": "as in the ragù recipe"
+   },
+   {
+    "n": "lasagne sheets",
+    "note": "fresh egg pasta if you can"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "Parmesan",
+    "note": "grated"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Make the ragù and leave it a bit looser than you'd eat it: it will dry out in the oven.",
+   "Make the béchamel with the butter, flour and warm milk, whisking, and cook it 8 minutes until it loses the floury taste. Season with nutmeg and salt. It should be pourable, not thick.",
+   "If using dried sheets, blanch them 1 minute and lay them out on towels. Fresh ones go straight in.",
+   "Assemble: a thin layer of béchamel on the bottom, pasta, ragù, béchamel, Parmesan. Repeat for seven or eight layers.",
+   "Finish with plenty of béchamel and Parmesan, never bare pasta: it would burn.",
+   "Bake at 180 °C for 40 minutes and rest 20 minutes before cutting."
+  ],
+  "tips": [
+   "Pourable béchamel. A thick béchamel dries out in the oven and leaves the lasagne stodgy.",
+   "Thin layers, and many of them. It's the difference between an Emilian lasagne and a block of pasta.",
+   "Twenty minutes' rest. Straight out of the oven it won't cut into clean portions."
+  ],
+  "video": "lasagne bolognese besciamella"
+ }
+}

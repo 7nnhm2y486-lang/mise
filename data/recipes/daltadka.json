@@ -1,0 +1,198 @@
+{
+ "id": "daltadka",
+ "country": "India",
+ "region": "south-asia",
+ "course": "main",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "ghee",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 15,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Dal Tadka",
+  "blurb": "El tadka son especias fritas en grasa caliente y vertidas al final. Es una técnica de extracción, y debe chisporrotear audiblemente al caer.",
+  "ing": [
+   {
+    "n": "toor dal",
+    "note": "enjuagada"
+   },
+   {
+    "n": "cúrcuma"
+   },
+   {
+    "n": "ghee"
+   },
+   {
+    "n": "semilla de comino"
+   },
+   {
+    "n": "chiles rojos secos"
+   },
+   {
+    "n": "ajo",
+    "note": "en láminas"
+   },
+   {
+    "n": "asafétida"
+   },
+   {
+    "n": "jitomate"
+   },
+   {
+    "n": "chile cachemir en polvo"
+   },
+   {
+    "n": "hojas de curry"
+   },
+   {
+    "n": "hojas de cilantro"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece la dal con la cúrcuma y abundante agua 30 minutos, retirando la espuma, hasta que se deshaga por completo. Bátela hasta alisarla y sazónala.",
+   "Calienta el ghee en una sartén pequeña hasta que brille.",
+   "Añade la semilla de comino. Cuando crepite, añade los chiles secos, el ajo y las hojas de curry. Fríe hasta que el ajo esté dorado pálido: unos segundos más y amarga.",
+   "Apaga el fuego, añade la asafétida y el chile en polvo, y remueve solo 5 segundos.",
+   "Vierte todo sobre la dal. Debe sisear.",
+   "Mezcla más o menos la mitad, deja el resto flotando encima y termina con cilantro."
+  ],
+  "tips": [
+   "La grasa debe estar bien caliente o las especias se lixivian en vez de abrirse.",
+   "El chile en polvo entra fuera del fuego. Se quema más rápido que cualquier otra cosa en la sartén.",
+   "Batir con fuerza la dal cocida la vuelve cremosa sin lácteo alguno."
+  ],
+  "video": "dal tadka estilo restaurante"
+ },
+ "en": {
+  "name": "Dal Tadka",
+  "blurb": "Tadka is spices fried in hot fat and poured over at the end. It's an extraction technique, and it should sizzle audibly when it lands.",
+  "ing": [
+   {
+    "n": "toor dal",
+    "note": "rinsed"
+   },
+   {
+    "n": "turmeric"
+   },
+   {
+    "n": "ghee"
+   },
+   {
+    "n": "cumin seed"
+   },
+   {
+    "n": "dried red chiles"
+   },
+   {
+    "n": "garlic",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "asafoetida"
+   },
+   {
+    "n": "tomato"
+   },
+   {
+    "n": "Kashmiri chile powder"
+   },
+   {
+    "n": "curry leaves"
+   },
+   {
+    "n": "cilantro leaves"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the dal with the turmeric and plenty of water for 30 minutes, skimming the foam, until it breaks down completely. Whisk it smooth and season.",
+   "Heat the ghee in a small pan until it shimmers.",
+   "Add the cumin seed. When it crackles, add the dried chiles, garlic and curry leaves. Fry until the garlic is pale golden: a few seconds more and it turns bitter.",
+   "Turn off the heat, add the asafoetida and chile powder, and stir for just 5 seconds.",
+   "Pour it all over the dal. It should hiss.",
+   "Stir in about half, leave the rest floating on top and finish with cilantro."
+  ],
+  "tips": [
+   "The fat has to be properly hot or the spices leach out instead of blooming.",
+   "The chile powder goes in off the heat. It burns faster than anything else in the pan.",
+   "Whisking the cooked dal hard makes it creamy without any dairy."
+  ],
+  "video": "restaurant style dal tadka"
+ }
+}

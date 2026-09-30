@@ -1,0 +1,192 @@
+{
+ "id": "ccc-freezer",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 200,
+ "serves": 24,
+ "ovenC": 180,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 225,
+   "u": "g",
+   "k": "butter",
+   "role": "aerate"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 320,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 280,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "crunch"
+  }
+ ],
+ "es": {
+  "name": "Rollo de Congelador para Cortar y Hornear",
+  "blurb": "La misma masa enrollada en cilindro y congelada. Cortas las que quieras y horneas desde congelado. Esto es lo más útil de toda esta sección.",
+  "lab": "Rollo congelado · dos galletas cuando quieras",
+  "ing": [
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "yema de huevo"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro",
+    "note": "picado fino para que corte limpio"
+   },
+   {
+    "n": "azúcar demerara",
+    "note": "para rebozar"
+   }
+  ],
+  "steps": [
+   "Crema, mezcla e incorpora exactamente como en la masa de referencia, pero pica el chocolate fino: los trozos grandes hacen imposible cortar el rollo.",
+   "Vuelca la masa sobre film y enróllala en un cilindro de unos 6 cm de diámetro. Retuerce bien los extremos.",
+   "Refrigera 1 hora hasta que esté firme, y vuelve a rodarlo para corregir el lado plano que habrá desarrollado.",
+   "Desenvuélvelo, rueda el cilindro sobre el azúcar demerara para un borde arenoso y crujiente, y envuélvelo otra vez.",
+   "Congela al menos 2 horas, y hasta 3 meses.",
+   "Corta discos de 2 cm directamente del congelador y hornea a 180 °C durante 13-15 minutos. Sin descongelar."
+  ],
+  "tips": [
+   "Vuelve a rodarlo tras la primera hora. Todo cilindro desarrolla un lado plano al reposar en el refrigerador.",
+   "Desde congelado, siempre. Los discos descongelados se extienden en charcos.",
+   "Etiquétalo con la temperatura y el tiempo. En dos meses no te acordarás."
+  ],
+  "video": "rollo masa galletas congelador"
+ },
+ "en": {
+  "name": "Slice-and-Bake Freezer Log",
+  "blurb": "The same dough rolled into a log and frozen. Slice off as many as you want and bake from frozen. This is the most useful thing in this whole section.",
+  "lab": "Frozen log · two cookies whenever you want",
+  "ing": [
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "egg yolk"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate",
+    "note": "finely chopped so it slices cleanly"
+   },
+   {
+    "n": "demerara sugar",
+    "note": "for rolling"
+   }
+  ],
+  "steps": [
+   "Cream, mix and fold exactly as for the reference dough, but chop the chocolate fine: big chunks make the log impossible to slice.",
+   "Turn the dough out onto plastic wrap and roll it into a log about 6 cm across. Twist the ends tight.",
+   "Refrigerate 1 hour until firm, then roll it again to fix the flat side it will have developed.",
+   "Unwrap, roll the log in demerara sugar for a sandy, crunchy edge, and wrap it again.",
+   "Freeze at least 2 hours, and up to 3 months.",
+   "Cut 2 cm discs straight from the freezer and bake at 180 °C for 13-15 minutes. No thawing."
+  ],
+  "tips": [
+   "Roll it again after the first hour. Every log develops a flat side resting in the refrigerator.",
+   "From frozen, always. Thawed discs spread into puddles.",
+   "Label it with the temperature and time. In two months you won't remember."
+  ],
+  "video": "slice and bake freezer cookie dough log"
+ }
+}

@@ -1,0 +1,159 @@
+{
+ "id": "anzac",
+ "country": "Australia",
+ "region": "oceania",
+ "course": "cookie",
+ "time": 40,
+ "serves": 20,
+ "ovenC": 170,
+ "ing": [
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "desiccatedcoconut",
+   "role": "structure"
+  },
+  {
+   "q": 130,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 125,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "molasses",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Galletas Anzac",
+  "blurb": "Sin huevo: el jarabe dorado y el bicarbonato disuelto en agua hirviendo hacen la ligazón y el levado. Masticables o crujientes se decide con dos minutos de horno.",
+  "ing": [
+   {
+    "n": "avena en hojuelas"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "coco rallado"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "jarabe dorado"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "agua hirviendo"
+   },
+   {
+    "n": "sal fina"
+   }
+  ],
+  "steps": [
+   "Mezcla la avena, la harina, el coco, el azúcar y la sal.",
+   "Derrite la mantequilla con el jarabe dorado.",
+   "Disuelve el bicarbonato en el agua hirviendo e incorpóralo a la mantequilla derretida: espumará de forma espectacular.",
+   "Viértelo sobre los secos y mezcla.",
+   "Forma bolas del tamaño de una nuez, aplástalas un poco y sepáralas bien.",
+   "Hornea a 170 °C: 10 minutos para masticables, 13-14 para crujientes. Endurecen del todo al enfriar, así que guíate por el color."
+  ],
+  "tips": [
+   "La reacción espumosa es lo que las airea en ausencia de huevo.",
+   "Diez minutos frente a catorce es toda la diferencia entre los dos bandos. Elige uno.",
+   "Enfría cinco minutos en la bandeja antes de moverlas o se doblan."
+  ],
+  "video": "galletas anzac"
+ },
+ "en": {
+  "name": "Anzac Biscuits",
+  "blurb": "No egg: golden syrup and baking soda dissolved in boiling water do the binding and the leavening. Chewy or crisp is decided by two minutes in the oven.",
+  "ing": [
+   {
+    "n": "rolled oats"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "desiccated coconut"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "golden syrup"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "boiling water"
+   },
+   {
+    "n": "fine salt"
+   }
+  ],
+  "steps": [
+   "Mix the oats, flour, coconut, sugar and salt.",
+   "Melt the butter with the golden syrup.",
+   "Dissolve the baking soda in the boiling water and stir it into the melted butter: it will foam spectacularly.",
+   "Pour it over the dry ingredients and mix.",
+   "Shape walnut-sized balls, flatten them slightly and space them well apart.",
+   "Bake at 170 °C: 10 minutes for chewy, 13-14 for crisp. They firm up fully as they cool, so go by color."
+  ],
+  "tips": [
+   "The foaming reaction is what aerates them in the absence of egg.",
+   "Ten minutes versus fourteen is the entire difference between the two camps. Pick one.",
+   "Cool for five minutes on the sheet before moving them or they'll bend."
+  ],
+  "video": "anzac biscuits recipe"
+ }
+}

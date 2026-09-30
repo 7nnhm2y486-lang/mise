@@ -1,0 +1,150 @@
+{
+ "id": "tzatziki",
+ "country": "Greece",
+ "region": "mediterranean",
+ "course": "sauce",
+ "time": 40,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "yogurt",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 25,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Tzatziki",
+  "blurb": "Todo depende de escurrir dos cosas: el yogur y el pepino. Cualquier atajo aquí produce una salsa que se convierte en sopa en veinte minutos.",
+  "ing": [
+   {
+    "n": "yogur griego",
+    "note": "entero"
+   },
+   {
+    "n": "pepino",
+    "note": "rallado grueso"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "eneldo"
+   },
+   {
+    "n": "menta"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "vinagre de vino blanco"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuela el yogur en un paño 30 minutos si no es muy espeso.",
+   "Ralla el pepino con piel, sálalo y déjalo en un colador 20 minutos.",
+   "Exprime el pepino con las manos con toda tu fuerza. Saldrá una cantidad sorprendente de agua y ese es el paso decisivo.",
+   "Machaca el ajo con un poco de sal hasta hacer pasta, para que no queden trozos crudos agresivos.",
+   "Mezcla el yogur, el pepino exprimido, el ajo, las hierbas picadas, el aceite y el vinagre.",
+   "Reposa una hora en el refrigerador antes de servir y rectifica de sal al final."
+  ],
+  "tips": [
+   "Exprime el pepino hasta que no salga nada. Es el 90% del éxito.",
+   "El ajo en pasta, no picado. Los trozos de ajo crudo dominan y pican de forma desagradable.",
+   "Rectifica la sal después de reposar: el yogur frío la apaga."
+  ],
+  "video": "tzatziki griego auténtico"
+ },
+ "en": {
+  "name": "Tzatziki",
+  "blurb": "It all comes down to draining two things: the yogurt and the cucumber. Any shortcut here gives you a sauce that turns to soup in twenty minutes.",
+  "ing": [
+   {
+    "n": "Greek yogurt",
+    "note": "whole-milk"
+   },
+   {
+    "n": "cucumbers",
+    "note": "coarsely grated"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "dill"
+   },
+   {
+    "n": "mint"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "white wine vinegar"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Strain the yogurt in a cloth for 30 minutes if it isn't very thick.",
+   "Grate the cucumber skin and all, salt it and leave it in a colander for 20 minutes.",
+   "Squeeze the cucumber with your hands as hard as you can. A surprising amount of water comes out, and that's the decisive step.",
+   "Mash the garlic with a little salt to a paste, so there are no harsh raw bits.",
+   "Mix the yogurt, squeezed cucumber, garlic, chopped herbs, oil and vinegar.",
+   "Rest for an hour in the refrigerator before serving and adjust the salt at the end."
+  ],
+  "tips": [
+   "Squeeze the cucumber until nothing more comes out. It's 90% of the job.",
+   "Garlic as a paste, not chopped. Bits of raw garlic dominate and bite unpleasantly.",
+   "Adjust the salt after resting: cold yogurt dulls it."
+  ],
+  "video": "authentic greek tzatziki"
+ }
+}

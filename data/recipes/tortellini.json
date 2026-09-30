@@ -1,0 +1,224 @@
+{
+ "id": "tortellini",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 240,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "stalk",
+   "k": "celery",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "pancetta",
+   "role": "protein"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "prosciutto",
+   "role": "protein"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Tortellini in Brodo",
+  "blurb": "El plato de Navidad de Emilia. El caldo debe quedar transparente como el té, y eso exige empezar en agua fría y no dejar que hierva jamás.",
+  "ing": [
+   {
+    "n": "gallina",
+    "note": "para el caldo"
+   },
+   {
+    "n": "jarrete de res"
+   },
+   {
+    "n": "zanahoria"
+   },
+   {
+    "n": "apio"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "harina 00"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "lomo de cerdo",
+    "note": "para el relleno"
+   },
+   {
+    "n": "mortadela"
+   },
+   {
+    "n": "jamón crudo"
+   },
+   {
+    "n": "parmesano"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "huevo",
+    "note": "para el relleno"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Pon la gallina, el jarrete y las verduras en agua fría. Lleva al hervor muy despacio, espuma con cuidado y cocina 3 horas sin que llegue a borbotear nunca.",
+   "Cuela el caldo por un paño y desgrásalo en frío. Debe quedar traslúcido.",
+   "Sella el lomo de cerdo y pícalo con la mortadela y el jamón hasta obtener una pasta fina. Mezcla con el parmesano, el huevo y la nuez moscada. Reposa el relleno una noche.",
+   "Haz la pasta con la harina y los huevos, amasa 10 minutos y reposa 30. Estírala hasta poder ver la mano a través.",
+   "Corta cuadrados de 3 cm, pon una pizca de relleno, dobla en triángulo y une las dos puntas alrededor del dedo.",
+   "Cuécelos directamente en el caldo hirviendo 3 minutos y sirve de inmediato en el mismo caldo."
+  ],
+  "tips": [
+   "El caldo nunca hierve. Un solo borboteo lo vuelve turbio y ya no hay vuelta atrás.",
+   "Los tortellini se cuecen en el caldo, no en agua aparte: su almidón le da cuerpo.",
+   "Tamaño pequeño. Un tortellino grande es un error de escala, no una variante."
+  ],
+  "video": "tortellini in brodo emilia"
+ },
+ "en": {
+  "name": "Tortellini in Brodo",
+  "blurb": "Emilia's Christmas dish. The broth should be as clear as tea, and that means starting in cold water and never letting it boil.",
+  "ing": [
+   {
+    "n": "stewing hen",
+    "note": "for the broth"
+   },
+   {
+    "n": "beef shank"
+   },
+   {
+    "n": "carrots"
+   },
+   {
+    "n": "celery"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "00 flour"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "pork loin",
+    "note": "for the filling"
+   },
+   {
+    "n": "mortadella"
+   },
+   {
+    "n": "prosciutto"
+   },
+   {
+    "n": "Parmesan"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "egg",
+    "note": "for the filling"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Put the hen, shank and vegetables in cold water. Bring up to a simmer very slowly, skim carefully and cook for 3 hours without ever letting it bubble.",
+   "Strain the broth through a cloth and degrease it once cold. It should be translucent.",
+   "Sear the pork loin and chop it with the mortadella and prosciutto to a fine paste. Mix with the Parmesan, egg and nutmeg. Rest the filling overnight.",
+   "Make the pasta with the flour and eggs, knead 10 minutes and rest 30. Roll it out until you can see your hand through it.",
+   "Cut 3 cm squares, add a pinch of filling, fold into a triangle and join the two points around your finger.",
+   "Cook them directly in the simmering broth for 3 minutes and serve immediately in the same broth."
+  ],
+  "tips": [
+   "The broth never boils. A single bubble clouds it and there's no going back.",
+   "The tortellini cook in the broth, not in separate water: their starch gives it body.",
+   "Keep them small. A big tortellino is a mistake of scale, not a variation."
+  ],
+  "video": "tortellini in brodo emilia"
+ }
+}

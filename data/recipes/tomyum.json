@@ -1,0 +1,208 @@
+{
+ "id": "tomyum",
+ "country": "Thailand",
+ "region": "southeast-asia",
+ "course": "soup",
+ "time": 35,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "stalk",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "fishsauce",
+   "role": "salt"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.2,
+   "u": "l",
+   "k": "",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Tom Yum Goong",
+  "blurb": "Las cabezas de camarón son el caldo. Los aromáticos se golpean en vez de picarse, y nunca se hierven tanto como para amargar.",
+  "ing": [
+   {
+    "n": "camarones",
+    "note": "con cáscara"
+   },
+   {
+    "n": "citronela",
+    "note": "golpeada"
+   },
+   {
+    "n": "galanga",
+    "note": "en rodajas"
+   },
+   {
+    "n": "hojas de lima kaffir",
+    "note": "rasgadas"
+   },
+   {
+    "n": "chile ojo de pájaro",
+    "note": "machacado"
+   },
+   {
+    "n": "setas ostra"
+   },
+   {
+    "n": "salsa de pescado"
+   },
+   {
+    "n": "jugo de lima"
+   },
+   {
+    "n": "nam prik pao",
+    "note": "pasta de chile tostado"
+   },
+   {
+    "n": "leche de coco",
+    "note": "opcional, para la versión nam khon"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "agua"
+   }
+  ],
+  "steps": [
+   "Pela los camarones y fríe las cabezas y cáscaras en un poco de aceite hasta que estén naranja intenso y aromáticas. Añade el agua y cuece 15 minutos, luego cuela.",
+   "Devuelve el caldo a la olla con la citronela, la galanga y las hojas de lima. Cuece solo 5 minutos: más tiempo y saben a jabón.",
+   "Añade las setas y la pasta de chile. Cuece 3 minutos.",
+   "Añade los camarones y cocina 90 segundos, hasta que apenas se vuelvan opacos.",
+   "Retira la olla del fuego antes de añadir la salsa de pescado y el jugo de lima. El calor destruye las notas frescas de la lima.",
+   "Añade leche de coco si quieres la versión cremosa, esparce cilantro y sirve de inmediato."
+  ],
+  "tips": [
+   "El jugo de lima con el fuego apagado. Esta es la regla que separa un tom yum fresco de uno soso.",
+   "Los aromáticos son para infusionar, no para comer. Golpéalos enteros para poder esquivarlos.",
+   "El caldo de cáscaras de camarón toma quince minutos y duplica la profundidad de la sopa."
+  ],
+  "video": "tom yum goong"
+ },
+ "en": {
+  "name": "Tom Yum Goong",
+  "blurb": "The shrimp heads are the broth. The aromatics are bruised rather than chopped, and never boiled long enough to turn bitter.",
+  "ing": [
+   {
+    "n": "shrimp",
+    "note": "shell-on"
+   },
+   {
+    "n": "lemongrass",
+    "note": "bruised"
+   },
+   {
+    "n": "galangal",
+    "note": "sliced"
+   },
+   {
+    "n": "makrut lime leaves",
+    "note": "torn"
+   },
+   {
+    "n": "bird's eye chiles",
+    "note": "crushed"
+   },
+   {
+    "n": "oyster mushrooms"
+   },
+   {
+    "n": "fish sauce"
+   },
+   {
+    "n": "lime juice"
+   },
+   {
+    "n": "nam prik pao",
+    "note": "roasted chile paste"
+   },
+   {
+    "n": "coconut milk",
+    "note": "optional, for the nam khon version"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "water"
+   }
+  ],
+  "steps": [
+   "Peel the shrimp and fry the heads and shells in a little oil until deep orange and fragrant. Add the water, simmer 15 minutes, then strain.",
+   "Return the broth to the pot with the lemongrass, galangal and lime leaves. Simmer just 5 minutes: any longer and they taste soapy.",
+   "Add the mushrooms and the chile paste. Simmer 3 minutes.",
+   "Add the shrimp and cook for 90 seconds, until just opaque.",
+   "Take the pot off the heat before adding the fish sauce and lime juice. Heat destroys the fresh notes of the lime.",
+   "Add coconut milk if you want the creamy version, scatter with cilantro and serve immediately."
+  ],
+  "tips": [
+   "Lime juice with the heat off. This is the rule that separates a bright tom yum from a flat one.",
+   "The aromatics are for infusing, not eating. Bruise them whole so they're easy to eat around.",
+   "The shrimp-shell broth takes fifteen minutes and doubles the depth of the soup."
+  ],
+  "video": "tom yum goong"
+ }
+}

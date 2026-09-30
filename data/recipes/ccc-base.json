@@ -1,0 +1,164 @@
+{
+ "id": "ccc-base",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 45,
+ "serves": 24,
+ "ovenC": 190,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 225,
+   "u": "g",
+   "k": "butter",
+   "role": "aerate"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "aerate"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 340,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 340,
+   "u": "g",
+   "k": "chocolatechips",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "La Galleta de Referencia",
+  "blurb": "Mantequilla cremada, mitad azúcar blanca y mitad morena, al horno de inmediato. Este es el control contra el que todas las demás de esta página son una desviación deliberada. Apréndela primero y el resto cobra sentido.",
+  "lab": "Mantequilla cremada · el experimento de control",
+  "ing": [
+   {
+    "n": "mantequilla",
+    "note": "ablandada a 18 °C, sin derretirse"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "azúcar morena clara"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chispas de chocolate"
+   }
+  ],
+  "steps": [
+   "Bate la mantequilla y los dos azúcares 3-4 minutos hasta que palidezca visiblemente y aumente de volumen. Estás abriendo bolsas de aire en la grasa con los cristales de azúcar: de ahí viene el levado.",
+   "Añade los huevos uno a uno, luego la vainilla, batiendo solo hasta integrar.",
+   "Añade la harina, el bicarbonato y la sal. Mezcla a velocidad baja hasta que desaparezca el último rastro de harina y detente. Cada vuelta de más desarrolla gluten y endurece la galleta.",
+   "Incorpora el chocolate a mano.",
+   "Forma bolas de 45 g sobre bandejas forradas, bien separadas: se extenderán al doble de ancho.",
+   "Hornea a 190 °C durante 10-11 minutos, hasta que los bordes cuajen y el centro se vea aún algo crudo. Enfría 5 minutos en la bandeja."
+  ],
+  "tips": [
+   "Mantequilla a 18 °C. Más fría no crema; más caliente escapa el aire y las galletas se aplastan.",
+   "Deja de mezclar en cuanto desaparezca la harina. La masa de galleta es lo más fácil de sobretrabajar en repostería.",
+   "Terminan de cocinarse sobre la bandeja caliente. Una galleta que se ve lista en el horno está pasada en el plato."
+  ],
+  "video": "galletas clásicas chispas método cremado"
+ },
+ "en": {
+  "name": "The Reference Cookie",
+  "blurb": "Creamed butter, half white and half brown sugar, straight into the oven. This is the control; every other cookie on this page is a deliberate deviation from it. Learn it first and the rest makes sense.",
+  "lab": "Creamed butter · the control experiment",
+  "ing": [
+   {
+    "n": "butter",
+    "note": "softened to 18 °C, not melted"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "light brown sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "chocolate chips"
+   }
+  ],
+  "steps": [
+   "Beat the butter and both sugars for 3-4 minutes until visibly paler and increased in volume. You're opening air pockets in the fat with the sugar crystals: that's where the lift comes from.",
+   "Add the eggs one at a time, then the vanilla, beating only until combined.",
+   "Add the flour, baking soda and salt. Mix on low speed until the last trace of flour disappears, and stop. Every extra turn develops gluten and toughens the cookie.",
+   "Fold in the chocolate by hand.",
+   "Scoop 45 g balls onto lined sheets, well spaced: they'll spread to twice their width.",
+   "Bake at 190 °C for 10-11 minutes, until the edges are set and the center still looks a little raw. Cool 5 minutes on the sheet."
+  ],
+  "tips": [
+   "Butter at 18 °C. Colder, it won't cream; warmer, the air escapes and the cookies go flat.",
+   "Stop mixing as soon as the flour disappears. Cookie dough is the easiest thing in baking to overwork.",
+   "They finish cooking on the hot sheet. A cookie that looks done in the oven is overdone on the plate."
+  ],
+  "video": "classic chocolate chip cookies creaming method"
+ }
+}

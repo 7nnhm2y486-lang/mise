@@ -1,0 +1,186 @@
+{
+ "id": "chermoula",
+ "country": "Morocco",
+ "region": "north-africa",
+ "course": "sauce",
+ "time": 15,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 80,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Chermoula",
+  "blurb": "El adobo norteafricano para pescado. Lleva el doble de cilantro que de perejil y el comino tostado entero, molido al momento.",
+  "ing": [
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "comino",
+    "note": "tostado y molido"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "cúrcuma"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "limón en conserva",
+    "note": "solo la cáscara, opcional"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "hojuelas de chile"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Tuesta el comino entero en seco hasta que huela y muélelo al momento.",
+   "Machaca el ajo con la sal hasta hacer pasta.",
+   "Pica las hierbas a cuchillo, bastante fino pero sin llegar a puré.",
+   "Mezcla todo con las especias y la cáscara de limón en conserva picada.",
+   "Incorpora el aceite y el jugo de limón removiendo.",
+   "Úsala como adobo 2 horas antes de cocinar el pescado, y guarda otra tanda para servir en crudo encima."
+  ],
+  "tips": [
+   "Comino entero tostado y molido al momento. El comino de bote lleva meses perdiendo aroma.",
+   "Dos tandas: una para marinar y otra cruda al final. La cocida pierde frescura.",
+   "Con el limón en conserva sube de nivel, pero funciona bien sin él."
+  ],
+  "video": "chermoula marroquí pescado"
+ },
+ "en": {
+  "name": "Chermoula",
+  "blurb": "The North African marinade for fish. Twice as much cilantro as parsley, and whole cumin toasted and ground on the spot.",
+  "ing": [
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "cumin",
+    "note": "toasted and ground"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "turmeric"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "preserved lemon",
+    "note": "peel only, optional"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "chile flakes"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Dry-toast the whole cumin until fragrant and grind it fresh.",
+   "Crush the garlic with the salt to a paste.",
+   "Chop the herbs by hand, fairly fine but not to a purée.",
+   "Mix everything with the spices and the chopped preserved lemon peel.",
+   "Stir in the oil and lemon juice.",
+   "Use it as a marinade 2 hours before cooking the fish, and keep a second batch to spoon over raw at the table."
+  ],
+  "tips": [
+   "Whole cumin, toasted and ground fresh. Jarred ground cumin has been losing aroma for months.",
+   "Two batches: one to marinate and one raw at the end. The cooked one loses its freshness.",
+   "Preserved lemon takes it up a level, but it works fine without."
+  ],
+  "video": "moroccan chermoula fish"
+ }
+}

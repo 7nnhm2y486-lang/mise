@@ -1,0 +1,177 @@
+{
+ "id": "bakewell",
+ "country": "United Kingdom",
+ "region": "western-europe",
+ "course": "sweet",
+ "time": 150,
+ "serves": 10,
+ "ovenC": 170,
+ "ing": [
+  {
+   "q": 1,
+   "u": "base",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "butter",
+   "role": "aerate"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "aerate"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "almondflour",
+   "role": "structure"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "almond",
+   "role": "crunch"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Tarta Bakewell",
+  "blurb": "La frangipane es una proporción para memorizar: pesos iguales de mantequilla, azúcar, almendra molida y huevo. Funciona en cualquier fondo de tarta con cualquier fruta debajo.",
+  "ing": [
+   {
+    "n": "masa quebrada dulce",
+    "note": "horneada en blanco"
+   },
+   {
+    "n": "mermelada de frambuesa"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "almendra molida"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "extracto de almendra"
+   },
+   {
+    "n": "almendra fileteada"
+   },
+   {
+    "n": "azúcar glas",
+    "note": "para el glaseado"
+   }
+  ],
+  "steps": [
+   "Extiende la mermelada sobre la base del fondo horneado y frío.",
+   "Crema la mantequilla y el azúcar 3 minutos hasta que palidezcan.",
+   "Añade los huevos uno a uno. Si se corta, añade una cucharada de la almendra molida y sigue.",
+   "Incorpora la almendra molida, la harina y el extracto de almendra.",
+   "Extiende sobre la mermelada, alisa y esparce la almendra fileteada.",
+   "Hornea a 170 °C durante 35-40 minutos hasta que esté dorada y apenas firme. Enfría y decora con un hilo de glaseado."
+  ],
+  "tips": [
+   "Pesos iguales de mantequilla, azúcar, almendra y huevo. Sabiendo eso ya no necesitas la receta.",
+   "Un poco de harina en la frangipane evita que se hunda en el centro.",
+   "Cubre con aluminio a los 25 minutos si la almendra se dora demasiado rápido."
+  ],
+  "video": "tarta bakewell frangipane"
+ },
+ "en": {
+  "name": "Bakewell Tart",
+  "blurb": "Frangipane is a ratio worth memorizing: equal weights of butter, sugar, ground almonds and egg. It works in any tart shell with any fruit underneath.",
+  "ing": [
+   {
+    "n": "sweet shortcrust shell",
+    "note": "blind-baked"
+   },
+   {
+    "n": "raspberry jam"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "almond flour"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "almond extract"
+   },
+   {
+    "n": "sliced almonds"
+   },
+   {
+    "n": "powdered sugar",
+    "note": "for the icing"
+   }
+  ],
+  "steps": [
+   "Spread the jam over the base of the baked, cooled shell.",
+   "Cream the butter and sugar for 3 minutes until pale.",
+   "Add the eggs one at a time. If it curdles, add a spoonful of the almond flour and keep going.",
+   "Fold in the almond flour, the all-purpose flour and the almond extract.",
+   "Spread over the jam, smooth it and scatter the sliced almonds on top.",
+   "Bake at 170 °C for 35-40 minutes until golden and just set. Cool and finish with a drizzle of icing."
+  ],
+  "tips": [
+   "Equal weights of butter, sugar, almond and egg. Know that and you no longer need the recipe.",
+   "A little flour in the frangipane keeps it from sinking in the middle.",
+   "Cover with foil at 25 minutes if the almonds are browning too fast."
+  ],
+  "video": "bakewell tart frangipane"
+ }
+}

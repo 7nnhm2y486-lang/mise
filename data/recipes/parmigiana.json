@@ -1,0 +1,167 @@
+{
+ "id": "parmigiana",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 150,
+ "serves": 6,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "eggplant",
+   "role": "structure"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "mozzarella",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Parmigiana de Berenjena",
+  "blurb": "Las berenjenas se fríen, no se hornean. Es más trabajo y más grasa, y también es la única forma de que la textura sea sedosa en vez de correosa.",
+  "ing": [
+   {
+    "n": "berenjenas",
+    "note": "en láminas de 8 mm"
+   },
+   {
+    "n": "jitomate triturado"
+   },
+   {
+    "n": "mozzarella",
+    "note": "escurrida y desmenuzada"
+   },
+   {
+    "n": "parmesano",
+    "note": "rallado"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "aceite de oliva",
+    "note": "para freír"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sala las láminas de berenjena y déjalas escurrir en un colador 45 minutos. Sécalas muy bien.",
+   "Haz una salsa sencilla: ajo en aceite, jitomate, sal y albahaca, cocida 25 minutos hasta que espese.",
+   "Enharina ligeramente las berenjenas y fríelas en aceite caliente por tandas hasta que estén doradas. Escurre sobre rejilla.",
+   "Escurre la mozzarella al menos 30 minutos: su suero es lo que encharca la parmigiana.",
+   "Monta capas de salsa, berenjena, mozzarella, parmesano y albahaca, repitiendo tres o cuatro veces.",
+   "Hornea a 180 °C durante 40 minutos. Reposa 30 minutos: caliente es imposible de servir y sabe a menos."
+  ],
+  "tips": [
+   "Escurre la mozzarella. Es la causa número uno de una parmigiana aguada.",
+   "Freír, no hornear las berenjenas. El horno las deseca y quedan como cuero.",
+   "Está mejor tibia que ardiendo, y aún mejor al día siguiente."
+  ],
+  "video": "parmigiana di melanzane"
+ },
+ "en": {
+  "name": "Eggplant Parmigiana",
+  "blurb": "The eggplant is fried, not baked. It's more work and more fat, and it's also the only way to get a silky texture instead of a leathery one.",
+  "ing": [
+   {
+    "n": "eggplants",
+    "note": "in 8 mm slices"
+   },
+   {
+    "n": "crushed tomatoes"
+   },
+   {
+    "n": "mozzarella",
+    "note": "drained and torn"
+   },
+   {
+    "n": "parmesan",
+    "note": "grated"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "olive oil",
+    "note": "for frying"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Salt the eggplant slices and leave them to drain in a colander for 45 minutes. Pat them very dry.",
+   "Make a simple sauce: garlic in oil, tomatoes, salt and basil, cooked for 25 minutes until thick.",
+   "Lightly flour the eggplant and fry in hot oil in batches until golden. Drain on a rack.",
+   "Drain the mozzarella for at least 30 minutes: its whey is what floods a parmigiana.",
+   "Build layers of sauce, eggplant, mozzarella, parmesan and basil, repeating three or four times.",
+   "Bake at 180 °C for 40 minutes. Rest 30 minutes: hot, it's impossible to serve and tastes of less."
+  ],
+  "tips": [
+   "Drain the mozzarella. It's the number one cause of a watery parmigiana.",
+   "Fry the eggplant, don't bake it. The oven dries it out and it turns to leather.",
+   "It's better warm than piping hot, and better still the next day."
+  ],
+  "video": "parmigiana di melanzane"
+ }
+}

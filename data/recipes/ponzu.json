@@ -1,0 +1,124 @@
+{
+ "id": "ponzu",
+ "country": "Japan",
+ "region": "east-asia",
+ "course": "sauce",
+ "time": 1500,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "mirin",
+   "role": "sweet"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "",
+   "role": "umami"
+  },
+  {
+   "q": 15,
+   "u": "g",
+   "k": "katsuobushi",
+   "role": "umami"
+  }
+ ],
+ "es": {
+  "name": "Ponzu",
+  "blurb": "Soja y cítrico madurados juntos con kombu y katsuobushi. Se hace y se espera: recién mezclada sabe a soja con limón, y a la semana sabe a ponzu.",
+  "ing": [
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "mirin"
+   },
+   {
+    "n": "jugo de yuzu o limón",
+    "note": "o mezcla de limón y lima"
+   },
+   {
+    "n": "vinagre de arroz"
+   },
+   {
+    "n": "kombu"
+   },
+   {
+    "n": "katsuobushi"
+   }
+  ],
+  "steps": [
+   "Calienta el mirin brevemente para evaporar el alcohol y déjalo enfriar.",
+   "Mezcla la soja, el mirin frío, el jugo de cítrico y el vinagre en un frasco.",
+   "Añade el kombu y el katsuobushi sin calentar nada más.",
+   "Cierra y refrigera al menos 24 horas, idealmente una semana.",
+   "Cuela descartando los sólidos, presionando suavemente el katsuobushi.",
+   "Guarda refrigerado. Aguanta tres meses y mejora durante el primero."
+  ],
+  "tips": [
+   "No lo hiervas. Todo el proceso es en frío y por eso conserva el aroma cítrico.",
+   "Una semana de maduración mínimo. Es literalmente la mitad de la receta.",
+   "Va con sashimi, tofu frío, shabu-shabu, verduras al vapor y como base de aliño."
+  ],
+  "video": "ponzu casero yuzu"
+ },
+ "en": {
+  "name": "Ponzu",
+  "blurb": "Soy and citrus aged together with kombu and katsuobushi. You make it and wait: freshly mixed it tastes like soy with lemon, and after a week it tastes like ponzu.",
+  "ing": [
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "mirin"
+   },
+   {
+    "n": "yuzu or lemon juice",
+    "note": "or a mix of lemon and lime"
+   },
+   {
+    "n": "rice vinegar"
+   },
+   {
+    "n": "kombu"
+   },
+   {
+    "n": "katsuobushi"
+   }
+  ],
+  "steps": [
+   "Heat the mirin briefly to cook off the alcohol and let it cool.",
+   "Mix the soy sauce, cooled mirin, citrus juice and vinegar in a jar.",
+   "Add the kombu and katsuobushi without heating anything else.",
+   "Seal and refrigerate for at least 24 hours, ideally a week.",
+   "Strain, discarding the solids, pressing gently on the katsuobushi.",
+   "Keep refrigerated. It lasts three months and improves over the first."
+  ],
+  "tips": [
+   "Don't boil it. The whole process is cold, which is why it keeps its citrus aroma.",
+   "One week of aging minimum. It's literally half the recipe.",
+   "Goes with sashimi, cold tofu, shabu-shabu, steamed vegetables and as a dressing base."
+  ],
+  "video": "homemade yuzu ponzu"
+ }
+}

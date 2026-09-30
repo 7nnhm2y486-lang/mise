@@ -1,0 +1,214 @@
+{
+ "id": "japchae",
+ "country": "Korea",
+ "region": "east-asia",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "structure"
+  },
+  {
+   "q": 5,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "sesameoil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sesameseed",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Japchae",
+  "blurb": "Cada verdura sazonada y cocinada por su cuenta, y luego todo mezclado. Parece manía y es exactamente la razón de que el plato sepa a capas.",
+  "ing": [
+   {
+    "n": "fideos de batata",
+    "note": "dangmyeon"
+   },
+   {
+    "n": "lomo de res",
+    "note": "en juliana"
+   },
+   {
+    "n": "espinaca"
+   },
+   {
+    "n": "zanahoria"
+   },
+   {
+    "n": "shiitake",
+    "note": "en láminas"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "aceite de sésamo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "semillas de sésamo"
+   },
+   {
+    "n": "huevo",
+    "note": "tortilla fina en juliana"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Cuece los fideos 6-7 minutos, escúrrelos y mézclalos de inmediato con 1 cda de soja y 1 de aceite de sésamo para que no se apelmacen. Córtalos toscamente con tijeras.",
+   "Marina la carne con 1 cda de soja, 1 cdta de azúcar y el ajo.",
+   "Escalda la espinaca 30 segundos, escúrrela apretando muy bien y sazónala con aceite de sésamo y sal.",
+   "Saltea la cebolla, luego la zanahoria, luego el shiitake, luego la carne, cada uno por separado, cada uno con un poco de sal, retirando conforme se hacen.",
+   "Reúne todo en el bol más grande que tengas con el resto de soja, azúcar y aceite de sésamo. Mezcla con las manos.",
+   "Rectifica, corona con la juliana de huevo y el sésamo. Se sirve a temperatura ambiente."
+  ],
+  "tips": [
+   "Aliña los fideos en cuanto escurran o se fundirán en un bloque sólido.",
+   "Cocinar cada verdura aparte conserva colores y texturas distintos.",
+   "Está pensado para comerse tibio o a temperatura ambiente, nunca ardiendo."
+  ],
+  "video": "japchae fideos de cristal coreanos"
+ },
+ "en": {
+  "name": "Japchae",
+  "blurb": "Every vegetable seasoned and cooked on its own, then everything tossed together. It looks fussy, and it's exactly why the dish tastes layered.",
+  "ing": [
+   {
+    "n": "sweet potato noodles",
+    "note": "dangmyeon"
+   },
+   {
+    "n": "beef sirloin",
+    "note": "julienned"
+   },
+   {
+    "n": "spinach"
+   },
+   {
+    "n": "carrot"
+   },
+   {
+    "n": "shiitake",
+    "note": "sliced"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "sesame oil"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "sesame seeds"
+   },
+   {
+    "n": "egg",
+    "note": "thin omelet, cut into strips"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Boil the noodles 6-7 minutes, drain and immediately toss with 1 tbsp soy sauce and 1 tbsp sesame oil so they don't clump. Cut them roughly with scissors.",
+   "Marinate the beef with 1 tbsp soy sauce, 1 tsp sugar and the garlic.",
+   "Blanch the spinach 30 seconds, squeeze it very dry and season with sesame oil and salt.",
+   "Stir-fry the onion, then the carrot, then the shiitake, then the beef, each one separately, each with a little salt, removing each as it's done.",
+   "Combine everything in the biggest bowl you own with the remaining soy sauce, sugar and sesame oil. Toss with your hands.",
+   "Adjust the seasoning and top with the egg strips and sesame seeds. Serve at room temperature."
+  ],
+  "tips": [
+   "Dress the noodles the moment they're drained or they'll fuse into a solid block.",
+   "Cooking each vegetable separately keeps the colors and textures distinct.",
+   "It's meant to be eaten warm or at room temperature, never piping hot."
+  ],
+  "video": "japchae Korean glass noodles"
+ }
+}

@@ -1,0 +1,188 @@
+{
+ "id": "ccc-malted",
+ "country": "United Kingdom",
+ "region": "western-europe",
+ "course": "cookie",
+ "time": 800,
+ "serves": 18,
+ "ovenC": 185,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 50,
+   "u": "g",
+   "k": "milk",
+   "role": "aromatic"
+  },
+  {
+   "q": 220,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 190,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 90,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 285,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "milkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Galletas de Malta",
+  "blurb": "La malta de cebada en polvo aporta enzimas y maltosa, que dora con más facilidad que la sacarosa. El resultado sabe al interior de una bolita de leche malteada.",
+  "lab": "Malta en polvo · tostada, nostálgica, algo salada",
+  "ing": [
+   {
+    "n": "leche malteada en polvo"
+   },
+   {
+    "n": "mantequilla",
+    "note": "tostada"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "yema de huevo"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate con leche"
+   },
+   {
+    "n": "chocolate negro"
+   }
+  ],
+  "steps": [
+   "Tuesta la mantequilla y enfríala 10 minutos.",
+   "Bate dentro los dos azúcares, luego el huevo y la yema.",
+   "Incorpora la harina, la malta en polvo, el bicarbonato y la sal.",
+   "Incorpora los dos chocolates: el de leche es acertado aquí, cosa que no suele ser, porque malta y chocolate con leche son la misma familia de sabor.",
+   "Refrigera 12 horas.",
+   "Hornea bolas de 55 g a 185 °C durante 12 minutos."
+  ],
+  "tips": [
+   "La leche malteada contiene malta de cebada, así que no es sin gluten aunque parezca un lácteo.",
+   "La malta diastática es otra cosa y aflojará la masa. Quieres la de beber.",
+   "Chocolate con leche y malta, y negro para equilibrar. Solo con leche resulta empalagoso."
+  ],
+  "video": "galletas leche malteada chocolate"
+ },
+ "en": {
+  "name": "Malted Milk Cookies",
+  "blurb": "Barley malt powder brings enzymes and maltose, which browns more readily than sucrose. The result tastes like the inside of a malted milk ball.",
+  "lab": "Malt powder · toasty, nostalgic, a little salty",
+  "ing": [
+   {
+    "n": "malted milk powder"
+   },
+   {
+    "n": "butter",
+    "note": "browned"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "egg yolk"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "milk chocolate"
+   },
+   {
+    "n": "dark chocolate"
+   }
+  ],
+  "steps": [
+   "Brown the butter and cool it 10 minutes.",
+   "Beat in both sugars, then the egg and yolk.",
+   "Fold in the flour, malt powder, baking soda and salt.",
+   "Fold in both chocolates: milk chocolate is the right call here, which it usually isn't, because malt and milk chocolate are the same flavor family.",
+   "Refrigerate 12 hours.",
+   "Bake 55 g balls at 185 °C for 12 minutes."
+  ],
+  "tips": [
+   "Malted milk powder contains barley malt, so it isn't gluten-free even though it looks like a dairy product.",
+   "Diastatic malt is something else and will slacken the dough. You want the drinking kind.",
+   "Milk chocolate with the malt, and dark to balance it. Milk chocolate alone is cloying."
+  ],
+  "video": "malted milk chocolate chip cookies"
+ }
+}

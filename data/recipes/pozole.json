@@ -1,0 +1,186 @@
+{
+ "id": "pozole",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 210,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "ancho",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "plate",
+   "k": "",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pozole Rojo",
+  "blurb": "Maíz cacahuazintle nixtamalizado. El caldo es deliberadamente ligero; las guarniciones son la mitad del plato.",
+  "ing": [
+   {
+    "n": "espaldilla de cerdo"
+   },
+   {
+    "n": "manita de cerdo",
+    "note": "para cuerpo"
+   },
+   {
+    "n": "maíz pozolero",
+    "note": "de lata, escurrido y enjuagado"
+   },
+   {
+    "n": "chiles guajillo"
+   },
+   {
+    "n": "chiles ancho"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "orégano mexicano"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "col, rábano, cebolla, limón, orégano"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece el cerdo y la manita con la cebolla, la mitad del ajo y el laurel en 3 litros de agua durante 2 horas, espumando a menudo.",
+   "Tuesta brevemente los chiles y remójalos 20 minutos en caldo caliente.",
+   "Tritura los chiles con el resto del ajo y el orégano, y pasa el puré por un colador: las pieles nunca se deshacen del todo.",
+   "Incorpora el puré de chile al caldo y cuece 30 minutos.",
+   "Añade el maíz y cocina 30 minutos más para que se hinche y tome el caldo.",
+   "Deshebra el cerdo de vuelta, sazona con firmeza y sirve con el plato de guarniciones para que cada quien arme su tazón."
+  ],
+  "tips": [
+   "Colar el puré de chile es la diferencia entre aterciopelado y arenoso.",
+   "Sazona al final. Tres horas de reducción concentran lo que hayas añadido antes.",
+   "Las guarniciones no son opcionales: la col y el rábano crudos son lo que hace funcionar el tazón."
+  ],
+  "video": "pozole rojo"
+ },
+ "en": {
+  "name": "Pozole Rojo",
+  "blurb": "Nixtamalized cacahuazintle corn. The broth is deliberately light; the garnishes are half the dish.",
+  "ing": [
+   {
+    "n": "pork shoulder"
+   },
+   {
+    "n": "pig's foot",
+    "note": "for body"
+   },
+   {
+    "n": "hominy",
+    "note": "canned, drained and rinsed"
+   },
+   {
+    "n": "guajillo chiles"
+   },
+   {
+    "n": "ancho chiles"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "Mexican oregano"
+   },
+   {
+    "n": "bay leaf"
+   },
+   {
+    "n": "cabbage, radish, onion, lime, oregano"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the pork and pig's foot with the onion, half the garlic and the bay leaf in 3 liters of water for 2 hours, skimming often.",
+   "Briefly toast the chiles and soak them for 20 minutes in hot broth.",
+   "Blend the chiles with the rest of the garlic and the oregano, and push the purée through a strainer: the skins never fully break down.",
+   "Stir the chile purée into the broth and simmer for 30 minutes.",
+   "Add the hominy and cook 30 minutes more so it swells and takes on the broth.",
+   "Shred the pork back in, season assertively and serve with the plate of garnishes so everyone builds their own bowl."
+  ],
+  "tips": [
+   "Straining the chile purée is the difference between velvety and gritty.",
+   "Season at the end. Three hours of reduction concentrate whatever you added earlier.",
+   "The garnishes aren't optional: the raw cabbage and radish are what make the bowl work."
+  ],
+  "video": "pozole rojo"
+ }
+}

@@ -1,0 +1,151 @@
+{
+ "id": "bonet",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 180,
+ "serves": 8,
+ "ovenC": 150,
+ "ing": [
+  {
+   "q": 600,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "almondflour",
+   "role": "structure"
+  },
+  {
+   "q": 40,
+   "u": "ml",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 40,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Bonet",
+  "blurb": "El flan piamontés con cacao y amaretti. Las galletas machacadas se hunden y forman una capa densa en la base, que al desmoldar queda arriba.",
+  "ing": [
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "cacao en polvo"
+   },
+   {
+    "n": "amaretti",
+    "note": "machacados"
+   },
+   {
+    "n": "ron o marsala"
+   },
+   {
+    "n": "azúcar",
+    "note": "para el caramelo"
+   },
+   {
+    "n": "agua"
+   }
+  ],
+  "steps": [
+   "Haz un caramelo oscuro con los 150 g de azúcar y el agua, y viértelo en el fondo del molde.",
+   "Calienta la leche sin que hierva.",
+   "Bate los huevos con el azúcar y el cacao tamizado, sin airear.",
+   "Incorpora la leche caliente en hilo, luego el ron y los amaretti machacados.",
+   "Vierte sobre el caramelo y hornea a baño maría a 150 °C durante 55-65 minutos, hasta que tiemble como una pieza.",
+   "Refrigera al menos 6 horas antes de desmoldar. Los amaretti habrán formado una capa densa que queda en la superficie."
+  ],
+  "tips": [
+   "Tamiza el cacao o quedarán grumos que no se van.",
+   "Baño maría obligatorio: sin él el cacao hace que se cuaje de forma despareja.",
+   "Las horas de refrigerador disuelven el caramelo en salsa, igual que en un flan."
+  ],
+  "video": "bonet piamontés amaretti"
+ },
+ "en": {
+  "name": "Bonet",
+  "blurb": "The Piedmontese custard with cocoa and amaretti. The crushed cookies sink and form a dense layer at the bottom, which ends up on top when you unmold it.",
+  "ing": [
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cocoa powder"
+   },
+   {
+    "n": "amaretti",
+    "note": "crushed"
+   },
+   {
+    "n": "rum or marsala"
+   },
+   {
+    "n": "sugar",
+    "note": "for the caramel"
+   },
+   {
+    "n": "water"
+   }
+  ],
+  "steps": [
+   "Make a dark caramel with the 150 g of sugar and the water, and pour it into the bottom of the mold.",
+   "Heat the milk without letting it boil.",
+   "Whisk the eggs with the sugar and sifted cocoa, without incorporating air.",
+   "Whisk in the hot milk in a stream, then the rum and the crushed amaretti.",
+   "Pour over the caramel and bake in a water bath at 150 °C for 55-65 minutes, until it wobbles as one piece.",
+   "Refrigerate at least 6 hours before unmolding. The amaretti will have formed a dense layer that ends up on top."
+  ],
+  "tips": [
+   "Sift the cocoa or you'll get lumps that never go away.",
+   "The water bath is mandatory: without it the cocoa makes it set unevenly.",
+   "The hours in the fridge dissolve the caramel into a sauce, just like a flan."
+  ],
+  "video": "piedmontese bonet amaretti"
+ }
+}

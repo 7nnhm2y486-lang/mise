@@ -1,0 +1,166 @@
+{
+ "id": "pestorosso",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sauce",
+ "time": 20,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "tomato",
+   "role": "umami"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "almond",
+   "role": "fat"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "pecorino",
+   "role": "fat"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "feta",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pesto Rosso",
+  "blurb": "El pesto siciliano, con tomate seco y almendra en vez de piñón. Menos albahaca, más cuerpo, y aguanta mucho mejor que el genovés.",
+  "ing": [
+   {
+    "n": "tomates secos en aceite",
+    "note": "escurridos"
+   },
+   {
+    "n": "almendras",
+    "note": "peladas y tostadas"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "pecorino",
+    "note": "rallado"
+   },
+   {
+    "n": "ricotta salada",
+    "note": "opcional"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "hojuelas de chile"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Tuesta las almendras 8 minutos a 180 °C y déjalas enfriar por completo.",
+   "Machaca el ajo con la sal en el mortero.",
+   "Añade las almendras y machácalas hasta obtener una arena gruesa.",
+   "Incorpora los tomates secos escurridos y sigue machacando hasta obtener una pasta rojiza.",
+   "Añade la albahaca aplastándola contra la pared del mortero, luego los quesos y el chile.",
+   "Incorpora el aceite removiendo. Afloja con agua de pasta al servir."
+  ],
+  "tips": [
+   "Usa el aceite del bote de tomates secos como parte del total: está lleno de sabor.",
+   "Aguanta dos semanas en el refrigerador, mucho más que el pesto verde.",
+   "Va con pasta corta, sobre pan tostado y como base de una pizza blanca."
+  ],
+  "video": "pesto rosso siciliano"
+ },
+ "en": {
+  "name": "Pesto Rosso",
+  "blurb": "The Sicilian pesto, with sun-dried tomatoes and almonds instead of pine nuts. Less basil, more body, and it keeps far better than the Genovese.",
+  "ing": [
+   {
+    "n": "sun-dried tomatoes in oil",
+    "note": "drained"
+   },
+   {
+    "n": "almonds",
+    "note": "blanched and toasted"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "pecorino",
+    "note": "grated"
+   },
+   {
+    "n": "ricotta salata",
+    "note": "optional"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "chile flakes"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Toast the almonds for 8 minutes at 180 °C and let them cool completely.",
+   "Pound the garlic with the salt in the mortar.",
+   "Add the almonds and pound them to a coarse sand.",
+   "Work in the drained sun-dried tomatoes and keep pounding until you have a reddish paste.",
+   "Add the basil, crushing it against the side of the mortar, then the cheeses and the chile.",
+   "Stir in the oil. Loosen with pasta water when serving."
+  ],
+  "tips": [
+   "Use the oil from the jar of sun-dried tomatoes as part of the total: it's full of flavor.",
+   "Keeps two weeks in the fridge, much longer than green pesto.",
+   "Goes with short pasta, on toast and as the base for a white pizza."
+  ],
+  "video": "sicilian pesto rosso"
+ }
+}

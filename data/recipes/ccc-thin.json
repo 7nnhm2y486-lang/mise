@@ -1,0 +1,178 @@
+{
+ "id": "ccc-thin",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 40,
+ "serves": 30,
+ "ovenC": 175,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 225,
+   "u": "g",
+   "k": "butter",
+   "role": "spread"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 260,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "chocolatechips",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Galletas Finas y Crujientes",
+  "blurb": "La construcción opuesta. Más azúcar blanca, más mantequilla, más líquido, menos harina y un horno más suave para que tengan tiempo de extenderse y secarse antes de cuajar.",
+  "lab": "Mucha azúcar blanca · encaje, quebradizas, se rompen",
+  "ing": [
+   {
+    "n": "mantequilla",
+    "note": "derretida"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "azúcar morena clara"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chispas de chocolate",
+    "note": "pequeñas, o picado fino"
+   }
+  ],
+  "steps": [
+   "Bate la mantequilla derretida con los dos azúcares, luego el huevo, la leche y la vainilla.",
+   "Incorpora la harina, el bicarbonato y la sal.",
+   "Incorpora el chocolate: usa chispas pequeñas o pícalo fino, porque los trozos grandes impiden que la galleta se adelgace de forma pareja.",
+   "Forma bolas pequeñas de 25 g con muchísimo espacio entre ellas. Triplicarán su ancho.",
+   "Hornea a 175 °C durante 13-15 minutos, hasta que estén doradas de forma pareja en toda la superficie, no solo en los bordes.",
+   "Enfría por completo en la bandeja. Están flácidas en caliente y solo crujen cuando están frías."
+  ],
+  "tips": [
+   "El azúcar blanca funde y extiende; la morena retiene humedad y resiste. Mover esa proporción hacia lo blanco es la palanca más potente sobre el crujido.",
+   "Más suave y más largo evapora agua. Un horno fuerte y rápido cuaja la estructura antes de que pueda extenderse.",
+   "Tienen que enfriarse enteras en la bandeja o nunca romperán."
+  ],
+  "video": "galletas finas crujientes chispas"
+ },
+ "en": {
+  "name": "Thin and Crispy Cookies",
+  "blurb": "The opposite build. More white sugar, more butter, more liquid, less flour and a gentler oven, so they have time to spread and dry out before they set.",
+  "lab": "Lots of white sugar · lacy, brittle, they snap",
+  "ing": [
+   {
+    "n": "butter",
+    "note": "melted"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "light brown sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "chocolate chips",
+    "note": "mini, or finely chopped"
+   }
+  ],
+  "steps": [
+   "Whisk the melted butter with both sugars, then the egg, milk and vanilla.",
+   "Fold in the flour, baking soda and salt.",
+   "Fold in the chocolate: use mini chips or chop it fine, because big chunks stop the cookie from thinning out evenly.",
+   "Shape small 25 g balls with plenty of space between them. They will triple in width.",
+   "Bake at 175 °C for 13-15 minutes, until evenly golden across the whole surface, not just at the edges.",
+   "Cool completely on the sheet. They're floppy when warm and only crisp once cold."
+  ],
+  "tips": [
+   "White sugar melts and spreads; brown sugar holds moisture and resists. Shifting that ratio toward white is the strongest lever on crispness.",
+   "Lower and longer drives off water. A hot, fast oven sets the structure before it can spread.",
+   "They have to cool fully on the sheet or they'll never snap."
+  ],
+  "video": "thin crispy chocolate chip cookies"
+ }
+}

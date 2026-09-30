@@ -1,0 +1,41 @@
+{"id":"ccc-sugarfree","ing":9,"name":"extracto de vainilla","issue":"empty key; vanilla extract is ~35% alcohol","suggest":"alcohol"}
+{"id":"ccc-thin","ing":5,"name":"extracto de vainilla","issue":"empty key; vanilla extract contains alcohol","suggest":"alcohol"}
+{"id":"ccc-vegan","ing":0,"name":"mantequilla vegana en bloque","issue":"keyed as dairy 'butter' in a vegan recipe; engine will tag milk and miss real allergens in vegan butter blocks (often coconut oil, soy, cashew, sometimes almond)","suggest":"separate vegan-butter key tagged coconut, soy, tree nuts (label check); not milk"}
+{"id":"ccc-vegan","ing":5,"name":"extracto de vainilla","issue":"empty key; vanilla extract contains alcohol","suggest":"alcohol"}
+{"id":"ccc-vegan","ing":10,"name":"chocolate negro sin lácteos","issue":"keyed 'darkchocolate'; if that key carries milk the dairy-free recipe is mis-tagged; dairy-free chocolate often contains soy lecithin and may-contain milk/tree nuts","suggest":"dairy-free chocolate key: soy (lecithin); may-contain milk, tree nuts"}
+{"id":"chana","ing":9,"name":"mezcla chana masala","issue":"empty key; store-bought spice blend; some contain asafoetida cut with wheat flour, mustard, or celery seed","suggest":"wheat/gluten (asafoetida), mustard, celery - label check"}
+{"id":"charkwayteow","ing":2,"name":"salchicha china","issue":"keyed 'chorizo'; lap cheong typically contains pork, rose wine/rice wine, soy sauce (soy, wheat) and often sulphites/nitrites","suggest":"pork, alcohol, soy, wheat/gluten, sulphites"}
+{"id":"charkwayteow","ing":4,"name":"germinado de soja","issue":"empty key; name says soy sprouts - usually mung bean but can be true soybean sprouts","suggest":"soy (if soybean sprouts); clarify as mung bean sprouts"}
+{"id":"charkwayteow","ing":10,"name":"pasta de chile","issue":"keyed 'chilli' only; Malaysian/Singapore chile paste (sambal) commonly contains dried shrimp or belacan shrimp paste, sometimes fish sauce and soy","suggest":"crustacean shellfish, fish, soy - label check"}
+{"id":"charsiu","ing":0,"name":"espaldilla de cerdo","issue":"empty key on the main pork ingredient; pork not tagged","suggest":"pork"}
+{"id":"charsiu","ing":5,"name":"maltosa","issue":"keyed 'sugar'; Chinese maltose syrup is often made with wheat or barley malt","suggest":"wheat/gluten (barley malt) - label check"}
+{"id":"charsiu","ing":8,"name":"tofu rojo fermentado","issue":"keyed 'soysauce'; fermented red bean curd is soy plus rice wine/red yeast rice in brine","suggest":"soy, alcohol (and wheat only if soysauce key implies it)"}
+{"id":"chili","ing":8,"name":"caldo de res","issue":"empty key; store-bought beef stock/bouillon often contains celery, wheat, soy, sometimes milk","suggest":"celery, wheat/gluten, soy - label check"}
+{"id":"chili","ing":12,"name":"vinagre de manzana","issue":"empty key; cider vinegar may contain sulphites","suggest":"sulphites"}
+{"id":"chimichurri","ing":3,"name":"vinagre de vino tinto","issue":"empty key; wine vinegar contains sulphites","suggest":"sulphites"}
+{"id":"cloudbread","ing":4,"name":"extracto de vainilla","issue":"empty key; vanilla extract contains alcohol","suggest":"alcohol"}
+{"id":"cochinita","ing":0,"name":"espaldilla de cerdo","issue":"empty key on the main pork ingredient; pork not tagged","suggest":"pork"}
+{"id":"cochinita","ing":1,"name":"pasta de achiote","issue":"empty key; commercial achiote paste commonly contains corn flour/cornstarch, vinegar, and some brands wheat flour","suggest":"corn, wheat/gluten, sulphites - label check"}
+{"id":"congee","ing":1,"name":"caldo de pollo o cerdo","issue":"empty key; pork option not tagged; store-bought stock often contains celery, wheat, soy","suggest":"pork (if pork stock), celery, wheat/gluten, soy - label check"}
+{"id":"congee","ing":8,"name":"chalota frita","issue":"keyed 'onion'; store-bought fried shallots are often dusted with wheat flour and fried in palm/soy oil","suggest":"wheat/gluten - label check"}
+{"id":"congee","ing":9,"name":"youtiao","issue":"keyed 'apflour' (wheat) only; some youtiao recipes/commercial versions include egg or milk and are fried in shared oil","suggest":"wheat/gluten, possibly egg, milk"}
+{"id":"cookies","ing":6,"name":"extracto de vainilla","issue":"empty key; vanilla extract contains alcohol","suggest":"alcohol"}
+{"id":"coqauvin","ing":9,"name":"caldo de pollo","issue":"empty key; store-bought chicken stock often contains celery, wheat, soy","suggest":"celery, wheat/gluten, soy - label check"}
+{"id":"cottageicecream","ing":3,"name":"extracto de vainilla","issue":"empty key; vanilla extract contains alcohol","suggest":"alcohol"}
+{"id":"cottageicecream","ing":6,"name":"vodka","issue":"empty key on a spirit; alcohol not tagged (dessert may be served to children); some vodkas are wheat/rye-based","suggest":"alcohol; note wheat/rye source (distilled, usually tolerated by coeliacs)"}
+{"id":"crispyrice","ing":5,"name":"sriracha","issue":"keyed 'chilli' only; sriracha usually contains sodium bisulfite (sulphites) and garlic","suggest":"sulphites"}
+{"id":"crispyrice","ing":7,"name":"kimchi","issue":"keyed 'chilli' only; traditional kimchi contains fish sauce and salted shrimp/anchovy, sometimes oysters","suggest":"fish, crustacean shellfish, possibly molluscs - label check; vegan kimchi as swap"}
+{"id":"crookie","ing":0,"name":"cruasanes","issue":"keyed 'apflour' (wheat only); croissants are made with butter and milk and egg-washed","suggest":"wheat/gluten, milk, egg"}
+{"id":"crookie","ing":1,"name":"masa de galleta con chispas","issue":"keyed 'chocolatechips'; raw cookie dough contains butter, egg, wheat flour and vanilla extract","suggest":"milk, egg, wheat/gluten, alcohol (vanilla), plus chocolate tags"}
+{"id":"crostata","ing":8,"name":"mermelada de albaricoque","issue":"keyed 'sugar'; apricot jam made from dried/sulphured apricots can contain sulphites","suggest":"sulphites - label check"}
+{"id":"cucumbersalad","ing":6,"name":"aceite de chile","issue":"keyed 'chilli' only; store-bought chili oil/crisp commonly contains soybean, sesame and sometimes peanuts","suggest":"soy, sesame, peanut - label check"}
+{"id":"daltadka","ing":6,"name":"asafétida","issue":"empty key; most commercial (compounded) asafoetida is cut with wheat flour","suggest":"wheat/gluten - use certified GF (rice-flour) hing"}
+{"id":"dandan","ing":1,"name":"cerdo picado","issue":"empty key on the main pork ingredient; pork not tagged","suggest":"pork"}
+{"id":"dandan","ing":2,"name":"ya cai","issue":"empty key; Yibin ya cai is preserved mustard greens (mustard family), and some brands add soy sauce","suggest":"mustard, soy - label check"}
+{"id":"dandan","ing":3,"name":"pasta de sésamo china","issue":"keyed 'tahini' (sesame ok); Chinese sesame paste is sometimes blended with peanut paste","suggest":"sesame, possibly peanut - label check"}
+{"id":"dandan","ing":4,"name":"aceite de chile","issue":"keyed 'chilli' only; store-bought chili oil often contains soybean, sesame, sometimes peanuts","suggest":"soy, sesame, peanut - label check"}
+{"id":"dandan","ing":6,"name":"vinagre de Chinkiang","issue":"empty key; Chinkiang black vinegar is brewed from glutinous rice with wheat bran/barley, and may contain sulphites","suggest":"wheat/gluten, sulphites"}
+{"id":"dhal-lk","ing":8,"name":"semilla de mostaza","issue":"empty key on mustard seed; mustard allergen not tagged","suggest":"mustard"}
+{"id":"dosa","ing":6,"name":"semilla de mostaza","issue":"empty key on mustard seed; mustard allergen not tagged","suggest":"mustard"}
+{"id":"eclair","ing":0,"name":"pasta choux","issue":"keyed 'apflour' (wheat only); choux batch contains milk, butter and 4 eggs","suggest":"wheat/gluten, milk, egg"}
+{"id":"eggtart","ing":8,"name":"extracto de vainilla","issue":"empty key; vanilla extract contains alcohol","suggest":"alcohol"}

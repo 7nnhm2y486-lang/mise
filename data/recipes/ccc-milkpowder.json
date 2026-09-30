@@ -1,0 +1,190 @@
+{
+ "id": "ccc-milkpowder",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 820,
+ "serves": 18,
+ "ovenC": 185,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 50,
+   "u": "g",
+   "k": "milk",
+   "role": "aromatic"
+  },
+  {
+   "q": 225,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 290,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 280,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Galletas de Leche en Polvo Tostada",
+  "blurb": "Tostar leche en polvo en una sartén seca dora su lactosa y sus proteínas antes de que lleguen a la masa. Es el sabor de la mantequilla tostada, concentrado y multiplicado.",
+  "lab": "Sólidos lácteos dorados · caramelo sin caramelo",
+  "ing": [
+   {
+    "n": "leche en polvo",
+    "note": "entera"
+   },
+   {
+    "n": "mantequilla",
+    "note": "tostada"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "yema de huevo"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro"
+   },
+   {
+    "n": "extracto de vainilla"
+   }
+  ],
+  "steps": [
+   "Tuesta la leche en polvo en una sartén seca a fuego bajo, removiendo sin parar, 6-8 minutos, hasta que tome color de té claro y huela a leche condensada. Se quema en segundos al final, así que no te alejes.",
+   "Tuesta la mantequilla aparte y enfríala 10 minutos.",
+   "Bate la mantequilla con los azúcares, luego el huevo, la yema y la vainilla.",
+   "Incorpora la harina, la leche en polvo tostada, el bicarbonato y la sal, y después el chocolate.",
+   "Refrigera 12 horas y hornea bolas de 55 g a 185 °C durante 12 minutos.",
+   "Enfría en la bandeja."
+  ],
+  "tips": [
+   "Fuego bajo y movimiento constante. La leche en polvo pasa de perfecta a acre en unos quince segundos.",
+   "Este es el truco detrás de casi toda galleta de pastelería que sabe a algo que no logras identificar.",
+   "También funciona en shortbread, en base de helado y en buttercream."
+  ],
+  "video": "galletas leche en polvo tostada"
+ },
+ "en": {
+  "name": "Toasted Milk Powder Cookies",
+  "blurb": "Toasting milk powder in a dry skillet browns its lactose and proteins before they reach the dough. It's the flavor of brown butter, concentrated and multiplied.",
+  "lab": "Browned milk solids · caramel without caramel",
+  "ing": [
+   {
+    "n": "milk powder",
+    "note": "whole"
+   },
+   {
+    "n": "butter",
+    "note": "browned"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "egg yolk"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate"
+   },
+   {
+    "n": "vanilla extract"
+   }
+  ],
+  "steps": [
+   "Toast the milk powder in a dry skillet over low heat, stirring constantly, 6-8 minutes, until it's the color of weak tea and smells like condensed milk. It burns in seconds at the end, so don't walk away.",
+   "Brown the butter separately and cool it 10 minutes.",
+   "Beat the butter with the sugars, then the egg, yolk and vanilla.",
+   "Fold in the flour, toasted milk powder, baking soda and salt, then the chocolate.",
+   "Refrigerate 12 hours and bake 55 g balls at 185 °C for 12 minutes.",
+   "Cool on the sheet."
+  ],
+  "tips": [
+   "Low heat and constant motion. Milk powder goes from perfect to acrid in about fifteen seconds.",
+   "This is the trick behind almost every bakery cookie that tastes of something you can't quite place.",
+   "It also works in shortbread, ice cream base and buttercream."
+  ],
+  "video": "toasted milk powder cookies"
+ }
+}

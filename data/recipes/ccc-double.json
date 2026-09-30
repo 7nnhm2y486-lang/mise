@@ -1,0 +1,194 @@
+{
+ "id": "ccc-double",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 800,
+ "serves": 18,
+ "ovenC": 185,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 70,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 230,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 240,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 130,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "whitechocolate",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Galletas Doble Chocolate",
+  "blurb": "El cacao en polvo es sediento y bajo en grasa, así que reseca mucho una masa si simplemente lo añades. La solución es más mantequilla, más azúcar y una yema extra para reponer la humedad.",
+  "lab": "Cacao en la masa · superficie agrietada, miga de brownie",
+  "ing": [
+   {
+    "n": "cacao en polvo",
+    "note": "alcalinizado"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "mantequilla",
+    "note": "derretida"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "yema de huevo"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro",
+    "note": "picado"
+   },
+   {
+    "n": "chocolate blanco",
+    "note": "opcional, por contraste"
+   }
+  ],
+  "steps": [
+   "Bate la mantequilla derretida con los dos azúcares 2 minutos hasta que brille.",
+   "Bate los huevos y la yema con fuerza otros 2 minutos. Esto es lo que da la superficie fina y agrietada.",
+   "Tamiza encima el cacao, la harina, el bicarbonato y la sal e incorpora hasta apenas integrar.",
+   "Incorpora los dos chocolates. La masa quedará muy blanda.",
+   "Refrigera 12 horas.",
+   "Hornea bolas de 55 g a 185 °C durante 11 minutos. Se verán crudas y deben verse así."
+  ],
+  "tips": [
+   "Batir con fuerza huevos y azúcar disuelve el azúcar y lo lleva a la superficie: eso es lo que se agrieta.",
+   "El cacao alcalinizado es más oscuro y menos ácido. El natural reaccionará con el bicarbonato y sabrá más punzante.",
+   "Es casi imposible juzgarlas por color. Guíate por el tiempo y por el cuajado de los bordes."
+  ],
+  "video": "galletas doble chocolate superficie agrietada"
+ },
+ "en": {
+  "name": "Double Chocolate Cookies",
+  "blurb": "Cocoa powder is thirsty and low in fat, so it dries out a dough badly if you just add it. The fix is more butter, more sugar and an extra yolk to put the moisture back.",
+  "lab": "Cocoa in the dough · crackled top, brownie crumb",
+  "ing": [
+   {
+    "n": "cocoa powder",
+    "note": "Dutch-process"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter",
+    "note": "melted"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "egg yolk"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate",
+    "note": "chopped"
+   },
+   {
+    "n": "white chocolate",
+    "note": "optional, for contrast"
+   }
+  ],
+  "steps": [
+   "Beat the melted butter with both sugars for 2 minutes until glossy.",
+   "Beat in the eggs and yolk hard for another 2 minutes. This is what gives the thin, crackled top.",
+   "Sift the cocoa, flour, baking soda and salt over the top and fold until just combined.",
+   "Fold in both chocolates. The dough will be very soft.",
+   "Refrigerate 12 hours.",
+   "Bake 55 g balls at 185 °C for 11 minutes. They'll look raw, and they should."
+  ],
+  "tips": [
+   "Beating eggs and sugar hard dissolves the sugar and brings it to the surface: that's what cracks.",
+   "Dutch-process cocoa is darker and less acidic. Natural cocoa will react with the baking soda and taste sharper.",
+   "They're nearly impossible to judge by color. Go by time and by how set the edges are."
+  ],
+  "video": "double chocolate crinkle top cookies"
+ }
+}

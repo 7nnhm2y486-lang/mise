@@ -1,0 +1,114 @@
+{
+ "id": "toum",
+ "country": "Lebanon",
+ "region": "middle-east",
+ "course": "sauce",
+ "time": 20,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 600,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Toum",
+  "blurb": "Una emulsión de ajo y aceite sin huevo. El ajo aporta su propio emulsionante, pero solo si el aceite entra gota a gota al principio: ahí se rompe el 90% de los intentos.",
+  "ing": [
+   {
+    "n": "ajo",
+    "note": "dientes pelados, sin el germen"
+   },
+   {
+    "n": "aceite neutro",
+    "note": "de girasol o canola, nunca de oliva"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "agua helada"
+   },
+   {
+    "n": "sal fina"
+   }
+  ],
+  "steps": [
+   "Quita el germen verde de cada diente: es amargo y en esta cantidad se nota mucho.",
+   "Tritura el ajo con la sal en un procesador hasta obtener una pasta, bajando las paredes dos veces.",
+   "Con la máquina en marcha, añade el aceite literalmente gota a gota durante los primeros 100 ml. Este es el paso que decide todo.",
+   "Cuando empiece a verse blanco y espeso, alterna: un chorrito de aceite, luego una cucharadita de limón, y así sucesivamente.",
+   "Termina con el agua helada, que estabiliza la emulsión y aclara el color.",
+   "Debe quedar como una nube blanca y firme que sostiene picos. Refrigerado aguanta un mes."
+  ],
+  "tips": [
+   "Aceite neutro, nunca de oliva: sus polifenoles amargan muchísimo al batirse a alta velocidad.",
+   "Gota a gota al principio. Si viertes un chorro, se corta y ya no hay vuelta atrás fácil.",
+   "Si se corta: empieza de nuevo con un diente de ajo triturado y ve incorporando la mezcla rota a cucharaditas."
+  ],
+  "video": "toum salsa de ajo libanesa"
+ },
+ "en": {
+  "name": "Toum",
+  "blurb": "An egg-free garlic and oil emulsion. The garlic brings its own emulsifier, but only if the oil goes in drop by drop at the start: that's where 90% of attempts break.",
+  "ing": [
+   {
+    "n": "garlic",
+    "note": "peeled cloves, germ removed"
+   },
+   {
+    "n": "neutral oil",
+    "note": "sunflower or canola, never olive"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "ice water"
+   },
+   {
+    "n": "fine salt"
+   }
+  ],
+  "steps": [
+   "Remove the green germ from each clove: it's bitter, and in this quantity you really taste it.",
+   "Blitz the garlic with the salt in a food processor to a paste, scraping down the sides twice.",
+   "With the machine running, add the oil literally drop by drop for the first 100 ml. This is the step that decides everything.",
+   "Once it starts to look white and thick, alternate: a thin stream of oil, then a teaspoon of lemon juice, and so on.",
+   "Finish with the ice water, which stabilizes the emulsion and lightens the color.",
+   "It should end up like a firm white cloud that holds peaks. Refrigerated, it keeps for a month."
+  ],
+  "tips": [
+   "Neutral oil, never olive: its polyphenols turn very bitter when blended at high speed.",
+   "Drop by drop at the start. Pour in a stream and it breaks, and there's no easy way back.",
+   "If it breaks: start over with one crushed garlic clove and add the broken mixture a teaspoon at a time."
+  ],
+  "video": "toum lebanese garlic sauce"
+ }
+}

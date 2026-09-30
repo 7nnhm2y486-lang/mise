@@ -1,0 +1,208 @@
+{
+ "id": "cacciatora",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 90,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.4,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "stalk",
+   "k": "celery",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "acid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pollo alla Cacciatora",
+  "blurb": "El guiso del cazador. Hay dos escuelas: con tomate en el centro y sur, en blanco con vino y romero en la Toscana. Esta es la versión con tomate.",
+  "ing": [
+   {
+    "n": "pollo troceado",
+    "note": "con hueso y piel"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "zanahoria"
+   },
+   {
+    "n": "apio"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "tomate pelado"
+   },
+   {
+    "n": "vino blanco seco"
+   },
+   {
+    "n": "aceitunas negras"
+   },
+   {
+    "n": "alcaparras"
+   },
+   {
+    "n": "romero"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Seca muy bien el pollo y dóralo en aceite, con la piel hacia abajo, hasta que esté bien tostado. Retíralo.",
+   "Sofríe la cebolla, zanahoria y apio muy picados 12 minutos en la misma grasa.",
+   "Añade el ajo, el romero y el laurel y cocina 2 minutos.",
+   "Desglasa con el vino, raspando el fondo, y reduce a la mitad.",
+   "Añade el tomate machacado y devuelve el pollo con sus jugos. Cocina tapado 40 minutos a fuego suave.",
+   "Destapa, añade las aceitunas y las alcaparras y cocina 10 minutos más para concentrar la salsa."
+  ],
+  "tips": [
+   "Dora el pollo de verdad. Ese fondo dorado es la base de todo el guiso.",
+   "Aceitunas y alcaparras al final, para que no se deshagan ni salen de más.",
+   "La versión toscana sustituye el tomate por más vino y caldo: también merece la pena."
+  ],
+  "video": "pollo alla cacciatora"
+ },
+ "en": {
+  "name": "Chicken Cacciatore",
+  "blurb": "The hunter's stew. There are two schools: with tomato in the center and south, in bianco with wine and rosemary in Tuscany. This is the tomato version.",
+  "ing": [
+   {
+    "n": "chicken pieces",
+    "note": "bone-in, skin-on"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "carrot"
+   },
+   {
+    "n": "celery"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "peeled tomatoes"
+   },
+   {
+    "n": "dry white wine"
+   },
+   {
+    "n": "black olives"
+   },
+   {
+    "n": "capers"
+   },
+   {
+    "n": "rosemary"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Dry the chicken very well and brown it in oil, skin side down, until deeply golden. Remove it.",
+   "Sweat the finely chopped onion, carrot and celery in the same fat for 12 minutes.",
+   "Add the garlic, rosemary and bay and cook 2 minutes.",
+   "Deglaze with the wine, scraping the bottom, and reduce by half.",
+   "Add the crushed tomatoes and return the chicken with its juices. Cook covered 40 minutes over low heat.",
+   "Uncover, add the olives and capers and cook 10 minutes more to concentrate the sauce."
+  ],
+  "tips": [
+   "Really brown the chicken. That golden fond is the base of the whole stew.",
+   "Olives and capers go in at the end so they don't fall apart or over-salt it.",
+   "The Tuscan version swaps the tomato for more wine and stock: also worth making."
+  ],
+  "video": "chicken cacciatore italian recipe"
+ }
+}

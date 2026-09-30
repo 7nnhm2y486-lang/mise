@@ -1,0 +1,212 @@
+{
+ "id": "borscht",
+ "country": "Ukraine",
+ "region": "eastern-europe",
+ "course": "soup",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 700,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "tomatopaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 25,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sourcream",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Borsch",
+  "blurb": "La remolacha pierde el color si la hierves lo suficiente. El truco es ácido y sincronía: parte de la remolacha temprano para el fondo, parte al final para ese magenta imposible.",
+  "ing": [
+   {
+    "n": "costilla de res"
+   },
+   {
+    "n": "remolacha",
+    "note": "la mitad rallada, la mitad en bastones"
+   },
+   {
+    "n": "col",
+    "note": "en juliana"
+   },
+   {
+    "n": "papa"
+   },
+   {
+    "n": "zanahoria"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "concentrado de tomate"
+   },
+   {
+    "n": "vinagre de vino tinto"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "eneldo"
+   },
+   {
+    "n": "crema agria",
+    "note": "para servir"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cubre la carne con agua fría, lleva a hervor, espuma con cuidado y cocina con el laurel 90 minutos hasta que esté tierna. Saca y deshebra.",
+   "Sofríe la cebolla y la zanahoria hasta ablandarlas, añade el concentrado de tomate y la remolacha rallada y cocina 10 minutos con 1 cucharada del vinagre: el ácido fija el color.",
+   "Añade la papa al caldo y cuece 10 minutos, luego la col 5 minutos más.",
+   "Incorpora el sofrito de remolacha y los bastones de remolacha cruda. Cocina solo 5 minutos.",
+   "Devuelve la carne, añade la segunda cucharada de vinagre y el ajo machacado fuera del fuego.",
+   "Reposa al menos una hora antes de servir; de un día para otro es mejor. Sirve con crema agria y muchísimo eneldo."
+  ],
+  "tips": [
+   "Vinagre con la remolacha, no solo al final. La betanina mantiene el color en medio ácido y se apaga con calor neutro.",
+   "Añadir bastones de remolacha cruda tarde te da dulzor cocido y color fresco a la vez.",
+   "Espuma bien el caldo de res en los primeros diez minutos o la sopa quedará turbia."
+  ],
+  "video": "borsch ucraniano"
+ },
+ "en": {
+  "name": "Borscht",
+  "blurb": "Beets lose their color if you boil them long enough. The trick is acid and timing: some beet early for depth, some at the end for that impossible magenta.",
+  "ing": [
+   {
+    "n": "beef short ribs"
+   },
+   {
+    "n": "beets",
+    "note": "half grated, half in batons"
+   },
+   {
+    "n": "cabbage",
+    "note": "finely shredded"
+   },
+   {
+    "n": "potatoes"
+   },
+   {
+    "n": "carrots"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "red wine vinegar"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "dill"
+   },
+   {
+    "n": "sour cream",
+    "note": "for serving"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cover the meat with cold water, bring to a boil, skim carefully and simmer with the bay leaves for 90 minutes until tender. Lift out and shred.",
+   "Sauté the onion and carrot until soft, add the tomato paste and grated beet and cook 10 minutes with 1 tablespoon of the vinegar: the acid sets the color.",
+   "Add the potato to the broth and simmer 10 minutes, then the cabbage for 5 minutes more.",
+   "Stir in the beet sauté and the raw beet batons. Cook just 5 minutes.",
+   "Return the meat, then add the second tablespoon of vinegar and the crushed garlic off the heat.",
+   "Rest at least an hour before serving; overnight is better. Serve with sour cream and lots of dill."
+  ],
+  "tips": [
+   "Vinegar with the beets, not just at the end. Betanin holds its color in acid and fades with neutral heat.",
+   "Adding raw beet batons late gives you cooked sweetness and fresh color at the same time.",
+   "Skim the beef broth well in the first ten minutes or the soup will be cloudy."
+  ],
+  "video": "ukrainian borscht"
+ }
+}

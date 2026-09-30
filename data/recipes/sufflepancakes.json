@@ -1,0 +1,187 @@
+{
+ "id": "sufflepancakes",
+ "country": "Japan",
+ "region": "east-asia",
+ "course": "sweet",
+ "time": 45,
+ "serves": 2,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "eggwhite",
+   "role": "aerate"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "eggyolk",
+   "role": "binder"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "sugar",
+   "role": "aerate"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 40,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Panqueques Soufflé Japoneses",
+  "blurb": "Merengue plegado en una masa de panqueque y cocido tapado a fuego muy bajo. Son un soufflé en sartén, con la misma fragilidad: bajan en minutos.",
+  "ing": [
+   {
+    "n": "claras de huevo",
+    "note": "frías"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "cremor tártaro"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "agua",
+    "note": "para el vapor"
+   },
+   {
+    "n": "azúcar glas"
+   }
+  ],
+  "steps": [
+   "Bate las yemas con la leche y la vainilla, e incorpora la harina tamizada con el polvo de hornear.",
+   "Monta las claras frías con el cremor tártaro, añadiendo el azúcar en tres tandas, hasta picos firmes pero no secos.",
+   "Incorpora un tercio del merengue a la base para aflojarla, y luego el resto en dos tandas con movimientos envolventes. Trabaja rápido: cada segundo pierde aire.",
+   "Engrasa una sartén antiadherente y ponla al fuego más bajo posible. Coloca montones altos de masa con una cuchara de helado, apilando dos por panqueque.",
+   "Añade el agua en un hueco de la sartén y tapa de inmediato. El vapor los cuece por arriba.",
+   "Cocina 6 minutos, voltea con cuidado, añade otra cucharada de agua, tapa y cocina 5 minutos más. Sírvelos al instante."
+  ],
+  "tips": [
+   "Fuego bajísimo y tapa puesta. A fuego medio se queman por fuera y quedan crudos dentro.",
+   "Bajan en tres o cuatro minutos. Esto no se prepara con antelación bajo ningún concepto.",
+   "Un aro de emplatar ayuda mucho si tienes; si no, apila la masa alta y no la extiendas."
+  ],
+  "video": "panqueques soufflé japoneses"
+ },
+ "en": {
+  "name": "Japanese Soufflé Pancakes",
+  "blurb": "Meringue folded into a pancake batter and cooked covered over very low heat. They're a soufflé in a skillet, with the same fragility: they fall within minutes.",
+  "ing": [
+   {
+    "n": "egg whites",
+    "note": "cold"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "cream of tartar"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "water",
+    "note": "for steaming"
+   },
+   {
+    "n": "powdered sugar"
+   }
+  ],
+  "steps": [
+   "Whisk the yolks with the milk and vanilla, then stir in the flour sifted with the baking powder.",
+   "Whip the cold whites with the cream of tartar, adding the sugar in three additions, to firm but not dry peaks.",
+   "Stir a third of the meringue into the base to loosen it, then fold in the rest in two additions. Work fast: every second costs air.",
+   "Grease a nonstick skillet and set it over the lowest possible heat. Scoop tall mounds of batter with an ice-cream scoop, stacking two per pancake.",
+   "Add the water to an empty spot in the pan and cover immediately. The steam cooks them from the top.",
+   "Cook 6 minutes, flip carefully, add another tablespoon of water, cover and cook 5 minutes more. Serve immediately."
+  ],
+  "tips": [
+   "Lowest heat and the lid on. Over medium heat they burn outside and stay raw inside.",
+   "They fall in three or four minutes. Under no circumstances is this a make-ahead dish.",
+   "A ring mold helps a lot if you have one; if not, stack the batter tall and don't spread it."
+  ],
+  "video": "japanese souffle pancakes"
+ }
+}

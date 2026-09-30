@@ -1,0 +1,198 @@
+{
+ "id": "pastaefagioli",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 120,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "pancetta",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "stalk",
+   "k": "celery",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "parmesan",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pasta e Fagioli",
+  "blurb": "Mitad sopa, mitad pasta. Triturar parte de las alubias es lo que la vuelve cremosa sin una gota de nata.",
+  "ing": [
+   {
+    "n": "alubias borlotti",
+    "note": "remojadas toda la noche"
+   },
+   {
+    "n": "pancetta",
+    "note": "en dados"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "zanahoria"
+   },
+   {
+    "n": "apio"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "jitomate"
+   },
+   {
+    "n": "corteza de parmesano"
+   },
+   {
+    "n": "romero"
+   },
+   {
+    "n": "pasta corta mixta"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece las alubias con la corteza de parmesano y el romero hasta que estén muy tiernas, 60-90 minutos. Guarda el caldo.",
+   "Sofríe la pancetta, luego la cebolla, zanahoria y apio durante 15 minutos.",
+   "Añade el ajo y el jitomate y cocina 10 minutos.",
+   "Tritura un tercio de las alubias con algo de su caldo e incorpora tanto el puré como las enteras al sofrito.",
+   "Añade caldo hasta obtener la densidad de una sopa espesa y cuece la pasta directamente dentro, removiendo para que no se agarre.",
+   "Rectifica y sirve con aceite crudo y mucha pimienta negra."
+  ],
+  "tips": [
+   "Cuece la pasta dentro de la sopa: su almidón termina de espesarla.",
+   "El puré de alubias es toda la cremosidad. No hace falta nata.",
+   "Espesa mucho al reposar. Guarda caldo para aflojarla al recalentar."
+  ],
+  "video": "pasta e fagioli"
+ },
+ "en": {
+  "name": "Pasta e Fagioli",
+  "blurb": "Half soup, half pasta. Blending some of the beans is what makes it creamy without a drop of cream.",
+  "ing": [
+   {
+    "n": "borlotti beans",
+    "note": "soaked overnight"
+   },
+   {
+    "n": "pancetta",
+    "note": "diced"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "carrot"
+   },
+   {
+    "n": "celery"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "tomato"
+   },
+   {
+    "n": "parmesan rind"
+   },
+   {
+    "n": "rosemary"
+   },
+   {
+    "n": "mixed short pasta"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the beans with the parmesan rind and rosemary until very tender, 60-90 minutes. Keep the cooking liquid.",
+   "Sauté the pancetta, then the onion, carrot and celery for 15 minutes.",
+   "Add the garlic and tomato and cook for 10 minutes.",
+   "Blend a third of the beans with some of their liquid and stir both the purée and the whole beans into the soffritto.",
+   "Add liquid until it has the consistency of a thick soup and cook the pasta right in it, stirring so it doesn't stick.",
+   "Adjust the seasoning and serve with raw olive oil and plenty of black pepper."
+  ],
+  "tips": [
+   "Cook the pasta in the soup: its starch finishes thickening it.",
+   "The bean purée is all the creaminess. No cream needed.",
+   "It thickens a lot as it rests. Keep liquid on hand to loosen it when reheating."
+  ],
+  "video": "pasta e fagioli"
+ }
+}

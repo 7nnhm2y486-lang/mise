@@ -1,0 +1,164 @@
+{
+ "id": "hummus",
+ "country": "Levant",
+ "region": "middle-east",
+ "course": "starter",
+ "time": 30,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "tahini",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Hummus",
+  "blurb": "Garbanzos pasados de cocción y agua helada: eso separa un hummus sedoso de uno granuloso. Todo lo demás es proporción.",
+  "ing": [
+   {
+    "n": "garbanzos secos",
+    "note": "remojados toda la noche con 1 cdta de bicarbonato"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "tahini",
+    "note": "de buena calidad, fluido"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "agua helada"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite de oliva",
+    "note": "para servir"
+   }
+  ],
+  "steps": [
+   "Escurre los garbanzos, cúbrelos con agua limpia y el bicarbonato, y hiérvelos fuerte 40-50 minutos hasta que se deshagan entre los dedos. Aquí pasarse de cocción es lo correcto.",
+   "Tritura el ajo con el jugo de limón y una pizca de sal. Déjalo 10 minutos y cuélalo: esto le quita el ardor crudo al ajo.",
+   "Tritura los garbanzos calientes, solos, durante un minuto entero, hasta obtener una pasta.",
+   "Añade el tahini, el limón con ajo colado, el comino y la sal. Vuelve a triturar.",
+   "Con la máquina en marcha, añade el agua helada en hilo hasta que palidezca y quede como una mousse. Dale 4 minutos en total, mucho más de lo que parece necesario.",
+   "Extiéndelo, haz un pozo con el dorso de una cuchara y llénalo de aceite de oliva."
+  ],
+  "tips": [
+   "El bicarbonato sube el pH y deshace las pieles. Sin él acabarás pelando garbanzos a mano.",
+   "Agua helada, no del tiempo: el frío es lo que lo esponja en vez de cortarlo.",
+   "Tritura los garbanzos calientes. Los garbanzos fríos dan hummus granuloso, siempre."
+  ],
+  "video": "hummus cremoso tahini"
+ },
+ "en": {
+  "name": "Hummus",
+  "blurb": "Overcooked chickpeas and ice water: that's what separates silky hummus from grainy. Everything else is proportion.",
+  "ing": [
+   {
+    "n": "dried chickpeas",
+    "note": "soaked overnight with 1 tsp baking soda"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "tahini",
+    "note": "good quality, runny"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "ice water"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "olive oil",
+    "note": "for serving"
+   }
+  ],
+  "steps": [
+   "Drain the chickpeas, cover them with fresh water and the baking soda, and boil hard for 40-50 minutes until they fall apart between your fingers. Overcooking is correct here.",
+   "Blend the garlic with the lemon juice and a pinch of salt. Leave it 10 minutes and strain: this takes the raw bite off the garlic.",
+   "Blend the hot chickpeas on their own for a full minute into a paste.",
+   "Add the tahini, the strained garlic lemon, the cumin and the salt. Blend again.",
+   "With the machine running, stream in the ice water until it turns pale and mousse-like. Give it 4 minutes in total, far longer than seems necessary.",
+   "Spread it out, make a well with the back of a spoon and fill it with olive oil."
+  ],
+  "tips": [
+   "Baking soda raises the pH and breaks down the skins. Without it you'll end up peeling chickpeas by hand.",
+   "Ice water, not room temperature: the cold is what makes it fluffy instead of splitting.",
+   "Blend the chickpeas hot. Cold chickpeas make grainy hummus, every time."
+  ],
+  "video": "creamy hummus tahini"
+ }
+}

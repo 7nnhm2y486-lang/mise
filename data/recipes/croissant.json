@@ -1,0 +1,155 @@
+{
+ "id": "croissant",
+ "country": "France",
+ "region": "western-europe",
+ "course": "pastry",
+ "time": 1800,
+ "serves": 12,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 280,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 55,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 11,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 7,
+   "u": "g",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "glaze"
+  }
+ ],
+ "es": {
+  "name": "Croissants",
+  "blurb": "El hojaldrado es aritmética comestible: tres pliegues convierten una capa de mantequilla en veintisiete. Todo el oficio consiste en mantener la mantequilla lo bastante fría para seguir en láminas y lo bastante templada para no quebrarse.",
+  "ing": [
+   {
+    "n": "harina de fuerza"
+   },
+   {
+    "n": "leche entera",
+    "note": "fría"
+   },
+   {
+    "n": "mantequilla",
+    "note": "fría, para el bloque"
+   },
+   {
+    "n": "mantequilla",
+    "note": "blanda, para la masa"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "levadura seca instantánea"
+   },
+   {
+    "n": "huevo",
+    "note": "para pintar"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la leche, el azúcar, la sal, la levadura y la mantequilla blanda en una masa lisa. Amasa solo 5 minutos: quieres gluten moderado, no pan. Refrigera 2 horas.",
+   "Golpea la mantequilla fría entre dos papeles hasta formar un cuadrado parejo de 18 cm. Debe doblarse sin agrietarse: unos 14 °C es lo correcto.",
+   "Estira la masa a un cuadrado de 36 cm, coloca la mantequilla en el centro girada 45 grados y pliega las esquinas encima para encerrarla por completo.",
+   "Estira a un rectángulo largo y pliega en tres. Refrigera 45 minutos. Repite dos veces más, refrigerando entre cada una. Si la mantequilla asoma en algún momento, detente y refrigera de inmediato.",
+   "Estira a 4 mm, corta triángulos de 10 cm de base, haz una muesca en la base y enróllalos sin estirar.",
+   "Fermenta 2-3 horas a 24-26 °C, no más: la mantequilla se derretiría. Deben temblar al sacudir la bandeja. Pinta con huevo y hornea a 200 °C durante 16-18 minutos."
+  ],
+  "tips": [
+   "La mantequilla y la masa deben tener la misma firmeza. Si una es más dura, romperá a la otra y las capas se fusionan.",
+   "Fermentar por encima de 26 °C hace que la mantequilla salga a la bandeja y el hojaldre se cueza al vapor en vez de inflarse.",
+   "El panal interior viene del vapor atrapado entre capas, no de la levadura."
+  ],
+  "video": "croissant técnica de laminado"
+ },
+ "en": {
+  "name": "Croissants",
+  "blurb": "Lamination is edible arithmetic: three folds turn one layer of butter into twenty-seven. The whole craft is keeping the butter cold enough to stay in sheets and warm enough not to crack.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "whole milk",
+    "note": "cold"
+   },
+   {
+    "n": "butter",
+    "note": "cold, for the butter block"
+   },
+   {
+    "n": "butter",
+    "note": "soft, for the dough"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "instant dry yeast"
+   },
+   {
+    "n": "egg",
+    "note": "for egg wash"
+   }
+  ],
+  "steps": [
+   "Mix the flour, milk, sugar, salt, yeast and soft butter into a smooth dough. Knead only 5 minutes: you want moderate gluten, not bread. Refrigerate 2 hours.",
+   "Pound the cold butter between two sheets of paper into an even 18 cm square. It should bend without cracking: about 14 °C is right.",
+   "Roll the dough into a 36 cm square, set the butter in the center rotated 45 degrees and fold the corners over to enclose it completely.",
+   "Roll into a long rectangle and fold in thirds. Refrigerate 45 minutes. Repeat twice more, chilling between each. If butter breaks through at any point, stop and chill immediately.",
+   "Roll to 4 mm, cut triangles with a 10 cm base, notch the base and roll them up without stretching.",
+   "Proof 2-3 hours at 24-26 °C, no warmer: the butter would melt. They should jiggle when you shake the tray. Egg wash and bake at 200 °C for 16-18 minutes."
+  ],
+  "tips": [
+   "The butter and dough must be the same firmness. If one is harder, it will break the other and the layers fuse.",
+   "Proofing above 26 °C makes the butter leak onto the tray and the pastry steam instead of puffing.",
+   "The honeycomb inside comes from steam trapped between layers, not from the yeast."
+  ],
+  "video": "croissant lamination technique"
+ }
+}

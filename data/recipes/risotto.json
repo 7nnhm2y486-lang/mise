@@ -1,0 +1,170 @@
+{
+ "id": "risotto",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 320,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "bigpinch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.2,
+   "u": "l",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "acid"
+  },
+  {
+   "q": 90,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Risotto a la Milanesa",
+  "blurb": "Almidón extraído despacio y luego una paliza con mantequilla fría al final. La mantecatura es el plato.",
+  "ing": [
+   {
+    "n": "arroz carnaroli"
+   },
+   {
+    "n": "azafrán",
+    "note": "infusionado en caldo tibio"
+   },
+   {
+    "n": "caldo de res o pollo",
+    "note": "mantenido al hervor suave"
+   },
+   {
+    "n": "cebolla",
+    "note": "en dados muy finos"
+   },
+   {
+    "n": "vino blanco seco"
+   },
+   {
+    "n": "mantequilla",
+    "note": "fría, en cubos"
+   },
+   {
+    "n": "parmesano",
+    "note": "rallado"
+   },
+   {
+    "n": "tuétano",
+    "note": "opcional pero tradicional"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla en 30 g de la mantequilla y el tuétano hasta que esté translúcida, 8 minutos. Sin color.",
+   "Añade el arroz y tuéstalo, removiendo, 2 minutos, hasta que los granos se vean vidriosos en los bordes y huelan levemente a galleta.",
+   "Vierte el vino y remueve hasta que desaparezca.",
+   "Añade caldo caliente cucharón a cucharón, removiendo con frecuencia, esperando a que cada adición casi desaparezca antes de la siguiente. De 16 a 18 minutos.",
+   "Añade el caldo con azafrán a mitad de camino para que el color tenga tiempo de desarrollarse.",
+   "Retira del fuego cuando el arroz aún tenga un centro calcáreo. Bate con fuerza la mantequilla fría restante y el parmesano durante un minuto entero, y reposa 2 minutos tapado. Debe extenderse como lava, no quedarse en montaña."
+  ],
+  "tips": [
+   "Mantequilla fría, fuera del fuego, batida con agresividad. Ese choque es lo que da cremosidad sin crema.",
+   "El caldo frío detiene la cocción y cuece el arroz de forma despareja. Mantenlo al hervor suave al lado.",
+   "El carnaroli perdona más que el arborio; el vialone nano cuece más rápido."
+  ],
+  "video": "risotto milanesa mantecatura"
+ },
+ "en": {
+  "name": "Risotto alla Milanese",
+  "blurb": "Starch drawn out slowly, then a beating with cold butter at the end. The mantecatura is the dish.",
+  "ing": [
+   {
+    "n": "Carnaroli rice"
+   },
+   {
+    "n": "saffron",
+    "note": "steeped in warm stock"
+   },
+   {
+    "n": "beef or chicken stock",
+    "note": "kept at a simmer"
+   },
+   {
+    "n": "onion",
+    "note": "very finely diced"
+   },
+   {
+    "n": "dry white wine"
+   },
+   {
+    "n": "butter",
+    "note": "cold, cubed"
+   },
+   {
+    "n": "Parmesan",
+    "note": "grated"
+   },
+   {
+    "n": "bone marrow",
+    "note": "optional but traditional"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Sweat the onion in 30 g of the butter and the marrow until translucent, 8 minutes. No color.",
+   "Add the rice and toast it, stirring, for 2 minutes, until the grains look glassy at the edges and smell faintly of biscuit.",
+   "Pour in the wine and stir until it disappears.",
+   "Add hot stock a ladle at a time, stirring often, waiting for each addition to nearly disappear before the next. 16 to 18 minutes.",
+   "Add the saffron stock halfway through so the color has time to develop.",
+   "Take it off the heat while the rice still has a chalky center. Beat in the remaining cold butter and the Parmesan hard for a full minute, and rest 2 minutes covered. It should spread like lava, not sit in a mound."
+  ],
+  "tips": [
+   "Cold butter, off the heat, beaten aggressively. That shock is what gives creaminess without cream.",
+   "Cold stock stalls the cooking and cooks the rice unevenly. Keep it simmering alongside.",
+   "Carnaroli is more forgiving than Arborio; Vialone Nano cooks faster."
+  ],
+  "video": "risotto alla milanese mantecatura"
+ }
+}

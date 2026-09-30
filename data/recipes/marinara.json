@@ -1,0 +1,138 @@
+{
+ "id": "marinara",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sauce",
+ "time": 25,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 90,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Salsa Marinara",
+  "blurb": "Más rápida y más cruda que el sugo: veinte minutos, mucho ajo y orégano. La diferencia con el sugo no es el ingrediente sino el tiempo.",
+  "ing": [
+   {
+    "n": "tomate pelado",
+    "note": "machacado"
+   },
+   {
+    "n": "ajo",
+    "note": "laminados"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "hojuelas de chile"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Lamina el ajo fino y ponlo en la sartén con el aceite en frío.",
+   "Llévalo a fuego medio y dóralo despacio hasta que esté rubio, 5 minutos.",
+   "Añade las hojuelas de chile y el orégano frotado entre las palmas, 20 segundos.",
+   "Añade el tomate machacado y la sal, y sube el fuego.",
+   "Cocina solo 15-18 minutos a borboteo alegre. La marinara debe seguir sabiendo fresca y ligeramente ácida.",
+   "Termina con perejil picado y un chorro de aceite crudo."
+  ],
+  "tips": [
+   "Fuego más vivo y menos tiempo que el sugo: buscas frescura, no concentración.",
+   "El ajo laminado desde sartén fría se dora parejo sin quemarse.",
+   "Es la salsa para mozzarella frita, pizza rápida y pasta de última hora."
+  ],
+  "video": "salsa marinara rápida"
+ },
+ "en": {
+  "name": "Marinara Sauce",
+  "blurb": "Quicker and fresher than sugo: twenty minutes, lots of garlic and oregano. The difference from sugo isn't the ingredients but the time.",
+  "ing": [
+   {
+    "n": "whole peeled tomatoes",
+    "note": "crushed"
+   },
+   {
+    "n": "garlic",
+    "note": "sliced"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "chile flakes"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Slice the garlic thin and put it in the pan with the oil while cold.",
+   "Bring it to medium heat and brown it slowly until blond, 5 minutes.",
+   "Add the chile flakes and the oregano rubbed between your palms, 20 seconds.",
+   "Add the crushed tomatoes and the salt, and turn up the heat.",
+   "Cook just 15-18 minutes at a lively bubble. Marinara should still taste fresh and slightly tart.",
+   "Finish with chopped parsley and a drizzle of raw oil."
+  ],
+  "tips": [
+   "Higher heat and less time than sugo: you're after freshness, not concentration.",
+   "Sliced garlic started in a cold pan browns evenly without burning.",
+   "It's the sauce for fried mozzarella, quick pizza and last-minute pasta."
+  ],
+  "video": "quick marinara sauce"
+ }
+}

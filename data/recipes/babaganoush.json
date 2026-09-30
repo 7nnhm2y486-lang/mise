@@ -1,0 +1,160 @@
+{
+ "id": "babaganoush",
+ "country": "Levant",
+ "region": "middle-east",
+ "course": "starter",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "eggplant",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "tahini",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "",
+   "role": "garnish"
+  },
+  {
+   "q": 15,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Baba Ganoush",
+  "blurb": "El humo es el plato. Berenjenas quemadas directamente sobre la llama hasta colapsar, y luego escurridas a fondo, porque el agua que llevan dentro diluye todo lo demás.",
+  "ing": [
+   {
+    "n": "berenjenas",
+    "note": "grandes"
+   },
+   {
+    "n": "tahini"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "granos de granada"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "comino"
+   }
+  ],
+  "steps": [
+   "Quema las berenjenas directamente sobre la llama de gas o brasas, girándolas, 15-20 minutos hasta que la piel esté negra por completo y se hayan colapsado.",
+   "Ponlas en un bol tapado con un plato 10 minutos: el vapor afloja la piel.",
+   "Pélalas y cuelga la pulpa en un colador 30 minutos. Sale una cantidad sorprendente de líquido amargo, y este paso decide la textura.",
+   "Pica la pulpa a cuchillo en vez de triturarla. El baba ganoush triturado se convierte en una cola pálida.",
+   "Mezcla con el tahini, el limón, el ajo machacado, el comino y la sal.",
+   "Extiende, haz un pozo de aceite de oliva encima y esparce perejil y granada."
+  ],
+  "tips": [
+   "Llama de verdad. Al horno se obtiene un puré dulce sin nada de humo.",
+   "Escúrrelo bien. Treinta minutos en el colador es la diferencia entre una crema y una sopa.",
+   "Pica a mano. La textura debe verse visiblemente irregular."
+  ],
+  "video": "baba ganoush berenjena quemada"
+ },
+ "en": {
+  "name": "Baba Ganoush",
+  "blurb": "The smoke is the dish. Eggplants charred right over the flame until they collapse, then drained thoroughly, because the water inside dilutes everything else.",
+  "ing": [
+   {
+    "n": "eggplants",
+    "note": "large"
+   },
+   {
+    "n": "tahini"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "pomegranate seeds"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cumin"
+   }
+  ],
+  "steps": [
+   "Char the eggplants directly over a gas flame or coals, turning, for 15-20 minutes until the skin is completely black and they've collapsed.",
+   "Put them in a bowl covered with a plate for 10 minutes: the steam loosens the skin.",
+   "Peel them and hang the flesh in a colander for 30 minutes. A surprising amount of bitter liquid comes out, and this step decides the texture.",
+   "Chop the flesh with a knife instead of blending it. Blended baba ganoush turns into a pale glue.",
+   "Mix with the tahini, lemon, crushed garlic, cumin and salt.",
+   "Spread it out, make a well of olive oil on top and scatter parsley and pomegranate over."
+  ],
+  "tips": [
+   "A real flame. In the oven you get a sweet purée with no smoke at all.",
+   "Drain it well. Thirty minutes in the colander is the difference between a dip and a soup.",
+   "Chop by hand. The texture should look visibly uneven."
+  ],
+  "video": "charred eggplant baba ganoush"
+ }
+}

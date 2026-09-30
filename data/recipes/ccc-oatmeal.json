@@ -1,0 +1,190 @@
+{
+ "id": "ccc-oatmeal",
+ "country": "Scotland",
+ "region": "western-europe",
+ "course": "cookie",
+ "time": 800,
+ "serves": 20,
+ "ovenC": 180,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 180,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Galletas de Avena con Chocolate",
+  "blurb": "La avena aporta su propia masticabilidad y absorbe muchísimo líquido. Remojarla primero en la mantequilla derretida evita que le robe agua a la masa y reseque la galleta.",
+  "lab": "Avena en hojuelas · masticabilidad de almidón, no de gluten",
+  "ing": [
+   {
+    "n": "avena en hojuelas",
+    "note": "no instantánea"
+   },
+   {
+    "n": "mantequilla",
+    "note": "derretida"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro"
+   },
+   {
+    "n": "extracto de vainilla"
+   }
+  ],
+  "steps": [
+   "Derrite la mantequilla e incorpora la avena. Déjala 20 minutos para que la avena beba la grasa en vez del agua de la masa.",
+   "Bate dentro los dos azúcares, luego los huevos y la vainilla.",
+   "Incorpora la harina, la canela, el bicarbonato y la sal, y después el chocolate.",
+   "Refrigera 12 horas.",
+   "Hornea bolas de 55 g a 180 °C durante 12-13 minutos.",
+   "Enfría en la bandeja."
+  ],
+  "tips": [
+   "Avena en hojuelas, nunca instantánea. La instantánea viene precocida y se deshace en pasta.",
+   "Remojar la avena en la mantequilla es el paso que separa una galleta de avena jugosa de una seca.",
+   "La avena suele molerse en líneas compartidas con trigo: compra avena certificada sin gluten si eso importa."
+  ],
+  "video": "galletas de avena con chocolate"
+ },
+ "en": {
+  "name": "Oatmeal Chocolate Chip Cookies",
+  "blurb": "Oats bring their own chew and absorb a huge amount of liquid. Soaking them first in the melted butter keeps them from stealing water from the dough and drying out the cookie.",
+  "lab": "Rolled oats · starch chew, not gluten chew",
+  "ing": [
+   {
+    "n": "rolled oats",
+    "note": "not instant"
+   },
+   {
+    "n": "butter",
+    "note": "melted"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "cinnamon"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate"
+   },
+   {
+    "n": "vanilla extract"
+   }
+  ],
+  "steps": [
+   "Melt the butter and stir in the oats. Leave them 20 minutes so the oats drink the fat instead of the dough's water.",
+   "Beat in both sugars, then the eggs and vanilla.",
+   "Fold in the flour, cinnamon, baking soda and salt, then the chocolate.",
+   "Refrigerate 12 hours.",
+   "Bake 55 g balls at 180 °C for 12-13 minutes.",
+   "Cool on the sheet."
+  ],
+  "tips": [
+   "Rolled oats, never instant. Instant oats are precooked and dissolve into paste.",
+   "Soaking the oats in the butter is the step that separates a moist oatmeal cookie from a dry one.",
+   "Oats are often milled on lines shared with wheat: buy certified gluten-free oats if that matters."
+  ],
+  "video": "oatmeal chocolate chip cookies"
+ }
+}

@@ -1,0 +1,188 @@
+{
+ "id": "goulash",
+ "country": "Hungary",
+ "region": "central-europe",
+ "course": "main",
+ "time": 170,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 700,
+   "u": "g",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 600,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Gulash",
+  "blurb": "Más pimentón del que parece razonable, añadido fuera del fuego. El pimentón se quema a temperatura de fritura y amarga en segundos.",
+  "ing": [
+   {
+    "n": "jarrete o aguja de res",
+    "note": "en cubos grandes"
+   },
+   {
+    "n": "cebolla",
+    "note": "en rodajas"
+   },
+   {
+    "n": "pimentón dulce húngaro"
+   },
+   {
+    "n": "pimentón picante"
+   },
+   {
+    "n": "semilla de alcaravea",
+    "note": "machacada"
+   },
+   {
+    "n": "manteca o aceite"
+   },
+   {
+    "n": "jitomate"
+   },
+   {
+    "n": "pimiento rojo"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "agua o caldo de res"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cocina las cebollas despacio en la manteca 25 minutos, hasta que estén completamente tiernas y doradas pálidas. Debe haber casi tanta cebolla como carne.",
+   "Retira la olla del fuego. Solo ahora incorpora ambos pimentones y la alcaravea: 30 segundos con el calor residual bastan.",
+   "Añade de inmediato un chorro de agua para detener la cocción de la especia.",
+   "Añade la carne, el ajo, el jitomate y los pimientos. Sazona y añade líquido justo hasta la mitad de la altura.",
+   "Tapa y cocina a fuego muy suave de 2 a 2,5 horas, hasta que la carne ceda con la cuchara.",
+   "Destapa los últimos 20 minutos para espesar. La salsa debe ser una capa roja profunda, no una sopa."
+  ],
+  "tips": [
+   "El pimentón se quema a unos 150 °C. Fuera del fuego, siempre.",
+   "No dores la carne. El gulash tradicional construye su color solo con cebolla y pimentón.",
+   "El pimentón fresco importa muchísimo aquí. Si el tuyo tiene un año, compra otro."
+  ],
+  "video": "gulash húngaro pimentón"
+ },
+ "en": {
+  "name": "Goulash",
+  "blurb": "More paprika than seems reasonable, added off the heat. Paprika burns at frying temperature and turns bitter in seconds.",
+  "ing": [
+   {
+    "n": "beef shank or chuck",
+    "note": "in large cubes"
+   },
+   {
+    "n": "onions",
+    "note": "sliced"
+   },
+   {
+    "n": "Hungarian sweet paprika"
+   },
+   {
+    "n": "hot paprika"
+   },
+   {
+    "n": "caraway seed",
+    "note": "crushed"
+   },
+   {
+    "n": "lard or oil"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "red bell peppers"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "water or beef stock"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onions slowly in the lard for 25 minutes, until completely soft and pale gold. There should be almost as much onion as meat.",
+   "Take the pot off the heat. Only now stir in both paprikas and the caraway: 30 seconds in the residual heat is enough.",
+   "Immediately add a splash of water to stop the spice cooking.",
+   "Add the beef, garlic, tomatoes and peppers. Season and add liquid only halfway up.",
+   "Cover and cook at a bare simmer for 2 to 2.5 hours, until the meat gives to a spoon.",
+   "Uncover for the last 20 minutes to thicken. The sauce should be a deep red coating, not a soup."
+  ],
+  "tips": [
+   "Paprika burns at about 150 °C. Off the heat, always.",
+   "Don't brown the meat. Traditional goulash builds its color from onion and paprika alone.",
+   "Fresh paprika matters enormously here. If yours is a year old, buy more."
+  ],
+  "video": "Hungarian goulash paprika"
+ }
+}

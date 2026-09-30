@@ -1,0 +1,175 @@
+{
+ "id": "alfajores",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "cookie",
+ "time": 150,
+ "serves": 20,
+ "ovenC": 170,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "structure"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "eggyolk",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "desiccatedcoconut",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Alfajores",
+  "blurb": "Sobre todo maicena en vez de trigo, y por eso se deshacen en la boca. Muy poco gluten significa muy poca masticabilidad.",
+  "ing": [
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "ralladura de limón"
+   },
+   {
+    "n": "coñac"
+   },
+   {
+    "n": "dulce de leche",
+    "note": "repostero, espeso"
+   },
+   {
+    "n": "coco rallado"
+   }
+  ],
+  "steps": [
+   "Crema la mantequilla y el azúcar, bate dentro las yemas, la ralladura y el coñac.",
+   "Incorpora la fécula, la harina y el polvo de hornear. La masa quedará muy blanda y pálida.",
+   "Refrigera 1 hora, luego estira a 6 mm entre papeles y corta discos de 5 cm.",
+   "Refrigera los discos cortados 20 minutos para que mantengan la forma.",
+   "Hornea a 170 °C durante 10-11 minutos. Deben quedar completamente pálidos: el color significa pasado.",
+   "Enfría por completo, rellena generosamente con dulce de leche y rueda el borde expuesto en coco rallado."
+  ],
+  "tips": [
+   "Pálidos es correcto. Si se doran, la textura ya se perdió.",
+   "Usa un dulce de leche espeso, o reduce uno líquido en una olla antes, o se escurrirá.",
+   "Se ablandan y mejoran tras un día en una lata con una rebanada de pan."
+  ],
+  "video": "alfajores de maicena"
+ },
+ "en": {
+  "name": "Alfajores",
+  "blurb": "Mostly cornstarch instead of wheat, which is why they melt in your mouth. Very little gluten means very little chew.",
+  "ing": [
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "lemon zest"
+   },
+   {
+    "n": "brandy"
+   },
+   {
+    "n": "dulce de leche",
+    "note": "bakery-style, thick"
+   },
+   {
+    "n": "desiccated coconut"
+   }
+  ],
+  "steps": [
+   "Cream the butter and sugar, then beat in the yolks, zest and brandy.",
+   "Fold in the cornstarch, flour and baking powder. The dough will be very soft and pale.",
+   "Refrigerate 1 hour, then roll to 6 mm between sheets of paper and cut 5 cm rounds.",
+   "Chill the cut rounds for 20 minutes so they hold their shape.",
+   "Bake at 170 °C for 10-11 minutes. They should come out completely pale: color means overbaked.",
+   "Cool completely, fill generously with dulce de leche and roll the exposed edge in coconut."
+  ],
+  "tips": [
+   "Pale is correct. If they brown, the texture is already gone.",
+   "Use a thick dulce de leche, or reduce a runny one in a pot first, or it will ooze out.",
+   "They soften and improve after a day in a tin with a slice of bread."
+  ],
+  "video": "cornstarch alfajores recipe"
+ }
+}

@@ -1,0 +1,216 @@
+{
+ "id": "mapo",
+ "country": "China",
+ "region": "east-asia",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tofu",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "doubanjiang",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "cornstarch",
+   "role": "thicken"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  }
+ ],
+ "es": {
+  "name": "Mapo Tofu",
+  "blurb": "Adormecedor, picante, umami y brillante. El almidón entra en tres adiciones separadas: eso da a la salsa su lacado característico.",
+  "ing": [
+   {
+    "n": "tofu sedoso o suave",
+    "note": "en cubos, escaldado en agua salada"
+   },
+   {
+    "n": "cerdo picado"
+   },
+   {
+    "n": "doubanjiang",
+    "note": "picado"
+   },
+   {
+    "n": "douchi",
+    "note": "frijol negro fermentado, enjuagado"
+   },
+   {
+    "n": "pimienta de Sichuan",
+    "note": "tostada y molida"
+   },
+   {
+    "n": "hojuelas de chile"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "jengibre"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "fécula de maíz",
+    "note": "disuelta en agua fría"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "salsa de soja"
+   }
+  ],
+  "steps": [
+   "Escalda los cubos de tofu en agua salada 2 minutos y escúrrelos. Esto los afirma para que aguanten.",
+   "Fríe el cerdo en aceite hasta que esté crujiente y suelto, no solo cocido.",
+   "Añade el doubanjiang y fríelo 2 minutos hasta que el aceite se tiña de rojo: de ahí viene el color.",
+   "Añade el douchi, el ajo, el jengibre y las hojuelas de chile. Fríe 30 segundos.",
+   "Vierte el caldo, desliza el tofu dentro y cuece 4 minutos sin remover. Empújalo con el dorso del cucharón en vez de removerlo.",
+   "Añade la mezcla de almidón en tres tandas, dejando que burbujee entre cada una, hasta que la salsa se adhiera. Termina con la pimienta de Sichuan molida y el cebollín fuera del fuego."
+  ],
+  "tips": [
+   "Tres adiciones de almidón, no una. Cada capa cuaja antes de la siguiente y construye una salsa más espesa y brillante.",
+   "Muele la pimienta de Sichuan al momento y añádela al final. Cocida pierde el hormigueo.",
+   "Empuja el tofu, no lo remuevas, o acabarás con tofu revuelto."
+  ],
+  "video": "mapo tofu auténtico sichuan"
+ },
+ "en": {
+  "name": "Mapo Tofu",
+  "blurb": "Numbing, spicy, savory and glossy. The starch goes in three separate additions: that's what gives the sauce its signature lacquer.",
+  "ing": [
+   {
+    "n": "silken or soft tofu",
+    "note": "cubed, blanched in salted water"
+   },
+   {
+    "n": "ground pork"
+   },
+   {
+    "n": "doubanjiang",
+    "note": "chopped"
+   },
+   {
+    "n": "douchi",
+    "note": "fermented black beans, rinsed"
+   },
+   {
+    "n": "Sichuan peppercorns",
+    "note": "toasted and ground"
+   },
+   {
+    "n": "chile flakes"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "ginger"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "cornstarch",
+    "note": "mixed with cold water"
+   },
+   {
+    "n": "scallions"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "soy sauce"
+   }
+  ],
+  "steps": [
+   "Blanch the tofu cubes in salted water for 2 minutes and drain. This firms them up so they hold together.",
+   "Fry the pork in oil until crisp and separated, not just cooked.",
+   "Add the doubanjiang and fry 2 minutes until the oil turns red: that's where the color comes from.",
+   "Add the douchi, garlic, ginger and chile flakes. Fry 30 seconds.",
+   "Pour in the stock, slide the tofu in and simmer 4 minutes without stirring. Nudge it with the back of the ladle instead of stirring.",
+   "Add the starch slurry in three additions, letting it bubble between each, until the sauce clings. Finish with the ground Sichuan pepper and scallions off the heat."
+  ],
+  "tips": [
+   "Three additions of starch, not one. Each layer sets before the next and builds a thicker, glossier sauce.",
+   "Grind the Sichuan pepper fresh and add it at the end. Cooked, it loses the tingle.",
+   "Push the tofu, don't stir it, or you'll end up with scrambled tofu."
+  ],
+  "video": "authentic Sichuan mapo tofu"
+ }
+}

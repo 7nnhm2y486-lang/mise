@@ -1,0 +1,115 @@
+{
+ "id": "roughpuff",
+ "country": "France",
+ "region": "western-europe",
+ "course": "pastry",
+ "time": 150,
+ "serves": 8,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 125,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 5,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Hojaldre Rápido",
+  "blurb": "Mantequilla en cubos dentro de la harina en vez de laminada en bloque. El noventa por ciento de la subida con una fracción del trabajo, y es lo que deberías hacer entre semana.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "mantequilla",
+    "note": "fría, en cubos de 2 cm"
+   },
+   {
+    "n": "agua fría",
+    "note": "con hielo"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "jugo de limón"
+   }
+  ],
+  "steps": [
+   "Mezcla los cubos de mantequilla fría con la harina y la sal. Déjalos enteros: no los integres.",
+   "Añade el agua helada y el jugo de limón y une en una masa tosca, grumosa y de aspecto alarmante.",
+   "Estira en un rectángulo largo. Quedará irregular y veteada de mantequilla. Es exactamente lo correcto.",
+   "Pliega en tres, gira 90 grados y vuelve a estirar. Repite cuatro veces, refrigerando 20 minutos tras el segundo y el cuarto pliegue.",
+   "En el último pliegue debe estar lisa con vetas visibles de mantequilla.",
+   "Refrigera 30 minutos antes de usar. Hornea a 200-220 °C: el hojaldre necesita calor fuerte para convertir su agua en vapor lo bastante rápido."
+  ],
+  "tips": [
+   "Los grumos visibles de mantequilla son el objetivo, no un defecto. Se aplanan en capas al estirar.",
+   "El jugo de limón relaja un poco el gluten para que deje de pelear contigo en los últimos pliegues.",
+   "Corta los bordes con un cuchillo afilado y en vertical. Arrastrar o presionar sella las capas y mata la subida."
+  ],
+  "video": "hojaldre rápido casero"
+ },
+ "en": {
+  "name": "Rough Puff Pastry",
+  "blurb": "Butter cubed into the flour instead of laminated as a block. Ninety percent of the rise for a fraction of the work, and it's what you should make on a weeknight.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter",
+    "note": "cold, in 2 cm cubes"
+   },
+   {
+    "n": "cold water",
+    "note": "iced"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "lemon juice"
+   }
+  ],
+  "steps": [
+   "Toss the cold butter cubes with the flour and salt. Leave them whole: don't rub them in.",
+   "Add the ice water and lemon juice and bring it together into a rough, lumpy, alarming-looking dough.",
+   "Roll into a long rectangle. It will be ragged and streaked with butter. That's exactly right.",
+   "Fold in thirds, turn 90 degrees and roll out again. Repeat four times, chilling for 20 minutes after the second and fourth folds.",
+   "By the last fold it should be smooth with visible streaks of butter.",
+   "Chill 30 minutes before using. Bake at 200-220 °C: puff pastry needs strong heat to turn its water into steam fast enough."
+  ],
+  "tips": [
+   "Visible lumps of butter are the goal, not a flaw. They flatten into layers as you roll.",
+   "The lemon juice relaxes the gluten a little so it stops fighting you on the last folds.",
+   "Cut the edges with a sharp knife, straight down. Dragging or pressing seals the layers and kills the rise."
+  ],
+  "video": "rough puff pastry homemade"
+ }
+}

@@ -1,0 +1,199 @@
+{
+ "id": "maritozzo",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "pastry",
+ "time": 400,
+ "serves": 10,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "honey",
+   "role": "moisture"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 8,
+   "u": "g",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 7,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "cream",
+   "role": "fat"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Maritozzo",
+  "blurb": "El bollo romano abierto y relleno de nata montada sin azúcar añadida más allá de lo justo. El bollo lleva miel y ralladura de naranja, y esa es toda la diferencia.",
+  "ing": [
+   {
+    "n": "harina de fuerza"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "miel"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "levadura seca instantánea"
+   },
+   {
+    "n": "ralladura de naranja"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "crema espesa",
+    "note": "muy fría"
+   },
+   {
+    "n": "azúcar glas"
+   },
+   {
+    "n": "vainilla"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la leche, los huevos, el azúcar, la miel, la levadura, la ralladura y la sal. Amasa 8 minutos.",
+   "Incorpora la mantequilla blanda poco a poco hasta que la masa quede lisa y elástica. Fermenta 2 horas.",
+   "Forma 10 bollos ovalados y colócalos separados en la bandeja. Fermenta 90 minutos hasta que doblen.",
+   "Pinta con huevo y hornea a 180 °C durante 15-18 minutos, hasta que estén dorados pero aún blandos.",
+   "Enfría por completo. Monta la crema muy fría con el azúcar glas y la vainilla a picos firmes.",
+   "Abre cada bollo con un corte en diagonal sin llegar al fondo, rellena con mucha crema y alisa el corte con una espátula. Espolvorea azúcar glas."
+  ],
+  "tips": [
+   "La crema tiene que estar helada y montarse firme, o se escurre por el corte.",
+   "El corte en diagonal y sin atravesar: el bollo debe sostener la crema como un bolsillo.",
+   "Se rellenan el mismo día. Un maritozzo relleno de la víspera está blando."
+  ],
+  "video": "maritozzo romano nata"
+ },
+ "en": {
+  "name": "Maritozzo",
+  "blurb": "The Roman bun split open and filled with whipped cream, with no more sugar added than it needs. The bun gets honey and orange zest, and that's the whole difference.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "honey"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "instant dry yeast"
+   },
+   {
+    "n": "orange zest"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "heavy cream",
+    "note": "very cold"
+   },
+   {
+    "n": "powdered sugar"
+   },
+   {
+    "n": "vanilla"
+   }
+  ],
+  "steps": [
+   "Mix the flour, milk, eggs, sugar, honey, yeast, zest and salt. Knead 8 minutes.",
+   "Work in the soft butter a little at a time until the dough is smooth and elastic. Proof 2 hours.",
+   "Shape 10 oval buns and space them out on the sheet. Proof 90 minutes until doubled.",
+   "Brush with egg and bake at 180 °C for 15-18 minutes, until golden but still soft.",
+   "Cool completely. Whip the very cold cream with the powdered sugar and vanilla to stiff peaks.",
+   "Split each bun with a diagonal cut without going all the way through, fill generously with cream and smooth the opening with a spatula. Dust with powdered sugar."
+  ],
+  "tips": [
+   "The cream has to be ice cold and whipped firm, or it slides out of the cut.",
+   "The cut is diagonal and not all the way through: the bun should hold the cream like a pocket.",
+   "Fill them the same day. A maritozzo filled the night before goes soft."
+  ],
+  "video": "Roman maritozzo whipped cream bun"
+ }
+}

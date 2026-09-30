@@ -1,0 +1,228 @@
+{
+ "id": "feijoada",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "main",
+ "time": 400,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 700,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "bacon",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Feijoada",
+  "blurb": "Frijoles negros con varios cortes de cerdo curados y frescos. Los salados hay que desalarlos y los frijoles se cuecen aparte al principio para poder controlar la sal.",
+  "ing": [
+   {
+    "n": "frijoles negros",
+    "note": "remojados toda la noche"
+   },
+   {
+    "n": "carne seca",
+    "note": "remojada 12 h, con 3 cambios de agua"
+   },
+   {
+    "n": "costillas de cerdo ahumadas"
+   },
+   {
+    "n": "linguiça"
+   },
+   {
+    "n": "panza de cerdo"
+   },
+   {
+    "n": "tocino"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "naranja",
+    "note": "partida por la mitad"
+   },
+   {
+    "n": "farofa",
+    "note": "harina de yuca tostada"
+   },
+   {
+    "n": "berza",
+    "note": "en juliana muy fina"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja las carnes saladas 12 horas cambiando el agua tres veces. Prueba un trozo: si sigue muy salado, sigue remojando.",
+   "Cuece los frijoles con el laurel y las mitades de naranja 45 minutos hasta que estén casi tiernos. Retira la naranja.",
+   "Añade las carnes saladas y ahumadas y cocina 90 minutos.",
+   "Añade el cerdo fresco y la salchicha y cocina 60 minutos más, hasta que todo esté tierno y los frijoles se hayan deshecho en un caldo oscuro y espeso.",
+   "Fríe la cebolla, el ajo y el tocino, añade una taza de frijoles, machácalos e incorpora todo de vuelta a la olla. Esto es lo que espesa.",
+   "Rectifica con cuidado: puede que no necesite sal. Sirve con arroz, farofa, berza salteada y rodajas de naranja."
+  ],
+  "tips": [
+   "Prueba antes de salar. Las carnes curadas suelen traer más que suficiente.",
+   "El refogado de frijol machacado es el espesante tradicional. Sin él el guiso queda ralo.",
+   "La naranja no es adorno. Su acidez corta la grasa y hace que el plato funcione."
+  ],
+  "video": "feijoada brasileña"
+ },
+ "en": {
+  "name": "Feijoada",
+  "blurb": "Black beans with several cuts of cured and fresh pork. The salted meats have to be desalted, and the beans start cooking on their own so you can control the salt.",
+  "ing": [
+   {
+    "n": "black beans",
+    "note": "soaked overnight"
+   },
+   {
+    "n": "carne seca (salted dried beef)",
+    "note": "soaked 12 h, with 3 changes of water"
+   },
+   {
+    "n": "smoked pork ribs"
+   },
+   {
+    "n": "linguiça sausage"
+   },
+   {
+    "n": "pork belly"
+   },
+   {
+    "n": "bacon"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "orange",
+    "note": "halved"
+   },
+   {
+    "n": "farofa",
+    "note": "toasted cassava flour"
+   },
+   {
+    "n": "collard greens",
+    "note": "very finely shredded"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the salted meats 12 hours, changing the water three times. Taste a piece: if it is still very salty, keep soaking.",
+   "Simmer the beans with the bay leaves and orange halves for 45 minutes until almost tender. Remove the orange.",
+   "Add the salted and smoked meats and cook 90 minutes.",
+   "Add the fresh pork and the sausage and cook 60 minutes more, until everything is tender and the beans have broken down into a dark, thick broth.",
+   "Fry the onion, garlic and bacon, add a cup of the beans, mash them, and stir everything back into the pot. This is what thickens it.",
+   "Adjust carefully: it may not need salt. Serve with rice, farofa, sautéed collards and orange slices."
+  ],
+  "tips": [
+   "Taste before salting. The cured meats usually bring more than enough.",
+   "The mashed-bean refogado is the traditional thickener. Without it the stew stays thin.",
+   "The orange is not a garnish. Its acidity cuts the fat and makes the dish work."
+  ],
+  "video": "Brazilian feijoada"
+ }
+}

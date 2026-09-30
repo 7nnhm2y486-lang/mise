@@ -1,0 +1,146 @@
+{
+ "id": "avgolemono",
+ "country": "Greece",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.4,
+   "u": "l",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "enrich"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 15,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Avgolemono",
+  "blurb": "Una emulsión de huevo y limón que espesa un caldo caliente sin cortarse. Una lección de atemperado que sirve para cualquier crema inglesa que hagas en tu vida.",
+  "ing": [
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "arroz de grano corto"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "pollo cocido deshebrado"
+   },
+   {
+    "n": "eneldo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Cuece el arroz en el caldo 15 minutos, hasta que esté blando.",
+   "Bate los huevos con el jugo de limón con energía, hasta que palidezcan y espumen.",
+   "Añade una taza de caldo caliente a los huevos en hilo fino, batiendo sin parar. Repite con una segunda taza. Los huevos ya están templados y a salvo.",
+   "Retira la olla del fuego por completo. Vierte la mezcla de huevo atemperada dentro, removiendo.",
+   "Vuelve al fuego más bajo posible, añade el pollo y remueve hasta que espese como una crema ligera, 3 o 4 minutos. No debe hervir nunca.",
+   "Rectifica, añade el eneldo y sirve de inmediato."
+  ],
+  "tips": [
+   "Si hierve después de añadir los huevos, se cortará. Si la superficie apenas tiembla, retira la olla.",
+   "Dos tazas de atemperado, no una. Apresurarse aquí es el único punto de fallo.",
+   "No se recalienta bien. Haz lo que vayas a comer."
+  ],
+  "video": "sopa avgolemono griega"
+ },
+ "en": {
+  "name": "Avgolemono",
+  "blurb": "An egg and lemon emulsion that thickens hot broth without curdling. A lesson in tempering that will serve you for every custard you ever make.",
+  "ing": [
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "short-grain rice"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "cooked shredded chicken"
+   },
+   {
+    "n": "dill"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Simmer the rice in the stock for 15 minutes, until soft.",
+   "Whisk the eggs with the lemon juice vigorously, until pale and foamy.",
+   "Add a cup of hot stock to the eggs in a thin stream, whisking constantly. Repeat with a second cup. The eggs are now tempered and safe.",
+   "Take the pot off the heat completely. Pour in the tempered egg mixture, stirring.",
+   "Return to the lowest possible heat, add the chicken and stir until it thickens like a light custard, 3 or 4 minutes. It must never boil.",
+   "Adjust the seasoning, add the dill and serve immediately."
+  ],
+  "tips": [
+   "If it boils after the eggs go in, it will curdle. If the surface barely trembles, pull the pot.",
+   "Two cups for tempering, not one. Rushing here is the only point of failure.",
+   "It doesn't reheat well. Make what you'll eat."
+  ],
+  "video": "greek avgolemono soup"
+ }
+}

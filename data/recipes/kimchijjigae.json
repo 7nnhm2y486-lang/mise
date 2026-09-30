@@ -1,0 +1,202 @@
+{
+ "id": "kimchijjigae",
+ "country": "Korea",
+ "region": "east-asia",
+ "course": "soup",
+ "time": 40,
+ "serves": 3,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "tofu",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "gochugaru",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "gochujang",
+   "role": "umami"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 600,
+   "u": "ml",
+   "k": "dashi",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sesameoil",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  }
+ ],
+ "es": {
+  "name": "Kimchi Jjigae",
+  "blurb": "Quieres kimchi viejo, cuanto más ácido mejor. Freírlo en la grasa del cerdo antes de añadir líquido es lo que hace que el guiso sepa cocinado y no montado.",
+  "ing": [
+   {
+    "n": "kimchi ácido",
+    "note": "picado, con su jugo"
+   },
+   {
+    "n": "panza de cerdo",
+    "note": "en láminas"
+   },
+   {
+    "n": "tofu",
+    "note": "en lonchas gruesas"
+   },
+   {
+    "n": "gochugaru"
+   },
+   {
+    "n": "gochujang"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "caldo de anchoa",
+    "note": "o agua"
+   },
+   {
+    "n": "aceite de sésamo"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "salsa de soja"
+   }
+  ],
+  "steps": [
+   "Fríe la panza de cerdo en una olla pesada hasta que suelte la grasa y los bordes queden crujientes.",
+   "Añade el kimchi y fríelo con fuerza en esa grasa 6-8 minutos. Oscurecerá y olerá dulce: este paso lo es todo.",
+   "Añade el gochugaru, el gochujang, el ajo y la cebolla. Fríe 2 minutos.",
+   "Vierte el caldo y el jugo del kimchi. Cocina 15 minutos.",
+   "Coloca el tofu encima y cocina 5 minutos más sin remover, para que quede entero.",
+   "Ajusta con soja, azúcar y un chorro de aceite de sésamo. Esparce cebollín y sirve borboteando."
+  ],
+  "tips": [
+   "El kimchi fresco da un guiso plano. Usa el bote que lleva un mes al fondo del refrigerador.",
+   "Freír el kimchi primero es la diferencia entre un guiso y una sopa de kimchi caliente.",
+   "Una cucharadita de azúcar equilibra un kimchi muy ácido sin endulzar el guiso."
+  ],
+  "video": "kimchi jjigae"
+ },
+ "en": {
+  "name": "Kimchi Jjigae",
+  "blurb": "You want old kimchi, the sourer the better. Frying it in the pork fat before any liquid goes in is what makes the stew taste cooked rather than assembled.",
+  "ing": [
+   {
+    "n": "sour kimchi",
+    "note": "chopped, with its juice"
+   },
+   {
+    "n": "pork belly",
+    "note": "sliced"
+   },
+   {
+    "n": "tofu",
+    "note": "in thick slices"
+   },
+   {
+    "n": "gochugaru"
+   },
+   {
+    "n": "gochujang"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "anchovy stock",
+    "note": "or water"
+   },
+   {
+    "n": "sesame oil"
+   },
+   {
+    "n": "scallions"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "soy sauce"
+   }
+  ],
+  "steps": [
+   "Fry the pork belly in a heavy pot until it renders its fat and the edges are crisp.",
+   "Add the kimchi and fry it hard in that fat for 6-8 minutes. It will darken and smell sweet: this step is everything.",
+   "Add the gochugaru, gochujang, garlic and onion. Fry 2 minutes.",
+   "Pour in the stock and the kimchi juice. Simmer 15 minutes.",
+   "Lay the tofu on top and simmer 5 minutes more without stirring, so it stays whole.",
+   "Adjust with soy sauce, sugar and a splash of sesame oil. Scatter the scallions over and serve bubbling."
+  ],
+  "tips": [
+   "Fresh kimchi makes a flat stew. Use the jar that's been at the back of the fridge for a month.",
+   "Frying the kimchi first is the difference between a stew and hot kimchi soup.",
+   "A teaspoon of sugar balances very sour kimchi without making the stew sweet."
+  ],
+  "video": "kimchi jjigae"
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "id": "taralli",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "bread",
+ "time": 120,
+ "serves": 30,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 12,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Taralli",
+  "blurb": "Se hierven antes de hornearse, como los bagels. Ese hervor gelatiniza el almidón de la superficie y es lo que les da el brillo y el crujido de vidrio.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "vino blanco seco"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "semilla de hinojo",
+    "note": "o pimienta negra machacada"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina con la sal y el hinojo.",
+   "Añade el vino y el aceite y amasa 10 minutos hasta obtener una masa firme y lisa. Reposa 30 minutos.",
+   "Toma trozos pequeños, rueda cordones de 10 cm y únelos en anillos, sellando bien los extremos.",
+   "Hierve agua abundante. Echa los taralli en tandas: están listos cuando flotan, unos 60 segundos.",
+   "Sácalos con espumadera y déjalos secar sobre un paño 15 minutos.",
+   "Hornea a 180 °C durante 30-35 minutos, hasta que estén dorados y completamente secos. Enfría por completo antes de guardar."
+  ],
+  "tips": [
+   "El hervor previo es lo que los diferencia de un simple palito de pan.",
+   "Sécalos bien tras hervirlos o no dorarán parejo.",
+   "Deben quedar secos del todo. Si al enfriar están blandos, devuélvelos al horno 10 minutos."
+  ],
+  "video": "taralli pugliesi hinojo"
+ },
+ "en": {
+  "name": "Taralli",
+  "blurb": "They're boiled before baking, like bagels. The boil gelatinizes the surface starch, and that's what gives them their shine and glassy crunch.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "dry white wine"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "fennel seeds",
+    "note": "or crushed black pepper"
+   }
+  ],
+  "steps": [
+   "Mix the flour with the salt and fennel.",
+   "Add the wine and oil and knead for 10 minutes into a firm, smooth dough. Rest 30 minutes.",
+   "Take small pieces, roll them into 10 cm ropes and join them into rings, sealing the ends well.",
+   "Bring plenty of water to a boil. Drop the taralli in batches: they're done when they float, about 60 seconds.",
+   "Lift them out with a slotted spoon and let them dry on a towel for 15 minutes.",
+   "Bake at 180 °C for 30-35 minutes, until golden and completely dry. Cool completely before storing."
+  ],
+  "tips": [
+   "The boil is what sets them apart from a plain breadstick.",
+   "Dry them well after boiling or they won't brown evenly.",
+   "They must be dry all the way through. If they're soft once cool, put them back in the oven for 10 minutes."
+  ],
+  "video": "taralli pugliesi fennel"
+ }
+}

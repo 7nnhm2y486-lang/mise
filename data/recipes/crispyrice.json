@@ -1,0 +1,189 @@
+{
+ "id": "crispyrice",
+ "country": "United States",
+ "region": "north-america",
+ "course": "main",
+ "time": 30,
+ "serves": 2,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "salmon",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "mayo",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "chilli",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "leaf",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sesameoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sesameseed",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Bol de Salmón con Arroz Crujiente",
+  "blurb": "Nació como una forma de aprovechar sobras y funciona por una razón simple: el arroz del día anterior recalentado con un cubo de hielo tapado se cuece al vapor y vuelve a quedar como recién hecho.",
+  "ing": [
+   {
+    "n": "salmón cocido",
+    "note": "sobras, o al horno 12 min"
+   },
+   {
+    "n": "arroz cocido",
+    "note": "frío, del día anterior"
+   },
+   {
+    "n": "cubo de hielo"
+   },
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "mayonesa kewpie"
+   },
+   {
+    "n": "sriracha"
+   },
+   {
+    "n": "aguacate"
+   },
+   {
+    "n": "kimchi"
+   },
+   {
+    "n": "alga nori",
+    "note": "cortadas en cuadrados"
+   },
+   {
+    "n": "aceite de sésamo"
+   },
+   {
+    "n": "semillas de sésamo"
+   }
+  ],
+  "steps": [
+   "Desmenuza el salmón sobre el arroz frío en un bol apto para microondas.",
+   "Coloca un cubo de hielo encima, tapa el bol con film o un plato y calienta 2 minutos. El hielo se convierte en vapor y rehidrata el arroz sin recocerlo.",
+   "Retira lo que quede del hielo y mezcla el salmón con el arroz.",
+   "Añade la soja, la mayonesa, la sriracha y el aceite de sésamo y machaca todo con un tenedor hasta que quede homogéneo y cremoso.",
+   "Sirve con aguacate en láminas y kimchi al lado.",
+   "Se come con las hojas de nori: pones una cucharada encima y lo doblas como un taco."
+  ],
+  "tips": [
+   "El truco del hielo es real y funciona con cualquier arroz sobrante, no solo aquí.",
+   "Machaca todo junto en vez de servirlo en capas ordenadas: la textura homogénea es el punto.",
+   "El nori se ablanda en minutos. Sácalo del paquete justo al comer."
+  ],
+  "video": "bol salmón arroz crujiente nori"
+ },
+ "en": {
+  "name": "Crispy Rice Salmon Bowl",
+  "blurb": "It started as a way to use up leftovers and works for one simple reason: day-old rice reheated covered with an ice cube steams and comes back like freshly cooked.",
+  "ing": [
+   {
+    "n": "cooked salmon",
+    "note": "leftovers, or baked 12 min"
+   },
+   {
+    "n": "cooked rice",
+    "note": "cold, day-old"
+   },
+   {
+    "n": "ice cube"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "Kewpie mayonnaise"
+   },
+   {
+    "n": "sriracha"
+   },
+   {
+    "n": "avocado"
+   },
+   {
+    "n": "kimchi"
+   },
+   {
+    "n": "nori sheets",
+    "note": "cut into squares"
+   },
+   {
+    "n": "sesame oil"
+   },
+   {
+    "n": "sesame seeds"
+   }
+  ],
+  "steps": [
+   "Flake the salmon over the cold rice in a microwave-safe bowl.",
+   "Set an ice cube on top, cover the bowl with plastic wrap or a plate and heat 2 minutes. The ice turns to steam and rehydrates the rice without overcooking it.",
+   "Remove whatever is left of the ice and mix the salmon into the rice.",
+   "Add the soy sauce, mayonnaise, sriracha and sesame oil and mash everything with a fork until even and creamy.",
+   "Serve with sliced avocado and kimchi on the side.",
+   "Eat it with the nori sheets: put a spoonful on top and fold it like a taco."
+  ],
+  "tips": [
+   "The ice trick is real and works with any leftover rice, not just here.",
+   "Mash it all together instead of serving it in neat layers: the even texture is the point.",
+   "Nori goes soft in minutes. Take it out of the packet right as you eat."
+  ],
+  "video": "salmon rice bowl ice cube nori"
+ }
+}

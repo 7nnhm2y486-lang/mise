@@ -1,0 +1,161 @@
+{
+ "id": "canele",
+ "country": "France",
+ "region": "western-europe",
+ "course": "pastry",
+ "time": 2000,
+ "serves": 16,
+ "ovenC": 240,
+ "ing": [
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 125,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 50,
+   "u": "ml",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Canelés",
+  "blurb": "Una masa reposada dos días, horneada en cobre encerado. Casi negro y crujiente por fuera, cremoso y agujereado por dentro. Lo más implacable de esta colección.",
+  "ing": [
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "ron oscuro"
+   },
+   {
+    "n": "vaina de vainilla"
+   },
+   {
+    "n": "cera de abeja",
+    "note": "para los moldes, con igual peso de mantequilla"
+   }
+  ],
+  "steps": [
+   "Calienta la leche con la mantequilla y la vainilla a unos 80 °C, y déjala templar.",
+   "Bate el azúcar, la harina, los huevos y las yemas hasta obtener una pasta lisa, luego incorpora la leche tibia y el ron. La masa debe quedar tan fluida como una crema ligera.",
+   "Cuela y reposa 48 horas en el refrigerador. No es opcional: el reposo relaja el gluten e impide que se salgan del molde empujando hacia arriba.",
+   "Derrite la cera con igual peso de mantequilla, baña los moldes y ponlos boca abajo a escurrir. Enfríalos.",
+   "Llena los moldes fríos con masa fría hasta 1 cm por debajo del borde.",
+   "Hornea a 240 °C durante 15 minutos, baja a 180 °C por 45-55 minutos. Deben quedar casi negros. Desmóldalos de inmediato."
+  ],
+  "tips": [
+   "Cuarenta y ocho horas. A las veinticuatro suben y se desbordan como pequeños volcanes.",
+   "La cera de abeja da la corteza lacada y crujiente. Solo mantequilla da una cáscara más blanda y pálida.",
+   "El refrigerador los arruina. Cómelos el mismo día, idealmente en las primeras seis horas."
+  ],
+  "video": "canelés de burdeos"
+ },
+ "en": {
+  "name": "Canelés",
+  "blurb": "A batter rested two days, baked in waxed copper. Nearly black and crisp outside, custardy and open inside. The least forgiving thing in this collection.",
+  "ing": [
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "dark rum"
+   },
+   {
+    "n": "vanilla bean"
+   },
+   {
+    "n": "beeswax",
+    "note": "for the molds, with an equal weight of butter"
+   }
+  ],
+  "steps": [
+   "Heat the milk with the butter and vanilla to about 80 °C, and let it cool to warm.",
+   "Whisk the sugar, flour, eggs and yolks into a smooth paste, then stir in the warm milk and the rum. The batter should be as fluid as light cream.",
+   "Strain and rest 48 hours in the refrigerator. Not optional: the rest relaxes the gluten and keeps them from pushing up and out of the mold.",
+   "Melt the wax with an equal weight of butter, coat the molds and set them upside down to drain. Chill them.",
+   "Fill the cold molds with cold batter to 1 cm below the rim.",
+   "Bake at 240 °C for 15 minutes, then lower to 180 °C for 45-55 minutes. They should come out nearly black. Unmold immediately."
+  ],
+  "tips": [
+   "Forty-eight hours. At twenty-four they rise and overflow like little volcanoes.",
+   "Beeswax gives the lacquered, crackly crust. Butter alone gives a softer, paler shell.",
+   "The refrigerator ruins them. Eat them the same day, ideally within the first six hours."
+  ],
+  "video": "canelés de bordeaux recipe"
+ }
+}

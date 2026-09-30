@@ -1,0 +1,220 @@
+{
+ "id": "minestrone",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 90,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "stalk",
+   "k": "celery",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "parmesan",
+   "role": "umami"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Minestrone",
+  "blurb": "Un sofrito largo y verduras añadidas por orden de dureza. El agua es agua: el sabor sale de los veinte minutos iniciales y de una corteza de parmesano en la olla.",
+  "ing": [
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "zanahoria"
+   },
+   {
+    "n": "apio"
+   },
+   {
+    "n": "papa"
+   },
+   {
+    "n": "calabacín"
+   },
+   {
+    "n": "judías verdes"
+   },
+   {
+    "n": "alubias borlotti",
+    "note": "cocidas"
+   },
+   {
+    "n": "col rizada"
+   },
+   {
+    "n": "jitomate"
+   },
+   {
+    "n": "corteza de parmesano"
+   },
+   {
+    "n": "pasta corta"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "albahaca y perejil"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, zanahoria y apio muy picados en aceite durante 20 minutos a fuego medio-bajo. No los apresures: aquí se construye todo.",
+   "Añade el jitomate y cocina 10 minutos.",
+   "Añade agua caliente a cubrir, la corteza de parmesano y las papas. Cuece 15 minutos.",
+   "Añade las judías verdes y el calabacín y cocina 10 minutos más.",
+   "Añade las alubias, la col y la pasta y cuece hasta que la pasta esté lista.",
+   "Retira la corteza, rectifica y sirve con hierbas frescas y aceite crudo."
+  ],
+  "tips": [
+   "El sofrito de veinte minutos es el plato. Todo lo demás es añadir verduras a tiempo.",
+   "La corteza de parmesano aporta un fondo umami que nada más da. Guarda las cortezas en el congelador.",
+   "Añade la pasta al final o se pasará y absorberá todo el caldo."
+  ],
+  "video": "minestrone tradicional"
+ },
+ "en": {
+  "name": "Minestrone",
+  "blurb": "A long soffritto and vegetables added in order of toughness. The water is just water: the flavor comes from the first twenty minutes and a Parmesan rind in the pot.",
+  "ing": [
+   {
+    "n": "onion"
+   },
+   {
+    "n": "carrots"
+   },
+   {
+    "n": "celery"
+   },
+   {
+    "n": "potatoes"
+   },
+   {
+    "n": "zucchini"
+   },
+   {
+    "n": "green beans"
+   },
+   {
+    "n": "borlotti beans",
+    "note": "cooked"
+   },
+   {
+    "n": "kale"
+   },
+   {
+    "n": "tomato"
+   },
+   {
+    "n": "Parmesan rind"
+   },
+   {
+    "n": "short pasta"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "basil and parsley"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Sweat the finely chopped onion, carrot and celery in oil for 20 minutes over medium-low heat. Don't rush them: this is where everything is built.",
+   "Add the tomato and cook 10 minutes.",
+   "Add hot water to cover, the Parmesan rind and the potatoes. Simmer 15 minutes.",
+   "Add the green beans and zucchini and cook 10 minutes more.",
+   "Add the beans, kale and pasta and simmer until the pasta is done.",
+   "Remove the rind, adjust the seasoning and serve with fresh herbs and a drizzle of raw oil."
+  ],
+  "tips": [
+   "The twenty-minute soffritto is the dish. Everything else is adding vegetables on time.",
+   "The Parmesan rind gives an umami depth nothing else does. Save your rinds in the freezer.",
+   "Add the pasta at the end or it overcooks and soaks up all the broth."
+  ],
+  "video": "traditional Italian minestrone"
+ }
+}

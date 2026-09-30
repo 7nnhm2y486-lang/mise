@@ -1,0 +1,188 @@
+{
+ "id": "ccc-cakey",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 45,
+ "serves": 24,
+ "ovenC": 180,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 170,
+   "u": "g",
+   "k": "butter",
+   "role": "aerate"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "aerate"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "aerate"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "leaven"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 375,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "chocolatechips",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Galletas Esponjosas Tipo Bizcocho",
+  "blurb": "Polvo de hornear en vez de bicarbonato, más harina, más huevo y menos mantequilla. El resultado se acerca más a un pastelito que a una galleta: blando, pálido y abombado, que es exactamente lo que algunas personas entienden por galleta.",
+  "lab": "Polvo de hornear + huevo extra · tiernas, abombadas",
+  "ing": [
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "azúcar morena clara"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "chispas de chocolate"
+   }
+  ],
+  "steps": [
+   "Crema la mantequilla y los azúcares 5 minutos completos: aquí sí quieres el aire.",
+   "Bate dentro los huevos y la vainilla hasta que quede ligero.",
+   "Alterna los secos y la leche en tres adiciones, mezclando lo mínimo.",
+   "Incorpora el chocolate. La masa quedará blanda y pegajosa en vez de rígida.",
+   "Forma montículos de 45 g y no los aplastes.",
+   "Hornea a 180 °C durante 9-10 minutos. Sácalas pálidas: el color significa crujiente, y no es lo que buscan estas."
+  ],
+  "tips": [
+   "El polvo de hornear empuja hacia arriba; el bicarbonato extiende hacia los lados y dora. Elegir entre ellos decide la forma.",
+   "Más harina y más huevo son más estructura, que es lo que sostiene la cúpula.",
+   "Pálidas es correcto. Si se doran en los bordes, te pasaste."
+  ],
+  "video": "galletas esponjosas suaves chispas"
+ },
+ "en": {
+  "name": "Soft, Cakey Cookies",
+  "blurb": "Baking powder instead of baking soda, more flour, more egg and less butter. The result is closer to a little cake than a cookie: soft, pale and domed, which is exactly what some people mean by a cookie.",
+  "lab": "Baking powder + extra egg · tender, domed",
+  "ing": [
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "light brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "chocolate chips"
+   }
+  ],
+  "steps": [
+   "Cream the butter and sugars for a full 5 minutes: here you do want the air.",
+   "Beat in the eggs and vanilla until light.",
+   "Alternate the dry ingredients and the milk in three additions, mixing as little as possible.",
+   "Fold in the chocolate. The dough will be soft and sticky rather than stiff.",
+   "Scoop 45 g mounds and don't flatten them.",
+   "Bake at 180 °C for 9-10 minutes. Pull them pale: color means crisp, and that's not what these are after."
+  ],
+  "tips": [
+   "Baking powder pushes up; baking soda spreads out and browns. Choosing between them decides the shape.",
+   "More flour and more egg mean more structure, and that's what holds up the dome.",
+   "Pale is correct. If they brown at the edges, you've gone too far."
+  ],
+  "video": "soft cakey chocolate chip cookies"
+ }
+}

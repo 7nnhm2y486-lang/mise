@@ -1,0 +1,152 @@
+{
+ "id": "vongole",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "clam",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "acid"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Spaghetti alle Vongole",
+  "blurb": "La salsa es el agua que sueltan las almejas emulsionada con aceite y almidón. No lleva nada más, y por eso la pasta debe terminar de cocerse dentro de ese líquido.",
+  "ing": [
+   {
+    "n": "espagueti"
+   },
+   {
+    "n": "almejas",
+    "note": "purgadas en agua salada 2 h"
+   },
+   {
+    "n": "ajo",
+    "note": "laminados"
+   },
+   {
+    "n": "vino blanco seco"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "chile seco"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal",
+    "note": "para el agua"
+   }
+  ],
+  "steps": [
+   "Purga las almejas en agua con sal 2 horas, cambiándola dos veces, para que suelten la arena.",
+   "Dora el ajo y el chile en el aceite en una sartén amplia.",
+   "Añade las almejas y el vino, tapa y cocina 3-4 minutos hasta que se abran. Descarta las cerradas.",
+   "Saca la mitad de las almejas de su concha y cuela el líquido por un paño si hay arena.",
+   "Cuece la pasta solo dos tercios del tiempo y pásala a la sartén con el líquido de las almejas. Termina de cocerla ahí, moviendo, añadiendo agua de cocción a cucharadas.",
+   "Devuelve todas las almejas, añade mucho perejil y agita la sartén hasta que la salsa emulsione y brille."
+  ],
+  "tips": [
+   "Termina la pasta en el jugo de las almejas. Es la única forma de que la salsa agarre.",
+   "Nada de queso. Nunca.",
+   "Cuela el líquido si sospechas arena: un solo grano arruina el plato."
+  ],
+  "video": "spaghetti alle vongole"
+ },
+ "en": {
+  "name": "Spaghetti alle Vongole",
+  "blurb": "The sauce is the liquid the clams release, emulsified with oil and starch. There's nothing else in it, which is why the pasta has to finish cooking in that liquid.",
+  "ing": [
+   {
+    "n": "spaghetti"
+   },
+   {
+    "n": "clams",
+    "note": "purged in salted water for 2 h"
+   },
+   {
+    "n": "garlic",
+    "note": "sliced"
+   },
+   {
+    "n": "dry white wine"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "dried chile"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "salt",
+    "note": "for the water"
+   }
+  ],
+  "steps": [
+   "Purge the clams in salted water for 2 hours, changing it twice, so they spit out their sand.",
+   "Gently brown the garlic and chile in the oil in a wide pan.",
+   "Add the clams and wine, cover and cook 3-4 minutes until they open. Discard any that stay closed.",
+   "Take half the clams out of their shells and strain the liquid through a cloth if there's sand.",
+   "Cook the pasta for only two-thirds of its time and move it to the pan with the clam liquid. Finish cooking it there, tossing, adding pasta water a spoonful at a time.",
+   "Return all the clams, add plenty of parsley and shake the pan until the sauce emulsifies and turns glossy."
+  ],
+  "tips": [
+   "Finish the pasta in the clam juice. It's the only way the sauce will cling.",
+   "No cheese. Ever.",
+   "Strain the liquid if you suspect sand: a single grain ruins the dish."
+  ],
+  "video": "spaghetti alle vongole"
+ }
+}

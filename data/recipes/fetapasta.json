@@ -1,0 +1,165 @@
+{
+ "id": "fetapasta",
+ "country": "Finland",
+ "region": "nordic",
+ "course": "main",
+ "time": 45,
+ "serves": 4,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "feta",
+   "role": "fat"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 25,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pasta de Feta al Horno",
+  "blurb": "El viral que sí funciona, y por un motivo químico: el feta horneado libera sus proteínas y grasa, y al batirlo con el agua de la pasta forma una emulsión estable. No es un truco, es una salsa.",
+  "ing": [
+   {
+    "n": "queso feta",
+    "note": "un bloque entero, no desmenuzado"
+   },
+   {
+    "n": "tomates cherry"
+   },
+   {
+    "n": "ajo",
+    "note": "enteros con piel"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "pasta corta"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "hojuelas de chile"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "sal",
+    "note": "para el agua"
+   }
+  ],
+  "steps": [
+   "Pon los tomates cherry y los ajos en una fuente, riega con la mitad del aceite y sazona.",
+   "Coloca el bloque de feta entero en el centro y riégalo con el resto del aceite. Que sea un bloque importa: desmenuzado se seca en vez de fundirse.",
+   "Hornea a 200 °C durante 30-35 minutos, hasta que los tomates revienten y el feta esté dorado en los bordes y muy blando.",
+   "Mientras, cuece la pasta en poca agua para que quede almidonada. Reserva una taza del agua.",
+   "Aplasta los ajos fuera de la piel y machaca todo junto con un tenedor. Añade 4-5 cucharadas del agua de la pasta y bate con energía: pasará de grumoso a cremoso.",
+   "Incorpora la pasta escurrida, mezcla hasta que la salsa la cubra y termina con albahaca y chile."
+  ],
+  "tips": [
+   "Bloque entero, nunca desmenuzado. Es la diferencia entre una salsa y unos grumos secos.",
+   "El agua de la pasta es obligatoria: sin su almidón la grasa del feta se separa.",
+   "Los ajos enteros con piel se confitan y se vuelven dulces; pelados se queman."
+  ],
+  "video": "pasta de feta al horno"
+ },
+ "en": {
+  "name": "Baked Feta Pasta",
+  "blurb": "The viral one that actually works, and for a chemical reason: baked feta releases its proteins and fat, and whisked with pasta water it forms a stable emulsion. Not a hack, a sauce.",
+  "ing": [
+   {
+    "n": "feta cheese",
+    "note": "one whole block, not crumbled"
+   },
+   {
+    "n": "cherry tomatoes"
+   },
+   {
+    "n": "garlic",
+    "note": "whole cloves, skin on"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "short pasta"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "chile flakes"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "salt",
+    "note": "for the water"
+   }
+  ],
+  "steps": [
+   "Put the cherry tomatoes and garlic in a baking dish, drizzle with half the oil and season.",
+   "Set the whole block of feta in the middle and drizzle with the rest of the oil. A block matters: crumbled feta dries out instead of melting.",
+   "Bake at 200 °C for 30-35 minutes, until the tomatoes burst and the feta is golden at the edges and very soft.",
+   "Meanwhile, cook the pasta in a small amount of water so it stays starchy. Save a cup of the water.",
+   "Squeeze the garlic out of its skins and mash everything together with a fork. Add 4-5 tablespoons of pasta water and whisk hard: it will go from lumpy to creamy.",
+   "Toss in the drained pasta until the sauce coats it, and finish with basil and chile."
+  ],
+  "tips": [
+   "Whole block, never crumbled. It is the difference between a sauce and dry clumps.",
+   "The pasta water is mandatory: without its starch the fat in the feta separates.",
+   "Whole cloves in their skins confit and turn sweet; peeled ones burn."
+  ],
+  "video": "baked feta pasta"
+ }
+}

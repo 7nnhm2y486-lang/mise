@@ -1,0 +1,200 @@
+{
+ "id": "cannoli",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "pastry",
+ "time": 180,
+ "serves": 16,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 90,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 25,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 700,
+   "u": "g",
+   "k": "ricottacheese",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "pistachio",
+   "role": "crunch"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Cannoli",
+  "blurb": "Cáscaras fritas y rellenas al momento. Un cannolo relleno de antemano es un cannolo blando, y escurrir la ricotta toda la noche es la otra mitad de la respuesta.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "vino marsala"
+   },
+   {
+    "n": "manteca o mantequilla"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "cacao en polvo"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "ricotta",
+    "note": "escurrida toda la noche"
+   },
+   {
+    "n": "azúcar glas"
+   },
+   {
+    "n": "fruta confitada"
+   },
+   {
+    "n": "chocolate negro",
+    "note": "picado"
+   },
+   {
+    "n": "pistachos"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   }
+  ],
+  "steps": [
+   "Escurre la ricotta en un colador forrado con tela toda la noche, con peso encima. No es opcional: la ricotta húmeda da un relleno que se escurre.",
+   "Amasa la harina, el marsala, la grasa, el azúcar, el cacao y una pizca de sal en una masa firme. Reposa 1 hora.",
+   "Estírala tan fina como puedas, casi traslúcida, y corta óvalos de 10 cm.",
+   "Envuélvelos en tubos metálicos, sellando el solape con clara de huevo.",
+   "Fríe a 180 °C durante 2-3 minutos hasta que estén ampollados y dorados. Enfría antes de deslizarlos fuera de los tubos.",
+   "Bate la ricotta escurrida con el azúcar glas hasta alisar, incorpora la fruta y el chocolate, y rellena las cáscaras solo al servir. Moja los extremos en pistacho."
+  ],
+  "tips": [
+   "Rellena al momento. Diez minutos está bien; una hora no.",
+   "La masa debe quedar lo bastante fina para ver a través, o la cáscara sale dura en vez de ampollada.",
+   "Ricotta de oveja si la encuentras. Es sobre lo que está construido el postre."
+  ],
+  "video": "cannoli siciliano"
+ },
+ "en": {
+  "name": "Cannoli",
+  "blurb": "Shells fried and filled to order. A cannolo filled ahead is a soggy cannolo, and draining the ricotta overnight is the other half of the answer.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "Marsala wine"
+   },
+   {
+    "n": "lard or butter"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cocoa powder"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "ricotta",
+    "note": "drained overnight"
+   },
+   {
+    "n": "powdered sugar"
+   },
+   {
+    "n": "candied fruit"
+   },
+   {
+    "n": "dark chocolate",
+    "note": "chopped"
+   },
+   {
+    "n": "pistachios"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   }
+  ],
+  "steps": [
+   "Drain the ricotta overnight in a cloth-lined strainer with a weight on top. Not optional: wet ricotta makes a filling that runs.",
+   "Knead the flour, Marsala, fat, sugar, cocoa and a pinch of salt into a firm dough. Rest 1 hour.",
+   "Roll it as thin as you can, almost translucent, and cut 10 cm ovals.",
+   "Wrap them around metal tubes, sealing the overlap with egg white.",
+   "Fry at 180 °C for 2-3 minutes until blistered and golden. Cool before sliding them off the tubes.",
+   "Beat the drained ricotta with the powdered sugar until smooth, fold in the fruit and chocolate, and fill the shells only when serving. Dip the ends in pistachio."
+  ],
+  "tips": [
+   "Fill to order. Ten minutes is fine; an hour is not.",
+   "The dough has to be thin enough to see through, or the shell comes out hard instead of blistered.",
+   "Sheep's-milk ricotta if you can find it. It's what the dessert is built on."
+  ],
+  "video": "sicilian cannoli recipe"
+ }
+}

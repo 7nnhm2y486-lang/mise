@@ -1,0 +1,200 @@
+{
+ "id": "giardiniera",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "side",
+ "time": 1500,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "stalk",
+   "k": "celery",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Giardiniera",
+  "blurb": "Verduras encurtidas en vinagre y luego conservadas en aceite. La sal previa extrae el agua, y sin ese paso las verduras diluyen la conserva y no crujen.",
+  "ing": [
+   {
+    "n": "coliflor",
+    "note": "en ramilletes pequeños"
+   },
+   {
+    "n": "zanahoria",
+    "note": "en rodajas"
+   },
+   {
+    "n": "apio"
+   },
+   {
+    "n": "pimiento rojo"
+   },
+   {
+    "n": "chiles serranos"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "sal",
+    "note": "para la salmuera"
+   },
+   {
+    "n": "vinagre de vino blanco"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "pimienta en grano"
+   }
+  ],
+  "steps": [
+   "Corta todas las verduras en trozos del mismo tamaño, pequeños y regulares.",
+   "Mézclalas con la sal en un bol grande, cúbrelas con agua fría y déjalas toda la noche en el refrigerador.",
+   "Al día siguiente escurre y enjuaga bien. Prueba una: debe estar sabrosa, no salada.",
+   "Cúbrelas con el vinagre y déjalas 2 horas.",
+   "Escurre el vinagre y mezcla las verduras con el aceite, el ajo laminado, el orégano y la pimienta.",
+   "Pásalas a frascos, asegurándote de que el aceite las cubra. Espera al menos 48 horas antes de comerlas; aguanta un mes en el refrigerador."
+  ],
+  "tips": [
+   "La noche en salmuera es lo que mantiene el crujido. Sin ella las verduras se ablandan.",
+   "Todo del mismo tamaño para que se encurta parejo.",
+   "Cuarenta y ocho horas mínimo antes de abrirla. Al mes está en su mejor momento."
+  ],
+  "video": "giardiniera italiana en aceite"
+ },
+ "en": {
+  "name": "Giardiniera",
+  "blurb": "Vegetables pickled in vinegar and then preserved in oil. Salting first draws out water; skip it and the vegetables dilute the pickle and lose their crunch.",
+  "ing": [
+   {
+    "n": "cauliflower",
+    "note": "in small florets"
+   },
+   {
+    "n": "carrots",
+    "note": "sliced"
+   },
+   {
+    "n": "celery"
+   },
+   {
+    "n": "red bell peppers"
+   },
+   {
+    "n": "serrano chiles"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "salt",
+    "note": "for the brine"
+   },
+   {
+    "n": "white wine vinegar"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "peppercorns"
+   }
+  ],
+  "steps": [
+   "Cut all the vegetables into small, even pieces of the same size.",
+   "Toss them with the salt in a large bowl, cover with cold water and leave overnight in the fridge.",
+   "The next day, drain and rinse well. Taste one: it should be well seasoned, not salty.",
+   "Cover them with the vinegar and leave 2 hours.",
+   "Drain off the vinegar and toss the vegetables with the oil, sliced garlic, oregano and pepper.",
+   "Pack into jars, making sure the oil covers them. Wait at least 48 hours before eating; it keeps a month in the fridge."
+  ],
+  "tips": [
+   "The night in brine is what keeps the crunch. Without it the vegetables go soft.",
+   "Everything the same size so it pickles evenly.",
+   "Forty-eight hours minimum before opening. At a month it is at its best."
+  ],
+  "video": "Italian giardiniera in oil"
+ }
+}

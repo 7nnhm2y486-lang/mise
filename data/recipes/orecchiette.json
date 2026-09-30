@@ -1,0 +1,148 @@
+{
+ "id": "orecchiette",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 6,
+   "u": "fillet",
+   "k": "anchovy",
+   "role": "umami"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "breadcrumbs",
+   "role": "crunch"
+  },
+  {
+   "q": 90,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Orecchiette con Grelos",
+  "blurb": "Puglia en un plato. Los grelos se escaldan en la misma agua de la pasta, así que el agua queda amarga y verde y esa amargura es el punto.",
+  "ing": [
+   {
+    "n": "orecchiette"
+   },
+   {
+    "n": "grelos o brócoli rabe"
+   },
+   {
+    "n": "anchoas"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "chile seco"
+   },
+   {
+    "n": "pan rallado"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal",
+    "note": "para el agua"
+   }
+  ],
+  "steps": [
+   "Tuesta el pan rallado en dos cucharadas de aceite hasta que esté dorado y crujiente. Reserva: es el 'queso de los pobres' y sustituye al parmesano.",
+   "Limpia los grelos quitando los tallos más duros.",
+   "Hierve agua con sal, echa los grelos y cuécelos 4 minutos. Sácalos con espumadera y cuece la pasta en la misma agua.",
+   "Mientras, disuelve las anchoas en el aceite restante con el ajo y el chile, a fuego bajo.",
+   "Añade los grelos escurridos a la sartén y saltéalos 3 minutos, aplastándolos un poco.",
+   "Termina la pasta en la sartén con un poco de agua de cocción y sirve con el pan rallado tostado por encima."
+  ],
+  "tips": [
+   "Todo en la misma agua. El amargor de los grelos sazona la pasta desde dentro.",
+   "Sin queso: el pan rallado tostado es la coronación tradicional y funciona mejor.",
+   "Si no encuentras grelos, usa brócoli rabe o las hojas del nabo; el brócoli común es demasiado dulce."
+  ],
+  "video": "orecchiette cime di rapa"
+ },
+ "en": {
+  "name": "Orecchiette with Broccoli Rabe",
+  "blurb": "Puglia on a plate. The greens are blanched in the pasta water itself, so the water turns bitter and green, and that bitterness is the point.",
+  "ing": [
+   {
+    "n": "orecchiette"
+   },
+   {
+    "n": "cime di rapa or broccoli rabe"
+   },
+   {
+    "n": "anchovies"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "dried chile"
+   },
+   {
+    "n": "breadcrumbs"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "salt",
+    "note": "for the water"
+   }
+  ],
+  "steps": [
+   "Toast the breadcrumbs in two tablespoons of oil until golden and crisp. Set aside: this is the 'poor man's cheese' and stands in for parmesan.",
+   "Trim the greens, removing the toughest stems.",
+   "Bring salted water to a boil, drop in the greens and cook for 4 minutes. Lift them out with a slotted spoon and cook the pasta in the same water.",
+   "Meanwhile, melt the anchovies into the remaining oil with the garlic and chile over low heat.",
+   "Add the drained greens to the pan and sauté for 3 minutes, crushing them slightly.",
+   "Finish the pasta in the pan with a splash of cooking water and serve with the toasted breadcrumbs on top."
+  ],
+  "tips": [
+   "Everything in the same water. The bitterness of the greens seasons the pasta from the inside.",
+   "No cheese: toasted breadcrumbs are the traditional topping and work better.",
+   "If you can't find cime di rapa, use broccoli rabe or turnip greens; regular broccoli is too sweet."
+  ],
+  "video": "orecchiette cime di rapa"
+ }
+}

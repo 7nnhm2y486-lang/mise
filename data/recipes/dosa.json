@@ -1,0 +1,200 @@
+{
+ "id": "dosa",
+ "country": "India",
+ "region": "south-asia",
+ "course": "main",
+ "time": 1200,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 15,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Masala Dosa",
+  "blurb": "Una masa de arroz y lentejas fermentada de forma natural. Esa fermentación salvaje da la acidez y el encaje crujiente.",
+  "ing": [
+   {
+    "n": "arroz sancochado"
+   },
+   {
+    "n": "urad dal",
+    "note": "pelada"
+   },
+   {
+    "n": "semilla de fenogreco"
+   },
+   {
+    "n": "poha",
+    "note": "arroz aplanado"
+   },
+   {
+    "n": "papa",
+    "note": "cocida"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "semilla de mostaza"
+   },
+   {
+    "n": "hojas de curry"
+   },
+   {
+    "n": "cúrcuma"
+   },
+   {
+    "n": "chile verde"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja el arroz con el poha en un bol y la urad dal con el fenogreco en otro, durante 5 horas.",
+   "Muele primero la dal con agua fría hasta que quede ligera y espumosa, luego el arroz hasta una pasta fina pero levemente arenosa. Une ambas con la mano.",
+   "Tapa sin cerrar y fermenta en un sitio cálido 8-14 horas, hasta que suba, burbujee y huela agradablemente ácida. Sala solo después de fermentar.",
+   "Para el relleno, abre la mostaza y las hojas de curry en aceite, añade cebolla y chile, luego cúrcuma y la papa machacada. Sazona.",
+   "Calienta una plancha a fuego medio-alto, úntala con aceite y enfríala un poco con un paño húmedo: una plancha ardiendo no deja extender la masa.",
+   "Vierte un cucharón en el centro y extiéndelo en espiral rápidamente. Rocía aceite por el borde y cocina hasta que se despegue dorada y crujiente. Rellena y dobla."
+  ],
+  "tips": [
+   "La sal inhibe las bacterias de la fermentación. Entra al final.",
+   "Limpiar la plancha con un paño entre dosa y dosa es lo que evita que la masa se agarre.",
+   "Agua fría al moler mantiene la masa fresca y no mata el fermento."
+  ],
+  "video": "masala dosa masa crujiente"
+ },
+ "en": {
+  "name": "Masala Dosa",
+  "blurb": "A naturally fermented rice and lentil batter. That wild fermentation gives the tang and the crisp lace.",
+  "ing": [
+   {
+    "n": "parboiled rice"
+   },
+   {
+    "n": "urad dal",
+    "note": "skinned"
+   },
+   {
+    "n": "fenugreek seed"
+   },
+   {
+    "n": "poha",
+    "note": "flattened rice"
+   },
+   {
+    "n": "potato",
+    "note": "boiled"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "mustard seed"
+   },
+   {
+    "n": "curry leaves"
+   },
+   {
+    "n": "turmeric"
+   },
+   {
+    "n": "green chile"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the rice with the poha in one bowl and the urad dal with the fenugreek in another, for 5 hours.",
+   "Grind the dal first with cold water until light and fluffy, then the rice to a fine but slightly gritty paste. Combine the two by hand.",
+   "Cover loosely and ferment somewhere warm for 8-14 hours, until risen, bubbly and pleasantly sour-smelling. Salt only after fermenting.",
+   "For the filling, pop the mustard seed and curry leaves in oil, add the onion and chile, then the turmeric and mashed potato. Season.",
+   "Heat a griddle over medium-high, grease it with oil and cool it slightly with a damp cloth: a scorching griddle won't let the batter spread.",
+   "Pour a ladleful in the center and spread it quickly in a spiral. Drizzle oil around the edge and cook until it releases golden and crisp. Fill and fold."
+  ],
+  "tips": [
+   "Salt inhibits the fermenting bacteria. It goes in at the end.",
+   "Wiping the griddle with a cloth between dosas is what keeps the batter from sticking.",
+   "Cold water while grinding keeps the batter cool and doesn't kill the ferment."
+  ],
+  "video": "crispy masala dosa batter"
+ }
+}

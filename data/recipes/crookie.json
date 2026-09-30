@@ -1,0 +1,117 @@
+{
+ "id": "crookie",
+ "country": "France",
+ "region": "western-europe",
+ "course": "pastry",
+ "time": 30,
+ "serves": 4,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "chocolatechips",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "garnish"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Crookie",
+  "blurb": "Un cruasán del día anterior abierto y relleno de masa de galleta cruda, y otra vez al horno. Suena a exceso y funciona porque el cruasán seco vuelve a hidratarse con la grasa de la masa.",
+  "ing": [
+   {
+    "n": "cruasanes",
+    "note": "del día anterior"
+   },
+   {
+    "n": "masa de galleta con chispas",
+    "note": "cruda, de la receta de referencia"
+   },
+   {
+    "n": "chocolate negro",
+    "note": "picado"
+   },
+   {
+    "n": "azúcar glas"
+   },
+   {
+    "n": "sal en escamas"
+   }
+  ],
+  "steps": [
+   "Usa cruasanes de al menos un día. Uno fresco se deshace y queda grasiento.",
+   "Ábrelos por la mitad a lo largo sin llegar a separarlos.",
+   "Unta una cucharada generosa de masa de galleta cruda en el interior y ciérralos.",
+   "Pon otra cucharada encima, extendida a lo ancho, y hunde algunos trozos de chocolate.",
+   "Hornea a 180 °C durante 12-14 minutos, hasta que la masa de encima esté cuajada en los bordes y blanda en el centro.",
+   "Reposa 5 minutos, espolvorea azúcar glas y una pizca de sal en escamas."
+  ],
+  "tips": [
+   "Cruasán del día anterior, sin excepción. Es el único motivo por el que esto funciona.",
+   "No pases de 14 minutos: el cruasán se quema mucho antes de que la galleta parezca hecha.",
+   "La sal en escamas al final es lo que evita que resulte empalagoso."
+  ],
+  "video": "crookie cruasán galleta"
+ },
+ "en": {
+  "name": "Crookie",
+  "blurb": "A day-old croissant split, filled with raw cookie dough and baked again. It sounds excessive and works because the dry croissant rehydrates with the fat from the dough.",
+  "ing": [
+   {
+    "n": "croissants",
+    "note": "day-old"
+   },
+   {
+    "n": "chocolate chip cookie dough",
+    "note": "raw, from the reference recipe"
+   },
+   {
+    "n": "dark chocolate",
+    "note": "chopped"
+   },
+   {
+    "n": "powdered sugar"
+   },
+   {
+    "n": "flaky salt"
+   }
+  ],
+  "steps": [
+   "Use croissants at least a day old. A fresh one falls apart and turns greasy.",
+   "Split them lengthwise without cutting all the way through.",
+   "Spread a generous spoonful of raw cookie dough inside and close them.",
+   "Put another spoonful on top, spread across the width, and press in a few chunks of chocolate.",
+   "Bake at 180 °C for 12-14 minutes, until the dough on top is set at the edges and soft in the middle.",
+   "Rest 5 minutes, then dust with powdered sugar and a pinch of flaky salt."
+  ],
+  "tips": [
+   "Day-old croissant, no exceptions. It's the only reason this works.",
+   "Don't go past 14 minutes: the croissant burns long before the cookie looks done.",
+   "The flaky salt at the end is what keeps it from being cloying."
+  ],
+  "video": "crookie croissant cookie"
+ }
+}

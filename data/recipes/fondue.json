@@ -1,0 +1,162 @@
+{
+ "id": "fondue",
+ "country": "Switzerland",
+ "region": "western-europe",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "gruyere",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "cheese",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "cornstarch",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "loaf",
+   "k": "bread",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Fondue de Queso",
+  "blurb": "El ácido del vino y un poco de fécula impiden que las proteínas del queso se agrupen. Sin ambos, obtienes una masa filante flotando en aceite.",
+  "ing": [
+   {
+    "n": "gruyer",
+    "note": "rallado"
+   },
+   {
+    "n": "emmental",
+    "note": "rallado"
+   },
+   {
+    "n": "vino blanco seco"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "kirsch"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "pan rústico"
+   }
+  ],
+  "steps": [
+   "Frota el interior de la olla con fuerza con un diente de ajo cortado y déjalo dentro.",
+   "Mezcla los quesos rallados con la fécula hasta que cada hebra quede espolvoreada.",
+   "Calienta el vino hasta que humee sin hervir.",
+   "Añade el queso puñado a puñado, removiendo en ocho, esperando a que cada uno se funda antes del siguiente. Nunca remuevas en círculos: agrupa las proteínas en una bola.",
+   "Cuando esté liso, incorpora el kirsch, la nuez moscada y la pimienta.",
+   "Mantenlo sobre llama muy baja. Si se corta, bate una cucharadita de fécula disuelta en un poco de vino."
+  ],
+  "tips": [
+   "En ocho, no en círculos. Es literalmente la instrucción tradicional y funciona de verdad.",
+   "Que no hierva nunca. Por encima de unos 70 °C las proteínas se tensan y expulsan la grasa.",
+   "Ralla el queso tú. El prerrallado lleva almidón antiapelmazante que aquí sabe a yeso."
+  ],
+  "video": "fondue de queso suiza"
+ },
+ "en": {
+  "name": "Cheese Fondue",
+  "blurb": "The acid in the wine and a little starch stop the cheese proteins from clumping. Without both, you get a stringy lump floating in oil.",
+  "ing": [
+   {
+    "n": "Gruyère",
+    "note": "grated"
+   },
+   {
+    "n": "Emmental",
+    "note": "grated"
+   },
+   {
+    "n": "dry white wine"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "kirsch"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "rustic bread"
+   }
+  ],
+  "steps": [
+   "Rub the inside of the pot hard with a cut garlic clove and leave it in.",
+   "Toss the grated cheeses with the cornstarch until every strand is dusted.",
+   "Heat the wine until it steams but does not boil.",
+   "Add the cheese a handful at a time, stirring in a figure eight, waiting for each to melt before the next. Never stir in circles: it gathers the proteins into a ball.",
+   "Once smooth, stir in the kirsch, nutmeg and pepper.",
+   "Keep it over a very low flame. If it splits, whisk in a teaspoon of cornstarch slaked in a little wine."
+  ],
+  "tips": [
+   "Figure eights, not circles. It is literally the traditional instruction and it genuinely works.",
+   "Never let it boil. Above about 70 °C the proteins tighten and squeeze out the fat.",
+   "Grate the cheese yourself. Pre-grated cheese carries anti-caking starch that tastes chalky here."
+  ],
+  "video": "Swiss cheese fondue"
+ }
+}

@@ -1,0 +1,194 @@
+{
+ "id": "ccc-sugarfree",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 840,
+ "serves": 18,
+ "ovenC": 170,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 260,
+   "u": "g",
+   "k": "",
+   "role": "spread"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 220,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 290,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 0.75,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "chocolatechips",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "moisture"
+  }
+ ],
+ "es": {
+  "name": "Galletas Sin Azúcar",
+  "blurb": "Construidas sobre alulosa y no sobre eritritol, porque la alulosa es el único edulcorante fácil de conseguir que realmente dora y mantiene la ternura. Lee las notas: la temperatura del horno es más baja por un motivo.",
+  "lab": "Alulosa · doran y son masticables, a diferencia de casi todas",
+  "ing": [
+   {
+    "n": "alulosa",
+    "note": "granulada"
+   },
+   {
+    "n": "sustituto de azúcar morena",
+    "note": "a base de alulosa, con saborizante de melaza"
+   },
+   {
+    "n": "mantequilla",
+    "note": "tostada"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "yema de huevo"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro sin azúcar"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "glicerina vegetal",
+    "note": "opcional, para ternura"
+   }
+  ],
+  "steps": [
+   "Tuesta la mantequilla y enfríala 10 minutos.",
+   "Bate dentro la alulosa y el sustituto de morena. No se disuelve tan fácil como el azúcar: insiste 2 minutos completos.",
+   "Bate el huevo, la yema, la vainilla y la glicerina.",
+   "Incorpora la harina, el bicarbonato y la sal, y después el chocolate.",
+   "Refrigera 12 horas. Las masas con alulosa se extienden más que las de azúcar, así que aquí importa más, y añade 2 cda de harina si tu cocina está cálida.",
+   "Hornea bolas de 55 g a 170 °C durante 13-14 minutos. El horno más bajo es porque la alulosa dora alrededor de un 30% más rápido que la sacarosa y a 185 °C se quemaría."
+  ],
+  "tips": [
+   "Sin azúcar no es sin carbohidratos. La harina sigue siendo almidón: esto importa si horneas por diabetes y no por preferencia.",
+   "La alulosa y los polialcoholes en cantidad sientan mal a mucha gente. Dos galletas, no ocho.",
+   "Si usas xilitol en su lugar, mantenlo completamente lejos de los perros. Es gravemente tóxico para ellos incluso en dosis pequeñas."
+  ],
+  "video": "galletas sin azúcar alulosa"
+ },
+ "en": {
+  "name": "Sugar-Free Cookies",
+  "blurb": "Built on allulose rather than erythritol, because allulose is the only easy-to-find sweetener that actually browns and stays tender. Read the notes: the oven runs cooler for a reason.",
+  "lab": "Allulose · they brown and chew, unlike almost all the others",
+  "ing": [
+   {
+    "n": "allulose",
+    "note": "granulated"
+   },
+   {
+    "n": "brown sugar substitute",
+    "note": "allulose-based, with molasses flavoring"
+   },
+   {
+    "n": "butter",
+    "note": "browned"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "egg yolk"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "unsweetened dark chocolate"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "vegetable glycerin",
+    "note": "optional, for tenderness"
+   }
+  ],
+  "steps": [
+   "Brown the butter and let it cool for 10 minutes.",
+   "Whisk in the allulose and the brown sugar substitute. It doesn't dissolve as easily as sugar: keep at it for a full 2 minutes.",
+   "Whisk in the egg, yolk, vanilla and glycerin.",
+   "Fold in the flour, baking soda and salt, then the chocolate.",
+   "Refrigerate for 12 hours. Allulose doughs spread more than sugar doughs, so this matters more here; add 2 tbsp flour if your kitchen is warm.",
+   "Bake 55 g balls at 170 °C for 13-14 minutes. The lower oven is because allulose browns about 30% faster than sucrose and would burn at 185 °C."
+  ],
+  "tips": [
+   "Sugar-free is not carb-free. Flour is still starch: this matters if you bake for diabetes rather than preference.",
+   "Allulose and sugar alcohols in quantity don't sit well with a lot of people. Two cookies, not eight.",
+   "If you use xylitol instead, keep it well away from dogs. It is seriously toxic to them even in small doses."
+  ],
+  "video": "sugar free chocolate chip cookies allulose"
+ }
+}

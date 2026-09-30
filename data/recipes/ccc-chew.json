@@ -1,0 +1,178 @@
+{
+ "id": "ccc-chew",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 800,
+ "serves": 18,
+ "ovenC": 185,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 320,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 280,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Galletas de Máxima Masticabilidad",
+  "blurb": "Todas las variables empujadas a la vez hacia lo masticable: harina de alta proteína para el gluten, solo azúcar morena para la humedad, yemas extra para la grasa y mantequilla derretida para que nada las aligere.",
+  "lab": "Harina de fuerza, solo azúcar morena, dos yemas",
+  "ing": [
+   {
+    "n": "harina de fuerza"
+   },
+   {
+    "n": "mantequilla",
+    "note": "derretida y ligeramente tostada"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro",
+    "note": "picado"
+   },
+   {
+    "n": "sal en escamas"
+   }
+  ],
+  "steps": [
+   "Derrite la mantequilla y llévala justo hasta que los sólidos tomen color dorado. Enfría 10 minutos.",
+   "Bate dentro el azúcar morena con fuerza 2 minutos, luego el huevo, las yemas y la vainilla hasta que caiga en cinta.",
+   "Incorpora la harina de fuerza, el bicarbonato y la sal. Y ahora, cosa insólita, remueve cuarenta o cincuenta veces más allá del punto habitual: aquí quieres desarrollar gluten a propósito.",
+   "Incorpora el chocolate y refrigera al menos 12 horas.",
+   "Hornea bolas de 60 g a 185 °C durante 12-13 minutos.",
+   "Sala y enfría en la bandeja."
+  ],
+  "tips": [
+   "La harina de fuerza tiene un 13% de proteína frente al 10% de la común. Ese gluten extra es masticabilidad, igual que en un bagel.",
+   "El azúcar morena es higroscópica: retiene el agua, que es lo que mantiene la miga flexible en vez de quebradiza.",
+   "Esta es la única galleta de esta página donde sobremezclar es el objetivo y no el error."
+  ],
+  "video": "galletas masticables harina de fuerza"
+ },
+ "en": {
+  "name": "Maximum-Chew Cookies",
+  "blurb": "Every variable pushed toward chewy at once: high-protein flour for gluten, only brown sugar for moisture, extra yolks for fat, and melted butter so nothing lightens them.",
+  "lab": "Bread flour, all brown sugar, two yolks",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "butter",
+    "note": "melted and lightly browned"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate",
+    "note": "chopped"
+   },
+   {
+    "n": "flaky salt"
+   }
+  ],
+  "steps": [
+   "Melt the butter and take it just until the solids turn golden. Cool 10 minutes.",
+   "Beat in the brown sugar hard for 2 minutes, then the egg, yolks and vanilla until it falls in a ribbon.",
+   "Stir in the bread flour, baking soda and salt. And now, unusually, stir forty or fifty times past the normal point: here you want to develop gluten on purpose.",
+   "Fold in the chocolate and refrigerate at least 12 hours.",
+   "Bake 60 g balls at 185 °C for 12-13 minutes.",
+   "Salt them and let them cool on the sheet."
+  ],
+  "tips": [
+   "Bread flour runs 13% protein versus 10% for all-purpose. That extra gluten is chew, just like in a bagel.",
+   "Brown sugar is hygroscopic: it holds on to water, which is what keeps the crumb pliable instead of brittle.",
+   "This is the only cookie on this page where overmixing is the goal, not the mistake."
+  ],
+  "video": "chewy chocolate chip cookies bread flour"
+ }
+}

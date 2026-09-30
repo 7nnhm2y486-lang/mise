@@ -1,0 +1,186 @@
+{
+ "id": "struffoli",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 120,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 350,
+   "u": "g",
+   "k": "honey",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "garnish"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "sugar",
+   "role": "garnish"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Struffoli",
+  "blurb": "Bolitas fritas bañadas en miel, el dulce napoletano de Navidad. La miel se calienta lo justo para fluir: hervida se vuelve amarga y se endurece como caramelo.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "mantequilla",
+    "note": "blanda"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "ralladura de naranja y limón"
+   },
+   {
+    "n": "licor de anís"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "miel"
+   },
+   {
+    "n": "fruta confitada"
+   },
+   {
+    "n": "grageas de colores"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   }
+  ],
+  "steps": [
+   "Haz una masa con la harina, los huevos, la mantequilla, el azúcar, las ralladuras, el licor y la sal. Amasa 8 minutos y reposa 1 hora.",
+   "Rueda cordones finos de 1 cm de grosor y córtalos en trozos del tamaño de un garbanzo.",
+   "Fríelos en tandas a 170 °C durante 2-3 minutos, hasta que estén dorados e hinchados. Escurre bien.",
+   "Calienta la miel a fuego muy bajo solo hasta que esté fluida. No debe hervir.",
+   "Retira del fuego y echa dentro las bolitas fritas, removiendo para que se bañen todas.",
+   "Móntalos en corona o montaña sobre una fuente y esparce la fruta confitada y las grageas mientras la miel sigue pegajosa."
+  ],
+  "tips": [
+   "La miel nunca hierve. Hervida amarga y al enfriar se vuelve un bloque duro.",
+   "Bolitas pequeñas y parejas: grandes quedan crudas por dentro.",
+   "Aguantan una semana a temperatura ambiente y de hecho mejoran al segundo día."
+  ],
+  "video": "struffoli napolitanos miel"
+ },
+ "en": {
+  "name": "Struffoli",
+  "blurb": "Fried little dough balls coated in honey, the Neapolitan Christmas sweet. The honey is warmed just enough to flow: boiled, it turns bitter and sets hard like candy.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "butter",
+    "note": "soft"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "orange and lemon zest"
+   },
+   {
+    "n": "anise liqueur"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "honey"
+   },
+   {
+    "n": "candied fruit"
+   },
+   {
+    "n": "rainbow sprinkles"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   }
+  ],
+  "steps": [
+   "Make a dough with the flour, eggs, butter, sugar, zest, liqueur and salt. Knead for 8 minutes and rest for 1 hour.",
+   "Roll into thin ropes 1 cm thick and cut them into chickpea-sized pieces.",
+   "Fry in batches at 170 °C for 2-3 minutes, until golden and puffed. Drain well.",
+   "Warm the honey over very low heat only until fluid. It must not boil.",
+   "Take off the heat and tip in the fried balls, stirring so they're all coated.",
+   "Pile them into a ring or a mound on a platter and scatter the candied fruit and sprinkles while the honey is still sticky."
+  ],
+  "tips": [
+   "The honey never boils. Boiled, it turns bitter and sets into a hard block as it cools.",
+   "Small, even balls: big ones stay raw inside.",
+   "They keep a week at room temperature and actually improve on day two."
+  ],
+  "video": "struffoli neapolitan honey balls"
+ }
+}

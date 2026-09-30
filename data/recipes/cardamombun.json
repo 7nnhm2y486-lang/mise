@@ -1,0 +1,187 @@
+{
+ "id": "cardamombun",
+ "country": "Sweden",
+ "region": "nordic",
+ "course": "pastry",
+ "time": 330,
+ "serves": 12,
+ "ovenC": 210,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 70,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 8,
+   "u": "g",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 25,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 7,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "glaze"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "sugar",
+   "role": "crunch"
+  }
+ ],
+ "es": {
+  "name": "Bollos de Cardamomo",
+  "blurb": "Cardamomo machacado de vainas enteras, no comprado molido. Los aceites volátiles del cardamomo molido desaparecen en semanas y son todo el sabor del bollo.",
+  "ing": [
+   {
+    "n": "harina de fuerza"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "levadura seca instantánea"
+   },
+   {
+    "n": "vainas de cardamomo verde",
+    "note": "semillas machacadas"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "mantequilla",
+    "note": "para el relleno"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "azúcar perlado"
+   }
+  ],
+  "steps": [
+   "Machaca las semillas de cardamomo en un mortero hasta dejarlas gruesas pero aromáticas. Usa dos tercios en la masa y un tercio en el relleno.",
+   "Haz una masa enriquecida blanda con la harina, la leche, el azúcar, la levadura, la sal, el cardamomo y la mantequilla. Amasa 8 minutos y fermenta 1 hora.",
+   "Estira a un rectángulo de 50x30 cm, unta el relleno sobre dos tercios y pliega en tres como una carta.",
+   "Vuelve a estirar a 40x25 cm y corta 12 tiras largas.",
+   "Retuerce cada tira, enróllala alrededor de dos dedos y mete el extremo por dentro: el nudo es lo que da el corte en capas.",
+   "Fermenta 60 minutos, pinta con huevo, corona con azúcar perlado y hornea a 210 °C durante 11-13 minutos."
+  ],
+  "tips": [
+   "Vainas enteras, machacadas el mismo día. Aquí no hay que economizar.",
+   "El pliegue de carta es lo que crea las capas. Un bollo simplemente enrollado es otra cosa, y menor.",
+   "Calor fuerte y horneado corto. Estos quieren color rápido, no un secado largo."
+  ],
+  "video": "kardemummabullar bollos de cardamomo"
+ },
+ "en": {
+  "name": "Cardamom Buns",
+  "blurb": "Cardamom crushed from whole pods, not bought ground. The volatile oils in ground cardamom vanish within weeks, and they are the entire flavor of the bun.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "instant dry yeast"
+   },
+   {
+    "n": "green cardamom pods",
+    "note": "seeds crushed"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "butter",
+    "note": "for the filling"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "pearl sugar"
+   }
+  ],
+  "steps": [
+   "Crush the cardamom seeds in a mortar until coarse but fragrant. Use two-thirds in the dough and one-third in the filling.",
+   "Make a soft enriched dough with the flour, milk, sugar, yeast, salt, cardamom and butter. Knead 8 minutes and let rise 1 hour.",
+   "Roll out to a 50x30 cm rectangle, spread the filling over two-thirds and fold in three like a letter.",
+   "Roll out again to 40x25 cm and cut 12 long strips.",
+   "Twist each strip, wind it around two fingers and tuck the end underneath: the knot is what gives the layered cross-section.",
+   "Proof 60 minutes, brush with egg, top with pearl sugar and bake at 210 °C for 11-13 minutes."
+  ],
+  "tips": [
+   "Whole pods, crushed the same day. This is no place to economize.",
+   "The letter fold is what creates the layers. A simply rolled bun is something else, and lesser.",
+   "High heat and a short bake. These want color fast, not a long drying-out."
+  ],
+  "video": "kardemummabullar swedish cardamom buns"
+ }
+}

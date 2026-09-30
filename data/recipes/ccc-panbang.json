@@ -1,0 +1,190 @@
+{
+ "id": "ccc-panbang",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 50,
+ "serves": 14,
+ "ovenC": 180,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 225,
+   "u": "g",
+   "k": "butter",
+   "role": "aerate"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 240,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 0.75,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Galletas de Ondas por Golpe de Bandeja",
+  "blurb": "Cada pocos minutos levantas la bandeja y la dejas caer de golpe sobre la rejilla. El centro levantado se desploma y empuja una onda hacia fuera; repetirlo construye anillos concéntricos, crujientes en el borde y crudos en el medio.",
+  "lab": "Golpeadas a media cocción · anillos crujientes, centro fundido",
+  "ing": [
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "azúcar morena clara"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "chocolate negro",
+    "note": "en discos o picado grueso"
+   }
+  ],
+  "steps": [
+   "Crema la mantequilla y los azúcares 3 minutos, luego bate el huevo, la vainilla y el agua.",
+   "Incorpora los secos y después el chocolate. Refrigera 30 minutos.",
+   "Forma bolas de 80 g, altas. Solo cuatro por bandeja: se extienden muchísimo.",
+   "Hornea a 180 °C. A los 10 minutos, levanta la bandeja un par de centímetros y déjala caer plana sobre la rejilla. El centro hinchado se desplomará.",
+   "Repite cada 2 minutos hasta completar 16-17 minutos. Cada golpe crea otro anillo.",
+   "Enfría en la bandeja. El centro debe quedar visiblemente blando."
+  ],
+  "tips": [
+   "El golpe tiene que ser seco y plano. Un toquecito suave no hace nada.",
+   "El chocolate en piezas grandes y planas da los charcos y los estratos que hacen que valga la pena mirar el corte.",
+   "Cuatro por bandeja. Apretadas se funden en una sola galleta enorme, lo cual también está bien, pero no es el objetivo."
+  ],
+  "video": "galletas golpeadas bandeja ondas"
+ },
+ "en": {
+  "name": "Pan-Banging Cookies",
+  "blurb": "Every few minutes you lift the sheet and drop it hard onto the rack. The puffed center collapses and pushes a ripple outward; repeating it builds concentric rings, crisp at the edge and gooey in the middle.",
+  "lab": "Banged mid-bake · crisp rings, molten center",
+  "ing": [
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "light brown sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "dark chocolate",
+    "note": "in discs or coarsely chopped"
+   }
+  ],
+  "steps": [
+   "Cream the butter and sugars 3 minutes, then beat in the egg, vanilla and water.",
+   "Fold in the dry ingredients and then the chocolate. Refrigerate 30 minutes.",
+   "Shape 80 g balls, tall. Only four per sheet: they spread enormously.",
+   "Bake at 180 °C. At 10 minutes, lift the sheet a couple of centimeters and drop it flat onto the rack. The puffed center will collapse.",
+   "Repeat every 2 minutes until you reach 16-17 minutes. Each bang makes another ring.",
+   "Cool on the sheet. The center should stay visibly soft."
+  ],
+  "tips": [
+   "The bang has to be sharp and flat. A gentle tap does nothing.",
+   "Chocolate in big flat pieces gives the puddles and layers that make the cross-section worth looking at.",
+   "Four per sheet. Crowded, they merge into one giant cookie, which is also fine, but not the goal."
+  ],
+  "video": "pan banging chocolate chip cookies"
+ }
+}

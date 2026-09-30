@@ -1,0 +1,178 @@
+{
+ "id": "ccc-miso",
+ "country": "Japan",
+ "region": "east-asia",
+ "course": "cookie",
+ "time": 820,
+ "serves": 18,
+ "ovenC": 185,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 50,
+   "u": "g",
+   "k": "miso",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 280,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 280,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Galletas de Miso",
+  "blurb": "El miso es fermentado, salado y lleno de glutamatos. En una galleta se lee como una profundidad intensa a caramelo y butterscotch, no como algo salado, y sustituye por completo a la sal.",
+  "lab": "Miso blanco · fondo salado, sin nota a pescado",
+  "ing": [
+   {
+    "n": "miso blanco",
+    "note": "shiro miso, el pálido y dulce"
+   },
+   {
+    "n": "mantequilla",
+    "note": "tostada"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "yema de huevo"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "chocolate negro"
+   },
+   {
+    "n": "extracto de vainilla"
+   }
+  ],
+  "steps": [
+   "Tuesta la mantequilla y enfríala 10 minutos.",
+   "Bate el miso dentro de la mantequilla tibia hasta que quede completamente liso: los grumos de miso en la galleta terminada son desagradables.",
+   "Añade los dos azúcares y bate 2 minutos, luego el huevo, la yema y la vainilla.",
+   "Incorpora la harina y el bicarbonato. No añadas sal: el miso la lleva.",
+   "Incorpora el chocolate y refrigera 12 horas.",
+   "Hornea bolas de 55 g a 185 °C durante 12 minutos."
+  ],
+  "tips": [
+   "Solo miso blanco. El rojo es demasiado agresivo y sabrá literalmente a sopa.",
+   "Disuélvelo primero en la mantequilla tibia. Es el único paso que importa técnicamente.",
+   "Sin sal añadida. El miso es alrededor de un 12% de sal y se basta."
+  ],
+  "video": "galletas de miso chocolate"
+ },
+ "en": {
+  "name": "Miso Cookies",
+  "blurb": "Miso is fermented, salty and loaded with glutamates. In a cookie it reads as a deep caramel-and-butterscotch intensity, not as savory, and it replaces the salt entirely.",
+  "lab": "White miso · salty depth, no fishy note",
+  "ing": [
+   {
+    "n": "white miso",
+    "note": "shiro miso, the pale, sweet kind"
+   },
+   {
+    "n": "butter",
+    "note": "browned"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "egg yolk"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "dark chocolate"
+   },
+   {
+    "n": "vanilla extract"
+   }
+  ],
+  "steps": [
+   "Brown the butter and cool it 10 minutes.",
+   "Whisk the miso into the warm butter until completely smooth: lumps of miso in the finished cookie are unpleasant.",
+   "Add both sugars and beat 2 minutes, then the egg, yolk and vanilla.",
+   "Fold in the flour and baking soda. Don't add salt: the miso has it.",
+   "Fold in the chocolate and refrigerate 12 hours.",
+   "Bake 55 g balls at 185 °C for 12 minutes."
+  ],
+  "tips": [
+   "White miso only. Red is too aggressive and will taste literally like soup.",
+   "Dissolve it in the warm butter first. It's the only step that matters technically.",
+   "No added salt. Miso is around 12% salt and that's enough."
+  ],
+  "video": "miso chocolate chip cookies"
+ }
+}

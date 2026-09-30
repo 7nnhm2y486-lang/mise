@@ -1,0 +1,178 @@
+{
+ "id": "ccc-oliveoil",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "cookie",
+ "time": 60,
+ "serves": 18,
+ "ovenC": 180,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Galletas de Aceite de Oliva",
+  "blurb": "El aceite de oliva es líquido a temperatura ambiente, así que no hay cremado ni grasa sólida sosteniendo la estructura. La miga es corta y arenosa, y un buen aceite picante discute con el chocolate de una manera que funciona.",
+  "lab": "Grasa líquida, sin lácteos · picantes, cortas, distintas",
+  "ing": [
+   {
+    "n": "aceite de oliva virgen extra",
+    "note": "uno herbáceo y picante"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro",
+    "note": "al 70%"
+   },
+   {
+    "n": "ralladura de naranja"
+   },
+   {
+    "n": "sal en escamas"
+   }
+  ],
+  "steps": [
+   "Bate el aceite, los dos azúcares y la ralladura de naranja 2 minutos.",
+   "Bate los huevos hasta que la mezcla espese ligeramente.",
+   "Incorpora la harina, el bicarbonato y la sal, y después el chocolate.",
+   "Reposa solo 30 minutos: no hay grasa sólida que endurecer, así que un frío largo consigue poco.",
+   "Hornea bolas de 50 g a 180 °C durante 11-12 minutos.",
+   "Sala en caliente."
+  ],
+  "tips": [
+   "Usa un aceite con el que aliñarías una ensalada. El aceite de freír da una galleta plana y grasienta.",
+   "No es posible cremar, así que son densas por diseño. No pelees contra eso.",
+   "Sin lácteos de forma natural, sin sustitución alguna, que a menudo es el camino más fácil."
+  ],
+  "video": "galletas aceite de oliva chocolate"
+ },
+ "en": {
+  "name": "Olive Oil Cookies",
+  "blurb": "Olive oil is liquid at room temperature, so there's no creaming and no solid fat holding up the structure. The crumb is short and sandy, and a good peppery oil argues with the chocolate in a way that works.",
+  "lab": "Liquid fat, no dairy · peppery, short, different",
+  "ing": [
+   {
+    "n": "extra-virgin olive oil",
+    "note": "a grassy, peppery one"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate",
+    "note": "70%"
+   },
+   {
+    "n": "orange zest"
+   },
+   {
+    "n": "flaky salt"
+   }
+  ],
+  "steps": [
+   "Beat the oil, both sugars and the orange zest for 2 minutes.",
+   "Beat in the eggs until the mixture thickens slightly.",
+   "Fold in the flour, baking soda and salt, then the chocolate.",
+   "Rest just 30 minutes: there's no solid fat to firm up, so a long chill achieves little.",
+   "Bake 50 g balls at 180 °C for 11-12 minutes.",
+   "Salt them while hot."
+  ],
+  "tips": [
+   "Use an oil you'd dress a salad with. Frying oil gives a flat, greasy cookie.",
+   "Creaming isn't possible, so they're dense by design. Don't fight it.",
+   "Naturally dairy-free with no substitution at all, which is often the easiest route."
+  ],
+  "video": "olive oil chocolate chip cookies"
+ }
+}

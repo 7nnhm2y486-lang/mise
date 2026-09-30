@@ -1,0 +1,186 @@
+{
+ "id": "satay",
+ "country": "Indonesia",
+ "region": "southeast-asia",
+ "course": "sauce",
+ "time": 30,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "peanut",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "shallot",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "stalk",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "palmsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Salsa de Cacahuate para Satay",
+  "blurb": "No es mantequilla de cacahuate aguada. Los cacahuates se fríen y se muelen, y la pasta de especias se sofríe aparte hasta que suelta el aceite.",
+  "ing": [
+   {
+    "n": "cacahuates",
+    "note": "crudos"
+   },
+   {
+    "n": "chalota"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "chiles rojos secos",
+    "note": "remojados"
+   },
+   {
+    "n": "citronela"
+   },
+   {
+    "n": "azúcar de palma"
+   },
+   {
+    "n": "tamarindo"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "kecap manis"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Fríe los cacahuates crudos en aceite hasta que estén dorados, escúrrelos y muélelos en un procesador dejando textura.",
+   "Tritura las chalotas, el ajo, los chiles y la citronela hasta obtener una pasta.",
+   "Fríe la pasta en el aceite 10 minutos, hasta que oscurezca y el aceite se separe en los bordes.",
+   "Añade los cacahuates molidos y remueve 2 minutos.",
+   "Incorpora la leche de coco, el azúcar de palma, el tamarindo y el kecap manis, y cocina 10 minutos.",
+   "Ajusta el espesor con agua caliente: debe napar una cuchara. Rectifica de sal y tamarindo."
+  ],
+  "tips": [
+   "Fríe los cacahuates tú. Los tostados de bolsa dan una salsa plana.",
+   "Sofríe la pasta hasta que se separe el aceite, igual que en un curry.",
+   "Espesa al enfriar. Guarda agua caliente para aflojarla al servir."
+  ],
+  "video": "salsa satay de cacahuate"
+ },
+ "en": {
+  "name": "Satay Peanut Sauce",
+  "blurb": "It isn't watered-down peanut butter. The peanuts are fried and ground, and the spice paste is fried separately until it releases its oil.",
+  "ing": [
+   {
+    "n": "peanuts",
+    "note": "raw"
+   },
+   {
+    "n": "shallots"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "dried red chiles",
+    "note": "soaked"
+   },
+   {
+    "n": "lemongrass"
+   },
+   {
+    "n": "palm sugar"
+   },
+   {
+    "n": "tamarind"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "kecap manis"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Fry the raw peanuts in oil until golden, drain them and grind them in a food processor, leaving some texture.",
+   "Blend the shallots, garlic, chiles and lemongrass into a paste.",
+   "Fry the paste in the oil for 10 minutes, until it darkens and the oil separates at the edges.",
+   "Add the ground peanuts and stir for 2 minutes.",
+   "Stir in the coconut milk, palm sugar, tamarind and kecap manis, and cook 10 minutes.",
+   "Adjust the thickness with hot water: it should coat a spoon. Adjust the salt and tamarind."
+  ],
+  "tips": [
+   "Fry the peanuts yourself. Bagged roasted ones make a flat sauce.",
+   "Fry the paste until the oil separates, just like a curry.",
+   "It thickens as it cools. Keep hot water on hand to loosen it for serving."
+  ],
+  "video": "peanut satay sauce"
+ }
+}

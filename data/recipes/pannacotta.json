@@ -1,0 +1,136 @@
+{
+ "id": "pannacotta",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 300,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "cream",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 4,
+   "u": "g",
+   "k": "gelatin",
+   "role": "set"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "strip",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Panna Cotta",
+  "blurb": "La medida de una buena es que apenas se sostenga. Casi todas las recetas usan el doble de gelatina de la necesaria, y eso da algo más parecido a una gelatina.",
+  "ing": [
+   {
+    "n": "crema espesa"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "gelatina en hojas",
+    "note": "unas 2 hojas"
+   },
+   {
+    "n": "vaina de vainilla"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "cáscara de limón"
+   }
+  ],
+  "steps": [
+   "Hidrata las hojas de gelatina en agua fría 5 minutos hasta que estén flácidas.",
+   "Calienta la crema, la leche, el azúcar, la vainilla, la cáscara y la sal hasta unos 80 °C: humeante, sin hervir. Hervir debilita la gelatina.",
+   "Retira del fuego, escurre la gelatina y bátela dentro hasta disolverla por completo.",
+   "Infusiona 15 minutos y cuela.",
+   "Enfría a temperatura ambiente removiendo de vez en cuando, para que las semillas de vainilla queden suspendidas en vez de hundirse.",
+   "Vierte en moldes y refrigera al menos 4 horas. Para desmoldar, sumerge un instante en agua caliente."
+  ],
+  "tips": [
+   "4 g de gelatina por 650 ml es deliberadamente poco. Debe temblar de forma alarmante.",
+   "Nunca hiervas después de añadir la gelatina. Por encima de 85 °C pierde poder de cuajado.",
+   "Enfriarla antes de verter evita que la vainilla se asiente en una capa en el fondo."
+  ],
+  "video": "panna cotta temblorosa"
+ },
+ "en": {
+  "name": "Panna Cotta",
+  "blurb": "The mark of a good one is that it barely holds together. Almost every recipe uses twice the gelatin it needs, and that gives you something closer to Jell-O.",
+  "ing": [
+   {
+    "n": "heavy cream"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "sheet gelatin",
+    "note": "about 2 sheets"
+   },
+   {
+    "n": "vanilla bean"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "lemon peel"
+   }
+  ],
+  "steps": [
+   "Soak the gelatin sheets in cold water for 5 minutes until floppy.",
+   "Heat the cream, milk, sugar, vanilla, peel and salt to about 80 °C: steaming, not boiling. Boiling weakens the gelatin.",
+   "Take off the heat, squeeze out the gelatin and whisk it in until completely dissolved.",
+   "Infuse for 15 minutes and strain.",
+   "Cool to room temperature, stirring now and then, so the vanilla seeds stay suspended instead of sinking.",
+   "Pour into molds and chill for at least 4 hours. To unmold, dip briefly in hot water."
+  ],
+  "tips": [
+   "4 g of gelatin per 650 ml is deliberately low. It should wobble alarmingly.",
+   "Never boil after adding the gelatin. Above 85 °C it loses setting power.",
+   "Cooling it before pouring keeps the vanilla from settling into a layer at the bottom."
+  ],
+  "video": "wobbly panna cotta"
+ }
+}

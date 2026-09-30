@@ -1,0 +1,200 @@
+{
+ "id": "tteokbokki",
+ "country": "Korea",
+ "region": "east-asia",
+ "course": "main",
+ "time": 30,
+ "serves": 3,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "gochujang",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "gochugaru",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "dashi",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sesameoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sesameseed",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Tteokbokki",
+  "blurb": "Pastelitos de arroz cocidos en gochujang hasta que la salsa reduce y se pega. Remojarlos antes evita que queden duros por dentro.",
+  "ing": [
+   {
+    "n": "pastelitos de arroz",
+    "note": "remojados 20 min si no son frescos"
+   },
+   {
+    "n": "gochujang"
+   },
+   {
+    "n": "gochugaru"
+   },
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "caldo de anchoa"
+   },
+   {
+    "n": "pastel de pescado",
+    "note": "en tiras"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "huevos",
+    "note": "cocidos"
+   },
+   {
+    "n": "aceite de sésamo"
+   },
+   {
+    "n": "semillas de sésamo"
+   }
+  ],
+  "steps": [
+   "Remoja los pastelitos en agua tibia 20 minutos y escúrrelos.",
+   "Lleva el caldo a hervor con el gochujang, el gochugaru, la soja, el azúcar y el ajo, batiendo hasta alisar.",
+   "Añade los pastelitos y cuece 10 minutos, removiendo a menudo para que no se peguen.",
+   "Añade el pastel de pescado y cocina 5 minutos más.",
+   "Sigue reduciendo hasta que la salsa cubra los pastelitos en vez de encharcarlos: debe quedar brillante, no caldosa.",
+   "Añade el cebollín y los huevos cocidos, rocía aceite de sésamo y esparce semillas."
+  ],
+  "tips": [
+   "Remójalos, o el exterior se vuelve gomoso mientras el centro sigue calcáreo.",
+   "Reduce bien. La salsa espesa con el propio almidón de los pastelitos.",
+   "Se endurece por completo al enfriar. Cómelo directamente de la sartén."
+  ],
+  "video": "tteokbokki"
+ },
+ "en": {
+  "name": "Tteokbokki",
+  "blurb": "Rice cakes simmered in gochujang until the sauce reduces and clings. Soaking them first keeps them from staying hard in the middle.",
+  "ing": [
+   {
+    "n": "rice cakes",
+    "note": "soaked 20 min if not fresh"
+   },
+   {
+    "n": "gochujang"
+   },
+   {
+    "n": "gochugaru"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "anchovy broth"
+   },
+   {
+    "n": "fish cakes",
+    "note": "in strips"
+   },
+   {
+    "n": "scallions"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "eggs",
+    "note": "hard-boiled"
+   },
+   {
+    "n": "sesame oil"
+   },
+   {
+    "n": "sesame seeds"
+   }
+  ],
+  "steps": [
+   "Soak the rice cakes in warm water for 20 minutes and drain.",
+   "Bring the broth to a boil with the gochujang, gochugaru, soy sauce, sugar and garlic, whisking until smooth.",
+   "Add the rice cakes and simmer 10 minutes, stirring often so they don't stick.",
+   "Add the fish cakes and cook 5 minutes more.",
+   "Keep reducing until the sauce coats the rice cakes instead of pooling around them: it should be glossy, not soupy.",
+   "Add the scallions and hard-boiled eggs, drizzle with sesame oil and scatter the seeds."
+  ],
+  "tips": [
+   "Soak them, or the outside turns gummy while the center stays chalky.",
+   "Reduce it well. The sauce thickens with the rice cakes' own starch.",
+   "It hardens completely as it cools. Eat it straight from the pan."
+  ],
+  "video": "tteokbokki"
+ }
+}

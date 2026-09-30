@@ -1,0 +1,222 @@
+{
+ "id": "chana",
+ "country": "India",
+ "region": "south-asia",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 2,
+   "u": "can",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 25,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "ghee",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Chana Masala",
+  "blurb": "El masala de cebolla y tomate tiene que cocinarse hasta que el aceite se separe. Todo lo demás es una variación sobre esa única regla.",
+  "ing": [
+   {
+    "n": "garbanzos",
+    "note": "o 250 g secos, cocidos"
+   },
+   {
+    "n": "cebolla",
+    "note": "muy picada"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "jengibre"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "semilla de comino"
+   },
+   {
+    "n": "cilantro molido"
+   },
+   {
+    "n": "cúrcuma"
+   },
+   {
+    "n": "amchur o limón"
+   },
+   {
+    "n": "mezcla chana masala"
+   },
+   {
+    "n": "aceite o ghee"
+   },
+   {
+    "n": "chile verde"
+   },
+   {
+    "n": "hojas de cilantro"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Abre la semilla de comino en la grasa caliente hasta que chisporrotee y oscurezca, unos 20 segundos.",
+   "Añade las cebollas y fríelas 12-15 minutos hasta que estén realmente doradas, no solo tiernas. De ahí sale el dulzor.",
+   "Añade el jengibre, el ajo y el chile verde, y fríe 2 minutos.",
+   "Añade las especias molidas, remueve 30 segundos y añade los jitomates. Cocina 12-15 minutos hasta que la mezcla se despegue de la sartén y el aceite aflore por los bordes.",
+   "Añade los garbanzos con un poco de su líquido. Cocina 15 minutos, machacando una cucharada contra el borde para espesar la salsa.",
+   "Termina con amchur, chana masala y hojas de cilantro."
+  ],
+  "tips": [
+   "Machacar unos cuantos garbanzos espesa la salsa sin harina ni crema.",
+   "Si sabe crudo y áspero, al masala le faltó tiempo. No hay atajo.",
+   "Una pizca de bicarbonato en el agua de cocción da garbanzos más tiernos y una salsa más suave."
+  ],
+  "video": "chana masala punjabi"
+ },
+ "en": {
+  "name": "Chana Masala",
+  "blurb": "The onion-tomato masala has to cook until the oil separates. Everything else is a variation on that one rule.",
+  "ing": [
+   {
+    "n": "chickpeas",
+    "note": "or 250 g dried, cooked"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "ginger"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "cumin seed"
+   },
+   {
+    "n": "ground coriander"
+   },
+   {
+    "n": "turmeric"
+   },
+   {
+    "n": "amchur or lemon"
+   },
+   {
+    "n": "chana masala spice blend"
+   },
+   {
+    "n": "oil or ghee"
+   },
+   {
+    "n": "green chile"
+   },
+   {
+    "n": "cilantro leaves"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Bloom the cumin seed in the hot fat until it crackles and darkens, about 20 seconds.",
+   "Add the onions and fry 12-15 minutes until properly browned, not just soft. That's where the sweetness comes from.",
+   "Add the ginger, garlic and green chile and fry 2 minutes.",
+   "Add the ground spices, stir 30 seconds and add the tomatoes. Cook 12-15 minutes until the mixture pulls away from the pan and oil pools at the edges.",
+   "Add the chickpeas with a little of their liquid. Cook 15 minutes, mashing a spoonful against the side to thicken the sauce.",
+   "Finish with the amchur, chana masala and cilantro leaves."
+  ],
+  "tips": [
+   "Mashing a few chickpeas thickens the sauce without flour or cream.",
+   "If it tastes raw and harsh, the masala needed more time. There's no shortcut.",
+   "A pinch of baking soda in the cooking water gives more tender chickpeas and a smoother sauce."
+  ],
+  "video": "punjabi chana masala"
+ }
+}

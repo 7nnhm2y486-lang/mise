@@ -1,0 +1,178 @@
+{
+ "id": "ccc-sourdough",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 840,
+ "serves": 20,
+ "ovenC": 185,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "apflour",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "butter",
+   "role": "aerate"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 280,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 280,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Galletas de Masa Madre de Descarte",
+  "blurb": "El descarte aporta acidez y actividad enzimática. El ácido reacciona con el bicarbonato para dar levado extra, y el punto ácido corta el dulzor como ninguna otra cosa.",
+  "lab": "Fermento · ácidas, complejas, aprovechan el descarte",
+  "ing": [
+   {
+    "n": "descarte de masa madre",
+    "note": "sin alimentar, directo del refrigerador"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro"
+   }
+  ],
+  "steps": [
+   "Crema la mantequilla y los azúcares 3 minutos, luego bate el huevo, la vainilla y el descarte. Parecerá cortado un momento y luego se unirá.",
+   "Incorpora la harina, el bicarbonato y la sal, y después el chocolate.",
+   "Reposa de 12 a 24 horas en el refrigerador. El fermento sigue trabajando y la acidez crece de forma notable en ese tiempo.",
+   "Hornea bolas de 55 g a 185 °C durante 11-12 minutos.",
+   "El ácido del fermento reacciona con el bicarbonato, así que espera algo más de extensión y más dorado de lo habitual.",
+   "Enfría en la bandeja."
+  ],
+  "tips": [
+   "Usa descarte, no masa madre activa. La activa está llena de gas que no quieres y las hincha.",
+   "Cuanto más reposa, más ácidas. Veinticuatro horas es pronunciado; doce es sutil.",
+   "Este es sinceramente el mejor uso que existe para el descarte."
+  ],
+  "video": "galletas masa madre descarte chispas"
+ },
+ "en": {
+  "name": "Sourdough Discard Cookies",
+  "blurb": "Discard brings acidity and enzyme activity. The acid reacts with the baking soda for extra lift, and the sour edge cuts sweetness like nothing else.",
+  "lab": "Ferment · tangy, complex, uses up discard",
+  "ing": [
+   {
+    "n": "sourdough discard",
+    "note": "unfed, straight from the refrigerator"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate"
+   }
+  ],
+  "steps": [
+   "Cream the butter and sugars 3 minutes, then beat in the egg, vanilla and discard. It will look curdled for a moment and then come together.",
+   "Fold in the flour, baking soda and salt, then the chocolate.",
+   "Rest 12 to 24 hours in the refrigerator. The ferment keeps working, and the tang builds noticeably in that time.",
+   "Bake 55 g balls at 185 °C for 11-12 minutes.",
+   "The acid in the ferment reacts with the baking soda, so expect a bit more spread and more browning than usual.",
+   "Cool on the sheet."
+  ],
+  "tips": [
+   "Use discard, not active starter. Active starter is full of gas you don't want, and it puffs them up.",
+   "The longer they rest, the tangier. Twenty-four hours is pronounced; twelve is subtle.",
+   "This is honestly the best use there is for discard."
+  ],
+  "video": "sourdough discard chocolate chip cookies"
+ }
+}

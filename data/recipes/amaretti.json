@@ -1,0 +1,137 @@
+{
+ "id": "amaretti",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "cookie",
+ "time": 90,
+ "serves": 24,
+ "ovenC": 160,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "almondflour",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "eggwhite",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Amaretti Morbidi",
+  "blurb": "Almendra, clara y azúcar, sin harina ni grasa. Naturalmente sin gluten, y el agrietado de la superficie viene de rebozarlas en azúcar glas justo antes de hornear.",
+  "ing": [
+   {
+    "n": "almendra molida"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "claras de huevo"
+   },
+   {
+    "n": "extracto de almendra amarga"
+   },
+   {
+    "n": "ralladura de limón"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "azúcar glas",
+    "note": "para rebozar"
+   }
+  ],
+  "steps": [
+   "Mezcla la almendra molida con el azúcar, la sal y la ralladura.",
+   "Monta las claras a picos suaves, no firmes.",
+   "Incorpóralas a la almendra junto con el extracto, plegando hasta obtener una masa pegajosa y densa.",
+   "Refrigera 30 minutos para poder manejarla.",
+   "Forma bolas del tamaño de una nuez con las manos húmedas y rebózalas generosamente en azúcar glas.",
+   "Colócalas separadas y hornea a 160 °C durante 18-20 minutos. Deben quedar agrietadas por fuera y blandas dentro. Enfría antes de mover."
+  ],
+  "tips": [
+   "El azúcar glas de fuera es lo que crea las grietas al expandirse la galleta.",
+   "Claras a picos suaves, no firmes: firmes dan una galleta seca y hueca.",
+   "Mejoran al segundo día en una lata. El interior se vuelve más húmedo."
+  ],
+  "video": "amaretti morbidi italianos"
+ },
+ "en": {
+  "name": "Amaretti Morbidi",
+  "blurb": "Almond, egg white and sugar, no flour or fat. Naturally gluten-free, and the crackled surface comes from rolling them in powdered sugar just before baking.",
+  "ing": [
+   {
+    "n": "almond flour"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg whites"
+   },
+   {
+    "n": "bitter almond extract"
+   },
+   {
+    "n": "lemon zest"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "powdered sugar",
+    "note": "for rolling"
+   }
+  ],
+  "steps": [
+   "Mix the almond flour with the sugar, salt and zest.",
+   "Whip the whites to soft peaks, not stiff.",
+   "Fold them into the almond with the extract until you have a sticky, dense dough.",
+   "Refrigerate 30 minutes so it's workable.",
+   "With wet hands, shape walnut-sized balls and roll them generously in powdered sugar.",
+   "Space them out and bake at 160 °C for 18-20 minutes. They should be cracked outside and soft inside. Cool before moving."
+  ],
+  "tips": [
+   "The powdered sugar coating is what creates the cracks as the cookie expands.",
+   "Whites to soft peaks, not stiff: stiff peaks give a dry, hollow cookie.",
+   "They improve on the second day in a tin. The inside gets moister."
+  ],
+  "video": "italian amaretti morbidi"
+ }
+}

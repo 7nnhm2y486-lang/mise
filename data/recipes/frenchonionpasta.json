@@ -1,0 +1,187 @@
+{
+ "id": "frenchonionpasta",
+ "country": "United States",
+ "region": "north-america",
+ "course": "main",
+ "time": 110,
+ "serves": 4,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "acid"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "gruyere",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 6,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pasta de Cebolla Caramelizada",
+  "blurb": "Una sopa de cebolla convertida en salsa de pasta. Requiere la misma hora de caramelización que la sopa, y la mayoría de las versiones virales mienten sobre eso.",
+  "ing": [
+   {
+    "n": "cebolla",
+    "note": "en juliana fina"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "vino blanco seco"
+   },
+   {
+    "n": "caldo de res"
+   },
+   {
+    "n": "pasta corta"
+   },
+   {
+    "n": "gruyer",
+    "note": "rallado"
+   },
+   {
+    "n": "parmesano"
+   },
+   {
+    "n": "tomillo"
+   },
+   {
+    "n": "vinagre de jerez"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cocina las cebollas en mantequilla y aceite a fuego medio-bajo con una pizca de sal durante 50-60 minutos, raspando el fondo cada pocos minutos. No hay atajo: esto es la salsa.",
+   "Añade el tomillo y desglasa con el vino, reduciendo casi a seco.",
+   "Añade el caldo y cocina 15 minutos hasta que espese y se concentre.",
+   "Cuece la pasta dos minutos menos de lo indicado y reserva una taza del agua.",
+   "Pasa la pasta a la sartén con medio cucharón de agua y mezcla hasta que la cebolla la envuelva.",
+   "Fuera del fuego, incorpora el gruyer y el parmesano poco a poco, y termina con el vinagre de jerez."
+  ],
+  "tips": [
+   "Una hora de cebolla. Si alguien te dice que se hace en quince minutos, está describiendo cebolla sudada.",
+   "El vinagre de jerez al final es lo que evita que el plato resulte empalagoso.",
+   "El gruyer fuera del fuego y poco a poco, o se agarrota en hebras."
+  ],
+  "video": "pasta cebolla caramelizada gruyer"
+ },
+ "en": {
+  "name": "French Onion Pasta",
+  "blurb": "French onion soup turned into a pasta sauce. It takes the same hour of caramelizing as the soup, and most viral versions lie about that.",
+  "ing": [
+   {
+    "n": "onions",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "dry white wine"
+   },
+   {
+    "n": "beef stock"
+   },
+   {
+    "n": "short pasta"
+   },
+   {
+    "n": "Gruyère",
+    "note": "grated"
+   },
+   {
+    "n": "Parmesan"
+   },
+   {
+    "n": "thyme"
+   },
+   {
+    "n": "sherry vinegar"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onions in the butter and oil over medium-low heat with a pinch of salt for 50-60 minutes, scraping the bottom every few minutes. There is no shortcut: this is the sauce.",
+   "Add the thyme and deglaze with the wine, reducing almost to dry.",
+   "Add the stock and cook 15 minutes until thickened and concentrated.",
+   "Cook the pasta two minutes short of the package time and save a cup of the water.",
+   "Move the pasta into the pan with half a ladle of water and toss until the onions coat it.",
+   "Off the heat, stir in the Gruyère and Parmesan a little at a time, and finish with the sherry vinegar."
+  ],
+  "tips": [
+   "An hour of onions. Anyone who tells you it takes fifteen minutes is describing sweated onions.",
+   "The sherry vinegar at the end is what keeps the dish from being cloying.",
+   "Gruyère off the heat and a little at a time, or it seizes into strings."
+  ],
+  "video": "French onion pasta caramelized onions gruyere"
+ }
+}

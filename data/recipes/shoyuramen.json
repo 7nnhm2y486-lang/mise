@@ -1,0 +1,228 @@
+{
+ "id": "shoyuramen",
+ "country": "Japan",
+ "region": "east-asia",
+ "course": "soup",
+ "time": 200,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 15,
+   "u": "g",
+   "k": "",
+   "role": "umami"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "umami"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "mirin",
+   "role": "sweet"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "sake",
+   "role": "acid"
+  },
+  {
+   "q": 4,
+   "u": "portion",
+   "k": "ramennoodles",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "sesameoil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "leaf",
+   "k": "",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Ramen Shoyu",
+  "blurb": "Tres componentes construidos por separado: el tare para la sal, el caldo para el cuerpo, el aceite aromático para la nota alta. Entiende esa división y puedes construir cualquier bol.",
+  "ing": [
+   {
+    "n": "carcasas de pollo"
+   },
+   {
+    "n": "manita de cerdo",
+    "note": "opcional, para cuerpo"
+   },
+   {
+    "n": "kombu"
+   },
+   {
+    "n": "shiitake seco"
+   },
+   {
+    "n": "salsa de soja",
+    "note": "para el tare"
+   },
+   {
+    "n": "mirin"
+   },
+   {
+    "n": "sake"
+   },
+   {
+    "n": "fideos de ramen"
+   },
+   {
+    "n": "chashu de panza de cerdo",
+    "note": "enrollada y braseada"
+   },
+   {
+    "n": "huevos",
+    "note": "de 6,5 minutos, marinados"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "grasa de pollo o aceite de sésamo",
+    "note": "infusionada con ajo"
+   },
+   {
+    "n": "nori"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Blanquea los huesos 10 minutos, enjuágalos y cuécelos en agua limpia con la manita 3 horas al hervor más leve. Cuela.",
+   "Remoja el kombu y el shiitake en 400 ml de agua fría 30 minutos, calienta a 60 °C, mantén 20 minutos y cuela. No hiervas el kombu: se vuelve baboso y amargo.",
+   "Para el tare, calienta la soja, el mirin y el sake hasta evaporar el alcohol. Esto lleva toda la sal del bol.",
+   "Une el caldo y el dashi. Sazona la olla solo ligeramente; el tare hace el trabajo en el bol.",
+   "Cuece los fideos al segundo exacto que indique el paquete, ni uno más, y escúrrelos con fuerza.",
+   "Monta cada bol: 2-3 cda de tare, una cucharada de aceite aromático, 350 ml de caldo muy caliente, luego los fideos y los complementos."
+  ],
+  "tips": [
+   "El tare en el bol, no en la olla. Así un mismo caldo sirve para shoyu, shio y miso.",
+   "El kombu no hierve nunca. 60 °C durante veinte minutos extrae los glutamatos limpiamente.",
+   "Todo debe estar ardiendo: boles calientes, caldo hirviendo. El ramen se enfría en noventa segundos."
+  ],
+  "video": "ramen shoyu tare caldo"
+ },
+ "en": {
+  "name": "Shoyu Ramen",
+  "blurb": "Three components built separately: the tare for salt, the broth for body, the aromatic oil for the top note. Understand that division and you can build any bowl.",
+  "ing": [
+   {
+    "n": "chicken carcasses"
+   },
+   {
+    "n": "pig's trotter",
+    "note": "optional, for body"
+   },
+   {
+    "n": "kombu"
+   },
+   {
+    "n": "dried shiitake"
+   },
+   {
+    "n": "soy sauce",
+    "note": "for the tare"
+   },
+   {
+    "n": "mirin"
+   },
+   {
+    "n": "sake"
+   },
+   {
+    "n": "ramen noodles"
+   },
+   {
+    "n": "pork belly chashu",
+    "note": "rolled and braised"
+   },
+   {
+    "n": "eggs",
+    "note": "6.5-minute, marinated"
+   },
+   {
+    "n": "scallions"
+   },
+   {
+    "n": "chicken fat or sesame oil",
+    "note": "infused with garlic"
+   },
+   {
+    "n": "nori"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Blanch the bones for 10 minutes, rinse them and simmer in fresh water with the trotter for 3 hours at the gentlest simmer. Strain.",
+   "Soak the kombu and shiitake in 400 ml of cold water for 30 minutes, heat to 60 °C, hold for 20 minutes and strain. Don't boil the kombu: it turns slimy and bitter.",
+   "For the tare, heat the soy sauce, mirin and sake until the alcohol cooks off. This carries all the salt in the bowl.",
+   "Combine the broth and the dashi. Season the pot only lightly; the tare does the work in the bowl.",
+   "Cook the noodles to the exact second on the package, not one more, and drain them hard.",
+   "Build each bowl: 2-3 tbsp tare, a spoonful of aromatic oil, 350 ml of piping-hot broth, then the noodles and toppings."
+  ],
+  "tips": [
+   "Tare in the bowl, not the pot. That way one broth works for shoyu, shio and miso.",
+   "Kombu never boils. 60 °C for twenty minutes extracts the glutamates cleanly.",
+   "Everything must be scalding: hot bowls, boiling broth. Ramen goes cold in ninety seconds."
+  ],
+  "video": "shoyu ramen tare broth"
+ }
+}

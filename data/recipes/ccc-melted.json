@@ -1,0 +1,192 @@
+{
+ "id": "ccc-melted",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 30,
+ "serves": 16,
+ "ovenC": 180,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 170,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 0.75,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 0.75,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Galletas de un Bol con Mantequilla Derretida",
+  "blurb": "Sin batidora, sin refrigerar, sin cremar. La mantequilla derretida recubre la harina de grasa antes de que llegue el agua, lo que limita el gluten y da una miga densa y fundente en vez de esponjosa.",
+  "lab": "Mantequilla derretida · densas, masticables, 25 minutos",
+  "ing": [
+   {
+    "n": "mantequilla",
+    "note": "derretida y algo enfriada"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "yema de huevo"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro",
+    "note": "picado"
+   },
+   {
+    "n": "sal en escamas",
+    "note": "para terminar"
+   }
+  ],
+  "steps": [
+   "Derrite la mantequilla y déjala enfriar 5 minutos: la mantequilla ardiendo cocería el huevo.",
+   "Bate dentro los dos azúcares con energía durante un minuto. La mezcla parecerá arena mojada y luego se volverá brillante.",
+   "Bate el huevo, la yema y la vainilla 30 segundos, hasta que espese y aclare ligeramente.",
+   "Incorpora con espátula la harina, el bicarbonato y la sal, y después el chocolate.",
+   "Forma montículos de 50 g. Hornea a 180 °C durante 11-12 minutos.",
+   "Sala en caliente y enfría en la bandeja."
+  ],
+  "tips": [
+   "Sin cremado no hay aire batido, y por eso son densas en vez de esponjosas.",
+   "La yema extra añade grasa y emulsionante sin el agua que traería otra clara: eso es la untuosidad.",
+   "Estas son las galletas para cuando quieres galletas en media hora y no tenías plan."
+  ],
+  "video": "galletas mantequilla derretida un bol"
+ },
+ "en": {
+  "name": "One-Bowl Melted Butter Cookies",
+  "blurb": "No mixer, no chilling, no creaming. Melted butter coats the flour in fat before the water arrives, which limits gluten and gives a dense, fudgy crumb instead of a fluffy one.",
+  "lab": "Melted butter · dense, chewy, 25 minutes",
+  "ing": [
+   {
+    "n": "butter",
+    "note": "melted and slightly cooled"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "egg yolk"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate",
+    "note": "chopped"
+   },
+   {
+    "n": "flaky salt",
+    "note": "to finish"
+   }
+  ],
+  "steps": [
+   "Melt the butter and let it cool 5 minutes: piping-hot butter would cook the egg.",
+   "Beat in both sugars vigorously for a minute. The mixture will look like wet sand and then turn glossy.",
+   "Beat in the egg, yolk and vanilla for 30 seconds, until it thickens and lightens slightly.",
+   "Fold in the flour, baking soda and salt with a spatula, then the chocolate.",
+   "Scoop 50 g mounds. Bake at 180 °C for 11-12 minutes.",
+   "Salt them while hot and cool on the sheet."
+  ],
+  "tips": [
+   "No creaming means no beaten-in air, which is why they're dense instead of fluffy.",
+   "The extra yolk adds fat and emulsifier without the water another white would bring: that's the fudginess.",
+   "These are the cookies for when you want cookies in half an hour and had no plan."
+  ],
+  "video": "one bowl melted butter chocolate chip cookies"
+ }
+}

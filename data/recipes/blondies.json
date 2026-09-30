@@ -1,0 +1,175 @@
+{
+ "id": "blondies",
+ "country": "United States",
+ "region": "north-america",
+ "course": "sweet",
+ "time": 70,
+ "serves": 16,
+ "ovenC": 175,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 220,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "whitechocolate",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "pecan",
+   "role": "crunch"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Blondies",
+  "blurb": "Un brownie sin cacao, lo que obliga al azúcar morena y a la mantequilla tostada a sostenerlo todo. Quedarse corto de horno importa aún más aquí que en los brownies.",
+  "ing": [
+   {
+    "n": "mantequilla",
+    "note": "tostada"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "yema de huevo"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "chocolate blanco"
+   },
+   {
+    "n": "nueces pecanas",
+    "note": "tostadas"
+   },
+   {
+    "n": "sal en escamas"
+   }
+  ],
+  "steps": [
+   "Tuesta la mantequilla hasta que esté oscura y aromática, y enfríala 10 minutos.",
+   "Bate dentro el azúcar morena 2 minutos, luego los huevos, la yema y la vainilla hasta que brille.",
+   "Incorpora la harina y la sal, y después el chocolate blanco y las pecanas.",
+   "Extiende en un molde cuadrado forrado de 20 cm.",
+   "Hornea a 175 °C durante 22-25 minutos. Los bordes deben estar cuajados y el centro blando y algo hundido.",
+   "Sala y enfría por completo en el molde, al menos 2 horas."
+  ],
+  "tips": [
+   "Tuesta bien la mantequilla. Sin cacao no hay nada más que aporte profundidad.",
+   "Se ven crudos en el momento correcto. Confía.",
+   "Todo azúcar morena, nada de blanca. La melaza hace el trabajo."
+  ],
+  "video": "blondies mantequilla tostada"
+ },
+ "en": {
+  "name": "Blondies",
+  "blurb": "A brownie without cocoa, which forces the brown sugar and browned butter to carry everything. Underbaking matters even more here than in brownies.",
+  "ing": [
+   {
+    "n": "butter",
+    "note": "browned"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "egg yolk"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "white chocolate"
+   },
+   {
+    "n": "pecans",
+    "note": "toasted"
+   },
+   {
+    "n": "flaky salt"
+   }
+  ],
+  "steps": [
+   "Brown the butter until dark and fragrant, and cool it for 10 minutes.",
+   "Beat in the brown sugar for 2 minutes, then the eggs, yolk and vanilla until glossy.",
+   "Fold in the flour and salt, then the white chocolate and pecans.",
+   "Spread in a lined 20 cm square pan.",
+   "Bake at 175 °C for 22-25 minutes. The edges should be set and the center soft and slightly sunken.",
+   "Sprinkle with flaky salt and cool completely in the pan, at least 2 hours."
+  ],
+  "tips": [
+   "Brown the butter well. Without cocoa, nothing else brings depth.",
+   "They look raw at exactly the right moment. Trust it.",
+   "All brown sugar, no white. The molasses does the work."
+  ],
+  "video": "brown butter blondies"
+ }
+}

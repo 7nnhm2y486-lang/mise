@@ -1,0 +1,214 @@
+{
+ "id": "makhani",
+ "country": "India",
+ "region": "south-asia",
+ "course": "main",
+ "time": 90,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "yogurt",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "cream",
+   "role": "fat"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "cashew",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "honey",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Murgh Makhani",
+  "blurb": "Dos etapas de cocción, como en las cocinas de restaurante de donde viene: el pollo se tuesta aparte, la salsa se cuece y se cuela, y se juntan solo al final.",
+  "ing": [
+   {
+    "n": "muslos de pollo",
+    "note": "sin hueso, en trozos grandes"
+   },
+   {
+    "n": "yogur"
+   },
+   {
+    "n": "pasta de jengibre y ajo"
+   },
+   {
+    "n": "chile cachemir en polvo"
+   },
+   {
+    "n": "garam masala"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "jitomates",
+    "note": "de lata o frescos, troceados"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "crema espesa"
+   },
+   {
+    "n": "anacardos",
+    "note": "remojados"
+   },
+   {
+    "n": "kasuri methi",
+    "note": "frotado entre las palmas"
+   },
+   {
+    "n": "miel"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Marina el pollo con el yogur, la mitad del jengibre y ajo, el chile, el limón y la sal al menos 4 horas.",
+   "Asa el pollo al grill o séllalo en sartén a fuego fuerte hasta que esté tostado en los bordes y apenas cocido. Reserva con sus jugos.",
+   "Para la salsa, cuece los jitomates, el resto del jengibre y ajo, los anacardos y un poco de agua 25 minutos.",
+   "Tritura hasta que quede completamente liso y pásalo por un colador. Colar es lo que separa un makhani sedoso de uno rústico.",
+   "Devuelve a la olla con la mantequilla, la crema, la miel y el garam masala. Cocina 10 minutos hasta que brille y se pegue a la cuchara.",
+   "Añade el pollo con sus jugos, machaca el kasuri methi por encima y cocina 5 minutos más."
+  ],
+  "tips": [
+   "Tuesta el pollo aparte. Escalfarlo en la salsa da un plato distinto y mucho más plano.",
+   "El chile cachemir es para el color, no para el picor. El chile común lo dejará rojo y doloroso.",
+   "El kasuri methi es ese sabor que nadie identifica y todos echan de menos cuando falta."
+  ],
+  "video": "pollo a la mantequilla estilo restaurante"
+ },
+ "en": {
+  "name": "Murgh Makhani",
+  "blurb": "Two stages of cooking, like the restaurant kitchens it comes from: the chicken is charred separately, the sauce is simmered and strained, and they only meet at the end.",
+  "ing": [
+   {
+    "n": "chicken thighs",
+    "note": "boneless, in large pieces"
+   },
+   {
+    "n": "yogurt"
+   },
+   {
+    "n": "ginger-garlic paste"
+   },
+   {
+    "n": "Kashmiri chile powder"
+   },
+   {
+    "n": "garam masala"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "tomatoes",
+    "note": "canned or fresh, chopped"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "heavy cream"
+   },
+   {
+    "n": "cashews",
+    "note": "soaked"
+   },
+   {
+    "n": "kasuri methi",
+    "note": "crushed between your palms"
+   },
+   {
+    "n": "honey"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Marinate the chicken with the yogurt, half the ginger-garlic paste, the chile, lemon juice and salt for at least 4 hours.",
+   "Grill the chicken or sear it in a pan over high heat until charred at the edges and just cooked. Set aside with its juices.",
+   "For the sauce, simmer the tomatoes, the rest of the ginger-garlic paste, the cashews and a little water for 25 minutes.",
+   "Blend until completely smooth and push it through a sieve. Straining is what separates a silky makhani from a rustic one.",
+   "Return to the pot with the butter, cream, honey and garam masala. Cook 10 minutes until glossy and it coats the spoon.",
+   "Add the chicken and its juices, crush the kasuri methi over the top and cook 5 minutes more."
+  ],
+  "tips": [
+   "Char the chicken separately. Poaching it in the sauce makes a different, much flatter dish.",
+   "Kashmiri chile is for color, not heat. Regular chile powder will make it red and painful.",
+   "Kasuri methi is the flavor nobody can name and everyone misses when it's gone."
+  ],
+  "video": "restaurant style butter chicken"
+ }
+}

@@ -1,0 +1,221 @@
+{
+ "id": "nashville",
+ "country": "United States",
+ "region": "north-america",
+ "course": "main",
+ "time": 800,
+ "serves": 4,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 600,
+   "u": "ml",
+   "k": "buttermilk",
+   "role": "acid"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "chilli",
+   "role": "acid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "dredge"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "cayenne",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "slice",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 25,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pollo Picante de Nashville",
+  "blurb": "El aceite picante se hace con la propia grasa de la fritura, no con mantequilla. Esa grasa caliente disuelve la cayena y la fija sobre la costra en vez de resbalar por encima.",
+  "ing": [
+   {
+    "n": "muslos de pollo"
+   },
+   {
+    "n": "suero de leche"
+   },
+   {
+    "n": "salsa picante"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "cayena"
+   },
+   {
+    "n": "pimentón"
+   },
+   {
+    "n": "azúcar morena"
+   },
+   {
+    "n": "ajo en polvo"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "pan blanco"
+   },
+   {
+    "n": "pepinillos"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Marina el pollo en el suero de leche con la salsa picante y la sal de 8 a 24 horas.",
+   "Mezcla la harina, la fécula y la mitad de las especias. Añade 3 cucharadas de la marinada y frótala para crear grumos.",
+   "Reboza el pollo presionando con fuerza y déjalo reposar 15 minutos en rejilla.",
+   "Fríe a 170 °C durante 12-14 minutos hasta alcanzar 74 °C dentro. Escurre en rejilla.",
+   "Toma 180 ml del aceite caliente de la fritura y bátelo con la cayena, el pimentón, el azúcar moreno y el ajo en polvo. Cuidado: es tremendamente picante.",
+   "Pincela el pollo caliente con ese aceite y sírvelo sobre pan blanco con pepinillos encima."
+  ],
+  "tips": [
+   "El aceite de la fritura, no mantequilla. Es lo que hace que el picante se adhiera a la costra.",
+   "El pan blanco de debajo no es un acompañamiento: absorbe el aceite y es lo mejor del plato.",
+   "Cuatro cucharadas de cayena es el nivel medio de Nashville. Empieza con dos si no estás seguro."
+  ],
+  "video": "nashville hot chicken"
+ },
+ "en": {
+  "name": "Nashville Hot Chicken",
+  "blurb": "The hot oil is made with the frying fat itself, not butter. That hot fat dissolves the cayenne and locks it onto the crust instead of letting it slide off.",
+  "ing": [
+   {
+    "n": "chicken thighs"
+   },
+   {
+    "n": "buttermilk"
+   },
+   {
+    "n": "hot sauce"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "cayenne"
+   },
+   {
+    "n": "paprika"
+   },
+   {
+    "n": "brown sugar"
+   },
+   {
+    "n": "garlic powder"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "white bread"
+   },
+   {
+    "n": "pickles"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Marinate the chicken in the buttermilk with the hot sauce and salt for 8 to 24 hours.",
+   "Mix the flour, cornstarch and half the spices. Add 3 tablespoons of the marinade and rub it in to create craggy bits.",
+   "Dredge the chicken, pressing hard, and let it rest 15 minutes on a rack.",
+   "Fry at 170 °C for 12-14 minutes, until it reaches 74 °C inside. Drain on a rack.",
+   "Take 180 ml of the hot frying oil and whisk it with the cayenne, paprika, brown sugar and garlic powder. Careful: it is ferociously hot.",
+   "Brush the hot chicken with that oil and serve it on white bread with pickles on top."
+  ],
+  "tips": [
+   "The frying oil, not butter. It's what makes the heat cling to the crust.",
+   "The white bread underneath isn't a side: it soaks up the oil and is the best part of the dish.",
+   "Four tablespoons of cayenne is Nashville medium. Start with two if you're unsure."
+  ],
+  "video": "nashville hot chicken"
+ }
+}

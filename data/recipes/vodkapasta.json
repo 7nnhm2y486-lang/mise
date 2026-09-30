@@ -1,0 +1,201 @@
+{
+ "id": "vodkapasta",
+ "country": "United States",
+ "region": "north-america",
+ "course": "main",
+ "time": 35,
+ "serves": 4,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "tomatopaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "cream",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "shallot",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pasta a la Vodka Picante",
+  "blurb": "El vodka no está de adorno: hay compuestos aromáticos del tomate que solo son solubles en alcohol, no en agua ni en grasa. Es el único plato de esta lista donde el ingrediente raro tiene una justificación química real.",
+  "ing": [
+   {
+    "n": "pasta corta",
+    "note": "rigatoni o penne"
+   },
+   {
+    "n": "concentrado de tomate"
+   },
+   {
+    "n": "vodka"
+   },
+   {
+    "n": "crema espesa"
+   },
+   {
+    "n": "chalota",
+    "note": "muy picada"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "hojuelas de chile"
+   },
+   {
+    "n": "parmesano",
+    "note": "rallado"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la chalota y el ajo en el aceite a fuego medio 5 minutos, sin que tomen color.",
+   "Añade el concentrado de tomate y fríelo 4-5 minutos completos, removiendo, hasta que oscurezca de rojo brillante a ladrillo. Este paso es el que quita el sabor metálico a lata.",
+   "Añade el vodka y deja que se evapore casi del todo, 2 minutos.",
+   "Añade la crema y las hojuelas de chile y cocina 3 minutos hasta que espese.",
+   "Cuece la pasta dos minutos menos y pásala a la sartén con un cucharón de su agua.",
+   "Fuera del fuego incorpora la mantequilla y el parmesano, moviendo hasta que brille. Albahaca al final."
+  ],
+  "tips": [
+   "Fríe el concentrado hasta que oscurezca. Cuatro minutos, no treinta segundos.",
+   "El vodka se evapora, pero antes arrastra aromas que de otro modo no llegarían a tu nariz.",
+   "Sin vodka el plato sigue siendo bueno; simplemente es otra pasta rosa."
+  ],
+  "video": "pasta vodka picante"
+ },
+ "en": {
+  "name": "Spicy Vodka Pasta",
+  "blurb": "The vodka isn't decoration: some tomato aroma compounds are soluble only in alcohol, not in water or fat. It's the one dish on this list where the odd ingredient has a real chemical justification.",
+  "ing": [
+   {
+    "n": "short pasta",
+    "note": "rigatoni or penne"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "vodka"
+   },
+   {
+    "n": "heavy cream"
+   },
+   {
+    "n": "shallots",
+    "note": "finely minced"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "red pepper flakes"
+   },
+   {
+    "n": "Parmesan",
+    "note": "grated"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Sweat the shallot and garlic in the oil over medium heat for 5 minutes, without letting them color.",
+   "Add the tomato paste and fry it a full 4-5 minutes, stirring, until it darkens from bright red to brick. This is the step that takes away the tinny canned taste.",
+   "Add the vodka and let it cook off almost completely, 2 minutes.",
+   "Add the cream and chile flakes and cook 3 minutes until thickened.",
+   "Cook the pasta two minutes short and move it to the pan with a ladle of its water.",
+   "Off the heat, stir in the butter and Parmesan, tossing until glossy. Basil at the end."
+  ],
+  "tips": [
+   "Fry the paste until it darkens. Four minutes, not thirty seconds.",
+   "The vodka evaporates, but first it carries aromas that would otherwise never reach your nose.",
+   "Without vodka the dish is still good; it's just a different pink pasta."
+  ],
+  "video": "spicy vodka pasta"
+ }
+}

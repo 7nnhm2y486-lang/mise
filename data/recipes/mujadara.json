@@ -1,0 +1,164 @@
+{
+ "id": "mujadara",
+ "country": "Levant",
+ "region": "middle-east",
+ "course": "main",
+ "time": 70,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "yogurt",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Mujadara",
+  "blurb": "Lentejas, arroz y una montaña de cebolla frita casi hasta quemarse. Las cebollas no son adorno: son el condimento.",
+  "ing": [
+   {
+    "n": "lentejas pardinas o verdes"
+   },
+   {
+    "n": "arroz basmati",
+    "note": "enjuagado"
+   },
+   {
+    "n": "cebolla",
+    "note": "en rodajas finas"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "pimienta de Jamaica"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "yogur",
+    "note": "para servir"
+   }
+  ],
+  "steps": [
+   "Fríe las cebollas en el aceite a fuego medio, 25-30 minutos, removiendo a menudo. Llévalas más allá del dorado, hasta caoba oscuro. Saca dos tercios sobre papel para que se pongan crujientes.",
+   "Cuece las lentejas en agua sin sal 15 minutos, hasta que estén tiernas pero enteras. Escurre.",
+   "A la olla con las cebollas restantes y su aceite, añade el comino, la pimienta de Jamaica, el arroz y las lentejas. Remueve para cubrir.",
+   "Añade el agua y la sal. Lleva a hervor, tapa y cocina al fuego más bajo 15 minutos.",
+   "Reposa fuera del fuego, tapado, 10 minutos. Suelta con un tenedor.",
+   "Corona con las cebollas crujientes. Sirve con yogur."
+  ],
+  "tips": [
+   "Salar las lentejas pronto endurece sus pieles. Sala con el arroz, no antes.",
+   "Cebollas apenas doradas dan dulzor pero no el borde amargo que el plato necesita. Ve más lejos de lo que crees.",
+   "Freírlas en aceite generoso convierte el aceite mismo en ingrediente: no lo tires."
+  ],
+  "video": "mujadara lentejas arroz"
+ },
+ "en": {
+  "name": "Mujadara",
+  "blurb": "Lentils, rice and a mountain of onions fried almost to the point of burning. The onions aren't a garnish: they're the seasoning.",
+  "ing": [
+   {
+    "n": "brown or green lentils"
+   },
+   {
+    "n": "basmati rice",
+    "note": "rinsed"
+   },
+   {
+    "n": "onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "allspice"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "yogurt",
+    "note": "to serve"
+   }
+  ],
+  "steps": [
+   "Fry the onions in the oil over medium heat for 25-30 minutes, stirring often. Take them past golden, to dark mahogany. Lift two-thirds out onto paper towels so they turn crisp.",
+   "Simmer the lentils in unsalted water for 15 minutes, until tender but still whole. Drain.",
+   "To the pot with the remaining onions and their oil, add the cumin, allspice, rice and lentils. Stir to coat.",
+   "Add the water and salt. Bring to a boil, cover and cook over the lowest heat for 15 minutes.",
+   "Rest off the heat, covered, for 10 minutes. Fluff with a fork.",
+   "Top with the crispy onions. Serve with yogurt."
+  ],
+  "tips": [
+   "Salting lentils early toughens their skins. Salt with the rice, not before.",
+   "Barely golden onions give sweetness but not the bitter edge the dish needs. Go further than you think.",
+   "Frying them in plenty of oil turns the oil itself into an ingredient: don't throw it out."
+  ],
+  "video": "mujadara lentils and rice"
+ }
+}

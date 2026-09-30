@@ -1,0 +1,1526 @@
+{
+ "es": {
+  "technique": [
+   {
+    "g": "Calor y dorado",
+    "items": [
+     {
+      "n": "Dorar exige superficie seca",
+      "w": "Por qué funciona",
+      "d": "El agua hierve a 100 °C y las reacciones de dorado necesitan unos 140 °C. Mientras la superficie esté mojada, toda la energía se va en evaporar agua y la temperatura no puede subir. Seca la carne, sálala con antelación y déjala destapada, y nunca satures la sartén: saturarla baja la temperatura y la inunda de vapor."
+     },
+     {
+      "n": "Sellar no encierra los jugos",
+      "w": "Corrigiendo un mito",
+      "d": "Se refutó hace más de un siglo. Un filete sellado pierde algo más de humedad que uno sin sellar. Sella por sabor y textura, y controla la jugosidad con la temperatura interna y el reposo."
+     },
+     {
+      "n": "Cocción residual",
+      "w": "Tiempos",
+      "d": "Un asado sigue cocinándose al salir del horno mientras el calor viaja hacia el centro. Cuenta 2-3 °C en un filete o una pechuga y 5-7 °C en una pieza grande. Sácalo todo antes. Cuanto más grande y más caliente la pieza, más antes hay que parar."
+     },
+     {
+      "n": "Sellado inverso",
+      "w": "Método",
+      "d": "Cocina primero suave — horno a 110 °C hasta 10 °C por debajo del objetivo — y luego sella en una sartén humeante 60 segundos por lado. Obtienes un interior rosa parejo de borde a borde en vez de una banda gris, y una superficie más seca que dora antes."
+     },
+     {
+      "n": "Desglasar y el fondo",
+      "w": "De dónde sale la salsa",
+      "d": "La película marrón pegada a la sartén es proteína y azúcar concentrados. Añade líquido con la sartén caliente y raspa: se disuelve en segundos y se convierte en el eje de la salsa. Vino, caldo, vinagre o agua sirven igual. Perder el fondo en el fregadero es tirar lo mejor del plato."
+     },
+     {
+      "n": "Abrir las especias en grasa",
+      "w": "Extracción",
+      "d": "La mayoría de los aromas de las especias son liposolubles, no hidrosolubles. Treinta o sesenta segundos en grasa caliente extraen mucho más sabor que una hora hirviendo en líquido. Las especias molidas se queman en menos de un minuto: añádelas al final, y fuera del fuego si llevan chile o pimentón."
+     }
+    ]
+   },
+   {
+    "g": "Sal, ácido y sazón",
+    "items": [
+     {
+      "n": "Salmuera seca",
+      "w": "El mejor hábito",
+      "d": "Sal al 1% del peso de la carne, aplicada al menos 45 minutos antes e idealmente la noche anterior, destapada en el refrigerador. La sal extrae humedad, se disuelve y se reabsorbe llevando sazón al interior del músculo. La superficie se seca al mismo tiempo, lo que significa mejor dorado. No cuesta nada y mejora todo."
+     },
+     {
+      "n": "Salmuera húmeda",
+      "w": "Cuándo encaja",
+      "d": "Una solución de sal al 5-6% durante 1-4 horas va bien en cortes magros y propensos a secarse: chuletas de cerdo, pechuga de pavo, camarones. Añade agua además de sal, así que la carne queda más jugosa pero la superficie más mojada y difícil de dorar. Sécala muy bien después."
+     },
+     {
+      "n": "Sazona por etapas",
+      "w": "Profundidad frente a superficie",
+      "d": "La sal añadida en cada etapa sazona esa capa. Toda la sal al final se queda por fuera y sabe punzante. La misma cantidad total, repartida a lo largo de la cocción, sabe más redonda y más a la propia comida."
+     },
+     {
+      "n": "El ácido es el ingrediente que falta",
+      "w": "Diagnóstico",
+      "d": "Cuando un plato sabe plano y pesado pero ya está bien salado, casi siempre pide ácido. Un chorro de limón, un poco de vinagre o una cucharada de salmuera de encurtido lo levantan. Añádelo fuera del fuego: el ácido cocido apaga, el ácido fresco levanta."
+     },
+     {
+      "n": "La grasa transporta el sabor",
+      "w": "Por qué lo bajo en grasa sabe delgado",
+      "d": "Muchos compuestos aromáticos solo se disuelven en grasa, y la grasa recubre la lengua para que los sabores duren más. Un plato que sabe débil puede necesitar una nuez de mantequilla o un chorro de aceite antes que más sazón."
+     },
+     {
+      "n": "Prueba en cada etapa",
+      "w": "La comprobación de cuatro",
+      "d": "Cuando algo no está bien, recorre sal, ácido, grasa y calor en ese orden, y luego textura. Nueve de cada diez veces es una de esas cuatro cosas, no un ingrediente que falta."
+     }
+    ]
+   },
+   {
+    "g": "Emulsiones y salsas",
+    "items": [
+     {
+      "n": "Cómo se sostiene una emulsión",
+      "w": "Mecanismo",
+      "d": "El aceite y el agua solo permanecen mezclados cuando las gotas se rompen lo bastante pequeñas y algo las mantiene separadas: lecitina de la yema, mucílago de la mostaza, almidón del agua de la pasta o proteínas lácteas. Demasiado aceite demasiado rápido desborda al emulsionante y la salsa se corta."
+     },
+     {
+      "n": "Rescatar una emulsión rota",
+      "w": "Reparación",
+      "d": "Empieza de nuevo en un bol limpio con una base fresca — una yema, una cucharadita de mostaza o una cucharada de agua tibia — y bate dentro la salsa rota gota a gota. Devolver la salsa rota sobre sí misma no funciona nunca."
+     },
+     {
+      "n": "Salsa de sartén en cuatro pasos",
+      "w": "Plantilla",
+      "d": "Sella la proteína y déjala reposar. Sofríe una chalota en la grasa. Desglasa con vino o caldo y reduce dos tercios. Fuera del fuego, monta con mantequilla fría cubo a cubo. Ajusta con ácido y sal. Esta estructura funciona con cualquier proteína y cualquier líquido."
+     },
+     {
+      "n": "El agua de la pasta es una herramienta",
+      "w": "Almidón",
+      "d": "Cuanto más turbia el agua, más almidón disuelto, y el almidón es lo que une grasa y agua en una salsa brillante. Cuece la pasta en menos agua de la habitual, termínala en la sartén con la salsa el último minuto y añade agua a cucharadas hasta que emulsione."
+     },
+     {
+      "n": "Roux y espesantes",
+      "w": "Proporciones",
+      "d": "Pesos iguales de harina y grasa, cocidos desde 2 minutos hasta casi una hora según lo oscuro que lo quieras. Un roux más oscuro sabe mejor y espesa menos: un roux chocolate tiene quizá un cuarto del poder espesante de uno rubio. La fécula de maíz espesa alrededor del doble que la harina y da brillo en vez de opacidad."
+     },
+     {
+      "n": "Reducir concentra todo",
+      "w": "Incluida la sal",
+      "d": "Reducir intensifica el sabor, pero también intensifica la sal, el ácido y el amargor. Sazona al final una salsa que pienses reducir."
+     }
+    ]
+   },
+   {
+    "g": "Proteína y textura",
+    "items": [
+     {
+      "n": "El colágeno necesita tiempo, no calor",
+      "w": "Braseado",
+      "d": "Los cortes duros lo son por el colágeno. Se convierte en gelatina por encima de unos 70 °C, pero despacio: horas, no minutos. Mantén un braseado a 85-90 °C, nunca a hervor fuerte, que exprime las fibras musculares mientras el colágeno aún se está transformando."
+     },
+     {
+      "n": "Aterciopelado",
+      "w": "Técnica china",
+      "d": "Mezcla la carne en tiras con fécula de maíz y clara de huevo, o con un cuarto de cucharadita de bicarbonato por cada 250 g, y reposa 20 minutos. El almidón protege la superficie y el álcali sube el pH para que las proteínas retengan agua. Por eso la carne salteada de restaurante es tierna y la tuya no."
+     },
+     {
+      "n": "Reposar la carne",
+      "w": "Qué ocurre en realidad",
+      "d": "El reposo empareja la temperatura y relaja las fibras para que reabsorban líquido en vez de inundar la tabla. Cinco minutos para un filete, veinte para un asado, cubierto sin apretar: envuelto muy ajustado, la costra se cuece al vapor y se ablanda."
+     },
+     {
+      "n": "Panada",
+      "w": "Mantener jugoso el picado",
+      "d": "Pan remojado en leche, alrededor del 20% del peso de la carne, en albóndigas y pastel de carne. El gel de almidón atrapa agua que de otro modo se exprimiría, así que el resultado sigue tierno incluso bien cocido."
+     },
+     {
+      "n": "Bicarbonato en cebolla y carne",
+      "w": "Trucos de pH",
+      "d": "Una pizca de bicarbonato sube el pH: las cebollas caramelizan en un tercio del tiempo, las legumbres secas se ablandan antes y la carne dora con más facilidad. Úsalo con moderación: en exceso sabe a jabón y da una textura resbaladiza."
+     },
+     {
+      "n": "Escaldar y cortar la cocción",
+      "w": "Color y control",
+      "d": "Hierve las verduras verdes con fuerza en agua bien salada y luego súmergelas en agua con hielo. El calor breve fija la clorofila brillante y el hielo detiene la cocción en seco. Sala el agua como el mar: sazona y acelera el proceso."
+     }
+    ]
+   },
+   {
+    "g": "Repostería y almidón",
+    "items": [
+     {
+      "n": "Desarrollo del gluten",
+      "w": "Estructura",
+      "d": "El gluten se forma cuando las proteínas del trigo encuentran agua y se trabajan. El pan quiere mucho, el bizcocho casi nada. Una masa de bizcocho sobrebatida queda dura exactamente por esto. La autólisis — mezclar harina y agua y esperar 30 minutos — desarrolla gluten de forma pasiva y ahorra amasado."
+     },
+     {
+      "n": "Hidratación",
+      "w": "Porcentajes",
+      "d": "El porcentaje de panadero expresa todo respecto al peso de harina. Un 60% de agua da una masa firme y manejable. Un 75% o más da una miga abierta y alveolada y una masa pegajosa que se pliega en vez de amasarse. La integral bebe más agua que la blanca."
+     },
+     {
+      "n": "Fermentación en frío",
+      "w": "Sabor",
+      "d": "El tiempo en el refrigerador permite que las enzimas descompongan el almidón en azúcares y que se construyan ácidos y compuestos aromáticos. Una fermentación fría de 24 horas hace que el pan y la pizza sepan a algo; una de 2 horas en calor hace que sepan a levadura."
+     },
+     {
+      "n": "Cremado frente a mantequilla derretida",
+      "w": "Control de textura",
+      "d": "Cremar mantequilla sólida con azúcar incorpora aire y da una miga tipo bizcocho. La mantequilla derretida da densidad y masticabilidad. La mantequilla tostada da masticabilidad y sabor a caramelo, pero menos agua, así que la masa queda más seca."
+     },
+     {
+      "n": "Gasificantes químicos",
+      "w": "Qué hace cada uno",
+      "d": "El bicarbonato necesita un ácido para reaccionar y actúa de inmediato, así que además sube el pH y favorece el dorado. El polvo de hornear lleva su propio ácido y casi todos reaccionan dos veces, una al mojarse y otra en el horno. Demasiado bicarbonato deja un sabor jabonoso y metálico."
+     },
+     {
+      "n": "Sin gluten requiere otro manejo",
+      "w": "Adaptación",
+      "d": "Sin gluten no hay red elástica, así que la estructura viene de gomas, psyllium o huevos. Las masas sin gluten necesitan un 10% más de líquido y un reposo de 20-30 minutos para que los almidones se hidraten: saltarse ese reposo es la razón de que tanta repostería sin gluten sepa arenosa."
+     }
+    ]
+   },
+   {
+    "g": "Pastelería y laminado",
+    "items": [
+     {
+      "n": "El laminado es aritmética",
+      "w": "Cómo se multiplican las capas",
+      "d": "Cada pliegue de carta triplica las capas. Una capa de mantequilla se convierte en 3, luego 9, luego 27 tras tres pliegues. Más pliegues no es mejor: pasadas unas 27 capas en masa de croissant, las láminas se vuelven tan finas que se fusionan y pierdes el panal."
+     },
+     {
+      "n": "Mantequilla y masa deben coincidir",
+      "w": "El problema central",
+      "d": "Si la mantequilla está más dura que la masa se quiebra en esquirlas y las capas se rompen. Si está más blanda, se escapa y se absorbe. Ambas deben estar flexibles pero frescas, alrededor de 14 °C. Refrigera entre cada pliegue, y si la mantequilla asoma por la superficie, detente y refrigera de inmediato."
+     },
+     {
+      "n": "El vapor es el gasificante",
+      "w": "Por qué el horno debe estar fuerte",
+      "d": "El hojaldre no lleva ningún impulsor. El agua de la mantequilla y de la masa se convierte en vapor y separa las capas a la fuerza. Eso necesita 200 °C o más; un horno moderado derrite la mantequilla antes de que el vapor pueda formarse."
+     },
+     {
+      "n": "Horneado en blanco y encogimiento",
+      "w": "Por qué se caen los fondos de tarta",
+      "d": "El encogimiento es gluten que se contrae. La solución es el reposo: refrigera el molde ya forrado al menos 30 minutos para que el gluten se relaje antes de encontrarse con el calor. Recortar el borde después de refrigerar, y no antes, también ayuda."
+     },
+     {
+      "n": "El choux se cuece dos veces",
+      "w": "Dos etapas",
+      "d": "Secar la pasta en el fuego gelatiniza el almidón y evapora agua, que es lo que le permite absorber tanto huevo. En el horno esa agua se convierte en vapor e infla la cáscara mientras la proteína del huevo cuaja alrededor del hueco."
+     },
+     {
+      "n": "Temperatura de almíbar y masa",
+      "w": "El baklava y sus parientes",
+      "d": "Almíbar frío sobre masa caliente, o almíbar caliente sobre masa fría, pero nunca ambos a la misma temperatura. La diferencia impulsa la absorción. Temperaturas iguales dejan el almíbar en la superficie y la masa se ablanda."
+     }
+    ]
+   },
+   {
+    "g": "Azúcar y dulzor",
+    "items": [
+     {
+      "n": "El azúcar hace cinco trabajos",
+      "w": "Por qué es difícil sustituirla",
+      "d": "En un horneado, el azúcar endulza, retiene humedad, ablanda al competir con el gluten por el agua, dora mediante caramelización y reacciones de Maillard, y bate aire dentro de la mantequilla al cremarse. Un edulcorante que solo haga lo primero no producirá lo mismo."
+     },
+     {
+      "n": "La alulosa se comporta como azúcar",
+      "w": "La que dora",
+      "d": "Es un azúcar raro que el cuerpo apenas metaboliza, pero que químicamente sigue caramelizando y reteniendo agua. Dora alrededor de un 30% más rápido que la sacarosa, así que baja el horno 10-15 °C, y se extiende más en galletas, así que enfría más la masa."
+     },
+     {
+      "n": "Los polialcoholes y sus límites",
+      "w": "Eritritol, xilitol, maltitol",
+      "d": "Se miden como el azúcar y saben limpios, pero recristalizan al enfriar, dando una textura arenosa al día siguiente, y no caramelizan a ninguna temperatura. En cantidad provocan molestias digestivas. El xilitol es gravemente tóxico para los perros."
+     },
+     {
+      "n": "Sin azúcar no es sin carbohidratos",
+      "w": "Una confusión frecuente",
+      "d": "Sustituir el azúcar de una galleta deja la harina intacta, y la harina es almidón. Si horneas por glucosa en sangre y no por preferencia, la harina importa al menos tanto como el edulcorante."
+     },
+     {
+      "n": "Caramelización y Maillard son distintas",
+      "w": "Dos reacciones de dorado",
+      "d": "La caramelización es azúcar descomponiéndose sola, desde unos 160 °C. Maillard es azúcar reaccionando con aminoácidos y empieza mucho antes, alrededor de 140 °C, y por eso la leche, el huevo y la harina doran antes que el azúcar puro. Casi toda la repostería hace las dos cosas a la vez."
+     }
+    ]
+   }
+  ],
+  "ratios": [
+   {
+    "n": "Vinagreta",
+    "r": "3 : 1",
+    "d": "Aceite y ácido, en volumen. Bate el ácido con sal y mostaza primero para que la sal se disuelva, y añade el aceite despacio."
+   },
+   {
+    "n": "Masa de pan",
+    "r": "5 : 3",
+    "d": "Harina y agua en peso: 60% de hidratación. Sube a 75-80% para miga abierta y alveolada; baja a 55% para un pan de molde apretado."
+   },
+   {
+    "n": "Pasta fresca",
+    "r": "3 : 2",
+    "d": "Harina y huevo entero en peso. Aproximadamente 100 g de harina por huevo grande. Sémola para mordida, 00 para seda."
+   },
+   {
+    "n": "Roux",
+    "r": "1 : 1",
+    "d": "Harina y grasa en peso. 60 g de roux espesan 1 litro a salsa ligera, 90 g a salsa que napa."
+   },
+   {
+    "n": "Bechamel",
+    "r": "1 : 1 : 10",
+    "d": "Harina, mantequilla y leche en peso. Añade la leche tibia y por etapas, batiendo, para evitar grumos."
+   },
+   {
+    "n": "Crema inglesa",
+    "r": "1 : 2",
+    "d": "Huevo y líquido en peso. Unas 4 yemas por 500 ml. Cocinar a 82-84 °C y ni un grado más."
+   },
+   {
+    "n": "Relleno de quiche",
+    "r": "1 : 2",
+    "d": "Huevo y lácteo en peso. Un huevo grande por cada 120 ml de crema o leche da un cuajado firme sin llegar a goma."
+   },
+   {
+    "n": "Masa quebrada",
+    "r": "3 : 2 : 1",
+    "d": "Harina, grasa y agua en peso. Mantén todo frío y deja de mezclar cuando aún parezca sin terminar."
+   },
+   {
+    "n": "Bizcocho cuatro cuartos",
+    "r": "1 : 1 : 1 : 1",
+    "d": "Harina, mantequilla, azúcar y huevo en pesos iguales. La fórmula más antigua de la repostería y aún fiable."
+   },
+   {
+    "n": "Masa de galleta",
+    "r": "3 : 2 : 1",
+    "d": "Harina, grasa y azúcar en peso. Más azúcar se extiende y cruje; más harina mantiene la forma y queda blanda."
+   },
+   {
+    "n": "Masa de crepa",
+    "r": "1 : 1 : 2",
+    "d": "Harina, huevo y leche en peso. Reposa la masa una hora para que la harina se hidrate y bajen las burbujas."
+   },
+   {
+    "n": "Salmuera seca",
+    "r": "1%",
+    "d": "Sal al 1% del peso de la carne. 8 g para un pollo de 800 g. Al menos 45 minutos antes, idealmente la noche anterior."
+   },
+   {
+    "n": "Salmuera húmeda",
+    "r": "5-6%",
+    "d": "50-60 g de sal por litro de agua. Una hora por cada 500 g, y nunca más de 8 horas o la textura se vuelve esponjosa."
+   },
+   {
+    "n": "Agua de pasta",
+    "r": "10 g/l",
+    "d": "Alrededor de una cucharada de sal por litro. Usa menos agua de la que dice el paquete para obtener agua de cocción más almidonada y útil."
+   },
+   {
+    "n": "Líquido de encurtido",
+    "r": "1 : 1",
+    "d": "Vinagre y agua, más 5% de azúcar y 3% de sal sobre el peso total de líquido. Ajusta el azúcar al gusto, nunca la sal por debajo del 2%."
+   },
+   {
+    "n": "Arroz por absorción",
+    "r": "1 : 1,5",
+    "d": "Arroz largo y agua, en volumen, en olla tapada. El basmati pide algo menos, 1:1,4, y el integral 1:2."
+   },
+   {
+    "n": "Panada",
+    "r": "1 : 1",
+    "d": "Pan y leche en peso, usada al 20% del peso de la carne en albóndigas y pastel de carne."
+   },
+   {
+    "n": "Caldo",
+    "r": "1 : 1,5",
+    "d": "Huesos y agua, en peso. Ásalos para caldo oscuro, empieza en frío para claridad, y no lo hiervas nunca."
+   },
+   {
+    "n": "Pasta choux",
+    "r": "2 : 1 : 1 : 2",
+    "d": "Líquido, grasa, harina y huevo en peso. El huevo es un objetivo, no una regla: para cuando la pasta caiga en una V lenta."
+   },
+   {
+    "n": "Frangipane",
+    "r": "1 : 1 : 1 : 1",
+    "d": "Mantequilla, azúcar, almendra molida y huevo en pesos iguales. Funciona en cualquier fondo de tarta, sobre cualquier fruta."
+   },
+   {
+    "n": "Hojaldre",
+    "r": "1 : 1",
+    "d": "Harina y mantequilla en peso para hojaldre completo; 2:1 para hojaldre rápido. Agua a la mitad del peso de harina."
+   },
+   {
+    "n": "Crema pastelera",
+    "r": "10 : 2 : 1 : 1",
+    "d": "Leche, azúcar, fécula y yema en peso. Debe hervir un minuto entero o una enzima de la yema la licuará durante la noche."
+   },
+   {
+    "n": "Conchas de macaron",
+    "r": "1 : 1 : 1",
+    "d": "Almendra molida, azúcar glas y azúcar en peso, con clara de huevo a unos 0,7 del peso de la almendra."
+   },
+   {
+    "n": "Brioche",
+    "r": "5 : 3 : 2",
+    "d": "Harina, huevo y mantequilla en peso para un brioche rico. Baja la mantequilla a 1 parte para una masa enriquecida de diario."
+   },
+   {
+    "n": "Merengue francés",
+    "r": "1 : 2",
+    "d": "Clara y azúcar en peso. 1:1 da un merengue blando para cubrir; 1:2 da una cáscara crujiente y seca."
+   },
+   {
+    "n": "Ganache para bañar",
+    "r": "1 : 1",
+    "d": "Chocolate y crema en peso para un glaseado. 2:1 para trufa firme, 1:2 para salsa fluida."
+   },
+   {
+    "n": "Masa enriquecida de bollo",
+    "r": "5 : 3",
+    "d": "Harina y líquido en peso, contando los huevos como líquido. El tangzhong permite superar esta proporción sin una masa impracticable."
+   }
+  ],
+  "temps": [
+   {
+    "k": "Pollo y pavo",
+    "v": "74 °C / 165 °F",
+    "n": "En la parte más gruesa del muslo. La pechuga es segura y mucho más jugosa a 68 °C sostenidos un minuto."
+   },
+   {
+    "k": "Cerdo",
+    "v": "63 °C / 145 °F",
+    "n": "Más 3 minutos de reposo. Ligeramente rosado es correcto y lleva más de una década siendo oficialmente seguro."
+   },
+   {
+    "k": "Res, término medio-rojo",
+    "v": "52-54 °C / 126-129 °F",
+    "n": "Sácala a 48-50 °C y deja que la cocción residual la termine."
+   },
+   {
+    "k": "Res, término medio",
+    "v": "57-60 °C / 135-140 °F",
+    "n": "Por encima de 65 °C las fibras se contraen con fuerza y expulsan la humedad."
+   },
+   {
+    "k": "Cordero",
+    "v": "55-58 °C / 131-136 °F",
+    "n": "La paletilla y el jarrete son la excepción: piden más de 90 °C durante horas para fundir el colágeno."
+   },
+   {
+    "k": "Pescado",
+    "v": "50-52 °C / 122-126 °F",
+    "n": "Apenas translúcido en el centro. El salmón a 45 °C queda sedoso; a 60 °C, seco y calcáreo."
+   },
+   {
+    "k": "Braseados",
+    "v": "88-90 °C / 190-194 °F",
+    "n": "El colágeno se convierte desde unos 70 °C pero necesita horas. Nunca dejes hervir un braseado."
+   },
+   {
+    "k": "Natillas",
+    "v": "82-84 °C / 180-183 °F",
+    "n": "Por encima de 85 °C las proteínas del huevo se tensan y cuajan. Usa termómetro."
+   },
+   {
+    "k": "Pan magro",
+    "v": "96-99 °C / 205-210 °F",
+    "n": "Temperatura interna. Las masas enriquecidas están listas algo antes, sobre 90 °C."
+   },
+   {
+    "k": "Caramelo blando",
+    "v": "118 °C / 244 °F",
+    "n": "Punto de bola blanda, para salsa de caramelo y dulce de leche firme."
+   },
+   {
+    "k": "Caramelo duro",
+    "v": "149-154 °C / 300-310 °F",
+    "n": "Punto de quiebre duro, para crocantes y azúcar hilado."
+   },
+   {
+    "k": "Fritura profunda",
+    "v": "175-190 °C / 350-375 °F",
+    "n": "Por debajo de 160 °C la comida absorbe aceite; por encima de 200 °C el exterior se quema antes de que el interior se cocine."
+   },
+   {
+    "k": "Roux oscuro",
+    "v": "~160 °C / 320 °F",
+    "n": "Mantenido ahí 40 minutos con removido constante. Los puntos negros significan empezar de nuevo."
+   },
+   {
+    "k": "Levadura activa",
+    "v": "24-27 °C / 75-80 °F",
+    "n": "Temperatura ideal de masa. Por encima de 50 °C la levadura muere; en el refrigerador fermenta despacio y sabe mejor."
+   }
+  ],
+  "rescue": [
+   {
+    "q": "Se me cortó la salsa",
+    "a": "Coge una sartén limpia, calienta una cucharada de crema o bate una yema fresca, y añade la salsa rota gota a gota, batiendo con fuerza. Para una emulsión de mantequilla, un chorro de agua fría y batido enérgico fuera del fuego a menudo la recupera sola. <b>Prevención:</b> fuego bajo y grasa añadida despacio."
+   },
+   {
+    "q": "El arroz me quedó pegajoso",
+    "a": "Enjuágalo hasta que salga clara el agua la próxima vez: estás lavando el almidón superficial. Si ya está cocido, extiéndelo en una bandeja para que se seque al vapor y luego fríelo. <b>Prevención:</b> proporción correcta de agua, tapa puesta y nada de remover tras el hervor."
+   },
+   {
+    "q": "La carne me salió seca",
+    "a": "No hay recuperación completa, pero cortarla muy fina contra la fibra y bañarla en una salsa tibia y grasa disimula mucho. <b>Prevención:</b> un termómetro, y sacarla 3-5 °C antes. La sequedad es casi siempre exceso de cocción, no un mal corte."
+   },
+   {
+    "q": "El pan me quedó denso",
+    "a": "Poco fermentado, poco hidratado, o la levadura estaba muerta. Presiona la masa: si la marca vuelve del todo, necesita más tiempo; si se hunde, se pasó. <b>Prevención:</b> juzga por aspecto y tacto, nunca por reloj, y comprueba la levadura en agua tibia primero."
+   },
+   {
+    "q": "El bizcocho se me hundió en el centro",
+    "a": "Abrir el horno pronto, exceso de gasificante o falta de horneado. La estructura no había cuajado cuando el gas escapó. <b>Prevención:</b> mantén la puerta cerrada durante tres cuartas partes del tiempo, mide bien el impulsor y comprueba con brocheta."
+   },
+   {
+    "q": "Las galletas se me extendieron planas",
+    "a": "La masa estaba demasiado tibia, o había demasiado azúcar y poca harina. Enfría bien la masa, usa una bandeja fría y añade 2 cda de harina a la siguiente tanda. <b>Prevención:</b> nunca formes sobre una bandeja caliente recién salida del horno."
+   },
+   {
+    "q": "Se me cuajaron las natillas",
+    "a": "Cuélalas de inmediato por un colador fino y bátelas con una batidora de mano: eso salva una cantidad sorprendente de ellas. <b>Prevención:</b> atempera bien, cocina a 82-84 °C y remueve sin parar por el fondo de la olla."
+   },
+   {
+    "q": "La masa quebrada me quedó dura",
+    "a": "Sobretrabajada, o con demasiada agua. Se desarrolló gluten donde no lo querías. Déjala reposar una hora en el refrigerador para que se relaje antes de estirar. <b>Prevención:</b> deja de mezclar cuando aún se vea desigual, y mantén todo frío."
+   },
+   {
+    "q": "El salteado se me coció al vapor",
+    "a": "Demasiada comida, poco calor o ingredientes mojados. Cocina en tandas más pequeñas, seca todo y deja que la sartén recupere el calor entre tandas. <b>Prevención:</b> calienta bien la sartén antes de que nada la toque."
+   },
+   {
+    "q": "La piel del pollo asado quedó blanda",
+    "a": "Humedad. Seca bien el ave, sálala y déjala destapada en el refrigerador toda la noche, y empieza con el horno fuerte. <b>Prevención:</b> nunca cubras un ave con aluminio salvo que se esté dorando demasiado rápido."
+   },
+   {
+    "q": "La sopa me sabe plana",
+    "a": "Recórrela en orden: sal, luego ácido, luego grasa, y luego algo umami como miso, anchoa, soja o una corteza de parmesano. La falta de sabor casi nunca se arregla con más hierbas. <b>Prevención:</b> sazona por etapas mientras cocinas."
+   },
+   {
+    "q": "Mi horneado sin gluten quedó arenoso",
+    "a": "Los almidones nunca se hidrataron. Reposa la masa 20-30 minutos antes de hornear y añade alrededor de un 10% más de líquido que en la versión con trigo. <b>Prevención:</b> pesa la harina sin gluten en vez de medirla en tazas: las densidades varían muchísimo."
+   },
+   {
+    "q": "Se me cristalizó el caramelo",
+    "a": "Un cristal de azúcar en la pared de la olla sembró toda la tanda. Añade un chorro de agua y vuelve a fundirlo, limpiando las paredes con una brocha mojada. <b>Prevención:</b> una cucharadita de jugo de limón o de glucosa impide que se formen cristales, y no lo remuevas una vez que empieza a tomar color."
+   },
+   {
+    "q": "Las legumbres siguen duras tras horas",
+    "a": "Legumbres viejas, agua muy dura, o sal añadida demasiado pronto en un medio muy ácido. Añade una pizca de bicarbonato y continúa. <b>Prevención:</b> compra legumbres que no lleven dos años en el estante, y añade tomate o vinagre solo cuando ya estén tiernas."
+   },
+   {
+    "q": "Las galletas se me fundieron en una sola lámina",
+    "a": "La masa estaba demasiado tibia, demasiado dulce, o la bandeja estaba caliente. <b>Ahora:</b> córtalas en caliente con un cuchillo. <b>La próxima vez:</b> enfría la masa dos horas, usa bandeja fría, añade 2 cda de harina y crema menos aire. Si cambiaste a alulosa, cuenta con más extensión y compénsalo."
+   },
+   {
+    "q": "Las galletas quedaron abombadas y arenosas",
+    "a": "El problema contrario, y casi siempre por un sustituto del azúcar. El eritritol y las mezclas de monk fruit apenas se extienden. <b>Solución:</b> aplasta las bolas antes de hornear y cambia a alulosa si quieres algo de extensión."
+   },
+   {
+    "q": "Mis macarons salieron huecos",
+    "a": "Merengue sobrebatido, u horno demasiado fuerte. La cáscara cuaja antes de que el interior pueda subir hasta ella. <b>Solución:</b> monta a picos firmes pero no secos, haz macaronage hasta que la masa caiga en cinta y se reabsorba en 20 segundos, y baja el horno 10 °C."
+   },
+   {
+    "q": "Mis macarons no tienen pie",
+    "a": "No formaron piel antes de hornear. <b>Solución:</b> reposa las conchas escudilladas 30-60 minutos hasta que estén secas al tacto ligero. En una cocina húmeda esto puede tardar dos horas, o no ocurrir sin deshumidificador."
+   },
+   {
+    "q": "El choux se me desplomó",
+    "a": "Poco horneado, o se abrió el horno pronto. La estructura es vapor hasta que la proteína del huevo cuaja. <b>Solución:</b> hornea más tiempo, no abras la puerta los primeros 15 minutos, y pincha cada pieza para devolverla 5 minutos a horno bajo y secar el interior."
+   },
+   {
+    "q": "A los croissants se les salió la mantequilla",
+    "a": "La mantequilla se derritió, por fermentar demasiado caliente o por romper las capas al estirar. <b>Solución:</b> fermenta a 24-26 °C, nunca más, y refrigera entre cada pliegue. La mantequilla perdida no se recupera, pero la pieza sigue siendo comestible."
+   },
+   {
+    "q": "Se me cortó la crema de mantequilla",
+    "a": "Diferencia de temperatura entre la mantequilla y la base. <b>Solución:</b> calienta unas cucharadas al baño maría y bátelas de vuelta, o refrigera 15 minutos y vuelve a batir. Casi siempre se recupera: sigue batiendo."
+   },
+   {
+    "q": "La crema pastelera se licuó en el refrigerador",
+    "a": "Nunca llegó a hervir de verdad. Las yemas contienen una enzima que digiere el almidón, y solo un minuto de hervor la destruye. <b>Prevención:</b> hiérvela, batiendo con fuerza, 60 segundos completos después de que espese."
+   },
+   {
+    "q": "La masa laminada se resiste",
+    "a": "El gluten está tenso. <b>Solución:</b> detente, cúbrela y refrigera 30 minutos. Forzarla rompe las capas de mantequilla. Estirar no debería requerir fuerza nunca."
+   },
+   {
+    "q": "El merengue soltó almíbar",
+    "a": "El azúcar no se disolvió. <b>Solución:</b> la próxima vez añádelo cucharada a cucharada y frota la mezcla entre los dedos: cualquier arenilla significa seguir batiendo. Evita también hacer merengue en un día muy húmedo."
+   },
+   {
+    "q": "Mi horneado sin azúcar quedó granuloso al día siguiente",
+    "a": "Eritritol recristalizando al enfriar. <b>Solución:</b> cambia a alulosa, que no recristaliza, o añade una cucharadita de glicerina vegetal por cada 100 g de edulcorante para retener humedad."
+   },
+   {
+    "q": "El chocolate se me agarrotó al fundirlo",
+    "a": "Entró una gota de agua. El chocolate es graso y hasta una salpicadura hace que las partículas de cacao se agrupen. <b>Solución:</b> paradójicamente, añade más líquido — una cucharada de crema o agua caliente cada vez, removiendo — hasta que vuelva a alisarse como ganache. Ya no volverá a ser chocolate fundido puro."
+   },
+   {
+    "q": "El fondo de tarta se me encogió por los lados",
+    "a": "El gluten seguía tenso al entrar al horno. <b>Solución:</b> refrigera el molde forrado 30 minutos antes del horneado en blanco, no estires la masa para meterla en las esquinas, y deja el borde sobresaliendo para recortarlo después de hornear."
+   }
+  ],
+  "cookieVars": [
+   {
+    "v": "Mantequilla",
+    "o": [
+     [
+      "Cremada blanda, a 18 °C",
+      "Los cristales de azúcar abren bolsas de aire en la grasa. Más ligera, más alta, más esponjosa."
+     ],
+     [
+      "Derretida",
+      "No se incorpora nada de aire. Densa, plana y masticable."
+     ],
+     [
+      "Tostada",
+      "Derretida, más un 15% de su agua evaporada. Más masticable todavía, con un sabor a caramelo que nada más aporta."
+     ]
+    ]
+   },
+   {
+    "v": "Proporción de azúcar",
+    "o": [
+     [
+      "Más azúcar blanca",
+      "Funde y se extiende. Más fina, más crujiente, más quebradiza, más pálida."
+     ],
+     [
+      "Más azúcar morena",
+      "Higroscópica, retiene agua. Más blanda, más masticable, y dora más porque la melaza es ácida."
+     ],
+     [
+      "Solo morena",
+      "Máxima masticabilidad y máximo color. También el borde menos crujiente."
+     ]
+    ]
+   },
+   {
+    "v": "Harina",
+    "o": [
+     [
+      "Común, alrededor del 10% de proteína",
+      "La referencia. Masticabilidad equilibrada."
+     ],
+     [
+      "De fuerza, alrededor del 13%",
+      "Más gluten. Notablemente más masticable, y mantiene la altura."
+     ],
+     [
+      "Floja, o con fécula añadida",
+      "Menos proteína. Corta, tierna, arenosa, y evita que una galleta grande quede apanada."
+     ]
+    ]
+   },
+   {
+    "v": "Huevos",
+    "o": [
+     [
+      "Huevo entero",
+      "Agua para extenderse, proteína para estructura, grasa para riqueza. Equilibrado."
+     ],
+     [
+      "Yema extra",
+      "Grasa y emulsionante sin agua adicional. Más untuosa y más rica."
+     ],
+     [
+      "Clara extra",
+      "Agua y proteína sin grasa. Más esponjosa y más seca; rara vez lo que quieres."
+     ]
+    ]
+   },
+   {
+    "v": "Gasificante",
+    "o": [
+     [
+      "Bicarbonato de sodio",
+      "Sube el pH, lo que acelera el dorado y favorece la extensión. Más oscura, más plana, bordes más crujientes."
+     ],
+     [
+      "Polvo de hornear",
+      "Ácido incorporado, pH casi neutro. Empuja hacia arriba. Más pálida y más tipo bizcocho."
+     ],
+     [
+      "Ambos",
+      "El compromiso habitual: algo de extensión, algo de altura."
+     ]
+    ]
+   },
+   {
+    "v": "Reposo de la masa",
+    "o": [
+     [
+      "Horneada de inmediato",
+      "Más suave, más pálida, se extiende más. Perfectamente buena."
+     ],
+     [
+      "12-24 horas",
+      "La harina se hidrata del todo y las enzimas descomponen el almidón en azúcar. Más color y un sabor más redondo a caramelo."
+     ],
+     [
+      "36-72 horas",
+      "La diferencia es real pero decreciente. Pasados tres días la textura empieza a sufrir."
+     ]
+    ]
+   },
+   {
+    "v": "Horno",
+    "o": [
+     [
+      "165-175 °C, más tiempo",
+      "Más tiempo para extenderse y secarse antes de cuajar. Más fina y más crujiente."
+     ],
+     [
+      "190-200 °C, menos tiempo",
+      "La estructura cuaja antes de poder extenderse. Más gruesa, con el centro fundido."
+     ]
+    ]
+   },
+   {
+    "v": "Tamaño de porción",
+    "o": [
+     [
+      "40-55 g",
+      "Se hornea de forma pareja. Textura consistente de borde a centro."
+     ],
+     [
+      "80-170 g",
+      "El exterior cuaja mucho antes que el centro. Ese gradiente — borde crujiente, centro crudo — es todo el atractivo de una galleta de pastelería."
+     ]
+    ]
+   },
+   {
+    "v": "Chocolate",
+    "o": [
+     [
+      "Chispas",
+      "Formuladas con menos manteca de cacao para mantener la forma. Bolsas discretas."
+     ],
+     [
+      "Picado de tableta",
+      "Se funde en charcos y se rompe en polvo que tiñe la masa. Mejor en todo salvo en pulcritud."
+     ],
+     [
+      "Discos o fèves",
+      "Capas planas que se estratifican dentro de la galleta."
+     ]
+    ]
+   },
+   {
+    "v": "Mezclado tras la harina",
+    "o": [
+     [
+      "Mínimo, hasta el último rastro",
+      "Tierna y corta. Correcto en casi toda galleta."
+     ],
+     [
+      "Sobremezclado a propósito",
+      "Desarrolla gluten. El único caso en que es el objetivo es una galleta de máxima masticabilidad."
+     ]
+    ]
+   },
+   {
+    "v": "Sal",
+    "o": [
+     [
+      "Solo en la masa",
+      "Sazona de forma pareja. Bien."
+     ],
+     [
+      "Más sal en escamas encima",
+      "Estallidos discretos contra el dulzor. No cuesta nada y cambia la galleta entera."
+     ]
+    ]
+   }
+  ],
+  "cookieGoals": [
+   {
+    "g": "Más masticables",
+    "d": "Harina de fuerza, solo azúcar morena, mantequilla derretida o tostada, una yema extra, y horno más fuerte y más corto."
+   },
+   {
+    "g": "Más crujientes",
+    "d": "Más azúcar blanca, más mantequilla, menos harina, un chorro de leche, porciones pequeñas y horno más bajo durante más tiempo."
+   },
+   {
+    "g": "Más gruesas",
+    "d": "Masa fría, mantequilla fría, cremado mínimo, porciones grandes, harina o fécula extra, y horno a 200 °C."
+   },
+   {
+    "g": "Más esponjosas",
+    "d": "Polvo de hornear en vez de bicarbonato, más harina, más huevo, menos mantequilla, y sácalas todavía pálidas."
+   },
+   {
+    "g": "Más sabor",
+    "d": "Tuesta la mantequilla, reposa la masa 24 horas, usa azúcar morena oscura, añade sal y llévalas un tono más lejos en el horno."
+   },
+   {
+    "g": "Menos extensión",
+    "d": "Enfría bien, usa bandeja fría, añade 2 cda de harina, crema menos aire y hornea más fuerte."
+   }
+  ]
+ },
+ "en": {
+  "technique": [
+   {
+    "g": "Heat and browning",
+    "items": [
+     {
+      "n": "Browning needs a dry surface",
+      "w": "Why it works",
+      "d": "Water boils at 100 °C, and browning reactions need around 140 °C. As long as the surface is wet, all the energy goes into evaporating water and the temperature can't climb. Pat the meat dry, salt it ahead and leave it uncovered, and never crowd the pan: crowding drops the temperature and floods it with steam."
+     },
+     {
+      "n": "Searing doesn't seal in juices",
+      "w": "Correcting a myth",
+      "d": "This was disproved more than a century ago. A seared steak loses slightly more moisture than an unseared one. Sear for flavor and texture, and control juiciness with internal temperature and resting."
+     },
+     {
+      "n": "Carryover cooking",
+      "w": "Timing",
+      "d": "A roast keeps cooking after it leaves the oven as heat travels toward the center. Count on 2-3 °C for a steak or a chicken breast and 5-7 °C for a large roast. Pull everything early. The bigger and hotter the piece, the earlier you have to stop."
+     },
+     {
+      "n": "Reverse sear",
+      "w": "Method",
+      "d": "Cook gently first — a 110 °C oven until 10 °C below your target — then sear in a smoking-hot pan 60 seconds per side. You get even pink from edge to edge instead of a gray band, and a drier surface that browns faster."
+     },
+     {
+      "n": "Deglazing and fond",
+      "w": "Where the sauce comes from",
+      "d": "The brown film stuck to the pan is concentrated protein and sugar. Add liquid while the pan is hot and scrape: it dissolves in seconds and becomes the backbone of the sauce. Wine, stock, vinegar or water all work. Losing the fond down the sink is throwing out the best part of the dish."
+     },
+     {
+      "n": "Blooming spices in fat",
+      "w": "Extraction",
+      "d": "Most spice aromas are fat-soluble, not water-soluble. Thirty to sixty seconds in hot fat pulls out far more flavor than an hour simmering in liquid. Ground spices burn in under a minute: add them last, and off the heat if they include chile or paprika."
+     }
+    ]
+   },
+   {
+    "g": "Salt, acid and seasoning",
+    "items": [
+     {
+      "n": "Dry brine",
+      "w": "The best habit",
+      "d": "Salt at 1% of the meat's weight, applied at least 45 minutes ahead and ideally the night before, uncovered in the refrigerator. Salt draws out moisture, dissolves and is reabsorbed, carrying seasoning into the muscle. The surface dries at the same time, which means better browning. It costs nothing and improves everything."
+     },
+     {
+      "n": "Wet brine",
+      "w": "When it fits",
+      "d": "A 5-6% salt solution for 1-4 hours suits lean cuts that dry out easily: pork chops, turkey breast, shrimp. It adds water as well as salt, so the meat ends up juicier but the surface wetter and harder to brown. Dry it very well afterward."
+     },
+     {
+      "n": "Season in stages",
+      "w": "Depth versus surface",
+      "d": "Salt added at each stage seasons that layer. All the salt at the end stays on the outside and tastes sharp. The same total amount, spread through the cooking, tastes rounder and more like the food itself."
+     },
+     {
+      "n": "Acid is the missing ingredient",
+      "w": "Diagnosis",
+      "d": "When a dish tastes flat and heavy but is already well salted, it almost always wants acid. A squeeze of lemon, a little vinegar or a spoonful of pickle brine lifts it. Add it off the heat: cooked acid dulls, fresh acid lifts."
+     },
+     {
+      "n": "Fat carries flavor",
+      "w": "Why low-fat tastes thin",
+      "d": "Many aroma compounds dissolve only in fat, and fat coats the tongue so flavors last longer. A dish that tastes weak may need a knob of butter or a drizzle of oil before it needs more seasoning."
+     },
+     {
+      "n": "Taste at every stage",
+      "w": "The four-point check",
+      "d": "When something isn't right, run through salt, acid, fat and heat in that order, then texture. Nine times out of ten it's one of those four, not a missing ingredient."
+     }
+    ]
+   },
+   {
+    "g": "Emulsions and sauces",
+    "items": [
+     {
+      "n": "How an emulsion holds",
+      "w": "Mechanism",
+      "d": "Oil and water stay mixed only when the droplets are broken small enough and something keeps them apart: lecithin from yolk, mucilage from mustard, starch from pasta water or dairy proteins. Too much oil too fast overwhelms the emulsifier and the sauce breaks."
+     },
+     {
+      "n": "Rescuing a broken emulsion",
+      "w": "Repair",
+      "d": "Start over in a clean bowl with a fresh base — a yolk, a teaspoon of mustard or a tablespoon of warm water — and whisk the broken sauce into it drop by drop. Pouring the broken sauce back onto itself never works."
+     },
+     {
+      "n": "Four-step pan sauce",
+      "w": "Template",
+      "d": "Sear the protein and let it rest. Sweat a shallot in the fat. Deglaze with wine or stock and reduce by two-thirds. Off the heat, mount with cold butter one cube at a time. Adjust with acid and salt. This structure works with any protein and any liquid."
+     },
+     {
+      "n": "Pasta water is a tool",
+      "w": "Starch",
+      "d": "The cloudier the water, the more dissolved starch, and starch is what binds fat and water into a glossy sauce. Cook pasta in less water than usual, finish it in the pan with the sauce for the last minute, and add water by the spoonful until it emulsifies."
+     },
+     {
+      "n": "Roux and thickeners",
+      "w": "Ratios",
+      "d": "Equal weights of flour and fat, cooked anywhere from 2 minutes to nearly an hour depending on how dark you want it. A darker roux tastes better and thickens less: a chocolate roux has maybe a quarter of the thickening power of a blond one. Cornstarch thickens about twice as much as flour and gives gloss instead of opacity."
+     },
+     {
+      "n": "Reduction concentrates everything",
+      "w": "Salt included",
+      "d": "Reducing intensifies flavor, but it also intensifies salt, acid and bitterness. Season a sauce you plan to reduce at the end."
+     }
+    ]
+   },
+   {
+    "g": "Protein and texture",
+    "items": [
+     {
+      "n": "Collagen needs time, not heat",
+      "w": "Braising",
+      "d": "Tough cuts are tough because of collagen. It converts to gelatin above about 70 °C, but slowly: hours, not minutes. Hold a braise at 85-90 °C, never at a hard boil, which squeezes the muscle fibers while the collagen is still converting."
+     },
+     {
+      "n": "Velveting",
+      "w": "Chinese technique",
+      "d": "Toss sliced meat with cornstarch and egg white, or with a quarter teaspoon of baking soda per 250 g, and rest 20 minutes. The starch protects the surface and the alkali raises the pH so the proteins hold water. That's why restaurant stir-fry meat is tender and yours isn't."
+     },
+     {
+      "n": "Resting meat",
+      "w": "What actually happens",
+      "d": "Resting evens out the temperature and relaxes the fibers so they reabsorb liquid instead of flooding the board. Five minutes for a steak, twenty for a roast, loosely tented: wrapped tight, the crust steams and goes soft."
+     },
+     {
+      "n": "Panade",
+      "w": "Keeping ground meat juicy",
+      "d": "Bread soaked in milk, about 20% of the meat's weight, in meatballs and meatloaf. The starch gel traps water that would otherwise be squeezed out, so the result stays tender even when cooked through."
+     },
+     {
+      "n": "Baking soda on onions and meat",
+      "w": "pH tricks",
+      "d": "A pinch of baking soda raises the pH: onions caramelize in a third of the time, dried beans soften sooner and meat browns more easily. Use it sparingly: too much tastes soapy and gives a slippery texture."
+     },
+     {
+      "n": "Blanching and shocking",
+      "w": "Color and control",
+      "d": "Boil green vegetables hard in well-salted water, then plunge them into ice water. The brief heat sets the bright chlorophyll and the ice stops the cooking dead. Salt the water like the sea: it seasons and speeds things up."
+     }
+    ]
+   },
+   {
+    "g": "Baking and starch",
+    "items": [
+     {
+      "n": "Gluten development",
+      "w": "Structure",
+      "d": "Gluten forms when wheat proteins meet water and get worked. Bread wants a lot, cake almost none. An overmixed cake batter turns out tough for exactly this reason. Autolyse — mixing flour and water and waiting 30 minutes — develops gluten passively and saves kneading."
+     },
+     {
+      "n": "Hydration",
+      "w": "Percentages",
+      "d": "Baker's percentage expresses everything relative to flour weight. 60% water gives a firm, manageable dough. 75% or more gives an open, holey crumb and a sticky dough that gets folded instead of kneaded. Whole wheat drinks more water than white."
+     },
+     {
+      "n": "Cold fermentation",
+      "w": "Flavor",
+      "d": "Time in the refrigerator lets enzymes break starch into sugars and lets acids and aroma compounds build. A 24-hour cold ferment makes bread and pizza taste like something; a 2-hour warm one makes them taste like yeast."
+     },
+     {
+      "n": "Creamed versus melted butter",
+      "w": "Texture control",
+      "d": "Creaming solid butter with sugar incorporates air and gives a cakey crumb. Melted butter gives density and chew. Browned butter gives chew and a toffee flavor, but less water, so the dough ends up drier."
+     },
+     {
+      "n": "Chemical leaveners",
+      "w": "What each one does",
+      "d": "Baking soda needs an acid to react and acts immediately, so it also raises the pH and promotes browning. Baking powder carries its own acid, and most are double-acting, reacting once when wet and again in the oven. Too much baking soda leaves a soapy, metallic taste."
+     },
+     {
+      "n": "Gluten-free needs different handling",
+      "w": "Adaptation",
+      "d": "With no gluten there's no elastic network, so structure comes from gums, psyllium or eggs. Gluten-free batters and doughs need 10% more liquid and a 20-30 minute rest so the starches can hydrate: skipping that rest is why so much gluten-free baking tastes gritty."
+     }
+    ]
+   },
+   {
+    "g": "Pastry and lamination",
+    "items": [
+     {
+      "n": "Lamination is arithmetic",
+      "w": "How layers multiply",
+      "d": "Each letter fold triples the layers. One layer of butter becomes 3, then 9, then 27 after three folds. More folds isn't better: past about 27 layers in croissant dough, the sheets get so thin they fuse and you lose the honeycomb."
+     },
+     {
+      "n": "Butter and dough must match",
+      "w": "The central problem",
+      "d": "If the butter is harder than the dough it shatters into shards and the layers break. If it's softer, it squeezes out and gets absorbed. Both should be pliable but cool, around 14 °C. Chill between every fold, and if butter shows through the surface, stop and chill immediately."
+     },
+     {
+      "n": "Steam is the leavener",
+      "w": "Why the oven must be hot",
+      "d": "Puff pastry has no leavening agent. The water in the butter and dough turns to steam and forces the layers apart. That takes 200 °C or more; a moderate oven melts the butter before the steam can form."
+     },
+     {
+      "n": "Blind baking and shrinkage",
+      "w": "Why tart shells slump",
+      "d": "Shrinkage is gluten contracting. The fix is rest: chill the lined pan at least 30 minutes so the gluten relaxes before it meets heat. Trimming the edge after chilling, not before, also helps."
+     },
+     {
+      "n": "Choux is cooked twice",
+      "w": "Two stages",
+      "d": "Drying the paste on the stove gelatinizes the starch and evaporates water, which is what lets it absorb so much egg. In the oven that water turns to steam and inflates the shell while the egg protein sets around the hollow."
+     },
+     {
+      "n": "Syrup and pastry temperature",
+      "w": "Baklava and its relatives",
+      "d": "Cold syrup on hot pastry, or hot syrup on cold pastry, but never both at the same temperature. The difference drives absorption. Equal temperatures leave the syrup sitting on the surface and the pastry goes soggy."
+     }
+    ]
+   },
+   {
+    "g": "Sugar and sweetness",
+    "items": [
+     {
+      "n": "Sugar does five jobs",
+      "w": "Why it's hard to replace",
+      "d": "In baking, sugar sweetens, holds moisture, tenderizes by competing with gluten for water, browns through caramelization and Maillard reactions, and beats air into butter during creaming. A sweetener that only does the first won't give you the same result."
+     },
+     {
+      "n": "Allulose behaves like sugar",
+      "w": "The one that browns",
+      "d": "It's a rare sugar the body barely metabolizes, but chemically it still caramelizes and holds water. It browns about 30% faster than sucrose, so drop the oven 10-15 °C, and it spreads more in cookies, so chill the dough longer."
+     },
+     {
+      "n": "Sugar alcohols and their limits",
+      "w": "Erythritol, xylitol, maltitol",
+      "d": "They measure like sugar and taste clean, but they recrystallize as they cool, giving a gritty texture the next day, and they don't caramelize at any temperature. In quantity they cause digestive upset. Xylitol is severely toxic to dogs."
+     },
+     {
+      "n": "Sugar-free isn't carb-free",
+      "w": "A common confusion",
+      "d": "Replacing the sugar in a cookie leaves the flour untouched, and flour is starch. If you're baking for blood sugar rather than preference, the flour matters at least as much as the sweetener."
+     },
+     {
+      "n": "Caramelization and Maillard are different",
+      "w": "Two browning reactions",
+      "d": "Caramelization is sugar breaking down on its own, from about 160 °C. Maillard is sugar reacting with amino acids and starts much lower, around 140 °C, which is why milk, egg and flour brown before pure sugar does. Almost all baking does both at once."
+     }
+    ]
+   }
+  ],
+  "ratios": [
+   {
+    "n": "Vinaigrette",
+    "r": "3 : 1",
+    "d": "Oil to acid, by volume. Whisk the acid with salt and mustard first so the salt dissolves, and add the oil slowly."
+   },
+   {
+    "n": "Bread dough",
+    "r": "5 : 3",
+    "d": "Flour to water by weight: 60% hydration. Go up to 75-80% for an open, holey crumb; down to 55% for a tight sandwich loaf."
+   },
+   {
+    "n": "Fresh pasta",
+    "r": "3 : 2",
+    "d": "Flour to whole egg by weight. Roughly 100 g of flour per large egg. Semolina for bite, 00 for silk."
+   },
+   {
+    "n": "Roux",
+    "r": "1 : 1",
+    "d": "Flour to fat by weight. 60 g of roux thickens 1 liter to a light sauce, 90 g to a coating sauce."
+   },
+   {
+    "n": "Béchamel",
+    "r": "1 : 1 : 10",
+    "d": "Flour, butter and milk by weight. Add the milk warm and in stages, whisking, to avoid lumps."
+   },
+   {
+    "n": "Crème anglaise",
+    "r": "1 : 2",
+    "d": "Egg to liquid by weight. About 4 yolks per 500 ml. Cook to 82-84 °C and not one degree more."
+   },
+   {
+    "n": "Quiche custard",
+    "r": "1 : 2",
+    "d": "Egg to dairy by weight. One large egg per 120 ml of cream or milk gives a firm set without turning rubbery."
+   },
+   {
+    "n": "Pie dough",
+    "r": "3 : 2 : 1",
+    "d": "Flour, fat and water by weight. Keep everything cold and stop mixing while it still looks unfinished."
+   },
+   {
+    "n": "Pound cake",
+    "r": "1 : 1 : 1 : 1",
+    "d": "Flour, butter, sugar and egg in equal weights. The oldest formula in baking and still reliable."
+   },
+   {
+    "n": "Cookie dough",
+    "r": "3 : 2 : 1",
+    "d": "Flour, fat and sugar by weight. More sugar spreads and crisps; more flour holds its shape and stays soft."
+   },
+   {
+    "n": "Crêpe batter",
+    "r": "1 : 1 : 2",
+    "d": "Flour, egg and milk by weight. Rest the batter an hour so the flour hydrates and the bubbles settle."
+   },
+   {
+    "n": "Dry brine",
+    "r": "1%",
+    "d": "Salt at 1% of the meat's weight. 8 g for an 800 g chicken. At least 45 minutes ahead, ideally the night before."
+   },
+   {
+    "n": "Wet brine",
+    "r": "5-6%",
+    "d": "50-60 g of salt per liter of water. One hour per 500 g, and never more than 8 hours or the texture turns spongy."
+   },
+   {
+    "n": "Pasta water",
+    "r": "10 g/L",
+    "d": "About a tablespoon of salt per liter. Use less water than the package says for starchier, more useful cooking water."
+   },
+   {
+    "n": "Pickling liquid",
+    "r": "1 : 1",
+    "d": "Vinegar and water, plus 5% sugar and 3% salt on the total weight of liquid. Adjust the sugar to taste, never the salt below 2%."
+   },
+   {
+    "n": "Absorption-method rice",
+    "r": "1 : 1.5",
+    "d": "Long-grain rice to water, by volume, in a covered pot. Basmati wants a little less, 1:1.4, and brown rice 1:2."
+   },
+   {
+    "n": "Panade",
+    "r": "1 : 1",
+    "d": "Bread to milk by weight, used at 20% of the meat's weight in meatballs and meatloaf."
+   },
+   {
+    "n": "Stock",
+    "r": "1 : 1.5",
+    "d": "Bones to water, by weight. Roast them for brown stock, start cold for clarity, and never boil it."
+   },
+   {
+    "n": "Choux paste",
+    "r": "2 : 1 : 1 : 2",
+    "d": "Liquid, fat, flour and egg by weight. The egg is a target, not a rule: stop when the paste falls in a slow V."
+   },
+   {
+    "n": "Frangipane",
+    "r": "1 : 1 : 1 : 1",
+    "d": "Butter, sugar, ground almonds and egg in equal weights. Works in any tart shell, under any fruit."
+   },
+   {
+    "n": "Puff pastry",
+    "r": "1 : 1",
+    "d": "Flour to butter by weight for classic puff; 2:1 for rough puff. Water at half the flour's weight."
+   },
+   {
+    "n": "Pastry cream",
+    "r": "10 : 2 : 1 : 1",
+    "d": "Milk, sugar, starch and yolk by weight. It must boil a full minute or an enzyme in the yolk will thin it overnight."
+   },
+   {
+    "n": "Macaron shells",
+    "r": "1 : 1 : 1",
+    "d": "Almond flour, powdered sugar and granulated sugar by weight, with egg white at about 0.7 of the almond weight."
+   },
+   {
+    "n": "Brioche",
+    "r": "5 : 3 : 2",
+    "d": "Flour, egg and butter by weight for a rich brioche. Drop the butter to 1 part for an everyday enriched dough."
+   },
+   {
+    "n": "French meringue",
+    "r": "1 : 2",
+    "d": "Egg white to sugar by weight. 1:1 gives a soft meringue for topping; 1:2 gives a crisp, dry shell."
+   },
+   {
+    "n": "Glazing ganache",
+    "r": "1 : 1",
+    "d": "Chocolate to cream by weight for a glaze. 2:1 for firm truffles, 1:2 for a pourable sauce."
+   },
+   {
+    "n": "Enriched bun dough",
+    "r": "5 : 3",
+    "d": "Flour to liquid by weight, counting eggs as liquid. Tangzhong lets you push past this ratio without an unworkable dough."
+   }
+  ],
+  "temps": [
+   {
+    "k": "Chicken and turkey",
+    "v": "74 °C / 165 °F",
+    "n": "In the thickest part of the thigh. Breast is safe and much juicier at 68 °C held for one minute."
+   },
+   {
+    "k": "Pork",
+    "v": "63 °C / 145 °F",
+    "n": "Plus a 3-minute rest. Slightly pink is correct and has been officially safe for more than a decade."
+   },
+   {
+    "k": "Beef, medium-rare",
+    "v": "52-54 °C / 126-129 °F",
+    "n": "Pull it at 48-50 °C and let carryover cooking finish it."
+   },
+   {
+    "k": "Beef, medium",
+    "v": "57-60 °C / 135-140 °F",
+    "n": "Above 65 °C the fibers contract hard and squeeze out moisture."
+   },
+   {
+    "k": "Lamb",
+    "v": "55-58 °C / 131-136 °F",
+    "n": "Shoulder and shank are the exception: they want more than 90 °C for hours to melt the collagen."
+   },
+   {
+    "k": "Fish",
+    "v": "50-52 °C / 122-126 °F",
+    "n": "Just translucent at the center. Salmon at 45 °C is silky; at 60 °C, dry and chalky."
+   },
+   {
+    "k": "Braises",
+    "v": "88-90 °C / 190-194 °F",
+    "n": "Collagen converts from about 70 °C but needs hours. Never let a braise boil."
+   },
+   {
+    "k": "Custards",
+    "v": "82-84 °C / 180-183 °F",
+    "n": "Above 85 °C the egg proteins tighten and curdle. Use a thermometer."
+   },
+   {
+    "k": "Lean bread",
+    "v": "96-99 °C / 205-210 °F",
+    "n": "Internal temperature. Enriched doughs are done a bit sooner, around 90 °C."
+   },
+   {
+    "k": "Soft caramel",
+    "v": "118 °C / 244 °F",
+    "n": "Soft-ball stage, for caramel sauce and firm dulce de leche."
+   },
+   {
+    "k": "Hard candy",
+    "v": "149-154 °C / 300-310 °F",
+    "n": "Hard-crack stage, for brittles and spun sugar."
+   },
+   {
+    "k": "Deep frying",
+    "v": "175-190 °C / 350-375 °F",
+    "n": "Below 160 °C food soaks up oil; above 200 °C the outside burns before the inside cooks."
+   },
+   {
+    "k": "Dark roux",
+    "v": "~160 °C / 320 °F",
+    "n": "Held there 40 minutes with constant stirring. Black specks mean start over."
+   },
+   {
+    "k": "Active yeast",
+    "v": "24-27 °C / 75-80 °F",
+    "n": "Ideal dough temperature. Above 50 °C the yeast dies; in the refrigerator it ferments slowly and tastes better."
+   }
+  ],
+  "rescue": [
+   {
+    "q": "My sauce broke",
+    "a": "Grab a clean pan, warm a tablespoon of cream or whisk a fresh yolk, and add the broken sauce drop by drop, whisking hard. For a butter emulsion, a splash of cold water and vigorous whisking off the heat often brings it back on its own. <b>Prevention:</b> low heat and fat added slowly."
+   },
+   {
+    "q": "My rice came out gummy",
+    "a": "Rinse it until the water runs clear next time: you're washing off surface starch. If it's already cooked, spread it on a sheet pan to steam-dry, then fry it. <b>Prevention:</b> the right water ratio, lid on, and no stirring after it boils."
+   },
+   {
+    "q": "My meat came out dry",
+    "a": "There's no full recovery, but slicing it very thin against the grain and bathing it in a warm, fatty sauce hides a lot. <b>Prevention:</b> a thermometer, and pulling it 3-5 °C early. Dryness is almost always overcooking, not a bad cut."
+   },
+   {
+    "q": "My bread came out dense",
+    "a": "Underproofed, underhydrated, or the yeast was dead. Poke the dough: if the dent springs all the way back, it needs more time; if it collapses, it went too far. <b>Prevention:</b> judge by look and feel, never by the clock, and proof the yeast in warm water first."
+   },
+   {
+    "q": "My cake sank in the middle",
+    "a": "Opening the oven early, too much leavener, or underbaking. The structure hadn't set when the gas escaped. <b>Prevention:</b> keep the door shut for three-quarters of the time, measure leavener carefully and check with a skewer."
+   },
+   {
+    "q": "My cookies spread flat",
+    "a": "The dough was too warm, or there was too much sugar and too little flour. Chill the dough well, use a cold sheet pan and add 2 tbsp of flour to the next batch. <b>Prevention:</b> never portion onto a hot sheet pan straight out of the oven."
+   },
+   {
+    "q": "My custard curdled",
+    "a": "Strain it immediately through a fine sieve and blitz it with an immersion blender: that saves a surprising amount of them. <b>Prevention:</b> temper carefully, cook to 82-84 °C and stir nonstop across the bottom of the pot."
+   },
+   {
+    "q": "My pie crust came out tough",
+    "a": "Overworked, or too much water. Gluten developed where you didn't want it. Let it rest an hour in the refrigerator so it relaxes before rolling. <b>Prevention:</b> stop mixing while it still looks uneven, and keep everything cold."
+   },
+   {
+    "q": "My stir-fry steamed",
+    "a": "Too much food, too little heat, or wet ingredients. Cook in smaller batches, dry everything, and let the pan recover its heat between batches. <b>Prevention:</b> get the pan properly hot before anything touches it."
+   },
+   {
+    "q": "The roast chicken skin came out soft",
+    "a": "Moisture. Dry the bird well, salt it and leave it uncovered in the refrigerator overnight, and start with a hot oven. <b>Prevention:</b> never cover a bird with foil unless it's browning too fast."
+   },
+   {
+    "q": "My soup tastes flat",
+    "a": "Work through it in order: salt, then acid, then fat, then something umami like miso, anchovy, soy sauce or a Parmesan rind. Lack of flavor is almost never fixed with more herbs. <b>Prevention:</b> season in stages as you cook."
+   },
+   {
+    "q": "My gluten-free bake came out gritty",
+    "a": "The starches never hydrated. Rest the batter 20-30 minutes before baking and add about 10% more liquid than the wheat version. <b>Prevention:</b> weigh gluten-free flour instead of measuring it in cups: densities vary enormously."
+   },
+   {
+    "q": "My caramel crystallized",
+    "a": "One sugar crystal on the side of the pot seeded the whole batch. Add a splash of water and melt it again, washing down the sides with a wet brush. <b>Prevention:</b> a teaspoon of lemon juice or glucose keeps crystals from forming, and don't stir once it starts to color."
+   },
+   {
+    "q": "My beans are still hard after hours",
+    "a": "Old beans, very hard water, or salt added too early in a very acidic liquid. Add a pinch of baking soda and keep going. <b>Prevention:</b> buy beans that haven't sat on the shelf for two years, and add tomato or vinegar only once they're tender."
+   },
+   {
+    "q": "My cookies melted into one sheet",
+    "a": "The dough was too warm, too sweet, or the sheet pan was hot. <b>Now:</b> cut them apart while hot with a knife. <b>Next time:</b> chill the dough two hours, use a cold sheet pan, add 2 tbsp of flour and cream in less air. If you switched to allulose, expect more spread and compensate."
+   },
+   {
+    "q": "My cookies came out domed and sandy",
+    "a": "The opposite problem, and almost always from a sugar substitute. Erythritol and monk fruit blends barely spread. <b>Fix:</b> flatten the dough balls before baking and switch to allulose if you want some spread."
+   },
+   {
+    "q": "My macarons came out hollow",
+    "a": "Overwhipped meringue, or an oven that's too hot. The shell sets before the inside can rise to meet it. <b>Fix:</b> whip to stiff but not dry peaks, do the macaronage until the batter falls in a ribbon and melts back in 20 seconds, and drop the oven 10 °C."
+   },
+   {
+    "q": "My macarons have no feet",
+    "a": "They didn't form a skin before baking. <b>Fix:</b> rest the piped shells 30-60 minutes until they're dry to a light touch. In a humid kitchen this can take two hours, or not happen without a dehumidifier."
+   },
+   {
+    "q": "My choux collapsed",
+    "a": "Underbaked, or the oven was opened early. The structure is steam until the egg protein sets. <b>Fix:</b> bake longer, don't open the door for the first 15 minutes, and pierce each piece and return it to a low oven for 5 minutes to dry the inside."
+   },
+   {
+    "q": "Butter leaked out of my croissants",
+    "a": "The butter melted, from proofing too warm or from breaking the layers while rolling. <b>Fix:</b> proof at 24-26 °C, never higher, and chill between every fold. The lost butter doesn't come back, but the pastry is still edible."
+   },
+   {
+    "q": "My buttercream split",
+    "a": "A temperature difference between the butter and the base. <b>Fix:</b> warm a few spoonfuls over a water bath and beat them back in, or chill 15 minutes and beat again. It almost always comes back: keep beating."
+   },
+   {
+    "q": "My pastry cream turned runny in the refrigerator",
+    "a": "It never truly boiled. Yolks contain an enzyme that digests starch, and only a minute of boiling destroys it. <b>Prevention:</b> boil it, whisking hard, a full 60 seconds after it thickens."
+   },
+   {
+    "q": "The laminated dough fights back",
+    "a": "The gluten is tight. <b>Fix:</b> stop, cover it and chill 30 minutes. Forcing it breaks the butter layers. Rolling should never take force."
+   },
+   {
+    "q": "My meringue wept syrup",
+    "a": "The sugar didn't dissolve. <b>Fix:</b> next time add it a spoonful at a time and rub the mixture between your fingers: any grit means keep whipping. Also avoid making meringue on a very humid day."
+   },
+   {
+    "q": "My sugar-free bake turned grainy the next day",
+    "a": "Erythritol recrystallizing as it cools. <b>Fix:</b> switch to allulose, which doesn't recrystallize, or add a teaspoon of vegetable glycerin per 100 g of sweetener to hold moisture."
+   },
+   {
+    "q": "My chocolate seized while melting",
+    "a": "A drop of water got in. Chocolate is fatty, and even a splash makes the cocoa particles clump. <b>Fix:</b> paradoxically, add more liquid — a tablespoon of hot cream or water at a time, stirring — until it smooths out again like ganache. It won't be plain melted chocolate again."
+   },
+   {
+    "q": "My tart shell shrank down the sides",
+    "a": "The gluten was still tight when it went into the oven. <b>Fix:</b> chill the lined pan 30 minutes before blind baking, don't stretch the dough to fit it into the corners, and leave the edge overhanging to trim after baking."
+   }
+  ],
+  "cookieVars": [
+   {
+    "v": "Butter",
+    "o": [
+     [
+      "Creamed soft, at 18 °C",
+      "Sugar crystals cut air pockets into the fat. Lighter, taller, more cakey."
+     ],
+     [
+      "Melted",
+      "No air gets incorporated. Dense, flat and chewy."
+     ],
+     [
+      "Browned",
+      "Melted, plus 15% of its water cooked off. Chewier still, with a toffee flavor nothing else provides."
+     ]
+    ]
+   },
+   {
+    "v": "Sugar ratio",
+    "o": [
+     [
+      "More white sugar",
+      "Melts and spreads. Thinner, crisper, snappier, paler."
+     ],
+     [
+      "More brown sugar",
+      "Hygroscopic, holds water. Softer, chewier, and browns more because molasses is acidic."
+     ],
+     [
+      "Brown only",
+      "Maximum chew and maximum color. Also the least crisp edge."
+     ]
+    ]
+   },
+   {
+    "v": "Flour",
+    "o": [
+     [
+      "All-purpose, about 10% protein",
+      "The baseline. Balanced chew."
+     ],
+     [
+      "Bread flour, about 13%",
+      "More gluten. Noticeably chewier, and holds its height."
+     ],
+     [
+      "Cake flour, or with added cornstarch",
+      "Less protein. Short, tender, sandy, and keeps a big cookie from turning bready."
+     ]
+    ]
+   },
+   {
+    "v": "Eggs",
+    "o": [
+     [
+      "Whole egg",
+      "Water for spread, protein for structure, fat for richness. Balanced."
+     ],
+     [
+      "Extra yolk",
+      "Fat and emulsifier with no added water. Fudgier and richer."
+     ],
+     [
+      "Extra white",
+      "Water and protein with no fat. Cakier and drier; rarely what you want."
+     ]
+    ]
+   },
+   {
+    "v": "Leavener",
+    "o": [
+     [
+      "Baking soda",
+      "Raises the pH, which speeds browning and encourages spread. Darker, flatter, crisper edges."
+     ],
+     [
+      "Baking powder",
+      "Built-in acid, near-neutral pH. Pushes upward. Paler and more cakey."
+     ],
+     [
+      "Both",
+      "The usual compromise: some spread, some height."
+     ]
+    ]
+   },
+   {
+    "v": "Dough rest",
+    "o": [
+     [
+      "Baked right away",
+      "Milder, paler, spreads more. Perfectly good."
+     ],
+     [
+      "12-24 hours",
+      "The flour fully hydrates and enzymes break starch into sugar. More color and a rounder toffee flavor."
+     ],
+     [
+      "36-72 hours",
+      "The difference is real but diminishing. Past three days the texture starts to suffer."
+     ]
+    ]
+   },
+   {
+    "v": "Oven",
+    "o": [
+     [
+      "165-175 °C, longer",
+      "More time to spread and dry out before setting. Thinner and crisper."
+     ],
+     [
+      "190-200 °C, shorter",
+      "The structure sets before it can spread. Thicker, with a molten center."
+     ]
+    ]
+   },
+   {
+    "v": "Portion size",
+    "o": [
+     [
+      "40-55 g",
+      "Bakes evenly. Consistent texture from edge to center."
+     ],
+     [
+      "80-170 g",
+      "The outside sets long before the center. That gradient — crisp edge, raw middle — is the whole appeal of a bakery cookie."
+     ]
+    ]
+   },
+   {
+    "v": "Chocolate",
+    "o": [
+     [
+      "Chips",
+      "Formulated with less cocoa butter to hold their shape. Discrete pockets."
+     ],
+     [
+      "Chopped bar",
+      "Melts into puddles and breaks into dust that streaks the dough. Better at everything except neatness."
+     ],
+     [
+      "Discs or fèves",
+      "Flat sheets that layer through the cookie."
+     ]
+    ]
+   },
+   {
+    "v": "Mixing after the flour",
+    "o": [
+     [
+      "Minimal, just to the last streak",
+      "Tender and short. Right for almost every cookie."
+     ],
+     [
+      "Overmixed on purpose",
+      "Develops gluten. The only time that's the goal is a maximum-chew cookie."
+     ]
+    ]
+   },
+   {
+    "v": "Salt",
+    "o": [
+     [
+      "In the dough only",
+      "Seasons evenly. Fine."
+     ],
+     [
+      "Plus flaky salt on top",
+      "Discrete bursts against the sweetness. Costs nothing and changes the whole cookie."
+     ]
+    ]
+   }
+  ],
+  "cookieGoals": [
+   {
+    "g": "Chewier",
+    "d": "Bread flour, brown sugar only, melted or browned butter, an extra yolk, and a hotter, shorter bake."
+   },
+   {
+    "g": "Crisper",
+    "d": "More white sugar, more butter, less flour, a splash of milk, small portions and a lower oven for longer."
+   },
+   {
+    "g": "Thicker",
+    "d": "Cold dough, cold butter, minimal creaming, big portions, extra flour or cornstarch, and a 200 °C oven."
+   },
+   {
+    "g": "Cakier",
+    "d": "Baking powder instead of baking soda, more flour, more egg, less butter, and pull them while still pale."
+   },
+   {
+    "g": "More flavor",
+    "d": "Brown the butter, rest the dough 24 hours, use dark brown sugar, add salt and take them one shade further in the oven."
+   },
+   {
+    "g": "Less spread",
+    "d": "Chill well, use a cold sheet pan, add 2 tbsp of flour, cream in less air and bake hotter."
+   }
+  ]
+ }
+}

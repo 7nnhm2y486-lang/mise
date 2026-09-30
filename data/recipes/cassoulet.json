@@ -1,0 +1,197 @@
+{
+ "id": "cassoulet",
+ "country": "France",
+ "region": "western-europe",
+ "course": "main",
+ "time": 600,
+ "serves": 8,
+ "ovenC": 150,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "thigh",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "tomatopaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Cassoulet",
+  "blurb": "Alubias cocidas en la grasa de varias carnes en conserva, con la costra rota y hundida una y otra vez. Romper la costra es la técnica que lo define.",
+  "ing": [
+   {
+    "n": "alubias blancas secas",
+    "note": "remojadas toda la noche"
+   },
+   {
+    "n": "confit de pato"
+   },
+   {
+    "n": "salchicha de Toulouse"
+   },
+   {
+    "n": "panza de cerdo"
+   },
+   {
+    "n": "corteza de cerdo"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "zanahoria"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "concentrado de tomate"
+   },
+   {
+    "n": "tomillo y laurel"
+   },
+   {
+    "n": "grasa de pato"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece las alubias con la corteza, una cebolla, zanahoria y hierbas durante 1 hora hasta que estén casi tiernas. Guarda el líquido.",
+   "Dora las salchichas y la panza en grasa de pato. Ablanda la otra cebolla y el ajo con el concentrado de tomate.",
+   "Forra una cazuela honda de barro con la corteza, la grasa hacia abajo.",
+   "Alterna capas de alubias, carnes y los muslos de confit, terminando con alubias. Añade caldo de las alubias hasta apenas cubrir.",
+   "Cocina a 150 °C durante 3 horas. Se formará una costra encima. Rómpela y húndela con el dorso de una cuchara.",
+   "Repite el gesto cinco o seis veces durante las siguientes 2-3 horas, añadiendo caldo si se seca. La última costra se queda."
+  ],
+  "tips": [
+   "Romper la costra repetidamente es lo que espesa todo el plato: cada vez sale más almidón de las alubias.",
+   "Nunca lo remuevas. Hunde la costra y deja el resto en paz.",
+   "Está mejor al día siguiente, recalentado despacio y con una costra más rota dentro."
+  ],
+  "video": "cassoulet de toulouse"
+ },
+ "en": {
+  "name": "Cassoulet",
+  "blurb": "Beans cooked in the fat of several preserved meats, the crust broken and pushed under again and again. Breaking the crust is the defining technique.",
+  "ing": [
+   {
+    "n": "dried white beans",
+    "note": "soaked overnight"
+   },
+   {
+    "n": "duck confit"
+   },
+   {
+    "n": "Toulouse sausages"
+   },
+   {
+    "n": "pork belly"
+   },
+   {
+    "n": "pork rind"
+   },
+   {
+    "n": "onions"
+   },
+   {
+    "n": "carrots"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "thyme and bay leaves"
+   },
+   {
+    "n": "duck fat"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the beans with the rind, one onion, the carrot and the herbs for 1 hour until nearly tender. Save the liquid.",
+   "Brown the sausages and belly in duck fat. Soften the other onion and the garlic with the tomato paste.",
+   "Line a deep earthenware casserole with the rind, fat side down.",
+   "Layer beans, meats and the confit legs, finishing with beans. Add bean liquid until just covered.",
+   "Cook at 150 °C for 3 hours. A crust will form on top. Break it and push it under with the back of a spoon.",
+   "Repeat five or six times over the next 2-3 hours, adding liquid if it dries out. The last crust stays."
+  ],
+  "tips": [
+   "Breaking the crust over and over is what thickens the whole dish: each time more starch comes out of the beans.",
+   "Never stir it. Push the crust under and leave the rest alone.",
+   "It's better the next day, reheated slowly with one more crust broken in."
+  ],
+  "video": "cassoulet de toulouse recipe"
+ }
+}

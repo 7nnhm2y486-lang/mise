@@ -1,0 +1,126 @@
+{
+ "id": "teriyaki",
+ "country": "Japan",
+ "region": "east-asia",
+ "course": "sauce",
+ "time": 20,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "mirin",
+   "role": "sweet"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "sake",
+   "role": "acid"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Salsa Teriyaki",
+  "blurb": "Cuatro ingredientes en partes iguales, reducidos hasta que napan. La teriyaki de bote lleva almidón; la de verdad espesa solo por reducción de azúcares.",
+  "ing": [
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "mirin"
+   },
+   {
+    "n": "sake"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "jengibre",
+    "note": "en rodajas, opcional"
+   },
+   {
+    "n": "ajo",
+    "note": "aplastados, opcional"
+   }
+  ],
+  "steps": [
+   "Pon la soja, el mirin, el sake y el azúcar en una olla pequeña.",
+   "Añade el jengibre y el ajo si los usas, para una versión más aromática.",
+   "Lleva a hervor suave y baja el fuego.",
+   "Cocina 12-15 minutos sin tapar, hasta que se reduzca alrededor de un tercio.",
+   "Está lista cuando cubre el dorso de una cuchara y un dedo deja un rastro limpio.",
+   "Cuela y deja enfriar: espesará bastante más al enfriarse."
+  ],
+  "tips": [
+   "Sin almidón. Si necesitas espesarla, redúcela más.",
+   "Retírala antes de lo que crees: espesa muchísimo al enfriar y puede quedar como caramelo.",
+   "Pincélala al final de la cocción, nunca al principio, o el azúcar se quema."
+  ],
+  "video": "salsa teriyaki auténtica reducción"
+ },
+ "en": {
+  "name": "Teriyaki Sauce",
+  "blurb": "Four ingredients in equal parts, reduced until they coat a spoon. Bottled teriyaki has starch in it; the real thing thickens only by reducing its sugars.",
+  "ing": [
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "mirin"
+   },
+   {
+    "n": "sake"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "fresh ginger",
+    "note": "sliced, optional"
+   },
+   {
+    "n": "garlic",
+    "note": "smashed, optional"
+   }
+  ],
+  "steps": [
+   "Put the soy sauce, mirin, sake and sugar in a small saucepan.",
+   "Add the ginger and garlic, if using, for a more aromatic version.",
+   "Bring to a gentle boil and turn the heat down.",
+   "Cook uncovered for 12-15 minutes, until reduced by about a third.",
+   "It's ready when it coats the back of a spoon and a finger drawn through leaves a clean trail.",
+   "Strain and let it cool: it will thicken considerably as it cools."
+  ],
+  "tips": [
+   "No starch. If you need it thicker, reduce it more.",
+   "Take it off sooner than you think: it thickens enormously as it cools and can end up like candy.",
+   "Brush it on at the end of cooking, never at the start, or the sugar burns."
+  ],
+  "video": "authentic teriyaki sauce reduction"
+ }
+}

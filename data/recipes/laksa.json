@@ -1,0 +1,270 @@
+{
+ "id": "laksa",
+ "country": "Malaysia",
+ "region": "southeast-asia",
+ "course": "soup",
+ "time": 70,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 600,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 800,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 10,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "shallot",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "stalk",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "shrimppaste",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "cashew",
+   "role": "thicken"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "tofu",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 90,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Curry Laksa",
+  "blurb": "La pasta de rempah se fríe hasta que suelta el aceite, igual que en cualquier curry del sudeste asiático. El caldo se termina con leche de coco que nunca llega a hervir.",
+  "ing": [
+   {
+    "n": "fideos de arroz gruesos"
+   },
+   {
+    "n": "camarones"
+   },
+   {
+    "n": "muslo de pollo"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "chiles rojos secos",
+    "note": "remojados"
+   },
+   {
+    "n": "chalota"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "citronela"
+   },
+   {
+    "n": "galanga"
+   },
+   {
+    "n": "pasta de camarón"
+   },
+   {
+    "n": "cúrcuma"
+   },
+   {
+    "n": "nueces de la India",
+    "note": "o candlenut"
+   },
+   {
+    "n": "tofu frito"
+   },
+   {
+    "n": "germinado de soja"
+   },
+   {
+    "n": "hojas de laksa"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Tritura los chiles, chalotas, ajo, citronela, galanga, cúrcuma, nueces y pasta de camarón hasta obtener el rempah.",
+   "Fríe el rempah en el aceite a fuego medio 15 minutos, removiendo, hasta que oscurezca y el aceite se separe en los bordes. Este es el paso que no se puede acortar.",
+   "Añade el caldo y el pollo y cuece 20 minutos. Saca el pollo y deshébralo.",
+   "Añade la leche de coco y calienta sin dejar que hierva fuerte.",
+   "Añade los camarones y el tofu frito y cocina 3 minutos.",
+   "Sirve sobre los fideos con el pollo deshebrado, germinado y hojas de laksa."
+  ],
+  "tips": [
+   "Quince minutos friendo el rempah. Es la diferencia entre un laksa y una sopa de coco.",
+   "La leche de coco nunca hierve a borbotones o se corta y queda grasosa.",
+   "El germinado va crudo al fondo del bol, para que el caldo lo cocine justo lo necesario."
+  ],
+  "video": "curry laksa malasia"
+ },
+ "en": {
+  "name": "Curry Laksa",
+  "blurb": "The rempah is fried until it releases its oil, as in any Southeast Asian curry. The broth is finished with coconut milk that never comes to a full boil.",
+  "ing": [
+   {
+    "n": "thick rice noodles"
+   },
+   {
+    "n": "shrimp"
+   },
+   {
+    "n": "chicken thigh"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "dried red chiles",
+    "note": "soaked"
+   },
+   {
+    "n": "shallots"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "lemongrass"
+   },
+   {
+    "n": "galangal"
+   },
+   {
+    "n": "shrimp paste"
+   },
+   {
+    "n": "turmeric"
+   },
+   {
+    "n": "cashews",
+    "note": "or candlenuts"
+   },
+   {
+    "n": "fried tofu puffs"
+   },
+   {
+    "n": "bean sprouts"
+   },
+   {
+    "n": "laksa leaves"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Blend the chiles, shallots, garlic, lemongrass, galangal, turmeric, nuts and shrimp paste into the rempah.",
+   "Fry the rempah in the oil over medium heat for 15 minutes, stirring, until it darkens and the oil separates at the edges. This is the step you can't shortcut.",
+   "Add the stock and the chicken and simmer 20 minutes. Remove the chicken and shred it.",
+   "Add the coconut milk and heat without letting it boil hard.",
+   "Add the shrimp and fried tofu and cook 3 minutes.",
+   "Serve over the noodles with the shredded chicken, bean sprouts and laksa leaves."
+  ],
+  "tips": [
+   "Fifteen minutes frying the rempah. It's the difference between a laksa and a coconut soup.",
+   "Coconut milk never goes to a rolling boil or it splits and turns greasy.",
+   "The bean sprouts go raw into the bottom of the bowl, so the broth cooks them just enough."
+  ],
+  "video": "Malaysian curry laksa"
+ }
+}

@@ -1,0 +1,214 @@
+{
+ "id": "alpastor",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 1000,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "ancho",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "garnish"
+  },
+  {
+   "q": 18,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Tacos al Pastor",
+  "blurb": "Técnica de shawarma libanés sobre ingredientes mexicanos. Sin trompo, un horno fuerte y un sellado final te acercan bastante.",
+  "ing": [
+   {
+    "n": "espaldilla de cerdo",
+    "note": "en filetes de 5 mm"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "tostados y remojados"
+   },
+   {
+    "n": "chiles ancho"
+   },
+   {
+    "n": "pasta de achiote"
+   },
+   {
+    "n": "piña",
+    "note": "mitad para el adobo, mitad para asar"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "comino y orégano"
+   },
+   {
+    "n": "cebolla",
+    "note": "en dados finos"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "tortillas de maíz"
+   },
+   {
+    "n": "limón"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Tuesta los chiles en un comal seco 30 segundos por lado hasta que aromaticen, y remójalos 20 minutos en agua caliente.",
+   "Tritura los chiles con el achiote, la mitad de la piña, el vinagre, el ajo, las especias y la sal hasta obtener un adobo liso.",
+   "Cubre los filetes de cerdo y marina al menos 8 horas, idealmente toda la noche.",
+   "Apila los filetes bien apretados en una brocheta clavada de pie en una charola, con un trozo de piña arriba. Asa a 200 °C durante 90 minutos.",
+   "Reposa 15 minutos, luego rebana láminas finas del exterior y séllalas en un comal ardiendo para tostar los bordes.",
+   "Calienta bien las tortillas en comal seco. Rellena con la carne, la piña asada, cebolla, cilantro y limón."
+  ],
+  "tips": [
+   "El sellado final sustituye al trompo. Si te lo saltas, la carne queda tierna pero nunca crujiente.",
+   "La piña tiene bromelina, que ablanda. No marines más de doce horas o la superficie se deshace.",
+   "Calienta las tortillas en comal seco hasta que se inflen y guárdalas envueltas en un paño."
+  ],
+  "video": "tacos al pastor horno casero"
+ },
+ "en": {
+  "name": "Tacos al Pastor",
+  "blurb": "Lebanese shawarma technique on Mexican ingredients. No trompo, but a hot oven and a final sear get you pretty close.",
+  "ing": [
+   {
+    "n": "pork shoulder",
+    "note": "in 5 mm cutlets"
+   },
+   {
+    "n": "guajillo chiles",
+    "note": "toasted and soaked"
+   },
+   {
+    "n": "ancho chiles"
+   },
+   {
+    "n": "achiote paste"
+   },
+   {
+    "n": "pineapple",
+    "note": "half for the marinade, half for roasting"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "cumin and oregano"
+   },
+   {
+    "n": "onion",
+    "note": "finely diced"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "corn tortillas"
+   },
+   {
+    "n": "limes"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Toast the chiles on a dry comal for 30 seconds per side until fragrant, then soak them for 20 minutes in hot water.",
+   "Blend the chiles with the achiote, half the pineapple, the vinegar, garlic, spices and salt until you have a smooth adobo.",
+   "Coat the pork cutlets and marinate for at least 8 hours, ideally overnight.",
+   "Stack the cutlets tightly on a skewer standing upright in a sheet pan, with a piece of pineapple on top. Roast at 200 °C for 90 minutes.",
+   "Rest 15 minutes, then shave thin slices off the outside and sear them on a blazing-hot comal to crisp the edges.",
+   "Heat the tortillas well on a dry comal. Fill with the meat, roasted pineapple, onion, cilantro and lime."
+  ],
+  "tips": [
+   "The final sear stands in for the trompo. Skip it and the meat is tender but never crisp.",
+   "Pineapple has bromelain, which tenderizes. Don't marinate more than twelve hours or the surface turns mushy.",
+   "Heat the tortillas on a dry comal until they puff, and keep them wrapped in a towel."
+  ],
+  "video": "homemade tacos al pastor oven"
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "id": "eggtart",
+ "country": "China",
+ "region": "east-asia",
+ "course": "pastry",
+ "time": 120,
+ "serves": 12,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 125,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 110,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 240,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Tartaletas de Huevo de Hong Kong",
+  "blurb": "Un fondo de masa quebrada y una crema sin nada de nata. Colar dos veces y retirar todas las burbujas es lo que da la superficie vidriosa e impecable.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "azúcar glas"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "huevos",
+    "note": "para la crema"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua caliente"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "extracto de vainilla"
+   }
+  ],
+  "steps": [
+   "Bate la mantequilla y el azúcar glas, añade el huevo y luego la harina. Une, y refrigera 30 minutos.",
+   "Presiona la masa en los moldes, fina y pareja, subiendo justo por encima del borde.",
+   "Disuelve el azúcar en el agua caliente y enfríalo por completo. El azúcar sin disolver deja motas.",
+   "Bate los huevos con suavidad — sin aire — y mézclalos con el agua azucarada, la leche evaporada y la vainilla.",
+   "Cuela dos veces por un colador fino y retira todas las burbujas de la superficie.",
+   "Rellena hasta justo debajo del borde y hornea a 200 °C durante 15 minutos, luego a 180 °C por 10-12. Sácalas en cuanto la crema se hinche en el borde: un temblor significa perfecto, una cúpula significa pasado."
+  ],
+  "tips": [
+   "Cuela dos veces y desespuma. Las burbujas se hornean como cráteres permanentes.",
+   "Bate los huevos, nunca los montes. El aire es enemigo de una crema lisa.",
+   "Sácalas mientras el centro aún se mueve. Cuajan al enfriarse."
+  ],
+  "video": "tartaletas de huevo hong kong"
+ },
+ "en": {
+  "name": "Hong Kong Egg Tarts",
+  "blurb": "A shortcrust shell and a custard with no cream at all. Straining twice and removing every bubble is what gives the glassy, flawless surface.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "powdered sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "eggs",
+    "note": "for the custard"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "hot water"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "vanilla extract"
+   }
+  ],
+  "steps": [
+   "Beat the butter and powdered sugar, add the egg and then the flour. Bring together and refrigerate 30 minutes.",
+   "Press the dough into the tins, thin and even, coming up just above the rim.",
+   "Dissolve the sugar in the hot water and let it cool completely. Undissolved sugar leaves specks.",
+   "Beat the eggs gently — no air — and mix them with the sugar water, evaporated milk and vanilla.",
+   "Strain twice through a fine sieve and remove every bubble from the surface.",
+   "Fill to just below the rim and bake at 200 °C for 15 minutes, then at 180 °C for 10-12. Pull them as soon as the custard puffs at the edge: a wobble means perfect, a dome means overdone."
+  ],
+  "tips": [
+   "Strain twice and skim. Bubbles bake into permanent craters.",
+   "Beat the eggs, never whip them. Air is the enemy of a smooth custard.",
+   "Pull them while the center still moves. They set as they cool."
+  ],
+  "video": "hong kong egg tarts"
+ }
+}

@@ -1,0 +1,160 @@
+{
+ "id": "misirwot",
+ "country": "Ethiopia",
+ "region": "east-africa",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "ghee",
+   "role": "fat"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "tomatopaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 900,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Misir Wot",
+  "blurb": "Lentejas rojas cocidas con berbere hasta que pierden toda definición. Las cebollas van a la olla en seco, sin grasa: esa es la técnica que lo hace etíope.",
+  "ing": [
+   {
+    "n": "lentejas rojas",
+    "note": "enjuagadas"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "en dados muy finos"
+   },
+   {
+    "n": "berbere"
+   },
+   {
+    "n": "niter kibbeh o ghee"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "jengibre"
+   },
+   {
+    "n": "concentrado de tomate"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Pon las cebollas en una olla pesada a fuego medio-bajo. Sin aceite. Cocínalas 15 minutos, removiendo, hasta que se deshagan en una pasta pegajosa y empiecen a agarrarse al fondo.",
+   "Ahora sí añade el niter kibbeh, el ajo y el jengibre. Cocina 5 minutos.",
+   "Incorpora el berbere y el concentrado de tomate y fríelos 2 minutos: la especia tiene que encontrarse con la grasa o se queda cruda y polvosa.",
+   "Añade las lentejas y el agua. Cocina destapado 30-35 minutos, removiendo de vez en cuando, hasta que se deshagan por completo.",
+   "Rectifica. Debe quedar para comer con cuchara, no como sopa. Sirve con injera."
+  ],
+  "tips": [
+   "Sofreír las cebollas en seco expulsa el agua y las concentra de un modo que el aceite impide.",
+   "El berbere varía enormemente entre mezclas. Empieza con dos cucharadas y sube probando.",
+   "Espesa al enfriarse: retíralo algo más suelto de lo que lo quieres."
+  ],
+  "video": "misir wot lentejas etíopes"
+ },
+ "en": {
+  "name": "Misir Wot",
+  "blurb": "Red lentils cooked with berbere until they lose all definition. The onions go into the pot dry, with no fat: that's the technique that makes it Ethiopian.",
+  "ing": [
+   {
+    "n": "red lentils",
+    "note": "rinsed"
+   },
+   {
+    "n": "red onions",
+    "note": "very finely diced"
+   },
+   {
+    "n": "berbere"
+   },
+   {
+    "n": "niter kibbeh or ghee"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "ginger"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Put the onions in a heavy pot over medium-low heat. No oil. Cook them 15 minutes, stirring, until they collapse into a sticky paste and start to catch on the bottom.",
+   "Now add the niter kibbeh, garlic and ginger. Cook 5 minutes.",
+   "Stir in the berbere and tomato paste and fry 2 minutes: the spice has to meet the fat or it stays raw and dusty.",
+   "Add the lentils and water. Cook uncovered 30-35 minutes, stirring now and then, until they break down completely.",
+   "Adjust the seasoning. It should be spoonable, not soupy. Serve with injera."
+  ],
+  "tips": [
+   "Dry-cooking the onions drives off water and concentrates them in a way oil prevents.",
+   "Berbere varies enormously between blends. Start with two tablespoons and work up by tasting.",
+   "It thickens as it cools: take it off looser than you want it."
+  ],
+  "video": "Ethiopian misir wot red lentils"
+ }
+}

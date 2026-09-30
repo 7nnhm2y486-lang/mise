@@ -1,0 +1,232 @@
+{
+ "id": "chili",
+ "country": "United States",
+ "region": "north-america",
+ "course": "main",
+ "time": 240,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "ancho",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chipotle",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 800,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 330,
+   "u": "ml",
+   "k": "beer",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "masa",
+   "role": "thicken"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Chili con Carne",
+  "blurb": "Chiles secos enteros rehidratados y triturados, y carne en cubos en vez de molida. Sin frijoles, si lo haces a la tejana, aunque esa discusión no la ha ganado nadie nunca.",
+  "ing": [
+   {
+    "n": "aguja de res",
+    "note": "en cubos de 2 cm"
+   },
+   {
+    "n": "chiles ancho"
+   },
+   {
+    "n": "chiles guajillo"
+   },
+   {
+    "n": "chipotle en adobo"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "orégano mexicano"
+   },
+   {
+    "n": "caldo de res"
+   },
+   {
+    "n": "cerveza oscura"
+   },
+   {
+    "n": "masa harina"
+   },
+   {
+    "n": "chocolate negro"
+   },
+   {
+    "n": "vinagre de manzana"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Tuesta los chiles secos en un comal 30 segundos por lado y remójalos en caldo caliente 20 minutos. Tritúralos hasta obtener una pasta lisa y cuélala.",
+   "Dora la carne con fuerza por tandas. No llenes la olla.",
+   "Cocina las cebollas en la misma grasa, añade el ajo, el comino y el orégano.",
+   "Devuelve la carne, añade la pasta de chile, la cerveza y el resto del caldo. Cocina destapado a fuego muy suave 3 horas.",
+   "Bate la masa harina con un poco de agua e incorpórala en los últimos 20 minutos para espesar.",
+   "Termina con el chocolate, el vinagre y la sal fuera del fuego. Reposa al menos una hora antes de comer."
+  ],
+  "tips": [
+   "Chiles secos enteros, no chile en polvo. Es un plato completamente distinto.",
+   "La masa harina espesa y añade una nota de maíz tostado que la fécula no puede dar.",
+   "Chocolate y vinagre al final: amargor y acidez, no dulzor ni acidez de fruta."
+  ],
+  "video": "chili tejano chiles secos"
+ },
+ "en": {
+  "name": "Chili con Carne",
+  "blurb": "Whole dried chiles, rehydrated and blended, and cubed beef instead of ground. No beans if you're doing it Texas-style, though nobody has ever won that argument.",
+  "ing": [
+   {
+    "n": "beef chuck",
+    "note": "in 2 cm cubes"
+   },
+   {
+    "n": "ancho chiles"
+   },
+   {
+    "n": "guajillo chiles"
+   },
+   {
+    "n": "chipotle in adobo"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "Mexican oregano"
+   },
+   {
+    "n": "beef stock"
+   },
+   {
+    "n": "dark beer"
+   },
+   {
+    "n": "masa harina"
+   },
+   {
+    "n": "dark chocolate"
+   },
+   {
+    "n": "apple cider vinegar"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Toast the dried chiles on a comal 30 seconds per side and soak them in hot stock for 20 minutes. Blend to a smooth paste and strain.",
+   "Brown the beef hard, in batches. Don't crowd the pot.",
+   "Cook the onions in the same fat, then add the garlic, cumin and oregano.",
+   "Return the beef, add the chile paste, the beer and the rest of the stock. Cook uncovered at a bare simmer for 3 hours.",
+   "Whisk the masa harina with a little water and stir it in for the last 20 minutes to thicken.",
+   "Finish with the chocolate, vinegar and salt off the heat. Rest at least an hour before eating."
+  ],
+  "tips": [
+   "Whole dried chiles, not chili powder. It's a completely different dish.",
+   "Masa harina thickens and adds a toasted-corn note that cornstarch can't give.",
+   "Chocolate and vinegar at the end: bitterness and acidity, not sweetness or fruity tang."
+  ],
+  "video": "texas chili con carne dried chiles"
+ }
+}

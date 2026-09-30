@@ -1,0 +1,226 @@
+{
+ "id": "rendang",
+ "country": "Indonesia",
+ "region": "southeast-asia",
+ "course": "main",
+ "time": 240,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 1.2,
+   "u": "l",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 10,
+   "u": "",
+   "k": "shallot",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 15,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "stalk",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "desiccatedcoconut",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "palmsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Rendang de Res",
+  "blurb": "No es un curry. Es un sofrito lento: la leche de coco se reduce, se rompe y termina tostando la carne en su propio aceite durante la última hora.",
+  "ing": [
+   {
+    "n": "jarrete o aguja de res",
+    "note": "en cubos grandes"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "chalota"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "chiles rojos secos",
+    "note": "remojados"
+   },
+   {
+    "n": "galanga"
+   },
+   {
+    "n": "jengibre"
+   },
+   {
+    "n": "citronela",
+    "note": "golpeada"
+   },
+   {
+    "n": "cúrcuma fresca"
+   },
+   {
+    "n": "hojas de lima kaffir"
+   },
+   {
+    "n": "kerisik",
+    "note": "coco rallado tostado y molido a pasta"
+   },
+   {
+    "n": "tamarindo"
+   },
+   {
+    "n": "azúcar de palma"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Tritura las chalotas, el ajo, los chiles, la galanga, el jengibre y la cúrcuma hasta obtener una pasta lisa.",
+   "Fríe la pasta en una olla ancha y pesada a fuego medio 10-15 minutos, hasta que oscurezca y suelte el aceite.",
+   "Añade la carne, la leche de coco, la citronela y las hojas de lima. Lleva a hervor suave.",
+   "Cocina destapado a borboteo suave 2 horas, removiendo de vez en cuando, hasta que el líquido se reduzca dos tercios y tome un marrón profundo.",
+   "Añade el kerisik, el tamarindo, el azúcar y la sal. Ahora baja el fuego y sigue otros 45-60 minutos, removiendo más a menudo conforme espesa.",
+   "Está listo cuando el aceite de coco se ha separado y la carne se fríe en él, cubierta de una pasta oscura, seca y adherente."
+  ],
+  "tips": [
+   "Si sigue mojado y anaranjado es un kalio, no un rendang. Continúa.",
+   "El kerisik es coco tostado molido hasta soltar su aceite: espesa y profundiza como ninguna otra cosa.",
+   "La última hora pide atención. Es justo cuando se agarra y se quema."
+  ],
+  "video": "rendang de res padang"
+ },
+ "en": {
+  "name": "Beef Rendang",
+  "blurb": "It isn't a curry. It's a slow fry: the coconut milk reduces, splits and ends up toasting the meat in its own oil during the last hour.",
+  "ing": [
+   {
+    "n": "beef shank or chuck",
+    "note": "in large cubes"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "shallots"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "dried red chiles",
+    "note": "soaked"
+   },
+   {
+    "n": "galangal"
+   },
+   {
+    "n": "ginger"
+   },
+   {
+    "n": "lemongrass",
+    "note": "bruised"
+   },
+   {
+    "n": "fresh turmeric"
+   },
+   {
+    "n": "makrut lime leaves"
+   },
+   {
+    "n": "kerisik",
+    "note": "toasted grated coconut ground to a paste"
+   },
+   {
+    "n": "tamarind"
+   },
+   {
+    "n": "palm sugar"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Blend the shallots, garlic, chiles, galangal, ginger and turmeric into a smooth paste.",
+   "Fry the paste in a wide, heavy pot over medium heat for 10-15 minutes, until it darkens and releases its oil.",
+   "Add the beef, coconut milk, lemongrass and lime leaves. Bring to a gentle simmer.",
+   "Cook uncovered at a gentle bubble for 2 hours, stirring occasionally, until the liquid has reduced by two-thirds and turned a deep brown.",
+   "Add the kerisik, tamarind, sugar and salt. Now lower the heat and keep going another 45-60 minutes, stirring more often as it thickens.",
+   "It's done when the coconut oil has separated and the meat is frying in it, coated in a dark, dry, clinging paste."
+  ],
+  "tips": [
+   "If it's still wet and orange, it's a kalio, not a rendang. Keep going.",
+   "Kerisik is toasted coconut ground until it releases its oil: it thickens and deepens like nothing else.",
+   "The last hour needs attention. That's exactly when it catches and burns."
+  ],
+  "video": "padang beef rendang"
+ }
+}

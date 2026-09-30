@@ -1,0 +1,209 @@
+{
+ "id": "meatpie",
+ "country": "Australia",
+ "region": "oceania",
+ "course": "main",
+ "time": 180,
+ "serves": 6,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "tomato",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "anchovy",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 320,
+   "u": "g",
+   "k": "puffpastry",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "glaze"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Pastel de Carne Australiano",
+  "blurb": "Base de masa quebrada por resistencia, tapa de hojaldre por la subida. El relleno debe estar frío y espeso o la base se empapa antes de llegar al horno.",
+  "ing": [
+   {
+    "n": "aguja de res",
+    "note": "picada gruesa o en dados finos"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "caldo de res"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "salsa de tomate"
+   },
+   {
+    "n": "salsa Worcestershire"
+   },
+   {
+    "n": "extracto de levadura"
+   },
+   {
+    "n": "masa quebrada"
+   },
+   {
+    "n": "hojaldre"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Dora la carne con fuerza en aceite, luego añade la cebolla y cocina hasta ablandarla.",
+   "Espolvorea la harina y cocina 2 minutos, luego añade el caldo, la salsa de tomate, la Worcestershire y el extracto de levadura.",
+   "Cocina 45 minutos hasta que esté muy espeso: una cuchara arrastrada por el fondo debe dejar un canal.",
+   "Enfría por completo y refrigera. Un relleno tibio funde la base de masa en una pasta.",
+   "Forra moldes con la masa quebrada, rellena y tapa con hojaldre, sellando bien los bordes.",
+   "Haz un corte de vapor, pinta con huevo y hornea a 200 °C durante 25-30 minutos hasta que la tapa esté subida y muy dorada."
+  ],
+  "tips": [
+   "Dos masas. La quebrada retiene el líquido, el hojaldre da la tapa. Usar hojaldre para ambas da una base empapada.",
+   "Relleno frío. Es la regla que decide si el pastel se sostiene.",
+   "Hornea las bases en blanco 10 minutos primero si quieres asegurarte."
+  ],
+  "video": "pastel de carne australiano"
+ },
+ "en": {
+  "name": "Aussie Meat Pie",
+  "blurb": "Shortcrust base for strength, puff pastry lid for rise. The filling must be cold and thick or the base goes soggy before it reaches the oven.",
+  "ing": [
+   {
+    "n": "beef chuck",
+    "note": "coarsely ground or finely diced"
+   },
+   {
+    "n": "onions"
+   },
+   {
+    "n": "beef stock"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "tomato sauce"
+   },
+   {
+    "n": "Worcestershire sauce"
+   },
+   {
+    "n": "yeast extract"
+   },
+   {
+    "n": "shortcrust pastry"
+   },
+   {
+    "n": "puff pastry"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Brown the beef hard in oil, then add the onion and cook until soft.",
+   "Sprinkle in the flour and cook 2 minutes, then add the stock, tomato sauce, Worcestershire and yeast extract.",
+   "Simmer 45 minutes until very thick: a spoon dragged across the bottom should leave a channel.",
+   "Cool completely and refrigerate. A warm filling melts the pastry base into paste.",
+   "Line the tins with the shortcrust, fill and top with puff pastry, sealing the edges well.",
+   "Cut a steam vent, brush with egg and bake at 200 °C for 25-30 minutes until the lid is puffed and deep golden."
+  ],
+  "tips": [
+   "Two pastries. The shortcrust holds the liquid, the puff gives the lid. Using puff for both gives a soggy base.",
+   "Cold filling. It's the rule that decides whether the pie holds up.",
+   "Blind-bake the bases for 10 minutes first if you want insurance."
+  ],
+  "video": "Australian meat pie"
+ }
+}

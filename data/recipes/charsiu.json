@@ -1,0 +1,189 @@
+{
+ "id": "charsiu",
+ "country": "China",
+ "region": "east-asia",
+ "course": "main",
+ "time": 1500,
+ "serves": 6,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "hoisin",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "shaoxing",
+   "role": "acid"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "honey",
+   "role": "sweet"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "cube",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Char Siu",
+  "blurb": "Barnizado repetidamente en los últimos veinte minutos, lo que construye la laca en capas. La maltosa es lo que le da el brillo: la miel sola se quema antes de cuajar.",
+  "ing": [
+   {
+    "n": "espaldilla de cerdo",
+    "note": "en tiras largas"
+   },
+   {
+    "n": "salsa hoisin"
+   },
+   {
+    "n": "salsa de soja clara"
+   },
+   {
+    "n": "vino shaoxing"
+   },
+   {
+    "n": "miel"
+   },
+   {
+    "n": "maltosa",
+    "note": "o más miel"
+   },
+   {
+    "n": "cinco especias"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "tofu rojo fermentado",
+    "note": "opcional, tradicional"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "pimienta blanca"
+   }
+  ],
+  "steps": [
+   "Corta el cerdo en tiras de no más de 5 cm de grosor para que el adobo penetre.",
+   "Tritura todos los ingredientes del adobo menos la maltosa y la mitad de la miel. Reserva 4 cucharadas del adobo.",
+   "Marina el cerdo 24 horas, girándolo dos veces.",
+   "Asa sobre una rejilla encima de una bandeja con agua a 200 °C durante 25 minutos.",
+   "Calienta el adobo reservado con la maltosa y el resto de la miel hasta obtener un glaseado.",
+   "Gira y barniza cada 6-7 minutos durante los siguientes 20-25 minutos, hasta que esté oscuro, pegajoso y tostado en los bordes. Reposa 10 minutos antes de rebanar."
+  ],
+  "tips": [
+   "La bandeja con agua debajo impide que las gotas se quemen y llenen la cocina de humo.",
+   "Capas finas repetidas. Una capa gruesa de glaseado resbala y se quema en la bandeja.",
+   "Gratina los últimos 2 minutos para los bordes tostados, vigilándolo sin parar."
+  ],
+  "video": "char siu cerdo asado cantonés"
+ },
+ "en": {
+  "name": "Char Siu",
+  "blurb": "Basted repeatedly over the last twenty minutes, which builds the lacquer in layers. Maltose is what gives the shine: honey alone burns before it sets.",
+  "ing": [
+   {
+    "n": "pork shoulder",
+    "note": "in long strips"
+   },
+   {
+    "n": "hoisin sauce"
+   },
+   {
+    "n": "light soy sauce"
+   },
+   {
+    "n": "Shaoxing wine"
+   },
+   {
+    "n": "honey"
+   },
+   {
+    "n": "maltose",
+    "note": "or more honey"
+   },
+   {
+    "n": "five-spice powder"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "fermented red bean curd",
+    "note": "optional, traditional"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "white pepper"
+   }
+  ],
+  "steps": [
+   "Cut the pork into strips no more than 5 cm thick so the marinade gets in.",
+   "Blend all the marinade ingredients except the maltose and half the honey. Set aside 4 tablespoons of the marinade.",
+   "Marinate the pork for 24 hours, turning it twice.",
+   "Roast on a rack over a tray of water at 200 °C for 25 minutes.",
+   "Heat the reserved marinade with the maltose and the rest of the honey into a glaze.",
+   "Turn and baste every 6-7 minutes for the next 20-25 minutes, until dark, sticky and charred at the edges. Rest 10 minutes before slicing."
+  ],
+  "tips": [
+   "The water tray underneath stops the drippings from burning and filling the kitchen with smoke.",
+   "Thin, repeated coats. One thick coat of glaze slides off and burns in the tray.",
+   "Broil for the last 2 minutes for charred edges, watching it constantly."
+  ],
+  "video": "cantonese char siu bbq pork"
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "id": "beurreblanc",
+ "country": "France",
+ "region": "western-europe",
+ "course": "sauce",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "acid"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "shallot",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "cream",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Beurre Blanc",
+  "blurb": "Una emulsión de mantequilla en una reducción ácida, sostenida solo por agitación y control del calor. Domina esto y entiendes las salsas.",
+  "ing": [
+   {
+    "n": "vino blanco seco"
+   },
+   {
+    "n": "vinagre de vino blanco"
+   },
+   {
+    "n": "chalota",
+    "note": "muy picada"
+   },
+   {
+    "n": "mantequilla fría",
+    "note": "en cubos"
+   },
+   {
+    "n": "crema espesa",
+    "note": "opcional, como seguro"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta blanca"
+   }
+  ],
+  "steps": [
+   "Reduce el vino, el vinagre y las chalotas hasta que queden unas 2 cucharadas de líquido almibarado.",
+   "Añade la crema si la usas y lleva a hervor: la crema es una red de seguridad que vuelve la emulsión mucho más difícil de romper.",
+   "Baja el fuego al mínimo. Bate la mantequilla fría de dos en dos cubos, añadiendo más solo cuando el anterior se haya fundido.",
+   "Mueve la sartén dentro y fuera del fuego. Si llega a hervir, la mantequilla se corta.",
+   "Rectifica y cuela si la quieres cristalina.",
+   "Mantenla en un sitio tibio, no caliente: unos 55 °C. Una vez rota no se puede recalentar."
+  ],
+  "tips": [
+   "Mantequilla fría añadida despacio es toda la técnica. La mantequilla tibia suelta su grasa y se corta.",
+   "Si se rompe: pon una cucharada de crema en una sartén limpia, caliéntala y bate la salsa rota dentro gota a gota.",
+   "Que no hierva nunca. Ni una sola vez."
+  ],
+  "video": "salsa beurre blanc técnica"
+ },
+ "en": {
+  "name": "Beurre Blanc",
+  "blurb": "An emulsion of butter in an acidic reduction, held together only by agitation and heat control. Master this and you understand sauces.",
+  "ing": [
+   {
+    "n": "dry white wine"
+   },
+   {
+    "n": "white wine vinegar"
+   },
+   {
+    "n": "shallots",
+    "note": "very finely chopped"
+   },
+   {
+    "n": "cold butter",
+    "note": "cubed"
+   },
+   {
+    "n": "heavy cream",
+    "note": "optional, as insurance"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "white pepper"
+   }
+  ],
+  "steps": [
+   "Reduce the wine, vinegar and shallots until about 2 tablespoons of syrupy liquid remain.",
+   "Add the cream if using and bring to a boil: the cream is a safety net that makes the emulsion much harder to break.",
+   "Turn the heat to the lowest setting. Whisk in the cold butter two cubes at a time, adding more only when the previous ones have melted.",
+   "Move the pan on and off the heat. If it boils, the butter breaks.",
+   "Adjust the seasoning, and strain it if you want it crystal clear.",
+   "Keep it somewhere warm, not hot: about 55 °C. Once broken, it can't be reheated."
+  ],
+  "tips": [
+   "Cold butter added slowly is the entire technique. Warm butter releases its fat and breaks.",
+   "If it breaks: put a spoonful of cream in a clean pan, heat it and whisk the broken sauce in drop by drop.",
+   "Never let it boil. Not even once."
+  ],
+  "video": "beurre blanc sauce technique"
+ }
+}

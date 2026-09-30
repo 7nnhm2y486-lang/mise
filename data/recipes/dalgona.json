@@ -1,0 +1,127 @@
+{
+ "id": "dalgona",
+ "country": "Korea",
+ "region": "east-asia",
+ "course": "sweet",
+ "time": 15,
+ "serves": 2,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "aerate"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 8,
+   "u": "cube",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Café Dalgona",
+  "blurb": "El viral de 2020, y solo funciona con café instantáneo. Los gránulos liofilizados contienen proteínas y aceites que estabilizan la espuma; el café de filtro, por bueno que sea, jamás monta.",
+  "ing": [
+   {
+    "n": "café instantáneo",
+    "note": "en gránulos, no en polvo fino"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua hirviendo"
+   },
+   {
+    "n": "leche",
+    "note": "fría"
+   },
+   {
+    "n": "hielo"
+   },
+   {
+    "n": "cacao en polvo"
+   }
+  ],
+  "steps": [
+   "Usa partes iguales de café instantáneo, azúcar y agua hirviendo. La proporción 1:1:1 es la receta entera.",
+   "Bate a velocidad alta con varillas eléctricas durante 3-4 minutos. A mano son unos 10 minutos de batido continuo.",
+   "Pasará por tres etapas: líquido oscuro, espuma clara y finalmente una crema color caramelo que sostiene picos.",
+   "Está lista cuando al levantar las varillas se forma un pico que se mantiene en pie.",
+   "Llena los vasos con leche fría y hielo.",
+   "Coloca la crema de café encima con cuchara y espolvorea cacao. Se mezcla al beber."
+  ],
+  "tips": [
+   "Café instantáneo obligatoriamente. Con café molido o espresso no monta, y esta es la queja más frecuente de quien lo intenta.",
+   "Agua hirviendo, no tibia: necesita disolver el azúcar por completo.",
+   "Se mantiene montado unas dos horas en el refrigerador antes de empezar a bajar."
+  ],
+  "video": "café dalgona batido"
+ },
+ "en": {
+  "name": "Dalgona Coffee",
+  "blurb": "The 2020 viral hit, and it only works with instant coffee. Freeze-dried granules contain proteins and oils that stabilize the foam; drip coffee, however good, will never whip.",
+  "ing": [
+   {
+    "n": "instant coffee",
+    "note": "granules, not fine powder"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "boiling water"
+   },
+   {
+    "n": "milk",
+    "note": "cold"
+   },
+   {
+    "n": "ice"
+   },
+   {
+    "n": "cocoa powder"
+   }
+  ],
+  "steps": [
+   "Use equal parts instant coffee, sugar and boiling water. The 1:1:1 ratio is the whole recipe.",
+   "Beat on high with an electric mixer for 3-4 minutes. By hand it's about 10 minutes of nonstop whisking.",
+   "It goes through three stages: dark liquid, pale foam, and finally a caramel-colored cream that holds peaks.",
+   "It's ready when lifting the beaters leaves a peak that stands up on its own.",
+   "Fill the glasses with cold milk and ice.",
+   "Spoon the coffee cream on top and dust with cocoa. Stir it in as you drink."
+  ],
+  "tips": [
+   "Instant coffee, no exceptions. Ground coffee or espresso won't whip, and that's the most common complaint from people who try it.",
+   "Boiling water, not warm: it needs to dissolve the sugar completely.",
+   "It stays whipped for about two hours in the fridge before it starts to fall."
+  ],
+  "video": "whipped dalgona coffee"
+ }
+}

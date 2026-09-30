@@ -1,0 +1,200 @@
+{
+ "id": "stroopwafel",
+ "country": "Netherlands",
+ "region": "western-europe",
+ "course": "cookie",
+ "time": 120,
+ "serves": 16,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 5,
+   "u": "g",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "molasses",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "caramel"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Stroopwafels",
+  "blurb": "Una masa de gofre con levadura prensada muy fina, abierta en caliente y rellena de caramelo. La apertura tiene que ocurrir en los diez segundos siguientes a salir de la plancha.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "mantequilla",
+    "note": "derretida"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "levadura seca instantánea"
+   },
+   {
+    "n": "leche entera",
+    "note": "tibia"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "jarabe dorado",
+    "note": "para el relleno"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "canela"
+   }
+  ],
+  "steps": [
+   "Mezcla los ingredientes de la masa en una masa rígida y algo desmigajada. Reposa 45 minutos en un sitio cálido.",
+   "Para el relleno, hierve el jarabe, el azúcar morena, la mantequilla y la canela hasta 115 °C, y mantenlo tibio y fluido.",
+   "Forma bolas de 30 g y prensa cada una en una plancha de pizzelle o gofre caliente unos 30 segundos, hasta que esté dorada pálida.",
+   "Trabajando de inmediato, recorta el gofre con un cortador y ábrelo horizontalmente con un cuchillo largo de sierra mientras siga flexible. Pasados diez segundos está demasiado quebradizo.",
+   "Unta el caramelo tibio en la mitad inferior y vuelve a colocar la superior.",
+   "Enfría por completo. Recaliéntalo sobre una taza de café para ablandar el relleno."
+  ],
+  "tips": [
+   "Ábrelo al instante. Este único paso es la razón de que casi todos los intentos caseros fallen.",
+   "115 °C en el caramelo: más blando se escurre, más duro se agrieta.",
+   "Una plancha de pizzelle da el grosor correcto. Una gofrera belga es muchísimo más profunda."
+  ],
+  "video": "stroopwafel"
+ },
+ "en": {
+  "name": "Stroopwafels",
+  "blurb": "A yeasted waffle dough pressed very thin, split while hot and filled with caramel. The split has to happen within ten seconds of coming off the iron.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter",
+    "note": "melted"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "instant dry yeast"
+   },
+   {
+    "n": "whole milk",
+    "note": "lukewarm"
+   },
+   {
+    "n": "cinnamon"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "golden syrup",
+    "note": "for the filling"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "cinnamon"
+   }
+  ],
+  "steps": [
+   "Mix the dough ingredients into a stiff, slightly crumbly dough. Rest for 45 minutes somewhere warm.",
+   "For the filling, boil the syrup, brown sugar, butter and cinnamon to 115 °C, and keep it warm and fluid.",
+   "Shape into 30 g balls and press each one in a hot pizzelle or waffle iron for about 30 seconds, until pale golden.",
+   "Working immediately, trim the waffle with a cutter and split it horizontally with a long serrated knife while it's still pliable. After ten seconds it's too brittle.",
+   "Spread the warm caramel on the bottom half and put the top back on.",
+   "Cool completely. Rewarm one over a cup of coffee to soften the filling."
+  ],
+  "tips": [
+   "Split it instantly. This one step is why almost every home attempt fails.",
+   "115 °C for the caramel: softer and it runs, harder and it cracks.",
+   "A pizzelle iron gives the right thickness. A Belgian waffle iron is far too deep."
+  ],
+  "video": "stroopwafel recipe"
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "id": "mojoverde",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "sauce",
+ "time": 15,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Mojo Verde",
+  "blurb": "El mojo canario de cilantro. Los cominos se machacan con la sal gruesa antes que nada, y ese orden cambia por completo el resultado.",
+  "ing": [
+   {
+    "n": "cilantro",
+    "note": "con tallos"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "comino",
+    "note": "en grano"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "pequeño"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "vinagre de vino blanco"
+   },
+   {
+    "n": "sal gruesa"
+   },
+   {
+    "n": "agua"
+   }
+  ],
+  "steps": [
+   "Machaca el comino en grano con la sal gruesa en un mortero hasta pulverizarlo.",
+   "Añade el ajo y sigue machacando hasta obtener una pasta.",
+   "Incorpora el pimiento verde picado y machaca.",
+   "Añade el cilantro en tandas, aplastándolo contra la pared del mortero.",
+   "Incorpora el aceite poco a poco removiendo, y luego el vinagre y el agua.",
+   "Debe quedar suelto, no emulsionado del todo. Aguanta una semana en el refrigerador."
+  ],
+  "tips": [
+   "Comino y sal primero. La sal gruesa hace de abrasivo y pulveriza el comino.",
+   "Suelto, no espeso. Un mojo debe poder verterse sobre las papas arrugadas.",
+   "El mojo rojo es el mismo método con pimentón y ñora en vez de cilantro."
+  ],
+  "video": "mojo verde canario"
+ },
+ "en": {
+  "name": "Mojo Verde",
+  "blurb": "The Canarian cilantro mojo. The cumin seeds are pounded with the coarse salt before anything else, and that order completely changes the result.",
+  "ing": [
+   {
+    "n": "cilantro",
+    "note": "with stems"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "cumin",
+    "note": "whole seeds"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "small"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "white wine vinegar"
+   },
+   {
+    "n": "coarse salt"
+   },
+   {
+    "n": "water"
+   }
+  ],
+  "steps": [
+   "Pound the cumin seeds with the coarse salt in a mortar until powdered.",
+   "Add the garlic and keep pounding to a paste.",
+   "Add the chopped green pepper and pound.",
+   "Add the cilantro in batches, crushing it against the side of the mortar.",
+   "Stir in the oil a little at a time, then the vinegar and water.",
+   "It should stay loose, not fully emulsified. It keeps a week in the fridge."
+  ],
+  "tips": [
+   "Cumin and salt first. The coarse salt acts as an abrasive and pulverizes the cumin.",
+   "Loose, not thick. A mojo should pour over papas arrugadas.",
+   "Mojo rojo is the same method with pimentón and ñora peppers instead of cilantro."
+  ],
+  "video": "Canarian mojo verde"
+ }
+}

@@ -1,0 +1,199 @@
+{
+ "id": "macandcheese",
+ "country": "United States",
+ "region": "north-america",
+ "course": "main",
+ "time": 60,
+ "serves": 6,
+ "ovenC": 190,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 700,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 350,
+   "u": "g",
+   "k": "cheddar",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "gruyere",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "mustard",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "cayenne",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "panko",
+   "role": "crunch"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Macarrones con Queso",
+  "blurb": "Una bechamel bien hecha mantiene el queso emulsionado. El queso fundido directamente en leche siempre se corta en aceite y hebras.",
+  "ing": [
+   {
+    "n": "macarrones"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "cheddar curado",
+    "note": "rallado"
+   },
+   {
+    "n": "gruyer",
+    "note": "rallado"
+   },
+   {
+    "n": "mostaza de Dijon"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "cayena"
+   },
+   {
+    "n": "panko"
+   },
+   {
+    "n": "parmesano"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece los macarrones 2 minutos menos de lo que indica el paquete. Se terminan en el horno.",
+   "Haz un roux con la mantequilla y la harina, cocínalo 2 minutos e incorpora la leche tibia poco a poco hasta alisar. Cuece 5 minutos para eliminar el sabor a harina.",
+   "Retira la olla del fuego por completo antes de añadir el queso. Añádelo en tres puñados, removiendo hasta fundir cada uno.",
+   "Sazona con mostaza, nuez moscada, cayena y sal. Debe saber ligeramente demasiado fuerte: la pasta lo apagará.",
+   "Incorpora la pasta y vuelca en una fuente.",
+   "Corona con panko mezclado con mantequilla derretida y parmesano, y hornea a 190 °C durante 20-25 minutos hasta que burbujee y se dore."
+  ],
+  "tips": [
+   "Fuera del fuego antes de añadir el queso. Una salsa de queso hervida se corta, siempre.",
+   "Ralla tú el queso. El prerrallado lleva almidón que vuelve la salsa calcárea.",
+   "Sazona de más la salsa. La pasta absorbe una cantidad sorprendente de sal."
+  ],
+  "video": "macarrones con queso bechamel"
+ },
+ "en": {
+  "name": "Mac and Cheese",
+  "blurb": "A properly made béchamel keeps the cheese emulsified. Cheese melted straight into milk always breaks into oil and strings.",
+  "ing": [
+   {
+    "n": "elbow macaroni"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "aged cheddar",
+    "note": "grated"
+   },
+   {
+    "n": "Gruyère",
+    "note": "grated"
+   },
+   {
+    "n": "Dijon mustard"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "cayenne"
+   },
+   {
+    "n": "panko"
+   },
+   {
+    "n": "Parmesan"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the macaroni 2 minutes less than the package says. It finishes in the oven.",
+   "Make a roux with the butter and flour, cook it 2 minutes and whisk in the warm milk a little at a time until smooth. Simmer 5 minutes to cook out the floury taste.",
+   "Take the pot fully off the heat before adding the cheese. Add it in three handfuls, stirring until each one melts.",
+   "Season with the mustard, nutmeg, cayenne and salt. It should taste slightly too strong: the pasta will mute it.",
+   "Stir in the pasta and tip into a baking dish.",
+   "Top with panko tossed with melted butter and Parmesan, and bake at 190 °C for 20-25 minutes until bubbling and golden."
+  ],
+  "tips": [
+   "Off the heat before the cheese goes in. A boiled cheese sauce breaks, every time.",
+   "Grate your own cheese. Pre-shredded has starch that makes the sauce chalky.",
+   "Over-season the sauce. Pasta absorbs a surprising amount of salt."
+  ],
+  "video": "baked mac and cheese bechamel"
+ }
+}

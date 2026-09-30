@@ -1,0 +1,175 @@
+{
+ "id": "pbcookie",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 60,
+ "serves": 24,
+ "ovenC": 175,
+ "ing": [
+  {
+   "q": 280,
+   "u": "g",
+   "k": "peanutbutter",
+   "role": "fat"
+  },
+  {
+   "q": 115,
+   "u": "g",
+   "k": "butter",
+   "role": "aerate"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 190,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Galletas de Cacahuate",
+  "blurb": "El enrejado del tenedor es funcional, no decorativo. Esta masa es demasiado densa en grasa y proteína para extenderse sola, así que la aplastas a mano.",
+  "ing": [
+   {
+    "n": "mantequilla de cacahuate",
+    "note": "suave, sin azúcar"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "sal en escamas"
+   }
+  ],
+  "steps": [
+   "Crema la mantequilla, la mantequilla de cacahuate y los dos azúcares 3 minutos.",
+   "Bate dentro el huevo y la vainilla.",
+   "Incorpora la harina, el bicarbonato y la sal. La masa quedará rígida.",
+   "Forma bolas de 40 g bien separadas.",
+   "Presiona cada una con un tenedor enharinado dos veces, en ángulo recto, hasta dejarla de 1,5 cm.",
+   "Hornea a 175 °C durante 10-11 minutos. Sala en caliente y enfría en la bandeja."
+  ],
+  "tips": [
+   "Usa una mantequilla de cacahuate sin azúcar ni aceite de palma añadidos. Las estabilizadas dan galletas grasientas.",
+   "El enrejado es cómo se aplanan. Sin él se hornean como cúpulas con el centro crudo.",
+   "Endurecen muchísimo al enfriar. Sácalas blandas."
+  ],
+  "video": "galletas de cacahuate enrejado"
+ },
+ "en": {
+  "name": "Peanut Butter Cookies",
+  "blurb": "The fork crosshatch is functional, not decorative. This dough is too dense with fat and protein to spread on its own, so you flatten it by hand.",
+  "ing": [
+   {
+    "n": "peanut butter",
+    "note": "creamy, unsweetened"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "flaky salt"
+   }
+  ],
+  "steps": [
+   "Cream the butter, peanut butter and both sugars for 3 minutes.",
+   "Beat in the egg and vanilla.",
+   "Mix in the flour, baking soda and salt. The dough will be stiff.",
+   "Roll into 40 g balls, well spaced.",
+   "Press each one twice with a floured fork, at right angles, down to 1.5 cm.",
+   "Bake at 175 °C for 10-11 minutes. Salt while hot and cool on the tray."
+  ],
+  "tips": [
+   "Use a peanut butter with no added sugar or palm oil. Stabilized ones make greasy cookies.",
+   "The crosshatch is how they get flattened. Without it they bake into domes with raw centers.",
+   "They firm up a lot as they cool. Take them out soft."
+  ],
+  "video": "peanut butter cookies crosshatch"
+ }
+}

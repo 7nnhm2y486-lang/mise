@@ -1,0 +1,186 @@
+{
+ "id": "falafel",
+ "country": "Levant",
+ "region": "middle-east",
+ "course": "main",
+ "time": 780,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sesameseed",
+   "role": "crunch"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Faláfel",
+  "blurb": "Garbanzos secos remojados pero jamás cocidos. Los de lata tienen demasiada agua y se desintegran en el aceite: esta es la única regla innegociable.",
+  "ing": [
+   {
+    "n": "garbanzos secos",
+    "note": "remojados 18 horas, nunca cocidos"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "semilla de cilantro"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "semillas de sésamo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   }
+  ],
+  "steps": [
+   "Remoja los garbanzos 18-24 horas en abundante agua fría. Triplicarán. Escúrrelos muy bien y sécalos.",
+   "Muele los garbanzos, la cebolla, el ajo y las hierbas en un procesador hasta obtener una textura de cuscús húmedo y grueso, no un puré.",
+   "Mezcla las especias y la sal y refrigera al menos 1 hora.",
+   "Incorpora el polvo de hornear justo antes de freír, no antes.",
+   "Forma bolitas o discos presionando con firmeza y moja una cara en las semillas de sésamo.",
+   "Fríe a 175 °C durante 3-4 minutos hasta que estén bien dorados. Prueba uno primero: si se deshace, tritura la mezcla más fina o añade una cucharada de harina de garbanzo."
+  ],
+  "tips": [
+   "Solo garbanzos crudos remojados. Los cocidos o de lata dan una pasta que se disuelve en la freidora.",
+   "Polvo de hornear en el último momento. Añadido pronto reacciona y ya no hace nada.",
+   "Fríe siempre uno de prueba. La mezcla varía según lo bien que escurrieran los garbanzos."
+  ],
+  "video": "faláfel garbanzos secos"
+ },
+ "en": {
+  "name": "Falafel",
+  "blurb": "Dried chickpeas, soaked but never cooked. Canned ones hold too much water and fall apart in the oil: this is the one non-negotiable rule.",
+  "ing": [
+   {
+    "n": "dried chickpeas",
+    "note": "soaked 18 hours, never cooked"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "coriander seed"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "sesame seeds"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   }
+  ],
+  "steps": [
+   "Soak the chickpeas 18-24 hours in plenty of cold water. They will triple. Drain very well and dry them.",
+   "Grind the chickpeas, onion, garlic and herbs in a food processor to the texture of damp, coarse couscous, not a purée.",
+   "Mix in the spices and salt and refrigerate at least 1 hour.",
+   "Stir in the baking powder right before frying, not earlier.",
+   "Form balls or patties, pressing firmly, and dip one side in the sesame seeds.",
+   "Fry at 175 °C for 3-4 minutes until deep golden. Test one first: if it falls apart, grind the mix finer or add a tablespoon of chickpea flour."
+  ],
+  "tips": [
+   "Only raw soaked chickpeas. Cooked or canned ones make a paste that dissolves in the fryer.",
+   "Baking powder at the last moment. Added early, it reacts and then does nothing.",
+   "Always fry a test one. The mix varies with how well the chickpeas drained."
+  ],
+  "video": "falafel from dried chickpeas"
+ }
+}

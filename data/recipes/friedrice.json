@@ -1,0 +1,174 @@
+{
+ "id": "friedrice",
+ "country": "China",
+ "region": "east-asia",
+ "course": "main",
+ "time": 20,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "shaoxing",
+   "role": "acid"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 0.75,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "sesameoil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Arroz Frito con Huevo",
+  "blurb": "Arroz frío, un wok ardiendo y el huevo vertido sobre el arroz en vez de cocinado aparte: eso es lo que cubre cada grano de dorado.",
+  "ing": [
+   {
+    "n": "arroz cocido",
+    "note": "frío, del día anterior"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "salsa de soja clara"
+   },
+   {
+    "n": "vino shaoxing"
+   },
+   {
+    "n": "pimienta blanca"
+   },
+   {
+    "n": "manteca o aceite"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "chícharos",
+    "note": "opcional"
+   },
+   {
+    "n": "aceite de sésamo"
+   }
+  ],
+  "steps": [
+   "Deshaz el arroz frío con las manos mojadas hasta que no quede ni un grumo.",
+   "Bate los huevos con una pizca de sal y la pimienta blanca.",
+   "Calienta el wok hasta que humee, añade la grasa y gíralo para cubrirlo.",
+   "Añade el arroz y saltéalo con fuerza 2 minutos, presionando y volteando, hasta que esté caliente y empiece a saltar.",
+   "Vierte el huevo batido directamente sobre el arroz y saltea de inmediato y sin parar. El huevo recubre los granos en vez de formar cuajos.",
+   "Añade la soja por el borde del wok, el vino, el cebollín y los chícharos. Saltea 30 segundos y termina con aceite de sésamo fuera del fuego."
+  ],
+  "tips": [
+   "Huevo sobre el arroz, no cocinado antes. Este único cambio es la diferencia entre arroz dorado grano a grano y arroz con trozos de tortilla.",
+   "La soja por la pared caliente del wok, nunca en el centro: se caramela al caer.",
+   "Si el arroz se pega en grumos está demasiado húmedo. Extiéndelo en una bandeja en el refrigerador una hora."
+  ],
+  "video": "arroz frito con huevo técnica dorada"
+ },
+ "en": {
+  "name": "Egg Fried Rice",
+  "blurb": "Cold rice, a screaming-hot wok, and the egg poured over the rice instead of cooked separately: that is what coats every grain in gold.",
+  "ing": [
+   {
+    "n": "cooked rice",
+    "note": "cold, day-old"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "scallions"
+   },
+   {
+    "n": "light soy sauce"
+   },
+   {
+    "n": "Shaoxing wine"
+   },
+   {
+    "n": "white pepper"
+   },
+   {
+    "n": "lard or oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "peas",
+    "note": "optional"
+   },
+   {
+    "n": "sesame oil"
+   }
+  ],
+  "steps": [
+   "Break up the cold rice with wet hands until not a single clump remains.",
+   "Beat the eggs with a pinch of salt and the white pepper.",
+   "Heat the wok until it smokes, add the fat and swirl to coat.",
+   "Add the rice and stir-fry hard for 2 minutes, pressing and tossing, until hot and starting to jump.",
+   "Pour the beaten egg straight over the rice and stir-fry immediately and nonstop. The egg coats the grains instead of forming curds.",
+   "Add the soy sauce around the edge of the wok, then the wine, scallions and peas. Stir-fry 30 seconds and finish with sesame oil off the heat."
+  ],
+  "tips": [
+   "Egg over the rice, not cooked first. This one change is the difference between rice golden grain by grain and rice with bits of omelet.",
+   "Soy sauce down the hot side of the wok, never into the middle: it caramelizes as it falls.",
+   "If the rice sticks in clumps, it is too wet. Spread it on a tray in the fridge for an hour."
+  ],
+  "video": "golden egg fried rice technique"
+ }
+}

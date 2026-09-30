@@ -1,0 +1,198 @@
+{
+ "id": "onionsoup",
+ "country": "France",
+ "region": "western-europe",
+ "course": "soup",
+ "time": 150,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "acid"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "gruyere",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Sopa de Cebolla",
+  "blurb": "No hay atajo. Las cebollas necesitan de 50 a 60 minutos de caramelización real, y toda receta que la promete en quince describe una sopa distinta y más pálida.",
+  "ing": [
+   {
+    "n": "cebolla",
+    "note": "en juliana fina"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "vino blanco seco"
+   },
+   {
+    "n": "caldo de res"
+   },
+   {
+    "n": "coñac"
+   },
+   {
+    "n": "tomillo"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "baguette"
+   },
+   {
+    "n": "gruyer",
+    "note": "rallado"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Derrite la mantequilla y el aceite en una olla ancha y pesada y añade todas las cebollas con una buena pizca de sal. Apenas cabrán.",
+   "Cocina a fuego medio-bajo 50-60 minutos, removiendo cada cinco minutos y raspando la película dorada del fondo cada vez. Deben reducirse a una fracción de su volumen y volverse caoba oscuro.",
+   "Espolvorea la harina y cocina 2 minutos.",
+   "Desglasa con el vino y el coñac, raspando con fuerza, y reduce a la mitad.",
+   "Añade el caldo, el tomillo y el laurel y cuece 30 minutos. Rectifica.",
+   "Sirve en tazones, corona con baguette tostada y una capa gruesa de gruyer, y gratina hasta que burbujee y se dore a manchas."
+  ],
+  "tips": [
+   "La película dorada del fondo es donde está el sabor. Ráspala hacia las cebollas cada pocos minutos.",
+   "Una pizca de sal al principio extrae agua y acelera la caramelización.",
+   "Tuesta bien el pan primero, o se disuelve en la sopa en un minuto."
+  ],
+  "video": "sopa de cebolla francesa caramelizada"
+ },
+ "en": {
+  "name": "French Onion Soup",
+  "blurb": "There's no shortcut. The onions need 50 to 60 minutes of real caramelization, and any recipe that promises it in fifteen describes a different, paler soup.",
+  "ing": [
+   {
+    "n": "onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "dry white wine"
+   },
+   {
+    "n": "beef stock"
+   },
+   {
+    "n": "cognac"
+   },
+   {
+    "n": "thyme"
+   },
+   {
+    "n": "bay leaf"
+   },
+   {
+    "n": "baguette"
+   },
+   {
+    "n": "Gruyère",
+    "note": "grated"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Melt the butter and oil in a wide, heavy pot and add all the onions with a good pinch of salt. They'll barely fit.",
+   "Cook over medium-low heat for 50-60 minutes, stirring every five minutes and scraping up the brown film from the bottom each time. They should shrink to a fraction of their volume and turn dark mahogany.",
+   "Sprinkle in the flour and cook for 2 minutes.",
+   "Deglaze with the wine and cognac, scraping hard, and reduce by half.",
+   "Add the stock, thyme and bay leaf and simmer for 30 minutes. Adjust the seasoning.",
+   "Ladle into bowls, top with toasted baguette and a thick layer of Gruyère, and broil until bubbling and browned in spots."
+  ],
+  "tips": [
+   "The brown film on the bottom is where the flavor is. Scrape it back into the onions every few minutes.",
+   "A pinch of salt at the start draws out water and speeds up caramelization.",
+   "Toast the bread well first, or it dissolves into the soup within a minute."
+  ],
+  "video": "french onion soup caramelized onions"
+ }
+}

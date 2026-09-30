@@ -1,0 +1,188 @@
+{
+ "id": "ccc-skillet",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 45,
+ "serves": 8,
+ "ovenC": 180,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 170,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 240,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 0.75,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Galleta de Sartén",
+  "blurb": "La misma masa horneada en una sola masa dentro de una sartén de hierro ardiendo. El borde se fríe en mantequilla contra el metal mientras el centro apenas cuaja.",
+  "lab": "Una galleta gigante · borde frito, centro de cuchara",
+  "ing": [
+   {
+    "n": "mantequilla",
+    "note": "derretida, y más para la sartén"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "yema de huevo"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "sal en escamas"
+   }
+  ],
+  "steps": [
+   "Engrasa generosamente una sartén de hierro de 25 cm y métela al horno mientras precalienta a 180 °C.",
+   "Bate la mantequilla derretida con los dos azúcares, luego el huevo, la yema y la vainilla.",
+   "Incorpora la harina, el bicarbonato y la sal, y la mayor parte del chocolate.",
+   "Presiona la masa dentro de la sartén caliente: chisporroteará en los bordes de inmediato, que es justo el objetivo.",
+   "Hunde el resto del chocolate por encima y hornea 22-25 minutos, hasta que los bordes estén muy dorados y el centro siga blando.",
+   "Reposa 15 minutos, sala y cómela de la sartén con cucharas y helado."
+  ],
+  "tips": [
+   "Precalienta la sartén. Una sartén fría te da una galleta gruesa uniforme en vez de un borde frito y crujiente.",
+   "El hierro retiene muchísimo calor, así que sigue cocinándose fuera del horno. Hornéala dos o tres minutos de menos.",
+   "Se recalienta bien al día siguiente, diez minutos a 150 °C."
+  ],
+  "video": "galleta gigante de sartén"
+ },
+ "en": {
+  "name": "Skillet Cookie",
+  "blurb": "The same dough baked as one mass in a screaming-hot cast-iron skillet. The edge fries in butter against the metal while the center barely sets.",
+  "lab": "One giant cookie · fried edge, spoonable center",
+  "ing": [
+   {
+    "n": "butter",
+    "note": "melted, plus more for the skillet"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "egg yolk"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "flaky salt"
+   }
+  ],
+  "steps": [
+   "Generously grease a 25 cm cast-iron skillet and put it in the oven while it preheats to 180 °C.",
+   "Beat the melted butter with both sugars, then the egg, yolk and vanilla.",
+   "Fold in the flour, baking soda and salt, and most of the chocolate.",
+   "Press the dough into the hot skillet: it will sizzle at the edges immediately, which is exactly the point.",
+   "Press the rest of the chocolate into the top and bake 22-25 minutes, until the edges are deep golden and the center is still soft.",
+   "Rest 15 minutes, salt it, and eat it out of the skillet with spoons and ice cream."
+  ],
+  "tips": [
+   "Preheat the skillet. A cold skillet gives you an evenly thick cookie instead of a fried, crisp edge.",
+   "Cast iron holds a huge amount of heat, so it keeps cooking out of the oven. Underbake it by two or three minutes.",
+   "It reheats well the next day, ten minutes at 150 °C."
+  ],
+  "video": "cast iron skillet chocolate chip cookie"
+ }
+}

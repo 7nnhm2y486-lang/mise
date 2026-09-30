@@ -1,0 +1,167 @@
+{
+ "id": "dubaichocolate",
+ "country": "United Arab Emirates",
+ "region": "middle-east",
+ "course": "sweet",
+ "time": 120,
+ "serves": 8,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "phyllo",
+   "role": "crunch"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "pistachio",
+   "role": "fat"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "tahini",
+   "role": "fat"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "milkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "pistachio",
+   "role": "crunch"
+  }
+ ],
+ "es": {
+  "name": "Tableta de Chocolate con Pistacho y Kataifi",
+  "blurb": "Pasta de pistacho mezclada con fideos de kataifi tostados dentro de una tableta de chocolate. El kataifi debe tostarse hasta estar realmente crujiente o el relleno queda blando y decepcionante.",
+  "ing": [
+   {
+    "n": "masa kataifi",
+    "note": "picada en trozos de 1 cm"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "pasta de pistacho",
+    "note": "sin azúcar"
+   },
+   {
+    "n": "tahini"
+   },
+   {
+    "n": "azúcar glas"
+   },
+   {
+    "n": "chocolate con leche",
+    "note": "atemperado"
+   },
+   {
+    "n": "chocolate negro"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "pistachos",
+    "note": "picados"
+   }
+  ],
+  "steps": [
+   "Pica el kataifi en trozos cortos y tuéstalo en la mantequilla a fuego medio 10-12 minutos, removiendo sin parar, hasta que esté dorado oscuro y suene crujiente. Este paso decide el resultado.",
+   "Déjalo enfriar por completo. Si lo mezclas caliente, la pasta de pistacho lo ablanda.",
+   "Mezcla la pasta de pistacho, el tahini, el azúcar glas y la sal, e incorpora el kataifi frío.",
+   "Atempera el chocolate con leche y pincela una capa fina dentro de un molde de tableta. Deja cuajar 10 minutos en el refrigerador.",
+   "Rellena con la mezcla de pistacho, dejando un borde libre, y cubre con el resto del chocolate sellando los bordes.",
+   "Refrigera 30 minutos, desmolda y decora con chocolate negro y pistacho picado."
+  ],
+  "tips": [
+   "Tuesta el kataifi mucho más de lo que parece necesario. Es toda la textura del invento.",
+   "Enfríalo antes de mezclarlo con la pasta, o se reblandece.",
+   "El tahini no está por sabor: alarga la pasta de pistacho y evita que quede seca."
+  ],
+  "video": "tableta chocolate pistacho kataifi"
+ },
+ "en": {
+  "name": "Pistachio Kataifi Chocolate Bar",
+  "blurb": "Pistachio paste mixed with toasted kataifi strands inside a chocolate bar. The kataifi has to be toasted until truly crisp or the filling turns soft and disappointing.",
+  "ing": [
+   {
+    "n": "kataifi pastry",
+    "note": "chopped into 1 cm pieces"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "pistachio paste",
+    "note": "unsweetened"
+   },
+   {
+    "n": "tahini"
+   },
+   {
+    "n": "powdered sugar"
+   },
+   {
+    "n": "milk chocolate",
+    "note": "tempered"
+   },
+   {
+    "n": "dark chocolate"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "pistachios",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Chop the kataifi into short pieces and toast it in the butter over medium heat for 10-12 minutes, stirring constantly, until deep golden and audibly crisp. This step decides the outcome.",
+   "Let it cool completely. If you mix it in hot, the pistachio paste softens it.",
+   "Mix the pistachio paste, tahini, powdered sugar and salt, then fold in the cooled kataifi.",
+   "Temper the milk chocolate and brush a thin layer inside a chocolate bar mold. Let it set 10 minutes in the fridge.",
+   "Fill with the pistachio mixture, leaving a clean border, and cover with the rest of the chocolate, sealing the edges.",
+   "Refrigerate 30 minutes, unmold and decorate with dark chocolate and chopped pistachio."
+  ],
+  "tips": [
+   "Toast the kataifi far longer than seems necessary. It's the entire texture of the thing.",
+   "Cool it before mixing it with the paste, or it goes soggy.",
+   "The tahini isn't there for flavor: it stretches the pistachio paste and keeps it from being dry."
+  ],
+  "video": "dubai chocolate bar pistachio kataifi"
+ }
+}

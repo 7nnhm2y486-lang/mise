@@ -1,0 +1,34 @@
+{"id": "nashville", "ing": 12, "name": "pepinillos", "issue": "Dill pickle brine often contains mustard seed and sulphite preservatives", "suggest": "mustard, sulphites (check label)"}
+{"id": "nasigoreng", "ing": 12, "name": "chalota frita", "issue": "Commercial fried shallots are often dusted with wheat flour before frying", "suggest": "add wheat/gluten tag (apflour) or note 'check label'"}
+{"id": "nihari", "ing": 3, "name": "masala de nihari", "issue": "Commercial nihari masala blends often contain wheat flour or are packed alongside mustard; blend contents vary", "suggest": "flag spice blend: wheat/gluten, mustard (check label)"}
+{"id": "okonomiyaki", "ing": 6, "name": "panza de cerdo", "issue": "Pork not tagged", "suggest": "pork"}
+{"id": "okonomiyaki", "ing": 9, "name": "salsa okonomi", "issue": "Okonomi sauce contains soy sauce (soy, wheat) and often fish/seafood extract; some brands contain sulphites", "suggest": "soysauce (soy, wheat), fish; sulphites (check label)"}
+{"id": "okonomiyaki", "ing": 7, "name": "tenkasu", "issue": "Store-bought tenkasu is tempura batter scraps; batter often contains egg, and bits are fried in oils that may include soy", "suggest": "add egg (check label)"}
+{"id": "okonomiyaki", "ing": 8, "name": "jengibre encurtido", "issue": "Commercial pickled ginger (beni shoga/gari) often contains sulphite preservatives", "suggest": "sulphites (check label)"}
+{"id": "onionsoup", "ing": 4, "name": "caldo de res", "issue": "Store-bought stock/bouillon commonly contains celery and sometimes wheat, soy or sulphites", "suggest": "celery; wheat, soy, sulphites (check label)"}
+{"id": "onionsoup", "ing": 5, "name": "coñac", "issue": "Alcohol not tagged; also contains sulphites", "suggest": "alcohol, sulphites"}
+{"id": "ossobuco", "ing": 6, "name": "caldo de pollo", "issue": "Store-bought stock/bouillon commonly contains celery and sometimes wheat, soy or sulphites", "suggest": "celery; wheat, soy, sulphites (check label)"}
+{"id": "oyakodon", "ing": 10, "name": "shichimi", "issue": "Shichimi togarashi contains sesame seeds (and often seaweed/hemp seed)", "suggest": "add sesameseed"}
+{"id": "padthai", "ing": 10, "name": "nabo encurtido", "issue": "Preserved/pickled radish (chai po) often contains sulphite preservatives", "suggest": "sulphites (check label)"}
+{"id": "padthai", "ing": 8, "name": "germinado de soja", "issue": "Pad thai uses mung bean sprouts, not soy; es name 'germinado de soja' may alarm or mislead soy-allergic users (en uses 'bean sprouts'). Not a soy allergen if mung bean", "suggest": "clarify name as mung bean sprouts; no allergen tag needed"}
+{"id": "paella", "ing": 9, "name": "caldo de pollo", "issue": "Store-bought stock/bouillon commonly contains celery and sometimes wheat, soy or sulphites", "suggest": "celery; wheat, soy, sulphites (check label)"}
+{"id": "painauchocolat", "ing": 1, "name": "barritas de chocolate", "issue": "Dark chocolate / bâtons boulangers commonly contain soy lecithin and milk solids or milk cross-contact", "suggest": "ensure darkchocolate maps to soy and milk (may contain)"}
+{"id": "panforte", "ing": 2, "name": "fruta confitada", "issue": "Candied citrus peel/citron is commonly preserved with sulphites (sulphur dioxide)", "suggest": "sulphites"}
+{"id": "panforte", "ing": 3, "name": "higos secos", "issue": "Dried figs are sometimes treated with sulphites", "suggest": "sulphites (check label)"}
+{"id": "panzanella", "ing": 6, "name": "vinagre de vino tinto", "issue": "Wine vinegar contains sulphites", "suggest": "sulphites"}
+{"id": "parisbrest", "ing": 0, "name": "pasta choux", "issue": "Choux pastry is made with eggs and butter (and often milk); these are not listed separately (egg yolks/milk/butter in the list are for the cream)", "suggest": "add egg, butter/milk to choux paste"}
+{"id": "pastelnata", "ing": 9, "name": "vainilla", "issue": "Vanilla extract is ~35% alcohol", "suggest": "alcohol (unless vanilla bean/alcohol-free)"}
+{"id": "pastiera", "ing": 4, "name": "trigo cocido", "issue": "This IS wheat (gluten) and is untagged", "suggest": "wheat/gluten"}
+{"id": "pastiera", "ing": 10, "name": "fruta confitada", "issue": "Candied peel is commonly preserved with sulphites", "suggest": "sulphites"}
+{"id": "patesucree", "ing": 6, "name": "extracto de vainilla", "issue": "Vanilla extract is ~35% alcohol", "suggest": "alcohol"}
+{"id": "patesucree", "ing": null, "name": "clara de huevo (step 6, tip 2)", "issue": "Step 6 and tip 2 brush the hot shell with egg white, which is not a separate ingredient; if egg is swapped out for allergy, the method still instructs egg white", "suggest": "make egg-white seal conditional on egg, or suggest an egg-free sealer (e.g. melted cocoa butter)"}
+{"id": "pbcookie", "ing": 8, "name": "extracto de vainilla", "issue": "Vanilla extract is ~35% alcohol", "suggest": "alcohol"}
+{"id": "peperonata", "ing": 5, "name": "vinagre de vino tinto", "issue": "Wine vinegar contains sulphites", "suggest": "sulphites"}
+{"id": "peperonata", "ing": 6, "name": "alcaparras", "issue": "Capers in brine/vinegar often contain sulphites (wine vinegar)", "suggest": "sulphites (check label)"}
+{"id": "pestoeggs", "ing": 0, "name": "pesto", "issue": "Pesto contains parmesan/pecorino (milk); the recipe's own tip says 'el pesto lleva queso'. Store-bought pesto often substitutes cashews or other tree nuts and may contain whey", "suggest": "add milk (parmesan); tree nuts (cashew) check label"}
+{"id": "pestorosso", "ing": 0, "name": "tomates secos en aceite", "issue": "Commercial sun-dried tomatoes are often preserved with sulphites; jars may contain vinegar", "suggest": "sulphites (check label)"}
+{"id": "polenta", "ing": 1, "name": "agua o caldo", "issue": "If stock is used, store-bought stock commonly contains celery and sometimes wheat, soy or sulphites", "suggest": "celery; wheat, soy, sulphites (check label)"}
+{"id": "porchetta", "ing": 0, "name": "panza de cerdo con piel", "issue": "Pork not tagged", "suggest": "pork"}
+{"id": "pozole", "ing": 0, "name": "espaldilla de cerdo", "issue": "Pork not tagged", "suggest": "pork"}
+{"id": "pozole", "ing": 1, "name": "manita de cerdo", "issue": "Pork not tagged", "suggest": "pork"}
+{"id": "puttanesca", "ing": 4, "name": "alcaparras", "issue": "Capers in brine/vinegar often contain sulphites (wine vinegar)", "suggest": "sulphites (check label)"}

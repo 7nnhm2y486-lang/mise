@@ -1,0 +1,150 @@
+{
+ "id": "gnocchi",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 90,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "binder"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 12,
+   "u": "leaf",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Ñoquis de Papa",
+  "blurb": "Papas horneadas, no hervidas, y la mínima harina posible. Cada gramo de agua extra pide harina extra, y la harina extra es lo que los vuelve gomosos.",
+  "ing": [
+   {
+    "n": "papas harinosas"
+   },
+   {
+    "n": "harina común",
+    "note": "aproximada"
+   },
+   {
+    "n": "yema de huevo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "mantequilla",
+    "note": "para servir"
+   },
+   {
+    "n": "salvia"
+   },
+   {
+    "n": "parmesano"
+   }
+  ],
+  "steps": [
+   "Hornea las papas enteras con piel a 200 °C durante 60 minutos. Hornearlas en vez de hervirlas evita que absorban agua.",
+   "Ábrelas en caliente y pasa la pulpa por un pasapurés sobre la mesa. Extiéndela para que evapore el vapor 5 minutos.",
+   "Esparce la sal, la nuez moscada y la yema, y añade harina en tandas, mezclando con un raspador hasta que apenas se una. Para en cuanto deje de pegarse.",
+   "Rueda cilindros de 2 cm y corta piezas. Pásalas por el dorso de un tenedor si quieres las estrías.",
+   "Cuécelos en agua salada hirviendo: están listos entre 30 y 60 segundos después de flotar.",
+   "Saltéalos en mantequilla con salvia hasta que la mantequilla huela a avellana y sirve con parmesano."
+  ],
+  "tips": [
+   "Papas horneadas, pasapurés en caliente, y menos harina de la que crees.",
+   "Prueba a cocer uno antes de formar todos. Si se deshace, añade un poco más de harina.",
+   "Amasa lo mínimo. El gluten desarrollado es exactamente lo que no quieres aquí."
+  ],
+  "video": "ñoquis de papa ligeros"
+ },
+ "en": {
+  "name": "Potato Gnocchi",
+  "blurb": "Baked potatoes, not boiled, and as little flour as possible. Every gram of extra water demands extra flour, and extra flour is what makes them gummy.",
+  "ing": [
+   {
+    "n": "floury potatoes"
+   },
+   {
+    "n": "all-purpose flour",
+    "note": "approximate"
+   },
+   {
+    "n": "egg yolk"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "butter",
+    "note": "for serving"
+   },
+   {
+    "n": "sage"
+   },
+   {
+    "n": "Parmesan"
+   }
+  ],
+  "steps": [
+   "Bake the potatoes whole in their skins at 200 °C for 60 minutes. Baking instead of boiling keeps them from absorbing water.",
+   "Split them while hot and pass the flesh through a ricer onto the counter. Spread it out so the steam escapes for 5 minutes.",
+   "Scatter over the salt, nutmeg and yolk, and add the flour in batches, working it with a bench scraper until it barely comes together. Stop as soon as it stops sticking.",
+   "Roll 2 cm ropes and cut into pieces. Roll them down the back of a fork if you want ridges.",
+   "Cook in boiling salted water: they are done 30 to 60 seconds after they float.",
+   "Toss them in butter with sage until the butter smells nutty, and serve with Parmesan."
+  ],
+  "tips": [
+   "Baked potatoes, riced hot, and less flour than you think.",
+   "Test-cook one before shaping them all. If it falls apart, add a little more flour.",
+   "Work it as little as possible. Developed gluten is exactly what you do not want here."
+  ],
+  "video": "light potato gnocchi"
+ }
+}

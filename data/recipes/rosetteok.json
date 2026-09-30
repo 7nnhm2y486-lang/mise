@@ -1,0 +1,209 @@
+{
+ "id": "rosetteok",
+ "country": "Korea",
+ "region": "east-asia",
+ "course": "main",
+ "time": 35,
+ "serves": 3,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "gochujang",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "gochugaru",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "cream",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "dashi",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "bacon",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Tteokbokki Rosa",
+  "blurb": "El tteokbokki clásico suavizado con crema y leche. La crema no es una traición: baja el picante lo justo para que se pueda comer un plato entero.",
+  "ing": [
+   {
+    "n": "pastelitos de arroz",
+    "note": "remojados"
+   },
+   {
+    "n": "gochujang"
+   },
+   {
+    "n": "gochugaru"
+   },
+   {
+    "n": "crema espesa"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "caldo de anchoa"
+   },
+   {
+    "n": "salchicha o tocino"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "parmesano"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "cebollín"
+   }
+  ],
+  "steps": [
+   "Remoja los pastelitos de arroz 20 minutos en agua tibia.",
+   "Fríe la salchicha o el tocino hasta que suelte grasa, y añade la cebolla y el ajo.",
+   "Añade el gochujang y el gochugaru y fríelos 2 minutos en esa grasa para que pierdan el sabor crudo.",
+   "Vierte el caldo y los pastelitos y cocina 8 minutos.",
+   "Añade la crema y la leche y cocina 8 minutos más a fuego suave, sin hervir fuerte, hasta que la salsa nape.",
+   "Incorpora el parmesano fuera del fuego, ajusta con soja y azúcar, y esparce cebollín."
+  ],
+  "tips": [
+   "Fríe la pasta de chile en grasa antes de añadir líquido: ese paso no cambia aunque la versión sea cremosa.",
+   "La crema no debe hervir a borbotones o se corta con el ácido del gochujang.",
+   "El parmesano es poco ortodoxo y es lo que hace que la salsa se pegue a los pastelitos."
+  ],
+  "video": "tteokbokki rosa cremoso"
+ },
+ "en": {
+  "name": "Rosé Tteokbokki",
+  "blurb": "Classic tteokbokki softened with cream and milk. The cream isn't a betrayal: it tames the heat just enough that you can eat a whole bowl.",
+  "ing": [
+   {
+    "n": "rice cakes",
+    "note": "soaked"
+   },
+   {
+    "n": "gochujang"
+   },
+   {
+    "n": "gochugaru"
+   },
+   {
+    "n": "heavy cream"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "anchovy stock"
+   },
+   {
+    "n": "sausage or bacon"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "Parmesan"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "scallions"
+   }
+  ],
+  "steps": [
+   "Soak the rice cakes in warm water for 20 minutes.",
+   "Fry the sausage or bacon until it renders its fat, and add the onion and garlic.",
+   "Add the gochujang and gochugaru and fry them for 2 minutes in that fat so they lose their raw taste.",
+   "Pour in the stock and rice cakes and cook 8 minutes.",
+   "Add the cream and milk and cook 8 minutes more over low heat, without a hard boil, until the sauce coats a spoon.",
+   "Stir in the Parmesan off the heat, adjust with soy sauce and sugar, and scatter with scallions."
+  ],
+  "tips": [
+   "Fry the chile paste in fat before adding liquid: that step doesn't change even in the creamy version.",
+   "Don't let the cream boil hard or it will split with the acidity of the gochujang.",
+   "The Parmesan is unorthodox, and it's what makes the sauce cling to the rice cakes."
+  ],
+  "video": "rose tteokbokki creamy"
+ }
+}

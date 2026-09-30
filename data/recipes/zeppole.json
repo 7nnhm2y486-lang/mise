@@ -1,0 +1,161 @@
+{
+ "id": "zeppole",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "pastry",
+ "time": 120,
+ "serves": 12,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 1,
+   "u": "batch",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 45,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "sugar",
+   "role": "garnish"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "garnish"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Zeppole di San Giuseppe",
+  "blurb": "Anillos de pasta choux rellenos de crema pastelera y coronados con guinda. Se pueden freír u hornear, y las dos versiones son tradicionales según la región.",
+  "ing": [
+   {
+    "n": "pasta choux"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "ralladura de limón"
+   },
+   {
+    "n": "guindas en almíbar"
+   },
+   {
+    "n": "azúcar glas"
+   },
+   {
+    "n": "aceite",
+    "note": "si las fríes"
+   }
+  ],
+  "steps": [
+   "Prepara la pasta choux y escudíllala en anillos de 8 cm sobre cuadrados de papel de horno, dando dos vueltas para que queden altos.",
+   "Para hornearlas: 200 °C durante 20 minutos, luego 175 °C otros 15, y pínchalas para secar el interior.",
+   "Para freírlas: baja cada anillo con su papel a aceite a 170 °C, retira el papel con pinzas y fríe 4-5 minutos por lado. Quedan más ligeras y con burbujas.",
+   "Haz la crema pastelera con la leche infusionada con limón, las yemas, el azúcar y la fécula, hirviéndola un minuto.",
+   "Enfría la crema y bátela lisa antes de usar.",
+   "Escudilla crema en el centro de cada zeppola y otra rosa encima, corona con una guinda y espolvorea azúcar glas."
+  ],
+  "tips": [
+   "Escudíllalas sobre papel individual: es la única forma de moverlas sin deformarlas.",
+   "Al freírlas, el aceite a 170 °C, no más: son gruesas y necesitan tiempo dentro.",
+   "Se rellenan el mismo día. La choux se ablanda desde dentro en pocas horas."
+  ],
+  "video": "zeppole di san giuseppe"
+ },
+ "en": {
+  "name": "Zeppole di San Giuseppe",
+  "blurb": "Choux pastry rings filled with pastry cream and topped with a sour cherry. They can be fried or baked, and both versions are traditional depending on the region.",
+  "ing": [
+   {
+    "n": "choux pastry"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "lemon zest"
+   },
+   {
+    "n": "amarena cherries in syrup"
+   },
+   {
+    "n": "powdered sugar"
+   },
+   {
+    "n": "oil",
+    "note": "if frying"
+   }
+  ],
+  "steps": [
+   "Make the choux pastry and pipe it into 8 cm rings on squares of parchment, going around twice so they stand tall.",
+   "To bake them: 200 °C for 20 minutes, then 175 °C for another 15, and prick them to dry out the inside.",
+   "To fry them: lower each ring on its paper into oil at 170 °C, pull the paper off with tongs and fry 4-5 minutes per side. They come out lighter and blistered.",
+   "Make the pastry cream with the lemon-infused milk, the yolks, sugar and cornstarch, boiling it for one minute.",
+   "Cool the pastry cream and whisk it smooth before using.",
+   "Pipe cream into the center of each zeppola and another rosette on top, crown with a cherry and dust with powdered sugar."
+  ],
+  "tips": [
+   "Pipe them onto individual squares of paper: it's the only way to move them without misshaping them.",
+   "When frying, oil at 170 °C, no higher: they're thick and need time in the oil.",
+   "Fill them the same day. Choux softens from the inside within a few hours."
+  ],
+  "video": "zeppole di san giuseppe"
+ }
+}

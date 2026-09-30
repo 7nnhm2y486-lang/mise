@@ -1,0 +1,210 @@
+{
+ "id": "charkwayteow",
+ "country": "Malaysia",
+ "region": "southeast-asia",
+ "course": "main",
+ "time": 30,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "chive",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oystersauce",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Char Kway Teow",
+  "blurb": "La medida del plato es el wok hei: ese aroma tostado y ligeramente ahumado que solo sale de un wok muy caliente y de un cocinero que nunca lo satura.",
+  "ing": [
+   {
+    "n": "fideos de arroz planos",
+    "note": "frescos, separados"
+   },
+   {
+    "n": "camarones"
+   },
+   {
+    "n": "salchicha china",
+    "note": "en rodajas"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "germinado de soja"
+   },
+   {
+    "n": "cebollino chino"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "salsa de soja oscura"
+   },
+   {
+    "n": "salsa de soja clara"
+   },
+   {
+    "n": "salsa de ostras"
+   },
+   {
+    "n": "pasta de chile"
+   },
+   {
+    "n": "manteca o aceite"
+   },
+   {
+    "n": "pimienta blanca"
+   }
+  ],
+  "steps": [
+   "Mezcla todas las salsas en un bol. Ten todo preparado y al alcance: esto dura cuatro minutos de principio a fin.",
+   "Calienta el wok hasta que humee. Añade la manteca, luego el ajo y la salchicha, 20 segundos.",
+   "Añade los camarones y séllalos, luego empuja todo hacia la pared del wok.",
+   "Casca los huevos, déjalos cuajar 15 segundos y rómpelos.",
+   "Añade los fideos y la mezcla de salsas. Saltea y presiónalos contra el fondo, dejándolos quietos 10 segundos cada vez para que se agarren y tuesten.",
+   "Echa el germinado y el cebollino, saltea dos veces más y sirve de inmediato."
+  ],
+  "tips": [
+   "Una o dos raciones como máximo. Con tres se cuece al vapor y nunca conseguirás el tostado.",
+   "Deja los fideos quietos de vez en cuando. Saltear sin parar es remover sin parar, y sin color.",
+   "Fideos frescos, sueltos a mano. Los fríos del refrigerador se rompen en pedazos."
+  ],
+  "video": "char kway teow wok hei"
+ },
+ "en": {
+  "name": "Char Kway Teow",
+  "blurb": "The measure of this dish is wok hei: that toasty, faintly smoky aroma that only comes from a very hot wok and a cook who never overloads it.",
+  "ing": [
+   {
+    "n": "flat rice noodles",
+    "note": "fresh, separated"
+   },
+   {
+    "n": "shrimp"
+   },
+   {
+    "n": "Chinese sausage",
+    "note": "sliced"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "bean sprouts"
+   },
+   {
+    "n": "Chinese chives"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "dark soy sauce"
+   },
+   {
+    "n": "light soy sauce"
+   },
+   {
+    "n": "oyster sauce"
+   },
+   {
+    "n": "chile paste"
+   },
+   {
+    "n": "lard or oil"
+   },
+   {
+    "n": "white pepper"
+   }
+  ],
+  "steps": [
+   "Mix all the sauces in a bowl. Have everything prepped and within reach: this takes four minutes start to finish.",
+   "Heat the wok until it smokes. Add the lard, then the garlic and sausage, 20 seconds.",
+   "Add the shrimp and sear, then push everything up the side of the wok.",
+   "Crack in the eggs, let them set 15 seconds and break them up.",
+   "Add the noodles and the sauce mixture. Toss and press them against the bottom, leaving them still for 10 seconds at a time so they catch and char.",
+   "Throw in the bean sprouts and chives, toss twice more and serve immediately."
+  ],
+  "tips": [
+   "One or two servings at most. With three it steams and you'll never get the char.",
+   "Leave the noodles alone now and then. Constant tossing is constant stirring, and no color.",
+   "Fresh noodles, loosened by hand. Cold ones from the fridge break into pieces."
+  ],
+  "video": "char kway teow wok hei"
+ }
+}

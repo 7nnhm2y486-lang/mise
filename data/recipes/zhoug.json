@@ -1,0 +1,178 @@
+{
+ "id": "zhoug",
+ "country": "Yemen",
+ "region": "middle-east",
+ "course": "sauce",
+ "time": 15,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Zhoug",
+  "blurb": "Cilantro, chile verde y cardamomo machacados en crudo. El cardamomo es lo que lo distingue de cualquier otra salsa verde picante del mundo.",
+  "ing": [
+   {
+    "n": "cilantro",
+    "note": "con tallos"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "chiles verdes",
+    "note": "serranos o jalapeños"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "semilla de cardamomo",
+    "note": "de vainas verdes"
+   },
+   {
+    "n": "comino",
+    "note": "tostado y molido"
+   },
+   {
+    "n": "semilla de cilantro"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Tuesta el comino y la semilla de cilantro en seco 1 minuto y muélelos con el cardamomo.",
+   "Tritura o machaca el ajo con la sal hasta hacer pasta.",
+   "Añade los chiles y las hierbas, con tallos incluidos, y pica en pulsos cortos. No lo conviertas en puré: debe quedar con textura.",
+   "Incorpora las especias molidas.",
+   "Añade el aceite a mano, removiendo, hasta que quede una pasta suelta y brillante.",
+   "Ajusta con limón y sal. Aguanta dos semanas en el refrigerador con una capa de aceite encima."
+  ],
+  "tips": [
+   "El cardamomo es el ingrediente firma. Sin él tienes una salsa verde genérica.",
+   "Pulsos cortos. Triturado en exceso se oxida y pierde el verde intenso.",
+   "Los tallos del cilantro tienen más sabor que las hojas: no los tires."
+  ],
+  "video": "zhoug salsa verde yemení"
+ },
+ "en": {
+  "name": "Zhoug",
+  "blurb": "Cilantro, green chile and cardamom pounded raw. The cardamom is what sets it apart from every other spicy green sauce in the world.",
+  "ing": [
+   {
+    "n": "cilantro",
+    "note": "stems included"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "green chiles",
+    "note": "serranos or jalapeños"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "cardamom seeds",
+    "note": "from green pods"
+   },
+   {
+    "n": "cumin",
+    "note": "toasted and ground"
+   },
+   {
+    "n": "coriander seeds"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Toast the cumin and coriander seeds in a dry pan for 1 minute and grind them with the cardamom.",
+   "Crush or pound the garlic with the salt to a paste.",
+   "Add the chiles and herbs, stems included, and pulse in short bursts. Don't turn it into a purée: it should keep some texture.",
+   "Stir in the ground spices.",
+   "Stir in the oil by hand until it's a loose, glossy paste.",
+   "Adjust with lemon juice and salt. It keeps for two weeks in the refrigerator under a layer of oil."
+  ],
+  "tips": [
+   "Cardamom is the signature ingredient. Without it you have a generic green sauce.",
+   "Short pulses. Overprocessed, it oxidizes and loses its vivid green.",
+   "Cilantro stems have more flavor than the leaves: don't throw them away."
+  ],
+  "video": "zhoug yemeni green hot sauce"
+ }
+}

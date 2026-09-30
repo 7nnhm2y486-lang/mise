@@ -1,0 +1,130 @@
+{
+ "id": "sugopomodoro",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sauce",
+ "time": 50,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "sugar",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Sugo al Pomodoro",
+  "blurb": "La salsa de tomate base de toda Italia. Cuatro ingredientes, y la única decisión que importa es cocinarla el tiempo justo: lo bastante para perder la acidez, no tanto como para perder el color.",
+  "ing": [
+   {
+    "n": "tomate pelado San Marzano",
+    "note": "de lata, machacado a mano"
+   },
+   {
+    "n": "ajo",
+    "note": "enteros aplastados"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "albahaca",
+    "note": "ramas enteras"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "azúcar",
+    "note": "solo si hace falta"
+   }
+  ],
+  "steps": [
+   "Machaca los tomates con las manos dentro de un bol. Nunca los tritures: la batidora rompe las semillas y amarga la salsa.",
+   "Calienta el aceite con los ajos aplastados a fuego medio-bajo hasta que estén dorados y aromáticos. Retíralos.",
+   "Añade el tomate de una vez. Salpicará: usa una olla honda.",
+   "Añade las ramas enteras de albahaca y la sal, y cocina destapado 30-35 minutos a fuego suave.",
+   "Está lista cuando el aceite aflora en la superficie y una cuchara deja un surco que tarda en cerrarse.",
+   "Retira la albahaca. Prueba: si sigue ácida, una pizca de azúcar, pero solo si es necesario."
+  ],
+  "tips": [
+   "Machacar a mano, jamás triturar. Las semillas rotas amargan de forma irreversible.",
+   "Las ramas de albahaca enteras se infusionan y se retiran; las hojas picadas se ennegrecen.",
+   "Congela en porciones. Es la base de media cocina italiana."
+  ],
+  "video": "sugo al pomodoro base"
+ },
+ "en": {
+  "name": "Sugo al Pomodoro",
+  "blurb": "The base tomato sauce of all Italy. Four ingredients, and the only decision that matters is cooking it just long enough: long enough to lose the acidity, not so long it loses the color.",
+  "ing": [
+   {
+    "n": "peeled San Marzano tomatoes",
+    "note": "canned, crushed by hand"
+   },
+   {
+    "n": "garlic",
+    "note": "whole, smashed"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "basil",
+    "note": "whole sprigs"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "sugar",
+    "note": "only if needed"
+   }
+  ],
+  "steps": [
+   "Crush the tomatoes with your hands in a bowl. Never blend them: the blender breaks the seeds and makes the sauce bitter.",
+   "Heat the oil with the smashed garlic over medium-low heat until golden and fragrant. Remove the garlic.",
+   "Add the tomatoes all at once. It will spatter: use a deep pot.",
+   "Add the whole basil sprigs and the salt, and cook uncovered over gentle heat for 30-35 minutes.",
+   "It's ready when the oil rises to the surface and a spoon drawn through leaves a trail that's slow to close.",
+   "Remove the basil. Taste: if it's still sharp, a pinch of sugar, but only if needed."
+  ],
+  "tips": [
+   "Crush by hand, never blend. Broken seeds make it bitter, and there's no undoing it.",
+   "Whole basil sprigs infuse and come out; chopped leaves turn black.",
+   "Freeze it in portions. It's the base of half of Italian cooking."
+  ],
+  "video": "sugo al pomodoro italian tomato sauce"
+ }
+}

@@ -1,0 +1,190 @@
+{
+ "id": "ccc-vegan",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 800,
+ "serves": 18,
+ "ovenC": 185,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 220,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "binder"
+  },
+  {
+   "q": 5,
+   "u": "tbsp",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 280,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Galletas Veganas",
+  "blurb": "Construidas para estar buenas, no para ser aceptables. El huevo estaba ligando y levantando un poco, así que se reemplaza por linaza y algo más de gasificante, no por un encogimiento de hombros.",
+  "lab": "Sin huevo ni lácteo · diseñadas, no resignadas",
+  "ing": [
+   {
+    "n": "mantequilla vegana en bloque",
+    "note": "bloque firme, no untable de tarrina"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "linaza molida",
+    "note": "con 5 cda de agua"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro sin lácteos"
+   }
+  ],
+  "steps": [
+   "Mezcla la linaza con el agua y déjala 10 minutos hasta que espese y gelifique.",
+   "Crema la mantequilla vegana y los azúcares 4 minutos. Los bloques veganos retienen peor el aire, así que dales más tiempo que a la mantequilla de leche.",
+   "Bate dentro la mezcla de linaza y la vainilla.",
+   "Incorpora la harina, los gasificantes y la sal, y después el chocolate.",
+   "Refrigera al menos 12 horas: las mantequillas veganas son más blandas y sin frío se extenderán mal.",
+   "Hornea bolas de 55 g a 185 °C durante 12-13 minutos."
+  ],
+  "tips": [
+   "Bloque, nunca tarrina. Las untables llevan hasta un 40% de agua y las galletas saldrán planas y grasosas.",
+   "La media cucharadita extra de polvo de hornear reemplaza el poco levado que aportaba el huevo.",
+   "Están mejor al segundo día que al primero, cosa inusual en cualquier galleta."
+  ],
+  "video": "galletas veganas chispas chocolate"
+ },
+ "en": {
+  "name": "Vegan Cookies",
+  "blurb": "Built to be good, not acceptable. The egg was binding and lifting a little, so it's replaced with flax and a bit more leavening, not a shrug.",
+  "lab": "No egg or dairy · designed, not resigned",
+  "ing": [
+   {
+    "n": "vegan butter block",
+    "note": "firm block, not tub spread"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "ground flaxseed",
+    "note": "with 5 tbsp water"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dairy-free dark chocolate"
+   }
+  ],
+  "steps": [
+   "Mix the flax with the water and leave it 10 minutes until it thickens and gels.",
+   "Cream the vegan butter and sugars for 4 minutes. Vegan blocks hold air less well, so give them longer than dairy butter.",
+   "Beat in the flax mixture and the vanilla.",
+   "Fold in the flour, leaveners and salt, then the chocolate.",
+   "Refrigerate at least 12 hours: vegan butters are softer and will spread badly without the chill.",
+   "Bake 55 g balls at 185 °C for 12-13 minutes."
+  ],
+  "tips": [
+   "Block, never tub. Spreads contain up to 40% water and the cookies will come out flat and greasy.",
+   "The extra half teaspoon of baking powder replaces the little lift the egg provided.",
+   "They're better on day two than day one, which is unusual for any cookie."
+  ],
+  "video": "vegan chocolate chip cookies"
+ }
+}

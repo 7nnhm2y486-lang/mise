@@ -1,0 +1,200 @@
+{
+ "id": "hainanese",
+ "country": "Singapore",
+ "region": "southeast-asia",
+ "course": "main",
+ "time": 120,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.6,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sesameoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "garnish"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Arroz con Pollo Hainanés",
+  "blurb": "Un pollo escalfado por debajo del hervor y luego pasado por hielo, lo que convierte la piel en una capa gelatinosa. El arroz se cuece después en el caldo del escalfado, que es el verdadero sentido del plato.",
+  "ing": [
+   {
+    "n": "pollo entero"
+   },
+   {
+    "n": "jengibre"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "arroz jazmín",
+    "note": "enjuagado"
+   },
+   {
+    "n": "grasa de pollo",
+    "note": "de la cavidad"
+   },
+   {
+    "n": "aceite de sésamo"
+   },
+   {
+    "n": "pepino"
+   },
+   {
+    "n": "chile rojo",
+    "note": "para la salsa"
+   },
+   {
+    "n": "lima"
+   },
+   {
+    "n": "salsa de soja oscura"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Frota el pollo por completo con sal, enjuágalo y rellena la cavidad con jengibre y cebollín.",
+   "Súmergelo en una olla con agua que apenas lo cubra y llévalo a un temblor mínimo, nunca a hervor. Escalfa 35-40 minutos, sacándolo dos veces para vaciar y devolver el agua de la cavidad.",
+   "Sumérgelo en agua con hielo 10 minutos. Esto detiene la cocción y fija la piel en esa textura sedosa característica.",
+   "Derrite la grasa de pollo, fríe en ella el ajo y el jengibre picados, añade el arroz escurrido y tuéstalo 3 minutos.",
+   "Cuece el arroz con el caldo del escalfado, 1:1,3 en volumen, tapado y al fuego más bajo, 15 minutos, y reposa 10.",
+   "Trocea el pollo, pincélalo con aceite de sésamo y soja, y sirve con el arroz, pepino, salsa de chile y lima, y un tazón del caldo."
+  ],
+  "tips": [
+   "Que el agua no llegue nunca a hervir. Las burbujas tensan y rompen la carne.",
+   "El baño de hielo es lo que da a la piel su capa gelatinosa. Saltártelo da un pollo escalfado corriente.",
+   "El arroz sostiene el plato. Tostarlo en grasa de pollo antes del caldo es imprescindible."
+  ],
+  "video": "arroz con pollo hainanés escalfado"
+ },
+ "en": {
+  "name": "Hainanese Chicken Rice",
+  "blurb": "A chicken poached below a simmer and then plunged into ice, which turns the skin into a gelatinous layer. The rice is then cooked in the poaching broth, which is the real point of the dish.",
+  "ing": [
+   {
+    "n": "whole chicken"
+   },
+   {
+    "n": "ginger"
+   },
+   {
+    "n": "scallions"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "jasmine rice",
+    "note": "rinsed"
+   },
+   {
+    "n": "chicken fat",
+    "note": "from the cavity"
+   },
+   {
+    "n": "sesame oil"
+   },
+   {
+    "n": "cucumber"
+   },
+   {
+    "n": "red chiles",
+    "note": "for the sauce"
+   },
+   {
+    "n": "lime"
+   },
+   {
+    "n": "dark soy sauce"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Rub the chicken all over with salt, rinse it and stuff the cavity with ginger and scallions.",
+   "Lower it into a pot of water that barely covers it and bring it to the faintest shiver, never a boil. Poach 35-40 minutes, lifting it out twice to drain and refill the cavity.",
+   "Plunge it into ice water for 10 minutes. This stops the cooking and sets the skin into its signature silky texture.",
+   "Melt the chicken fat, fry the chopped garlic and ginger in it, add the drained rice and toast it for 3 minutes.",
+   "Cook the rice in the poaching broth, 1:1.3 by volume, covered over the lowest heat for 15 minutes, and rest 10.",
+   "Carve the chicken, brush it with sesame oil and soy sauce, and serve with the rice, cucumber, chile sauce and lime, and a bowl of the broth."
+  ],
+  "tips": [
+   "Never let the water boil. Bubbles tighten and tear the meat.",
+   "The ice bath is what gives the skin its gelatinous layer. Skip it and you have ordinary poached chicken.",
+   "The rice carries the dish. Toasting it in chicken fat before the broth is essential."
+  ],
+  "video": "Hainanese chicken rice poached"
+ }
+}

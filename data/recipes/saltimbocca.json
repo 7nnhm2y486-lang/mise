@@ -1,0 +1,148 @@
+{
+ "id": "saltimbocca",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 25,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 8,
+   "u": "",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 8,
+   "u": "slice",
+   "k": "prosciutto",
+   "role": "fat"
+  },
+  {
+   "q": 16,
+   "u": "leaf",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Saltimbocca alla Romana",
+  "blurb": "Ocho minutos de principio a fin. El jamón se sella contra la carne por el calor, y el lado del jamón se cocina primero para que se pegue en vez de desprenderse.",
+  "ing": [
+   {
+    "n": "escalopes de ternera",
+    "note": "finos, de unos 60 g"
+   },
+   {
+    "n": "jamón crudo"
+   },
+   {
+    "n": "salvia fresca"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "vino blanco seco"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Aplana los escalopes con cuidado hasta dejarlos parejos y muy finos.",
+   "Coloca sobre cada uno dos hojas de salvia y una loncha de jamón, y presiona. No los atravieses con palillo si puedes evitarlo: el calor los sella.",
+   "Enharina solo el lado de la carne, nunca el del jamón.",
+   "Calienta el aceite y la mitad de la mantequilla y cocina los escalopes con el lado del jamón hacia abajo durante 1 minuto.",
+   "Dales la vuelta y cocina 1 minuto más. Retíralos: se pasan en segundos.",
+   "Desglasa con el vino, reduce a la mitad, monta con la mantequilla restante fuera del fuego y vierte sobre la carne."
+  ],
+  "tips": [
+   "El lado del jamón primero. Ahí es donde se suelda al escalope.",
+   "No sales: el jamón y la reducción aportan toda la sal.",
+   "Dos minutos totales de cocción. Más y la ternera se endurece."
+  ],
+  "video": "saltimbocca alla romana"
+ },
+ "en": {
+  "name": "Saltimbocca alla Romana",
+  "blurb": "Eight minutes start to finish. The heat seals the prosciutto to the meat, and the prosciutto side cooks first so it sticks instead of peeling off.",
+  "ing": [
+   {
+    "n": "veal cutlets",
+    "note": "thin, about 60 g"
+   },
+   {
+    "n": "prosciutto"
+   },
+   {
+    "n": "fresh sage"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "dry white wine"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Gently pound the cutlets until even and very thin.",
+   "Lay two sage leaves and a slice of prosciutto on each one and press down. Avoid a toothpick if you can: the heat seals them.",
+   "Flour only the meat side, never the prosciutto side.",
+   "Heat the oil and half the butter and cook the cutlets prosciutto-side down for 1 minute.",
+   "Flip and cook 1 minute more. Take them out: they overcook in seconds.",
+   "Deglaze with the wine, reduce by half, swirl in the remaining butter off the heat and pour over the meat."
+  ],
+  "tips": [
+   "Prosciutto side first. That's where it welds to the cutlet.",
+   "Don't salt: the prosciutto and the reduction bring all the salt it needs.",
+   "Two minutes total cooking. Any more and the veal toughens."
+  ],
+  "video": "saltimbocca alla romana"
+ }
+}

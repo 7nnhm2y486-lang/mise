@@ -1,0 +1,212 @@
+{
+ "id": "caponata",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "side",
+ "time": 80,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "eggplant",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "stalk",
+   "k": "celery",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "pinenut",
+   "role": "crunch"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Caponata",
+  "blurb": "El agrodolce siciliano: vinagre y azúcar reducidos al final sobre berenjena frita. Se come a temperatura ambiente y mejora al segundo día.",
+  "ing": [
+   {
+    "n": "berenjenas",
+    "note": "en cubos, saladas"
+   },
+   {
+    "n": "apio"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "jitomate"
+   },
+   {
+    "n": "aceitunas verdes"
+   },
+   {
+    "n": "alcaparras",
+    "note": "enjuagadas"
+   },
+   {
+    "n": "vinagre de vino tinto"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "piñones",
+    "note": "tostados"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sala la berenjena 40 minutos, sécala y fríela en aceite por tandas hasta que esté dorada. Escurre.",
+   "En la misma sartén, cocina el apio 10 minutos y luego la cebolla otros 10, hasta que estén tiernos y dulces.",
+   "Añade el jitomate y cocina 15 minutos hasta que espese.",
+   "Incorpora las aceitunas, las alcaparras y las pasas.",
+   "Disuelve el azúcar en el vinagre, viértelo y sube el fuego: debe evaporarse con fuerza durante 2-3 minutos. Ese golpe de vapor ácido es el agrodolce.",
+   "Devuelve la berenjena, mezcla con cuidado y deja enfriar. Añade los piñones y la albahaca justo antes de servir."
+  ],
+  "tips": [
+   "El vinagre se evapora a fuego fuerte, no se cuece a fuego lento. Si no te pica la nariz, el fuego está bajo.",
+   "Cada verdura por su cuenta. El apio necesita más tiempo que la cebolla.",
+   "Temperatura ambiente, nunca caliente, y mejor al día siguiente."
+  ],
+  "video": "caponata siciliana agrodolce"
+ },
+ "en": {
+  "name": "Caponata",
+  "blurb": "Sicilian agrodolce: vinegar and sugar reduced at the end over fried eggplant. Eaten at room temperature, and better on day two.",
+  "ing": [
+   {
+    "n": "eggplant",
+    "note": "cubed, salted"
+   },
+   {
+    "n": "celery"
+   },
+   {
+    "n": "onions"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "green olives"
+   },
+   {
+    "n": "capers",
+    "note": "rinsed"
+   },
+   {
+    "n": "red wine vinegar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "pine nuts",
+    "note": "toasted"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Salt the eggplant for 40 minutes, pat it dry and fry it in oil in batches until golden. Drain.",
+   "In the same pan, cook the celery 10 minutes, then the onion another 10, until tender and sweet.",
+   "Add the tomatoes and cook 15 minutes until thickened.",
+   "Stir in the olives, capers and raisins.",
+   "Dissolve the sugar in the vinegar, pour it in and turn up the heat: it should boil off hard for 2-3 minutes. That blast of sour steam is the agrodolce.",
+   "Return the eggplant, fold gently and let cool. Add the pine nuts and basil just before serving."
+  ],
+  "tips": [
+   "The vinegar boils off over high heat; it doesn't simmer. If it doesn't sting your nose, the heat's too low.",
+   "Each vegetable on its own. Celery needs longer than onion.",
+   "Room temperature, never hot, and better the next day."
+  ],
+  "video": "sicilian caponata agrodolce"
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "id": "sriracha",
+ "country": "Thailand",
+ "region": "southeast-asia",
+ "course": "sauce",
+ "time": 10080,
+ "serves": 16,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 25,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Sriracha Fermentada",
+  "blurb": "Una semana de fermentación láctica antes de cocinar. Esa fermentación es la diferencia entre una salsa de chile y una sriracha, y es lo que da el fondo ácido complejo.",
+  "ing": [
+   {
+    "n": "chiles rojos frescos",
+    "note": "jalapeños rojos o fresno"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal",
+    "note": "sin yodar"
+   },
+   {
+    "n": "vinagre blanco"
+   }
+  ],
+  "steps": [
+   "Retira los tallos y tritura los chiles con el ajo, el azúcar y la sal hasta obtener una pasta gruesa.",
+   "Pásala a un frasco limpio, presiona para eliminar el aire y deja 3 cm de espacio libre. Tápalo sin cerrar del todo.",
+   "Déjalo a temperatura ambiente y a oscuras 5-7 días, removiendo a diario. Burbujeará: eso es la fermentación láctica funcionando.",
+   "Cuando huela agradablemente ácido y haya dejado de burbujear con fuerza, añade el vinagre y tritura hasta alisar.",
+   "Pásalo por un colador fino presionando con fuerza, descartando las pieles.",
+   "Cocina la salsa colada 10 minutos a fuego bajo para estabilizarla. Refrigerada dura seis meses."
+  ],
+  "tips": [
+   "Sal sin yodar. El yodo inhibe las bacterias que necesitas.",
+   "Si aparece moho en la superficie, tira todo y empieza otra vez. La fermentación sana huele ácida y agradable, nunca a podrido.",
+   "Colar es lo que le da la textura lisa característica. No te lo saltes."
+  ],
+  "video": "sriracha fermentada casera"
+ },
+ "en": {
+  "name": "Fermented Sriracha",
+  "blurb": "A week of lactic fermentation before it's cooked. That ferment is the difference between a chile sauce and a sriracha, and it's what gives the complex sour backbone.",
+  "ing": [
+   {
+    "n": "fresh red chiles",
+    "note": "red jalapeños or Fresno"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt",
+    "note": "non-iodized"
+   },
+   {
+    "n": "white vinegar"
+   }
+  ],
+  "steps": [
+   "Stem the chiles and blitz them with the garlic, sugar and salt to a coarse paste.",
+   "Transfer to a clean jar, press down to remove air pockets and leave 3 cm of headspace. Cover without sealing it tight.",
+   "Leave it at room temperature in the dark for 5-7 days, stirring daily. It will bubble: that's the lactic fermentation working.",
+   "Once it smells pleasantly sour and has stopped bubbling vigorously, add the vinegar and blend until smooth.",
+   "Push it through a fine sieve, pressing hard, and discard the skins.",
+   "Cook the strained sauce over low heat for 10 minutes to stabilize it. Refrigerated, it keeps for six months."
+  ],
+  "tips": [
+   "Non-iodized salt. Iodine inhibits the bacteria you need.",
+   "If mold appears on the surface, throw it all out and start over. A healthy ferment smells pleasantly sour, never rotten.",
+   "Straining is what gives it the signature smooth texture. Don't skip it."
+  ],
+  "video": "homemade fermented sriracha"
+ }
+}

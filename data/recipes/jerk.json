@@ -1,0 +1,212 @@
+{
+ "id": "jerk",
+ "country": "Jamaica",
+ "region": "caribbean",
+ "course": "main",
+ "time": 900,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.6,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 10,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pollo Jerk",
+  "blurb": "Pimienta de Jamaica y chile habanero, y humo de madera de pimento. El adobo necesita un día entero; la cocción necesita calor indirecto y paciencia.",
+  "ing": [
+   {
+    "n": "pollo",
+    "note": "troceado"
+   },
+   {
+    "n": "chile habanero",
+    "note": "sin rabo"
+   },
+   {
+    "n": "pimienta de Jamaica en grano",
+    "note": "molida"
+   },
+   {
+    "n": "tomillo"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "jengibre"
+   },
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "canela y nuez moscada"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Tritura todo excepto el pollo hasta obtener una pasta verde oscura y espesa.",
+   "Haz cortes hasta el hueso en dos o tres puntos de cada pieza para que el adobo llegue al centro.",
+   "Frota la pasta a fondo, con guantes, y marina de 12 a 24 horas.",
+   "Prepara la parrilla para calor indirecto, alrededor de 150 °C, con astillas remojadas si tienes. Madera de pimento si la consigues.",
+   "Cocina con la piel hacia arriba, lejos de las brasas, 60-75 minutos con la tapa puesta.",
+   "Termina directamente sobre el fuego 5 minutos por lado para tostar y dorar. Reposa 10 minutos y trocea con hacha o cuchillo pesado."
+  ],
+  "tips": [
+   "Primero suave y lento, fuerte al final. Directo al fuego fuerte, el azúcar del adobo se quema negro.",
+   "La pimienta de Jamaica es el sabor que define, no el chile. No seas tímido con ella.",
+   "Aparta unas cucharadas del adobo antes de que toque el pollo crudo y hiérvelas como salsa."
+  ],
+  "video": "pollo jerk jamaiquino"
+ },
+ "en": {
+  "name": "Jerk Chicken",
+  "blurb": "Allspice and Scotch bonnet, and smoke from pimento wood. The marinade needs a full day; the cooking needs indirect heat and patience.",
+  "ing": [
+   {
+    "n": "chicken",
+    "note": "cut into pieces"
+   },
+   {
+    "n": "Scotch bonnet chiles",
+    "note": "stems removed"
+   },
+   {
+    "n": "whole allspice berries",
+    "note": "ground"
+   },
+   {
+    "n": "thyme"
+   },
+   {
+    "n": "scallions"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "ginger"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "lime juice"
+   },
+   {
+    "n": "cinnamon and nutmeg"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Blend everything except the chicken into a thick, dark green paste.",
+   "Slash each piece to the bone in two or three places so the marinade reaches the center.",
+   "Rub the paste in thoroughly, wearing gloves, and marinate 12 to 24 hours.",
+   "Set up the grill for indirect heat, around 150 °C, with soaked wood chips if you have them. Pimento wood if you can get it.",
+   "Cook skin side up, away from the coals, for 60-75 minutes with the lid on.",
+   "Finish directly over the fire 5 minutes per side to char and crisp. Rest 10 minutes and chop with a cleaver or heavy knife."
+  ],
+  "tips": [
+   "Low and slow first, hot at the end. Straight onto high heat, the sugar in the marinade burns black.",
+   "Allspice is the defining flavor, not the chile. Don't be shy with it.",
+   "Set aside a few spoonfuls of marinade before it touches the raw chicken and boil them into a sauce."
+  ],
+  "video": "Jamaican jerk chicken"
+ }
+}

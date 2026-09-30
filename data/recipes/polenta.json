@@ -1,0 +1,126 @@
+{
+ "id": "polenta",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "side",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "polenta",
+   "role": "structure"
+  },
+  {
+   "q": 1.4,
+   "u": "l",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Polenta",
+  "blurb": "Cuarenta minutos de cocción lenta y removido. La polenta instantánea existe y sabe a eso: el tiempo es lo que gelatiniza el almidón por completo.",
+  "ing": [
+   {
+    "n": "polenta de molienda gruesa"
+   },
+   {
+    "n": "agua o caldo"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "parmesano",
+    "note": "rallado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "romero",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Lleva el agua a hervor con la sal.",
+   "Vierte la polenta en lluvia muy fina mientras bates sin parar con unas varillas. Esto evita los grumos.",
+   "Cuando espese, cambia a cuchara de madera y baja al fuego más leve.",
+   "Cocina 40-45 minutos removiendo cada pocos minutos y raspando el fondo. Se despegará de las paredes cuando esté lista.",
+   "Incorpora la mantequilla y el parmesano fuera del fuego y rectifica.",
+   "Sírvela fluida de inmediato, o extiéndela en una bandeja, enfríala y córtala en piezas para asar o freír."
+  ],
+  "tips": [
+   "En lluvia y batiendo, o tendrás grumos que ya no se van.",
+   "Cuarenta minutos mínimo. La polenta poco cocida es arenosa y sabe a crudo.",
+   "Espesa muchísimo al enfriar. Déjala más suelta de lo que la quieres."
+  ],
+  "video": "polenta cremosa tradicional"
+ },
+ "en": {
+  "name": "Polenta",
+  "blurb": "Forty minutes of slow cooking and stirring. Instant polenta exists and tastes like it: time is what fully gelatinizes the starch.",
+  "ing": [
+   {
+    "n": "coarse-ground polenta"
+   },
+   {
+    "n": "water or stock"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "parmesan",
+    "note": "grated"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "rosemary",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Bring the water to a boil with the salt.",
+   "Pour in the polenta in a very fine rain while whisking constantly. This prevents lumps.",
+   "Once it thickens, switch to a wooden spoon and turn the heat to the lowest setting.",
+   "Cook 40-45 minutes, stirring every few minutes and scraping the bottom. It will pull away from the sides when it's ready.",
+   "Stir in the butter and parmesan off the heat and adjust the seasoning.",
+   "Serve it loose right away, or spread it on a tray, cool it and cut it into pieces to grill or fry."
+  ],
+  "tips": [
+   "A fine rain and constant whisking, or you'll get lumps that never go away.",
+   "Forty minutes minimum. Undercooked polenta is gritty and tastes raw.",
+   "It thickens enormously as it cools. Leave it looser than you want it."
+  ],
+  "video": "traditional creamy polenta"
+ }
+}

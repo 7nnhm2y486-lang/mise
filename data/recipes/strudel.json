@@ -1,0 +1,203 @@
+{
+ "id": "strudel",
+ "country": "Austria",
+ "region": "central-europe",
+ "course": "sweet",
+ "time": 150,
+ "serves": 8,
+ "ovenC": 190,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 125,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 40,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "breadcrumbs",
+   "role": "thicken"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Strudel de Manzana",
+  "blurb": "Una masa estirada a mano hasta poder leer a través de ella. Harina de alta proteína y un reposo largo son lo que le permiten estirarse tanto sin romperse.",
+  "ing": [
+   {
+    "n": "harina de fuerza"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "aceite de girasol"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "manzanas",
+    "note": "en láminas finas"
+   },
+   {
+    "n": "pan rallado",
+    "note": "frito en mantequilla"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "pasas",
+    "note": "remojadas en ron"
+   },
+   {
+    "n": "mantequilla",
+    "note": "derretida"
+   },
+   {
+    "n": "ralladura de limón"
+   },
+   {
+    "n": "azúcar glas"
+   }
+  ],
+  "steps": [
+   "Amasa la harina, el agua, el aceite y la sal durante 10 minutos hasta que quede muy lisa y elástica. Engrásala, tápala y reposa 1 hora a temperatura ambiente: eso es lo que la hace estirable.",
+   "Fríe el pan rallado en mantequilla hasta dorarlo. Absorbe el jugo de la manzana y evita que la base se empape.",
+   "Extiende un mantel grande sobre la mesa y enharínalo. Estira la masa y luego, con las manos enharinadas por debajo, estírala desde el centro hacia fuera hasta cubrir el mantel y quedar traslúcida.",
+   "Pincela con mantequilla derretida, esparce el pan rallado sobre dos tercios y encima las manzanas, el azúcar, la canela, la ralladura y las pasas.",
+   "Dobla los extremos cortos hacia dentro y usa el mantel para enrollarlo apretado.",
+   "Pásalo con la costura abajo, pincela con mantequilla y hornea a 190 °C durante 40-45 minutos, pincelando dos veces más."
+  ],
+  "tips": [
+   "El reposo es lo que permite estirarla. Sin él, la masa se rompe en cinco sitios.",
+   "El pan rallado frito es la respuesta tradicional y correcta a un relleno de fruta jugoso.",
+   "Usa el mantel para enrollar. Intentar levantar masa de strudel estirada con las manos la rompe siempre."
+  ],
+  "video": "strudel de manzana masa estirada"
+ },
+ "en": {
+  "name": "Apple Strudel",
+  "blurb": "A dough stretched by hand until you can read through it. High-protein flour and a long rest are what let it stretch that far without tearing.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "sunflower oil"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "apples",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "breadcrumbs",
+    "note": "fried in butter"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cinnamon"
+   },
+   {
+    "n": "raisins",
+    "note": "soaked in rum"
+   },
+   {
+    "n": "butter",
+    "note": "melted"
+   },
+   {
+    "n": "lemon zest"
+   },
+   {
+    "n": "powdered sugar"
+   }
+  ],
+  "steps": [
+   "Knead the flour, water, oil and salt for 10 minutes until very smooth and elastic. Oil it, cover and rest 1 hour at room temperature: that's what makes it stretchable.",
+   "Fry the breadcrumbs in butter until golden. They soak up the apple juice and keep the bottom from going soggy.",
+   "Spread a large tablecloth over the table and flour it. Roll out the dough, then, with floured hands underneath, stretch it from the center outward until it covers the cloth and is translucent.",
+   "Brush with melted butter, scatter the breadcrumbs over two-thirds, and top with the apples, sugar, cinnamon, zest and raisins.",
+   "Fold the short ends in and use the tablecloth to roll it up tightly.",
+   "Transfer it seam side down, brush with butter and bake at 190 °C for 40-45 minutes, brushing twice more."
+  ],
+  "tips": [
+   "The rest is what lets it stretch. Without it, the dough tears in five places.",
+   "Fried breadcrumbs are the traditional, correct answer to a juicy fruit filling.",
+   "Use the tablecloth to roll. Trying to lift stretched strudel dough by hand tears it every time."
+  ],
+  "video": "apple strudel hand stretched dough"
+ }
+}

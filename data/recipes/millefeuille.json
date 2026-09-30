@@ -1,0 +1,173 @@
+{
+ "id": "millefeuille",
+ "country": "France",
+ "region": "western-europe",
+ "course": "sweet",
+ "time": 240,
+ "serves": 8,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "puffpastry",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "caramel"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 110,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 45,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "thicken"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "cream",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Milhojas",
+  "blurb": "Hojaldre horneado plano bajo una segunda bandeja. Comprimirlo da cientos de capas finas, densas y de un crujido estruendoso, en vez de un hojaldre ligero.",
+  "ing": [
+   {
+    "n": "hojaldre"
+   },
+   {
+    "n": "azúcar glas"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "crema espesa",
+    "note": "montada"
+   },
+   {
+    "n": "vaina de vainilla"
+   },
+   {
+    "n": "chocolate negro"
+   }
+  ],
+  "steps": [
+   "Estira el hojaldre a 3 mm sobre una bandeja forrada. Refrigera 30 minutos.",
+   "Cúbrelo con papel y una segunda bandeja pesada y hornea a 200 °C durante 20 minutos.",
+   "Retira la bandeja de arriba, espolvorea abundante azúcar glas y devuélvelo destapado 8-10 minutos, hasta que el azúcar se funda en una laca caramelizada.",
+   "Haz una crema pastelera, hirviéndola como es debido, y enfríala bien. Bátela hasta alisar e incorpora la crema montada para obtener una crema diplomática más ligera.",
+   "Recorta el hojaldre frío en tres rectángulos iguales con un cuchillo de sierra, serrando con suavidad.",
+   "Escudilla la crema en hileras parejas sobre dos capas, apila y corona con la tercera. Decora y sirve en un plazo de dos horas."
+  ],
+  "tips": [
+   "La segunda bandeja es lo que lo convierte en milhojas y no en un volován.",
+   "La capa de azúcar caramelizada impermeabiliza el hojaldre contra la crema una o dos horas más.",
+   "Corta con sierra, en movimiento de vaivén y sin presionar hacia abajo, o explota."
+  ],
+  "video": "milhojas napoleón"
+ },
+ "en": {
+  "name": "Mille-Feuille",
+  "blurb": "Puff pastry baked flat under a second sheet pan. Compressing it gives hundreds of thin, dense, thunderously crisp layers instead of a light puff.",
+  "ing": [
+   {
+    "n": "puff pastry"
+   },
+   {
+    "n": "powdered sugar"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "heavy cream",
+    "note": "whipped"
+   },
+   {
+    "n": "vanilla bean"
+   },
+   {
+    "n": "dark chocolate"
+   }
+  ],
+  "steps": [
+   "Roll the puff pastry to 3 mm on a lined sheet pan. Refrigerate 30 minutes.",
+   "Cover it with parchment and a second heavy sheet pan and bake at 200 °C for 20 minutes.",
+   "Remove the top pan, dust heavily with powdered sugar and return it uncovered for 8-10 minutes, until the sugar melts into a caramelized lacquer.",
+   "Make a pastry cream, boiling it properly, and chill it well. Beat until smooth and fold in the whipped cream for a lighter diplomat cream.",
+   "Trim the cold pastry into three equal rectangles with a serrated knife, sawing gently.",
+   "Pipe the cream in even rows over two of the layers, stack them and top with the third. Decorate and serve within two hours."
+  ],
+  "tips": [
+   "The second sheet pan is what makes it a mille-feuille and not a vol-au-vent.",
+   "The caramelized sugar layer waterproofs the pastry against the cream for an extra hour or two.",
+   "Cut with a sawing motion, back and forth without pressing down, or it shatters."
+  ],
+  "video": "mille-feuille napoleon pastry"
+ }
+}

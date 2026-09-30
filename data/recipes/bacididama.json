@@ -1,0 +1,139 @@
+{
+ "id": "bacididama",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "cookie",
+ "time": 150,
+ "serves": 24,
+ "ovenC": 160,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "hazelnut",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Baci di Dama",
+  "blurb": "Dos cúpulas de avellana unidas con chocolate. El secreto para que queden redondas y no se aplasten es congelar las bolas antes de hornear.",
+  "ing": [
+   {
+    "n": "avellanas",
+    "note": "tostadas y peladas"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "mantequilla",
+    "note": "fría"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro"
+   },
+   {
+    "n": "extracto de vainilla"
+   }
+  ],
+  "steps": [
+   "Tuesta las avellanas y frótalas en un paño para pelarlas. Déjalas enfriar del todo.",
+   "Muélelas con el azúcar hasta obtener un polvo fino, sin llegar a pasta.",
+   "Añade la harina, la sal y la mantequilla fría en cubos y trabaja hasta que se una en una masa.",
+   "Refrigera 1 hora. Forma bolas de 8 g, del tamaño de una avellana, y congélalas 20 minutos.",
+   "Hornea desde congelado a 160 °C durante 15-18 minutos. Deben quedar pálidas y mantener la forma de cúpula.",
+   "Enfría por completo. Funde el chocolate, pon una gota en la base plana de cada galleta y únelas de dos en dos."
+  ],
+  "tips": [
+   "Congélalas antes de hornear. Es lo único que impide que se aplasten en el horno.",
+   "Muele las avellanas con el azúcar: el azúcar absorbe el aceite y evita que se hagan pasta.",
+   "Deben quedar pálidas. Doradas pierden la textura arenosa característica."
+  ],
+  "video": "baci di dama avellana"
+ },
+ "en": {
+  "name": "Baci di Dama",
+  "blurb": "Two hazelnut domes joined with chocolate. The secret to keeping them round instead of flat is freezing the balls before baking.",
+  "ing": [
+   {
+    "n": "hazelnuts",
+    "note": "toasted and skinned"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter",
+    "note": "cold"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate"
+   },
+   {
+    "n": "vanilla extract"
+   }
+  ],
+  "steps": [
+   "Toast the hazelnuts and rub them in a towel to skin them. Let them cool completely.",
+   "Grind them with the sugar to a fine powder, stopping before it turns to paste.",
+   "Add the flour, salt and cold cubed butter and work until it comes together into a dough.",
+   "Refrigerate 1 hour. Shape 8 g balls, the size of a hazelnut, and freeze them for 20 minutes.",
+   "Bake from frozen at 160 °C for 15-18 minutes. They should stay pale and keep their dome shape.",
+   "Cool completely. Melt the chocolate, put a drop on the flat base of each cookie and sandwich them in pairs."
+  ],
+  "tips": [
+   "Freeze them before baking. It's the only thing that keeps them from spreading in the oven.",
+   "Grind the hazelnuts with the sugar: the sugar absorbs the oil and keeps them from turning to paste.",
+   "They should stay pale. Browned, they lose their characteristic sandy texture."
+  ],
+  "video": "baci di dama hazelnut cookies"
+ }
+}

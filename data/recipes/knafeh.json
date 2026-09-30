@@ -1,0 +1,167 @@
+{
+ "id": "knafeh",
+ "country": "Palestine",
+ "region": "middle-east",
+ "course": "sweet",
+ "time": 75,
+ "serves": 10,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "phyllo",
+   "role": "structure"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "mozzarella",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "pistachio",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Knafeh",
+  "blurb": "Fideos de masa sobre queso blanco elástico, empapado en almíbar de azahar. El queso hay que desalarlo primero o el conjunto es incomible.",
+  "ing": [
+   {
+    "n": "masa kataifi",
+    "note": "en hebras"
+   },
+   {
+    "n": "queso akkawi",
+    "note": "o mezcla de mozzarella y ricotta"
+   },
+   {
+    "n": "mantequilla",
+    "note": "clarificada"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "agua de azahar"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "pistachos"
+   },
+   {
+    "n": "colorante rojo",
+    "note": "opcional, tradicional"
+   }
+  ],
+  "steps": [
+   "Remoja el akkawi en varios cambios de agua fría durante 4 horas, probando hasta que apenas esté salado.",
+   "Hierve el almíbar 8 minutos, añade el agua de azahar fuera del fuego y enfríalo.",
+   "Separa las hebras de kataifi y trabaja la mantequilla clarificada derretida entre ellas con los dedos hasta que todas queden cubiertas.",
+   "Presiona la mitad en un molde engrasado, extiende el queso escurrido y desmenuzado, y cubre con el resto.",
+   "Presiona con firmeza y hornea a 200 °C durante 35-40 minutos hasta que la base esté muy dorada: levanta un borde para comprobarlo.",
+   "Voltea sobre una fuente en caliente, báñalo con el almíbar frío y cúbrelo de pistacho. Cómelo de inmediato, mientras el queso aún hace hilo."
+  ],
+  "tips": [
+   "Desala bien el queso. Cuatro horas y varios cambios de agua.",
+   "Tiene que comerse caliente. El knafeh frío tiene una capa de queso gomosa y es otro postre, peor.",
+   "Comprueba el color por debajo, no por arriba: se hornea desde la base."
+  ],
+  "video": "knafeh nabulsieh"
+ },
+ "en": {
+  "name": "Knafeh",
+  "blurb": "Pastry threads over stretchy white cheese, soaked in orange blossom syrup. The cheese has to be desalted first or the whole thing is inedible.",
+  "ing": [
+   {
+    "n": "kataifi pastry",
+    "note": "shredded"
+   },
+   {
+    "n": "akkawi cheese",
+    "note": "or a mix of mozzarella and ricotta"
+   },
+   {
+    "n": "butter",
+    "note": "clarified"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "orange blossom water"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "pistachios"
+   },
+   {
+    "n": "red food coloring",
+    "note": "optional, traditional"
+   }
+  ],
+  "steps": [
+   "Soak the akkawi in several changes of cold water for 4 hours, tasting until it's barely salty.",
+   "Boil the syrup 8 minutes, add the orange blossom water off the heat and let it cool.",
+   "Separate the kataifi strands and work the melted clarified butter through them with your fingers until every strand is coated.",
+   "Press half into a greased pan, spread the drained, crumbled cheese over it, and cover with the rest.",
+   "Press down firmly and bake at 200 °C for 35-40 minutes until the base is deep golden: lift an edge to check.",
+   "Invert onto a platter while hot, pour the cold syrup over and cover with pistachios. Eat immediately, while the cheese still stretches."
+  ],
+  "tips": [
+   "Desalt the cheese thoroughly. Four hours and several changes of water.",
+   "It has to be eaten hot. Cold knafeh has a rubbery cheese layer and is a different, worse dessert.",
+   "Check the color underneath, not on top: it bakes from the base up."
+  ],
+  "video": "knafeh nabulsieh"
+ }
+}

@@ -1,0 +1,213 @@
+{
+ "id": "sfogliatella",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "pastry",
+ "time": 900,
+ "serves": 12,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "honey",
+   "role": "sweet"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "semolina",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "ricottacheese",
+   "role": "structure"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Sfogliatella Riccia",
+  "blurb": "La pastelería más difícil de Italia: una lámina de masa estirada hasta ser translúcida, untada de manteca y enrollada en un cilindro que luego se corta y se ahueca en conos.",
+  "ing": [
+   {
+    "n": "harina de fuerza"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "miel"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "manteca de cerdo",
+    "note": "muy blanda, casi pomada"
+   },
+   {
+    "n": "sémola fina",
+    "note": "para el relleno"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "ricotta",
+    "note": "escurrida"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "fruta confitada"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "azúcar glas"
+   }
+  ],
+  "steps": [
+   "Amasa la harina, el agua, la miel y la sal 10 minutos hasta obtener una masa muy dura. Envuélvela y refrigera 4 horas: el reposo largo es imprescindible.",
+   "Para el relleno, cuece la sémola en la leche 5 minutos hasta obtener una papilla espesa. Enfría y bate con la ricotta tamizada, el azúcar, el huevo, la fruta confitada y la canela.",
+   "Pasa la masa por una laminadora bajando de grosor progresivamente hasta el punto más fino, obteniendo una tira larguísima y translúcida.",
+   "Unta toda la tira con manteca en pomada y enróllala sobre sí misma formando un cilindro muy apretado. Refrigera 3 horas más.",
+   "Corta discos de 1,5 cm. Con los pulgares, empuja el centro de cada disco hacia fuera para abrir un cono de capas concéntricas.",
+   "Rellena cada cono, cierra y hornea a 200 °C durante 25-30 minutos hasta que las capas se separen y estén doradas. Azúcar glas al servir."
+  ],
+  "tips": [
+   "La masa debe quedar translúcida. Si no puedes leer a través de ella, las capas no se separarán.",
+   "Manteca en pomada, no derretida: derretida se absorbe y no crea la separación entre capas.",
+   "Los dos reposos en frío no son negociables. Es una receta de dos días."
+  ],
+  "video": "sfogliatella riccia napolitana"
+ },
+ "en": {
+  "name": "Sfogliatella Riccia",
+  "blurb": "Italy's hardest pastry: a sheet of dough stretched until translucent, spread with lard and rolled into a cylinder that's then sliced and pushed out into cones.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "honey"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "lard",
+    "note": "very soft, almost creamy"
+   },
+   {
+    "n": "fine semolina",
+    "note": "for the filling"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "ricotta",
+    "note": "drained"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "candied fruit"
+   },
+   {
+    "n": "cinnamon"
+   },
+   {
+    "n": "powdered sugar"
+   }
+  ],
+  "steps": [
+   "Knead the flour, water, honey and salt for 10 minutes into a very stiff dough. Wrap and refrigerate 4 hours: the long rest is essential.",
+   "For the filling, cook the semolina in the milk for 5 minutes into a thick porridge. Cool and beat with the sieved ricotta, sugar, egg, candied fruit and cinnamon.",
+   "Run the dough through a pasta roller, stepping down the thickness to the thinnest setting, to get a very long, translucent strip.",
+   "Spread the whole strip with the soft lard and roll it up on itself into a very tight cylinder. Refrigerate 3 more hours.",
+   "Cut 1.5 cm discs. With your thumbs, push the center of each disc outward to open a cone of concentric layers.",
+   "Fill each cone, close it and bake at 200 °C for 25-30 minutes until the layers separate and turn golden. Powdered sugar to serve."
+  ],
+  "tips": [
+   "The dough must be translucent. If you can't read through it, the layers won't separate.",
+   "Lard soft, not melted: melted lard gets absorbed and won't create the separation between layers.",
+   "The two cold rests are non-negotiable. It's a two-day recipe."
+  ],
+  "video": "neapolitan sfogliatella riccia"
+ }
+}

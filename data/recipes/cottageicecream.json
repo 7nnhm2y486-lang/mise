@@ -1,0 +1,141 @@
+{
+ "id": "cottageicecream",
+ "country": "United States",
+ "region": "north-america",
+ "course": "sweet",
+ "time": 300,
+ "serves": 4,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "ricottacheese",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "honey",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "cream",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Helado de Requesón",
+  "blurb": "Requesón triturado y congelado. Funciona mejor de lo que suena porque su proteína hace de estabilizante, pero necesita grasa y azúcar o se congela como un ladrillo.",
+  "ing": [
+   {
+    "n": "requesón entero",
+    "note": "no desnatado"
+   },
+   {
+    "n": "miel o jarabe de arce"
+   },
+   {
+    "n": "crema espesa"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro",
+    "note": "picado"
+   },
+   {
+    "n": "vodka",
+    "note": "opcional, para que quede más blando"
+   }
+  ],
+  "steps": [
+   "Tritura el requesón solo durante 2 minutos completos, bajando las paredes, hasta que no quede absolutamente ningún grumo. Este es el paso que todo el mundo acorta.",
+   "Añade la miel, la crema, la vainilla, la sal y el vodka si lo usas, y tritura otro minuto.",
+   "Prueba: debe estar más dulce de lo que te parece correcto, porque el frío apaga el dulzor.",
+   "Incorpora el chocolate picado con una espátula.",
+   "Congela en un recipiente ancho y poco profundo durante 4 horas, raspando y removiendo con un tenedor cada hora.",
+   "Sácalo 10 minutos antes de servir para que se ablande."
+  ],
+  "tips": [
+   "Requesón entero, nunca desnatado. Sin grasa se congela en un bloque de hielo.",
+   "Dos minutos de triturado como mínimo. Los grumos se notan muchísimo en frío.",
+   "La cucharada de vodka baja el punto de congelación y lo mantiene servible. No se nota en el sabor."
+  ],
+  "video": "helado de requesón alto en proteína"
+ },
+ "en": {
+  "name": "Cottage Cheese Ice Cream",
+  "blurb": "Blended, frozen cottage cheese. It works better than it sounds because its protein acts as a stabilizer, but it needs fat and sugar or it freezes like a brick.",
+  "ing": [
+   {
+    "n": "full-fat cottage cheese",
+    "note": "not low-fat"
+   },
+   {
+    "n": "honey or maple syrup"
+   },
+   {
+    "n": "heavy cream"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate",
+    "note": "chopped"
+   },
+   {
+    "n": "vodka",
+    "note": "optional, to keep it softer"
+   }
+  ],
+  "steps": [
+   "Blend the cottage cheese on its own for a full 2 minutes, scraping down the sides, until there are absolutely no lumps left. This is the step everyone cuts short.",
+   "Add the honey, cream, vanilla, salt and the vodka if using, and blend another minute.",
+   "Taste: it should be sweeter than seems right, because cold dulls sweetness.",
+   "Fold in the chopped chocolate with a spatula.",
+   "Freeze in a wide, shallow container for 4 hours, scraping and stirring with a fork every hour.",
+   "Take it out 10 minutes before serving to soften."
+  ],
+  "tips": [
+   "Full-fat cottage cheese, never low-fat. Without fat it freezes into a block of ice.",
+   "Two minutes of blending at minimum. Lumps are very noticeable when cold.",
+   "The tablespoon of vodka lowers the freezing point and keeps it scoopable. You can't taste it."
+  ],
+  "video": "high protein cottage cheese ice cream"
+ }
+}

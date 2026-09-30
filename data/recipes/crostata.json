@@ -1,0 +1,163 @@
+{
+ "id": "crostata",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 120,
+ "serves": 8,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "eggyolk",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "sugar",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Crostata di Marmellata",
+  "blurb": "La tarta de mermelada de todas las casas italianas. La pasta frolla se trabaja fría y rápido, y el enrejado se hace con tiras cortadas, no trenzadas.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "mantequilla",
+    "note": "fría, en cubos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "ralladura de limón"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "mermelada de albaricoque",
+    "note": "espesa"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el azúcar, el polvo de hornear, la sal y la ralladura.",
+   "Integra la mantequilla fría con las yemas de los dedos hasta obtener una arena gruesa. No la calientes.",
+   "Añade las yemas y el huevo y une rápidamente hasta formar una masa. No amases.",
+   "Envuelve y refrigera al menos 1 hora.",
+   "Estira dos tercios de la masa y forra un molde de 24 cm. Extiende la mermelada, que debe ser espesa o hervirá y se derramará.",
+   "Corta tiras con el resto de la masa y colócalas en enrejado. Hornea a 180 °C durante 35-40 minutos. Enfría por completo antes de cortar."
+  ],
+  "tips": [
+   "Mermelada espesa. Una fluida burbujea, se sale y quema la base.",
+   "Trabaja la masa lo mínimo: la pasta frolla debe quedar quebradiza, no elástica.",
+   "Mejor al día siguiente, cuando la masa ha absorbido algo de humedad de la mermelada."
+  ],
+  "video": "crostata di marmellata"
+ },
+ "en": {
+  "name": "Crostata di Marmellata",
+  "blurb": "The jam tart of every Italian home. The pasta frolla is worked cold and fast, and the lattice is made from cut strips laid across, not woven.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter",
+    "note": "cold, cubed"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "lemon zest"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "apricot jam",
+    "note": "thick"
+   }
+  ],
+  "steps": [
+   "Mix the flour, sugar, baking powder, salt and zest.",
+   "Rub in the cold butter with your fingertips until it looks like coarse sand. Don't let it warm up.",
+   "Add the yolks and egg and bring together quickly into a dough. Don't knead.",
+   "Wrap and refrigerate at least 1 hour.",
+   "Roll out two-thirds of the dough and line a 24 cm tart pan. Spread in the jam, which must be thick or it will boil and overflow.",
+   "Cut strips from the rest of the dough and lay them in a lattice. Bake at 180 °C for 35-40 minutes. Cool completely before slicing."
+  ],
+  "tips": [
+   "Thick jam. A runny one bubbles over and burns the base.",
+   "Handle the dough as little as possible: pasta frolla should be short and crumbly, not elastic.",
+   "Better the next day, once the pastry has absorbed a little moisture from the jam."
+  ],
+  "video": "crostata di marmellata"
+ }
+}

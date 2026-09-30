@@ -1,0 +1,188 @@
+{
+ "id": "oyakodon",
+ "country": "Japan",
+ "region": "east-asia",
+ "course": "main",
+ "time": 25,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "dashi",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "mirin",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sake",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "scallion",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Oyakodon",
+  "blurb": "Pollo y huevo sobre arroz, cocinados en una sartén pequeña con el huevo en dos adiciones. La segunda apenas se cuaja, y eso da la capa sedosa de arriba.",
+  "ing": [
+   {
+    "n": "muslo de pollo",
+    "note": "en tiras"
+   },
+   {
+    "n": "cebolla",
+    "note": "en pluma fina"
+   },
+   {
+    "n": "huevos",
+    "note": "batidos apenas"
+   },
+   {
+    "n": "dashi"
+   },
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "mirin"
+   },
+   {
+    "n": "sake"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "arroz cocido"
+   },
+   {
+    "n": "mitsuba o cebollín"
+   },
+   {
+    "n": "shichimi"
+   }
+  ],
+  "steps": [
+   "Bate los huevos solo 5 o 6 golpes. Quieres que las claras y las yemas sigan veteadas, no homogéneas.",
+   "Cuece el dashi, la soja, el mirin, el sake y el azúcar en una sartén pequeña y baja con la cebolla 3 minutos.",
+   "Añade el pollo en una sola capa y cuece 5 minutos hasta que esté apenas hecho.",
+   "Vierte dos tercios del huevo en espiral. Tapa y cocina 45 segundos.",
+   "Vierte el huevo restante, tapa y cocina 20 segundos más. Retíralo mientras la superficie siga visiblemente líquida.",
+   "Desliza el conjunto sobre arroz caliente y esparce mitsuba. El calor residual termina el huevo de camino a la mesa."
+  ],
+  "tips": [
+   "Bate poco los huevos. Batidos del todo cuajan en una tortilla uniforme.",
+   "Dos adiciones. Es la técnica que separa un buen oyakodon de huevo revuelto sobre arroz.",
+   "Sartén pequeña, una ración a la vez. Escalarlo arruina las capas."
+  ],
+  "video": "oyakodon técnica"
+ },
+ "en": {
+  "name": "Oyakodon",
+  "blurb": "Chicken and egg over rice, cooked in a small pan with the egg added in two pours. The second barely sets, and that gives the silky layer on top.",
+  "ing": [
+   {
+    "n": "chicken thigh",
+    "note": "cut into strips"
+   },
+   {
+    "n": "onion",
+    "note": "thinly sliced lengthwise"
+   },
+   {
+    "n": "eggs",
+    "note": "barely beaten"
+   },
+   {
+    "n": "dashi"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "mirin"
+   },
+   {
+    "n": "sake"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cooked rice"
+   },
+   {
+    "n": "mitsuba or scallion"
+   },
+   {
+    "n": "shichimi"
+   }
+  ],
+  "steps": [
+   "Beat the eggs just 5 or 6 strokes. You want the whites and yolks still streaky, not uniform.",
+   "Simmer the dashi, soy sauce, mirin, sake and sugar with the onion in a small, shallow pan for 3 minutes.",
+   "Add the chicken in a single layer and cook for 5 minutes until just done.",
+   "Pour in two-thirds of the egg in a spiral. Cover and cook for 45 seconds.",
+   "Pour in the rest of the egg, cover and cook 20 seconds more. Take it off while the surface is still visibly runny.",
+   "Slide the whole thing onto hot rice and scatter with mitsuba. Residual heat finishes the egg on the way to the table."
+  ],
+  "tips": [
+   "Underbeat the eggs. Fully beaten, they set into a uniform omelet.",
+   "Two pours. That's the technique that separates good oyakodon from scrambled egg on rice.",
+   "Small pan, one serving at a time. Scaling it up ruins the layers."
+  ],
+  "video": "oyakodon technique"
+ }
+}

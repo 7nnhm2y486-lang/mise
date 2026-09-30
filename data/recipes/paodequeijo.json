@@ -1,0 +1,139 @@
+{
+ "id": "paodequeijo",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 50,
+ "serves": 20,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pão de Queijo",
+  "blurb": "Naturalmente sin gluten, porque el almidón de tapioca no lo tiene. El almidón se escalda con líquido hirviendo, y eso es lo que lo vuelve chicloso.",
+  "ing": [
+   {
+    "n": "almidón de tapioca agrio",
+    "note": "polvilho azedo"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "queso duro rallado",
+    "note": "parmesano y un queso fundente suave"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Lleva a hervor fuerte la leche, el agua, el aceite y la sal.",
+   "Viértelo de una vez sobre el almidón de tapioca y bate con fuerza. Se verá cortado y alarmante. Sigue hasta que se una en una pasta rígida y brillante.",
+   "Deja enfriar hasta que esté tibio: con la masa caliente se cuajarían los huevos.",
+   "Incorpora los huevos uno a uno. La mezcla se romperá y volverá a unirse cada vez.",
+   "Incorpora el queso. La masa debe quedar pegajosa y elástica; engrasa tus manos y forma bolas del tamaño de una nuez.",
+   "Hornea a 200 °C durante 20-25 minutos, hasta que estén hinchados y dorados. Cómelos tibios: se desinflan y endurecen al enfriar."
+  ],
+  "tips": [
+   "Escaldar el almidón lo gelatiniza y es lo que da el interior hueco y chicloso.",
+   "Deja templar la masa antes de añadir los huevos.",
+   "Se congelan crudos perfectamente. Hornea desde congelado con 5 minutos más."
+  ],
+  "video": "pão de queijo"
+ },
+ "en": {
+  "name": "Pão de Queijo",
+  "blurb": "Naturally gluten-free, because tapioca starch has none. The starch is scalded with boiling liquid, and that's what makes it chewy.",
+  "ing": [
+   {
+    "n": "sour tapioca starch",
+    "note": "polvilho azedo"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "grated hard cheese",
+    "note": "parmesan plus a mild melting cheese"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Bring the milk, water, oil and salt to a hard boil.",
+   "Pour it all at once over the tapioca starch and beat hard. It will look curdled and alarming. Keep going until it comes together into a stiff, glossy paste.",
+   "Let it cool until just warm: a hot dough would scramble the eggs.",
+   "Beat in the eggs one at a time. The mixture will break and come back together each time.",
+   "Mix in the cheese. The dough should be sticky and stretchy; oil your hands and roll walnut-sized balls.",
+   "Bake at 200 °C for 20-25 minutes, until puffed and golden. Eat them warm: they deflate and toughen as they cool."
+  ],
+  "tips": [
+   "Scalding the starch gelatinizes it, and that's what gives the hollow, chewy interior.",
+   "Let the dough cool down before adding the eggs.",
+   "They freeze perfectly raw. Bake from frozen, adding 5 minutes."
+  ],
+  "video": "pao de queijo"
+ }
+}

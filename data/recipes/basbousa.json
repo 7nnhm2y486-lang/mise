@@ -1,0 +1,201 @@
+{
+ "id": "basbousa",
+ "country": "Egypt",
+ "region": "north-africa",
+ "course": "sweet",
+ "time": 90,
+ "serves": 16,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "semolina",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "desiccatedcoconut",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "yogurt",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 30,
+   "u": "",
+   "k": "almond",
+   "role": "garnish"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Basbousa",
+  "blurb": "Sémola en lugar de harina, empapada en almíbar mientras está caliente. El yogur aporta el ácido que reacciona con el bicarbonato y mantiene tierna la miga.",
+  "ing": [
+   {
+    "n": "sémola fina"
+   },
+   {
+    "n": "coco rallado"
+   },
+   {
+    "n": "yogur"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "mantequilla",
+    "note": "derretida"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "almendras",
+    "note": "enteras, blanqueadas"
+   },
+   {
+    "n": "azúcar",
+    "note": "para el almíbar"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "agua de rosas"
+   }
+  ],
+  "steps": [
+   "Hierve los ingredientes del almíbar 8 minutos, añade el agua de rosas y enfría por completo.",
+   "Mezcla la sémola, el coco, el azúcar, el polvo de hornear y el bicarbonato.",
+   "Incorpora el yogur y la mantequilla derretida. Reposa 30 minutos para que la sémola se hidrate: sin esto sale arenoso.",
+   "Extiende en un molde engrasado, alisa la superficie y marca en rombos. Presiona una almendra en cada uno.",
+   "Hornea a 180 °C durante 30-35 minutos hasta que esté bien dorado.",
+   "Vierte todo el almíbar frío sobre el pastel caliente y deja 2 horas para que absorba."
+  ],
+  "tips": [
+   "Reposa la masa. La sémola necesita tiempo para tomar el líquido.",
+   "Marca antes de hornear, siguiendo las líneas por donde vas a cortar.",
+   "Almíbar frío sobre pastel caliente, la misma regla que el baklava."
+  ],
+  "video": "basbousa pastel de sémola"
+ },
+ "en": {
+  "name": "Basbousa",
+  "blurb": "Semolina instead of flour, soaked in syrup while hot. The yogurt brings the acid that reacts with the baking soda and keeps the crumb tender.",
+  "ing": [
+   {
+    "n": "fine semolina"
+   },
+   {
+    "n": "desiccated coconut"
+   },
+   {
+    "n": "yogurt"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "butter",
+    "note": "melted"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "almonds",
+    "note": "whole, blanched"
+   },
+   {
+    "n": "sugar",
+    "note": "for the syrup"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "rose water"
+   }
+  ],
+  "steps": [
+   "Boil the syrup ingredients for 8 minutes, add the rose water and cool completely.",
+   "Mix the semolina, coconut, sugar, baking powder and baking soda.",
+   "Stir in the yogurt and melted butter. Rest 30 minutes so the semolina hydrates: without this it comes out gritty.",
+   "Spread in a greased pan, smooth the surface and score into diamonds. Press an almond into each one.",
+   "Bake at 180 °C for 30-35 minutes until deep golden.",
+   "Pour all the cold syrup over the hot cake and leave it 2 hours to soak in."
+  ],
+  "tips": [
+   "Rest the batter. The semolina needs time to take up the liquid.",
+   "Score before baking, following the lines you'll cut along.",
+   "Cold syrup on hot cake, the same rule as baklava."
+  ],
+  "video": "basbousa semolina cake"
+ }
+}

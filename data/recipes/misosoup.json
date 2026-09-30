@@ -1,0 +1,136 @@
+{
+ "id": "misosoup",
+ "country": "Japan",
+ "region": "east-asia",
+ "course": "soup",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 10,
+   "u": "g",
+   "k": "",
+   "role": "umami"
+  },
+  {
+   "q": 15,
+   "u": "g",
+   "k": "katsuobushi",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "miso",
+   "role": "umami"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "tofu",
+   "role": "protein"
+  },
+  {
+   "q": 5,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Sopa de Miso",
+  "blurb": "El miso no se hierve jamás. El calor destruye sus aromas y sus fermentos vivos, así que entra con la olla ya fuera del fuego.",
+  "ing": [
+   {
+    "n": "kombu"
+   },
+   {
+    "n": "katsuobushi"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "miso blanco"
+   },
+   {
+    "n": "tofu suave",
+    "note": "en cubos"
+   },
+   {
+    "n": "wakame seca"
+   },
+   {
+    "n": "cebollín"
+   }
+  ],
+  "steps": [
+   "Remoja el kombu en el agua fría 30 minutos.",
+   "Calienta hasta 60-70 °C y mantén 15 minutos. Retira el kombu justo antes de que rompa a hervir.",
+   "Lleva a hervor, apaga el fuego y añade el katsuobushi. Deja reposar 2 minutos y cuela sin apretar las escamas.",
+   "Rehidrata la wakame en agua fría 5 minutos y escúrrela.",
+   "Calienta el dashi con el tofu y la wakame hasta justo antes del hervor y apaga.",
+   "Disuelve el miso en un cucharón de caldo caliente aparte y devuélvelo a la olla. No debe hervir. Sirve con cebollín."
+  ],
+  "tips": [
+   "Disuelve el miso fuera de la olla, en un colador o un cucharón, o quedarán grumos.",
+   "Ni el kombu ni el miso deben hervir. Son los dos únicos errores posibles en esta sopa.",
+   "El dashi recién hecho tarda veinte minutos y no se parece en nada al de gránulos."
+  ],
+  "video": "sopa de miso dashi casero"
+ },
+ "en": {
+  "name": "Miso Soup",
+  "blurb": "Miso is never boiled. Heat destroys its aromas and its live cultures, so it goes in once the pot is already off the heat.",
+  "ing": [
+   {
+    "n": "kombu"
+   },
+   {
+    "n": "katsuobushi"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "white miso"
+   },
+   {
+    "n": "soft tofu",
+    "note": "cubed"
+   },
+   {
+    "n": "dried wakame"
+   },
+   {
+    "n": "scallions"
+   }
+  ],
+  "steps": [
+   "Soak the kombu in the cold water for 30 minutes.",
+   "Heat to 60-70 °C and hold 15 minutes. Remove the kombu just before it comes to a boil.",
+   "Bring to a boil, turn off the heat and add the katsuobushi. Let it steep 2 minutes and strain without pressing the flakes.",
+   "Rehydrate the wakame in cold water for 5 minutes and drain.",
+   "Heat the dashi with the tofu and wakame to just below a boil and turn off the heat.",
+   "Dissolve the miso in a ladle of hot broth separately and return it to the pot. It must not boil. Serve with scallions."
+  ],
+  "tips": [
+   "Dissolve the miso outside the pot, in a strainer or a ladle, or you'll get lumps.",
+   "Neither the kombu nor the miso should boil. Those are the only two mistakes possible in this soup.",
+   "Fresh dashi takes twenty minutes and is nothing like the granules."
+  ],
+  "video": "homemade dashi miso soup"
+ }
+}

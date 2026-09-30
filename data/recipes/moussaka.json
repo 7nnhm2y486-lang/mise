@@ -1,0 +1,249 @@
+{
+ "id": "moussaka",
+ "country": "Greece",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 180,
+ "serves": 8,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "eggplant",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 700,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "winered",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Musaca",
+  "blurb": "Tres capas, cada una terminada antes de montar. La bechamel se enriquece con yemas, que es lo que le permite cuajar en una crema cortable en vez de una salsa.",
+  "ing": [
+   {
+    "n": "berenjenas",
+    "note": "en rodajas de 1 cm, saladas"
+   },
+   {
+    "n": "papas",
+    "note": "en rodajas"
+   },
+   {
+    "n": "cordero picado"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "jitomate",
+    "note": "de lata"
+   },
+   {
+    "n": "vino tinto"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "orégano"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "parmesano"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "aceite de oliva"
+   }
+  ],
+  "steps": [
+   "Sala las rodajas de berenjena 30 minutos, sécalas y ásalas a 200 °C con aceite hasta dorarlas. Asa las papas al mismo tiempo.",
+   "Dora bien el cordero, añade la cebolla y el ajo, luego la canela y el orégano.",
+   "Añade el vino, reduce, y luego el jitomate. Cocina 40 minutos hasta que esté espeso y casi seco: una capa de carne aguada arruina el plato entero.",
+   "Haz una bechamel espesa con la mantequilla, la harina y la leche, sazona con nuez moscada e incorpora las yemas y la mitad del parmesano fuera del fuego.",
+   "Monta capas de papa, berenjena, carne, el resto de la berenjena y toda la bechamel.",
+   "Esparce el parmesano restante y hornea a 180 °C durante 45 minutos. Reposa 30 minutos completos antes de cortar o se derrumbará."
+  ],
+  "tips": [
+   "La carne debe quedar seca. Si se acumula líquido al inclinar la sartén, sigue reduciendo.",
+   "Las yemas convierten la bechamel en una crema que sostiene un corte limpio.",
+   "Treinta minutos de reposo. Recién salida del horno está estructuralmente líquida."
+  ],
+  "video": "musaca griega"
+ },
+ "en": {
+  "name": "Moussaka",
+  "blurb": "Three layers, each one finished before assembly. The béchamel is enriched with yolks, which is what lets it set into a sliceable custard rather than a sauce.",
+  "ing": [
+   {
+    "n": "eggplants",
+    "note": "in 1 cm slices, salted"
+   },
+   {
+    "n": "potatoes",
+    "note": "sliced"
+   },
+   {
+    "n": "ground lamb"
+   },
+   {
+    "n": "onions"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "tomatoes",
+    "note": "canned"
+   },
+   {
+    "n": "red wine"
+   },
+   {
+    "n": "cinnamon"
+   },
+   {
+    "n": "oregano"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "Parmesan"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "olive oil"
+   }
+  ],
+  "steps": [
+   "Salt the eggplant slices 30 minutes, pat dry and roast at 200 °C with oil until golden. Roast the potatoes at the same time.",
+   "Brown the lamb well, add the onion and garlic, then the cinnamon and oregano.",
+   "Add the wine, reduce, then the tomatoes. Cook 40 minutes until thick and almost dry: a watery meat layer ruins the whole dish.",
+   "Make a thick béchamel with the butter, flour and milk, season with nutmeg and stir in the yolks and half the Parmesan off the heat.",
+   "Layer potato, eggplant, meat, the rest of the eggplant and all the béchamel.",
+   "Scatter over the remaining Parmesan and bake at 180 °C for 45 minutes. Rest a full 30 minutes before cutting or it will collapse."
+  ],
+  "tips": [
+   "The meat should be dry. If liquid pools when you tilt the pan, keep reducing.",
+   "The yolks turn the béchamel into a custard that holds a clean cut.",
+   "Thirty minutes' rest. Straight out of the oven it's structurally liquid."
+  ],
+  "video": "Greek moussaka"
+ }
+}

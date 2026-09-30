@@ -1,0 +1,178 @@
+{
+ "id": "doughnut",
+ "country": "United States",
+ "region": "north-america",
+ "course": "pastry",
+ "time": 300,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 240,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 8,
+   "u": "g",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 8,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "garnish"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Donas de Levadura",
+  "blurb": "Una masa enriquecida con doble fermentación y frita a menos temperatura de lo habitual. La banda pálida alrededor del ecuador es la marca de una dona bien fermentada y bien frita.",
+  "ing": [
+   {
+    "n": "harina de fuerza"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "levadura seca instantánea"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "azúcar",
+    "note": "para rebozar"
+   },
+   {
+    "n": "mermelada de frambuesa",
+    "note": "relleno opcional"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la leche, el azúcar, la levadura, los huevos y la sal, amasa 8 minutos y luego incorpora la mantequilla hasta alisar.",
+   "Fermenta 90 minutos hasta que doble.",
+   "Estira a 1,5 cm y corta discos. Coloca cada uno sobre su propio cuadrado de papel: así los bajas al aceite sin desinflarlos.",
+   "Fermenta 45-60 minutos hasta que estén visiblemente hinchados y ligeros. Las donas poco fermentadas salen densas y grasientas.",
+   "Fríe a 170 °C, con papel y todo, 90 segundos por lado. El papel se suelta solo y lo pescas.",
+   "Escurre 30 segundos, reboza en azúcar en caliente y rellena cuando puedas manipularlas."
+  ],
+  "tips": [
+   "170 °C, no 180. Las donas son gruesas y necesitan tiempo para cocerse por dentro.",
+   "El anillo pálido del ecuador significa que flotó bien y fermentó bien. Sin anillo, faltó fermentación.",
+   "Azúcar en caliente y relleno en tibio. Las dos cosas dejan de funcionar al enfriarse."
+  ],
+  "video": "donas de levadura fritura"
+ },
+ "en": {
+  "name": "Yeast Doughnuts",
+  "blurb": "An enriched dough with a double proof, fried cooler than usual. The pale band around the equator is the mark of a well-proofed, well-fried doughnut.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "instant dry yeast"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "sugar",
+    "note": "for coating"
+   },
+   {
+    "n": "raspberry jam",
+    "note": "optional filling"
+   }
+  ],
+  "steps": [
+   "Mix the flour, milk, sugar, yeast, eggs and salt, knead 8 minutes, then work in the butter until smooth.",
+   "Proof 90 minutes until doubled.",
+   "Roll out to 1.5 cm and cut rounds. Set each one on its own square of parchment: that way you can lower them into the oil without deflating them.",
+   "Proof 45-60 minutes until visibly puffy and light. Under-proofed doughnuts come out dense and greasy.",
+   "Fry at 170 °C, parchment and all, 90 seconds per side. The paper releases on its own and you fish it out.",
+   "Drain 30 seconds, roll in sugar while hot and fill once you can handle them."
+  ],
+  "tips": [
+   "170 °C, not 180. Doughnuts are thick and need time to cook through.",
+   "The pale ring around the equator means it floated well and proofed well. No ring, not enough proof.",
+   "Sugar while hot, fill while warm. Both stop working once they cool."
+  ],
+  "video": "yeast raised doughnuts frying"
+ }
+}

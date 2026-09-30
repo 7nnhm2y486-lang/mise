@@ -1,0 +1,137 @@
+{
+ "id": "pestoeggs",
+ "country": "United States",
+ "region": "north-america",
+ "course": "starter",
+ "time": 10,
+ "serves": 2,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "pinenut",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "slice",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "ricottacheese",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Huevos al Pesto",
+  "blurb": "Freír el huevo en pesto en vez de en aceite. El aceite del pesto fríe la clara mientras el ajo y la albahaca se tuestan y aromatizan los bordes: sencillo y genuinamente bueno.",
+  "ing": [
+   {
+    "n": "pesto"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "pan de masa madre",
+    "note": "tostado"
+   },
+   {
+    "n": "ricotta"
+   },
+   {
+    "n": "limón"
+   },
+   {
+    "n": "hojuelas de chile"
+   },
+   {
+    "n": "sal en escamas"
+   }
+  ],
+  "steps": [
+   "Calienta el pesto en una sartén antiadherente a fuego medio-bajo 30 segundos, hasta que burbujee y huela a ajo tostado.",
+   "Casca los huevos directamente encima, separados entre sí.",
+   "Cocina 3 minutos, cucharéando el pesto caliente sobre las claras para que cuajen desde arriba también.",
+   "Tapa 30 segundos si quieres la yema con velo.",
+   "Unta la ricotta sobre el pan tostado, ralla un poco de limón encima y sazona.",
+   "Coloca los huevos sobre la ricotta con todo el pesto de la sartén, y termina con chile y sal en escamas."
+  ],
+  "tips": [
+   "Fuego medio-bajo. El pesto lleva queso y ajo y se quema mucho antes que el aceite solo.",
+   "La ricotta con limón debajo no es opcional: corta la grasa del pesto.",
+   "Sartén antiadherente. El pesto se pega con ganas."
+  ],
+  "video": "huevos fritos en pesto"
+ },
+ "en": {
+  "name": "Pesto Eggs",
+  "blurb": "Fry the egg in pesto instead of oil. The oil in the pesto fries the white while the garlic and basil toast and perfume the edges: simple and genuinely good.",
+  "ing": [
+   {
+    "n": "pesto"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "sourdough bread",
+    "note": "toasted"
+   },
+   {
+    "n": "ricotta"
+   },
+   {
+    "n": "lemon"
+   },
+   {
+    "n": "chile flakes"
+   },
+   {
+    "n": "flaky salt"
+   }
+  ],
+  "steps": [
+   "Heat the pesto in a nonstick pan over medium-low heat for 30 seconds, until it bubbles and smells of toasted garlic.",
+   "Crack the eggs straight on top, spaced apart.",
+   "Cook for 3 minutes, spooning the hot pesto over the whites so they set from the top too.",
+   "Cover for 30 seconds if you want a veiled yolk.",
+   "Spread the ricotta on the toast, grate a little lemon zest over it and season.",
+   "Set the eggs on the ricotta with all the pesto from the pan, and finish with chile and flaky salt."
+  ],
+  "tips": [
+   "Medium-low heat. Pesto contains cheese and garlic and burns long before plain oil would.",
+   "The lemony ricotta underneath isn't optional: it cuts the richness of the pesto.",
+   "Nonstick pan. Pesto sticks with a vengeance."
+  ],
+  "video": "pesto fried eggs"
+ }
+}

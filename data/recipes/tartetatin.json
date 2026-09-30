@@ -1,0 +1,137 @@
+{
+ "id": "tartetatin",
+ "country": "France",
+ "region": "western-europe",
+ "course": "sweet",
+ "time": 120,
+ "serves": 8,
+ "ovenC": 190,
+ "ing": [
+  {
+   "q": 1.4,
+   "u": "kg",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 320,
+   "u": "g",
+   "k": "puffpastry",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Tarta Tatin",
+  "blurb": "Manzanas cocidas en caramelo dentro de la sartén, masa encima, volteada al salir del horno. Manzanas firmes y un caramelo oscuro son las dos cosas que deciden si funciona.",
+  "ing": [
+   {
+    "n": "manzanas",
+    "note": "firmes — reineta o similar, nunca de cocer"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "hojaldre"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "vaina de vainilla"
+   },
+   {
+    "n": "sal fina"
+   }
+  ],
+  "steps": [
+   "Pela, parte por la mitad y descorazona las manzanas, y mézclalas con el limón. Déjalas destapadas una hora para que se sequen un poco.",
+   "Funde el azúcar en una sartén apta para horno de 24 cm a fuego medio hasta que tome un ámbar profundo. Añade la mantequilla y la sal y agita: burbujeará con fuerza.",
+   "Coloca las mitades de manzana muy apretadas, con la parte curva hacia abajo, casi de pie. Encogen mucho, así que usa más de las que parezcan razonables.",
+   "Cocina en el fuego 20-25 minutos, bañándolas, hasta que el caramelo espese y las manzanas estén medio hechas.",
+   "Coloca el hojaldre encima, remete los bordes por dentro de la sartén y haz dos cortes de vapor.",
+   "Hornea a 190 °C durante 30 minutos. Reposa exactamente 5 minutos y voltea sobre un plato en un solo movimiento decidido."
+  ],
+  "tips": [
+   "Manzanas firmes. Las de cocer se deshacen en compota y la tarta colapsa.",
+   "Cinco minutos de reposo: menos y el caramelo está líquido, más y se pega a la sartén.",
+   "Si se queda pegada, devuelve la sartén al fuego bajo un minuto para aflojar el caramelo."
+  ],
+  "video": "tarta tatin"
+ },
+ "en": {
+  "name": "Tarte Tatin",
+  "blurb": "Apples cooked in caramel in the pan, pastry on top, flipped out of the oven. Firm apples and a dark caramel are the two things that decide whether it works.",
+  "ing": [
+   {
+    "n": "apples",
+    "note": "firm — Reinette or similar, never cooking apples"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "puff pastry"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "vanilla bean"
+   },
+   {
+    "n": "fine salt"
+   }
+  ],
+  "steps": [
+   "Peel, halve and core the apples, and toss them with the lemon juice. Leave them uncovered for an hour to dry out a little.",
+   "Melt the sugar in a 24 cm ovenproof skillet over medium heat until deep amber. Add the butter and salt and swirl: it will bubble hard.",
+   "Pack in the apple halves tightly, curved side down, almost standing up. They shrink a lot, so use more than seems reasonable.",
+   "Cook on the stove for 20-25 minutes, basting, until the caramel thickens and the apples are half cooked.",
+   "Lay the pastry on top, tuck the edges down inside the pan and cut two steam vents.",
+   "Bake at 190 °C for 30 minutes. Rest exactly 5 minutes and invert onto a plate in one decisive move."
+  ],
+  "tips": [
+   "Firm apples. Cooking apples collapse into sauce and the tart caves in.",
+   "Five minutes' rest: any less and the caramel is liquid, any more and it sticks to the pan.",
+   "If it sticks, put the pan back over low heat for a minute to loosen the caramel."
+  ],
+  "video": "tarte tatin"
+ }
+}

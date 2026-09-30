@@ -1,0 +1,182 @@
+{
+ "id": "ceviche",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 25,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "garnish"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "corn",
+   "role": "garnish"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Ceviche",
+  "blurb": "El ácido cuaja la superficie de las proteínas; no cocina nada por dentro. Diez minutos, no una hora, y el pescado tiene que ser impecable.",
+  "ing": [
+   {
+    "n": "pescado blanco firme",
+    "note": "corvina o lubina, en cubos de 2 cm"
+   },
+   {
+    "n": "jugo de limón",
+    "note": "recién exprimido, nunca embotellado"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "en pluma finísima, enjuagada"
+   },
+   {
+    "n": "ají limo o chile ojo de pájaro"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "jengibre",
+    "note": "opcional"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "camote",
+    "note": "cocido y en rodajas"
+   },
+   {
+    "n": "choclo",
+    "note": "de grano grande"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Corta el pescado en cubos parejos de 2 cm y mantenlo muy frío hasta el momento de aliñarlo.",
+   "Corta la cebolla morada lo más fina posible y enjuágala bajo agua fría para quitarle la agresividad.",
+   "Tritura unos recortes de pescado con el jugo de limón, el ajo, el jengibre y un poco de ají, y cuela. Esta es la leche de tigre, y es lo que separa un ceviche peruano de un simple marinado con limón.",
+   "Sazona el pescado con sal y déjalo 2 minutos.",
+   "Vierte la leche de tigre encima, añade el ají y la cebolla, y mezcla. Espera 10 minutos como máximo: el exterior debe volverse opaco y el centro seguir translúcido.",
+   "Añade el cilantro y sirve de inmediato con camote y choclo."
+  ],
+  "tips": [
+   "Diez minutos. Pasados los veinte el pescado queda calcáreo y apretado.",
+   "Exprime los limones con suavidad y sin machacar la parte blanca, que amarga el marinado.",
+   "El dulzor del camote está para equilibrar el ácido. Es estructural, no decorativo."
+  ],
+  "video": "ceviche peruano leche de tigre"
+ },
+ "en": {
+  "name": "Ceviche",
+  "blurb": "Acid sets the surface proteins; it doesn't cook anything inside. Ten minutes, not an hour, and the fish has to be impeccable.",
+  "ing": [
+   {
+    "n": "firm white fish",
+    "note": "corvina or sea bass, in 2 cm cubes"
+   },
+   {
+    "n": "lime juice",
+    "note": "freshly squeezed, never bottled"
+   },
+   {
+    "n": "red onion",
+    "note": "sliced paper-thin, rinsed"
+   },
+   {
+    "n": "ají limo or bird's eye chile"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "ginger",
+    "note": "optional"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "sweet potato",
+    "note": "cooked and sliced"
+   },
+   {
+    "n": "choclo (Andean corn)",
+    "note": "large-kernel"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cut the fish into even 2 cm cubes and keep it very cold until it's time to dress it.",
+   "Slice the red onion as thin as you can and rinse it under cold water to take the edge off.",
+   "Blend a few fish trimmings with the lime juice, garlic, ginger and a little chile, then strain. This is leche de tigre, and it's what separates Peruvian ceviche from a plain lime marinade.",
+   "Season the fish with salt and leave it 2 minutes.",
+   "Pour the leche de tigre over, add the chile and onion, and toss. Wait 10 minutes at most: the outside should turn opaque while the center stays translucent.",
+   "Add the cilantro and serve immediately with the sweet potato and choclo."
+  ],
+  "tips": [
+   "Ten minutes. Past twenty the fish turns chalky and tight.",
+   "Squeeze the limes gently and don't crush the white pith, which makes the marinade bitter.",
+   "The sweetness of the sweet potato is there to balance the acid. It's structural, not decorative."
+  ],
+  "video": "peruvian ceviche leche de tigre"
+ }
+}

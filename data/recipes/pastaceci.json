@@ -1,0 +1,172 @@
+{
+ "id": "pastaceci",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 70,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "fillet",
+   "k": "anchovy",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "tomatopaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 70,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Pasta e Ceci",
+  "blurb": "Garbanzos y pasta cocidos juntos, con romero y una anchoa disuelta que nadie identifica pero todos notan.",
+  "ing": [
+   {
+    "n": "garbanzos",
+    "note": "cocidos, con su caldo"
+   },
+   {
+    "n": "pasta corta mixta"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "romero"
+   },
+   {
+    "n": "anchoas"
+   },
+   {
+    "n": "concentrado de tomate"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "hojuelas de chile"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Calienta el aceite con el ajo aplastado, el romero y el chile a fuego bajo 5 minutos.",
+   "Añade las anchoas y deshazlas con una cuchara hasta que desaparezcan.",
+   "Incorpora el concentrado de tomate y fríelo 2 minutos.",
+   "Añade dos tercios de los garbanzos con su caldo. Tritura el tercio restante y añádelo también: eso da la cremosidad.",
+   "Añade agua caliente hasta obtener una sopa fluida y cuece la pasta directamente dentro.",
+   "Rectifica y reposa 10 minutos antes de servir, con aceite crudo y mucha pimienta."
+  ],
+  "tips": [
+   "Un tercio de los garbanzos triturado. Es lo que hace el plato cremoso sin nada más.",
+   "La anchoa se disuelve del todo. Nadie debe saber que está, pero se nota si falta.",
+   "Espesa mucho al reposar. Guarda caldo caliente para aflojarla."
+  ],
+  "video": "pasta e ceci romana"
+ },
+ "en": {
+  "name": "Pasta e Ceci",
+  "blurb": "Chickpeas and pasta cooked together, with rosemary and a melted anchovy nobody can identify but everyone notices.",
+  "ing": [
+   {
+    "n": "chickpeas",
+    "note": "cooked, with their liquid"
+   },
+   {
+    "n": "mixed short pasta"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "rosemary"
+   },
+   {
+    "n": "anchovies"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "chile flakes"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Warm the oil with the crushed garlic, rosemary and chile over low heat for 5 minutes.",
+   "Add the anchovies and break them up with a spoon until they disappear.",
+   "Stir in the tomato paste and fry it for 2 minutes.",
+   "Add two-thirds of the chickpeas with their liquid. Blend the remaining third and add that too: that's what makes it creamy.",
+   "Add hot water until you have a loose soup and cook the pasta right in it.",
+   "Adjust the seasoning and rest 10 minutes before serving, with raw olive oil and plenty of pepper."
+  ],
+  "tips": [
+   "One-third of the chickpeas blended. That's what makes the dish creamy with nothing else.",
+   "The anchovy dissolves completely. Nobody should know it's there, but they'll notice if it's missing.",
+   "It thickens a lot as it rests. Keep hot liquid on hand to loosen it."
+  ],
+  "video": "pasta e ceci roman"
+ }
+}

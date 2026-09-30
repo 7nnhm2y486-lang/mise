@@ -1,0 +1,203 @@
+{
+ "id": "cinnamonroll",
+ "country": "Sweden",
+ "region": "nordic",
+ "course": "pastry",
+ "time": 300,
+ "serves": 12,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 8,
+   "u": "g",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 8,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "creamcheese",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Rollos de Canela",
+  "blurb": "Una masa enriquecida con tangzhong. Cocer parte de la harina en una papilla permite que la masa sostenga mucha más agua, y por eso siguen tiernos durante días.",
+  "ing": [
+   {
+    "n": "harina de fuerza"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "levadura seca instantánea"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "azúcar morena oscura",
+    "note": "para el relleno"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada, para el relleno"
+   },
+   {
+    "n": "canela molida"
+   },
+   {
+    "n": "queso crema",
+    "note": "para el glaseado"
+   },
+   {
+    "n": "azúcar glas"
+   }
+  ],
+  "steps": [
+   "Para el tangzhong, bate 30 g de la harina con 150 ml de la leche y cocina a fuego medio hasta que espese en una papilla. Enfría.",
+   "Mezcla el tangzhong con el resto de la harina, la leche, el azúcar, la levadura, el huevo y la sal. Amasa 8 minutos y luego incorpora la mantequilla blanda poco a poco hasta que quede lisa y elástica.",
+   "Fermenta 90 minutos hasta que doble.",
+   "Estira a un rectángulo de 40x30 cm. Unta con la mantequilla del relleno, el azúcar morena y la canela, hasta los bordes.",
+   "Enrolla apretado desde el lado largo y corta 12 piezas con un hilo en vez de un cuchillo, que las aplasta.",
+   "Fermenta 45 minutos en un molde forrado hasta que se toquen y estén hinchados. Hornea a 180 °C durante 22-25 minutos. Glasea en tibio."
+  ],
+  "tips": [
+   "El tangzhong permite a la masa llevar cerca del 75% de hidratación sin volverse impracticable. Es la razón de su duración.",
+   "Hilo o seda dental sin sabor para cortar. Pásalo por debajo, cruza los extremos y tira.",
+   "Glasea en tibio pero no ardiendo, o el glaseado se vuelve líquido y se escurre."
+  ],
+  "video": "rollos de canela tangzhong"
+ },
+ "en": {
+  "name": "Cinnamon Rolls",
+  "blurb": "An enriched dough with tangzhong. Cooking part of the flour into a paste lets the dough hold much more water, which is why they stay soft for days.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "instant dry yeast"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark brown sugar",
+    "note": "for the filling"
+   },
+   {
+    "n": "butter",
+    "note": "softened, for the filling"
+   },
+   {
+    "n": "ground cinnamon"
+   },
+   {
+    "n": "cream cheese",
+    "note": "for the frosting"
+   },
+   {
+    "n": "powdered sugar"
+   }
+  ],
+  "steps": [
+   "For the tangzhong, whisk 30 g of the flour with 150 ml of the milk and cook over medium heat until it thickens into a paste. Cool.",
+   "Mix the tangzhong with the rest of the flour, milk, sugar, yeast, egg and salt. Knead 8 minutes, then work in the soft butter bit by bit until smooth and elastic.",
+   "Proof 90 minutes until doubled.",
+   "Roll out to a 40x30 cm rectangle. Spread with the filling butter, brown sugar and cinnamon, right to the edges.",
+   "Roll up tightly from the long side and cut 12 pieces with thread instead of a knife, which squashes them.",
+   "Proof 45 minutes in a lined pan until they touch and are puffy. Bake at 180 °C for 22-25 minutes. Frost while warm."
+  ],
+  "tips": [
+   "Tangzhong lets the dough carry about 75% hydration without becoming unworkable. It's the reason they last.",
+   "Thread or unflavored dental floss for cutting. Slide it underneath, cross the ends and pull.",
+   "Frost warm but not piping hot, or the frosting turns runny and slides off."
+  ],
+  "video": "tangzhong cinnamon rolls"
+ }
+}

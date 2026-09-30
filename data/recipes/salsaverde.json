@@ -1,0 +1,138 @@
+{
+ "id": "salsaverde",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 25,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 700,
+   "u": "g",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Salsa Verde",
+  "blurb": "Tomate verde asado, no hervido. El asado concentra y caramela; el hervido diluye y deja un sabor plano y ácido.",
+  "ing": [
+   {
+    "n": "tomates verdes",
+    "note": "sin cáscara"
+   },
+   {
+    "n": "chiles serranos"
+   },
+   {
+    "n": "ajo",
+    "note": "con piel"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Pon los tomates verdes, los chiles, la cebolla y los ajos con piel en un comal seco a fuego medio-alto.",
+   "Ásalos girándolos 10-12 minutos, hasta que estén ennegrecidos a manchas y blandos por dentro. Los tomates verdes cambian de verde brillante a verde oliva.",
+   "Pela los ajos.",
+   "Tritura todo con la sal, dejando algo de textura. En molcajete queda mejor que en licuadora.",
+   "Añade el cilantro al final y tritura solo dos segundos, para que no se oxide ni amargue.",
+   "Opcional pero recomendable: calienta la cucharada de aceite y fríe la salsa 3 minutos. Esto la asienta y le quita el filo crudo."
+  ],
+  "tips": [
+   "Asar, no hervir. Es la única decisión importante de esta receta.",
+   "El cilantro al final y apenas triturado. Batido de más se vuelve amargo y pardo.",
+   "Freír la salsa terminada en un poco de aceite caliente redondea todo el sabor."
+  ],
+  "video": "salsa verde asada molcajete"
+ },
+ "en": {
+  "name": "Salsa Verde",
+  "blurb": "Charred tomatillos, not boiled. Charring concentrates and caramelizes; boiling dilutes and leaves a flat, sour taste.",
+  "ing": [
+   {
+    "n": "tomatillos",
+    "note": "husked"
+   },
+   {
+    "n": "serrano chiles"
+   },
+   {
+    "n": "garlic",
+    "note": "unpeeled"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Put the tomatillos, chiles, onion and unpeeled garlic on a dry comal over medium-high heat.",
+   "Char them, turning, for 10-12 minutes, until blackened in spots and soft inside. The tomatillos go from bright green to olive green.",
+   "Peel the garlic.",
+   "Grind everything with the salt, leaving some texture. It's better in a molcajete than a blender.",
+   "Add the cilantro at the end and blend for just two seconds, so it doesn't oxidize or turn bitter.",
+   "Optional but recommended: heat the tablespoon of oil and fry the salsa for 3 minutes. This sets it and takes off the raw edge."
+  ],
+  "tips": [
+   "Char, don't boil. It's the only important decision in this recipe.",
+   "Cilantro at the end and barely blended. Overblended, it turns bitter and brown.",
+   "Frying the finished salsa in a little hot oil rounds out the whole flavor."
+  ],
+  "video": "charred salsa verde molcajete"
+ }
+}

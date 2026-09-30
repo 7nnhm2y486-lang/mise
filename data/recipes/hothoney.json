@@ -1,0 +1,127 @@
+{
+ "id": "hothoney",
+ "country": "United States",
+ "region": "north-america",
+ "course": "sauce",
+ "time": 25,
+ "serves": 12,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 350,
+   "u": "g",
+   "k": "honey",
+   "role": "sweet"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Miel Picante",
+  "blurb": "Miel infusionada con chile y un chorro de vinagre. El vinagre es lo que la salva de ser solo dulce, y es lo que casi todas las versiones caseras olvidan.",
+  "ing": [
+   {
+    "n": "miel"
+   },
+   {
+    "n": "chiles secos",
+    "note": "de árbol o similar"
+   },
+   {
+    "n": "hojuelas de chile"
+   },
+   {
+    "n": "vinagre de manzana"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "ajo",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Calienta la miel a fuego muy bajo con los chiles enteros y las hojuelas. No debe hervir: la miel se amarga por encima de 70 °C.",
+   "Mantén 10 minutos a esa temperatura suave, removiendo de vez en cuando.",
+   "Retira del fuego y deja infusionar 30 minutos más fuera del calor.",
+   "Incorpora el vinagre y la sal. Prueba: debe picar al final, no al principio.",
+   "Cuela si quieres una miel limpia, o deja las hojuelas dentro para que siga ganando picante.",
+   "Guarda en un frasco a temperatura ambiente; aguanta meses."
+  ],
+  "tips": [
+   "Nunca la hiervas. La miel calentada de más pierde su aroma floral y se vuelve amarga.",
+   "El vinagre es el ingrediente que separa una miel picante de un jarabe dulce.",
+   "Va con pizza, pollo frito, queso, sandía y, sorprendentemente, con helado de vainilla."
+  ],
+  "video": "miel picante casera"
+ },
+ "en": {
+  "name": "Hot Honey",
+  "blurb": "Honey infused with chile and a splash of vinegar. The vinegar is what saves it from being merely sweet, and it's what nearly every homemade version forgets.",
+  "ing": [
+   {
+    "n": "honey"
+   },
+   {
+    "n": "dried chiles",
+    "note": "chile de árbol or similar"
+   },
+   {
+    "n": "chile flakes"
+   },
+   {
+    "n": "apple cider vinegar"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "garlic",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Warm the honey over very low heat with the whole chiles and the flakes. It must not boil: honey turns bitter above 70 °C.",
+   "Hold it at that gentle temperature for 10 minutes, stirring now and then.",
+   "Take it off the heat and let it infuse another 30 minutes off the heat.",
+   "Stir in the vinegar and salt. Taste: the heat should come at the end, not the start.",
+   "Strain it if you want a clear honey, or leave the flakes in so it keeps getting hotter.",
+   "Store in a jar at room temperature; it keeps for months."
+  ],
+  "tips": [
+   "Never boil it. Overheated honey loses its floral aroma and turns bitter.",
+   "The vinegar is the ingredient that separates a hot honey from a sweet syrup.",
+   "It goes with pizza, fried chicken, cheese, watermelon and, surprisingly, vanilla ice cream."
+  ],
+  "video": "homemade hot honey"
+ }
+}

@@ -1,0 +1,197 @@
+{
+ "id": "speculoos",
+ "country": "Belgium",
+ "region": "western-europe",
+ "course": "cookie",
+ "time": 800,
+ "serves": 30,
+ "ovenC": 170,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 0.75,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Speculoos",
+  "blurb": "Una galleta de especias con azúcar morena y un reposo largo. La masa debe reposar para que las especias se abran y el azúcar extraiga agua; una masa fresca sabe delgada.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "jengibre"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "clavo"
+   },
+   {
+    "n": "cardamomo"
+   },
+   {
+    "n": "pimienta blanca"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   }
+  ],
+  "steps": [
+   "Crema la mantequilla con el azúcar morena y luego bate dentro el huevo.",
+   "Mezcla la harina, todas las especias, el bicarbonato y la sal.",
+   "Envuelve y reposa en el refrigerador al menos 12 horas, y hasta tres días. El sabor cambia por completo en ese tiempo.",
+   "Estira a 3 mm — finas, estas deben quebrarse — y corta o presiona en moldes.",
+   "Refrigera las formas cortadas 15 minutos.",
+   "Hornea a 170 °C durante 10-12 minutos hasta que estén parejamente doradas. Enfría en la bandeja para que crujan."
+  ],
+  "tips": [
+   "El reposo es la receta. Un speculoos del mismo día sabe a especia cruda.",
+   "Finas, o quedarán masticables en vez de quebradizas.",
+   "La pimienta blanca es la nota que nadie identifica. No la omitas."
+  ],
+  "video": "speculoos galletas especiadas"
+ },
+ "en": {
+  "name": "Speculoos",
+  "blurb": "A brown-sugar spice cookie with a long rest. The dough has to sit so the spices open up and the sugar draws out water; fresh dough tastes thin.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "cinnamon"
+   },
+   {
+    "n": "ground ginger"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "ground cloves"
+   },
+   {
+    "n": "cardamom"
+   },
+   {
+    "n": "white pepper"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   }
+  ],
+  "steps": [
+   "Cream the butter with the brown sugar, then beat in the egg.",
+   "Mix in the flour, all the spices, the baking soda and the salt.",
+   "Wrap and rest in the refrigerator for at least 12 hours and up to three days. The flavor changes completely over that time.",
+   "Roll out to 3 mm — thin; these should snap — and cut out or press into molds.",
+   "Chill the cut shapes for 15 minutes.",
+   "Bake at 170 °C for 10-12 minutes until evenly golden. Cool on the sheet so they crisp."
+  ],
+  "tips": [
+   "The rest is the recipe. Same-day speculoos taste of raw spice.",
+   "Roll them thin, or they'll be chewy instead of snappy.",
+   "White pepper is the note nobody can place. Don't leave it out."
+  ],
+  "video": "speculoos spiced cookies recipe"
+ }
+}

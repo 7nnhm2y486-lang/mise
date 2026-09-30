@@ -1,0 +1,177 @@
+{
+ "id": "victoria",
+ "country": "United Kingdom",
+ "region": "western-europe",
+ "course": "sweet",
+ "time": 60,
+ "serves": 8,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "leaven"
+  },
+  {
+   "q": 225,
+   "u": "g",
+   "k": "butter",
+   "role": "aerate"
+  },
+  {
+   "q": 225,
+   "u": "g",
+   "k": "sugar",
+   "role": "aerate"
+  },
+  {
+   "q": 225,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "cream",
+   "role": "fat"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Bizcocho Victoria",
+  "blurb": "Pesos iguales de mantequilla, azúcar, huevo y harina leudante. Pesa los huevos primero e iguala todo lo demás: esa es la receta de verdad.",
+  "ing": [
+   {
+    "n": "huevos",
+    "note": "pesados con cáscara"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada, igualada al peso del huevo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "harina leudante"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "mermelada de frambuesa"
+   },
+   {
+    "n": "crema espesa",
+    "note": "montada"
+   },
+   {
+    "n": "azúcar glas"
+   }
+  ],
+  "steps": [
+   "Pesa los huevos con cáscara y usa ese mismo peso de mantequilla, azúcar y harina.",
+   "Crema la mantequilla y el azúcar 5 minutos hasta que estén realmente pálidos y esponjosos. De ahí viene la subida.",
+   "Añade los huevos uno a uno con una cucharada de la harina en cada uno para que no se corte.",
+   "Incorpora el resto de la harina y el polvo de hornear, y afloja con la leche hasta consistencia de caída: debe desprenderse de la cuchara en 3 segundos.",
+   "Reparte entre dos moldes forrados de 20 cm, nivela y hornea a 180 °C durante 22-25 minutos.",
+   "Enfría y rellena con mermelada y crema montada. Espolvorea azúcar glas."
+  ],
+  "tips": [
+   "Pesa los huevos. Varían hasta un 20% de tamaño y por eso algunos bizcochos salen secos.",
+   "La consistencia de caída es la prueba, no la cantidad de leche de la receta.",
+   "No abras el horno antes de los 20 minutos."
+  ],
+  "video": "bizcocho victoria pesos iguales"
+ },
+ "en": {
+  "name": "Victoria Sponge",
+  "blurb": "Equal weights of butter, sugar, egg and self-rising flour. Weigh the eggs first and match everything else to them: that's the real recipe.",
+  "ing": [
+   {
+    "n": "eggs",
+    "note": "weighed in their shells"
+   },
+   {
+    "n": "butter",
+    "note": "softened, matched to the egg weight"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "self-rising flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "raspberry jam"
+   },
+   {
+    "n": "heavy cream",
+    "note": "whipped"
+   },
+   {
+    "n": "powdered sugar"
+   }
+  ],
+  "steps": [
+   "Weigh the eggs in their shells and use that same weight of butter, sugar and flour.",
+   "Cream the butter and sugar for 5 minutes until truly pale and fluffy. That's where the rise comes from.",
+   "Add the eggs one at a time with a spoonful of the flour each so the batter doesn't split.",
+   "Fold in the rest of the flour and the baking powder, and loosen with the milk to a dropping consistency: it should fall off the spoon within 3 seconds.",
+   "Divide between two lined 20 cm pans, level and bake at 180 °C for 22-25 minutes.",
+   "Cool and fill with jam and whipped cream. Dust with powdered sugar."
+  ],
+  "tips": [
+   "Weigh the eggs. They vary in size by up to 20%, which is why some sponges come out dry.",
+   "Dropping consistency is the test, not the amount of milk in the recipe.",
+   "Don't open the oven before 20 minutes."
+  ],
+  "video": "victoria sponge equal weights"
+ }
+}

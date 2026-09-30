@@ -1,0 +1,202 @@
+{
+ "id": "tagine",
+ "country": "Morocco",
+ "region": "north-africa",
+ "course": "main",
+ "time": 90,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Tayín de Pollo con Aceitunas",
+  "blurb": "El limón en conserva hace algo que ningún limón fresco puede: aporta sal, acidez y un amargor suave a la vez. Usa la cáscara y descarta la pulpa.",
+  "ing": [
+   {
+    "n": "muslos y piernas de pollo"
+   },
+   {
+    "n": "cebolla",
+    "note": "en rodajas"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "jengibre molido"
+   },
+   {
+    "n": "cúrcuma"
+   },
+   {
+    "n": "azafrán",
+    "note": "abierto en agua tibia"
+   },
+   {
+    "n": "limón en conserva",
+    "note": "solo la cáscara, en tiras"
+   },
+   {
+    "n": "aceitunas verdes"
+   },
+   {
+    "n": "cilantro y perejil",
+    "note": "picados, la mitad reservada"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Unta el pollo con cúrcuma, jengibre, ajo, sal y la mitad de las hierbas. Deja reposar 30 minutos si puedes.",
+   "Dora el pollo en aceite en una sartén ancha y pesada, con la piel hacia abajo, hasta que tome un dorado profundo. Retira.",
+   "Ablanda las cebollas en la misma grasa 10 minutos, hasta que estén dulces.",
+   "Devuelve el pollo, añade el azafrán con su agua y el caldo. Tapa y cocina a fuego muy suave 45 minutos.",
+   "Añade las aceitunas y la cáscara de limón en los últimos 10 minutos para que conserven su carácter.",
+   "Saca el pollo, reduce la salsa con fuerza hasta que nape una cuchara y viértela de vuelta. Esparce el resto de las hierbas."
+  ],
+  "tips": [
+   "Reducir al final no es opcional: un tayín aguado es un tayín sin terminar.",
+   "Enjuaga las aceitunas si están muy saladas; el limón en conserva ya aporta bastante.",
+   "No hace falta una tayín de barro. Cualquier sartén ancha con tapa hermética hace lo mismo."
+  ],
+  "video": "tajine de pollo limón confitado"
+ },
+ "en": {
+  "name": "Chicken Tagine with Olives",
+  "blurb": "Preserved lemon does something no fresh lemon can: it brings salt, acidity and a gentle bitterness all at once. Use the rind and discard the pulp.",
+  "ing": [
+   {
+    "n": "chicken thighs and drumsticks"
+   },
+   {
+    "n": "onion",
+    "note": "sliced"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "ground ginger"
+   },
+   {
+    "n": "turmeric"
+   },
+   {
+    "n": "saffron",
+    "note": "bloomed in warm water"
+   },
+   {
+    "n": "preserved lemon",
+    "note": "rind only, in strips"
+   },
+   {
+    "n": "green olives"
+   },
+   {
+    "n": "cilantro and parsley",
+    "note": "chopped, half reserved"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Rub the chicken with the turmeric, ginger, garlic, salt and half the herbs. Leave it for 30 minutes if you can.",
+   "Brown the chicken in oil in a wide, heavy pan, skin side down, until deeply golden. Remove.",
+   "Soften the onions in the same fat for 10 minutes, until sweet.",
+   "Return the chicken and add the saffron with its water and the stock. Cover and cook over very low heat for 45 minutes.",
+   "Add the olives and lemon rind for the last 10 minutes so they keep their character.",
+   "Lift out the chicken, reduce the sauce hard until it coats a spoon and pour it back over. Scatter the rest of the herbs."
+  ],
+  "tips": [
+   "The final reduction isn't optional: a watery tagine is an unfinished tagine.",
+   "Rinse the olives if they're very salty; the preserved lemon already brings plenty.",
+   "You don't need a clay tagine. Any wide pan with a tight lid does the same job."
+  ],
+  "video": "chicken tagine preserved lemon olives"
+ }
+}

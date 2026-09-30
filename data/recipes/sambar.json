@@ -1,0 +1,234 @@
+{
+ "id": "sambar",
+ "country": "India",
+ "region": "south-asia",
+ "course": "soup",
+ "time": 70,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "coconutoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 15,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Sambar",
+  "blurb": "Lentejas y verduras con tamarindo, terminado con un tadka. El polvo de sambar recién tostado y molido cambia el plato por completo.",
+  "ing": [
+   {
+    "n": "toor dal"
+   },
+   {
+    "n": "tamarindo",
+    "note": "en pasta"
+   },
+   {
+    "n": "polvo de sambar"
+   },
+   {
+    "n": "cúrcuma"
+   },
+   {
+    "n": "calabaza y ejotes",
+    "note": "en trozos"
+   },
+   {
+    "n": "cebolla perla"
+   },
+   {
+    "n": "jitomate"
+   },
+   {
+    "n": "aceite de coco"
+   },
+   {
+    "n": "semilla de mostaza"
+   },
+   {
+    "n": "fenogreco"
+   },
+   {
+    "n": "hojas de curry"
+   },
+   {
+    "n": "asafétida"
+   },
+   {
+    "n": "chiles rojos secos"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece la dal con cúrcuma hasta que se deshaga, unos 30 minutos, y bátela lisa.",
+   "Cuece las verduras y las cebollas perla en agua con el tamarindo y el jitomate 12 minutos, hasta que estén tiernas.",
+   "Añade el polvo de sambar y cuece 5 minutos: el tamarindo tiene que perder su crudeza.",
+   "Incorpora la dal batida y afloja con agua caliente hasta una consistencia de sopa ligera. Sazona y cuece 5 minutos.",
+   "Para el tadka, abre la mostaza en el aceite de coco, añade fenogreco, chiles secos, hojas de curry y asafétida.",
+   "Viértelo sobre el sambar y tapa un minuto antes de remover. Termina con cilantro."
+  ],
+  "tips": [
+   "El tamarindo se cuece con las verduras, nunca se añade al final: crudo domina todo.",
+   "El fenogreco amarga si se pasa. Un par de segundos en el aceite y ya está.",
+   "Tapa después de verter el tadka para atrapar los aromáticos."
+  ],
+  "video": "sambar sur de india"
+ },
+ "en": {
+  "name": "Sambar",
+  "blurb": "Lentils and vegetables with tamarind, finished with a tadka. Freshly toasted and ground sambar powder changes the dish completely.",
+  "ing": [
+   {
+    "n": "toor dal"
+   },
+   {
+    "n": "tamarind",
+    "note": "paste"
+   },
+   {
+    "n": "sambar powder"
+   },
+   {
+    "n": "turmeric"
+   },
+   {
+    "n": "pumpkin and green beans",
+    "note": "in chunks"
+   },
+   {
+    "n": "pearl onions"
+   },
+   {
+    "n": "tomato"
+   },
+   {
+    "n": "coconut oil"
+   },
+   {
+    "n": "mustard seeds"
+   },
+   {
+    "n": "fenugreek seeds"
+   },
+   {
+    "n": "curry leaves"
+   },
+   {
+    "n": "asafoetida"
+   },
+   {
+    "n": "dried red chiles"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the dal with turmeric until it falls apart, about 30 minutes, and whisk it smooth.",
+   "Simmer the vegetables and pearl onions in water with the tamarind and tomato for 12 minutes, until tender.",
+   "Add the sambar powder and simmer 5 minutes: the tamarind has to lose its rawness.",
+   "Stir in the whisked dal and loosen with hot water to a light soup consistency. Season and simmer 5 minutes.",
+   "For the tadka, pop the mustard seeds in the coconut oil, then add the fenugreek, dried chiles, curry leaves and asafoetida.",
+   "Pour it over the sambar and cover for a minute before stirring. Finish with cilantro."
+  ],
+  "tips": [
+   "The tamarind cooks with the vegetables, never goes in at the end: raw, it dominates everything.",
+   "Fenugreek turns bitter if overdone. A couple of seconds in the oil and that's it.",
+   "Cover after pouring on the tadka to trap the aromatics."
+  ],
+  "video": "south indian sambar"
+ }
+}

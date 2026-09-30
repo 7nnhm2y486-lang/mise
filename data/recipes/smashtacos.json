@@ -1,0 +1,193 @@
+{
+ "id": "smashtacos",
+ "country": "United States",
+ "region": "north-america",
+ "course": "main",
+ "time": 25,
+ "serves": 4,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "flourtortilla",
+   "role": "structure"
+  },
+  {
+   "q": 8,
+   "u": "slice",
+   "k": "cheese",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "mayo",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "mustard",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Tacos de Hamburguesa Aplastada",
+  "blurb": "Carne cruda aplastada directamente sobre una tortilla en la plancha. La grasa fríe la tortilla desde arriba mientras la carne desarrolla costra por abajo: dos cocciones en un solo paso.",
+  "ing": [
+   {
+    "n": "res molida",
+    "note": "con 20% de grasa"
+   },
+   {
+    "n": "tortillas de harina",
+    "note": "pequeñas"
+   },
+   {
+    "n": "queso americano o cheddar"
+   },
+   {
+    "n": "cebolla",
+    "note": "en dados muy finos"
+   },
+   {
+    "n": "pepinillos",
+    "note": "en rodajas"
+   },
+   {
+    "n": "lechuga",
+    "note": "en juliana"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "kétchup"
+   },
+   {
+    "n": "mostaza"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Mezcla la mayonesa, el kétchup, la mostaza y un poco de pepinillo picado para la salsa. Reserva.",
+   "Divide la carne en 8 bolas sin compactarla. Trabajarla de más da una textura de goma.",
+   "Coloca una bola sobre cada tortilla y aplástala con la palma hasta cubrirla por completo. Sazona.",
+   "Pon la tortilla con la carne hacia abajo en una plancha muy caliente y presiona con una espátula 2 minutos, hasta formar una costra oscura.",
+   "Voltea. Ahora la tortilla se fríe en la grasa que soltó la carne. Añade el queso y déjalo fundir 1 minuto.",
+   "Retira, añade cebolla, pepinillo, lechuga y salsa, y dobla."
+  ],
+  "tips": [
+   "Carne con 20% de grasa. Con carne magra la tortilla no se fríe y el taco queda seco.",
+   "Presiona fuerte solo los primeros 30 segundos, luego déjalo quieto: la costra necesita contacto sin movimiento.",
+   "Plancha de hierro o sartén pesada. Una antiadherente no alcanza la temperatura necesaria."
+  ],
+  "video": "smash burger tacos"
+ },
+ "en": {
+  "name": "Smash Burger Tacos",
+  "blurb": "Raw beef smashed straight onto a tortilla on the griddle. The fat fries the tortilla from above while the meat forms a crust below: two cooks in one step.",
+  "ing": [
+   {
+    "n": "ground beef",
+    "note": "20% fat"
+   },
+   {
+    "n": "flour tortillas",
+    "note": "small"
+   },
+   {
+    "n": "American or cheddar cheese"
+   },
+   {
+    "n": "onion",
+    "note": "very finely diced"
+   },
+   {
+    "n": "pickles",
+    "note": "sliced"
+   },
+   {
+    "n": "lettuce",
+    "note": "shredded"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "ketchup"
+   },
+   {
+    "n": "mustard"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Mix the mayonnaise, ketchup, mustard and a little chopped pickle for the sauce. Set aside.",
+   "Divide the beef into 8 balls without packing it. Overworking it gives a rubbery texture.",
+   "Place a ball on each tortilla and smash it with your palm until it covers it completely. Season.",
+   "Put the tortilla meat-side down on a very hot griddle and press with a spatula for 2 minutes, until a dark crust forms.",
+   "Flip. Now the tortilla fries in the fat the meat has released. Add the cheese and let it melt 1 minute.",
+   "Remove, add onion, pickle, lettuce and sauce, and fold."
+  ],
+  "tips": [
+   "20% fat beef. With lean beef the tortilla doesn't fry and the taco ends up dry.",
+   "Press hard only for the first 30 seconds, then leave it alone: the crust needs contact without movement.",
+   "Cast-iron griddle or a heavy skillet. Nonstick won't reach the heat you need."
+  ],
+  "video": "smash burger tacos"
+ }
+}

@@ -1,0 +1,175 @@
+{
+ "id": "porchetta",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 600,
+ "serves": 10,
+ "ovenC": 220,
+ "ing": [
+  {
+   "q": 3,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 10,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Porchetta",
+  "blurb": "Panza de cerdo enrollada sobre hinojo y ajo, secada en el refrigerador un día entero. Esa sequedad de la piel es la única forma de conseguir la corteza.",
+  "ing": [
+   {
+    "n": "panza de cerdo con piel",
+    "note": "deshuesada"
+   },
+   {
+    "n": "semilla de hinojo",
+    "note": "tostada y machacada"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "romero"
+   },
+   {
+    "n": "salvia"
+   },
+   {
+    "n": "ralladura de limón"
+   },
+   {
+    "n": "hojuelas de chile"
+   },
+   {
+    "n": "sal gruesa"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "vino blanco"
+   }
+  ],
+  "steps": [
+   "Marca la piel en rombos sin llegar a la carne. Seca la piel y frótala con sal gruesa.",
+   "Voltea la pieza y frota la carne con el hinojo, ajo machacado, hierbas, ralladura, chile, sal y pimienta.",
+   "Enróllala apretada con la piel por fuera y átala cada 3 cm con hilo de cocina.",
+   "Déjala destapada en el refrigerador 24 horas. La piel debe quedar seca al tacto, casi apergaminada.",
+   "Asa a 220 °C durante 30 minutos, luego baja a 150 °C durante 3 horas con el vino en la bandeja.",
+   "Sube otra vez a 240 °C los últimos 20-30 minutos hasta que la piel se ampolle y cruja. Reposa 20 minutos antes de cortar."
+  ],
+  "tips": [
+   "Veinticuatro horas destapada en el refrigerador. Sin eso no hay corteza, solo piel gomosa.",
+   "Fuerte, suave, fuerte: sella, cocina y cruje. Ese orden importa.",
+   "Ata con fuerza y cada pocos centímetros o se abrirá en el horno."
+  ],
+  "video": "porchetta piel crujiente"
+ },
+ "en": {
+  "name": "Porchetta",
+  "blurb": "Pork belly rolled around fennel and garlic, dried in the fridge for a full day. That dry skin is the only way to get crackling.",
+  "ing": [
+   {
+    "n": "skin-on pork belly",
+    "note": "boneless"
+   },
+   {
+    "n": "fennel seed",
+    "note": "toasted and crushed"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "rosemary"
+   },
+   {
+    "n": "sage"
+   },
+   {
+    "n": "lemon zest"
+   },
+   {
+    "n": "chile flakes"
+   },
+   {
+    "n": "coarse salt"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "white wine"
+   }
+  ],
+  "steps": [
+   "Score the skin in a diamond pattern without cutting into the meat. Dry the skin and rub it with coarse salt.",
+   "Turn the piece over and rub the meat with the fennel, crushed garlic, herbs, zest, chile, salt and pepper.",
+   "Roll it up tightly with the skin on the outside and tie it every 3 cm with kitchen twine.",
+   "Leave it uncovered in the fridge for 24 hours. The skin should be dry to the touch, almost like parchment.",
+   "Roast at 220 °C for 30 minutes, then lower to 150 °C for 3 hours with the wine in the pan.",
+   "Raise it again to 240 °C for the last 20-30 minutes until the skin blisters and crackles. Rest 20 minutes before carving."
+  ],
+  "tips": [
+   "Twenty-four hours uncovered in the fridge. Without it there's no crackling, just rubbery skin.",
+   "Hot, low, hot: sear, cook, crisp. That order matters.",
+   "Tie it tightly and every few centimeters or it will open up in the oven."
+  ],
+  "video": "porchetta crispy skin"
+ }
+}

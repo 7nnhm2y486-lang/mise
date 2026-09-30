@@ -1,0 +1,176 @@
+{
+ "id": "greencurry",
+ "country": "Thailand",
+ "region": "southeast-asia",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "eggplant",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "fishsauce",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "palmsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "coconutoil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Curry Verde",
+  "blurb": "Primero hay que romper la crema de coco: freírla hasta que el aceite se separe, y la pasta entra en ese aceite. Si te lo saltas, tienes sopa con pasta removida.",
+  "ing": [
+   {
+    "n": "leche de coco",
+    "note": "entera, sin agitar la lata"
+   },
+   {
+    "n": "pasta de curry verde"
+   },
+   {
+    "n": "muslo de pollo",
+    "note": "en tiras"
+   },
+   {
+    "n": "berenjena tailandesa"
+   },
+   {
+    "n": "salsa de pescado"
+   },
+   {
+    "n": "azúcar de palma"
+   },
+   {
+    "n": "hojas de lima kaffir",
+    "note": "rasgadas"
+   },
+   {
+    "n": "albahaca tailandesa"
+   },
+   {
+    "n": "chile rojo"
+   },
+   {
+    "n": "aceite de coco"
+   }
+  ],
+  "steps": [
+   "Saca con cuchara la crema espesa de la superficie de las latas y ponla en el wok. Hiérvela fuerte 5-8 minutos hasta que se rompa y el aceite transparente aflore en los bordes.",
+   "Añade la pasta de curry a ese aceite y fríela 3-4 minutos, aplastándola, hasta que oscurezca y huela profundamente aromática en vez de cruda.",
+   "Añade el pollo y muévelo en la pasta hasta que quede cubierto y sellado.",
+   "Vierte el resto de la leche de coco, añade la berenjena y las hojas de lima, y cocina 12 minutos.",
+   "Sazona con salsa de pescado y azúcar de palma. Debe leerse salado, dulce, picante y aromático, en ese orden.",
+   "Fuera del fuego, incorpora la albahaca tailandesa y el chile en rodajas."
+  ],
+  "tips": [
+   "No agites la lata. Necesitas la crema espesa separada de la leche ligera.",
+   "Freír la pasta en el aceite de coco roto es el paso más importante de todo curry tailandés.",
+   "Salsa de pescado y azúcar al final, probando. Las pastas varían muchísimo en sal."
+  ],
+  "video": "curry verde tailandés romper crema de coco"
+ },
+ "en": {
+  "name": "Thai Green Curry",
+  "blurb": "First you have to crack the coconut cream: fry it until the oil separates, and the paste goes into that oil. Skip it and you have soup with paste stirred in.",
+  "ing": [
+   {
+    "n": "coconut milk",
+    "note": "full-fat, can not shaken"
+   },
+   {
+    "n": "green curry paste"
+   },
+   {
+    "n": "chicken thighs",
+    "note": "in strips"
+   },
+   {
+    "n": "Thai eggplant"
+   },
+   {
+    "n": "fish sauce"
+   },
+   {
+    "n": "palm sugar"
+   },
+   {
+    "n": "makrut lime leaves",
+    "note": "torn"
+   },
+   {
+    "n": "Thai basil"
+   },
+   {
+    "n": "red chile"
+   },
+   {
+    "n": "coconut oil"
+   }
+  ],
+  "steps": [
+   "Spoon the thick cream off the top of the cans into the wok. Boil it hard for 5-8 minutes until it cracks and clear oil appears at the edges.",
+   "Add the curry paste to that oil and fry 3-4 minutes, mashing it, until it darkens and smells deeply aromatic rather than raw.",
+   "Add the chicken and turn it in the paste until coated and seared.",
+   "Pour in the rest of the coconut milk, add the eggplant and lime leaves, and cook 12 minutes.",
+   "Season with fish sauce and palm sugar. It should read salty, sweet, hot and aromatic, in that order.",
+   "Off the heat, stir in the Thai basil and the sliced chile."
+  ],
+  "tips": [
+   "Don't shake the can. You need the thick cream separate from the thin milk.",
+   "Frying the paste in the cracked coconut oil is the single most important step in any Thai curry.",
+   "Fish sauce and sugar at the end, tasting as you go. Pastes vary enormously in salt."
+  ],
+  "video": "Thai green curry cracking coconut cream"
+ }
+}

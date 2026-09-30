@@ -1,0 +1,141 @@
+{
+ "id": "kouignamann",
+ "country": "France",
+ "region": "western-europe",
+ "course": "pastry",
+ "time": 600,
+ "serves": 12,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 6,
+   "u": "g",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 9,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  }
+ ],
+ "es": {
+  "name": "Kouign-Amann",
+  "blurb": "Masa laminada con azúcar plegado dentro de las capas en vez de encima. El azúcar se funde, escapa y fríe el exterior en caramelo.",
+  "ing": [
+   {
+    "n": "harina de fuerza"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "levadura seca instantánea"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "mantequilla",
+    "note": "fría, para el bloque"
+   },
+   {
+    "n": "azúcar",
+    "note": "para los pliegues"
+   },
+   {
+    "n": "azúcar",
+    "note": "para los moldes"
+   }
+  ],
+  "steps": [
+   "Haz una masa magra sencilla con harina, agua, levadura y sal. Amasa 5 minutos y refrigera 1 hora.",
+   "Aplana la mantequilla en un cuadrado y enciérrala en la masa estirada, como en los croissants.",
+   "Da un pliegue de carta y refrigera 30 minutos. En el segundo y el tercer pliegue, esparce un tercio del azúcar sobre la masa antes de plegar.",
+   "Tras el último pliegue, estira a 1 cm y corta 12 cuadrados. Dobla las esquinas de cada uno hacia el centro.",
+   "Engrasa moldes de muffin con mucha mantequilla y espolvoréalos con el azúcar restante. Presiona un cuadrado en cada uno.",
+   "Fermenta 60-90 minutos y hornea a 200 °C durante 30-35 minutos. Desmóldalos en cuanto salgan: el caramelo cuaja como vidrio en menos de dos minutos y se soldarán al molde."
+  ],
+  "tips": [
+   "Desmóldalos de inmediato. Esta es la instrucción que la gente ignora y así pierde la tanda entera.",
+   "Pon los moldes sobre una bandeja. El azúcar se desbordará y se quemaría en el suelo del horno.",
+   "El azúcar hace la masa más difícil de estirar conforme avanzas. Trabaja rápido y mantenla fría."
+  ],
+  "video": "kouign amann"
+ },
+ "en": {
+  "name": "Kouign-Amann",
+  "blurb": "Laminated dough with the sugar folded into the layers instead of on top. The sugar melts, escapes and fries the outside into caramel.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "instant dry yeast"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "butter",
+    "note": "cold, for the butter block"
+   },
+   {
+    "n": "sugar",
+    "note": "for the folds"
+   },
+   {
+    "n": "sugar",
+    "note": "for the molds"
+   }
+  ],
+  "steps": [
+   "Make a simple lean dough with the flour, water, yeast and salt. Knead 5 minutes and refrigerate 1 hour.",
+   "Flatten the butter into a square and lock it into the rolled-out dough, as for croissants.",
+   "Give it a letter fold and refrigerate 30 minutes. On the second and third folds, scatter a third of the sugar over the dough before folding.",
+   "After the last fold, roll out to 1 cm and cut 12 squares. Fold the corners of each one into the center.",
+   "Grease muffin tins heavily with butter and sprinkle with the remaining sugar. Press one square into each cup.",
+   "Proof 60-90 minutes and bake at 200 °C for 30-35 minutes. Unmold them the moment they come out: the caramel sets like glass in under two minutes and they'll weld to the tin."
+  ],
+  "tips": [
+   "Unmold them immediately. This is the instruction people ignore, and it's how they lose the whole batch.",
+   "Set the tins on a sheet pan. The sugar will overflow and would burn on the oven floor.",
+   "The sugar makes the dough harder to roll as you go. Work fast and keep it cold."
+  ],
+  "video": "kouign amann"
+ }
+}

@@ -1,0 +1,225 @@
+{
+ "id": "empanadas",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 180,
+ "serves": 12,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "glaze"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Empanadas",
+  "blurb": "El relleno se enfría del todo antes de entrar, para que la grasa cuaje y no empape la masa. Cortar la carne a cuchillo en vez de picarla es lo que da la textura.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "grasa de res o manteca"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "falda de res",
+    "note": "cortada a cuchillo en dados de 5 mm"
+   },
+   {
+    "n": "cebolla",
+    "note": "muy picada"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "hojuelas de chile"
+   },
+   {
+    "n": "aceitunas verdes"
+   },
+   {
+    "n": "huevos",
+    "note": "duros, picados"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "caldo de res"
+   }
+  ],
+  "steps": [
+   "Integra la grasa en la harina y la sal, añade el agua tibia y amasa brevemente hasta obtener una masa lisa. Reposa 1 hora.",
+   "Cocina las cebollas despacio en grasa 20 minutos hasta que estén dulces, y añade el pimentón, el comino y el chile.",
+   "Añade la carne en dados y cocina solo 3-4 minutos: se termina en el horno. Añade el caldo y sazona con generosidad.",
+   "Enfría el relleno por completo, idealmente toda la noche. Un relleno tibio rompe la masa y se escapa.",
+   "Incorpora las aceitunas, el huevo y el cebollín. Estira la masa fina, corta discos de 13 cm, rellena y sella con repulgue o con tenedor.",
+   "Pinta con huevo y hornea a 200 °C durante 15-18 minutos."
+  ],
+  "tips": [
+   "Enfría bien el relleno. Es el fallo más común con diferencia.",
+   "Carne cortada a cuchillo, no molida. La textura es completamente distinta y es la marca de una buena empanada.",
+   "Una cucharada de caldo en el relleno hace que se cocine al vapor por dentro y quede jugosa."
+  ],
+  "video": "empanadas argentinas repulgue"
+ },
+ "en": {
+  "name": "Empanadas",
+  "blurb": "The filling goes in completely cold, so the fat sets instead of soaking the dough. Cutting the beef by hand rather than grinding it is what gives the texture.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "beef fat or lard"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "beef flank",
+    "note": "hand-cut into 5 mm dice"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "scallions"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "chile flakes"
+   },
+   {
+    "n": "green olives"
+   },
+   {
+    "n": "eggs",
+    "note": "hard-boiled, chopped"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "beef stock"
+   }
+  ],
+  "steps": [
+   "Work the fat into the flour and salt, add the warm water and knead briefly into a smooth dough. Rest 1 hour.",
+   "Cook the onions slowly in fat for 20 minutes until sweet, then add the paprika, cumin and chile.",
+   "Add the diced beef and cook just 3-4 minutes: it finishes in the oven. Add the stock and season generously.",
+   "Cool the filling completely, ideally overnight. Warm filling tears the dough and leaks out.",
+   "Fold in the olives, egg and scallions. Roll the dough thin, cut 13 cm rounds, fill and seal with a repulgue braid or a fork.",
+   "Brush with egg and bake at 200 °C for 15-18 minutes."
+  ],
+  "tips": [
+   "Chill the filling properly. It is by far the most common mistake.",
+   "Hand-cut beef, not ground. The texture is completely different, and it is the mark of a good empanada.",
+   "A spoonful of stock in the filling steams it from the inside and keeps it juicy."
+  ],
+  "video": "Argentine empanadas repulgue"
+ }
+}

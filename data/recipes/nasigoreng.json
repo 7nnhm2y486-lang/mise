@@ -1,0 +1,210 @@
+{
+ "id": "nasigoreng",
+ "country": "Indonesia",
+ "region": "southeast-asia",
+ "course": "main",
+ "time": 25,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "shallot",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "shrimppaste",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "garnish"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "onion",
+   "role": "crunch"
+  }
+ ],
+ "es": {
+  "name": "Nasi Goreng",
+  "blurb": "Arroz del día anterior, una sartén ardiendo y kecap manis. El arroz fresco se cuece al vapor y se apelmaza; el arroz frío se fríe.",
+  "ing": [
+   {
+    "n": "arroz cocido",
+    "note": "frío, del refrigerador"
+   },
+   {
+    "n": "chalota"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "chile rojo"
+   },
+   {
+    "n": "pasta de camarón"
+   },
+   {
+    "n": "kecap manis"
+   },
+   {
+    "n": "muslo de pollo",
+    "note": "en dados"
+   },
+   {
+    "n": "camarones"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "pepino y jitomate"
+   },
+   {
+    "n": "chalota frita"
+   }
+  ],
+  "steps": [
+   "Machaca en el mortero las chalotas, el ajo, el chile y la pasta de camarón hasta obtener una pasta tosca.",
+   "Calienta el wok hasta que humee. Fríe la pasta en aceite 2 minutos hasta que esté aromática y oscura.",
+   "Añade el pollo y los camarones y saltea hasta que estén apenas hechos.",
+   "Añade el arroz frío y deshazlo contra el wok, salteando sin parar 3-4 minutos hasta que cada grano esté suelto y empiece a agarrarse.",
+   "Añade el kecap manis y saltea hasta que el arroz quede parejo, brillante y dorado oscuro.",
+   "Incorpora el cebollín, corona cada plato con un huevo frito y sirve con pepino, jitomate y chalota frita."
+  ],
+  "tips": [
+   "Arroz frío, extendido para que se seque más si tienes tiempo. Esto no es negociable.",
+   "Mantén el arroz en movimiento. Lo que se queda quieto se cuece al vapor.",
+   "El kecap manis se quema rápido por su azúcar: entra casi al final."
+  ],
+  "video": "nasi goreng"
+ },
+ "en": {
+  "name": "Nasi Goreng",
+  "blurb": "Day-old rice, a blazing-hot pan and kecap manis. Fresh rice steams and clumps; cold rice fries.",
+  "ing": [
+   {
+    "n": "cooked rice",
+    "note": "cold, from the fridge"
+   },
+   {
+    "n": "shallot"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "red chile"
+   },
+   {
+    "n": "shrimp paste"
+   },
+   {
+    "n": "kecap manis"
+   },
+   {
+    "n": "chicken thigh",
+    "note": "diced"
+   },
+   {
+    "n": "shrimp"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "scallion"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "cucumber and tomato"
+   },
+   {
+    "n": "fried shallots"
+   }
+  ],
+  "steps": [
+   "Pound the shallots, garlic, chile and shrimp paste in a mortar to a coarse paste.",
+   "Heat the wok until it smokes. Fry the paste in oil for 2 minutes, until fragrant and dark.",
+   "Add the chicken and shrimp and stir-fry until just cooked.",
+   "Add the cold rice and break it up against the wok, stir-frying nonstop for 3-4 minutes until every grain is separate and starting to catch.",
+   "Add the kecap manis and stir-fry until the rice is even, glossy and deep golden.",
+   "Stir in the scallion, top each plate with a fried egg and serve with cucumber, tomato and fried shallots."
+  ],
+  "tips": [
+   "Cold rice, spread out to dry further if you have time. This is not negotiable.",
+   "Keep the rice moving. Whatever sits still steams.",
+   "Kecap manis burns quickly because of its sugar: it goes in almost at the end."
+  ],
+  "video": "nasi goreng"
+ }
+}

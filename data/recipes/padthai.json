@@ -1,0 +1,238 @@
+{
+ "id": "padthai",
+ "country": "Thailand",
+ "region": "southeast-asia",
+ "course": "main",
+ "time": 40,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 180,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "palmsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "fishsauce",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "tofu",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "chive",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "shrimp",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "umami"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "peanut",
+   "role": "crunch"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Pad Thai",
+  "blurb": "Tamarindo, azúcar de palma y salsa de pescado en equilibrio, y fideos remojados en vez de hervidos. Haz dos raciones como máximo o el wok nunca estará caliente.",
+  "ing": [
+   {
+    "n": "fideos de arroz",
+    "note": "de 5 mm, remojados 40 min en agua fría"
+   },
+   {
+    "n": "pasta de tamarindo"
+   },
+   {
+    "n": "azúcar de palma"
+   },
+   {
+    "n": "salsa de pescado"
+   },
+   {
+    "n": "camarones"
+   },
+   {
+    "n": "tofu firme",
+    "note": "en cubos"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "cebollino chino"
+   },
+   {
+    "n": "germinado de soja"
+   },
+   {
+    "n": "camarón seco",
+    "note": "opcional"
+   },
+   {
+    "n": "nabo encurtido"
+   },
+   {
+    "n": "cacahuates tostados",
+    "note": "machacados"
+   },
+   {
+    "n": "hojuelas de chile"
+   },
+   {
+    "n": "lima"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Calienta juntos el tamarindo, el azúcar de palma y la salsa de pescado hasta disolver. Prueba: debe ser agresivamente ácido, dulce y salado, porque los fideos lo apagarán.",
+   "Remoja los fideos en agua fría hasta que estén flexibles pero aún firmes. Escurre bien.",
+   "Pon el wok a humear. Fríe el tofu y el camarón seco, luego los camarones, hasta que estén apenas hechos. Empújalos a un lado.",
+   "Casca los huevos, revuélvelos toscamente y déjalos cuajar.",
+   "Añade los fideos y la salsa. Saltea sin parar 2-3 minutos hasta que los fideos lo absorban todo y brillen.",
+   "Apaga el fuego, echa el cebollino y el germinado para que queden crudos y crujientes, y sirve con cacahuate, chile y lima."
+  ],
+  "tips": [
+   "Remojo en frío, nunca hervido. Los fideos hervidos se vuelven pasta en el wok.",
+   "Dos raciones máximo por tanda. Más y los fideos se cuecen al vapor.",
+   "Haz la salsa primero y pruébala sola. Corregir el equilibrio a mitad del salteado es imposible."
+  ],
+  "video": "pad thai equilibrio de salsa"
+ },
+ "en": {
+  "name": "Pad Thai",
+  "blurb": "Tamarind, palm sugar and fish sauce in balance, and noodles soaked instead of boiled. Make two servings at most or the wok will never be hot enough.",
+  "ing": [
+   {
+    "n": "rice noodles",
+    "note": "5 mm wide, soaked 40 min in cold water"
+   },
+   {
+    "n": "tamarind paste"
+   },
+   {
+    "n": "palm sugar"
+   },
+   {
+    "n": "fish sauce"
+   },
+   {
+    "n": "shrimp"
+   },
+   {
+    "n": "firm tofu",
+    "note": "cubed"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "garlic chives"
+   },
+   {
+    "n": "bean sprouts"
+   },
+   {
+    "n": "dried shrimp",
+    "note": "optional"
+   },
+   {
+    "n": "pickled radish"
+   },
+   {
+    "n": "roasted peanuts",
+    "note": "crushed"
+   },
+   {
+    "n": "chile flakes"
+   },
+   {
+    "n": "lime"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Heat the tamarind, palm sugar and fish sauce together until dissolved. Taste: it should be aggressively sour, sweet and salty, because the noodles will mute it.",
+   "Soak the noodles in cold water until pliable but still firm. Drain well.",
+   "Get the wok smoking. Fry the tofu and dried shrimp, then the shrimp, until just cooked. Push them to one side.",
+   "Crack in the eggs, scramble them roughly and let them set.",
+   "Add the noodles and the sauce. Stir-fry nonstop for 2-3 minutes until the noodles absorb everything and turn glossy.",
+   "Kill the heat, toss in the chives and bean sprouts so they stay raw and crunchy, and serve with peanuts, chile and lime."
+  ],
+  "tips": [
+   "Cold soak, never boiled. Boiled noodles turn to paste in the wok.",
+   "Two servings max per batch. Any more and the noodles steam.",
+   "Make the sauce first and taste it on its own. Fixing the balance mid-stir-fry is impossible."
+  ],
+  "video": "pad thai sauce balance"
+ }
+}

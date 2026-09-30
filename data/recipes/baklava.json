@@ -1,0 +1,151 @@
+{
+ "id": "baklava",
+ "country": "Turkey",
+ "region": "middle-east",
+ "course": "pastry",
+ "time": 180,
+ "serves": 24,
+ "ovenC": 160,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "phyllo",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pistachio",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "honey",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Baklava",
+  "blurb": "Masa caliente y almíbar frío, o al revés. Si ambos están a la misma temperatura, el almíbar se queda encima en vez de penetrar y el conjunto se ablanda.",
+  "ing": [
+   {
+    "n": "masa filo"
+   },
+   {
+    "n": "pistachos",
+    "note": "molidos grueso"
+   },
+   {
+    "n": "mantequilla",
+    "note": "clarificada"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "miel"
+   },
+   {
+    "n": "canela"
+   }
+  ],
+  "steps": [
+   "Hierve el azúcar, el agua y el limón 10 minutos, incorpora la miel y enfría por completo. Almíbar frío, baklava caliente.",
+   "Clarifica la mantequilla: los sólidos lácteos de la mantequilla entera se queman en un horneado largo y amargan las capas.",
+   "Coloca 10 hojas de filo en un molde engrasado, pincelando todas y cada una. Esparce un tercio del pistacho.",
+   "Repite con 5 hojas y pistacho, dos veces más, y termina con 10 hojas pinceladas encima.",
+   "Corta en rombos atravesando hasta el fondo antes de hornear. Cortarlo después lo destroza.",
+   "Hornea a 160 °C durante 60-75 minutos hasta que esté dorado en todo su grosor. Vierte el almíbar frío en cuanto salga del horno: sisearán. Reposa 6 horas antes de comerlo."
+  ],
+  "tips": [
+   "La diferencia de temperatura es toda la técnica. Almíbar frío sobre masa caliente, o al revés.",
+   "Pincela cada hoja. Saltarte algunas da zonas densas que nunca crujen.",
+   "Seis horas mínimo antes de cortarlo. De un día para otro, mejor."
+  ],
+  "video": "baklava técnica del almíbar"
+ },
+ "en": {
+  "name": "Baklava",
+  "blurb": "Hot pastry and cold syrup, or the other way around. If both are the same temperature, the syrup sits on top instead of soaking in and the whole thing goes soft.",
+  "ing": [
+   {
+    "n": "phyllo dough"
+   },
+   {
+    "n": "pistachios",
+    "note": "coarsely ground"
+   },
+   {
+    "n": "butter",
+    "note": "clarified"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "honey"
+   },
+   {
+    "n": "cinnamon"
+   }
+  ],
+  "steps": [
+   "Boil the sugar, water and lemon for 10 minutes, stir in the honey and cool completely. Cold syrup, hot baklava.",
+   "Clarify the butter: the milk solids in whole butter burn during a long bake and make the layers bitter.",
+   "Lay 10 sheets of phyllo in a greased pan, brushing every single one. Scatter a third of the pistachios.",
+   "Repeat with 5 sheets and pistachios twice more, and finish with 10 brushed sheets on top.",
+   "Cut into diamonds all the way to the bottom before baking. Cutting afterwards shatters it.",
+   "Bake at 160 °C for 60-75 minutes until golden all the way through. Pour the cold syrup over as soon as it comes out of the oven: it will hiss. Rest 6 hours before eating."
+  ],
+  "tips": [
+   "The temperature difference is the whole technique. Cold syrup on hot pastry, or the other way around.",
+   "Brush every sheet. Skipping some gives dense patches that never crisp.",
+   "Six hours minimum before cutting. Overnight is better."
+  ],
+  "video": "baklava syrup technique"
+ }
+}

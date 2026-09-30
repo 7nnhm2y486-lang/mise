@@ -1,0 +1,222 @@
+{
+ "id": "ropavieja",
+ "country": "Cuba",
+ "region": "caribbean",
+ "course": "main",
+ "time": 210,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 700,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 8,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "acid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "bellpepper",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Ropa Vieja",
+  "blurb": "Falda cocida hasta deshebrarse y luego terminada en un sofrito espeso. Deshebrar y devolver a la salsa es lo que la hace ropa vieja y no un guiso de carne.",
+  "ing": [
+   {
+    "n": "falda de res"
+   },
+   {
+    "n": "cebolla",
+    "note": "en juliana"
+   },
+   {
+    "n": "pimientos rojo y verde",
+    "note": "en tiras"
+   },
+   {
+    "n": "jitomate triturado"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "orégano"
+   },
+   {
+    "n": "hoja de laurel"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "aceitunas verdes"
+   },
+   {
+    "n": "alcaparras"
+   },
+   {
+    "n": "pimiento morrón asado"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece la falda con una cebolla, laurel y agua a cubrir durante 2 horas, hasta que se deshebre sola. Guarda 500 ml del caldo.",
+   "Deshebra la carne con dos tenedores, siguiendo la fibra.",
+   "Sofríe la otra cebolla y los pimientos en aceite de oliva 15 minutos, hasta que estén muy tiernos y dulces.",
+   "Añade el ajo, el comino y el orégano, luego el vino y deja evaporar.",
+   "Añade el jitomate y el caldo reservado y cocina 20 minutos hasta que espese.",
+   "Incorpora la carne deshebrada, las aceitunas, las alcaparras y el morrón. Cocina 20 minutos más para que la carne beba la salsa."
+  ],
+  "tips": [
+   "Deshebra siguiendo la fibra y en hebras largas: la textura es parte del nombre.",
+   "El sofrito necesita sus quince minutos. Es la base entera del plato.",
+   "Aceitunas y alcaparras al final, para que conserven su sal punzante."
+  ],
+  "video": "ropa vieja cubana"
+ },
+ "en": {
+  "name": "Ropa Vieja",
+  "blurb": "Flank steak cooked until it shreds, then finished in a thick sofrito. Shredding it and returning it to the sauce is what makes it ropa vieja and not beef stew.",
+  "ing": [
+   {
+    "n": "flank steak"
+   },
+   {
+    "n": "onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "red and green bell peppers",
+    "note": "in strips"
+   },
+   {
+    "n": "crushed tomatoes"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "oregano"
+   },
+   {
+    "n": "bay leaf"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "green olives"
+   },
+   {
+    "n": "capers"
+   },
+   {
+    "n": "roasted red pimientos"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the flank steak with one onion, bay leaves and water to cover for 2 hours, until it shreds on its own. Save 500 ml of the broth.",
+   "Shred the meat with two forks, following the grain.",
+   "Sauté the other onion and the peppers in olive oil for 15 minutes, until very soft and sweet.",
+   "Add the garlic, cumin and oregano, then the wine, and let it evaporate.",
+   "Add the tomatoes and the reserved broth and cook 20 minutes until thick.",
+   "Stir in the shredded beef, olives, capers and pimientos. Cook 20 minutes more so the meat soaks up the sauce."
+  ],
+  "tips": [
+   "Shred along the grain into long strands: the texture is part of the name.",
+   "The sofrito needs its fifteen minutes. It's the entire base of the dish.",
+   "Olives and capers at the end, so they keep their sharp saltiness."
+  ],
+  "video": "cuban ropa vieja"
+ }
+}

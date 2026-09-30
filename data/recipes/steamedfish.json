@@ -1,0 +1,176 @@
+{
+ "id": "steamedfish",
+ "country": "China",
+ "region": "east-asia",
+ "course": "main",
+ "time": 25,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 700,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "peanutoil",
+   "role": "fat"
+  },
+  {
+   "q": 15,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "shaoxing",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pescado al Vapor con Jengibre y Cebollín",
+  "blurb": "El plato sencillo más exigente que existe. Ocho minutos de vapor y un cucharón de aceite humeante sobre aromáticos crudos.",
+  "ing": [
+   {
+    "n": "lubina o dorada entera",
+    "note": "escamada y limpia"
+   },
+   {
+    "n": "jengibre",
+    "note": "en juliana fina"
+   },
+   {
+    "n": "cebollín",
+    "note": "en juliana fina"
+   },
+   {
+    "n": "salsa de soja clara"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite de cacahuate"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "vino shaoxing"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Haz dos cortes hasta la espina en cada lado del pescado. Sálalo ligeramente por dentro y por fuera y frótalo con el vino.",
+   "Pon unas monedas de jengibre y las partes verdes del cebollín en el plato y coloca el pescado encima, para que el vapor circule por debajo.",
+   "Cuece al vapor sobre agua a hervor fuerte 8 minutos por cada 500 g. La carne en la parte más gruesa debe separarse justo de la espina.",
+   "Tira el líquido lechoso que se acumule en el plato: es amargo.",
+   "Amontona sobre el pescado la juliana cruda de jengibre y cebollín.",
+   "Calienta la soja, el azúcar y el agua y viértelos alrededor, no encima. Después calienta el aceite hasta que apenas empiece a humear y viértelo directamente sobre los aromáticos para que chisporroteen. Esparce cilantro."
+  ],
+  "tips": [
+   "Descarta el líquido de la cocción. Toda buena versión de este plato lo hace.",
+   "El aceite debe humear. Más frío deja el jengibre crudo y áspero.",
+   "Pasarse noventa segundos es la diferencia entre sedoso y algodonoso. Comprueba pronto."
+  ],
+  "video": "pescado al vapor cantonés jengibre cebollín"
+ },
+ "en": {
+  "name": "Steamed Fish with Ginger and Scallion",
+  "blurb": "The most demanding simple dish there is. Eight minutes of steam and a ladle of smoking oil over raw aromatics.",
+  "ing": [
+   {
+    "n": "whole sea bass or sea bream",
+    "note": "scaled and gutted"
+   },
+   {
+    "n": "fresh ginger",
+    "note": "fine julienne"
+   },
+   {
+    "n": "scallions",
+    "note": "fine julienne"
+   },
+   {
+    "n": "light soy sauce"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "peanut oil"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "Shaoxing wine"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Make two cuts down to the bone on each side of the fish. Salt it lightly inside and out and rub it with the wine.",
+   "Lay a few coins of ginger and the green parts of the scallions on the plate and set the fish on top, so the steam circulates underneath.",
+   "Steam over hard-boiling water for 8 minutes per 500 g. The flesh at the thickest part should just come away from the bone.",
+   "Pour off the milky liquid that collects on the plate: it's bitter.",
+   "Pile the raw ginger and scallion julienne on top of the fish.",
+   "Heat the soy sauce, sugar and water and pour it around the fish, not over it. Then heat the oil until it just starts to smoke and pour it directly over the aromatics so they sizzle. Scatter with cilantro."
+  ],
+  "tips": [
+   "Discard the steaming liquid. Every good version of this dish does.",
+   "The oil has to smoke. Any cooler and the ginger stays raw and harsh.",
+   "Ninety seconds too long is the difference between silky and cottony. Check early."
+  ],
+  "video": "cantonese steamed fish ginger scallion"
+ }
+}

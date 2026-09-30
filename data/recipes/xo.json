@@ -1,0 +1,182 @@
+{
+ "id": "xo",
+ "country": "China",
+ "region": "east-asia",
+ "course": "sauce",
+ "time": 90,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 60,
+   "u": "g",
+   "k": "scallop",
+   "role": "umami"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "shrimp",
+   "role": "umami"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "prosciutto",
+   "role": "umami"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "shallot",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "head",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 350,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "shaoxing",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Salsa XO",
+  "blurb": "Vieira y camarón secos, jamón y chile fritos hasta quedar como hilos crujientes. Es cara y lleva dos horas, y una cucharadita transforma un plato de arroz o unos fideos.",
+  "ing": [
+   {
+    "n": "vieiras secas",
+    "note": "remojadas 2 h"
+   },
+   {
+    "n": "camarón seco",
+    "note": "remojado 30 min"
+   },
+   {
+    "n": "jamón curado",
+    "note": "en dados muy finos"
+   },
+   {
+    "n": "chalota",
+    "note": "en láminas"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "chiles secos",
+    "note": "remojados y picados"
+   },
+   {
+    "n": "aceite neutro"
+   },
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "vino shaoxing"
+   }
+  ],
+  "steps": [
+   "Remoja las vieiras 2 horas y deshébralas con los dedos en hilos finos. Guarda el agua de remojo.",
+   "Pica el camarón seco y el jamón muy finos.",
+   "Fríe las chalotas en el aceite a fuego medio-bajo hasta que estén doradas, 15 minutos, y sácalas.",
+   "Fríe el ajo hasta dorarlo, sácalo, y luego el jamón hasta que esté crujiente.",
+   "Añade las vieiras deshebradas y el camarón y fríelos 20-25 minutos a fuego bajo, removiendo: deben quedar secos y crujientes.",
+   "Devuelve todo a la olla, añade los chiles, el shaoxing, la soja y el azúcar, y cocina 10 minutos más. Guarda cubierta de aceite."
+  ],
+  "tips": [
+   "Cada ingrediente se fríe por separado: cada uno tarda distinto en dorarse.",
+   "Fuego bajo y paciencia. A fuego fuerte el marisco seco se quema antes de secarse.",
+   "Aguanta dos meses en el refrigerador si el aceite cubre siempre los sólidos."
+  ],
+  "video": "salsa XO casera"
+ },
+ "en": {
+  "name": "XO Sauce",
+  "blurb": "Dried scallop and shrimp, ham and chile fried until they're crisp threads. It's expensive and takes two hours, and a teaspoon transforms a plate of rice or noodles.",
+  "ing": [
+   {
+    "n": "dried scallops",
+    "note": "soaked 2 h"
+   },
+   {
+    "n": "dried shrimp",
+    "note": "soaked 30 min"
+   },
+   {
+    "n": "cured ham",
+    "note": "very finely diced"
+   },
+   {
+    "n": "shallots",
+    "note": "sliced"
+   },
+   {
+    "n": "garlic",
+    "note": "minced"
+   },
+   {
+    "n": "dried chiles",
+    "note": "soaked and chopped"
+   },
+   {
+    "n": "neutral oil"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "Shaoxing wine"
+   }
+  ],
+  "steps": [
+   "Soak the scallops for 2 hours and shred them into fine threads with your fingers. Save the soaking water.",
+   "Chop the dried shrimp and the ham very fine.",
+   "Fry the shallots in the oil over medium-low heat until golden, 15 minutes, and lift them out.",
+   "Fry the garlic until golden and lift it out, then the ham until crisp.",
+   "Add the shredded scallops and the shrimp and fry them 20-25 minutes over low heat, stirring: they should end up dry and crisp.",
+   "Return everything to the pot, add the chiles, Shaoxing, soy sauce and sugar, and cook 10 minutes more. Store covered in oil."
+  ],
+  "tips": [
+   "Each ingredient is fried separately: each takes a different time to brown.",
+   "Low heat and patience. Over high heat the dried seafood burns before it dries out.",
+   "It keeps two months in the refrigerator as long as the oil always covers the solids."
+  ],
+  "video": "homemade XO sauce"
+ }
+}

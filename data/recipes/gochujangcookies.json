@@ -1,0 +1,198 @@
+{
+ "id": "gochujangcookies",
+ "country": "Korea",
+ "region": "east-asia",
+ "course": "cookie",
+ "time": 800,
+ "serves": 18,
+ "ovenC": 180,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 225,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "gochujang",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "honey",
+   "role": "sweet"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Galletas de Caramelo y Gochujang",
+  "blurb": "Gochujang veteado en una masa de galleta. El picante llega al final, después del dulce, y la pasta fermentada aporta una profundidad salada parecida a la del miso.",
+  "ing": [
+   {
+    "n": "mantequilla",
+    "note": "tostada"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "yema de huevo"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "gochujang"
+   },
+   {
+    "n": "miel"
+   },
+   {
+    "n": "chocolate negro"
+   },
+   {
+    "n": "sal en escamas"
+   }
+  ],
+  "steps": [
+   "Tuesta la mantequilla y enfríala 10 minutos.",
+   "Mezcla aparte el gochujang con la miel y una cucharada de la mantequilla tostada, hasta obtener una pasta fluida. Reserva.",
+   "Bate la mantequilla restante con los dos azúcares, luego el huevo y la yema.",
+   "Incorpora la harina, el bicarbonato y la sal, y después el chocolate.",
+   "Vierte la pasta de gochujang por encima y pliega solo dos o tres veces: quieres vetas visibles, no una masa uniformemente rosada.",
+   "Refrigera 12 horas. Hornea bolas de 55 g a 180 °C durante 11-12 minutos y sala en caliente."
+  ],
+  "tips": [
+   "Veta, no mezcles. Integrado del todo, el gochujang solo deja un picante plano.",
+   "La miel equilibra la sal del gochujang, que ronda el 6%.",
+   "El picante aparece unos segundos después del bocado. Si no te gusta esa sensación, baja a 2 cucharadas."
+  ],
+  "video": "galletas gochujang caramelo"
+ },
+ "en": {
+  "name": "Gochujang Caramel Cookies",
+  "blurb": "Gochujang swirled through a cookie dough. The heat arrives last, after the sweetness, and the fermented paste adds a salty depth a lot like miso.",
+  "ing": [
+   {
+    "n": "butter",
+    "note": "browned"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "egg yolk"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "gochujang"
+   },
+   {
+    "n": "honey"
+   },
+   {
+    "n": "dark chocolate"
+   },
+   {
+    "n": "flaky salt"
+   }
+  ],
+  "steps": [
+   "Brown the butter and let it cool 10 minutes.",
+   "Separately, mix the gochujang with the honey and a tablespoon of the browned butter into a loose paste. Set aside.",
+   "Beat the rest of the butter with both sugars, then the egg and the yolk.",
+   "Mix in the flour, baking soda and salt, then the chocolate.",
+   "Pour the gochujang paste over the top and fold just two or three times: you want visible swirls, not an evenly pink dough.",
+   "Refrigerate 12 hours. Bake 55 g balls at 180 °C for 11-12 minutes and salt while hot."
+  ],
+  "tips": [
+   "Swirl, don't mix. Fully blended, gochujang just leaves a flat heat.",
+   "The honey balances the salt in the gochujang, which runs around 6%.",
+   "The heat shows up a few seconds after the bite. If you don't like that, drop to 2 tablespoons."
+  ],
+  "video": "gochujang caramel cookies"
+ }
+}

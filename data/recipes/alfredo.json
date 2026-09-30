@@ -1,0 +1,116 @@
+{
+ "id": "alfredo",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 20,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Fettuccine Alfredo",
+  "blurb": "El original romano no lleva nata: son mantequilla, parmesano y agua de pasta emulsionados. La versión con nata es otra receta, americana, y mucho más fácil.",
+  "ing": [
+   {
+    "n": "fettuccine frescos"
+   },
+   {
+    "n": "mantequilla",
+    "note": "muy fría, en cubos"
+   },
+   {
+    "n": "parmesano",
+    "note": "rallado en microplane"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "sal",
+    "note": "para el agua"
+   }
+  ],
+  "steps": [
+   "Calienta un bol ancho con agua hirviendo y sécalo. La temperatura del recipiente importa aquí.",
+   "Cuece los fettuccine en poca agua, para que quede muy almidonada. Reserva dos tazas.",
+   "Escurre la pasta cuando aún esté un punto dura y pásala al bol caliente.",
+   "Añade la mantequilla fría en cubos y dos cucharones de agua de cocción, y remueve con energía hasta que se funda.",
+   "Añade el parmesano en tres tandas, removiendo y sacudiendo el bol sin parar entre cada una.",
+   "Sigue añadiendo agua a cucharadas hasta que la salsa quede sedosa y cubra cada cinta. Mucha pimienta y a la mesa."
+  ],
+  "tips": [
+   "Sin nata. La cremosidad viene del almidón y de la emulsión de mantequilla y queso.",
+   "Parmesano rallado finísimo. Un rallado grueso no se funde y se agarrota en hilos.",
+   "Trabaja rápido y en bol caliente: la salsa se corta en cuanto pierde temperatura."
+  ],
+  "video": "fettuccine alfredo original romano"
+ },
+ "en": {
+  "name": "Fettuccine Alfredo",
+  "blurb": "The Roman original has no cream: it's butter, parmesan and pasta water emulsified. The cream version is a different recipe, American, and much easier.",
+  "ing": [
+   {
+    "n": "fresh fettuccine"
+   },
+   {
+    "n": "butter",
+    "note": "very cold, cubed"
+   },
+   {
+    "n": "parmesan",
+    "note": "grated on a microplane"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "salt",
+    "note": "for the water"
+   }
+  ],
+  "steps": [
+   "Warm a wide bowl with boiling water and dry it. The temperature of the bowl matters here.",
+   "Cook the fettuccine in a small amount of water so it gets very starchy. Save two cups.",
+   "Drain the pasta while it's still slightly firm and move it to the warm bowl.",
+   "Add the cold cubed butter and two ladles of cooking water, and stir hard until it melts.",
+   "Add the parmesan in three batches, stirring and shaking the bowl constantly between each.",
+   "Keep adding water by the spoonful until the sauce is silky and coats every ribbon. Lots of pepper, and serve."
+  ],
+  "tips": [
+   "No cream. The creaminess comes from the starch and the butter-cheese emulsion.",
+   "Very finely grated parmesan. A coarse grate won't melt and seizes into strings.",
+   "Work fast and in a warm bowl: the sauce breaks as soon as it loses heat."
+  ],
+  "video": "original roman fettuccine alfredo"
+ }
+}

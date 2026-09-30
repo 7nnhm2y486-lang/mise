@@ -1,0 +1,185 @@
+{
+ "id": "linzer",
+ "country": "Austria",
+ "region": "central-europe",
+ "course": "cookie",
+ "time": 180,
+ "serves": 20,
+ "ovenC": 170,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "almondflour",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "eggyolk",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "structure"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Galletas Linzer",
+  "blurb": "Una masa quebrada cargada de frutos secos con especias cálidas. La almendra molida sustituye a un cuarto de la harina, lo que limita el gluten y las hace cortas y frágiles.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "almendra molida"
+   },
+   {
+    "n": "mantequilla",
+    "note": "fría, en cubos"
+   },
+   {
+    "n": "azúcar glas"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "clavo"
+   },
+   {
+    "n": "ralladura de limón"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "mermelada de grosella"
+   },
+   {
+    "n": "azúcar glas"
+   }
+  ],
+  "steps": [
+   "Integra la mantequilla fría en la harina, la almendra, el azúcar glas, las especias, la ralladura y la sal hasta que quede arenoso.",
+   "Añade las yemas y une rápidamente. No amases.",
+   "Refrigera 1 hora y estira a 4 mm entre papeles.",
+   "Corta discos; recorta una ventana en la mitad de ellos. Refrigera las formas cortadas 20 minutos.",
+   "Hornea a 170 °C durante 10-12 minutos hasta que estén doradas pálidas. Enfría por completo: son extremadamente frágiles en caliente.",
+   "Espolvorea azúcar glas sobre las tapas con ventana primero, luego unta mermelada en las bases y monta."
+  ],
+  "tips": [
+   "Espolvorea las tapas antes de montar, o espolvorearás la mermelada y quedará opaca.",
+   "Son demasiado delicadas para moverlas en caliente. Enfríalas en la bandeja.",
+   "Mermelada ácida contra una galleta dulce y especiada. Grosella o cereza ácida, no fresa."
+  ],
+  "video": "galletas linzer"
+ },
+ "en": {
+  "name": "Linzer Cookies",
+  "blurb": "A nut-heavy shortcrust with warm spices. Ground almonds replace a quarter of the flour, which limits the gluten and makes them short and fragile.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "almond flour"
+   },
+   {
+    "n": "butter",
+    "note": "cold, cubed"
+   },
+   {
+    "n": "powdered sugar"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "cinnamon"
+   },
+   {
+    "n": "ground cloves"
+   },
+   {
+    "n": "lemon zest"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "red currant jam"
+   },
+   {
+    "n": "powdered sugar"
+   }
+  ],
+  "steps": [
+   "Rub the cold butter into the flour, almond flour, powdered sugar, spices, zest and salt until sandy.",
+   "Add the yolks and bring together quickly. Don't knead.",
+   "Refrigerate 1 hour and roll out to 4 mm between sheets of parchment.",
+   "Cut rounds; cut a window out of half of them. Refrigerate the cut shapes 20 minutes.",
+   "Bake at 170 °C for 10-12 minutes until pale golden. Cool completely: they're extremely fragile while warm.",
+   "Dust powdered sugar over the windowed tops first, then spread jam on the bases and assemble."
+  ],
+  "tips": [
+   "Dust the tops before assembling, or you'll dust the jam and it'll go dull.",
+   "They're too delicate to move while warm. Cool them on the sheet.",
+   "Tart jam against a sweet, spiced cookie. Red currant or sour cherry, not strawberry."
+  ],
+  "video": "Linzer cookies"
+ }
+}

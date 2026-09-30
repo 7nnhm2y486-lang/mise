@@ -1,0 +1,175 @@
+{
+ "id": "lamington",
+ "country": "Australia",
+ "region": "oceania",
+ "course": "sweet",
+ "time": 300,
+ "serves": 16,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "aerate"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "aerate"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "desiccatedcoconut",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Lamingtons",
+  "blurb": "Bizcocho del día anterior, no recién hecho. El bizcocho fresco se desintegra en cuanto toca el glaseado, y congelarlo un rato lo hace aún más fácil.",
+  "ing": [
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "harina leudante"
+   },
+   {
+    "n": "mantequilla",
+    "note": "derretida"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "azúcar glas"
+   },
+   {
+    "n": "cacao en polvo"
+   },
+   {
+    "n": "agua hirviendo"
+   },
+   {
+    "n": "mantequilla",
+    "note": "para el glaseado"
+   },
+   {
+    "n": "coco rallado"
+   }
+  ],
+  "steps": [
+   "Bate los huevos y el azúcar 8 minutos hasta obtener una cinta espesa, incorpora la harina y luego la mantequilla derretida y la leche.",
+   "Hornea en un molde cuadrado forrado de 20 cm a 180 °C durante 30 minutos. Enfría, envuelve y deja reposar toda la noche.",
+   "Corta en 16 cubos y congélalos 30 minutos.",
+   "Bate el azúcar glas, el cacao, la mantequilla y el agua hirviendo hasta obtener un glaseado fino, de consistencia de crema ligera, más líquido de lo que parece correcto.",
+   "Sumerge cada cubo, gíralo con dos tenedores, sácalo y deja escurrir el exceso.",
+   "Reboza de inmediato en coco y deja secar sobre rejilla 2 horas."
+  ],
+  "tips": [
+   "Bizcocho seco y frío. Ambas cosas hacen que sobreviva al baño.",
+   "El glaseado tiene que ser fino. Uno espeso se queda en una capa pesada y no empapa.",
+   "Dos tenedores, o una brocheta atravesada. Los dedos quedan cubiertos al primer cubo."
+  ],
+  "video": "lamingtons"
+ },
+ "en": {
+  "name": "Lamingtons",
+  "blurb": "Day-old sponge, not freshly baked. Fresh sponge falls apart the moment it hits the icing, and a short spell in the freezer makes it easier still.",
+  "ing": [
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "self-rising flour"
+   },
+   {
+    "n": "butter",
+    "note": "melted"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "powdered sugar"
+   },
+   {
+    "n": "cocoa powder"
+   },
+   {
+    "n": "boiling water"
+   },
+   {
+    "n": "butter",
+    "note": "for the icing"
+   },
+   {
+    "n": "desiccated coconut"
+   }
+  ],
+  "steps": [
+   "Beat the eggs and sugar for 8 minutes until thick and ribbony, fold in the flour, then the melted butter and milk.",
+   "Bake in a lined 20 cm square pan at 180 °C for 30 minutes. Cool, wrap and leave overnight.",
+   "Cut into 16 cubes and freeze them for 30 minutes.",
+   "Whisk the powdered sugar, cocoa, butter and boiling water into a thin icing, the consistency of light cream, runnier than seems right.",
+   "Dip each cube, turn it with two forks, lift it out and let the excess drip off.",
+   "Roll in coconut immediately and let set on a rack for 2 hours."
+  ],
+  "tips": [
+   "Dry, cold sponge. Both help it survive the dip.",
+   "The icing has to be thin. A thick one sits in a heavy layer and doesn't soak in.",
+   "Two forks, or a skewer through the middle. Fingers are coated after the first cube."
+  ],
+  "video": "lamingtons"
+ }
+}

@@ -1,0 +1,139 @@
+{
+ "id": "garlicconfit",
+ "country": "France",
+ "region": "western-europe",
+ "course": "sauce",
+ "time": 90,
+ "serves": 12,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 4,
+   "u": "head",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Ajo Confitado",
+  "blurb": "Ajo cocido lentamente sumergido en aceite hasta volverse dulce y untable. Un aviso serio sobre conservación que la mayoría de los vídeos omite.",
+  "ing": [
+   {
+    "n": "ajo",
+    "note": "dientes pelados"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "tomillo"
+   },
+   {
+    "n": "romero"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "pimienta en grano"
+   },
+   {
+    "n": "chile seco",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Pela los dientes y descarta cualquiera con manchas o brotes.",
+   "Colócalos en una olla pequeña en una sola capa con las hierbas y las especias.",
+   "Cubre por completo con aceite: cada diente debe quedar sumergido.",
+   "Cocina al fuego más bajo posible, o a 120 °C en el horno, durante 45-60 minutos. Deben aparecer burbujas muy lentas, nunca un borboteo.",
+   "Están listos cuando se aplastan con la presión de una cuchara y tienen un color dorado pálido.",
+   "Enfría por completo y guarda en un frasco limpio, con el ajo siempre cubierto de aceite."
+  ],
+  "tips": [
+   "Este es el punto que casi nadie menciona: el ajo en aceite es un medio sin oxígeno y a temperatura ambiente puede desarrollar la bacteria del botulismo. Guárdalo siempre en el refrigerador y consúmelo en dos semanas, o congélalo en porciones.",
+   "Nunca lo dejes en la encimera, por bonito que quede el frasco.",
+   "El aceite resultante vale tanto como el ajo: úsalo en vinagretas, para untar pan o para empezar cualquier sofrito."
+  ],
+  "video": "ajo confitado en aceite"
+ },
+ "en": {
+  "name": "Garlic Confit",
+  "blurb": "Garlic cooked slowly under oil until sweet and spreadable. Plus a serious storage warning that most videos leave out.",
+  "ing": [
+   {
+    "n": "garlic",
+    "note": "peeled cloves"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "thyme"
+   },
+   {
+    "n": "rosemary"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "peppercorns"
+   },
+   {
+    "n": "dried chile",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Peel the cloves and discard any with spots or sprouts.",
+   "Arrange them in a small pot in a single layer with the herbs and spices.",
+   "Cover completely with oil: every clove must be submerged.",
+   "Cook over the lowest possible heat, or at 120 °C in the oven, for 45-60 minutes. You want very slow bubbles, never a simmer.",
+   "They are done when they crush under the pressure of a spoon and are a pale gold.",
+   "Cool completely and store in a clean jar, with the garlic always covered in oil."
+  ],
+  "tips": [
+   "This is the point almost nobody mentions: garlic in oil is an oxygen-free environment and at room temperature it can grow the botulism bacterium. Always keep it in the fridge and use it within two weeks, or freeze it in portions.",
+   "Never leave it on the counter, however pretty the jar looks.",
+   "The leftover oil is worth as much as the garlic: use it in vinaigrettes, for dipping bread, or to start any sofrito."
+  ],
+  "video": "garlic confit in oil"
+ }
+}

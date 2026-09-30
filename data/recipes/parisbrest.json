@@ -1,0 +1,173 @@
+{
+ "id": "parisbrest",
+ "country": "France",
+ "region": "western-europe",
+ "course": "pastry",
+ "time": 210,
+ "serves": 8,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 1,
+   "u": "batch",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "hazelnut",
+   "role": "structure"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "almond",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "thicken"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "almond",
+   "role": "crunch"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Paris-Brest",
+  "blurb": "Un anillo de choux abierto y relleno de muselina de praliné. El praliné son frutos secos caramelizados molidos hasta hacerse pasta, y hacerlo tú es toda la diferencia.",
+  "ing": [
+   {
+    "n": "pasta choux"
+   },
+   {
+    "n": "avellanas"
+   },
+   {
+    "n": "almendras"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "almendra fileteada"
+   },
+   {
+    "n": "azúcar glas"
+   }
+  ],
+  "steps": [
+   "Escudilla un anillo de choux de 20 cm, otro por fuera y un tercero sobre la unión. Esparce almendra fileteada, hornea y seca a fondo.",
+   "Para el praliné, tuesta los frutos secos, cocina el azúcar hasta un caramelo ámbar oscuro, viértelo sobre ellos y deja cuajar. Rómpelo y tritúralo, bajando las paredes, 5-10 minutos hasta que se convierta en una pasta suelta y aceitosa.",
+   "Haz una crema pastelera con la leche, las yemas, el azúcar y la fécula. Hiérvela bien y enfríala.",
+   "Bate la mitad de la mantequilla en la crema fría, luego el praliné, luego el resto de la mantequilla. Bate hasta que quede ligera: es una muselina y parecerá cortada antes de unirse.",
+   "Abre el anillo por la mitad horizontalmente y escudilla la muselina con generosidad en la base.",
+   "Coloca la tapa y espolvorea azúcar glas."
+  ],
+  "tips": [
+   "Todo debe estar a la misma temperatura para la muselina. Crema fría y mantequilla templada se cortan siempre.",
+   "Lleva el caramelo realmente oscuro. Un praliné pálido solo sabe a azúcar.",
+   "Si la muselina se corta, calienta un poco de ella y bátela de vuelta: casi siempre se recupera."
+  ],
+  "video": "paris brest praliné"
+ },
+ "en": {
+  "name": "Paris-Brest",
+  "blurb": "A choux ring split and filled with praline mousseline. Praline is caramelized nuts ground to a paste, and making your own makes all the difference.",
+  "ing": [
+   {
+    "n": "choux paste"
+   },
+   {
+    "n": "hazelnuts"
+   },
+   {
+    "n": "almonds"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "sliced almonds"
+   },
+   {
+    "n": "powdered sugar"
+   }
+  ],
+  "steps": [
+   "Pipe a 20 cm ring of choux, another just outside it and a third on top of the seam. Scatter with sliced almonds, bake and dry out thoroughly.",
+   "For the praline, toast the nuts, cook the sugar to a dark amber caramel, pour it over them and let it set. Break it up and blitz, scraping down the sides, for 5-10 minutes until it turns into a loose, oily paste.",
+   "Make a pastry cream with the milk, yolks, sugar and cornstarch. Boil it well and chill it.",
+   "Beat half the butter into the cold cream, then the praline, then the rest of the butter. Beat until light: it's a mousseline and will look split before it comes together.",
+   "Split the ring in half horizontally and pipe the mousseline generously onto the base.",
+   "Put the lid on and dust with powdered sugar."
+  ],
+  "tips": [
+   "Everything must be at the same temperature for the mousseline. Cold cream and soft butter always split.",
+   "Take the caramel truly dark. A pale praline just tastes of sugar.",
+   "If the mousseline splits, warm a little of it and beat it back in: it almost always recovers."
+  ],
+  "video": "paris brest praline"
+ }
+}

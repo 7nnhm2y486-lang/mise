@@ -1,0 +1,202 @@
+{
+ "id": "karaage",
+ "country": "Japan",
+ "region": "east-asia",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sake",
+   "role": "acid"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sesameoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "",
+   "role": "dredge"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "mayo",
+   "role": "sauce"
+  }
+ ],
+ "es": {
+  "name": "Pollo Karaage",
+  "blurb": "Almidón de papa en vez de harina, y doble fritura a temperaturas distintas. El almidón da una costra fina, vidriosa y quebradiza que la harina no puede.",
+  "ing": [
+   {
+    "n": "muslos de pollo",
+    "note": "con piel, en trozos de 4 cm"
+   },
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "sake"
+   },
+   {
+    "n": "jengibre",
+    "note": "rallado"
+   },
+   {
+    "n": "ajo",
+    "note": "rallado"
+   },
+   {
+    "n": "aceite de sésamo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "almidón de papa"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "limón"
+   },
+   {
+    "n": "mayonesa kewpie"
+   }
+  ],
+  "steps": [
+   "Marina el pollo en soja, sake, jengibre, ajo, aceite de sésamo y azúcar 30-60 minutos. Más tiempo y queda demasiado salado.",
+   "Bate el huevo dentro del pollo marinado: ayuda a que el almidón se adhiera.",
+   "Reboza cada trozo en almidón de papa, presionando, y sacude el exceso. Déjalos 5 minutos para que la capa se hidrate.",
+   "Fríe a 160 °C durante 90 segundos. Saca a una rejilla y reposa 4 minutos: el calor residual cocina el interior.",
+   "Sube el aceite a 190 °C y fríe 45-60 segundos más hasta que estén muy dorados y crepitantes.",
+   "Escurre y sirve de inmediato con limón y mayonesa."
+  ],
+  "tips": [
+   "Almidón de papa, ni fécula de maíz ni harina. Es toda la textura.",
+   "Reposa entre las dos frituras. Esa pausa es cuando el interior realmente se cocina.",
+   "Con piel. Se derrite y cruje dentro del rebozado."
+  ],
+  "video": "pollo karaage doble fritura"
+ },
+ "en": {
+  "name": "Chicken Karaage",
+  "blurb": "Potato starch instead of flour, and a double fry at two different temperatures. The starch gives a thin, glassy, shattering crust that flour can't.",
+  "ing": [
+   {
+    "n": "chicken thighs",
+    "note": "skin on, in 4 cm pieces"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "sake"
+   },
+   {
+    "n": "ginger",
+    "note": "grated"
+   },
+   {
+    "n": "garlic",
+    "note": "grated"
+   },
+   {
+    "n": "sesame oil"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "potato starch"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "lemon"
+   },
+   {
+    "n": "Kewpie mayonnaise"
+   }
+  ],
+  "steps": [
+   "Marinate the chicken in the soy sauce, sake, ginger, garlic, sesame oil and sugar for 30-60 minutes. Any longer and it gets too salty.",
+   "Beat the egg into the marinated chicken: it helps the starch stick.",
+   "Dredge each piece in potato starch, pressing it on, and shake off the excess. Let them sit 5 minutes so the coating hydrates.",
+   "Fry at 160 °C for 90 seconds. Lift onto a rack and rest 4 minutes: the carryover heat cooks the inside.",
+   "Raise the oil to 190 °C and fry 45-60 seconds more until deep golden and crackling.",
+   "Drain and serve immediately with lemon and mayonnaise."
+  ],
+  "tips": [
+   "Potato starch, not cornstarch and not flour. It's the entire texture.",
+   "Rest between the two fries. That pause is when the inside actually cooks.",
+   "Skin on. It renders and crisps inside the coating."
+  ],
+  "video": "chicken karaage double fry"
+ }
+}

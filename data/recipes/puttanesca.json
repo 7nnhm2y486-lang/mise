@@ -1,0 +1,178 @@
+{
+ "id": "puttanesca",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 8,
+   "u": "fillet",
+   "k": "anchovy",
+   "role": "umami"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Spaghetti alla Puttanesca",
+  "blurb": "Anchoas, alcaparras, aceitunas y ajo. Las anchoas deben deshacerse por completo en el aceite: si se ven, no has cocinado lo suficiente.",
+  "ing": [
+   {
+    "n": "espagueti"
+   },
+   {
+    "n": "anchoas"
+   },
+   {
+    "n": "ajo",
+    "note": "laminados"
+   },
+   {
+    "n": "aceitunas negras",
+    "note": "deshuesadas"
+   },
+   {
+    "n": "alcaparras",
+    "note": "enjuagadas"
+   },
+   {
+    "n": "jitomate pelado"
+   },
+   {
+    "n": "chile seco"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal",
+    "note": "para el agua"
+   }
+  ],
+  "steps": [
+   "Calienta el aceite a fuego bajo con el ajo y el chile hasta que el ajo apenas empiece a dorarse.",
+   "Añade las anchoas y aplástalas con una cuchara de madera. Deben disolverse por completo en el aceite: un minuto o dos.",
+   "Añade las aceitunas y las alcaparras y cocina 2 minutos.",
+   "Añade el jitomate machacado y cocina 15 minutos a fuego vivo, hasta que la salsa se concentre.",
+   "Prueba antes de salar: entre anchoas, aceitunas y alcaparras puede que no necesite nada.",
+   "Termina la pasta en la sartén con un poco de agua de cocción y remata con perejil picado."
+  ],
+  "tips": [
+   "Las anchoas se disuelven, no se trocean. Si quedan pedazos, no está hecha.",
+   "Casi nunca necesita sal. Prueba siempre antes.",
+   "Fuego vivo con el tomate: quieres una salsa concentrada, no un guiso."
+  ],
+  "video": "spaghetti alla puttanesca"
+ },
+ "en": {
+  "name": "Spaghetti alla Puttanesca",
+  "blurb": "Anchovies, capers, olives and garlic. The anchovies should melt completely into the oil: if you can see them, you haven't cooked it long enough.",
+  "ing": [
+   {
+    "n": "spaghetti"
+   },
+   {
+    "n": "anchovies"
+   },
+   {
+    "n": "garlic",
+    "note": "sliced"
+   },
+   {
+    "n": "black olives",
+    "note": "pitted"
+   },
+   {
+    "n": "capers",
+    "note": "rinsed"
+   },
+   {
+    "n": "peeled tomatoes"
+   },
+   {
+    "n": "dried chile"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "salt",
+    "note": "for the water"
+   }
+  ],
+  "steps": [
+   "Warm the oil over low heat with the garlic and chile until the garlic just starts to color.",
+   "Add the anchovies and mash them with a wooden spoon. They should dissolve completely into the oil: a minute or two.",
+   "Add the olives and capers and cook for 2 minutes.",
+   "Add the crushed tomatoes and cook for 15 minutes over high heat, until the sauce concentrates.",
+   "Taste before salting: between the anchovies, olives and capers it may not need any.",
+   "Finish the pasta in the pan with a splash of cooking water and top with chopped parsley."
+  ],
+  "tips": [
+   "The anchovies dissolve; they aren't chopped. If pieces remain, it isn't done.",
+   "It almost never needs salt. Always taste first.",
+   "High heat with the tomatoes: you want a concentrated sauce, not a stew."
+  ],
+  "video": "spaghetti alla puttanesca"
+ }
+}

@@ -1,0 +1,153 @@
+{
+ "id": "tortacaprese",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 90,
+ "serves": 10,
+ "ovenC": 170,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "almondflour",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "aerate"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "egg",
+   "role": "aerate"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Torta Caprese",
+  "blurb": "Chocolate y almendra sin una pizca de harina, naturalmente sin gluten. La estructura la dan las claras montadas y la almendra molida.",
+  "ing": [
+   {
+    "n": "chocolate negro",
+    "note": "al 70%"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "almendra molida"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos",
+    "note": "separados"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "licor de almendra",
+    "note": "opcional"
+   },
+   {
+    "n": "azúcar glas"
+   }
+  ],
+  "steps": [
+   "Derrite juntos el chocolate y la mantequilla y deja templar.",
+   "Bate las yemas con dos tercios del azúcar hasta que palidezcan.",
+   "Incorpora el chocolate templado, la almendra molida, la sal y el licor.",
+   "Monta las claras a picos suaves, añade el azúcar restante en lluvia y monta a picos firmes.",
+   "Incorpora las claras en tres tandas con movimientos envolventes. La mezcla es pesada: pierde algo de aire pero no la trabajes de más.",
+   "Hornea en molde forrado de 24 cm a 170 °C durante 40-45 minutos. El centro debe quedar apenas húmedo. Enfría y espolvorea azúcar glas."
+  ],
+  "tips": [
+   "Sin harina de ningún tipo: es la receta, no una adaptación.",
+   "El centro apenas cuajado. Una caprese seca ha perdido su razón de ser.",
+   "Mejor al día siguiente, cuando la almendra ha absorbido la humedad del chocolate."
+  ],
+  "video": "torta caprese"
+ },
+ "en": {
+  "name": "Torta Caprese",
+  "blurb": "Chocolate and almond without a pinch of flour, naturally gluten-free. The structure comes from whipped egg whites and ground almonds.",
+  "ing": [
+   {
+    "n": "dark chocolate",
+    "note": "70%"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "almond flour"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs",
+    "note": "separated"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "almond liqueur",
+    "note": "optional"
+   },
+   {
+    "n": "powdered sugar"
+   }
+  ],
+  "steps": [
+   "Melt the chocolate and butter together and let it cool slightly.",
+   "Beat the yolks with two-thirds of the sugar until pale.",
+   "Stir in the warm chocolate, the ground almonds, the salt and the liqueur.",
+   "Whip the whites to soft peaks, rain in the remaining sugar and whip to firm peaks.",
+   "Fold in the whites in three additions. The mixture is heavy: it loses some air, but don't overwork it.",
+   "Bake in a lined 24 cm pan at 170 °C for 40-45 minutes. The center should stay barely moist. Cool and dust with powdered sugar."
+  ],
+  "tips": [
+   "No flour of any kind: this is the recipe, not an adaptation.",
+   "A barely set center. A dry caprese has lost its reason to exist.",
+   "Better the next day, once the almond has absorbed the moisture from the chocolate."
+  ],
+  "video": "torta caprese chocolate almond cake"
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "id": "bruschetta",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "starter",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 8,
+   "u": "slice",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Bruschetta al Pomodoro",
+  "blurb": "El pan se frota con ajo crudo mientras está caliente y áspero. Esa aspereza es lo que ralla el diente de ajo, y por eso el pan debe tostarse sobre brasa o parrilla, no en tostadora.",
+  "ing": [
+   {
+    "n": "pan rústico",
+    "note": "gruesas, de hogaza"
+   },
+   {
+    "n": "tomates",
+    "note": "maduros, en dados"
+   },
+   {
+    "n": "ajo",
+    "note": "crudos, enteros"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "aceite de oliva",
+    "note": "virgen extra"
+   },
+   {
+    "n": "sal en escamas"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Corta los tomates en dados, sálalos y escúrrelos en un colador 15 minutos. El agua del tomate empapa el pan.",
+   "Tuesta el pan sobre parrilla, brasa o una plancha de hierro hasta que esté marcado y crujiente por fuera.",
+   "Mientras siga caliente, frota una cara con el diente de ajo crudo. La superficie áspera del pan tostado rallará el ajo.",
+   "Riega generosamente con aceite de oliva.",
+   "Corona con el tomate escurrido y la albahaca rasgada.",
+   "Sal en escamas, pimienta y un último hilo de aceite. Se come de inmediato."
+  ],
+  "tips": [
+   "Escurre el tomate. Es la diferencia entre bruschetta y pan mojado.",
+   "Frota el ajo con el pan caliente y áspero. Con pan de tostadora, liso, apenas se transfiere nada.",
+   "Móntala al momento. Tres minutos después el pan ya está blando."
+  ],
+  "video": "bruschetta al pomodoro"
+ },
+ "en": {
+  "name": "Bruschetta al Pomodoro",
+  "blurb": "The bread is rubbed with raw garlic while hot and rough. That roughness is what grates the clove, which is why the bread must be toasted over coals or a grill, not in a toaster.",
+  "ing": [
+   {
+    "n": "rustic bread",
+    "note": "thick slices from a loaf"
+   },
+   {
+    "n": "tomatoes",
+    "note": "ripe, diced"
+   },
+   {
+    "n": "garlic",
+    "note": "raw, whole"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "olive oil",
+    "note": "extra virgin"
+   },
+   {
+    "n": "flaky salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Dice the tomatoes, salt them and drain in a colander for 15 minutes. Tomato water makes the bread soggy.",
+   "Toast the bread over a grill, coals or a cast-iron griddle until marked and crisp outside.",
+   "While it's still hot, rub one side with the raw garlic clove. The rough surface of the toast will grate the garlic.",
+   "Drizzle generously with olive oil.",
+   "Top with the drained tomatoes and torn basil.",
+   "Flaky salt, pepper and a last drizzle of oil. Eat immediately."
+  ],
+  "tips": [
+   "Drain the tomatoes. It's the difference between bruschetta and soggy bread.",
+   "Rub the garlic on hot, rough bread. On smooth toaster bread, almost nothing transfers.",
+   "Assemble at the last moment. Three minutes later the bread is already soft."
+  ],
+  "video": "bruschetta al pomodoro"
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "id": "zabaione",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 6,
+   "u": "",
+   "k": "eggyolk",
+   "role": "aerate"
+  },
+  {
+   "q": 90,
+   "u": "g",
+   "k": "sugar",
+   "role": "aerate"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "apflour",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Zabaione",
+  "blurb": "Yemas, azúcar y marsala batidos sobre calor hasta triplicar. Es una espuma cocida, y la única forma de fallar es dejar de batir un segundo.",
+  "ing": [
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "vino marsala",
+    "note": "seco o dulce"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "ralladura de limón"
+   },
+   {
+    "n": "bizcochos de soletilla",
+    "note": "para servir"
+   }
+  ],
+  "steps": [
+   "Pon las yemas y el azúcar en un bol de acero y bate fuera del fuego hasta que palidezcan.",
+   "Añade el marsala, la sal y la ralladura.",
+   "Coloca el bol sobre una olla con agua apenas humeante. El fondo no debe tocar el agua.",
+   "Bate sin parar durante 8-10 minutos. Pasará por espuma líquida, luego espesará y triplicará su volumen.",
+   "Está listo cuando las varillas dejan un surco que tarda en cerrarse y la temperatura ronda los 70 °C.",
+   "Sirve tibio de inmediato en copas, con bizcochos de soletilla para mojar."
+  ],
+  "tips": [
+   "Sin parar de batir, ni un segundo. Las yemas se cuajan en el fondo en cuanto te detienes.",
+   "Agua humeante, nunca hirviendo. El vapor fuerte lo convierte en huevo revuelto dulce.",
+   "Se come tibio y recién hecho. Frío se baja y se separa."
+  ],
+  "video": "zabaione al marsala"
+ },
+ "en": {
+  "name": "Zabaione",
+  "blurb": "Yolks, sugar and Marsala whisked over heat until tripled. It's a cooked foam, and the only way to fail is to stop whisking for a second.",
+  "ing": [
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "Marsala wine",
+    "note": "dry or sweet"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "lemon zest"
+   },
+   {
+    "n": "ladyfingers",
+    "note": "for serving"
+   }
+  ],
+  "steps": [
+   "Put the yolks and sugar in a steel bowl and whisk off the heat until pale.",
+   "Add the Marsala, salt and zest.",
+   "Set the bowl over a pot of barely steaming water. The bottom must not touch the water.",
+   "Whisk nonstop for 8-10 minutes. It will go through a thin foam stage, then thicken and triple in volume.",
+   "It's ready when the whisk leaves a trail that's slow to close and the temperature is around 70 °C.",
+   "Serve warm immediately in glasses, with ladyfingers for dipping."
+  ],
+  "tips": [
+   "Never stop whisking, not for a second. The yolks set on the bottom the moment you stop.",
+   "Steaming water, never boiling. Strong steam turns it into sweet scrambled eggs.",
+   "Eat it warm and freshly made. Cold, it deflates and separates."
+  ],
+  "video": "zabaione marsala"
+ }
+}

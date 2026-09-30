@@ -1,0 +1,236 @@
+{
+ "id": "kungpao",
+ "country": "China",
+ "region": "east-asia",
+ "course": "main",
+ "time": 30,
+ "serves": 3,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "cornstarch",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggwhite",
+   "role": "binder"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "shaoxing",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 1.5,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 10,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "peanut",
+   "role": "crunch"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Pollo Kung Pao",
+  "blurb": "Pollo aterciopelado y una salsa mezclada de antemano. Una vez que el wok está caliente no hay tiempo de medir nada.",
+  "ing": [
+   {
+    "n": "muslo de pollo",
+    "note": "en dados"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "clara de huevo"
+   },
+   {
+    "n": "vino shaoxing"
+   },
+   {
+    "n": "vinagre de Chinkiang"
+   },
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "salsa de soja oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "chiles secos",
+    "note": "cortados"
+   },
+   {
+    "n": "pimienta de Sichuan"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "jengibre"
+   },
+   {
+    "n": "cebollín",
+    "note": "la parte blanca, en trozos"
+   },
+   {
+    "n": "cacahuates tostados"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Mezcla el pollo con la clara, la fécula y 1 cda de shaoxing. Reposa 20 minutos: este aterciopelado lo mantiene tierno bajo fuego fuerte.",
+   "Mezcla el vinagre, las dos sojas, el azúcar, el resto del vino y 1 cdta de fécula en un bol. Déjalo al alcance de la mano.",
+   "Calienta el wok hasta que humee. Sella el pollo en una sola capa, sin moverlo, 90 segundos, y luego saltea hasta que esté apenas hecho. Retira.",
+   "Baja el fuego. Fríe los chiles secos y la pimienta de Sichuan en el aceite 20 segundos, hasta que aromaticen sin ennegrecerse.",
+   "Añade ajo, jengibre y la parte blanca del cebollín, y devuelve el pollo.",
+   "Vierte la salsa por el borde del wok, saltea con fuerza 30 segundos hasta que espese y glasee, y añade los cacahuates en el último segundo."
+  ],
+  "tips": [
+   "Mezcla la salsa antes de encender el fuego. Un salteado no te da tiempo.",
+   "Los chiles quemados vuelven acre todo el plato. Fuego medio para esa fase, alto para el resto.",
+   "Los cacahuates al final para que sigan crujiendo."
+  ],
+  "video": "pollo kung pao gong bao"
+ },
+ "en": {
+  "name": "Kung Pao Chicken",
+  "blurb": "Velveted chicken and a sauce mixed ahead of time. Once the wok is hot there's no time to measure anything.",
+  "ing": [
+   {
+    "n": "chicken thigh",
+    "note": "diced"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "egg white"
+   },
+   {
+    "n": "Shaoxing wine"
+   },
+   {
+    "n": "Chinkiang vinegar"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "dark soy sauce"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "dried chiles",
+    "note": "snipped"
+   },
+   {
+    "n": "Sichuan peppercorns"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "ginger"
+   },
+   {
+    "n": "scallions",
+    "note": "white part, in pieces"
+   },
+   {
+    "n": "roasted peanuts"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Toss the chicken with the egg white, cornstarch and 1 tbsp Shaoxing. Rest 20 minutes: this velveting keeps it tender over high heat.",
+   "Mix the vinegar, both soy sauces, the sugar, the rest of the wine and 1 tsp cornstarch in a bowl. Keep it within reach.",
+   "Heat the wok until it smokes. Sear the chicken in a single layer, without moving it, for 90 seconds, then stir-fry until just cooked. Remove.",
+   "Lower the heat. Fry the dried chiles and Sichuan peppercorns in the oil for 20 seconds, until fragrant but not blackened.",
+   "Add the garlic, ginger and scallion whites, and return the chicken.",
+   "Pour the sauce in around the edge of the wok, toss hard for 30 seconds until it thickens and glazes, and add the peanuts at the last second."
+  ],
+  "tips": [
+   "Mix the sauce before you turn on the heat. A stir-fry doesn't give you time.",
+   "Burnt chiles make the whole dish acrid. Medium heat for that stage, high for the rest.",
+   "Peanuts go in last so they stay crunchy."
+  ],
+  "video": "kung pao chicken gong bao"
+ }
+}

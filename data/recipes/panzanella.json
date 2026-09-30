@@ -1,0 +1,164 @@
+{
+ "id": "panzanella",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "side",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 700,
+   "u": "g",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 90,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Panzanella",
+  "blurb": "Pan duro rehidratado con el jugo del tomate, no con agua. Salar los tomates media hora antes es lo que produce ese jugo.",
+  "ing": [
+   {
+    "n": "pan rústico duro",
+    "note": "de dos días"
+   },
+   {
+    "n": "jitomates maduros",
+    "note": "en trozos grandes"
+   },
+   {
+    "n": "pepino"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "en pluma fina"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "vinagre de vino tinto"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Corta los tomates, sálalos y déjalos en un colador sobre un bol durante 30 minutos. Guarda todo el jugo que suelten.",
+   "Remoja la cebolla en agua fría con un chorro del vinagre 15 minutos para quitarle la agresividad.",
+   "Desmenuza el pan duro con las manos en trozos irregulares.",
+   "Mezcla el jugo de tomate con el aceite, el vinagre restante, el ajo machacado y sal, y vierte sobre el pan. Déjalo 15 minutos.",
+   "Incorpora los tomates, el pepino y la cebolla escurrida.",
+   "Reposa 20 minutos más a temperatura ambiente, añade la albahaca desgarrada y sirve."
+  ],
+  "tips": [
+   "El pan se hidrata con jugo de tomate, no con agua. Ahí está todo el sabor.",
+   "Pan verdaderamente duro. El pan fresco se convierte en papilla.",
+   "Nunca la refrigeres: el frío mata el tomate y endurece el aceite."
+  ],
+  "video": "panzanella toscana"
+ },
+ "en": {
+  "name": "Panzanella",
+  "blurb": "Stale bread rehydrated with tomato juice, not water. Salting the tomatoes half an hour ahead is what produces that juice.",
+  "ing": [
+   {
+    "n": "stale rustic bread",
+    "note": "two days old"
+   },
+   {
+    "n": "ripe tomatoes",
+    "note": "in large chunks"
+   },
+   {
+    "n": "cucumber"
+   },
+   {
+    "n": "red onion",
+    "note": "thinly sliced lengthwise"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "red wine vinegar"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cut the tomatoes, salt them and leave them in a colander over a bowl for 30 minutes. Keep all the juice they release.",
+   "Soak the onion in cold water with a splash of the vinegar for 15 minutes to take the edge off.",
+   "Tear the stale bread by hand into rough pieces.",
+   "Mix the tomato juice with the oil, the remaining vinegar, the crushed garlic and salt, and pour it over the bread. Leave for 15 minutes.",
+   "Fold in the tomatoes, cucumber and drained onion.",
+   "Rest 20 minutes more at room temperature, add the torn basil and serve."
+  ],
+  "tips": [
+   "The bread hydrates with tomato juice, not water. That's where all the flavor is.",
+   "Truly stale bread. Fresh bread turns to mush.",
+   "Never refrigerate it: cold kills the tomato and hardens the oil."
+  ],
+  "video": "tuscan panzanella"
+ }
+}

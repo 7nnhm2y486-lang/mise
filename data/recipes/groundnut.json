@@ -1,0 +1,186 @@
+{
+ "id": "groundnut",
+ "country": "Ghana",
+ "region": "west-africa",
+ "course": "main",
+ "time": 75,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "peanutbutter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 25,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 900,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "peanutoil",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Guiso de Cacahuate",
+  "blurb": "La mantequilla de cacahuate como espesante y como grasa, no como capricho. Se cocina a fuego lento hasta que la salsa brilla y se pega a la cuchara.",
+  "ing": [
+   {
+    "n": "muslos de pollo con hueso"
+   },
+   {
+    "n": "mantequilla de cacahuate suave"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "jengibre"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "jitomates pera",
+    "note": "de lata"
+   },
+   {
+    "n": "chile habanero"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "camote",
+    "note": "en cubos grandes"
+   },
+   {
+    "n": "aceite de cacahuate"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Dora el pollo con fuerza en el aceite, por tandas. Reserva.",
+   "Tritura cebolla, jengibre, ajo, jitomates y chile hasta obtener una pasta y fríela en la misma olla 10 minutos, hasta que espese y oscurezca.",
+   "Afloja la mantequilla de cacahuate con un cucharón de caldo caliente hasta que quede fluida, y solo entonces incorpórala: si la añades tal cual, se corta.",
+   "Devuelve el pollo, añade el resto del caldo y cocina destapado 40 minutos.",
+   "Añade el camote en los últimos 20 minutos. La salsa está lista cuando aflora una película de aceite anaranjado.",
+   "Rectifica de sal y sirve con arroz o con fufu."
+  ],
+  "tips": [
+   "Nunca añadas mantequilla de cacahuate fría directamente al líquido caliente: atempérala primero.",
+   "Que el aceite se separe es la señal de que la emulsión hizo su trabajo. No lo retires.",
+   "Solo mantequilla de cacahuate sin azúcar; la endulzada vuelve el guiso empalagoso."
+  ],
+  "video": "sopa de cacahuate ghanesa"
+ },
+ "en": {
+  "name": "Groundnut Stew",
+  "blurb": "Peanut butter as the thickener and the fat, not as a gimmick. It simmers slowly until the sauce turns glossy and clings to the spoon.",
+  "ing": [
+   {
+    "n": "bone-in chicken thighs"
+   },
+   {
+    "n": "smooth peanut butter"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "ginger"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "plum tomatoes",
+    "note": "canned"
+   },
+   {
+    "n": "habanero chile"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "sweet potato",
+    "note": "in large cubes"
+   },
+   {
+    "n": "peanut oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Brown the chicken hard in the oil, in batches. Set aside.",
+   "Blend the onion, ginger, garlic, tomatoes and chile to a paste and fry it in the same pot for 10 minutes, until thick and darker.",
+   "Loosen the peanut butter with a ladle of hot stock until runny, and only then stir it in: added straight, it seizes.",
+   "Return the chicken, add the rest of the stock and simmer uncovered for 40 minutes.",
+   "Add the sweet potato for the last 20 minutes. The sauce is ready when a film of orange oil rises to the top.",
+   "Adjust the salt and serve with rice or fufu."
+  ],
+  "tips": [
+   "Never add cold peanut butter straight to hot liquid: temper it first.",
+   "Oil separating is the sign the emulsion has done its job. Don't skim it off.",
+   "Only unsweetened peanut butter; sweetened makes the stew cloying."
+  ],
+  "video": "Ghanaian groundnut soup"
+ }
+}

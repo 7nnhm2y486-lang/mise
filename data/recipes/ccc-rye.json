@@ -1,0 +1,190 @@
+{
+ "id": "ccc-rye",
+ "country": "Denmark",
+ "region": "nordic",
+ "course": "cookie",
+ "time": 800,
+ "serves": 18,
+ "ovenC": 185,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 180,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 220,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 220,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 280,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Galletas de Centeno",
+  "blurb": "El centeno aporta una profundidad maltosa y levemente ácida, y casi no tiene proteína formadora de gluten, así que la galleta queda corta y arenosa en el borde y densa en el centro.",
+  "lab": "Harina de centeno oscuro · malteada, mineral, adulta",
+  "ing": [
+   {
+    "n": "harina de centeno oscuro"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "mantequilla",
+    "note": "tostada"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "yema de huevo"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro",
+    "note": "al 70%, picado"
+   },
+   {
+    "n": "sal en escamas"
+   }
+  ],
+  "steps": [
+   "Tuesta la mantequilla hasta que los sólidos estén dorado oscuro y huela a avellana. Enfría 15 minutos.",
+   "Bate dentro los dos azúcares, luego el huevo y la yema.",
+   "Incorpora las dos harinas, el bicarbonato y la sal, y después el chocolate.",
+   "Reposa la masa al menos 12 horas. El centeno tarda más que el trigo en hidratarse y el sabor se profundiza de forma notable.",
+   "Hornea bolas de 60 g a 185 °C durante 12 minutos.",
+   "Sala generosamente en caliente. El centeno y la sal se pertenecen."
+  ],
+  "tips": [
+   "No uses centeno claro. Todo el sentido está en la nota oscura, malteada, casi salada.",
+   "El centeno absorbe agua despacio, así que el reposo nocturno importa aquí más que en una masa de trigo.",
+   "Sube el chocolate al 70% o más, o el centeno lo tapará."
+  ],
+  "video": "galletas de centeno chispas chocolate"
+ },
+ "en": {
+  "name": "Rye Cookies",
+  "blurb": "Rye brings a malty, faintly sour depth and has almost no gluten-forming protein, so the cookie comes out short and sandy at the edge and dense in the center.",
+  "lab": "Dark rye flour · malty, mineral, grown-up",
+  "ing": [
+   {
+    "n": "dark rye flour"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter",
+    "note": "browned"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "egg yolk"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate",
+    "note": "70%, chopped"
+   },
+   {
+    "n": "flaky salt"
+   }
+  ],
+  "steps": [
+   "Brown the butter until the solids are deep golden and it smells of hazelnut. Cool 15 minutes.",
+   "Beat in both sugars, then the egg and yolk.",
+   "Fold in both flours, the baking soda and the salt, then the chocolate.",
+   "Rest the dough at least 12 hours. Rye takes longer than wheat to hydrate, and the flavor deepens noticeably.",
+   "Bake 60 g balls at 185 °C for 12 minutes.",
+   "Salt generously while hot. Rye and salt belong together."
+  ],
+  "tips": [
+   "Don't use light rye. The whole point is the dark, malty, almost savory note.",
+   "Rye absorbs water slowly, so the overnight rest matters more here than in a wheat dough.",
+   "Go up to 70% chocolate or higher, or the rye will bury it."
+  ],
+  "video": "rye chocolate chip cookies"
+ }
+}

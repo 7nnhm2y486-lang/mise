@@ -1,0 +1,128 @@
+{
+ "id": "caprese",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "starter",
+ "time": 10,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "mozzarella",
+   "role": "fat"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Insalata Caprese",
+  "blurb": "Tres ingredientes sin margen de error. Todo depende de la calidad y de la temperatura: la mozzarella fría de refrigerador no sabe a nada.",
+  "ing": [
+   {
+    "n": "mozzarella di bufala",
+    "note": "a temperatura ambiente"
+   },
+   {
+    "n": "tomates",
+    "note": "maduros, de temporada"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "aceite de oliva",
+    "note": "virgen extra bueno"
+   },
+   {
+    "n": "sal en escamas"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Saca la mozzarella del refrigerador 40 minutos antes y déjala en su propio suero.",
+   "Corta los tomates en rodajas gruesas y sálalos. Déjalos 10 minutos en un plato inclinado para que suelten algo de agua.",
+   "Escurre la mozzarella y rásgala con las manos en vez de cortarla: los bordes irregulares agarran mejor el aceite.",
+   "Alterna tomate y mozzarella en una fuente.",
+   "Añade las hojas de albahaca enteras, sin picar: cortadas se oxidan y ennegrecen.",
+   "Riega con el aceite, sal en escamas y pimienta justo antes de servir."
+  ],
+  "tips": [
+   "Mozzarella a temperatura ambiente. En frío su grasa está sólida y no sabe a nada.",
+   "Salar el tomate antes concentra su sabor y evita que el plato se aguade.",
+   "Albahaca entera y rasgada a mano. El cuchillo la ennegrece en minutos."
+  ],
+  "video": "insalata caprese auténtica"
+ },
+ "en": {
+  "name": "Caprese Salad",
+  "blurb": "Three ingredients and no margin for error. It all comes down to quality and temperature: fridge-cold mozzarella tastes of nothing.",
+  "ing": [
+   {
+    "n": "buffalo mozzarella",
+    "note": "at room temperature"
+   },
+   {
+    "n": "tomatoes",
+    "note": "ripe, in season"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "olive oil",
+    "note": "good extra-virgin"
+   },
+   {
+    "n": "flaky salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Take the mozzarella out of the refrigerator 40 minutes ahead and leave it in its own whey.",
+   "Cut the tomatoes into thick slices and salt them. Leave them 10 minutes on a tilted plate so they shed some water.",
+   "Drain the mozzarella and tear it by hand instead of slicing: the ragged edges hold the oil better.",
+   "Alternate tomato and mozzarella on a platter.",
+   "Add the basil leaves whole, not chopped: cut, they oxidize and blacken.",
+   "Dress with the oil, flaky salt and pepper just before serving."
+  ],
+  "tips": [
+   "Mozzarella at room temperature. Cold, its fat is solid and it tastes of nothing.",
+   "Salting the tomatoes first concentrates their flavor and keeps the plate from going watery.",
+   "Basil whole and torn by hand. A knife blackens it within minutes."
+  ],
+  "video": "authentic insalata caprese"
+ }
+}

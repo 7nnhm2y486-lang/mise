@@ -1,0 +1,198 @@
+{
+ "id": "ribollita",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 180,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "stalk",
+   "k": "celery",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Ribollita",
+  "blurb": "Literalmente 'rehervida': se hace un día y se recalienta al siguiente con pan dentro, hasta que deja de ser sopa y se puede comer con tenedor.",
+  "ing": [
+   {
+    "n": "alubias cannellini",
+    "note": "remojadas toda la noche"
+   },
+   {
+    "n": "col negra",
+    "note": "sin el nervio central"
+   },
+   {
+    "n": "col rizada"
+   },
+   {
+    "n": "zanahoria"
+   },
+   {
+    "n": "apio"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "jitomate"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "pan rústico duro"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "romero"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece las alubias con romero y ajo hasta que estén tiernas, 60-90 minutos. Tritura un tercio y reserva el resto enteras con su caldo.",
+   "Sofríe la cebolla, zanahoria y apio muy picados en aceite durante 20 minutos, sin prisa.",
+   "Añade el jitomate y cocina 10 minutos.",
+   "Añade las coles en juliana y el caldo de las alubias, y cuece 45 minutos hasta que las hojas estén completamente blandas.",
+   "Incorpora las alubias enteras y el puré. Rectifica y deja enfriar. Aquí termina el día uno.",
+   "Al día siguiente, alterna capas de sopa y pan duro en la olla, recalienta a fuego lento 20 minutos y remueve para deshacer el pan. Sirve con un hilo generoso de aceite crudo."
+  ],
+  "tips": [
+   "Es un plato de dos días por definición. El primero es solo una sopa de verduras.",
+   "La col negra necesita mucha cocción: aquí no hay verdura al dente.",
+   "El aceite crudo del final no es decoración, es un ingrediente. Usa el mejor que tengas."
+  ],
+  "video": "ribollita toscana"
+ },
+ "en": {
+  "name": "Ribollita",
+  "blurb": "Literally 'reboiled': it's made one day and reheated the next with bread in it, until it stops being soup and can be eaten with a fork.",
+  "ing": [
+   {
+    "n": "cannellini beans",
+    "note": "soaked overnight"
+   },
+   {
+    "n": "lacinato kale",
+    "note": "center rib removed"
+   },
+   {
+    "n": "savoy cabbage"
+   },
+   {
+    "n": "carrot"
+   },
+   {
+    "n": "celery"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "tomato"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "stale rustic bread"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "rosemary"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the beans with rosemary and garlic until tender, 60-90 minutes. Purée a third and keep the rest whole in their liquid.",
+   "Sweat the finely chopped onion, carrot and celery in oil for 20 minutes, unhurried.",
+   "Add the tomato and cook 10 minutes.",
+   "Add the shredded kale and cabbage and the bean liquid, and simmer 45 minutes until the leaves are completely soft.",
+   "Stir in the whole beans and the purée. Adjust the seasoning and let it cool. Day one ends here.",
+   "The next day, layer soup and stale bread in the pot, reheat gently for 20 minutes and stir to break up the bread. Serve with a generous drizzle of raw oil."
+  ],
+  "tips": [
+   "It's a two-day dish by definition. The first day it's just vegetable soup.",
+   "Lacinato kale needs a lot of cooking: nothing here is al dente.",
+   "The raw oil at the end isn't garnish, it's an ingredient. Use the best you have."
+  ],
+  "video": "tuscan ribollita"
+ }
+}

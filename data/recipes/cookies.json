@@ -1,0 +1,190 @@
+{
+ "id": "cookies",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 180,
+ "serves": 18,
+ "ovenC": 180,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 225,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Galletas de Chispas con Mantequilla Tostada",
+  "blurb": "Tostar la mantequilla, reposar la masa toda la noche y sacarlas crudas del centro. Tres cambios, y la diferencia no es sutil.",
+  "lab": "Mantequilla tostada · a nuez, masticable, profunda",
+  "ing": [
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "yema de huevo"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro",
+    "note": "picado, no chispas"
+   },
+   {
+    "n": "sal en escamas",
+    "note": "para terminar"
+   }
+  ],
+  "steps": [
+   "Tuesta la mantequilla a fuego medio hasta que los sólidos lácteos tomen color avellana y huela a caramelo. Viértela en un bol, con los sólidos incluidos, y déjala enfriar hasta que espese pero siga líquida.",
+   "Bate dentro los dos azúcares, luego los huevos, la yema y la vainilla. Bate 2 minutos hasta que brille y espese ligeramente.",
+   "Incorpora la harina, el bicarbonato y la sal hasta que apenas se integren, y luego el chocolate.",
+   "Tapa y refrigera al menos 24 horas, hasta 72. La harina se hidrata por completo y los azúcares se descomponen: de ahí sale el sabor profundo a caramelo.",
+   "Forma bolas de 60 g, pártelas por la mitad y vuelve a unirlas con las caras rugosas hacia arriba. Hornea a 180 °C durante 10-12 minutos.",
+   "Sácalas cuando los bordes estén cuajados y el centro siga viéndose húmedo y crudo. Golpea la bandeja una vez contra la mesa. Sal en escamas y 10 minutos de reposo en la bandeja."
+  ],
+  "tips": [
+   "La mantequilla tostada pierde agua, así que la masa queda más seca y las galletas más masticables. Ese es el objetivo.",
+   "El reposo de una noche es la mejora más grande disponible para cualquier receta de galletas.",
+   "El chocolate picado da charcos y esquirlas; las chispas están diseñadas para no fundirse."
+  ],
+  "video": "galletas chispas chocolate mantequilla tostada"
+ },
+ "en": {
+  "name": "Brown Butter Chocolate Chip Cookies",
+  "blurb": "Brown the butter, rest the dough overnight and pull them while the centers are raw. Three changes, and the difference is not subtle.",
+  "lab": "Brown butter · nutty, chewy, deep",
+  "ing": [
+   {
+    "n": "butter"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "egg yolk"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate",
+    "note": "chopped, not chips"
+   },
+   {
+    "n": "flaky salt",
+    "note": "to finish"
+   }
+  ],
+  "steps": [
+   "Brown the butter over medium heat until the milk solids turn hazelnut-colored and it smells of caramel. Pour it into a bowl, solids and all, and let it cool until thickened but still liquid.",
+   "Whisk in both sugars, then the eggs, yolk and vanilla. Whisk 2 minutes until glossy and slightly thickened.",
+   "Fold in the flour, baking soda and salt until just combined, then the chocolate.",
+   "Cover and refrigerate at least 24 hours, up to 72. The flour fully hydrates and the sugars break down: that's where the deep caramel flavor comes from.",
+   "Shape 60 g balls, tear them in half and press back together with the rough sides facing up. Bake at 180 °C for 10-12 minutes.",
+   "Pull them when the edges are set and the centers still look wet and raw. Rap the sheet once on the counter. Flaky salt and 10 minutes' rest on the sheet."
+  ],
+  "tips": [
+   "Browned butter loses water, so the dough is drier and the cookies chewier. That's the point.",
+   "The overnight rest is the single biggest upgrade available to any cookie recipe.",
+   "Chopped chocolate gives puddles and shards; chips are engineered not to melt."
+  ],
+  "video": "brown butter chocolate chip cookies"
+ }
+}

@@ -1,0 +1,186 @@
+{
+ "id": "gulabjamun",
+ "country": "India",
+ "region": "south-asia",
+ "course": "sweet",
+ "time": 90,
+ "serves": 20,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "milk",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "ghee",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 6,
+   "u": "pod",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "ghee",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Gulab Jamun",
+  "blurb": "Sólidos lácteos fritos muy despacio a baja temperatura para que el centro se cocine antes de que el exterior tome color, y luego empapados en almíbar tibio de cardamomo hasta doblar de tamaño.",
+  "ing": [
+   {
+    "n": "leche en polvo",
+    "note": "entera"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "ghee"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cardamomo verde"
+   },
+   {
+    "n": "agua de rosas"
+   },
+   {
+    "n": "azafrán"
+   },
+   {
+    "n": "ghee",
+    "note": "para freír"
+   }
+  ],
+  "steps": [
+   "Hierve el azúcar, el agua, el cardamomo y el azafrán 5 minutos hasta obtener un almíbar ligero, que no llegue a hebra. Añade el agua de rosas y mantenlo tibio.",
+   "Integra el ghee en la leche en polvo, la harina y el polvo de hornear, y añade la leche poco a poco hasta que apenas se una en una masa blanda. No amases.",
+   "Reposa 10 minutos y forma bolas lisas y sin grietas entre las palmas. Cualquier grieta se abrirá en el aceite.",
+   "Calienta el ghee a solo 120-130 °C. Esto es mucho más frío que una fritura normal y es la clave de todo.",
+   "Fríe muy despacio 8-10 minutos, moviéndolas sin parar, hasta que estén parejamente doradas oscuras. El aceite caliente dora por fuera y deja el centro crudo.",
+   "Échalas directamente al almíbar tibio y déjalas al menos 2 horas. Doblarán su tamaño."
+  ],
+  "tips": [
+   "Temperatura baja del aceite. Si se doran en menos de cinco minutos, está demasiado caliente.",
+   "Almíbar ligero y tibio, no caliente. Un almíbar espeso no puede penetrar y quedan secas por dentro.",
+   "No amases la masa. Amasar desarrolla gluten y te da pelotas de goma."
+  ],
+  "video": "gulab jamun suaves"
+ },
+ "en": {
+  "name": "Gulab Jamun",
+  "blurb": "Milk solids fried very slowly at a low temperature so the center cooks before the outside colors, then soaked in warm cardamom syrup until they double in size.",
+  "ing": [
+   {
+    "n": "milk powder",
+    "note": "whole"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "ghee"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "green cardamom"
+   },
+   {
+    "n": "rose water"
+   },
+   {
+    "n": "saffron"
+   },
+   {
+    "n": "ghee",
+    "note": "for frying"
+   }
+  ],
+  "steps": [
+   "Boil the sugar, water, cardamom and saffron for 5 minutes into a light syrup that does not reach the thread stage. Add the rose water and keep it warm.",
+   "Rub the ghee into the milk powder, flour and baking powder, and add the milk a little at a time until it just comes together into a soft dough. Do not knead.",
+   "Rest 10 minutes and roll smooth, crack-free balls between your palms. Any crack will open up in the oil.",
+   "Heat the ghee to just 120-130 °C. This is far cooler than normal frying and it is the key to the whole thing.",
+   "Fry very slowly for 8-10 minutes, keeping them moving constantly, until evenly deep golden. Hot oil browns the outside and leaves the center raw.",
+   "Drop them straight into the warm syrup and leave at least 2 hours. They will double in size."
+  ],
+  "tips": [
+   "Low oil temperature. If they brown in under five minutes, it is too hot.",
+   "Light, warm syrup, not hot. A thick syrup can't penetrate and they stay dry inside.",
+   "Don't knead the dough. Kneading develops gluten and gives you rubber balls."
+  ],
+  "video": "soft gulab jamun"
+ }
+}

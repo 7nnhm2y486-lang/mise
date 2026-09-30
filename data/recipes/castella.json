@@ -1,0 +1,129 @@
+{
+ "id": "castella",
+ "country": "Japan",
+ "region": "east-asia",
+ "course": "sweet",
+ "time": 120,
+ "serves": 10,
+ "ovenC": 160,
+ "ing": [
+  {
+   "q": 6,
+   "u": "",
+   "k": "egg",
+   "role": "aerate"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "aerate"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "honey",
+   "role": "moisture"
+  },
+  {
+   "q": 50,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "mirin",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Castella",
+  "blurb": "Un bizcocho de espuma sin grasa y sin gasificante. Toda la subida viene de huevos batidos sobre agua tibia, y la miga apretada y pareja viene de golpear el molde.",
+  "ing": [
+   {
+    "n": "huevos",
+    "note": "a temperatura ambiente"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "harina de fuerza",
+    "note": "tamizada tres veces"
+   },
+   {
+    "n": "miel"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "mirin",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Forra un molde cuadrado alto con papel que sobresalga del borde.",
+   "Calienta juntos la miel, la leche y el mirin hasta que estén fluidos.",
+   "Bate los huevos y el azúcar sobre un baño de agua tibia hasta que alcancen 40 °C, luego fuera del fuego a velocidad alta 8-10 minutos, hasta que la masa sostenga una cinta que permanezca 10 segundos en la superficie.",
+   "Incorpora la mezcla tibia de miel, luego la harina tamizada en tres adiciones, plegando despacio y a fondo. Bajará un poco y debe hacerlo.",
+   "Vierte desde cierta altura, pasa una brocheta en zigzag para romper burbujas grandes y golpea el molde tres veces contra la mesa.",
+   "Hornea a 160 °C durante 45-50 minutos. Al sacarlo, déjalo caer una vez desde alto, envuélvelo tibio en film y repósalo boca abajo toda la noche: eso da la miga densa y húmeda."
+  ],
+  "tips": [
+   "Templar los huevos les permite retener mucho más aire. Es la diferencia entre una cinta y una espuma.",
+   "Tamiza la harina de fuerza tres veces. Se usa por su masticabilidad, y en un bizcocho sin grasa los grumos no desaparecen nunca.",
+   "El envuelto nocturno no es opcional. Recién horneado está seco; al día siguiente es perfecto."
+  ],
+  "video": "castella japonesa"
+ },
+ "en": {
+  "name": "Castella",
+  "blurb": "A foam cake with no fat and no leavening. All the rise comes from eggs whipped over warm water, and the tight, even crumb comes from banging the pan.",
+  "ing": [
+   {
+    "n": "eggs",
+    "note": "at room temperature"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "bread flour",
+    "note": "sifted three times"
+   },
+   {
+    "n": "honey"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "mirin",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Line a tall square pan with paper that stands above the rim.",
+   "Warm the honey, milk and mirin together until fluid.",
+   "Whip the eggs and sugar over a warm water bath until they reach 40 °C, then off the heat on high speed for 8-10 minutes, until the batter holds a ribbon that sits on the surface for 10 seconds.",
+   "Fold in the warm honey mixture, then the sifted flour in three additions, folding slowly and thoroughly. It will deflate a little, and it should.",
+   "Pour from a height, run a skewer through in a zigzag to break large bubbles and bang the pan on the counter three times.",
+   "Bake at 160 °C for 45-50 minutes. When it comes out, drop it once from a height, wrap it warm in plastic and rest it upside down overnight: that gives the dense, moist crumb."
+  ],
+  "tips": [
+   "Warming the eggs lets them hold far more air. It's the difference between a ribbon and a froth.",
+   "Sift the bread flour three times. It's used for its chew, and in a fat-free cake lumps never disappear.",
+   "The overnight wrap isn't optional. Fresh from the oven it's dry; the next day it's perfect."
+  ],
+  "video": "japanese castella cake recipe"
+ }
+}

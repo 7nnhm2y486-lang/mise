@@ -1,0 +1,215 @@
+{
+ "id": "babka",
+ "country": "Poland",
+ "region": "eastern-europe",
+ "course": "pastry",
+ "time": 600,
+ "serves": 10,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 70,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 8,
+   "u": "g",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 8,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Babka de Chocolate",
+  "blurb": "Masa enriquecida enrollada con chocolate, cortada a lo largo y trenzada para que las capas queden a la vista. El almíbar pincelado en caliente es lo que evita que se seque.",
+  "ing": [
+   {
+    "n": "harina de fuerza"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "levadura seca instantánea"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro"
+   },
+   {
+    "n": "mantequilla",
+    "note": "para el relleno"
+   },
+   {
+    "n": "cacao en polvo"
+   },
+   {
+    "n": "azúcar glas"
+   },
+   {
+    "n": "azúcar",
+    "note": "para el almíbar"
+   },
+   {
+    "n": "agua",
+    "note": "para el almíbar"
+   }
+  ],
+  "steps": [
+   "Haz una masa enriquecida como el brioche pero con menos mantequilla, añadiéndola tras desarrollar el gluten. Refrigera toda la noche.",
+   "Derrite la mantequilla del relleno con el chocolate, incorpora el cacao y el azúcar glas, y deja enfriar hasta que se pueda untar sin estar cuajado.",
+   "Estira la masa fría a 40x30 cm, unta el relleno finamente hasta los bordes y enrolla apretado desde el lado largo.",
+   "Congela el rollo 20 minutos para que corte limpio, luego pártelo a lo largo por la mitad dejando 2 cm unidos en un extremo.",
+   "Trenza las dos mitades con las caras cortadas hacia arriba y colócalo en un molde de cake forrado. Fermenta 90 minutos.",
+   "Hornea a 180 °C durante 35-40 minutos. Hierve el almíbar y pincela el pan entero con todo él mientras siga caliente."
+  ],
+  "tips": [
+   "Caras cortadas hacia arriba. Es todo el efecto visual y es fácil trenzarlo del revés.",
+   "Congela el rollo antes de cortarlo o el relleno se embarra en una mancha marrón.",
+   "Usa hasta la última gota del almíbar. Parece demasiado y no lo es."
+  ],
+  "video": "babka de chocolate trenzada"
+ },
+ "en": {
+  "name": "Chocolate Babka",
+  "blurb": "Enriched dough rolled up with chocolate, cut lengthwise and braided so the layers show. The syrup brushed on while it's hot is what keeps it from drying out.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "instant dry yeast"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate"
+   },
+   {
+    "n": "butter",
+    "note": "for the filling"
+   },
+   {
+    "n": "cocoa powder"
+   },
+   {
+    "n": "powdered sugar"
+   },
+   {
+    "n": "sugar",
+    "note": "for the syrup"
+   },
+   {
+    "n": "water",
+    "note": "for the syrup"
+   }
+  ],
+  "steps": [
+   "Make an enriched dough like brioche but with less butter, adding it after the gluten has developed. Refrigerate overnight.",
+   "Melt the filling butter with the chocolate, stir in the cocoa and powdered sugar, and let it cool until spreadable but not set.",
+   "Roll the cold dough to 40x30 cm, spread the filling thinly right to the edges and roll up tightly from the long side.",
+   "Freeze the roll for 20 minutes so it cuts cleanly, then split it lengthwise in half, leaving 2 cm joined at one end.",
+   "Braid the two halves with the cut faces up and set it in a lined loaf pan. Proof for 90 minutes.",
+   "Bake at 180 °C for 35-40 minutes. Boil the syrup and brush all of it over the loaf while it's still hot."
+  ],
+  "tips": [
+   "Cut faces up. That's the whole visual effect, and it's easy to braid it upside down.",
+   "Freeze the roll before cutting or the filling smears into a brown blur.",
+   "Use every last drop of the syrup. It looks like too much and it isn't."
+  ],
+  "video": "braided chocolate babka"
+ }
+}

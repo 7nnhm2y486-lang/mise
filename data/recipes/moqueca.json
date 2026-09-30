@@ -1,0 +1,206 @@
+{
+ "id": "moqueca",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "main",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Moqueca",
+  "blurb": "Sin sofrito ninguno. Todo se coloca crudo en capas dentro de la olla y se cuece al vapor en leche de coco y aceite de dendê.",
+  "ing": [
+   {
+    "n": "pescado blanco firme",
+    "note": "en lomos gruesos"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "aceite de dendê",
+    "note": "aceite de palma rojo"
+   },
+   {
+    "n": "cebolla",
+    "note": "en aros"
+   },
+   {
+    "n": "pimientos rojo y amarillo",
+    "note": "en aros"
+   },
+   {
+    "n": "jitomate",
+    "note": "en rodajas"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "camarones",
+    "note": "opcional"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Marina el pescado en jugo de limón, ajo y sal durante 20 minutos.",
+   "Coloca la mitad de la cebolla, los pimientos y el jitomate en el fondo de una olla ancha y pesada.",
+   "Pon el pescado encima y cúbrelo con el resto de las verduras.",
+   "Vierte por encima la leche de coco y el aceite de dendê. No remuevas en ningún momento.",
+   "Tapa y cocina a fuego medio-bajo 20 minutos, hasta que el pescado se abra en lascas y las verduras se hayan ablandado.",
+   "Añade los camarones los últimos 4 minutos. Esparce cilantro y cebollín. Sirve con arroz y farofa."
+  ],
+  "tips": [
+   "Ni remover ni dorar. Las capas se mantienen distintas y el pescado entero.",
+   "El dendê da el color y el sabor inconfundible. Sin él, usa aceite de oliva y un poco de pimentón, y acepta que será otro plato.",
+   "Retíralo cuando el pescado esté apenas hecho: sigue cocinándose en la olla."
+  ],
+  "video": "moqueca baiana"
+ },
+ "en": {
+  "name": "Moqueca",
+  "blurb": "No sofrito at all. Everything is layered raw in the pot and steamed in coconut milk and dendê oil.",
+  "ing": [
+   {
+    "n": "firm white fish",
+    "note": "in thick fillets"
+   },
+   {
+    "n": "lime juice"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "dendê oil",
+    "note": "red palm oil"
+   },
+   {
+    "n": "onions",
+    "note": "in rings"
+   },
+   {
+    "n": "red and yellow bell peppers",
+    "note": "in rings"
+   },
+   {
+    "n": "tomatoes",
+    "note": "sliced"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "scallions"
+   },
+   {
+    "n": "shrimp",
+    "note": "optional"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Marinate the fish in the lime juice, garlic and salt for 20 minutes.",
+   "Lay half the onion, peppers and tomato in the bottom of a wide, heavy pot.",
+   "Set the fish on top and cover with the rest of the vegetables.",
+   "Pour the coconut milk and dendê oil over the top. Don't stir at any point.",
+   "Cover and cook over medium-low heat for 20 minutes, until the fish flakes and the vegetables have softened.",
+   "Add the shrimp for the last 4 minutes. Scatter over the cilantro and scallions. Serve with rice and farofa."
+  ],
+  "tips": [
+   "No stirring and no browning. The layers stay distinct and the fish stays whole.",
+   "Dendê gives the unmistakable color and flavor. Without it, use olive oil and a little paprika, and accept that it'll be a different dish.",
+   "Pull it when the fish is just done: it keeps cooking in the pot."
+  ],
+  "video": "moqueca baiana Brazilian fish stew"
+ }
+}

@@ -1,0 +1,222 @@
+{
+ "id": "ossobuco",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 180,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "stalk",
+   "k": "celery",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "acid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 25,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Osso Buco",
+  "blurb": "Jarrete de ternera braseado hasta que el tuétano se ablanda. La gremolata cruda añadida al final es lo que impide que tres horas de braseado sepan pesadas.",
+  "ing": [
+   {
+    "n": "jarrete de ternera",
+    "note": "de 5 cm, atado"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "zanahoria"
+   },
+   {
+    "n": "apio"
+   },
+   {
+    "n": "vino blanco seco"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "jitomate"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "ralladura de limón",
+    "note": "para la gremolata"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Ata cada jarrete alrededor de su contorno con hilo para que no se desarme, sazona y enharina.",
+   "Dóralos bien en mantequilla y aceite por ambas caras. Retira.",
+   "Sofríe la cebolla, la zanahoria y el apio 12 minutos hasta ablandarlos.",
+   "Añade el vino y reduce a la mitad, luego el jitomate y el caldo. Devuelve los jarretes de pie para que el tuétano no se salga.",
+   "Tapa y cocina a 150 °C durante 2 a 2,5 horas, hasta que la carne ceda por completo.",
+   "Pica juntas la ralladura de limón, el perejil y el ajo para la gremolata y espárcela justo antes de servir. No la cocines."
+  ],
+  "tips": [
+   "Ata los jarretes. Sin atar se deshacen y el tuétano se escapa.",
+   "Mantenlos de pie todo el tiempo. El tuétano es la mejor parte y se saldría.",
+   "Gremolata cruda al final. Cocida no hace absolutamente nada."
+  ],
+  "video": "osso buco gremolata"
+ },
+ "en": {
+  "name": "Osso Buco",
+  "blurb": "Veal shank braised until the marrow goes soft. The raw gremolata added at the end is what keeps three hours of braising from tasting heavy.",
+  "ing": [
+   {
+    "n": "veal shank",
+    "note": "5 cm thick, tied"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "carrot"
+   },
+   {
+    "n": "celery"
+   },
+   {
+    "n": "dry white wine"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "tomato"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "lemon zest",
+    "note": "for the gremolata"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Tie each shank around its circumference with string so it doesn't fall apart, season and dredge in flour.",
+   "Brown them well in butter and oil on both sides. Remove.",
+   "Sweat the onion, carrot and celery for 12 minutes until softened.",
+   "Add the wine and reduce by half, then the tomato and stock. Return the shanks standing upright so the marrow doesn't slip out.",
+   "Cover and cook at 150 °C for 2 to 2.5 hours, until the meat gives way completely.",
+   "Chop the lemon zest, parsley and garlic together for the gremolata and scatter it just before serving. Don't cook it."
+  ],
+  "tips": [
+   "Tie the shanks. Untied, they fall apart and the marrow escapes.",
+   "Keep them upright the whole time. The marrow is the best part and it would slip out.",
+   "Raw gremolata at the end. Cooked, it does absolutely nothing."
+  ],
+  "video": "osso buco gremolata"
+ }
+}

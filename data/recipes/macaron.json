@@ -1,0 +1,153 @@
+{
+ "id": "macaron",
+ "country": "France",
+ "region": "western-europe",
+ "course": "sweet",
+ "time": 180,
+ "serves": 30,
+ "ovenC": 150,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "almondflour",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "structure"
+  },
+  {
+   "q": 110,
+   "u": "g",
+   "k": "eggwhite",
+   "role": "aerate"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "aerate"
+  },
+  {
+   "q": 50,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "garnish"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Macarons Franceses",
+  "blurb": "Todo depende del macaronage: sacar exactamente el aire justo del merengue. Poco y se agrietan; demasiado y se extienden planos.",
+  "ing": [
+   {
+    "n": "almendra molida"
+   },
+   {
+    "n": "azúcar glas"
+   },
+   {
+    "n": "claras de huevo",
+    "note": "envejecidas 24 h a temperatura ambiente"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "colorante en gel",
+    "note": "en gel, no líquido"
+   },
+   {
+    "n": "mantequilla",
+    "note": "para la crema"
+   },
+   {
+    "n": "azúcar glas"
+   }
+  ],
+  "steps": [
+   "Tritura juntas la almendra molida y el azúcar glas y tamiza dos veces. Lo que no pase por el tamiz se verá como un grumo en la cáscara.",
+   "Mezcla la mitad de las claras con la mezcla de almendra hasta obtener una pasta rígida.",
+   "Cocina el azúcar y el agua a 118 °C. Monta la otra mitad de las claras a picos suaves, vierte el almíbar en hilo por la pared del bol y bate hasta que el merengue esté brillante y el bol solo tibio.",
+   "Incorpora un tercio del merengue para aflojar, luego el resto. Ahora el macaronage: pliega y aplasta contra el bol hasta que la masa caiga en una cinta gruesa e ininterrumpida que se reabsorba en unos 20 segundos.",
+   "Escudilla discos de 3 cm, golpea las bandejas dos veces con fuerza contra la mesa y pincha las burbujas con un alfiler.",
+   "Reposa 30-60 minutos hasta que la superficie esté seca al tacto, y hornea a 150 °C durante 14-16 minutos. Madúralos rellenos en el refrigerador 24 horas."
+  ],
+  "tips": [
+   "La prueba de la cinta es la única medida fiable. Cuenta los segundos, no lo adivines.",
+   "Deben formar piel antes de hornear o se agrietarán en vez de sacar pie.",
+   "Un macaron relleno está calcáreo el primer día y perfecto el segundo. La humedad del relleno migra a la cáscara."
+  ],
+  "video": "macaron francés macaronage merengue italiano"
+ },
+ "en": {
+  "name": "French Macarons",
+  "blurb": "Everything hinges on the macaronage: knocking exactly the right amount of air out of the meringue. Too little and they crack; too much and they spread flat.",
+  "ing": [
+   {
+    "n": "almond flour"
+   },
+   {
+    "n": "powdered sugar"
+   },
+   {
+    "n": "egg whites",
+    "note": "aged 24 h at room temperature"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "gel food coloring",
+    "note": "gel, not liquid"
+   },
+   {
+    "n": "butter",
+    "note": "for the buttercream"
+   },
+   {
+    "n": "powdered sugar"
+   }
+  ],
+  "steps": [
+   "Blitz the almond flour and powdered sugar together and sift twice. Anything that won't pass through the sieve will show as a lump in the shell.",
+   "Mix half the egg whites into the almond mixture to make a stiff paste.",
+   "Cook the sugar and water to 118 °C. Whip the other half of the whites to soft peaks, pour the syrup in a thin stream down the side of the bowl and whip until the meringue is glossy and the bowl is only warm.",
+   "Fold in a third of the meringue to loosen, then the rest. Now the macaronage: fold and press against the bowl until the batter falls in a thick, unbroken ribbon that melts back in about 20 seconds.",
+   "Pipe 3 cm rounds, rap the trays hard on the counter twice and pop any bubbles with a pin.",
+   "Rest 30-60 minutes until the surface is dry to the touch, and bake at 150 °C for 14-16 minutes. Mature them filled in the fridge for 24 hours."
+  ],
+  "tips": [
+   "The ribbon test is the only reliable measure. Count the seconds; don't guess.",
+   "They must form a skin before baking or they'll crack instead of rising on feet.",
+   "A filled macaron is chalky on day one and perfect on day two. Moisture from the filling migrates into the shell."
+  ],
+  "video": "French macarons macaronage Italian meringue"
+ }
+}

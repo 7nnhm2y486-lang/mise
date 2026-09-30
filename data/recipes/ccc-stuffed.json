@@ -1,0 +1,178 @@
+{
+ "id": "ccc-stuffed",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 900,
+ "serves": 12,
+ "ovenC": 190,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 180,
+   "u": "g",
+   "k": "hazelnut",
+   "role": "structure"
+  },
+  {
+   "q": 220,
+   "u": "g",
+   "k": "butter",
+   "role": "aerate"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 340,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "cornstarch",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "chocolatechips",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Galletas Rellenas",
+  "blurb": "Un disco congelado de relleno sellado dentro de una bola gruesa de masa. Congelar el núcleo es lo que te compra el tiempo para que el exterior se hornee mientras el centro solo se funde.",
+  "lab": "Núcleo congelado · centro fundido a voluntad",
+  "ing": [
+   {
+    "n": "crema de avellanas y chocolate",
+    "note": "o dulce de leche, o caramelo"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chispas de chocolate"
+   }
+  ],
+  "steps": [
+   "Pon montoncitos de 15 g del relleno sobre una bandeja forrada y congélalos sólidos, al menos 3 horas.",
+   "Crema la mantequilla y los azúcares, bate los huevos, e incorpora los secos y el chocolate.",
+   "Refrigera la masa 1 hora para poder trabajarla.",
+   "Toma 80 g de masa, aplánala en la palma, coloca un disco congelado en el centro y ciérralo por completo. Cualquier hueco y el relleno escapa.",
+   "Congela las bolas montadas 30 minutos.",
+   "Hornea desde congelado a 190 °C durante 14-16 minutos. Reposa 15 minutos: el relleno es azúcar fundido y es genuinamente peligroso recién salido."
+  ],
+  "tips": [
+   "Sella bien. Pellizca la costura, rueda hasta alisar y comprueba a contraluz si hay zonas finas.",
+   "Relleno congelado, bola congelada, horno fuerte. Las tres cosas sostienen el invento.",
+   "Una capa de masa más fina significa horneado más corto y más probabilidad de reventón. 80 g es más o menos el mínimo."
+  ],
+  "video": "galletas rellenas centro fundido"
+ },
+ "en": {
+  "name": "Stuffed Cookies",
+  "blurb": "A frozen disc of filling sealed inside a thick ball of dough. Freezing the core is what buys the time for the outside to bake while the center only melts.",
+  "lab": "Frozen core · molten center on demand",
+  "ing": [
+   {
+    "n": "chocolate hazelnut spread",
+    "note": "or dulce de leche, or caramel"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "chocolate chips"
+   }
+  ],
+  "steps": [
+   "Drop 15 g mounds of the filling onto a lined sheet and freeze solid, at least 3 hours.",
+   "Cream the butter and sugars, beat in the eggs, and fold in the dry ingredients and the chocolate.",
+   "Refrigerate the dough 1 hour so it's workable.",
+   "Take 80 g of dough, flatten it in your palm, set a frozen disc in the center and seal it completely. Any gap and the filling escapes.",
+   "Freeze the assembled balls 30 minutes.",
+   "Bake from frozen at 190 °C for 14-16 minutes. Rest 15 minutes: the filling is molten sugar and genuinely dangerous straight out of the oven."
+  ],
+  "tips": [
+   "Seal it well. Pinch the seam, roll until smooth and hold it up to the light to check for thin spots.",
+   "Frozen filling, frozen ball, hot oven. All three hold the whole thing together.",
+   "A thinner layer of dough means a shorter bake and a better chance of a blowout. 80 g is about the minimum."
+  ],
+  "video": "stuffed chocolate chip cookies molten center"
+ }
+}

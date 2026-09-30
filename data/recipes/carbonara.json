@@ -1,0 +1,142 @@
+{
+ "id": "carbonara",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 25,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "guanciale",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "pecorino",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Carbonara",
+  "blurb": "Una emulsión de huevo, no una salsa de nata. Los huevos deben atemperarse y la sartén debe estar fuera del fuego, exactamente igual que en una crema inglesa.",
+  "ing": [
+   {
+    "n": "espagueti"
+   },
+   {
+    "n": "guanciale",
+    "note": "en bastones gruesos"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "pecorino romano",
+    "note": "rallado fino"
+   },
+   {
+    "n": "pimienta negra",
+    "note": "machacada gruesa"
+   },
+   {
+    "n": "sal",
+    "note": "para el agua"
+   }
+  ],
+  "steps": [
+   "Fríe el guanciale desde frío en una sartén seca a fuego medio-bajo hasta que suelte la grasa y la carne esté crujiente. Retira la sartén del fuego.",
+   "Bate las yemas, el huevo entero, el pecorino y muchísima pimienta negra hasta obtener una pasta espesa.",
+   "Cuece la pasta en agua ligeramente salada, con menos agua de lo habitual para que quede más almidonada.",
+   "Atempera los huevos con dos cucharones de agua de la pasta, batiendo sin parar.",
+   "Escurre la pasta y saltéala en la sartén del guanciale, fuera del fuego, y vierte encima la mezcla de huevo.",
+   "Mueve con fuerza y sin parar un minuto, añadiendo agua de la pasta a cucharadas, hasta que brille y cubra cada hebra. Si la sartén está demasiado caliente en cualquier momento, tendrás huevo revuelto."
+  ],
+  "tips": [
+   "Sin nata. La emulsión es huevo, grasa, queso y agua almidonada.",
+   "Fuera del fuego antes de que los huevos se acerquen. En caso de duda, espera treinta segundos más.",
+   "Guanciale, no tocino. La papada curada tiene una grasa distinta que funde más limpio."
+  ],
+  "video": "carbonara emulsión de huevo"
+ },
+ "en": {
+  "name": "Carbonara",
+  "blurb": "An egg emulsion, not a cream sauce. The eggs have to be tempered and the pan has to be off the heat, exactly as with a crème anglaise.",
+  "ing": [
+   {
+    "n": "spaghetti"
+   },
+   {
+    "n": "guanciale",
+    "note": "cut into thick batons"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "Pecorino Romano",
+    "note": "finely grated"
+   },
+   {
+    "n": "black pepper",
+    "note": "coarsely crushed"
+   },
+   {
+    "n": "salt",
+    "note": "for the water"
+   }
+  ],
+  "steps": [
+   "Render the guanciale from a cold start in a dry skillet over medium-low heat until the fat runs and the meat is crisp. Take the pan off the heat.",
+   "Whisk the yolks, the whole egg, the pecorino and a great deal of black pepper into a thick paste.",
+   "Cook the pasta in lightly salted water, using less water than usual so it's starchier.",
+   "Temper the eggs with two ladles of pasta water, whisking constantly.",
+   "Drain the pasta and toss it in the guanciale pan, off the heat, and pour the egg mixture over.",
+   "Toss hard and without stopping for a minute, adding pasta water by the spoonful, until it's glossy and coats every strand. If the pan is too hot at any point, you'll get scrambled eggs."
+  ],
+  "tips": [
+   "No cream. The emulsion is egg, fat, cheese and starchy water.",
+   "Off the heat before the eggs get anywhere near it. When in doubt, wait thirty seconds more.",
+   "Guanciale, not bacon. Cured jowl has a different fat that renders cleaner."
+  ],
+  "video": "carbonara egg emulsion technique"
+ }
+}

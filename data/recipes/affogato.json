@@ -1,0 +1,106 @@
+{
+ "id": "affogato",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 5,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 4,
+   "u": "ball",
+   "k": "cream",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "hazelnut",
+   "role": "crunch"
+  }
+ ],
+ "es": {
+  "name": "Affogato",
+  "blurb": "Dos ingredientes y una sola regla: el helado tiene que estar duro como una piedra y el espresso recién salido. El contraste térmico es el postre entero.",
+  "ing": [
+   {
+    "n": "helado de vainilla",
+    "note": "muy firme, del fondo del congelador"
+   },
+   {
+    "n": "café espresso",
+    "note": "recién hecho, doble"
+   },
+   {
+    "n": "licor de avellana o amaretto",
+    "note": "opcional"
+   },
+   {
+    "n": "avellanas",
+    "note": "tostadas y picadas, opcional"
+   }
+  ],
+  "steps": [
+   "Mete los vasos o copas en el congelador 20 minutos antes.",
+   "Comprueba que el helado esté realmente duro. Si está blando, devuélvelo al congelador media hora.",
+   "Pon dos bolas en cada vaso helado.",
+   "Prepara el espresso en ese preciso momento: tiene que ir del portafiltros a la copa en segundos.",
+   "Viértelo sobre el helado en la mesa, delante de quien se lo va a comer.",
+   "Añade el licor y las avellanas si los usas, y cómelo de inmediato mientras hay capas frías y calientes a la vez."
+  ],
+  "tips": [
+   "Helado durísimo y café ardiendo. Cualquier término medio lo convierte en un batido templado.",
+   "Vasos congelados. Prolongan el contraste treinta segundos más, que es mucho aquí.",
+   "Se vierte en la mesa. No es teatro: es que treinta segundos de espera lo arruinan."
+  ],
+  "video": "affogato al caffè"
+ },
+ "en": {
+  "name": "Affogato",
+  "blurb": "Two ingredients and a single rule: the ice cream has to be rock hard and the espresso freshly pulled. The temperature contrast is the whole dessert.",
+  "ing": [
+   {
+    "n": "vanilla ice cream",
+    "note": "very firm, from the back of the freezer"
+   },
+   {
+    "n": "espresso",
+    "note": "freshly pulled, double"
+   },
+   {
+    "n": "hazelnut liqueur or amaretto",
+    "note": "optional"
+   },
+   {
+    "n": "hazelnuts",
+    "note": "toasted and chopped, optional"
+   }
+  ],
+  "steps": [
+   "Put the glasses or cups in the freezer 20 minutes ahead.",
+   "Check that the ice cream is really hard. If it's soft, put it back in the freezer for half an hour.",
+   "Put two scoops in each frozen glass.",
+   "Make the espresso at that exact moment: it has to go from portafilter to glass in seconds.",
+   "Pour it over the ice cream at the table, in front of whoever is eating it.",
+   "Add the liqueur and hazelnuts if using, and eat immediately, while there are cold and hot layers at the same time."
+  ],
+  "tips": [
+   "Rock-hard ice cream and scalding coffee. Anything in between turns it into a lukewarm milkshake.",
+   "Frozen glasses. They stretch the contrast by another thirty seconds, which is a lot here.",
+   "Pour it at the table. It isn't theater: thirty seconds of waiting ruins it."
+  ],
+  "video": "affogato al caffè"
+ }
+}

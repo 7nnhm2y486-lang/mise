@@ -1,0 +1,186 @@
+{
+ "id": "salsamacha",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 40,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 8,
+   "u": "",
+   "k": "chipotle",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "peanut",
+   "role": "crunch"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "almond",
+   "role": "crunch"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "sesameseed",
+   "role": "crunch"
+  },
+  {
+   "q": 350,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Salsa Macha",
+  "blurb": "Chiles secos y frutos secos fritos en aceite y triturados apenas. Es el pariente mexicano del chili crisp, y como él vive del control de temperatura del aceite.",
+  "ing": [
+   {
+    "n": "chiles morita"
+   },
+   {
+    "n": "chiles guajillo",
+    "note": "sin semillas"
+   },
+   {
+    "n": "chiles de árbol"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cacahuates"
+   },
+   {
+    "n": "almendras"
+   },
+   {
+    "n": "semillas de sésamo"
+   },
+   {
+    "n": "aceite",
+    "note": "neutro o de oliva suave"
+   },
+   {
+    "n": "vinagre de manzana"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Limpia los chiles, quítales el tallo y la mayor parte de las semillas, y córtalos en trozos.",
+   "Calienta el aceite a fuego medio-bajo y fríe primero los ajos enteros hasta que estén dorados. Sácalos.",
+   "Fríe los cacahuates y las almendras 2 minutos y sácalos.",
+   "Baja el fuego y fríe los chiles solo 20-30 segundos, moviéndolos. Se queman en un parpadeo y amargan toda la tanda.",
+   "Retira del fuego, añade el sésamo al aceite caliente y deja templar 10 minutos.",
+   "Tritura todo en pulsos con el vinagre, el azúcar y la sal, dejando bastante textura. Debe quedar rústica, no un puré."
+  ],
+  "tips": [
+   "Veinte segundos para los chiles. Si se oscurecen del todo, tíralos y empieza de nuevo.",
+   "En pulsos, nunca hasta hacer puré. La gracia es que se noten los trozos.",
+   "El aceite debe cubrirla en el frasco. Así aguanta dos meses en el refrigerador."
+  ],
+  "video": "salsa macha mexicana"
+ },
+ "en": {
+  "name": "Salsa Macha",
+  "blurb": "Dried chiles and nuts fried in oil and barely blended. It's the Mexican cousin of chili crisp, and like it, it lives or dies by oil temperature control.",
+  "ing": [
+   {
+    "n": "morita chiles"
+   },
+   {
+    "n": "guajillo chiles",
+    "note": "seeded"
+   },
+   {
+    "n": "chiles de árbol"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "peanuts"
+   },
+   {
+    "n": "almonds"
+   },
+   {
+    "n": "sesame seeds"
+   },
+   {
+    "n": "oil",
+    "note": "neutral or mild olive"
+   },
+   {
+    "n": "apple cider vinegar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Clean the chiles, remove the stems and most of the seeds, and cut them into pieces.",
+   "Heat the oil over medium-low heat and fry the whole garlic cloves first until golden. Remove them.",
+   "Fry the peanuts and almonds for 2 minutes and remove them.",
+   "Lower the heat and fry the chiles for just 20-30 seconds, moving them around. They burn in the blink of an eye and turn the whole batch bitter.",
+   "Take off the heat, add the sesame seeds to the hot oil and let it cool for 10 minutes.",
+   "Pulse everything with the vinegar, sugar and salt, leaving plenty of texture. It should be rustic, not a purée."
+  ],
+  "tips": [
+   "Twenty seconds for the chiles. If they go fully dark, throw them out and start over.",
+   "Pulse, never blend to a purée. The point is to feel the pieces.",
+   "The oil should cover it in the jar. That way it keeps two months in the fridge."
+  ],
+  "video": "mexican salsa macha"
+ }
+}

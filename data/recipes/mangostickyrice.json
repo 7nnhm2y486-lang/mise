@@ -1,0 +1,152 @@
+{
+ "id": "mangostickyrice",
+ "country": "Thailand",
+ "region": "southeast-asia",
+ "course": "sweet",
+ "time": 180,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "coconutcream",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "cornstarch",
+   "role": "thicken"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "crunch"
+  }
+ ],
+ "es": {
+  "name": "Arroz Glutinoso con Mango",
+  "blurb": "Arroz glutinoso remojado y cocido al vapor, nunca hervido, y luego aliñado con crema de coco salada mientras sigue caliente para que la beba.",
+  "ing": [
+   {
+    "n": "arroz glutinoso",
+    "note": "remojado 4 horas mínimo"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "mangos maduros"
+   },
+   {
+    "n": "crema de coco",
+    "note": "para la salsa"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "frijol mungo tostado",
+    "note": "o semillas de sésamo"
+   }
+  ],
+  "steps": [
+   "Remoja el arroz al menos 4 horas, idealmente toda la noche. Cocer al vapor arroz glutinoso sin remojar no funciona.",
+   "Escurre y cuece al vapor sobre un paño 25-30 minutos hasta que esté traslúcido y tierno, girándolo una vez.",
+   "Calienta 300 ml de la leche de coco con el azúcar y la mitad de la sal hasta disolver. No lo hiervas.",
+   "Viértelo sobre el arroz caliente, remueve una vez, tapa y déjalo 20 minutos. Absorberá casi todo.",
+   "Para la salsa, calienta la crema de coco con el resto de la sal y la fécula disuelta hasta que apenas espese.",
+   "Sirve el arroz tibio con el mango en láminas, la salsa salada por encima y el frijol mungo tostado."
+  ],
+  "tips": [
+   "Al vapor, nunca hervido. El arroz glutinoso hervido se convierte en papilla.",
+   "La salsa tiene que estar salada frente al arroz dulce. Ese contraste es el plato entero.",
+   "Sírvelo tibio o a temperatura ambiente. El arroz glutinoso refrigerado se endurece y no se recupera."
+  ],
+  "video": "arroz glutinoso con mango"
+ },
+ "en": {
+  "name": "Mango Sticky Rice",
+  "blurb": "Glutinous rice soaked and steamed, never boiled, then dressed with salted coconut cream while still hot so it drinks it in.",
+  "ing": [
+   {
+    "n": "glutinous rice",
+    "note": "soaked at least 4 hours"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "ripe mangoes"
+   },
+   {
+    "n": "coconut cream",
+    "note": "for the sauce"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "toasted mung beans",
+    "note": "or sesame seeds"
+   }
+  ],
+  "steps": [
+   "Soak the rice at least 4 hours, ideally overnight. Steaming unsoaked sticky rice doesn't work.",
+   "Drain and steam on a cloth for 25-30 minutes until translucent and tender, flipping it once.",
+   "Heat 300 ml of the coconut milk with the sugar and half the salt until dissolved. Don't let it boil.",
+   "Pour it over the hot rice, stir once, cover and leave 20 minutes. It will absorb nearly all of it.",
+   "For the sauce, heat the coconut cream with the rest of the salt and the dissolved cornstarch until just thickened.",
+   "Serve the rice warm with sliced mango, the salty sauce on top and the toasted mung beans."
+  ],
+  "tips": [
+   "Steamed, never boiled. Boiled sticky rice turns to mush.",
+   "The sauce has to be salty against the sweet rice. That contrast is the whole dish.",
+   "Serve it warm or at room temperature. Refrigerated sticky rice hardens and never recovers."
+  ],
+  "video": "Thai mango sticky rice"
+ }
+}

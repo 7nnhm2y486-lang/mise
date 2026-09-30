@@ -1,0 +1,186 @@
+{
+ "id": "friedchicken",
+ "country": "United States",
+ "region": "north-america",
+ "course": "main",
+ "time": 750,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.4,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 700,
+   "u": "ml",
+   "k": "buttermilk",
+   "role": "acid"
+  },
+  {
+   "q": 25,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "dredge"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "cayenne",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Pollo Frito en Suero de Leche",
+  "blurb": "Salmuera larga en suero de leche, rebozado húmedo sobre seco, y aceite a temperatura constante. Las costras rugosas salen de echar un poco de salmuera dentro de la harina.",
+  "ing": [
+   {
+    "n": "pollo",
+    "note": "troceado en 8"
+   },
+   {
+    "n": "suero de leche"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "harina"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "pimentón"
+   },
+   {
+    "n": "ajo en polvo"
+   },
+   {
+    "n": "cayena"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   }
+  ],
+  "steps": [
+   "Pon el pollo en salmuera de suero de leche con la sal y la mitad de las especias de 8 a 24 horas. La sal sazona en profundidad y el ácido ablanda.",
+   "Mezcla la harina, la fécula, el polvo de hornear y el resto de las especias. Añade 3 cucharadas de la salmuera y frótala con los dedos hasta que la harina se llene de grumos pequeños: esos serán los pedazos rugosos.",
+   "Saca cada pieza de la salmuera, deja escurrir un momento y presiónala con fuerza en la harina. Reposa en rejilla 15 minutos para que el rebozado se hidrate y se pegue.",
+   "Calienta el aceite a 175 °C. Fríe la carne oscura 12-14 minutos y la blanca 10-12, en tandas que nunca llenen la olla.",
+   "Vigila la temperatura del aceite. Caerá al entrar el pollo; ajusta el fuego para mantenerla cerca de 165 °C.",
+   "Escurre en rejilla y sala de inmediato. El pollo está listo a 74 °C en el muslo."
+  ],
+  "tips": [
+   "La fécula de maíz en el rebozado es lo que lo mantiene crujiente en vez de apanado.",
+   "Reposar el pollo rebozado evita que la costra se desprenda en el aceite.",
+   "Rejilla, nunca papel de cocina. El papel lo ablanda por debajo en un minuto."
+  ],
+  "video": "pollo frito crujiente suero de leche"
+ },
+ "en": {
+  "name": "Buttermilk Fried Chicken",
+  "blurb": "A long buttermilk brine, wet-over-dry dredging, and oil held at a steady temperature. The craggy crust comes from drizzling a little brine into the flour.",
+  "ing": [
+   {
+    "n": "chicken",
+    "note": "cut into 8 pieces"
+   },
+   {
+    "n": "buttermilk"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "flour"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "paprika"
+   },
+   {
+    "n": "garlic powder"
+   },
+   {
+    "n": "cayenne"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   }
+  ],
+  "steps": [
+   "Brine the chicken in the buttermilk with the salt and half the spices for 8 to 24 hours. The salt seasons deep and the acid tenderizes.",
+   "Mix the flour, cornstarch, baking powder and the rest of the spices. Add 3 tablespoons of the brine and rub it in with your fingers until the flour is full of small clumps: those become the craggy bits.",
+   "Lift each piece out of the brine, let it drip briefly and press it hard into the flour. Rest on a rack for 15 minutes so the coating hydrates and sticks.",
+   "Heat the oil to 175 °C. Fry dark meat 12-14 minutes and white meat 10-12, in batches that never crowd the pot.",
+   "Watch the oil temperature. It will drop when the chicken goes in; adjust the heat to hold it near 165 °C.",
+   "Drain on a rack and salt immediately. The chicken is done at 74 °C in the thigh."
+  ],
+  "tips": [
+   "The cornstarch in the dredge is what keeps it crisp rather than bready.",
+   "Resting the dredged chicken keeps the crust from falling off in the oil.",
+   "A rack, never paper towels. Paper softens the underside in a minute."
+  ],
+  "video": "crispy buttermilk fried chicken"
+ }
+}

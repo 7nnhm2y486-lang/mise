@@ -1,0 +1,212 @@
+{
+ "id": "clamchowder",
+ "country": "United States",
+ "region": "north-america",
+ "course": "soup",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 2,
+   "u": "kg",
+   "k": "clam",
+   "role": "protein"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "bacon",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "stalk",
+   "k": "celery",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "cream",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 25,
+   "u": "g",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 4,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Crema de Almejas de Nueva Inglaterra",
+  "blurb": "El jugo de las almejas es el caldo. La crema entra al final y no hierve nunca, porque lácteo más ácido de almeja más calor da una sopa cortada.",
+  "ing": [
+   {
+    "n": "almejas",
+    "note": "con concha, bien lavadas"
+   },
+   {
+    "n": "tocino",
+    "note": "en dados"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "apio"
+   },
+   {
+    "n": "papas harinosas",
+    "note": "en cubos de 2 cm"
+   },
+   {
+    "n": "crema espesa"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "harina"
+   },
+   {
+    "n": "tomillo"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Abre las almejas al vapor en una olla tapada con un chorro de agua, 5-6 minutos. Descarta las que no se abran.",
+   "Cuela el jugo por un paño para atrapar la arena: es lo más sabroso del plato. Pica la carne.",
+   "Fríe el tocino, luego ablanda la cebolla y el apio en esa grasa 8 minutos.",
+   "Añade la mantequilla y la harina y cocina 2 minutos. Incorpora el jugo de almeja más agua hasta completar 800 ml.",
+   "Añade las papas, el tomillo y el laurel. Cuece 15 minutos hasta que estén blandas y el almidón haya espesado la base.",
+   "Añade la crema, la leche y las almejas. Calienta con suavidad, sin pasar del temblor. Sazona con mucha pimienta y reposa 20 minutos antes de servir."
+  ],
+  "tips": [
+   "Cuela el jugo por un paño. Una crema con arena es imperdonable e irreparable.",
+   "Nunca hierve después de añadir la crema.",
+   "Mejora de verdad tras media hora fuera del fuego, y otra vez al día siguiente."
+  ],
+  "video": "crema de almejas nueva inglaterra"
+ },
+ "en": {
+  "name": "New England Clam Chowder",
+  "blurb": "The clam juice is the stock. The cream goes in last and never boils, because dairy plus clam acidity plus heat makes a curdled soup.",
+  "ing": [
+   {
+    "n": "clams",
+    "note": "in the shell, well scrubbed"
+   },
+   {
+    "n": "bacon",
+    "note": "diced"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "celery"
+   },
+   {
+    "n": "starchy potatoes",
+    "note": "in 2 cm cubes"
+   },
+   {
+    "n": "heavy cream"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "flour"
+   },
+   {
+    "n": "thyme"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Steam the clams open in a covered pot with a splash of water, 5-6 minutes. Discard any that don't open.",
+   "Strain the juice through a cloth to catch the grit: it's the most flavorful thing in the dish. Chop the meat.",
+   "Render the bacon, then soften the onion and celery in that fat for 8 minutes.",
+   "Add the butter and flour and cook 2 minutes. Whisk in the clam juice plus water to make 800 ml.",
+   "Add the potatoes, thyme and bay. Simmer 15 minutes until tender and the starch has thickened the base.",
+   "Add the cream, milk and clams. Warm gently, never past a shiver. Season with plenty of pepper and rest 20 minutes before serving."
+  ],
+  "tips": [
+   "Strain the juice through a cloth. Gritty chowder is unforgivable and unfixable.",
+   "It never boils once the cream is in.",
+   "It genuinely improves after half an hour off the heat, and again the next day."
+  ],
+  "video": "new england clam chowder"
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "id": "sundubu",
+ "country": "Korea",
+ "region": "east-asia",
+ "course": "soup",
+ "time": 35,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tofu",
+   "role": "protein"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "gochugaru",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sesameoil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "dashi",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "clam",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Sundubu Jjigae",
+  "blurb": "Tofu sedoso servido a cucharadas enteras. La base de aceite de chile se hace primero friendo gochugaru en grasa, y eso da el rojo vivo sin la aspereza del chile crudo.",
+  "ing": [
+   {
+    "n": "tofu sedoso",
+    "note": "del que viene en tubo"
+   },
+   {
+    "n": "panza de cerdo",
+    "note": "en dados"
+   },
+   {
+    "n": "gochugaru"
+   },
+   {
+    "n": "aceite de sésamo"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "kimchi",
+    "note": "opcional"
+   },
+   {
+    "n": "caldo de anchoa"
+   },
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "almejas",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Fríe el cerdo en el aceite de sésamo dentro de una olla de barro hasta que suelte la grasa.",
+   "Añade el gochugaru y remueve 30 segundos fuera del fuego directo. El aceite debe volverse rojo brillante sin oscurecerse.",
+   "Añade el ajo, la cebolla y el kimchi y fríe 2 minutos.",
+   "Vierte el caldo y la soja y lleva a hervor.",
+   "Añade el tofu sedoso a cucharadas grandes, sin deshacerlo: si lo remueves desaparece.",
+   "Hierve fuerte 3 minutos, añade las almejas, casca el huevo en la mesa y sirve todavía borboteando."
+  ],
+  "tips": [
+   "Fríe el gochugaru en grasa. Añadido al líquido queda crudo y apagado.",
+   "Añade el tofu a cucharadas enteras. Removerlo convierte todo en una papilla rosada.",
+   "Tiene que llegar hirviendo a la mesa. Eso es el plato."
+  ],
+  "video": "sundubu jjigae tofu suave"
+ },
+ "en": {
+  "name": "Sundubu Jjigae",
+  "blurb": "Silken tofu served in whole spoonfuls. The chile-oil base comes first, by frying gochugaru in fat, and that gives the vivid red without the harshness of raw chile.",
+  "ing": [
+   {
+    "n": "silken tofu",
+    "note": "the kind sold in a tube"
+   },
+   {
+    "n": "pork belly",
+    "note": "diced"
+   },
+   {
+    "n": "gochugaru"
+   },
+   {
+    "n": "sesame oil"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "kimchi",
+    "note": "optional"
+   },
+   {
+    "n": "anchovy broth"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "scallions"
+   },
+   {
+    "n": "clams",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Fry the pork in the sesame oil in an earthenware pot until it renders its fat.",
+   "Add the gochugaru and stir for 30 seconds off direct heat. The oil should turn bright red without darkening.",
+   "Add the garlic, onion and kimchi and fry for 2 minutes.",
+   "Pour in the broth and soy sauce and bring to a boil.",
+   "Add the silken tofu in large spoonfuls without breaking it up: stir it and it disappears.",
+   "Boil hard for 3 minutes, add the clams, crack the egg in at the table and serve still bubbling."
+  ],
+  "tips": [
+   "Fry the gochugaru in fat. Added to the liquid, it stays raw and dull.",
+   "Add the tofu in whole spoonfuls. Stirring turns everything into a pink mush.",
+   "It has to reach the table boiling. That's the dish."
+  ],
+  "video": "sundubu jjigae soft tofu stew"
+ }
+}

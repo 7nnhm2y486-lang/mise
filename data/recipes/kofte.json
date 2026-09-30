@@ -1,0 +1,162 @@
+{
+ "id": "kofte",
+ "country": "Turkey",
+ "region": "middle-east",
+ "course": "main",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 700,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Kofte estilo Adana",
+  "blurb": "Cordero picado a cuchillo con grasa de cola, trabajado hasta que se vuelve pegajoso. Esa pegajosidad es lo que mantiene la carne en la brocheta sobre el fuego vivo.",
+  "ing": [
+   {
+    "n": "paletilla de cordero picada gruesa"
+   },
+   {
+    "n": "grasa de cordero"
+   },
+   {
+    "n": "pimiento rojo",
+    "note": "en dados muy finos"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "pul biber"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cebolla con zumaque",
+    "note": "cebolla en rodajas con zumaque y perejil"
+   }
+  ],
+  "steps": [
+   "Mezcla la carne, la grasa, el pimiento, el ajo, las especias y la sal en un bol ancho.",
+   "Amasa y golpea la mezcla contra el bol durante 5 minutos completos. Debe pasar de desmenuzada a pegajosa y algo brillante: es la miosina desarrollándose, la misma proteína que sostiene una salchicha.",
+   "Refrigera 30 minutos.",
+   "Presiónala sobre brochetas planas y anchas con la mano mojada, marcando crestas a lo largo para que agarre.",
+   "Asa sobre brasas fuertes 4 minutos por lado, girando una vez, hasta que esté tostada por fuera y apenas cocida por dentro.",
+   "Deja reposar 3 minutos y sirve sobre pan plano con la cebolla al zumaque."
+  ],
+  "tips": [
+   "Sin la grasa quedará seca y se caerá de la brocheta. Un 15% de grasa es el mínimo.",
+   "Brochetas planas y anchas, no redondas: las redondas dejan que la carne gire.",
+   "Prueba una cucharadita de la mezcla en una sartén antes de formar todo y ajusta la sal."
+  ],
+  "video": "adana kebab"
+ },
+ "en": {
+  "name": "Adana-Style Kofte",
+  "blurb": "Knife-minced lamb with tail fat, worked until it turns sticky. That stickiness is what holds the meat on the skewer over a live fire.",
+  "ing": [
+   {
+    "n": "coarsely minced lamb shoulder"
+   },
+   {
+    "n": "lamb fat"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "very finely diced"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "pul biber"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "sumac onions",
+    "note": "sliced onion with sumac and parsley"
+   }
+  ],
+  "steps": [
+   "Combine the meat, fat, bell pepper, garlic, spices and salt in a wide bowl.",
+   "Knead and slap the mixture against the bowl for a full 5 minutes. It should go from crumbly to sticky and slightly glossy: that's myosin developing, the same protein that holds a sausage together.",
+   "Refrigerate 30 minutes.",
+   "Press it onto wide, flat skewers with a wet hand, marking ridges along the length so it grips.",
+   "Grill over hot coals 4 minutes per side, turning once, until charred outside and just cooked inside.",
+   "Rest 3 minutes and serve on flatbread with the sumac onions."
+  ],
+  "tips": [
+   "Without the fat it will be dry and fall off the skewer. 15% fat is the minimum.",
+   "Wide, flat skewers, not round ones: round ones let the meat spin.",
+   "Fry a teaspoon of the mixture in a pan before shaping it all, and adjust the salt."
+  ],
+  "video": "Adana kebab"
+ }
+}

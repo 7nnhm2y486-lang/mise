@@ -1,0 +1,154 @@
+{
+ "id": "baccalamantecato",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "starter",
+ "time": 2000,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "polenta",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Baccalà Mantecato",
+  "blurb": "Bacalao y aceite batidos hasta emulsionar en una crema blanca. No lleva papa ni nata: es una emulsión pura de la gelatina del pescado con el aceite.",
+  "ing": [
+   {
+    "n": "bacalao salado",
+    "note": "desalado 48 h"
+   },
+   {
+    "n": "leche entera",
+    "note": "para escalfar"
+   },
+   {
+    "n": "aceite de oliva",
+    "note": "suave"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "pimienta blanca"
+   },
+   {
+    "n": "polenta",
+    "note": "para servir"
+   }
+  ],
+  "steps": [
+   "Desala el bacalao 48 horas en agua fría, cambiándola cada 8 horas. Prueba un trozo antes de seguir.",
+   "Escálfalo en la leche con el ajo y el laurel a fuego muy suave 15 minutos. No debe hervir.",
+   "Escúrrelo guardando la leche, y retira toda la piel y las espinas mientras esté tibio.",
+   "Pon el bacalao en un bol y empieza a batir con varillas o con pala, añadiendo el aceite en hilo muy fino.",
+   "Sigue batiendo 10-15 minutos. Pasará de fibroso a una crema blanca y brillante: eso es la gelatina del pescado emulsionando.",
+   "Afloja con la leche de escalfar si hace falta, añade perejil y pimienta blanca, y sirve sobre pan tostado o polenta."
+  ],
+  "tips": [
+   "Sin papa y sin nata. La cremosidad sale de batir el pescado con aceite, nada más.",
+   "Diez minutos de batido como mínimo. Es un trabajo físico y no hay atajo.",
+   "Aceite en hilo finísimo, como una mayonesa. De golpe no emulsiona."
+  ],
+  "video": "baccalà mantecato veneciano"
+ },
+ "en": {
+  "name": "Baccalà Mantecato",
+  "blurb": "Salt cod and oil beaten into a white, emulsified cream. No potato, no cream: it's a pure emulsion of the fish's gelatin with the oil.",
+  "ing": [
+   {
+    "n": "salt cod",
+    "note": "soaked 48 h"
+   },
+   {
+    "n": "whole milk",
+    "note": "for poaching"
+   },
+   {
+    "n": "olive oil",
+    "note": "mild"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "white pepper"
+   },
+   {
+    "n": "polenta",
+    "note": "for serving"
+   }
+  ],
+  "steps": [
+   "Soak the cod for 48 hours in cold water, changing it every 8 hours. Taste a piece before going on.",
+   "Poach it in the milk with the garlic and bay over very low heat for 15 minutes. It must not boil.",
+   "Drain it, keeping the milk, and remove all the skin and bones while it's still warm.",
+   "Put the cod in a bowl and start beating with a whisk or paddle, adding the oil in a very thin stream.",
+   "Keep beating for 10-15 minutes. It will go from stringy to a glossy white cream: that's the fish gelatin emulsifying.",
+   "Loosen with the poaching milk if needed, add parsley and white pepper, and serve on toast or polenta."
+  ],
+  "tips": [
+   "No potato and no cream. The creaminess comes from beating the fish with oil, nothing else.",
+   "Ten minutes of beating at the very least. It's physical work and there's no shortcut.",
+   "Oil in a very thin stream, like mayonnaise. All at once, it won't emulsify."
+  ],
+  "video": "venetian baccalà mantecato"
+ }
+}

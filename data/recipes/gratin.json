@@ -1,0 +1,149 @@
+{
+ "id": "gratin",
+ "country": "France",
+ "region": "western-europe",
+ "course": "side",
+ "time": 110,
+ "serves": 6,
+ "ovenC": 160,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "cream",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Gratín Dauphinois",
+  "blurb": "Sin queso, sin caldo y sin hervir las papas antes. Papa cruda en láminas finas horneada despacio en crema, cuyo almidón espesa el plato entero mientras se cocina.",
+  "ing": [
+   {
+    "n": "papas harinosas",
+    "note": "en láminas de 2 mm, sin enjuagar"
+   },
+   {
+    "n": "crema espesa"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta blanca"
+   }
+  ],
+  "steps": [
+   "Corta las papas a 2 mm con mandolina y no las enjuagues. El almidón de la superficie es lo que espesa la crema.",
+   "Calienta la crema y la leche con un diente de ajo machacado, sal, nuez moscada y pimienta.",
+   "Añade las láminas de papa a la olla y cocínalas con suavidad 8 minutos, removiendo, hasta que el líquido espese de forma notable.",
+   "Frota una fuente con el otro diente de ajo y engrásala.",
+   "Vuelca todo, nivela y presiona para que la capa superior quede sumergida.",
+   "Hornea a 160 °C durante 60-75 minutos hasta que un cuchillo entre sin resistencia y la superficie esté muy dorada. Reposa 15 minutos."
+  ],
+  "tips": [
+   "Nunca enjuagues las papas. Enjuagarlas arrastra el espesante y obtienes un gratín aguado y cortado.",
+   "Papas harinosas, no cerosas. Las cerosas se mantienen firmes y no sueltan almidón.",
+   "Precocerlas en la crema en el fuego garantiza un gratín cocido de forma pareja."
+  ],
+  "video": "gratín dauphinois"
+ },
+ "en": {
+  "name": "Gratin Dauphinois",
+  "blurb": "No cheese, no stock, and no boiling the potatoes first. Thinly sliced raw potato baked slowly in cream, whose starch thickens the whole dish as it cooks.",
+  "ing": [
+   {
+    "n": "floury potatoes",
+    "note": "sliced 2 mm, unrinsed"
+   },
+   {
+    "n": "heavy cream"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "white pepper"
+   }
+  ],
+  "steps": [
+   "Slice the potatoes 2 mm thick on a mandoline and do not rinse them. The surface starch is what thickens the cream.",
+   "Heat the cream and milk with one crushed garlic clove, the salt, nutmeg and pepper.",
+   "Add the potato slices to the pot and cook gently for 8 minutes, stirring, until the liquid has noticeably thickened.",
+   "Rub a baking dish with the other garlic clove and butter it.",
+   "Tip everything in, level it and press down so the top layer is submerged.",
+   "Bake at 160 °C for 60-75 minutes, until a knife slides in without resistance and the top is deep golden. Rest 15 minutes."
+  ],
+  "tips": [
+   "Never rinse the potatoes. Rinsing washes away the thickener and you get a watery, split gratin.",
+   "Floury potatoes, not waxy. Waxy ones stay firm and don't release starch.",
+   "Precooking them in the cream on the stove guarantees an evenly cooked gratin."
+  ],
+  "video": "gratin dauphinois"
+ }
+}

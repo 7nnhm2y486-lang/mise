@@ -1,0 +1,214 @@
+{
+ "id": "buncha",
+ "country": "Vietnam",
+ "region": "southeast-asia",
+ "course": "main",
+ "time": 75,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "shallot",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "tbsp",
+   "k": "fishsauce",
+   "role": "salt"
+  },
+  {
+   "q": 5,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "plate",
+   "k": "",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Bún Chả",
+  "blurb": "Cerdo a la brasa reposando en una salsa tibia y diluida. El nuoc cham es el plato, y debe estar más flojo de lo que esperas.",
+  "ing": [
+   {
+    "n": "panza de cerdo",
+    "note": "en láminas finas"
+   },
+   {
+    "n": "cerdo picado"
+   },
+   {
+    "n": "chalota"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "salsa de pescado"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "jugo de lima"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "fideos de arroz finos"
+   },
+   {
+    "n": "zanahoria y colinabo",
+    "note": "encurtidos"
+   },
+   {
+    "n": "hierbas",
+    "note": "perilla, menta, lechuga"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "salsa de caramelo",
+    "note": "o azúcar morena oscura"
+   }
+  ],
+  "steps": [
+   "Marina por separado las láminas de panza y el picado con la mitad de la chalota, el ajo, 2 cda de salsa de pescado, 1 cda de azúcar, pimienta y el caramelo. Una hora.",
+   "Forma con el picado hamburguesas planas de un centímetro.",
+   "Para el nuoc cham, disuelve el resto del azúcar en el agua, y luego añade el resto de la salsa de pescado y el jugo de lima. Prueba: debe quedar ligero y bebible, no un concentrado.",
+   "Asa la panza y las hamburguesas sobre carbón hasta que estén bien tostadas y ahumadas.",
+   "Echa el cerdo caliente directamente a un bol de la salsa tibia con los encurtidos.",
+   "Sirve con fideos y una montaña de hierbas, mojando fideos y hojas en el bol."
+  ],
+  "tips": [
+   "Salsa diluida, no concentrada. Te la comes a cucharadas, no la pincelas.",
+   "El cerdo entra caliente para que su grasa y su ahumado se suelten dentro.",
+   "Ambos cortes importan: el picado por la ternura, la panza por la grasa y el humo."
+  ],
+  "video": "bun cha hanoi"
+ },
+ "en": {
+  "name": "Bún Chả",
+  "blurb": "Grilled pork resting in a warm, diluted sauce. The nuoc cham is the dish, and it should be weaker than you expect.",
+  "ing": [
+   {
+    "n": "pork belly",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "ground pork"
+   },
+   {
+    "n": "shallots"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "fish sauce"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "lime juice"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "thin rice noodles"
+   },
+   {
+    "n": "carrot and kohlrabi",
+    "note": "pickled"
+   },
+   {
+    "n": "herbs",
+    "note": "perilla, mint, lettuce"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "caramel sauce",
+    "note": "or dark brown sugar"
+   }
+  ],
+  "steps": [
+   "Marinate the belly slices and the ground pork separately with half the shallots, the garlic, 2 tbsp fish sauce, 1 tbsp sugar, the pepper and the caramel. One hour.",
+   "Shape the ground pork into flat patties 1 centimeter thick.",
+   "For the nuoc cham, dissolve the rest of the sugar in the water, then add the rest of the fish sauce and the lime juice. Taste: it should be light and drinkable, not a concentrate.",
+   "Grill the belly and patties over charcoal until well charred and smoky.",
+   "Drop the hot pork straight into a bowl of the warm sauce with the pickles.",
+   "Serve with noodles and a mountain of herbs, dipping noodles and leaves into the bowl."
+  ],
+  "tips": [
+   "Diluted sauce, not concentrated. You eat it by the spoonful; you don't brush it on.",
+   "The pork goes in hot so its fat and smoke release into the sauce.",
+   "Both cuts matter: the ground pork for tenderness, the belly for fat and smoke."
+  ],
+  "video": "bun cha hanoi recipe"
+ }
+}

@@ -1,0 +1,141 @@
+{
+ "id": "gougere",
+ "country": "France",
+ "region": "western-europe",
+ "course": "starter",
+ "time": 60,
+ "serves": 30,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 1,
+   "u": "batch",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "gruyere",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "mustard",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "glaze"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Gougères",
+  "blurb": "Choux salado con queso batido dentro. Lo mejor que puedes poner en la mano de alguien con una copa, y la masa se congela cruda ya escudillada.",
+  "ing": [
+   {
+    "n": "pasta choux",
+    "note": "hecha sin azúcar"
+   },
+   {
+    "n": "gruyer",
+    "note": "rallado fino"
+   },
+   {
+    "n": "mostaza de Dijon"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "parmesano",
+    "note": "para la superficie"
+   }
+  ],
+  "steps": [
+   "Haz la pasta choux omitiendo el azúcar y añadiendo algo más de sal.",
+   "Bate dentro el gruyer, la mostaza, la pimienta y la nuez moscada con el último huevo.",
+   "Escudilla montoncitos del tamaño de una nuez, bien separados, y alisa los picos con el dedo mojado.",
+   "Pinta con huevo y espolvorea parmesano.",
+   "Hornea a 200 °C durante 15 minutos, luego a 175 °C por 12-15 más, hasta que estén muy dorados y ligeros en la mano.",
+   "Cómelos tibios. También son excelentes abiertos y rellenos de algo frío y ácido."
+  ],
+  "tips": [
+   "Ralla el gruyer fino. El rallado grueso pesa sobre la pasta y le impide subir.",
+   "Escudíllalos en una bandeja, congélalos sólidos y embólsalos. Hornea desde congelado con tres minutos más.",
+   "Tienen que quedar bien oscuros. Los gougères pálidos se desinflan."
+  ],
+  "video": "gougères de queso"
+ },
+ "en": {
+  "name": "Gougères",
+  "blurb": "Savory choux with cheese beaten in. The best thing you can hand someone holding a glass, and the dough freezes raw, already piped.",
+  "ing": [
+   {
+    "n": "choux pastry",
+    "note": "made without sugar"
+   },
+   {
+    "n": "Gruyère",
+    "note": "finely grated"
+   },
+   {
+    "n": "Dijon mustard"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "Parmesan",
+    "note": "for the tops"
+   }
+  ],
+  "steps": [
+   "Make the choux pastry, leaving out the sugar and adding a little more salt.",
+   "Beat in the Gruyère, mustard, pepper and nutmeg along with the last egg.",
+   "Pipe walnut-sized mounds, well spaced, and smooth the peaks with a wet finger.",
+   "Brush with egg and sprinkle with Parmesan.",
+   "Bake at 200 °C for 15 minutes, then at 175 °C for 12-15 more, until deep golden and light in the hand.",
+   "Eat them warm. They are also excellent split and filled with something cold and sharp."
+  ],
+  "tips": [
+   "Grate the Gruyère fine. Coarse shreds weigh the dough down and stop it rising.",
+   "Pipe them onto a tray, freeze solid and bag them. Bake from frozen with three extra minutes.",
+   "They need to be properly dark. Pale gougères collapse."
+  ],
+  "video": "cheese gougères"
+ }
+}

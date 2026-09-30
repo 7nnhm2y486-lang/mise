@@ -1,0 +1,137 @@
+{
+ "id": "choux",
+ "country": "France",
+ "region": "western-europe",
+ "course": "pastry",
+ "time": 70,
+ "serves": 24,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 125,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 125,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 110,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 140,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pasta Choux",
+  "blurb": "Se cuece dos veces: una en la olla y otra en el horno. Secar la pasta al fuego es lo que le permite absorber huevo suficiente para inflarse en una cáscara hueca.",
+  "ing": [
+   {
+    "n": "agua"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "huevos",
+    "note": "batidos, añadidos a ojo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal fina"
+   }
+  ],
+  "steps": [
+   "Lleva el agua, la leche, la mantequilla, el azúcar y la sal a hervor fuerte: la mantequilla debe estar del todo derretida antes de que rompa a hervir o la proporción cambia.",
+   "Echa toda la harina de una vez y bate con fuerza sobre el fuego 2-3 minutos, hasta que forme una bola lisa y deje una película en el fondo de la olla. Estás gelatinizando el almidón y evaporando agua.",
+   "Pásala a una batidora y bate 2 minutos para bajarla a unos 60 °C. La pasta caliente cuaja el huevo.",
+   "Añade el huevo batido poco a poco. Detente cuando la pasta caiga de la espátula en una V lenta y la superficie sostenga una cresta lisa. Puede que no necesites los cuatro huevos.",
+   "Escudilla y alisa cada pico con el dedo mojado: los picos se queman.",
+   "Hornea a 200 °C durante 15 minutos, baja a 175 °C por 15-20 más, luego pincha cada pieza y devuélvela 5 minutos para secar el interior."
+  ],
+  "tips": [
+   "El objetivo es la consistencia, no el número de huevos. La absorción de la harina varía lo suficiente para cambiarla en un huevo entero.",
+   "No abras el horno en los primeros 15 minutos. La estructura es vapor y se desploma.",
+   "Pinchar y secar es lo que evita que se ablanden una hora después."
+  ],
+  "video": "pasta choux técnica"
+ },
+ "en": {
+  "name": "Choux Pastry",
+  "blurb": "It's cooked twice: once in the pot and once in the oven. Drying the paste over the heat is what lets it absorb enough egg to puff into a hollow shell.",
+  "ing": [
+   {
+    "n": "water"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "eggs",
+    "note": "beaten, added by eye"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "fine salt"
+   }
+  ],
+  "steps": [
+   "Bring the water, milk, butter, sugar and salt to a rolling boil: the butter must be fully melted before it boils or the ratio shifts.",
+   "Add all the flour at once and beat hard over the heat for 2-3 minutes, until it forms a smooth ball and leaves a film on the bottom of the pot. You're gelatinizing the starch and driving off water.",
+   "Transfer to a mixer and beat 2 minutes to bring it down to about 60 °C. Hot paste scrambles the egg.",
+   "Add the beaten egg gradually. Stop when the paste falls from the spatula in a slow V and the surface holds a smooth ridge. You may not need all four eggs.",
+   "Pipe, and smooth each peak with a wet finger: peaks burn.",
+   "Bake at 200 °C for 15 minutes, lower to 175 °C for 15-20 more, then pierce each piece and return it for 5 minutes to dry the inside."
+  ],
+  "tips": [
+   "The target is consistency, not a number of eggs. Flour absorption varies enough to change it by a whole egg.",
+   "Don't open the oven in the first 15 minutes. The structure is steam, and it collapses.",
+   "Piercing and drying is what keeps them from going soft an hour later."
+  ],
+  "video": "choux pastry technique"
+ }
+}

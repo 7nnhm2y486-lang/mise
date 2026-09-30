@@ -1,0 +1,212 @@
+{
+ "id": "nihari",
+ "country": "Pakistan",
+ "region": "south-asia",
+ "course": "main",
+ "time": 420,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "ghee",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "",
+   "role": "garnish"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "garnish"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Nihari",
+  "blurb": "Un guiso de jarrete de res de toda la noche espesado con harina tostada. El tuétano derritiéndose en la salsa es lo que le da una textura que no tiene nada más.",
+  "ing": [
+   {
+    "n": "jarrete de res",
+    "note": "con huesos con tuétano"
+   },
+   {
+    "n": "cebolla",
+    "note": "en rodajas"
+   },
+   {
+    "n": "pasta de jengibre y ajo"
+   },
+   {
+    "n": "masala de nihari"
+   },
+   {
+    "n": "chile cachemir"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "ghee"
+   },
+   {
+    "n": "semilla de hinojo"
+   },
+   {
+    "n": "jengibre",
+    "note": "en juliana"
+   },
+   {
+    "n": "chile verde"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "limón"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Fríe las cebollas en ghee hasta que estén muy doradas y retira la mitad para la guarnición.",
+   "Añade la pasta de jengibre y ajo, luego el masala de nihari y el chile. Fríe 3 minutos.",
+   "Añade la carne y los huesos, dóralos, y cubre con 3 litros de agua.",
+   "Cocina al fuego más bajo posible 5-6 horas, o toda la noche en un horno muy suave, hasta que la carne se deshaga y el tuétano se haya disuelto.",
+   "Tuesta la harina en una sartén seca hasta que huela a nuez, bátela con agua fría hasta alisar y viértela en el guiso en hilo fino, removiendo.",
+   "Cocina 20 minutos más hasta que esté brillante y espeso. Sirve con el jengibre en juliana, chile, cilantro y limón por encima."
+  ],
+  "tips": [
+   "Tuesta la harina primero o la salsa sabe a engrudo.",
+   "Hilo fino y removido constante, o tendrás grumos imposibles de quitar.",
+   "El jengibre crudo y el limón de encima son estructurales. Sin ellos es demasiado rico para terminarlo."
+  ],
+  "video": "nihari jarrete de res"
+ },
+ "en": {
+  "name": "Nihari",
+  "blurb": "An overnight beef shank stew thickened with toasted flour. Marrow melting into the sauce gives it a texture nothing else has.",
+  "ing": [
+   {
+    "n": "beef shank",
+    "note": "with marrow bones"
+   },
+   {
+    "n": "onion",
+    "note": "sliced"
+   },
+   {
+    "n": "ginger-garlic paste"
+   },
+   {
+    "n": "nihari masala"
+   },
+   {
+    "n": "Kashmiri chile"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "ghee"
+   },
+   {
+    "n": "fennel seed"
+   },
+   {
+    "n": "ginger",
+    "note": "julienned"
+   },
+   {
+    "n": "green chile"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "lemon"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Fry the onions in ghee until deeply browned and set half aside for garnish.",
+   "Add the ginger-garlic paste, then the nihari masala and the chile. Fry for 3 minutes.",
+   "Add the meat and bones, brown them, and cover with 3 liters of water.",
+   "Cook over the lowest possible heat for 5-6 hours, or overnight in a very low oven, until the meat falls apart and the marrow has melted away.",
+   "Toast the flour in a dry pan until it smells nutty, whisk it with cold water until smooth and pour it into the stew in a thin stream, stirring.",
+   "Cook 20 minutes more until glossy and thick. Serve topped with the julienned ginger, chile, cilantro and lemon."
+  ],
+  "tips": [
+   "Toast the flour first or the sauce tastes like paste.",
+   "A thin stream and constant stirring, or you'll get lumps you can't get rid of.",
+   "The raw ginger and lemon on top are structural. Without them it's too rich to finish."
+  ],
+  "video": "nihari beef shank"
+ }
+}

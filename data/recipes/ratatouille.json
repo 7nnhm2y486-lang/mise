@@ -1,0 +1,184 @@
+{
+ "id": "ratatouille",
+ "country": "France",
+ "region": "western-europe",
+ "course": "side",
+ "time": 80,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 2,
+   "u": "",
+   "k": "eggplant",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "bellpepper",
+   "role": "structure"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Ratatouille",
+  "blurb": "Cada verdura cocida por separado y reunidas al final por poco tiempo. Todas juntas en una olla se convierten en un guiso gris uniforme.",
+  "ing": [
+   {
+    "n": "berenjena",
+    "note": "en cubos, con sal 30 min"
+   },
+   {
+    "n": "calabacín"
+   },
+   {
+    "n": "pimientos rojos y amarillos"
+   },
+   {
+    "n": "jitomates pera"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "tomillo"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "vinagre de vino tinto"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sala la berenjena 30 minutos y sécala. Esto extrae el agua para que se fría en vez de absorber aceite como una esponja.",
+   "Fríe la berenjena en aceite a fuego fuerte hasta dorarla. Reserva. Repite con el calabacín y luego con los pimientos, cada uno por su cuenta.",
+   "Ablanda las cebollas y el ajo en el aceite restante 12 minutos.",
+   "Añade los jitomates y el tomillo y cocina 20 minutos hasta que estén como mermelada.",
+   "Reúne todo y cocina 10 minutos más, ni uno más.",
+   "Fuera del fuego, añade el vinagre y la albahaca desgarrada. Mejor tibio que caliente, y mejor aún al día siguiente."
+  ],
+  "tips": [
+   "Cocinar por separado preserva la textura distinta de cada verdura: ese es todo el sentido.",
+   "Una cucharadita de vinagre al final levanta todo. Hazlo antes de recurrir a más sal.",
+   "Sírvelo a temperatura ambiente; los sabores se apagan cuando está hirviendo."
+  ],
+  "video": "ratatouille técnica"
+ },
+ "en": {
+  "name": "Ratatouille",
+  "blurb": "Each vegetable cooked separately and brought together briefly at the end. All in one pot together, they become a uniform gray stew.",
+  "ing": [
+   {
+    "n": "eggplant",
+    "note": "cubed, salted 30 min"
+   },
+   {
+    "n": "zucchini"
+   },
+   {
+    "n": "red and yellow bell peppers"
+   },
+   {
+    "n": "plum tomatoes"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "thyme"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "red wine vinegar"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Salt the eggplant for 30 minutes and pat it dry. This draws out water so it fries instead of soaking up oil like a sponge.",
+   "Fry the eggplant in oil over high heat until golden. Set aside. Repeat with the zucchini and then the peppers, each on its own.",
+   "Soften the onions and garlic in the remaining oil for 12 minutes.",
+   "Add the tomatoes and thyme and cook for 20 minutes until jammy.",
+   "Combine everything and cook 10 minutes more, not a minute longer.",
+   "Off the heat, add the vinegar and torn basil. Better warm than hot, and better still the next day."
+  ],
+  "tips": [
+   "Cooking separately preserves each vegetable's distinct texture: that's the whole point.",
+   "A teaspoon of vinegar at the end lifts everything. Try it before reaching for more salt.",
+   "Serve it at room temperature; the flavors go dull when it's piping hot."
+  ],
+  "video": "ratatouille technique"
+ }
+}

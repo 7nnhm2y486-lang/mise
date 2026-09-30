@@ -1,0 +1,118 @@
+{
+ "id": "gricia",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 25,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "guanciale",
+   "role": "fat"
+  },
+  {
+   "q": 70,
+   "u": "g",
+   "k": "pecorino",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pasta alla Gricia",
+  "blurb": "La madre de la carbonara y de la amatriciana: guanciale, pecorino, pimienta y nada más. Sin huevo y sin tomate, no queda dónde esconderse.",
+  "ing": [
+   {
+    "n": "rigatoni o mezze maniche"
+   },
+   {
+    "n": "guanciale",
+    "note": "en bastones gruesos"
+   },
+   {
+    "n": "pecorino romano",
+    "note": "rallado muy fino"
+   },
+   {
+    "n": "pimienta negra",
+    "note": "machacada gruesa"
+   },
+   {
+    "n": "sal",
+    "note": "para el agua"
+   }
+  ],
+  "steps": [
+   "Rinde el guanciale desde la sartén fría hasta que esté crujiente. Retíralo y deja la grasa.",
+   "Tuesta la pimienta machacada en esa grasa 30 segundos.",
+   "Añade un cucharón de agua de la pasta y deja que borbotee para formar una emulsión turbia.",
+   "Cuece la pasta en poca agua y poco salada, y pásala a la sartén dos minutos antes.",
+   "Apaga el fuego y espera 30 segundos. Incorpora el pecorino con un chorro más de agua, moviendo con energía hasta que ligue.",
+   "Devuelve el guanciale, mezcla una vez y sirve de inmediato."
+  ],
+  "tips": [
+   "Poca agua en la olla: necesitas que esté muy almidonada para emulsionar sin huevo ni nata.",
+   "Sala el agua con moderación. El guanciale y el pecorino traen casi toda la sal.",
+   "Si la salsa se corta, añade agua caliente y sigue moviendo fuera del fuego."
+  ],
+  "video": "pasta alla gricia"
+ },
+ "en": {
+  "name": "Pasta alla Gricia",
+  "blurb": "The mother of carbonara and amatriciana: guanciale, pecorino, pepper and nothing else. No egg and no tomato, so there is nowhere to hide.",
+  "ing": [
+   {
+    "n": "rigatoni or mezze maniche"
+   },
+   {
+    "n": "guanciale",
+    "note": "in thick batons"
+   },
+   {
+    "n": "Pecorino Romano",
+    "note": "very finely grated"
+   },
+   {
+    "n": "black pepper",
+    "note": "coarsely crushed"
+   },
+   {
+    "n": "salt",
+    "note": "for the water"
+   }
+  ],
+  "steps": [
+   "Render the guanciale from a cold pan until crisp. Lift it out and leave the fat.",
+   "Toast the crushed pepper in that fat for 30 seconds.",
+   "Add a ladle of pasta water and let it bubble into a cloudy emulsion.",
+   "Cook the pasta in a small amount of lightly salted water, and move it to the pan two minutes early.",
+   "Turn off the heat and wait 30 seconds. Stir in the pecorino with another splash of water, moving it hard until it comes together.",
+   "Return the guanciale, toss once and serve immediately."
+  ],
+  "tips": [
+   "Little water in the pot: you need it very starchy to emulsify without egg or cream.",
+   "Salt the water lightly. The guanciale and pecorino bring almost all the salt.",
+   "If the sauce splits, add hot water and keep stirring off the heat."
+  ],
+  "video": "pasta alla gricia"
+ }
+}

@@ -1,0 +1,180 @@
+{
+ "id": "quattroformaggi",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 25,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "cheese",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "mozzarella",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "cheese",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pasta ai Quattro Formaggi",
+  "blurb": "Cuatro quesos elegidos por función, no por capricho: uno que funde, uno que estira, uno azul y uno duro. Cambiar esa lógica es lo que arruina la mayoría de las versiones.",
+  "ing": [
+   {
+    "n": "pasta corta"
+   },
+   {
+    "n": "fontina",
+    "note": "el que funde"
+   },
+   {
+    "n": "mozzarella",
+    "note": "el que estira, bien escurrida"
+   },
+   {
+    "n": "gorgonzola",
+    "note": "el azul, dulce no picante"
+   },
+   {
+    "n": "parmesano",
+    "note": "el duro"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "sal",
+    "note": "para el agua"
+   }
+  ],
+  "steps": [
+   "Corta los quesos en cubos pequeños y déjalos a temperatura ambiente 20 minutos: fríos no funden parejo.",
+   "Calienta la leche con la mantequilla en una sartén ancha, sin que hierva.",
+   "Baja el fuego al mínimo y añade la fontina y el gorgonzola, removiendo hasta que se fundan.",
+   "Cuece la pasta dos minutos menos y pásala a la sartén con un cucharón de agua de cocción.",
+   "Apaga el fuego. Añade la mozzarella y el parmesano y remueve con energía: la mozzarella estira, el parmesano liga.",
+   "Nuez moscada y mucha pimienta. Sírvelo de inmediato: esta salsa no espera."
+  ],
+  "tips": [
+   "Cada queso cumple una función. Cuatro quesos duros dan una salsa granulosa y arenosa.",
+   "Escurre bien la mozzarella o soltará agua y cortará la salsa.",
+   "Fuego mínimo y los dos últimos quesos fuera del fuego."
+  ],
+  "video": "pasta cuatro quesos italiana"
+ },
+ "en": {
+  "name": "Pasta ai Quattro Formaggi",
+  "blurb": "Four cheeses chosen for their job, not on a whim: one that melts, one that stretches, one blue and one hard. Breaking that logic is what ruins most versions.",
+  "ing": [
+   {
+    "n": "short pasta"
+   },
+   {
+    "n": "fontina",
+    "note": "the melter"
+   },
+   {
+    "n": "mozzarella",
+    "note": "the stretcher, well drained"
+   },
+   {
+    "n": "gorgonzola",
+    "note": "the blue, dolce not piccante"
+   },
+   {
+    "n": "Parmesan",
+    "note": "the hard one"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "salt",
+    "note": "for the water"
+   }
+  ],
+  "steps": [
+   "Cut the cheeses into small cubes and leave them at room temperature for 20 minutes: cold, they don't melt evenly.",
+   "Warm the milk with the butter in a wide skillet without letting it boil.",
+   "Turn the heat to its lowest and add the fontina and gorgonzola, stirring until they melt.",
+   "Cook the pasta two minutes short and move it to the skillet with a ladle of cooking water.",
+   "Turn off the heat. Add the mozzarella and Parmesan and stir hard: the mozzarella stretches, the Parmesan binds.",
+   "Nutmeg and plenty of pepper. Serve immediately: this sauce doesn't wait."
+  ],
+  "tips": [
+   "Every cheese has a job. Four hard cheeses make a grainy, sandy sauce.",
+   "Drain the mozzarella well or it will weep water and break the sauce.",
+   "Lowest heat, and the last two cheeses off the heat."
+  ],
+  "video": "pasta quattro formaggi italian four cheese"
+ }
+}

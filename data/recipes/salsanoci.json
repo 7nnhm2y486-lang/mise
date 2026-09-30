@@ -1,0 +1,162 @@
+{
+ "id": "salsanoci",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sauce",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "walnut",
+   "role": "fat"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "bread",
+   "role": "thicken"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 8,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Salsa di Noci",
+  "blurb": "La salsa ligur de nuez para los pansoti. Las nueces se escaldan y se pelan, porque su piel es donde vive todo el amargor.",
+  "ing": [
+   {
+    "n": "nueces",
+    "note": "peladas"
+   },
+   {
+    "n": "miga de pan"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "parmesano"
+   },
+   {
+    "n": "mejorana",
+    "note": "o orégano fresco"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "nuez moscada"
+   }
+  ],
+  "steps": [
+   "Escalda las nueces en agua hirviendo 2 minutos y frótalas en un paño para quitar la piel. Este paso es lo que evita el amargor.",
+   "Remoja la miga de pan en la leche 10 minutos.",
+   "Machaca el ajo con la sal en el mortero.",
+   "Añade las nueces y machaca hasta obtener una pasta, o usa pulsos cortos en procesador.",
+   "Incorpora el pan escurrido, el parmesano, la mejorana y la nuez moscada.",
+   "Añade el aceite y afloja con la leche restante hasta que quede como una crema. Nunca se calienta: se mezcla con la pasta caliente."
+  ],
+  "tips": [
+   "Pela las nueces. Es tedioso y es la diferencia entre dulce y amargo.",
+   "Nunca se cocina. Como el pesto, se templa con el calor de la pasta.",
+   "La mejorana es la hierba tradicional de Liguria, más suave que el orégano."
+  ],
+  "video": "salsa di noci ligur"
+ },
+ "en": {
+  "name": "Salsa di Noci",
+  "blurb": "The Ligurian walnut sauce for pansoti. The walnuts are blanched and skinned, because their skin is where all the bitterness lives.",
+  "ing": [
+   {
+    "n": "walnuts",
+    "note": "shelled"
+   },
+   {
+    "n": "crustless bread"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "Parmesan"
+   },
+   {
+    "n": "marjoram",
+    "note": "or fresh oregano"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "nutmeg"
+   }
+  ],
+  "steps": [
+   "Blanch the walnuts in boiling water for 2 minutes and rub them in a towel to remove the skins. This step is what prevents bitterness.",
+   "Soak the bread in the milk for 10 minutes.",
+   "Pound the garlic with the salt in a mortar.",
+   "Add the walnuts and pound to a paste, or use short pulses in a food processor.",
+   "Stir in the squeezed bread, Parmesan, marjoram and nutmeg.",
+   "Add the oil and loosen with the remaining milk until creamy. It's never heated: it's tossed with the hot pasta."
+  ],
+  "tips": [
+   "Skin the walnuts. It's tedious, and it's the difference between sweet and bitter.",
+   "It's never cooked. Like pesto, it's warmed by the heat of the pasta.",
+   "Marjoram is the traditional Ligurian herb, milder than oregano."
+  ],
+  "video": "ligurian salsa di noci walnut sauce"
+ }
+}

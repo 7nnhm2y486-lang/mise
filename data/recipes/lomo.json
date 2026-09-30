@@ -1,0 +1,218 @@
+{
+ "id": "lomo",
+ "country": "Peru",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Lomo Saltado",
+  "blurb": "Un salteado chino con ingredientes peruanos. El wok tiene que estar ardiendo y las papas fritas se añaden al final para que no se ablanden.",
+  "ing": [
+   {
+    "n": "lomo de res",
+    "note": "en tiras gruesas"
+   },
+   {
+    "n": "papas",
+    "note": "en bastones, fritas"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "en gajos gruesos"
+   },
+   {
+    "n": "jitomate",
+    "note": "en gajos"
+   },
+   {
+    "n": "ají amarillo",
+    "note": "en tiras"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "vinagre de vino tinto"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "arroz blanco",
+    "note": "para servir"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta"
+   }
+  ],
+  "steps": [
+   "Fríe las papas hasta que estén doradas y crujientes. Escúrrelas y mantenlas calientes.",
+   "Seca muy bien la carne y sazónala. Pon el wok a humear.",
+   "Sella la carne en dos tandas, 60 segundos cada una, sin moverla al principio. Retírala.",
+   "Añade la cebolla y el ají y saltea 90 segundos: deben quedar tostados por fuera y crudos por dentro.",
+   "Añade el ajo, luego el jitomate, y devuelve la carne. Vierte la soja y el vinagre por el borde del wok y deja que se evaporen sobre el metal caliente.",
+   "Fuera del fuego incorpora las papas fritas y el cilantro y mezcla dos veces. Sirve de inmediato con arroz."
+  ],
+  "tips": [
+   "Las papas entran al final y se mezclan lo mínimo, o se empapan.",
+   "La cebolla debe quedar crujiente. Si se ablanda, el wok no estaba suficientemente caliente.",
+   "Soja y vinagre por el borde del wok: se caramelan al caer en vez de hervir el salteado."
+  ],
+  "video": "lomo saltado peruano"
+ },
+ "en": {
+  "name": "Lomo Saltado",
+  "blurb": "A Chinese stir-fry made with Peruvian ingredients. The wok has to be blazing, and the fries go in at the end so they don't go soggy.",
+  "ing": [
+   {
+    "n": "beef tenderloin",
+    "note": "in thick strips"
+   },
+   {
+    "n": "potatoes",
+    "note": "cut into batons, fried"
+   },
+   {
+    "n": "red onions",
+    "note": "in thick wedges"
+   },
+   {
+    "n": "tomatoes",
+    "note": "in wedges"
+   },
+   {
+    "n": "ají amarillo",
+    "note": "in strips"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "red wine vinegar"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "white rice",
+    "note": "to serve"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "pepper"
+   }
+  ],
+  "steps": [
+   "Fry the potatoes until golden and crisp. Drain and keep warm.",
+   "Pat the beef very dry and season it. Get the wok smoking.",
+   "Sear the beef in two batches, 60 seconds each, without moving it at first. Remove.",
+   "Add the onion and ají and stir-fry 90 seconds: they should be charred outside and raw inside.",
+   "Add the garlic, then the tomato, and return the beef. Pour the soy sauce and vinegar around the edge of the wok and let them sizzle off on the hot metal.",
+   "Off the heat, fold in the fries and cilantro with two tosses. Serve immediately with rice."
+  ],
+  "tips": [
+   "The fries go in last and get tossed as little as possible, or they turn soggy.",
+   "The onion should stay crunchy. If it goes soft, the wok wasn't hot enough.",
+   "Soy sauce and vinegar around the edge of the wok: they caramelize as they hit instead of boiling the stir-fry."
+  ],
+  "video": "Peruvian lomo saltado"
+ }
+}

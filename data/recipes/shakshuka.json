@@ -1,0 +1,200 @@
+{
+ "id": "shakshuka",
+ "country": "Tunisia",
+ "region": "north-africa",
+ "course": "main",
+ "time": 35,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "feta",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Shakshuka",
+  "blurb": "Toda la dificultad está en los huevos. La salsa primero, cocida hasta que sostenga un hueco; los huevos al final, retirados antes de lo que parece correcto.",
+  "ing": [
+   {
+    "n": "jitomates pera",
+    "note": "de lata, machacados a mano"
+   },
+   {
+    "n": "pimiento rojo",
+    "note": "en tiras"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "harissa"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "queso feta",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Fríe los pimientos y la cebolla en el aceite a fuego medio 12 minutos, hasta que estén realmente tiernos y empiecen a tomar color.",
+   "Añade el ajo, el comino y el pimentón. Fríe 1 minuto hasta que suelten aroma.",
+   "Añade los jitomates y la harissa. Cocina 15 minutos hasta que espese lo suficiente para que una cuchara deje un surco.",
+   "Rectifica de sal y haz seis huecos. Casca un huevo en cada uno.",
+   "Tapa y cocina 5-7 minutos a fuego bajo. Retira la sartén en cuanto las claras cuajen y las yemas sigan temblando: el calor residual las termina.",
+   "Esparce el feta y el perejil. Se come de la sartén, con pan."
+  ],
+  "tips": [
+   "Una salsa aguada no sostiene los huevos: se dispersan y se pasan. Reduce bien primero.",
+   "Casca cada huevo en una taza y deslízalo: sin cáscara y sin yemas rotas.",
+   "Fuera del fuego los huevos siguen cocinándose un minuto más. Quédate corto."
+  ],
+  "video": "shakshuka"
+ },
+ "en": {
+  "name": "Shakshuka",
+  "blurb": "All the difficulty is in the eggs. The sauce first, cooked until it holds a well; the eggs last, pulled sooner than seems right.",
+  "ing": [
+   {
+    "n": "plum tomatoes",
+    "note": "canned, crushed by hand"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "in strips"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "harissa"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "feta cheese",
+    "note": "crumbled"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Fry the peppers and onion in the oil over medium heat for 12 minutes, until truly soft and starting to color.",
+   "Add the garlic, cumin and paprika. Fry 1 minute until fragrant.",
+   "Add the tomatoes and harissa. Cook 15 minutes until thick enough that a spoon leaves a trail.",
+   "Adjust the salt and make six wells. Crack an egg into each.",
+   "Cover and cook 5-7 minutes over low heat. Pull the pan the moment the whites set and the yolks still wobble: carryover heat finishes them.",
+   "Scatter the feta and parsley. Eat it from the pan, with bread."
+  ],
+  "tips": [
+   "A watery sauce won't hold the eggs: they spread and overcook. Reduce it well first.",
+   "Crack each egg into a cup and slide it in: no shell and no broken yolks.",
+   "Off the heat the eggs keep cooking for another minute. Stop short."
+  ],
+  "video": "shakshuka"
+ }
+}

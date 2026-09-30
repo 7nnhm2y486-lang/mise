@@ -1,0 +1,137 @@
+{
+ "id": "shortbread",
+ "country": "Scotland",
+ "region": "western-europe",
+ "course": "cookie",
+ "time": 120,
+ "serves": 16,
+ "ovenC": 160,
+ "ing": [
+  {
+   "q": 240,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 0.75,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "sugar",
+   "role": "crunch"
+  }
+ ],
+ "es": {
+  "name": "Shortbread",
+  "blurb": "Tres ingredientes en proporción 3:2:1 — harina, mantequilla, azúcar. Sustituir parte del trigo por harina de arroz es el truco tradicional para la arenosidad.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "harina de arroz"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "azúcar demerara"
+   }
+  ],
+  "steps": [
+   "Bate la mantequilla, el azúcar, la sal y la vainilla solo hasta alisar. No lo airees.",
+   "Añade las dos harinas y mezcla apenas hasta que se agrupe.",
+   "Presiona en un molde forrado de 20 cm, alisa con fuerza con el dorso de una cuchara y pincha toda la superficie con un tenedor.",
+   "Refrigera 30 minutos. Marca las porciones en crudo: cortarlo después de hornear lo hace añicos.",
+   "Hornea a 160 °C durante 35-40 minutos, hasta que esté dorado pálido en los bordes y aún rubio en el centro.",
+   "Espolvorea demerara en caliente, corta por las marcas y enfría por completo en el molde."
+  ],
+  "tips": [
+   "La harina de arroz es lo que lo hace arenoso y no simplemente quebradizo. La fécula de maíz es una segunda opción aceptable.",
+   "Suave y lento. El shortbread apenas debe tomar color.",
+   "Marca en crudo, corta en tibio, mueve en frío. Cambia el orden y se rompe."
+  ],
+  "video": "shortbread escocés"
+ },
+ "en": {
+  "name": "Shortbread",
+  "blurb": "Three ingredients in a 3:2:1 ratio — flour, butter, sugar. Swapping some of the wheat for rice flour is the traditional trick for sandiness.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "rice flour"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "demerara sugar"
+   }
+  ],
+  "steps": [
+   "Beat the butter, sugar, salt and vanilla just until smooth. Don't aerate it.",
+   "Add both flours and mix just until it clumps.",
+   "Press into a lined 20 cm pan, smooth it firmly with the back of a spoon and prick the whole surface with a fork.",
+   "Chill 30 minutes. Score the portions while raw: cutting it after baking shatters it.",
+   "Bake at 160 °C for 35-40 minutes, until pale gold at the edges and still blond in the center.",
+   "Sprinkle with demerara while hot, cut along the scores and let cool completely in the pan."
+  ],
+  "tips": [
+   "Rice flour is what makes it sandy rather than just crumbly. Cornstarch is an acceptable second choice.",
+   "Low and slow. Shortbread should barely take on color.",
+   "Score raw, cut warm, move cold. Change the order and it breaks."
+  ],
+  "video": "scottish shortbread"
+ }
+}

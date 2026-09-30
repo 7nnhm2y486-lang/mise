@@ -1,0 +1,175 @@
+{
+ "id": "snickerdoodle",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 60,
+ "serves": 24,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 225,
+   "u": "g",
+   "k": "butter",
+   "role": "aerate"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "sugar",
+   "role": "aerate"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 360,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Snickerdoodles",
+  "blurb": "El cremor tártaro no es decorativo. Es un ácido que reacciona con el bicarbonato para dar levado y, más importante, evita que el azúcar cristalice, así que la galleta sigue masticable.",
+  "ing": [
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "cremor tártaro"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "azúcar",
+    "note": "para rebozar"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "extracto de vainilla"
+   }
+  ],
+  "steps": [
+   "Crema la mantequilla y el azúcar 4 minutos hasta que estén ligeros.",
+   "Bate dentro los huevos y la vainilla.",
+   "Incorpora la harina, el cremor tártaro, el bicarbonato y la sal.",
+   "Refrigera 30 minutos para poder bolearlas.",
+   "Forma bolas de 40 g y rebózalas con abundancia en el azúcar con canela.",
+   "Hornea a 180 °C durante 9-10 minutos. Se hincharán y luego se agrietarán y hundirán al enfriar, que es el aspecto buscado."
+  ],
+  "tips": [
+   "El cremor tártaro es el ingrediente que las define. Con polvo de hornear en su lugar tienes una galleta de azúcar corriente.",
+   "Sácalas cuando el centro parezca crudo. El agrietado ocurre durante el enfriado.",
+   "Rebózalas bien. La mitad del azúcar con canela se cae en el horno."
+  ],
+  "video": "snickerdoodles cremor tártaro"
+ },
+ "en": {
+  "name": "Snickerdoodles",
+  "blurb": "Cream of tartar isn't decorative. It's an acid that reacts with the baking soda for lift and, more importantly, keeps the sugar from crystallizing, so the cookie stays chewy.",
+  "ing": [
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "cream of tartar"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "sugar",
+    "note": "for rolling"
+   },
+   {
+    "n": "cinnamon"
+   },
+   {
+    "n": "vanilla extract"
+   }
+  ],
+  "steps": [
+   "Cream the butter and sugar for 4 minutes until light.",
+   "Beat in the eggs and vanilla.",
+   "Mix in the flour, cream of tartar, baking soda and salt.",
+   "Chill 30 minutes so you can roll it into balls.",
+   "Shape into 40 g balls and roll them generously in the cinnamon sugar.",
+   "Bake at 180 °C for 9-10 minutes. They'll puff up and then crack and sink as they cool, which is the look you want."
+  ],
+  "tips": [
+   "Cream of tartar is the defining ingredient. With baking powder instead you have an ordinary sugar cookie.",
+   "Take them out when the center looks raw. The crackling happens as they cool.",
+   "Roll them well. Half the cinnamon sugar falls off in the oven."
+  ],
+  "video": "snickerdoodles cream of tartar"
+ }
+}

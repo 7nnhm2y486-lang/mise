@@ -1,0 +1,175 @@
+{
+ "id": "khachapuri",
+ "country": "Georgia",
+ "region": "eastern-europe",
+ "course": "bread",
+ "time": 240,
+ "serves": 4,
+ "ovenC": 250,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 280,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 7,
+   "u": "g",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 8,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "mozzarella",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "feta",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Jachapuri de Adjara",
+  "blurb": "Un barco de pan relleno de queso salado, con un huevo añadido al final. La mantequilla y la yema se mezclan en la mesa: esa es la salsa.",
+  "ing": [
+   {
+    "n": "harina de fuerza"
+   },
+   {
+    "n": "leche tibia"
+   },
+   {
+    "n": "levadura seca instantánea"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "queso sulguni o mozzarella",
+    "note": "rallado"
+   },
+   {
+    "n": "queso feta",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "mantequilla"
+   }
+  ],
+  "steps": [
+   "Haz una masa suave con la harina, la leche, la levadura, el azúcar, la sal y el aceite. Amasa 8 minutos y deja levar 90 minutos.",
+   "Mezcla los dos quesos. Si el feta está muy salado, enjuágalo antes.",
+   "Divide la masa en cuatro y estira cada trozo en un óvalo.",
+   "Enrolla los dos lados largos hacia dentro y pellizca bien los extremos para formar un barco. Sella con fuerza: si se abre, el queso se escapa.",
+   "Rellena de queso y hornea a 250 °C durante 12-14 minutos, hasta que la corteza esté dorada y el queso burbujee.",
+   "Saca, haz un hueco en el queso, casca un huevo dentro y devuélvelo 2 minutos: la clara debe cuajar apenas. Añade la mantequilla y mézclalo todo en la mesa."
+  ],
+  "tips": [
+   "El huevo entra casi al final. Horneado desde el principio queda duro y pierde la gracia.",
+   "Sella los extremos del barco con verdadera fuerza. Es el punto de fallo habitual.",
+   "Se come con las manos: arranca el borde y úsalo para mojar."
+  ],
+  "video": "khachapuri adjaruli"
+ },
+ "en": {
+  "name": "Adjarian Khachapuri",
+  "blurb": "A boat of bread filled with salty cheese, with an egg added at the end. The butter and yolk get stirred together at the table: that's the sauce.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "warm milk"
+   },
+   {
+    "n": "instant dry yeast"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "sulguni or mozzarella cheese",
+    "note": "grated"
+   },
+   {
+    "n": "feta cheese",
+    "note": "crumbled"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "butter"
+   }
+  ],
+  "steps": [
+   "Make a soft dough with the flour, milk, yeast, sugar, salt and oil. Knead 8 minutes and let rise 90 minutes.",
+   "Mix the two cheeses. If the feta is very salty, rinse it first.",
+   "Divide the dough into four and roll each piece into an oval.",
+   "Roll the two long sides inward and pinch the ends firmly to form a boat. Seal hard: if it opens, the cheese escapes.",
+   "Fill with cheese and bake at 250 °C for 12-14 minutes, until the crust is golden and the cheese is bubbling.",
+   "Take out, make a well in the cheese, crack an egg into it and return it for 2 minutes: the white should barely set. Add the butter and stir it all together at the table."
+  ],
+  "tips": [
+   "The egg goes in almost at the end. Baked from the start, it turns hard and loses the point.",
+   "Seal the ends of the boat with real force. That's the usual point of failure.",
+   "Eat it with your hands: tear off the rim and use it to dip."
+  ],
+  "video": "Adjaruli khachapuri"
+ }
+}

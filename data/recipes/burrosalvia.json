@@ -1,0 +1,114 @@
+{
+ "id": "burrosalvia",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sauce",
+ "time": 10,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 120,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 20,
+   "u": "leaf",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Burro e Salvia",
+  "blurb": "Mantequilla avellana con salvia frita. Diez minutos, dos ingredientes, y es la salsa correcta para cualquier pasta rellena buena.",
+  "ing": [
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "salvia",
+    "note": "frescas"
+   },
+   {
+    "n": "parmesano",
+    "note": "rallado"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Derrite la mantequilla en una sartén ancha a fuego medio.",
+   "Cuando deje de espumar, añade las hojas de salvia enteras y secas.",
+   "Fríelas 1-2 minutos: crepitarán y se volverán translúcidas y crujientes.",
+   "Sigue hasta que los sólidos lácteos del fondo tomen color avellana y huela a nuez. Retira de inmediato.",
+   "Añade dos cucharadas de agua de la pasta y agita la sartén para emulsionar.",
+   "Saltea la pasta rellena dentro con cuidado y termina con parmesano, nuez moscada y pimienta."
+  ],
+  "tips": [
+   "Las hojas de salvia deben estar secas o salpicarán con violencia.",
+   "Retírala del fuego en cuanto huela a avellana: pasa de perfecta a quemada en quince segundos.",
+   "El agua de pasta convierte la mantequilla en salsa. Sin ella se queda en grasa."
+  ],
+  "video": "burro e salvia mantequilla avellana"
+ },
+ "en": {
+  "name": "Burro e Salvia",
+  "blurb": "Brown butter with fried sage. Ten minutes, two ingredients, and it's the right sauce for any good stuffed pasta.",
+  "ing": [
+   {
+    "n": "butter"
+   },
+   {
+    "n": "sage",
+    "note": "fresh leaves"
+   },
+   {
+    "n": "Parmesan",
+    "note": "grated"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Melt the butter in a wide skillet over medium heat.",
+   "Once it stops foaming, add the sage leaves, whole and dry.",
+   "Fry them 1-2 minutes: they'll crackle and turn translucent and crisp.",
+   "Keep going until the milk solids on the bottom turn hazelnut brown and it smells nutty. Pull it off the heat immediately.",
+   "Add two tablespoons of pasta water and swirl the pan to emulsify.",
+   "Gently toss the stuffed pasta in it and finish with Parmesan, nutmeg and pepper."
+  ],
+  "tips": [
+   "The sage leaves must be dry or they'll spit violently.",
+   "Take it off the heat as soon as it smells of hazelnut: it goes from perfect to burnt in fifteen seconds.",
+   "Pasta water turns the butter into a sauce. Without it, it stays grease."
+  ],
+  "video": "burro e salvia brown butter sage sauce"
+ }
+}

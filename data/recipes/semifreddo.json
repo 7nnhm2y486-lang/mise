@@ -1,0 +1,164 @@
+{
+ "id": "semifreddo",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 400,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "eggwhite",
+   "role": "aerate"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "aerate"
+  },
+  {
+   "q": 50,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "cream",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "hazelnut",
+   "role": "crunch"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Semifreddo",
+  "blurb": "Helado sin heladora. El merengue italiano y la nata montada atrapan tanto aire que los cristales de hielo nunca llegan a formarse.",
+  "ing": [
+   {
+    "n": "claras de huevo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "crema espesa",
+    "note": "muy fría"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "avellanas",
+    "note": "tostadas y picadas"
+   },
+   {
+    "n": "chocolate negro",
+    "note": "picado"
+   },
+   {
+    "n": "sal fina"
+   }
+  ],
+  "steps": [
+   "Cocina el azúcar y el agua a 118 °C.",
+   "Monta las claras a picos suaves y vierte el almíbar en hilo por la pared del bol, batiendo hasta que el merengue esté brillante y el bol solo tibio.",
+   "Bate las yemas aparte hasta que palidezcan e incorpóralas al merengue.",
+   "Monta la crema muy fría a picos suaves, no firmes: firme se corta al plegar.",
+   "Incorpora la crema al merengue en tres tandas con movimientos envolventes, y luego las avellanas y el chocolate.",
+   "Vierte en un molde de cake forrado y congela al menos 6 horas. Sácalo 10 minutos antes de cortar."
+  ],
+  "tips": [
+   "Merengue italiano, no francés. El almíbar caliente pasteuriza las claras y da mucha más estabilidad.",
+   "Crema a picos suaves. Montada en exceso se granula al mezclarla.",
+   "Al no llevar heladora depende del aire incorporado: cada pliegue de más lo acerca a un bloque de hielo."
+  ],
+  "video": "semifreddo italiano avellana"
+ },
+ "en": {
+  "name": "Semifreddo",
+  "blurb": "Ice cream without an ice cream maker. Italian meringue and whipped cream trap so much air that ice crystals never get a chance to form.",
+  "ing": [
+   {
+    "n": "egg whites"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "heavy cream",
+    "note": "very cold"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "hazelnuts",
+    "note": "toasted and chopped"
+   },
+   {
+    "n": "dark chocolate",
+    "note": "chopped"
+   },
+   {
+    "n": "fine salt"
+   }
+  ],
+  "steps": [
+   "Cook the sugar and water to 118 °C.",
+   "Whip the whites to soft peaks and pour in the syrup in a thin stream down the side of the bowl, whipping until the meringue is glossy and the bowl just warm.",
+   "Whip the yolks separately until pale and fold them into the meringue.",
+   "Whip the very cold cream to soft peaks, not stiff: stiff cream splits when folded.",
+   "Fold the cream into the meringue in three additions, then the hazelnuts and chocolate.",
+   "Pour into a lined loaf pan and freeze at least 6 hours. Take it out 10 minutes before slicing."
+  ],
+  "tips": [
+   "Italian meringue, not French. The hot syrup pasteurizes the whites and gives far more stability.",
+   "Cream to soft peaks. Overwhipped, it turns grainy when mixed in.",
+   "Without a machine it depends on the air you've folded in: every extra fold brings it closer to a block of ice."
+  ],
+  "video": "italian hazelnut semifreddo"
+ }
+}

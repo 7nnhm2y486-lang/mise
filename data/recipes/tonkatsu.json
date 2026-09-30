@@ -1,0 +1,164 @@
+{
+ "id": "tonkatsu",
+ "country": "Japan",
+ "region": "east-asia",
+ "course": "main",
+ "time": 40,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "panko",
+   "role": "dredge"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "garnish"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Tonkatsu",
+  "blurb": "Panko en vez de pan rallado, y doble fritura a dos temperaturas. El corte en la grasa evita que la chuleta se curve.",
+  "ing": [
+   {
+    "n": "lomo de cerdo",
+    "note": "de 2,5 cm, con su grasa"
+   },
+   {
+    "n": "harina"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "panko"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "col",
+    "note": "en juliana lo más fina posible"
+   },
+   {
+    "n": "salsa tonkatsu"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Corta la banda de grasa y tejido del borde de cada lomo en cuatro o cinco puntos. Por eso se curvan las chuletas en la sartén.",
+   "Aplánalos a un grosor parejo, sazona ambos lados y deja 15 minutos.",
+   "Pasa por harina y sacude bien, luego por huevo, y después presiona firmemente en el panko.",
+   "Fríe a 160 °C durante 4 minutos, girando una vez. Saca a una rejilla y reposa 3 minutos: el calor residual lleva el centro al punto.",
+   "Sube el aceite a 190 °C y fríe 45 segundos más por color y crujiente.",
+   "Reposa 2 minutos en la rejilla y corta con un cuchillo muy afilado. Sirve con una montaña de col cruda y la salsa."
+  ],
+  "tips": [
+   "Dos temperaturas: la primera cocina, la segunda dora. Una sola fritura da pálido o seco.",
+   "Reposo en rejilla, nunca sobre papel: el papel atrapa vapor y ablanda la base.",
+   "Corta la col lo más fina que puedas y déjala 10 minutos en agua con hielo."
+  ],
+  "video": "tonkatsu doble fritura"
+ },
+ "en": {
+  "name": "Tonkatsu",
+  "blurb": "Panko instead of regular breadcrumbs, and a double fry at two temperatures. Scoring the fat keeps the cutlet from curling.",
+  "ing": [
+   {
+    "n": "pork loin chops",
+    "note": "2.5 cm thick, fat on"
+   },
+   {
+    "n": "flour"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "panko"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "cabbage",
+    "note": "shredded as finely as possible"
+   },
+   {
+    "n": "tonkatsu sauce"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Cut through the band of fat and connective tissue along the edge of each chop in four or five places. That band is why chops curl in the pan.",
+   "Pound them to an even thickness, season both sides and leave for 15 minutes.",
+   "Dredge in flour and shake off well, then dip in egg, then press firmly into the panko.",
+   "Fry at 160 °C for 4 minutes, turning once. Lift onto a rack and rest 3 minutes: carryover heat brings the center to temperature.",
+   "Raise the oil to 190 °C and fry 45 seconds more for color and crunch.",
+   "Rest 2 minutes on the rack and slice with a very sharp knife. Serve with a mountain of raw cabbage and the sauce."
+  ],
+  "tips": [
+   "Two temperatures: the first cooks, the second browns. A single fry gives you pale or dry.",
+   "Rest on a rack, never on paper: paper traps steam and softens the bottom.",
+   "Shred the cabbage as thin as you can and leave it in ice water for 10 minutes."
+  ],
+  "video": "tonkatsu double fry"
+ }
+}

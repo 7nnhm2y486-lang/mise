@@ -1,0 +1,198 @@
+{
+ "id": "larb",
+ "country": "Laos",
+ "region": "southeast-asia",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "crunch"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "fishsauce",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "shallot",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "palmsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "plate",
+   "k": "",
+   "role": "garnish"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Larb Gai",
+  "blurb": "Arroz glutinoso tostado y molido: eso da el aroma a nuez y la textura arenosa que define el plato. Sin él es solo pollo picado con lima.",
+  "ing": [
+   {
+    "n": "pollo picado"
+   },
+   {
+    "n": "arroz glutinoso",
+    "note": "crudo, para tostar"
+   },
+   {
+    "n": "jugo de lima"
+   },
+   {
+    "n": "salsa de pescado"
+   },
+   {
+    "n": "chalota",
+    "note": "en rodajas finas"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "menta"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "chile en polvo tostado"
+   },
+   {
+    "n": "azúcar de palma"
+   },
+   {
+    "n": "lechuga y hierbas"
+   },
+   {
+    "n": "caldo o agua"
+   }
+  ],
+  "steps": [
+   "Tuesta el arroz crudo en una sartén seca a fuego medio 8-10 minutos, moviéndolo, hasta que esté dorado y huela a palomitas. Muélelo en un mortero hasta obtener una arena gruesa.",
+   "Cocina el pollo picado en el caldo a fuego medio, deshaciéndolo, hasta que esté apenas hecho. No lo dores: debe quedar pálido y húmedo.",
+   "Retira del fuego y deja templar un par de minutos.",
+   "Mezcla con el jugo de lima, la salsa de pescado, el azúcar y el chile en polvo.",
+   "Incorpora las chalotas, el cebollín y la mitad del arroz molido.",
+   "Añade la menta y el cilantro justo al servir, con el resto del arroz por encima. Se come con lechuga y arroz glutinoso."
+  ],
+  "tips": [
+   "El arroz tostado es el plato. Muélelo el mismo día: pierde el aroma en cuestión de horas.",
+   "No dores el pollo. El larb se cuece pochado, no salteado.",
+   "Añade las hierbas al final o se marchitan con el calor residual."
+  ],
+  "video": "larb gai laosiano"
+ },
+ "en": {
+  "name": "Larb Gai",
+  "blurb": "Toasted, ground sticky rice: that's what gives the nutty aroma and sandy texture that define the dish. Without it, it's just minced chicken with lime.",
+  "ing": [
+   {
+    "n": "ground chicken"
+   },
+   {
+    "n": "glutinous rice",
+    "note": "raw, for toasting"
+   },
+   {
+    "n": "lime juice"
+   },
+   {
+    "n": "fish sauce"
+   },
+   {
+    "n": "shallots",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "scallions"
+   },
+   {
+    "n": "mint"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "toasted chile powder"
+   },
+   {
+    "n": "palm sugar"
+   },
+   {
+    "n": "lettuce and herbs"
+   },
+   {
+    "n": "stock or water"
+   }
+  ],
+  "steps": [
+   "Toast the raw rice in a dry pan over medium heat for 8-10 minutes, shaking it, until golden and smelling like popcorn. Grind it in a mortar to a coarse sand.",
+   "Cook the ground chicken in the stock over medium heat, breaking it up, until just done. Don't brown it: it should stay pale and moist.",
+   "Take off the heat and let it cool a couple of minutes.",
+   "Toss with the lime juice, fish sauce, sugar and chile powder.",
+   "Stir in the shallots, scallions and half the ground rice.",
+   "Add the mint and cilantro just before serving, with the rest of the rice on top. Eat with lettuce and sticky rice."
+  ],
+  "tips": [
+   "The toasted rice is the dish. Grind it the same day: it loses its aroma within hours.",
+   "Don't brown the chicken. Larb is poached, not stir-fried.",
+   "Add the herbs at the end or they wilt in the residual heat."
+  ],
+  "video": "Lao larb gai"
+ }
+}

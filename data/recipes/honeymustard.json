@@ -1,0 +1,158 @@
+{
+ "id": "honeymustard",
+ "country": "United States",
+ "region": "north-america",
+ "course": "sauce",
+ "time": 10,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "mustard",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "mustard",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "tbsp",
+   "k": "honey",
+   "role": "sweet"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "mayo",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Salsa de Miel y Mostaza",
+  "blurb": "Tres mostazas distintas en vez de una. Dijon para el picor, americana para el color y en grano para la textura: esa combinación es lo que la levanta.",
+  "ing": [
+   {
+    "n": "mostaza de Dijon"
+   },
+   {
+    "n": "mostaza amarilla"
+   },
+   {
+    "n": "mostaza en grano"
+   },
+   {
+    "n": "miel"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "vinagre de manzana"
+   },
+   {
+    "n": "pimentón ahumado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Mezcla las tres mostazas en un bol.",
+   "Incorpora la miel poco a poco, probando: la proporción dulce-picante es personal.",
+   "Añade la mayonesa, que aporta cuerpo y evita que quede demasiado punzante.",
+   "Incorpora el vinagre y el pimentón ahumado.",
+   "Sazona y reposa 20 minutos para que la mostaza en grano se hidrate.",
+   "Aguanta tres semanas en el refrigerador."
+  ],
+  "tips": [
+   "Tres mostazas. Con una sola el resultado es plano en comparación.",
+   "La mayonesa no es trampa: redondea la acidez sin apagar el picante.",
+   "Ajusta la miel al final, no al principio: las mostazas varían mucho en intensidad."
+  ],
+  "video": "salsa miel mostaza casera"
+ },
+ "en": {
+  "name": "Honey Mustard Sauce",
+  "blurb": "Three different mustards instead of one. Dijon for heat, yellow for color and whole-grain for texture: that combination is what lifts it.",
+  "ing": [
+   {
+    "n": "Dijon mustard"
+   },
+   {
+    "n": "yellow mustard"
+   },
+   {
+    "n": "whole-grain mustard"
+   },
+   {
+    "n": "honey"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "apple cider vinegar"
+   },
+   {
+    "n": "smoked paprika"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Mix the three mustards in a bowl.",
+   "Stir in the honey a little at a time, tasting: the sweet-to-heat balance is personal.",
+   "Add the mayonnaise, which adds body and keeps it from being too sharp.",
+   "Stir in the vinegar and smoked paprika.",
+   "Season and rest 20 minutes so the whole-grain mustard hydrates.",
+   "It keeps three weeks in the fridge."
+  ],
+  "tips": [
+   "Three mustards. With just one, the result is flat by comparison.",
+   "The mayo isn't cheating: it rounds out the acidity without dulling the heat.",
+   "Adjust the honey at the end, not the start: mustards vary a lot in strength."
+  ],
+  "video": "homemade honey mustard sauce"
+ }
+}

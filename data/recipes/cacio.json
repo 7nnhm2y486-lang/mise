@@ -1,0 +1,104 @@
+{
+ "id": "cacio",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 20,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "pecorino",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Cacio e Pepe",
+  "blurb": "Cuatro ingredientes, y a casi todo el mundo se le corta la primera vez. La solución es control de temperatura: el queso no debe tocar nunca el calor directo.",
+  "ing": [
+   {
+    "n": "tonnarelli o espagueti"
+   },
+   {
+    "n": "pecorino romano",
+    "note": "rallado muy fino, y algo más"
+   },
+   {
+    "n": "pimienta negra en grano",
+    "note": "machacada gruesa"
+   },
+   {
+    "n": "sal",
+    "note": "para el agua"
+   }
+  ],
+  "steps": [
+   "Cuece la pasta en apenas el agua justa para cubrirla: quieres el agua de cocción más almidonada posible. Sálala poco; el pecorino aporta bastante.",
+   "Tuesta la pimienta machacada en una sartén ancha en seco 30 segundos, hasta que suelte aroma, y añade un cucharón de agua de la pasta para que borbotee.",
+   "En un bol, mezcla el pecorino con 3-4 cucharadas de agua de la pasta hasta obtener una pasta espesa y lisa. Deshaz todos los grumos ahora.",
+   "Escurre la pasta 2 minutos antes y termínala en la sartén con la pimienta y un poco más de agua.",
+   "Apaga el fuego. Espera 30 segundos a que la sartén baje del punto de hervor y solo entonces añade la pasta de queso, moviendo con fuerza y añadiendo agua cucharada a cucharada hasta que emulsione.",
+   "Sirve de inmediato en platos calientes."
+  ],
+  "tips": [
+   "El queso añadido a una sartén caliente se agarrota en hebras. Siempre fuera del fuego.",
+   "Menos agua en la olla significa más almidón disuelto, que es lo que emulsiona la salsa.",
+   "Ralla el pecorino con un rallador fino. Un rallado grueso no funde a tiempo."
+  ],
+  "video": "cacio e pepe técnica"
+ },
+ "en": {
+  "name": "Cacio e Pepe",
+  "blurb": "Four ingredients, and almost everyone's breaks the first time. The fix is temperature control: the cheese must never touch direct heat.",
+  "ing": [
+   {
+    "n": "tonnarelli or spaghetti"
+   },
+   {
+    "n": "Pecorino Romano",
+    "note": "very finely grated, plus extra"
+   },
+   {
+    "n": "black peppercorns",
+    "note": "coarsely crushed"
+   },
+   {
+    "n": "salt",
+    "note": "for the water"
+   }
+  ],
+  "steps": [
+   "Cook the pasta in barely enough water to cover it: you want the starchiest cooking water possible. Salt it lightly; the pecorino brings plenty.",
+   "Toast the crushed pepper in a wide dry skillet for 30 seconds, until fragrant, and add a ladle of pasta water so it bubbles.",
+   "In a bowl, mix the pecorino with 3-4 tablespoons of pasta water into a thick, smooth paste. Work out every lump now.",
+   "Drain the pasta 2 minutes early and finish it in the skillet with the pepper and a little more water.",
+   "Turn off the heat. Wait 30 seconds for the pan to drop below a boil and only then add the cheese paste, stirring hard and adding water a spoonful at a time until it emulsifies.",
+   "Serve immediately on warm plates."
+  ],
+  "tips": [
+   "Cheese added to a hot pan seizes into strings. Always off the heat.",
+   "Less water in the pot means more dissolved starch, and that's what emulsifies the sauce.",
+   "Grate the pecorino on a fine grater. A coarse grate won't melt in time."
+  ],
+  "video": "cacio e pepe technique"
+ }
+}

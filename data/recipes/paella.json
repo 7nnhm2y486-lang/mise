@@ -1,0 +1,202 @@
+{
+ "id": "paella",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 90,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Paella Valenciana",
+  "blurb": "Una capa fina de arroz, nunca removida, cocida hasta que la base se caramelice. El socarrat del fondo es la razón de ser del plato.",
+  "ing": [
+   {
+    "n": "arroz bomba"
+   },
+   {
+    "n": "muslos de pollo",
+    "note": "troceados pequeños"
+   },
+   {
+    "n": "conejo",
+    "note": "opcional, tradicional"
+   },
+   {
+    "n": "judías verdes planas"
+   },
+   {
+    "n": "garrofón"
+   },
+   {
+    "n": "tomate",
+    "note": "rallado"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "azafrán"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "caldo de pollo",
+    "note": "caliente"
+   },
+   {
+    "n": "romero"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Dora el pollo y el conejo en aceite en una paellera ancha, trabajando de los bordes hacia el centro. Empújalos a los lados.",
+   "Saltea brevemente las judías, luego añade el tomate rallado y el pimentón. Cocina hasta que el tomate oscurezca y el aceite se tiña de rojo: 5 minutos.",
+   "Vierte el caldo caliente con el azafrán y el romero. Hierve fuerte 10 minutos para construir el caldo. Prueba y sala algo de más: el arroz lo absorberá.",
+   "Esparce el arroz de manera uniforme por toda la paellera. Nivélalo y a partir de aquí no lo remuevas más.",
+   "Hierve 10 minutos, luego baja a fuego suave 8 minutos más, girando la paellera si tu fuego es irregular.",
+   "Cuando el líquido desaparezca, sube el fuego 60-90 segundos hasta que oigas crujidos y huelas a tostado. Reposa 5 minutos bajo un paño."
+  ],
+  "tips": [
+   "Remover hace risotto. La paella se define por no remover.",
+   "La capa de arroz debe medir alrededor de un centímetro: para eso sirve una paellera ancha.",
+   "Escucha el socarrat. Cuando el crujido se vuelve agudo y el olor pasa de tostado a humo, te has pasado un paso."
+  ],
+  "video": "paella valenciana socarrat"
+ },
+ "en": {
+  "name": "Paella Valenciana",
+  "blurb": "A thin layer of rice, never stirred, cooked until the base caramelizes. The socarrat on the bottom is the whole reason for the dish.",
+  "ing": [
+   {
+    "n": "bomba rice"
+   },
+   {
+    "n": "chicken thighs",
+    "note": "cut into small pieces"
+   },
+   {
+    "n": "rabbit",
+    "note": "optional, traditional"
+   },
+   {
+    "n": "flat green beans"
+   },
+   {
+    "n": "garrofó beans"
+   },
+   {
+    "n": "tomato",
+    "note": "grated"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "saffron"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "chicken stock",
+    "note": "hot"
+   },
+   {
+    "n": "rosemary"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Brown the chicken and rabbit in oil in a wide paella pan, working from the edges toward the center. Push them to the sides.",
+   "Briefly sauté the beans, then add the grated tomato and paprika. Cook until the tomato darkens and the oil turns red: 5 minutes.",
+   "Pour in the hot stock with the saffron and rosemary. Boil hard for 10 minutes to build the broth. Taste and salt it slightly too much: the rice will absorb it.",
+   "Scatter the rice evenly across the whole pan. Level it, and from here on don't stir it again.",
+   "Boil for 10 minutes, then lower to a gentle simmer for 8 minutes more, rotating the pan if your burner is uneven.",
+   "When the liquid disappears, turn up the heat for 60-90 seconds until you hear crackling and smell toasting. Rest 5 minutes under a towel."
+  ],
+  "tips": [
+   "Stirring makes risotto. Paella is defined by not stirring.",
+   "The layer of rice should be about a centimeter deep: that's what a wide paella pan is for.",
+   "Listen to the socarrat. When the crackle turns sharp and the smell shifts from toasty to smoky, you've gone one step too far."
+  ],
+  "video": "paella valenciana socarrat"
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "id": "aioli",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "sauce",
+ "time": 20,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Alioli",
+  "blurb": "El auténtico no lleva huevo: es ajo y aceite emulsionados en mortero. Incluyo también el atajo con yema, que es mucho más estable y lo que hace casi todo el mundo.",
+  "ing": [
+   {
+    "n": "ajo",
+    "note": "sin germen"
+   },
+   {
+    "n": "aceite de oliva",
+    "note": "suave, no un picante"
+   },
+   {
+    "n": "yema de huevo",
+    "note": "opcional, para la versión estable"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "sal gruesa"
+   }
+  ],
+  "steps": [
+   "Machaca el ajo con la sal gruesa en un mortero hasta obtener una pasta completamente lisa. Cinco minutos de trabajo.",
+   "Para la versión tradicional: empieza a añadir aceite gota a gota mientras giras la mano del mortero siempre en el mismo sentido. No cambies de dirección ni una vez.",
+   "Cuando haya ligado, sigue con un hilo muy fino hasta terminar el aceite. Toma entre 10 y 15 minutos.",
+   "Para la versión con huevo: añade la yema a la pasta de ajo y bate antes de incorporar el aceite. Emulsiona mucho más rápido y casi no se corta.",
+   "Termina con el limón y rectifica de sal.",
+   "Debe quedar tan espeso que la cuchara se sostenga de pie."
+  ],
+  "tips": [
+   "Siempre en el mismo sentido. En el alioli de mortero esto no es superstición: cambiar de dirección lo rompe.",
+   "Aceite de oliva suave. Uno intenso amarga al emulsionar.",
+   "Si se corta: empieza en otro mortero con un diente machacado y añade la mezcla rota gota a gota."
+  ],
+  "video": "alioli de mortero tradicional"
+ },
+ "en": {
+  "name": "Aioli",
+  "blurb": "The real thing has no egg: it's garlic and oil emulsified in a mortar. I've also included the yolk shortcut, which is far more stable and what almost everyone does.",
+  "ing": [
+   {
+    "n": "garlic",
+    "note": "germ removed"
+   },
+   {
+    "n": "olive oil",
+    "note": "mild, not a peppery one"
+   },
+   {
+    "n": "egg yolk",
+    "note": "optional, for the stable version"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "coarse salt"
+   }
+  ],
+  "steps": [
+   "Pound the garlic with the coarse salt in a mortar until you have a completely smooth paste. Five minutes of work.",
+   "For the traditional version: start adding oil drop by drop while turning the pestle, always in the same direction. Don't change direction even once.",
+   "Once it has come together, continue with a very thin stream until the oil is used up. This takes 10 to 15 minutes.",
+   "For the egg version: add the yolk to the garlic paste and whisk before adding the oil. It emulsifies much faster and almost never breaks.",
+   "Finish with the lemon and adjust the salt.",
+   "It should be thick enough to stand a spoon in."
+  ],
+  "tips": [
+   "Always the same direction. In mortar aioli this isn't superstition: changing direction breaks it.",
+   "Mild olive oil. A strong one turns bitter when emulsified.",
+   "If it breaks: start again in another mortar with one crushed clove and add the broken mixture drop by drop."
+  ],
+  "video": "traditional aioli in a mortar"
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "id": "jollof",
+ "country": "Nigeria",
+ "region": "west-africa",
+ "course": "main",
+ "time": 70,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "tomatopaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "peanutoil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Arroz Jollof",
+  "blurb": "La discusión que no termina nunca. Lo que importa técnicamente es freír la base hasta que el aceite se separe, antes de que el arroz la toque siquiera. Ahí está todo el sabor.",
+  "ing": [
+   {
+    "n": "arroz largo sancochado",
+    "note": "enjuagado hasta que salga clara el agua"
+   },
+   {
+    "n": "pimiento rojo"
+   },
+   {
+    "n": "jitomates pera"
+   },
+   {
+    "n": "chile habanero",
+    "note": "sin semillas si lo quieres menos picante"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "concentrado de tomate"
+   },
+   {
+    "n": "aceite de cacahuate o vegetal"
+   },
+   {
+    "n": "tomillo seco"
+   },
+   {
+    "n": "curry en polvo"
+   },
+   {
+    "n": "hojas de laurel"
+   },
+   {
+    "n": "caldo de pollo o verduras"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Tritura los pimientos, jitomates, el habanero y una cebolla hasta obtener un puré liso.",
+   "Pica la otra cebolla y fríela en el aceite a fuego medio hasta que esté tierna. Añade el concentrado de tomate y fríelo 3 minutos completos, hasta que oscurezca a rojo ladrillo.",
+   "Vierte el puré. Ahora hay que tener paciencia: cocínalo de 20 a 25 minutos, removiendo de vez en cuando, hasta que el volumen se reduzca a la mitad y el aceite se acumule en los bordes. Esto es el plato entero.",
+   "Incorpora el tomillo, el curry, el laurel y la sal. Añade el caldo y lleva a hervor.",
+   "Echa el arroz escurrido y remueve una sola vez. Tapa muy bien con papel aluminio y luego con la tapa, y baja al fuego más bajo.",
+   "Cocina 30 minutos sin destapar. Apaga y deja reposar otros 10 minutos, luego suelta con un tenedor: los granos algo tostados del fondo son el premio, no un error."
+  ],
+  "tips": [
+   "Arroz sancochado, no basmati. Absorbe la salsa sin deshacerse.",
+   "Si la base sabe agria, no se cocinó lo suficiente. El dulzor llega con el tiempo, no con azúcar.",
+   "El aluminio bajo la tapa atrapa el vapor que cuece la capa superior de forma pareja."
+  ],
+  "video": "arroz jollof nigeriano"
+ },
+ "en": {
+  "name": "Jollof Rice",
+  "blurb": "The argument that never ends. What matters technically is frying the base until the oil separates, before the rice ever touches it. That's where all the flavor is.",
+  "ing": [
+   {
+    "n": "long-grain parboiled rice",
+    "note": "rinsed until the water runs clear"
+   },
+   {
+    "n": "red bell peppers"
+   },
+   {
+    "n": "plum tomatoes"
+   },
+   {
+    "n": "Scotch bonnet chile",
+    "note": "seeded if you want it milder"
+   },
+   {
+    "n": "onions"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "peanut or vegetable oil"
+   },
+   {
+    "n": "dried thyme"
+   },
+   {
+    "n": "curry powder"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "chicken or vegetable stock"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Blend the bell peppers, tomatoes, Scotch bonnet and one onion into a smooth purée.",
+   "Chop the other onion and fry it in the oil over medium heat until tender. Add the tomato paste and fry a full 3 minutes, until it darkens to brick red.",
+   "Pour in the purée. Now be patient: cook it 20 to 25 minutes, stirring now and then, until it has reduced by half and the oil pools at the edges. This is the whole dish.",
+   "Stir in the thyme, curry powder, bay leaves and salt. Add the stock and bring to a boil.",
+   "Add the drained rice and stir once. Seal tightly with foil, then the lid, and turn down to the lowest heat.",
+   "Cook 30 minutes without uncovering. Turn off the heat and rest another 10 minutes, then fluff with a fork: the slightly toasted grains on the bottom are the prize, not a mistake."
+  ],
+  "tips": [
+   "Parboiled rice, not basmati. It soaks up the sauce without falling apart.",
+   "If the base tastes sour, it wasn't cooked long enough. The sweetness comes from time, not sugar.",
+   "The foil under the lid traps the steam that cooks the top layer evenly."
+  ],
+  "video": "Nigerian jollof rice"
+ }
+}

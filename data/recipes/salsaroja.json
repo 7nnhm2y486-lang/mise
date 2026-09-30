@@ -1,0 +1,174 @@
+{
+ "id": "salsaroja",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 30,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Salsa Roja Taquera",
+  "blurb": "Chiles y jitomate asados en comal seco, no hervidos. El asado es lo que da el fondo ahumado que separa una salsa de taquería de un puré de tomate picante.",
+  "ing": [
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "chiles de árbol"
+   },
+   {
+    "n": "chiles guajillo"
+   },
+   {
+    "n": "ajo",
+    "note": "con piel"
+   },
+   {
+    "n": "cebolla",
+    "note": "en trozo grueso"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "orégano mexicano"
+   },
+   {
+    "n": "vinagre"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Calienta un comal seco a fuego medio-alto.",
+   "Asa los jitomates, la cebolla y los ajos con piel, girándolos, hasta que estén ennegrecidos a manchas y blandos: unos 12 minutos.",
+   "Tuesta los chiles secos aparte solo 20 segundos por lado y remójalos 15 minutos en agua caliente.",
+   "Pela los ajos y tritura todo con el comino, el orégano, el vinagre y la sal. Deja algo de textura.",
+   "Calienta la cucharada de aceite en una olla y fríe la salsa 4 minutos: esto la asienta y le quita el filo crudo.",
+   "Rectifica de sal. Aguanta una semana en el refrigerador."
+  ],
+  "tips": [
+   "Asar en comal seco, nunca hervir. Es la diferencia entre salsa de taquería y salsa de bote.",
+   "Freír la salsa ya triturada la transforma: no te saltes ese último paso.",
+   "Guarda el agua de remojo de los chiles por si necesitas aflojarla."
+  ],
+  "video": "salsa roja taquera asada"
+ },
+ "en": {
+  "name": "Taqueria Red Salsa",
+  "blurb": "Chiles and tomatoes charred on a dry comal, not boiled. The charring is what gives the smoky depth that separates a taqueria salsa from spicy tomato purée.",
+  "ing": [
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "chiles de árbol"
+   },
+   {
+    "n": "guajillo chiles"
+   },
+   {
+    "n": "garlic",
+    "note": "unpeeled"
+   },
+   {
+    "n": "onion",
+    "note": "in a thick chunk"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "Mexican oregano"
+   },
+   {
+    "n": "vinegar"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Heat a dry comal over medium-high heat.",
+   "Char the tomatoes, onion and unpeeled garlic, turning them, until blackened in spots and soft: about 12 minutes.",
+   "Toast the dried chiles separately for just 20 seconds per side and soak them in hot water for 15 minutes.",
+   "Peel the garlic and blend everything with the cumin, oregano, vinegar and salt. Leave some texture.",
+   "Heat the tablespoon of oil in a pot and fry the salsa for 4 minutes: this sets it and takes off the raw edge.",
+   "Adjust the salt. It keeps a week in the fridge."
+  ],
+  "tips": [
+   "Char on a dry comal, never boil. It's the difference between taqueria salsa and jarred salsa.",
+   "Frying the blended salsa transforms it: don't skip that last step.",
+   "Save the chile soaking water in case you need to loosen it."
+  ],
+  "video": "charred taqueria red salsa"
+ }
+}

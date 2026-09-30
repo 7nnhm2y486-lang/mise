@@ -1,0 +1,144 @@
+{
+ "id": "limone",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 20,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 70,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 15,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pasta al Limón",
+  "blurb": "Una emulsión de mantequilla, queso, limón y agua de pasta. Toda la aromática está en la ralladura; el jugo solo aporta la acidez y entra al final.",
+  "ing": [
+   {
+    "n": "espagueti o linguine"
+   },
+   {
+    "n": "mantequilla",
+    "note": "fría"
+   },
+   {
+    "n": "parmesano",
+    "note": "rallado fino"
+   },
+   {
+    "n": "limones",
+    "note": "ralladura y jugo"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "albahaca",
+    "note": "opcional"
+   },
+   {
+    "n": "sal",
+    "note": "para el agua"
+   }
+  ],
+  "steps": [
+   "Frota la ralladura de limón con el parmesano rallado entre los dedos: los aceites del limón se adhieren al queso y se distribuyen mucho mejor.",
+   "Cuece la pasta en poca agua para que quede bien almidonada.",
+   "Derrite la mantequilla en una sartén con dos cucharones de agua de la pasta y deja que hierva hasta que emulsione y se vuelva turbia.",
+   "Escurre la pasta dos minutos antes y termínala en esa emulsión.",
+   "Apaga el fuego, espera 20 segundos y añade el parmesano con la ralladura, moviendo con fuerza.",
+   "Añade el jugo de limón al final, fuera del fuego, y prueba: debe brillar, no picar."
+  ],
+  "tips": [
+   "Ralladura en el queso, jugo al final. Cocido, el jugo de limón amarga y se apaga.",
+   "El queso siempre fuera del fuego, o se agarrota.",
+   "Solo la parte amarilla del limón. La blanca es amarga."
+  ],
+  "video": "pasta al limone emulsión"
+ },
+ "en": {
+  "name": "Pasta al Limone",
+  "blurb": "An emulsion of butter, cheese, lemon and pasta water. All the aroma is in the zest; the juice only brings acidity, and it goes in last.",
+  "ing": [
+   {
+    "n": "spaghetti or linguine"
+   },
+   {
+    "n": "butter",
+    "note": "cold"
+   },
+   {
+    "n": "Parmesan",
+    "note": "finely grated"
+   },
+   {
+    "n": "lemons",
+    "note": "zest and juice"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "basil",
+    "note": "optional"
+   },
+   {
+    "n": "salt",
+    "note": "for the water"
+   }
+  ],
+  "steps": [
+   "Rub the lemon zest into the grated Parmesan with your fingers: the lemon oils cling to the cheese and distribute much better.",
+   "Cook the pasta in a small amount of water so it gets nice and starchy.",
+   "Melt the butter in a pan with two ladles of pasta water and let it boil until it emulsifies and turns cloudy.",
+   "Drain the pasta two minutes early and finish it in that emulsion.",
+   "Turn off the heat, wait 20 seconds and add the Parmesan and zest, tossing hard.",
+   "Add the lemon juice last, off the heat, and taste: it should sparkle, not sting."
+  ],
+  "tips": [
+   "Zest in the cheese, juice at the end. Cooked, lemon juice turns bitter and goes flat.",
+   "Cheese always off the heat, or it seizes.",
+   "Only the yellow part of the lemon. The white is bitter."
+  ],
+  "video": "pasta al limone emulsion"
+ }
+}

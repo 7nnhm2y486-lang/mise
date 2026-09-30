@@ -1,0 +1,191 @@
+{
+ "id": "smashburger",
+ "country": "United States",
+ "region": "north-america",
+ "course": "main",
+ "time": 25,
+ "serves": 4,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 8,
+   "u": "slice",
+   "k": "cheese",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "mayo",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "mustard",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Hamburguesa Aplastada",
+  "blurb": "Una bola de carne aplastada contra metal ardiendo durante treinta segundos. Toda la gracia está en maximizar la superficie de contacto mientras la carne todavía está cruda.",
+  "ing": [
+   {
+    "n": "res molida",
+    "note": "con 20-25% de grasa, sin compactar"
+   },
+   {
+    "n": "pan de hamburguesa",
+    "note": "brioche"
+   },
+   {
+    "n": "queso americano"
+   },
+   {
+    "n": "cebolla",
+    "note": "en pluma finísima"
+   },
+   {
+    "n": "pepinillos"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "kétchup"
+   },
+   {
+    "n": "mostaza"
+   },
+   {
+    "n": "mantequilla",
+    "note": "para el pan"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Divide la carne en 8 bolas de 75 g sin apretarlas. No las sazones todavía: la sal antes de tiempo compacta las proteínas.",
+   "Tuesta los panes en mantequilla hasta dorarlos y resérvalos.",
+   "Pon una plancha de hierro al máximo durante 5 minutos, hasta que humee.",
+   "Coloca una bola, pon una lámina de papel encima y aplástala con una espátula rígida hasta dejarla de 5 mm. Presiona fuerte durante 10 segundos y retira el papel.",
+   "Sazona ahora. Cocina 45-60 segundos sin tocarla, hasta que los bordes estén encajados y oscuros.",
+   "Voltea, pon el queso de inmediato y cocina 30 segundos más. Monta dos por pan con la salsa, cebolla y pepinillo."
+  ],
+  "tips": [
+   "Aplasta solo una vez y solo en los primeros diez segundos. Después, presionar exprime los jugos y no gana nada.",
+   "Sal después de aplastar. La sal temprana hace que la carne quede densa.",
+   "Los bordes con encaje oscuro son el objetivo: eso es Maillard sobre metal desnudo."
+  ],
+  "video": "smash burger técnica plancha"
+ },
+ "en": {
+  "name": "Smash Burger",
+  "blurb": "A ball of beef smashed against screaming-hot metal for thirty seconds. The whole trick is maximizing contact area while the meat is still raw.",
+  "ing": [
+   {
+    "n": "ground beef",
+    "note": "20-25% fat, loosely packed"
+   },
+   {
+    "n": "burger buns",
+    "note": "brioche"
+   },
+   {
+    "n": "American cheese"
+   },
+   {
+    "n": "onion",
+    "note": "sliced paper-thin"
+   },
+   {
+    "n": "pickles"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "ketchup"
+   },
+   {
+    "n": "mustard"
+   },
+   {
+    "n": "butter",
+    "note": "for the buns"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Divide the beef into 8 loose 75 g balls without packing them. Don't season yet: early salt tightens the proteins.",
+   "Toast the buns in butter until golden and set aside.",
+   "Heat a cast-iron griddle on maximum for 5 minutes, until it smokes.",
+   "Put down a ball, lay a sheet of parchment on top and smash it with a stiff spatula to 5 mm. Press hard for 10 seconds and peel off the paper.",
+   "Season now. Cook 45-60 seconds without touching, until the edges are lacy and dark.",
+   "Flip, add the cheese immediately and cook 30 seconds more. Stack two per bun with the sauce, onion and pickle."
+  ],
+  "tips": [
+   "Smash only once, and only in the first ten seconds. After that, pressing squeezes out juice and gains nothing.",
+   "Salt after smashing. Early salt makes the meat dense.",
+   "Dark, lacy edges are the goal: that's Maillard on bare metal."
+  ],
+  "video": "smash burger griddle technique"
+ }
+}

@@ -1,0 +1,137 @@
+{
+ "id": "cottagecheeseflatbread",
+ "country": "United States",
+ "region": "north-america",
+ "course": "bread",
+ "time": 45,
+ "serves": 2,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "ricottacheese",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sesameseed",
+   "role": "garnish"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Pan Plano de Requesón",
+  "blurb": "Dos ingredientes: requesón y huevo, horneados hasta formar una lámina flexible. Es alto en proteína y genuinamente útil, aunque nadie debería llamarlo pan.",
+  "ing": [
+   {
+    "n": "requesón",
+    "note": "cottage cheese"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "ajo en polvo"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "semillas de sésamo"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Tritura el requesón con los huevos, el ajo en polvo, el orégano y la sal hasta obtener una mezcla completamente lisa. Los grumos no desaparecen en el horno.",
+   "Forra una bandeja con papel de horno y engrásalo ligeramente.",
+   "Extiende la mezcla en una capa fina y pareja, de unos 3 mm, formando un rectángulo.",
+   "Espolvorea sésamo y pimienta.",
+   "Hornea a 180 °C durante 30-35 minutos, hasta que los bordes se despeguen y la superficie esté seca al tacto y ligeramente dorada.",
+   "Deja enfriar 10 minutos sobre el papel antes de despegarlo: en caliente se rompe."
+  ],
+  "tips": [
+   "Tritúralo de verdad, hasta que no quede ni un grumo. Es la diferencia entre una lámina y una tortilla cuajada.",
+   "Capa fina y pareja. Las zonas gruesas quedan húmedas y no se despegan.",
+   "Enfríalo antes de moverlo. Este es el error que arruina la mayoría de los intentos."
+  ],
+  "video": "pan plano requesón dos ingredientes"
+ },
+ "en": {
+  "name": "Cottage Cheese Flatbread",
+  "blurb": "Two ingredients: cottage cheese and egg, baked into a flexible sheet. It's high in protein and genuinely useful, though nobody should call it bread.",
+  "ing": [
+   {
+    "n": "cottage cheese",
+    "note": "not ricotta"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "garlic powder"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "sesame seeds"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Blend the cottage cheese with the eggs, garlic powder, oregano and salt until completely smooth. Lumps don't disappear in the oven.",
+   "Line a baking sheet with parchment and grease it lightly.",
+   "Spread the mixture in a thin, even layer, about 3 mm, in a rectangle.",
+   "Sprinkle with sesame and pepper.",
+   "Bake at 180 °C for 30-35 minutes, until the edges pull away and the surface is dry to the touch and lightly golden.",
+   "Let it cool 10 minutes on the parchment before peeling it off: it tears when hot."
+  ],
+  "tips": [
+   "Really blend it, until not a single lump is left. It's the difference between a sheet and a set omelet.",
+   "Thin, even layer. Thick patches stay wet and won't release.",
+   "Cool it before moving it. This is the mistake that ruins most attempts."
+  ],
+  "video": "two ingredient cottage cheese flatbread"
+ }
+}

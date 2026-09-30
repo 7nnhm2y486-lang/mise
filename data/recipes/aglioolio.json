@@ -1,0 +1,128 @@
+{
+ "id": "aglioolio",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 20,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 25,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Aglio, Olio e Peperoncino",
+  "blurb": "Tres ingredientes y una emulsión. El ajo se dora en frío y despacio, y la salsa se monta batiendo aceite con agua de pasta hasta que deja de estar transparente.",
+  "ing": [
+   {
+    "n": "espagueti"
+   },
+   {
+    "n": "ajo",
+    "note": "laminados finos"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "chile seco"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "sal",
+    "note": "para el agua"
+   }
+  ],
+  "steps": [
+   "Pon el ajo laminado y el aceite en una sartén fría y llévalos a fuego bajo.",
+   "Dora el ajo muy despacio, 6-8 minutos, hasta que esté apenas rubio. Si se oscurece, amarga y hay que empezar de nuevo.",
+   "Añade el chile en los últimos 30 segundos.",
+   "Añade dos cucharones de agua de la pasta y deja que hierva 1 minuto: el líquido pasará de transparente a turbio y lechoso. Eso es la emulsión.",
+   "Escurre la pasta dos minutos antes y termínala en la sartén, moviendo con energía.",
+   "Fuera del fuego, añade el perejil y un chorro de aceite crudo."
+  ],
+  "tips": [
+   "Sartén fría al empezar. Es la única manera de dorar el ajo parejo sin quemarlo.",
+   "Que el agua y el aceite hiervan juntos un minuto. Sin ese paso tienes pasta aceitosa, no salsa.",
+   "Mueve con fuerza al final. La emulsión se hace con agitación, no con reposo."
+  ],
+  "video": "aglio olio peperoncino emulsión"
+ },
+ "en": {
+  "name": "Aglio, Olio e Peperoncino",
+  "blurb": "Three ingredients and an emulsion. The garlic goes into a cold pan and colors slowly, and the sauce comes together by whisking oil with pasta water until it's no longer clear.",
+  "ing": [
+   {
+    "n": "spaghetti"
+   },
+   {
+    "n": "garlic",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "dried chile"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "salt",
+    "note": "for the water"
+   }
+  ],
+  "steps": [
+   "Put the sliced garlic and the oil in a cold pan and bring it up over low heat.",
+   "Color the garlic very slowly, 6-8 minutes, until it's barely golden. If it goes dark it turns bitter and you have to start over.",
+   "Add the chile in the last 30 seconds.",
+   "Add two ladles of pasta water and let it boil for 1 minute: the liquid will go from clear to cloudy and milky. That's the emulsion.",
+   "Drain the pasta two minutes early and finish it in the pan, tossing hard.",
+   "Off the heat, add the parsley and a drizzle of raw oil."
+  ],
+  "tips": [
+   "Cold pan to start. It's the only way to color the garlic evenly without burning it.",
+   "Let the water and oil boil together for a minute. Skip that and you have oily pasta, not sauce.",
+   "Toss hard at the end. The emulsion comes from agitation, not from resting."
+  ],
+  "video": "aglio olio e peperoncino emulsion"
+ }
+}

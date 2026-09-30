@@ -1,0 +1,175 @@
+{
+ "id": "cucumbersalad",
+ "country": "China",
+ "region": "east-asia",
+ "course": "side",
+ "time": 20,
+ "serves": 4,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sesameoil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sesameseed",
+   "role": "garnish"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Ensalada de Pepino Machacado",
+  "blurb": "Se golpea en vez de cortarse. Las superficies irregulares que deja el golpe agarran el aliño mucho mejor que un corte limpio, y las grietas dejan salir el agua.",
+  "ing": [
+   {
+    "n": "pepinos",
+    "note": "persas o libaneses"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "vinagre de arroz"
+   },
+   {
+    "n": "aceite de sésamo"
+   },
+   {
+    "n": "aceite de chile"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "semillas de sésamo"
+   },
+   {
+    "n": "cilantro"
+   }
+  ],
+  "steps": [
+   "Pon los pepinos en una tabla y golpéalos con el lado plano de un cuchillo grande o un rodillo, hasta que se agrieten a lo largo.",
+   "Rómpelos con las manos en trozos irregulares. No los cortes con cuchillo.",
+   "Mézclalos con la sal y déjalos en un colador 15 minutos. Soltarán bastante agua.",
+   "Descarta el líquido y sécalos un poco: si no, el aliño quedará aguado.",
+   "Mezcla el ajo, la soja, el vinagre, el azúcar y los dos aceites.",
+   "Alíñalos justo antes de servir y termina con sésamo y cilantro."
+  ],
+  "tips": [
+   "Golpear, no cortar. Es literalmente la técnica que da nombre al plato.",
+   "Salar y escurrir. Sin eso el aliño se diluye en el agua del pepino en diez minutos.",
+   "Alíñalo al momento. Media hora después ya ha vuelto a soltar agua."
+  ],
+  "video": "ensalada pepino machacado china"
+ },
+ "en": {
+  "name": "Smashed Cucumber Salad",
+  "blurb": "Smashed instead of cut. The jagged surfaces the blow leaves grab the dressing far better than a clean cut, and the cracks let the water out.",
+  "ing": [
+   {
+    "n": "cucumbers",
+    "note": "Persian or Lebanese"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "rice vinegar"
+   },
+   {
+    "n": "sesame oil"
+   },
+   {
+    "n": "chili oil"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "sesame seeds"
+   },
+   {
+    "n": "cilantro"
+   }
+  ],
+  "steps": [
+   "Lay the cucumbers on a board and whack them with the flat of a large knife or a rolling pin until they split lengthwise.",
+   "Break them by hand into irregular pieces. Don't cut them with a knife.",
+   "Toss them with the salt and leave in a colander 15 minutes. They'll release a fair amount of water.",
+   "Discard the liquid and pat them a little dry: otherwise the dressing will be watery.",
+   "Mix the garlic, soy sauce, vinegar, sugar and both oils.",
+   "Dress them just before serving and finish with sesame and cilantro."
+  ],
+  "tips": [
+   "Smash, don't cut. It's literally the technique the dish is named for.",
+   "Salt and drain. Without that the dressing dilutes in the cucumber water within ten minutes.",
+   "Dress it at the last moment. Half an hour later it has already released water again."
+  ],
+  "video": "chinese smashed cucumber salad"
+ }
+}

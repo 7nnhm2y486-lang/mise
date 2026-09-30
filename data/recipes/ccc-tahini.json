@@ -1,0 +1,192 @@
+{
+ "id": "ccc-tahini",
+ "country": "Israel",
+ "region": "middle-east",
+ "course": "cookie",
+ "time": 800,
+ "serves": 18,
+ "ovenC": 180,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "tahini",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 270,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 0.75,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "sesameseed",
+   "role": "crunch"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Galletas de Tahini",
+  "blurb": "El tahini sustituye parte de la mantequilla. Su amargor empuja contra el azúcar y su aceite de sésamo da una miga corta y arenosa, como la del halva.",
+  "lab": "Pasta de sésamo · amarga, salada, cercana al halva",
+  "ing": [
+   {
+    "n": "tahini",
+    "note": "bien removido, fluido"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro"
+   },
+   {
+    "n": "semillas de sésamo",
+    "note": "para rebozar"
+   },
+   {
+    "n": "sal en escamas"
+   }
+  ],
+  "steps": [
+   "Bate la mantequilla, el tahini y los dos azúcares 3 minutos.",
+   "Bate dentro el huevo.",
+   "Incorpora la harina, el bicarbonato y la sal, y después el chocolate.",
+   "Refrigera 12 horas: las masas con tahini quedan flojas y necesitan firmeza.",
+   "Forma bolas de 55 g y presiona un lado sobre las semillas de sésamo.",
+   "Hornea a 180 °C durante 11-12 minutos. Sala en caliente."
+  ],
+  "tips": [
+   "Remueve el tahini hasta el fondo del frasco. El aceite separado de arriba es un tercio de lo que hace funcionar esto.",
+   "Usa un tahini que te comerías a cucharadas. Uno barato y amargo da una galleta barata y amarga.",
+   "Más sal de la habitual. El tahini pide más que la mantequilla."
+  ],
+  "video": "galletas tahini chocolate"
+ },
+ "en": {
+  "name": "Tahini Cookies",
+  "blurb": "Tahini stands in for part of the butter. Its bitterness pushes back against the sugar, and its sesame oil gives a short, sandy crumb, like halva.",
+  "lab": "Sesame paste · bitter, salty, close to halva",
+  "ing": [
+   {
+    "n": "tahini",
+    "note": "well stirred, runny"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate"
+   },
+   {
+    "n": "sesame seeds",
+    "note": "for coating"
+   },
+   {
+    "n": "flaky salt"
+   }
+  ],
+  "steps": [
+   "Beat the butter, tahini and both sugars for 3 minutes.",
+   "Beat in the egg.",
+   "Fold in the flour, baking soda and salt, then the chocolate.",
+   "Refrigerate for 12 hours: tahini doughs are slack and need firming up.",
+   "Shape 55 g balls and press one side into the sesame seeds.",
+   "Bake at 180 °C for 11-12 minutes. Salt while hot."
+  ],
+  "tips": [
+   "Stir the tahini all the way to the bottom of the jar. The oil separated on top is a third of what makes this work.",
+   "Use a tahini you'd eat by the spoonful. A cheap, bitter one makes a cheap, bitter cookie.",
+   "More salt than usual. Tahini asks for more than butter does."
+  ],
+  "video": "tahini chocolate chip cookies"
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "id": "sodabread",
+ "country": "Ireland",
+ "region": "western-europe",
+ "course": "bread",
+ "time": 60,
+ "serves": 8,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 450,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "buttermilk",
+   "role": "liquid"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Pan de Soda Irlandés",
+  "blurb": "Sin levadura y sin amasado. El bicarbonato reacciona con el ácido del suero de leche en cuanto se tocan, así que del bol al horno hay que ir rápido.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "suero de leche"
+   },
+   {
+    "n": "avena",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Calienta el horno a 200 °C antes de mezclar nada.",
+   "Mezcla la harina, el bicarbonato, la sal y la avena en un bol grande.",
+   "Añade el suero de leche de una vez y únelo con un cuchillo o una mano abierta en garra. Diez o quince segundos, no más.",
+   "Vuelca sobre la mesa enharinada y dale forma redonda con dos movimientos. La masa debe quedar pegajosa y desigual.",
+   "Marca una cruz profunda con un cuchillo, atravesando casi hasta el fondo, para que el centro se cocine.",
+   "Hornea 40-45 minutos. Suena hueco al golpear la base. Enfría sobre rejilla."
+  ],
+  "tips": [
+   "La reacción empieza al instante. Cada minuto entre el bol y el horno es levado perdido.",
+   "Nada de amasar. El gluten desarrollado convierte este pan en una piedra.",
+   "Se come el mismo día. Al día siguiente es pan tostado, y muy bueno."
+  ],
+  "video": "pan de soda irlandés"
+ },
+ "en": {
+  "name": "Irish Soda Bread",
+  "blurb": "No yeast and no kneading. The baking soda reacts with the acid in the buttermilk the moment they touch, so you have to move fast from bowl to oven.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "buttermilk"
+   },
+   {
+    "n": "oats",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 200 °C before mixing anything.",
+   "Combine the flour, baking soda, salt and oats in a large bowl.",
+   "Add the buttermilk all at once and bring it together with a knife or an open, claw-shaped hand. Ten or fifteen seconds, no more.",
+   "Turn it out onto a floured counter and shape it into a round in two moves. The dough should be sticky and uneven.",
+   "Cut a deep cross with a knife, almost all the way to the bottom, so the center cooks through.",
+   "Bake 40-45 minutes. It sounds hollow when tapped on the bottom. Cool on a rack."
+  ],
+  "tips": [
+   "The reaction starts instantly. Every minute between bowl and oven is lost rise.",
+   "No kneading. Developed gluten turns this bread into a rock.",
+   "Eat it the same day. The next day it's toast, and very good toast."
+  ],
+  "video": "irish soda bread"
+ }
+}

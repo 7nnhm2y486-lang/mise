@@ -1,0 +1,171 @@
+{
+ "id": "pastelnata",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "pastry",
+ "time": 180,
+ "serves": 12,
+ "ovenC": 250,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "puffpastry",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "cream",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 35,
+   "u": "g",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "strip",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Pastéis de Nata",
+  "blurb": "Una crema cocida hasta espesar antes de tocar la masa, y luego un golpe en el horno más fuerte que tengas hasta que la superficie se ampolle y se ennegrezca.",
+  "ing": [
+   {
+    "n": "hojaldre"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "crema espesa"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "cáscara de limón"
+   },
+   {
+    "n": "vainilla"
+   }
+  ],
+  "steps": [
+   "Hierve el azúcar y el agua a 100 °C con la canela y la cáscara de limón, y déjalo infusionar.",
+   "Bate la harina con un poco de la leche fría, añade el resto de la leche y la crema y cocina batiendo hasta espesar.",
+   "Cuela el almíbar caliente sobre la mezcla caliente de leche en hilo, batiendo. Deja templar.",
+   "Incorpora las yemas y cuela toda la crema.",
+   "Enrolla el hojaldre en un cilindro apretado, corta discos de 2 cm y presiona cada uno dentro de un molde de muffin con los pulgares mojados, subiendo la masa por las paredes más fina que en la base.",
+   "Rellena tres cuartos y hornea al máximo que alcance tu horno, idealmente 250-280 °C, durante 12-15 minutos, hasta que la superficie esté ampollada y negra a manchas. Esas quemaduras son el sabor."
+  ],
+  "tips": [
+   "La crema debe estar cocida antes de entrar. No hay tiempo en el horno para cuajarla desde crudo.",
+   "Más caliente de lo que parece sensato. Un horno doméstico a 250 °C es el mínimo, y una piedra debajo ayuda.",
+   "Presiona la masa fina en las paredes. Una pared gruesa queda cruda mientras la crema se quema."
+  ],
+  "video": "pastéis de nata"
+ },
+ "en": {
+  "name": "Pastéis de Nata",
+  "blurb": "A custard cooked until thick before it ever touches the pastry, then a blast in the hottest oven you have until the top blisters and blackens.",
+  "ing": [
+   {
+    "n": "puff pastry"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "heavy cream"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "lemon peel"
+   },
+   {
+    "n": "vanilla"
+   }
+  ],
+  "steps": [
+   "Boil the sugar and water to 100 °C with the cinnamon and lemon peel, and leave it to infuse.",
+   "Whisk the flour with a little of the cold milk, add the rest of the milk and the cream and cook, whisking, until thick.",
+   "Strain the hot syrup into the hot milk mixture in a thin stream, whisking. Let it cool to warm.",
+   "Stir in the yolks and strain the whole custard.",
+   "Roll the puff pastry into a tight log, cut 2 cm discs and press each into a muffin cup with wet thumbs, working the dough up the sides thinner than at the base.",
+   "Fill three-quarters full and bake at the highest your oven goes, ideally 250-280 °C, for 12-15 minutes, until the top is blistered and blackened in spots. Those burns are the flavor."
+  ],
+  "tips": [
+   "The custard must be cooked before it goes in. There's no time in the oven to set it from raw.",
+   "Hotter than seems sensible. A home oven at 250 °C is the minimum, and a stone underneath helps.",
+   "Press the pastry thin up the sides. A thick wall stays raw while the custard burns."
+  ],
+  "video": "pasteis de nata"
+ }
+}

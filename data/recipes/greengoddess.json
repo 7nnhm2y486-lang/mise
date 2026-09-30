@@ -1,0 +1,213 @@
+{
+ "id": "greengoddess",
+ "country": "United States",
+ "region": "north-america",
+ "course": "side",
+ "time": 20,
+ "serves": 4,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "cashew",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "umami"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Ensalada Diosa Verde",
+  "blurb": "Repollo y pepino picados finísimos bajo una salsa de hierbas a base de frutos secos. Es esencialmente una ensalada de col con un aliño que lleva más hierba que grasa.",
+  "ing": [
+   {
+    "n": "repollo",
+    "note": "picado muy fino"
+   },
+   {
+    "n": "pepino",
+    "note": "en dados pequeños"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "espinaca"
+   },
+   {
+    "n": "anacardos",
+    "note": "remojados 2 h"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "levadura nutricional"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja los anacardos en agua caliente 2 horas, o 15 minutos en agua hirviendo si tienes prisa.",
+   "Tritura los anacardos escurridos con las hierbas, la espinaca, el ajo, el limón, la levadura nutricional, el aceite, el agua y la sal hasta obtener una salsa verde intensa y fluida.",
+   "Pica el repollo lo más fino que puedas, casi transparente. El grosor del picado es lo que decide si funciona.",
+   "Corta el pepino en dados pequeños y el cebollín en rodajas finas.",
+   "Mezcla todo con la salsa hasta que quede bien cubierto. Debe verse abundante, casi excesiva.",
+   "Reposa 15 minutos antes de servir para que el repollo se ablande ligeramente."
+  ],
+  "tips": [
+   "El picado fino es la receta. Un repollo en tiras gruesas da otra ensalada, peor.",
+   "Los anacardos remojados dan cremosidad sin lácteos ni mayonesa.",
+   "Aguanta dos días en el refrigerador y de hecho mejora al segundo."
+  ],
+  "video": "ensalada green goddess repollo"
+ },
+ "en": {
+  "name": "Green Goddess Salad",
+  "blurb": "Very finely chopped cabbage and cucumber under a nut-based herb dressing. It is essentially a slaw with a dressing that is more herb than fat.",
+  "ing": [
+   {
+    "n": "cabbage",
+    "note": "very finely chopped"
+   },
+   {
+    "n": "cucumbers",
+    "note": "in small dice"
+   },
+   {
+    "n": "scallions"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "spinach"
+   },
+   {
+    "n": "cashews",
+    "note": "soaked 2 h"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "nutritional yeast"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the cashews in hot water for 2 hours, or 15 minutes in boiling water if you are in a hurry.",
+   "Blend the drained cashews with the herbs, spinach, garlic, lemon, nutritional yeast, oil, water and salt into a vivid, pourable green dressing.",
+   "Chop the cabbage as fine as you can, almost translucent. How fine you chop it decides whether this works.",
+   "Cut the cucumber into small dice and slice the scallions thin.",
+   "Toss everything with the dressing until well coated. It should look generous, almost too much.",
+   "Rest 15 minutes before serving so the cabbage softens slightly."
+  ],
+  "tips": [
+   "The fine chop is the recipe. Cabbage in thick shreds makes a different, worse salad.",
+   "Soaked cashews give creaminess without dairy or mayonnaise.",
+   "It keeps two days in the fridge and actually improves on the second."
+  ],
+  "video": "green goddess salad cabbage"
+ }
+}

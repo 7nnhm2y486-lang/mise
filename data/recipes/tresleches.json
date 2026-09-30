@@ -1,0 +1,187 @@
+{
+ "id": "tresleches",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 300,
+ "serves": 12,
+ "ovenC": 175,
+ "ing": [
+  {
+   "q": 5,
+   "u": "",
+   "k": "egg",
+   "role": "aerate"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "aerate"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 350,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "cream",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "cream",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Pastel de Tres Leches",
+  "blurb": "Un bizcocho sin grasa existe precisamente para ser esponja: su miga abierta y seca es lo que le permite absorber tres veces su peso en leche sin colapsar.",
+  "ing": [
+   {
+    "n": "huevos",
+    "note": "separados"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "crema espesa"
+   },
+   {
+    "n": "crema espesa",
+    "note": "para cubrir"
+   },
+   {
+    "n": "canela"
+   }
+  ],
+  "steps": [
+   "Monta las claras a picos suaves, luego añade en lluvia la mitad del azúcar y monta a picos firmes y brillantes.",
+   "Bate las yemas con el resto del azúcar hasta que palidezcan, y añade la leche y la vainilla.",
+   "Incorpora la mezcla de yemas a las claras, y luego la harina tamizada con el polvo de hornear en tres adiciones.",
+   "Hornea en un molde forrado de 23x33 cm a 175 °C durante 25-30 minutos. Enfría por completo en el molde.",
+   "Pincha toda la superficie con una brocheta — en serio, cincuenta o sesenta veces. Bate las tres leches y viértelas despacio en tres tandas, dejando que cada una se absorba.",
+   "Tapa y refrigera al menos 4 horas, idealmente toda la noche. Cubre con crema montada y canela."
+  ],
+  "tips": [
+   "Sin mantequilla en el bizcocho. La grasa impermeabiliza la miga y la leche se queda en un charco encima.",
+   "Vierte por etapas. Todo de golpe se desborda por los lados sin empapar.",
+   "De un día para otro es de verdad mejor. Cuatro horas es el mínimo que funciona."
+  ],
+  "video": "pastel tres leches"
+ },
+ "en": {
+  "name": "Tres Leches Cake",
+  "blurb": "A fat-free sponge exists precisely to be a sponge: its open, dry crumb is what lets it absorb three times its weight in milk without collapsing.",
+  "ing": [
+   {
+    "n": "eggs",
+    "note": "separated"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "sweetened condensed milk"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "heavy cream"
+   },
+   {
+    "n": "heavy cream",
+    "note": "for topping"
+   },
+   {
+    "n": "cinnamon"
+   }
+  ],
+  "steps": [
+   "Whip the whites to soft peaks, then rain in half the sugar and whip to firm, glossy peaks.",
+   "Beat the yolks with the rest of the sugar until pale, and add the milk and vanilla.",
+   "Fold the yolk mixture into the whites, then the flour sifted with the baking powder in three additions.",
+   "Bake in a lined 23x33 cm pan at 175 °C for 25-30 minutes. Cool completely in the pan.",
+   "Poke the whole surface with a skewer — seriously, fifty or sixty times. Whisk the three milks together and pour them in slowly in three rounds, letting each one soak in.",
+   "Cover and refrigerate at least 4 hours, ideally overnight. Top with whipped cream and cinnamon."
+  ],
+  "tips": [
+   "No butter in the sponge. Fat waterproofs the crumb and the milk just pools on top.",
+   "Pour in stages. All at once, it runs over the sides without soaking in.",
+   "Overnight really is better. Four hours is the minimum that works."
+  ],
+  "video": "tres leches cake"
+ }
+}

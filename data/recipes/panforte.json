@@ -1,0 +1,217 @@
+{
+ "id": "panforte",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 120,
+ "serves": 16,
+ "ovenC": 150,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "almond",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "hazelnut",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "honey",
+   "role": "sweet"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "leaf",
+   "k": "apflour",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Panforte",
+  "blurb": "El dulce medieval de Siena: frutos secos y fruta confitada ligados con almíbar y apenas harina. El almíbar debe llegar a punto de bola blanda o nunca cuajará.",
+  "ing": [
+   {
+    "n": "almendras",
+    "note": "tostadas"
+   },
+   {
+    "n": "avellanas",
+    "note": "tostadas"
+   },
+   {
+    "n": "fruta confitada",
+    "note": "naranja y cidra"
+   },
+   {
+    "n": "higos secos",
+    "note": "picados"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "cacao en polvo"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "clavo y nuez moscada"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "miel"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "azúcar glas"
+   },
+   {
+    "n": "obleas",
+    "note": "opcional, tradicional"
+   }
+  ],
+  "steps": [
+   "Forra un molde redondo de 22 cm con papel, o con obleas si las consigues.",
+   "Mezcla los frutos secos tostados, la fruta confitada, los higos, la harina, el cacao y todas las especias en un bol grande.",
+   "Cocina la miel y el azúcar en una olla hasta 116 °C, punto de bola blanda. Sin termómetro: una gota en agua fría debe formar una bola blanda maleable.",
+   "Vierte el almíbar caliente sobre la mezcla seca y remueve rápido con una espátula. Se endurecerá en menos de un minuto.",
+   "Vuelca en el molde y aplana con las manos mojadas o el dorso de una cuchara engrasada.",
+   "Hornea a 150 °C durante 35 minutos. Seguirá blando al salir y endurecerá al enfriar. Espolvorea azúcar glas."
+  ],
+  "tips": [
+   "116 °C exactos. Por debajo no cuaja nunca; por encima queda duro como una piedra.",
+   "Trabaja muy rápido tras verter el almíbar: tienes menos de un minuto.",
+   "Aguanta meses envuelto. Se corta en cuñas muy finas."
+  ],
+  "video": "panforte di siena"
+ },
+ "en": {
+  "name": "Panforte",
+  "blurb": "Siena's medieval sweet: nuts and candied fruit bound with syrup and barely any flour. The syrup has to reach soft-ball stage or it will never set.",
+  "ing": [
+   {
+    "n": "almonds",
+    "note": "toasted"
+   },
+   {
+    "n": "hazelnuts",
+    "note": "toasted"
+   },
+   {
+    "n": "candied fruit",
+    "note": "orange and citron"
+   },
+   {
+    "n": "dried figs",
+    "note": "chopped"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "cocoa powder"
+   },
+   {
+    "n": "cinnamon"
+   },
+   {
+    "n": "cloves and nutmeg"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "honey"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "powdered sugar"
+   },
+   {
+    "n": "wafer paper",
+    "note": "optional, traditional"
+   }
+  ],
+  "steps": [
+   "Line a 22 cm round pan with parchment, or with wafer paper if you can get it.",
+   "Mix the toasted nuts, candied fruit, figs, flour, cocoa and all the spices in a large bowl.",
+   "Cook the honey and sugar in a saucepan to 116 °C, soft-ball stage. Without a thermometer: a drop in cold water should form a soft, pliable ball.",
+   "Pour the hot syrup over the dry mixture and stir fast with a spatula. It will stiffen in under a minute.",
+   "Turn it into the pan and flatten with wet hands or the back of an oiled spoon.",
+   "Bake at 150 °C for 35 minutes. It will still be soft coming out and will harden as it cools. Dust with powdered sugar."
+  ],
+  "tips": [
+   "Exactly 116 °C. Below that it never sets; above it, it turns rock hard.",
+   "Work very fast once the syrup goes in: you have less than a minute.",
+   "Keeps for months wrapped. Cut into very thin wedges."
+  ],
+  "video": "panforte di siena"
+ }
+}

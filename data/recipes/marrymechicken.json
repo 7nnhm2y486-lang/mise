@@ -1,0 +1,213 @@
+{
+ "id": "marrymechicken",
+ "country": "United States",
+ "region": "north-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "tomato",
+   "role": "umami"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "cream",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pollo Cremoso con Tomate Seco",
+  "blurb": "Pechuga sellada y una salsa de crema con tomates secos montada sobre el fondo de la sartén. Es una salsa de sartén clásica con otro nombre, y funciona por lo de siempre: el fond.",
+  "ing": [
+   {
+    "n": "pechugas de pollo",
+    "note": "abiertas a la mitad"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "tomates secos en aceite",
+    "note": "escurridos y picados"
+   },
+   {
+    "n": "crema espesa"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "parmesano",
+    "note": "rallado"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "orégano"
+   },
+   {
+    "n": "hojuelas de chile"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Abre las pechugas por la mitad a lo ancho para que queden finas y parejas. Sazona y enharina ligeramente.",
+   "Sella en aceite y mantequilla 4 minutos por lado, hasta que estén bien doradas. Retíralas: terminarán en la salsa.",
+   "En la misma sartén, sin limpiarla, sofríe el ajo 30 segundos y añade los tomates secos.",
+   "Desglasa con el caldo raspando todo el fondo dorado. Reduce a la mitad.",
+   "Añade la crema, el orégano y el chile y cocina 4 minutos hasta que espese.",
+   "Incorpora el parmesano fuera del fuego, devuelve el pollo con sus jugos y termina con albahaca."
+  ],
+  "tips": [
+   "Abre las pechugas. Una pechuga entera se seca por fuera antes de cocerse dentro.",
+   "No laves la sartén entre pasos: ese fondo dorado es la mitad del sabor.",
+   "El aceite del bote de tomates secos sirve para sellar y aporta todavía más sabor."
+  ],
+  "video": "pollo cremoso tomate seco parmesano"
+ },
+ "en": {
+  "name": "Marry Me Chicken",
+  "blurb": "Seared chicken breast and a cream sauce with sun-dried tomatoes built on the fond in the pan. It's a classic pan sauce under another name, and it works for the usual reason: the fond.",
+  "ing": [
+   {
+    "n": "chicken breasts",
+    "note": "butterflied and halved"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "sun-dried tomatoes in oil",
+    "note": "drained and chopped"
+   },
+   {
+    "n": "heavy cream"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "Parmesan",
+    "note": "grated"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "oregano"
+   },
+   {
+    "n": "chile flakes"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Slice the breasts in half horizontally so they're thin and even. Season and dust lightly with flour.",
+   "Sear in the oil and butter 4 minutes per side, until well browned. Remove them: they'll finish in the sauce.",
+   "In the same pan, without cleaning it, sauté the garlic 30 seconds and add the sun-dried tomatoes.",
+   "Deglaze with the stock, scraping up all the browned bits. Reduce by half.",
+   "Add the cream, oregano and chile and cook 4 minutes until thickened.",
+   "Stir in the Parmesan off the heat, return the chicken with its juices and finish with basil."
+  ],
+  "tips": [
+   "Butterfly the breasts. A whole breast dries out on the outside before the inside is cooked.",
+   "Don't wash the pan between steps: that browned fond is half the flavor.",
+   "The oil from the sun-dried tomato jar is good for searing and adds even more flavor."
+  ],
+  "video": "marry me chicken sun-dried tomato parmesan"
+ }
+}

@@ -1,0 +1,170 @@
+{
+ "id": "ssamjang",
+ "country": "Korea",
+ "region": "east-asia",
+ "course": "sauce",
+ "time": 10,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "miso",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "gochujang",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tbsp",
+   "k": "sesameoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sesameseed",
+   "role": "crunch"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "molasses",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Ssamjang",
+  "blurb": "Doenjang y gochujang mezclados con aromáticos crudos. La proporción correcta es más pasta de soja que de chile: el ssamjang es sabroso primero y picante después.",
+  "ing": [
+   {
+    "n": "doenjang",
+    "note": "pasta de soja coreana"
+   },
+   {
+    "n": "gochujang"
+   },
+   {
+    "n": "ajo",
+    "note": "muy picado"
+   },
+   {
+    "n": "cebollín",
+    "note": "en rodajas finas"
+   },
+   {
+    "n": "aceite de sésamo"
+   },
+   {
+    "n": "semillas de sésamo",
+    "note": "machacadas"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "cebolla",
+    "note": "en dados diminutos"
+   },
+   {
+    "n": "jarabe de arroz",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Mezcla el doenjang y el gochujang en un bol hasta que queden homogéneos.",
+   "Incorpora el ajo picado y la cebolla en dados muy pequeños.",
+   "Añade el cebollín en rodajas finas.",
+   "Incorpora el aceite de sésamo, el azúcar y el jarabe si lo usas.",
+   "Machaca las semillas de sésamo entre los dedos al añadirlas: libera mucho más aroma que enteras.",
+   "Reposa 30 minutos antes de usar. Aguanta dos semanas en el refrigerador."
+  ],
+  "tips": [
+   "Dos partes de doenjang por una de gochujang. Al revés, es solo pasta de chile.",
+   "Machaca el sésamo. Entero pasa de largo por la boca sin aportar nada.",
+   "Se come envolviendo carne y arroz en hoja de lechuga: eso es un ssam."
+  ],
+  "video": "ssamjang salsa coreana"
+ },
+ "en": {
+  "name": "Ssamjang",
+  "blurb": "Doenjang and gochujang mixed with raw aromatics. The right ratio is more soybean paste than chile paste: ssamjang is savory first and spicy second.",
+  "ing": [
+   {
+    "n": "doenjang",
+    "note": "Korean soybean paste"
+   },
+   {
+    "n": "gochujang"
+   },
+   {
+    "n": "garlic",
+    "note": "finely minced"
+   },
+   {
+    "n": "scallions",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "sesame oil"
+   },
+   {
+    "n": "sesame seeds",
+    "note": "crushed"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "onion",
+    "note": "tiny dice"
+   },
+   {
+    "n": "rice syrup",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Mix the doenjang and gochujang in a bowl until uniform.",
+   "Stir in the minced garlic and the finely diced onion.",
+   "Add the thinly sliced scallions.",
+   "Stir in the sesame oil, the sugar and the syrup, if using.",
+   "Crush the sesame seeds between your fingers as you add them: they release far more aroma than whole.",
+   "Rest 30 minutes before using. It keeps for two weeks in the refrigerator."
+  ],
+  "tips": [
+   "Two parts doenjang to one part gochujang. The other way around, it's just chile paste.",
+   "Crush the sesame. Whole seeds pass straight through without contributing anything.",
+   "It's eaten by wrapping meat and rice in a lettuce leaf: that's a ssam."
+  ],
+  "video": "ssamjang korean dipping sauce"
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "id": "tiramisu",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 300,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 5,
+   "u": "",
+   "k": "eggyolk",
+   "role": "aerate"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sugar",
+   "role": "aerate"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "mascarpone",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "eggwhite",
+   "role": "aerate"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Tiramisú",
+  "blurb": "Sin nata y sin horno. El zabaglione — yemas batidas al calor con azúcar y vino — es lo que lo hace ligero, y además lleva los huevos a temperatura segura.",
+  "ing": [
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "vino marsala"
+   },
+   {
+    "n": "mascarpone",
+    "note": "frío"
+   },
+   {
+    "n": "claras de huevo"
+   },
+   {
+    "n": "savoiardi",
+    "note": "bizcochos de soletilla duros"
+   },
+   {
+    "n": "café espresso",
+    "note": "frío"
+   },
+   {
+    "n": "cacao en polvo"
+   },
+   {
+    "n": "sal fina"
+   }
+  ],
+  "steps": [
+   "Bate las yemas, el azúcar y el marsala en un bol sobre agua apenas hirviendo 8-10 minutos, hasta que espese, palidezca y esté caliente al tacto, unos 70 °C. Esto es el zabaglione y pasteuriza las yemas.",
+   "Enfríalo a temperatura ambiente y luego bate dentro el mascarpone frío en tres adiciones. Todo de golpe lo cortaría.",
+   "Monta las claras con la sal a picos suaves e incorpóralas.",
+   "Moja cada bizcocho en el café un segundo por cara. Un segundo. Siguen absorbiendo mucho después de salir del líquido.",
+   "Alterna bizcochos y crema dos veces, terminando con crema.",
+   "Refrigera al menos 6 horas, idealmente toda la noche. Espolvorea cacao abundante solo al servir."
+  ],
+  "tips": [
+   "Un segundo por cara. Un tiramisú empapado es casi siempre culpa de bizcochos demasiado mojados.",
+   "Savoiardi duros, no bizcocho blando. Los blandos se disuelven por completo.",
+   "El cacao al último momento. Espolvoreado antes absorbe humedad y queda manchado."
+  ],
+  "video": "tiramisú zabaglione"
+ },
+ "en": {
+  "name": "Tiramisu",
+  "blurb": "No cream and no oven. The zabaglione — yolks whisked over heat with sugar and wine — is what makes it light, and it also brings the eggs to a safe temperature.",
+  "ing": [
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "Marsala wine"
+   },
+   {
+    "n": "mascarpone",
+    "note": "cold"
+   },
+   {
+    "n": "egg whites"
+   },
+   {
+    "n": "savoiardi",
+    "note": "crisp ladyfingers"
+   },
+   {
+    "n": "espresso",
+    "note": "cold"
+   },
+   {
+    "n": "cocoa powder"
+   },
+   {
+    "n": "fine salt"
+   }
+  ],
+  "steps": [
+   "Whisk the yolks, sugar and Marsala in a bowl over barely simmering water for 8-10 minutes, until thick, pale and hot to the touch, about 70 °C. This is the zabaglione, and it pasteurizes the yolks.",
+   "Cool it to room temperature, then beat in the cold mascarpone in three additions. All at once, it would split.",
+   "Whip the whites with the salt to soft peaks and fold them in.",
+   "Dip each ladyfinger in the coffee for one second per side. One second. They keep absorbing long after they come out.",
+   "Alternate ladyfingers and cream twice, finishing with cream.",
+   "Refrigerate at least 6 hours, ideally overnight. Dust generously with cocoa only when serving."
+  ],
+  "tips": [
+   "One second per side. A soggy tiramisu is almost always down to over-soaked ladyfingers.",
+   "Crisp savoiardi, not soft sponge. Soft ones dissolve completely.",
+   "Cocoa at the last moment. Dusted earlier, it absorbs moisture and goes blotchy."
+  ],
+  "video": "tiramisu zabaglione"
+ }
+}

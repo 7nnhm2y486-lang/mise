@@ -1,0 +1,186 @@
+{
+ "id": "pierogi",
+ "country": "Poland",
+ "region": "eastern-europe",
+ "course": "main",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sourcream",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 700,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "creamcheese",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Pierogi",
+  "blurb": "Una masa con crema agria y agua caliente, blanda e indulgente. Hervidos y luego salteados en mantequilla con cebolla: ese segundo paso es donde valen la pena.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "agua caliente"
+   },
+   {
+    "n": "crema agria"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "papas",
+    "note": "cocidas"
+   },
+   {
+    "n": "queso fresco tipo twaróg"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "mantequilla",
+    "note": "para saltear"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta blanca"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el agua caliente, la crema agria, el huevo, la mantequilla derretida y la sal en una masa blanda. Amasa 5 minutos y reposa tapada 30 minutos.",
+   "Fríe dos de las cebollas despacio en mantequilla hasta que estén muy doradas. Machácalas con las papas, el queso, sal y pimienta. Deja enfriar.",
+   "Estira la masa fina, a 2 mm, y corta discos de 8 cm.",
+   "Coloca una cucharada de relleno en cada uno, dobla y sella pellizcando con firmeza. Moja el borde solo si no pega, porque el exceso de agua los hace reventar.",
+   "Hierve en tandas de ocho en agua bien salada. Están listos 2 minutos después de flotar.",
+   "Saltea los pierogi hervidos en mantequilla con la cebolla restante hasta que se doren a manchas."
+  ],
+  "tips": [
+   "El agua caliente en la masa gelatiniza parte del almidón y la hace notablemente más fácil de estirar fina.",
+   "No llenes la olla. Se pegan entre sí en los primeros treinta segundos.",
+   "Los pierogi hervidos están bien. Los salteados son el objetivo."
+  ],
+  "video": "pierogi ruskie"
+ },
+ "en": {
+  "name": "Pierogi",
+  "blurb": "A soft, forgiving dough made with sour cream and hot water. Boiled, then pan-fried in butter with onion: that second step is where they earn their keep.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "hot water"
+   },
+   {
+    "n": "sour cream"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "potatoes",
+    "note": "cooked"
+   },
+   {
+    "n": "farmer's cheese (twaróg)"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "butter",
+    "note": "for frying"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "white pepper"
+   }
+  ],
+  "steps": [
+   "Mix the flour, hot water, sour cream, egg, melted butter and salt into a soft dough. Knead for 5 minutes and rest, covered, for 30 minutes.",
+   "Slowly fry two of the onions in butter until deeply golden. Mash them with the potatoes, cheese, salt and pepper. Let cool.",
+   "Roll the dough thin, to 2 mm, and cut 8 cm rounds.",
+   "Put a spoonful of filling on each, fold and pinch firmly to seal. Wet the edge only if it won't stick, because too much water makes them burst.",
+   "Boil in batches of eight in well-salted water. They're done 2 minutes after they float.",
+   "Pan-fry the boiled pierogi in butter with the remaining onion until browned in spots."
+  ],
+  "tips": [
+   "The hot water in the dough gelatinizes some of the starch and makes it noticeably easier to roll thin.",
+   "Don't crowd the pot. They stick together in the first thirty seconds.",
+   "Boiled pierogi are fine. Pan-fried ones are the goal."
+  ],
+  "video": "pierogi ruskie"
+ }
+}

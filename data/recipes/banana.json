@@ -1,0 +1,189 @@
+{
+ "id": "banana",
+ "country": "United States",
+ "region": "north-america",
+ "course": "bread",
+ "time": 90,
+ "serves": 10,
+ "ovenC": 170,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 115,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 220,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sourcream",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "crunch"
+  }
+ ],
+ "es": {
+  "name": "Pan de Plátano",
+  "blurb": "Plátanos genuinamente negros, no solo con manchas. En ese punto el almidón se ha convertido del todo en azúcar, y eso es a la vez el dulzor y la humedad.",
+  "ing": [
+   {
+    "n": "plátanos muy maduros",
+    "note": "con la cáscara negra"
+   },
+   {
+    "n": "mantequilla",
+    "note": "derretida y tostada"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "crema agria"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "chocolate negro",
+    "note": "opcional"
+   },
+   {
+    "n": "azúcar demerara"
+   }
+  ],
+  "steps": [
+   "Tuesta la mantequilla y deja templar.",
+   "Machaca bien los plátanos: buscas unos 400 g de pulpa.",
+   "Bate la mantequilla tostada con el azúcar morena, los huevos, la crema agria y la vainilla, y luego los plátanos.",
+   "Incorpora la harina, el bicarbonato y la sal solo hasta integrar, y después el chocolate.",
+   "Vierte en un molde de cake forrado y esparce demerara por encima para una costra crujiente.",
+   "Hornea a 170 °C durante 50-60 minutos. Cubre con aluminio a los 40 si oscurece. Enfría 20 minutos en el molde."
+  ],
+  "tips": [
+   "Plátanos negros. Los amarillos dan un pan soso y bizcochudo.",
+   "Congela los plátanos según pasan de punto. Descongelan a una pulpa oscura que funciona aún mejor.",
+   "No mezcles de más al añadir la harina: el pan de plátano se vuelve gomoso más rápido que casi cualquier masa."
+  ],
+  "video": "pan de plátano mantequilla tostada"
+ },
+ "en": {
+  "name": "Banana Bread",
+  "blurb": "Truly black bananas, not just spotty ones. At that point the starch has fully turned to sugar, and that's both the sweetness and the moisture.",
+  "ing": [
+   {
+    "n": "very ripe bananas",
+    "note": "black-skinned"
+   },
+   {
+    "n": "butter",
+    "note": "melted and browned"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "sour cream"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "dark chocolate",
+    "note": "optional"
+   },
+   {
+    "n": "demerara sugar"
+   }
+  ],
+  "steps": [
+   "Brown the butter and let it cool a little.",
+   "Mash the bananas well: you're after about 400 g of pulp.",
+   "Whisk the browned butter with the brown sugar, eggs, sour cream and vanilla, then the bananas.",
+   "Fold in the flour, baking soda and salt just until combined, then the chocolate.",
+   "Pour into a lined loaf pan and scatter demerara on top for a crunchy crust.",
+   "Bake at 170 °C for 50-60 minutes. Cover with foil at 40 if it's getting dark. Cool 20 minutes in the pan."
+  ],
+  "tips": [
+   "Black bananas. Yellow ones give a bland, cakey loaf.",
+   "Freeze bananas as they go past their prime. They thaw into a dark pulp that works even better.",
+   "Don't overmix once the flour goes in: banana bread turns gummy faster than almost any batter."
+  ],
+  "video": "brown butter banana bread"
+ }
+}

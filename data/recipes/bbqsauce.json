@@ -1,0 +1,206 @@
+{
+ "id": "bbqsauce",
+ "country": "United States",
+ "region": "north-america",
+ "course": "sauce",
+ "time": 60,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "molasses",
+   "role": "sweet"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "mustard",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "anchovy",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "cayenne",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Salsa Barbacoa",
+  "blurb": "Estilo Kansas City: dulce, espesa y con melaza. El truco es cocinarla el tiempo suficiente para que el vinagre pierda el filo pero conserve la acidez.",
+  "ing": [
+   {
+    "n": "kétchup"
+   },
+   {
+    "n": "melaza"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "vinagre de manzana"
+   },
+   {
+    "n": "mostaza"
+   },
+   {
+    "n": "salsa Worcestershire"
+   },
+   {
+    "n": "pimentón ahumado"
+   },
+   {
+    "n": "ajo en polvo"
+   },
+   {
+    "n": "cebolla en polvo"
+   },
+   {
+    "n": "cayena"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Mezcla todos los ingredientes menos la mantequilla en una olla de fondo grueso.",
+   "Lleva a hervor suave y baja de inmediato: esta salsa salpica y quema.",
+   "Cocina a fuego muy bajo 40-45 minutos, removiendo cada pocos minutos y raspando el fondo.",
+   "Está lista cuando oscurece, espesa y un dedo pasado por el dorso de la cuchara deja un rastro limpio.",
+   "Incorpora la mantequilla fuera del fuego: da brillo y redondea los bordes ácidos.",
+   "Deja enfriar por completo. Espesa bastante más al enfriar."
+  ],
+  "tips": [
+   "Tapa parcialmente la olla: las burbujas de esta salsa explotan y son peligrosas.",
+   "Cuarenta minutos mínimo. Menos y sabe a kétchup con especias.",
+   "Pincélala solo en los últimos 15 minutos de cualquier asado, o el azúcar se quema."
+  ],
+  "video": "salsa barbacoa kansas city"
+ },
+ "en": {
+  "name": "Barbecue Sauce",
+  "blurb": "Kansas City style: sweet, thick and full of molasses. The trick is cooking it long enough for the vinegar to lose its edge but keep its acidity.",
+  "ing": [
+   {
+    "n": "ketchup"
+   },
+   {
+    "n": "molasses"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "apple cider vinegar"
+   },
+   {
+    "n": "mustard"
+   },
+   {
+    "n": "Worcestershire sauce"
+   },
+   {
+    "n": "smoked paprika"
+   },
+   {
+    "n": "garlic powder"
+   },
+   {
+    "n": "onion powder"
+   },
+   {
+    "n": "cayenne"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Combine everything except the butter in a heavy-bottomed pot.",
+   "Bring to a gentle boil and turn it down immediately: this sauce spits and scorches.",
+   "Cook over very low heat for 40-45 minutes, stirring every few minutes and scraping the bottom.",
+   "It's ready when it darkens, thickens and a finger drawn across the back of the spoon leaves a clean trail.",
+   "Stir in the butter off the heat: it adds gloss and rounds off the sharp edges.",
+   "Let it cool completely. It thickens a lot more as it cools."
+  ],
+  "tips": [
+   "Partially cover the pot: this sauce's bubbles burst and they're dangerous.",
+   "Forty minutes minimum. Any less and it tastes like spiced ketchup.",
+   "Brush it on only in the last 15 minutes of any roast or grill, or the sugar burns."
+  ],
+  "video": "kansas city bbq sauce"
+ }
+}

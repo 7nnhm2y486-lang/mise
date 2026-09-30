@@ -1,0 +1,192 @@
+{
+ "id": "ccc-espresso",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "cookie",
+ "time": 800,
+ "serves": 18,
+ "ovenC": 185,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 220,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 290,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 280,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Galletas de Espresso y Chocolate",
+  "blurb": "En esta cantidad el café no hace que la galleta sepa a café. Amplifica el chocolate, igual que la sal amplifica casi todo, aportando un amargor contra el que el chocolate puede apoyarse.",
+  "lab": "Café molido · filo amargo, chocolate más profundo",
+  "ing": [
+   {
+    "n": "mantequilla",
+    "note": "tostada"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "café espresso instantáneo",
+    "note": "en polvo, no molido"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "yema de huevo"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "cacao en polvo"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro",
+    "note": "al 70%"
+   }
+  ],
+  "steps": [
+   "Tuesta la mantequilla y disuelve en ella el café instantáneo mientras siga tibia.",
+   "Enfría 10 minutos, luego bate dentro los dos azúcares, el huevo y la yema.",
+   "Incorpora la harina, el cacao, el bicarbonato y la sal, y después el chocolate.",
+   "Refrigera 12 horas.",
+   "Hornea bolas de 55 g a 185 °C durante 11-12 minutos.",
+   "Enfría en la bandeja."
+  ],
+  "tips": [
+   "El espresso instantáneo se disuelve; el café molido queda arenoso. Este es uno de los pocos sitios donde lo instantáneo es lo correcto.",
+   "Dos cucharadas se leen como profundidad. Cuatro se leen como café. Elige a conciencia.",
+   "El cacao está por color y amargor, no para hacer una galleta de chocolate: no pases de 25 g o la textura se seca."
+  ],
+  "video": "galletas espresso chocolate"
+ },
+ "en": {
+  "name": "Espresso Chocolate Cookies",
+  "blurb": "At this amount the coffee doesn't make the cookie taste like coffee. It amplifies the chocolate, the way salt amplifies almost everything, by giving it a bitterness to lean against.",
+  "lab": "Ground coffee · bitter edge, deeper chocolate",
+  "ing": [
+   {
+    "n": "butter",
+    "note": "browned"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "instant espresso",
+    "note": "powder, not ground"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "egg yolk"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "cocoa powder"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate",
+    "note": "70%"
+   }
+  ],
+  "steps": [
+   "Brown the butter and dissolve the instant espresso in it while it's still warm.",
+   "Cool 10 minutes, then beat in both sugars, the egg and the yolk.",
+   "Fold in the flour, cocoa, baking soda and salt, then the chocolate.",
+   "Refrigerate 12 hours.",
+   "Bake 55 g balls at 185 °C for 11-12 minutes.",
+   "Cool on the sheet."
+  ],
+  "tips": [
+   "Instant espresso dissolves; ground coffee stays gritty. This is one of the few places where instant is the right call.",
+   "Two tablespoons read as depth. Four read as coffee. Choose deliberately.",
+   "The cocoa is there for color and bitterness, not to make a chocolate cookie: don't go past 25 g or the texture dries out."
+  ],
+  "video": "espresso chocolate chip cookies"
+ }
+}

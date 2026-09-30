@@ -1,0 +1,168 @@
+{
+ "id": "chimichurri",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 15,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 60,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 15,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "shallot",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Chimichurri",
+  "blurb": "Picado, nunca licuado. La licuadora lo emulsiona en una pasta verde y pierdes por completo la textura suelta.",
+  "ing": [
+   {
+    "n": "perejil de hoja plana",
+    "note": "muy picado"
+   },
+   {
+    "n": "orégano",
+    "note": "fresco, o 2 cdta seco"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "vinagre de vino tinto"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "hojuelas de chile"
+   },
+   {
+    "n": "chalota",
+    "note": "en dados finos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "agua",
+    "note": "tibia"
+   }
+  ],
+  "steps": [
+   "Disuelve la sal en el agua tibia y el vinagre. Añade la chalota y el ajo y deja 10 minutos: esto les quita el filo crudo.",
+   "Pica el perejil y el orégano a cuchillo, tan fino como te alcance la paciencia.",
+   "Incorpora las hierbas y las hojuelas de chile a la mezcla de vinagre.",
+   "Vierte el aceite y remueve. No lo batas hasta emulsionar: debe quedar suelto y separado.",
+   "Reposa al menos 2 horas a temperatura ambiente antes de usarlo. De un día para otro es mejor.",
+   "Sirve sobre carne a la parrilla. También funciona como adobo, pero usa una tanda aparte."
+  ],
+  "tips": [
+   "Macerar el ajo y la chalota en ácido primero es lo que evita que sepa agresivo.",
+   "Picar a cuchillo mantiene las piezas distintas. El procesador da otra salsa, peor.",
+   "Aguanta una semana en el refrigerador, pero atempéralo para que el aceite se afloje."
+  ],
+  "video": "chimichurri argentino"
+ },
+ "en": {
+  "name": "Chimichurri",
+  "blurb": "Chopped, never blended. The blender emulsifies it into a green paste and you lose the loose texture entirely.",
+  "ing": [
+   {
+    "n": "flat-leaf parsley",
+    "note": "finely chopped"
+   },
+   {
+    "n": "oregano",
+    "note": "fresh, or 2 tsp dried"
+   },
+   {
+    "n": "garlic",
+    "note": "minced"
+   },
+   {
+    "n": "red wine vinegar"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "chile flakes"
+   },
+   {
+    "n": "shallot",
+    "note": "finely diced"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "water",
+    "note": "warm"
+   }
+  ],
+  "steps": [
+   "Dissolve the salt in the warm water and vinegar. Add the shallot and garlic and leave 10 minutes: this takes off their raw edge.",
+   "Chop the parsley and oregano by hand, as fine as your patience allows.",
+   "Stir the herbs and chile flakes into the vinegar mixture.",
+   "Pour in the oil and stir. Don't whisk it to an emulsion: it should stay loose and separated.",
+   "Rest at least 2 hours at room temperature before using. Overnight is better.",
+   "Serve over grilled meat. It also works as a marinade, but use a separate batch."
+  ],
+  "tips": [
+   "Steeping the garlic and shallot in acid first is what keeps it from tasting harsh.",
+   "Chopping by hand keeps the pieces distinct. A food processor makes a different, worse sauce.",
+   "It keeps a week in the fridge, but bring it to room temperature so the oil loosens."
+  ],
+  "video": "argentinian chimichurri"
+ }
+}

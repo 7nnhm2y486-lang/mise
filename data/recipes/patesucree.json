@@ -1,0 +1,137 @@
+{
+ "id": "patesucree",
+ "country": "France",
+ "region": "western-europe",
+ "course": "pastry",
+ "time": 120,
+ "serves": 8,
+ "ovenC": 170,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 90,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "almondflour",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Masa Quebrada Dulce",
+  "blurb": "El cimiento de media pastelería. Cremada en vez de arenada, lo que la hace corta y agalletada en vez de hojaldrada, y fácil de remendar.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "azúcar glas"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "almendra molida"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "extracto de vainilla"
+   }
+  ],
+  "steps": [
+   "Bate la mantequilla y el azúcar glas hasta alisar pero sin airear: no quieres aire en un fondo de tarta.",
+   "Bate dentro el huevo y la vainilla.",
+   "Añade la harina, la almendra y la sal y mezcla solo hasta que se una.",
+   "Aplana en un disco, envuelve y refrigera 1 hora.",
+   "Estira entre dos papeles a 3 mm, forra el molde y refrigera otros 30 minutos. Recorta el borde con un cuchillo plano.",
+   "Hornea en blanco a 170 °C con papel y pesos 18 minutos, retira los pesos y hornea 8-10 minutos más hasta que esté arenosa y dorada pálida. Pinta la base caliente con clara de huevo para sellarla."
+  ],
+  "tips": [
+   "Refrigera después de forrar, no solo antes de estirar. El encogimiento lo causa el gluten sin relajar.",
+   "Sellar la base caliente con clara la impermeabiliza contra un relleno húmedo.",
+   "Remienda las grietas con recortes crudos tras el horneado en blanco y devuélvela dos minutos. Nadie lo notará."
+  ],
+  "video": "pâte sucrée fondo de tarta"
+ },
+ "en": {
+  "name": "Pâte Sucrée",
+  "blurb": "The foundation of half of pastry. Creamed rather than rubbed in, which makes it short and cookie-like instead of flaky, and easy to patch.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "powdered sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "almond flour"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "vanilla extract"
+   }
+  ],
+  "steps": [
+   "Beat the butter and powdered sugar until smooth but not aerated: you don't want air in a tart shell.",
+   "Beat in the egg and vanilla.",
+   "Add the flour, almond flour and salt and mix only until it comes together.",
+   "Flatten into a disc, wrap and chill for 1 hour.",
+   "Roll between two sheets of parchment to 3 mm, line the pan and chill another 30 minutes. Trim the edge with a flat knife.",
+   "Blind-bake at 170 °C with parchment and weights for 18 minutes, remove the weights and bake 8-10 minutes more until sandy and pale golden. Brush the hot base with egg white to seal it."
+  ],
+  "tips": [
+   "Chill after lining, not just before rolling. Shrinkage is caused by unrelaxed gluten.",
+   "Sealing the hot base with egg white waterproofs it against a wet filling.",
+   "Patch cracks with raw scraps after blind-baking and return it to the oven for two minutes. Nobody will notice."
+  ],
+  "video": "pate sucree tart shell"
+ }
+}

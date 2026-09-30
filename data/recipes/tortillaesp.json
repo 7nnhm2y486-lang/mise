@@ -1,0 +1,116 @@
+{
+ "id": "tortillaesp",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Tortilla Española",
+  "blurb": "Papas confitadas en aceite de oliva más que fritas, y luego cuajadas en huevo. Que quede algo cruda en el centro es la respuesta correcta.",
+  "ing": [
+   {
+    "n": "papas cerosas",
+    "note": "en rodajas de 3 mm"
+   },
+   {
+    "n": "cebolla",
+    "note": "en juliana fina"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "aceite de oliva",
+    "note": "para confitar, se reutiliza casi todo"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Calienta el aceite a unos suaves 130 °C. Añade las papas y la cebolla con una buena pizca de sal.",
+   "Confita 20-25 minutos, moviéndolas de vez en cuando. Deben quedar pálidas y deshacerse con una cuchara, nunca crujientes.",
+   "Escurre en un colador sobre un bol y guarda el aceite para la próxima vez.",
+   "Bate los huevos con sal, incorpora las papas calientes y deja reposar la mezcla 10 minutos: esto empapa la papa y es lo que hace densa a una tortilla en vez de estratificada.",
+   "Calienta 2 cucharadas del aceite en una sartén antiadherente de 24 cm. Vierte la mezcla, cocina 4 minutos a fuego medio recogiendo los bordes hacia dentro.",
+   "Deslízala a un plato, pon la sartén encima, dale la vuelta y cocina 3 minutos más. El centro debe seguir temblando."
+  ],
+  "tips": [
+   "Confitar, no freír. El aceite apenas debe burbujear.",
+   "Dejar reposar juntos el huevo y la papa es el paso que más gente omite y el que más importa.",
+   "Usa un plato más ancho que la sartén para el volteo, y hazlo con decisión: dudar es como acaba en el suelo."
+  ],
+  "video": "tortilla española jugosa"
+ },
+ "en": {
+  "name": "Spanish Tortilla",
+  "blurb": "Potatoes confited in olive oil rather than fried, then set in egg. A slightly runny center is the right answer.",
+  "ing": [
+   {
+    "n": "waxy potatoes",
+    "note": "sliced 3 mm thick"
+   },
+   {
+    "n": "onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "olive oil",
+    "note": "for confiting; most of it is reused"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Heat the oil to a gentle 130 °C. Add the potatoes and onion with a good pinch of salt.",
+   "Confit for 20-25 minutes, moving them occasionally. They should stay pale and break apart with a spoon, never crisp.",
+   "Drain in a colander set over a bowl and save the oil for next time.",
+   "Beat the eggs with salt, stir in the hot potatoes and let the mixture sit for 10 minutes: this soaks the potato and is what makes a tortilla dense instead of layered.",
+   "Heat 2 tablespoons of the oil in a 24 cm nonstick skillet. Pour in the mixture and cook 4 minutes over medium heat, pulling the edges in.",
+   "Slide it onto a plate, set the pan over it, flip, and cook 3 minutes more. The center should still wobble."
+  ],
+  "tips": [
+   "Confit, don't fry. The oil should barely bubble.",
+   "Letting the egg and potato sit together is the step most people skip and the one that matters most.",
+   "Use a plate wider than the pan for the flip, and do it decisively: hesitation is how it ends up on the floor."
+  ],
+  "video": "spanish tortilla de patatas"
+ }
+}

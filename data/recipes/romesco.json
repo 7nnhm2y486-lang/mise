@@ -1,0 +1,182 @@
+{
+ "id": "romesco",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "sauce",
+ "time": 45,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "almond",
+   "role": "fat"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "hazelnut",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "bread",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Romesco",
+  "blurb": "Ñoras, almendra y avellana con pan frito. El pan frito en aceite de oliva es el espesante tradicional y aporta una capa de sabor que ninguna harina da.",
+  "ing": [
+   {
+    "n": "ñoras",
+    "note": "remojadas 30 min"
+   },
+   {
+    "n": "tomates",
+    "note": "asados"
+   },
+   {
+    "n": "ajo",
+    "note": "asados con piel"
+   },
+   {
+    "n": "almendras",
+    "note": "tostadas"
+   },
+   {
+    "n": "avellanas",
+    "note": "tostadas y peladas"
+   },
+   {
+    "n": "pan rústico",
+    "note": "una rebanada, frita en aceite"
+   },
+   {
+    "n": "pimentón ahumado"
+   },
+   {
+    "n": "vinagre de jerez"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja las ñoras en agua caliente 30 minutos y raspa la pulpa con una cuchara, descartando la piel.",
+   "Asa los tomates y los ajos con piel a 200 °C durante 25 minutos. Pela ambos.",
+   "Fríe la rebanada de pan en aceite de oliva hasta que esté dorada por las dos caras.",
+   "Tritura los frutos secos con el pan frito hasta obtener una arena.",
+   "Añade la pulpa de ñora, los tomates, el ajo, el pimentón, el vinagre y la sal, y tritura.",
+   "Incorpora el aceite en hilo hasta que emulsione. Debe quedar espeso, no líquido."
+  ],
+  "tips": [
+   "La pulpa de la ñora, no la piel. La piel deja una textura áspera que no se va.",
+   "Tuesta los frutos secos de verdad: crudos dejan la salsa plana y lechosa.",
+   "Va con calçots, pescado a la plancha, verduras asadas y huevos. Aguanta una semana."
+  ],
+  "video": "salsa romesco catalana"
+ },
+ "en": {
+  "name": "Romesco",
+  "blurb": "Ñora peppers, almond and hazelnut with fried bread. Bread fried in olive oil is the traditional thickener and adds a layer of flavor no flour can.",
+  "ing": [
+   {
+    "n": "ñora peppers",
+    "note": "soaked 30 min"
+   },
+   {
+    "n": "tomatoes",
+    "note": "roasted"
+   },
+   {
+    "n": "garlic",
+    "note": "roasted in its skin"
+   },
+   {
+    "n": "almonds",
+    "note": "toasted"
+   },
+   {
+    "n": "hazelnuts",
+    "note": "toasted and skinned"
+   },
+   {
+    "n": "rustic bread",
+    "note": "one slice, fried in oil"
+   },
+   {
+    "n": "smoked paprika"
+   },
+   {
+    "n": "sherry vinegar"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the ñoras in hot water for 30 minutes and scrape out the flesh with a spoon, discarding the skin.",
+   "Roast the tomatoes and the unpeeled garlic at 200 °C for 25 minutes. Peel both.",
+   "Fry the slice of bread in olive oil until golden on both sides.",
+   "Grind the nuts with the fried bread to a sand.",
+   "Add the ñora flesh, tomatoes, garlic, paprika, vinegar and salt, and blend.",
+   "Drizzle in the oil until it emulsifies. It should be thick, not runny."
+  ],
+  "tips": [
+   "The ñora flesh, not the skin. The skin leaves a rough texture that never goes away.",
+   "Really toast the nuts: raw ones leave the sauce flat and milky.",
+   "Goes with calçots, grilled fish, roasted vegetables and eggs. Keeps a week."
+  ],
+  "video": "catalan romesco sauce"
+ }
+}

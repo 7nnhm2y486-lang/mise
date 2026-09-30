@@ -1,0 +1,152 @@
+{
+ "id": "piadina",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "bread",
+ "time": 60,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 220,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "prosciutto",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "creamcheese",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Piadina",
+  "blurb": "El pan plano de Romaña, hecho con manteca y sin levadura. Se cocina en seco sobre una plancha muy caliente y se come en el mismo minuto.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "manteca de cerdo",
+    "note": "o aceite de oliva"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "jamón crudo",
+    "note": "para rellenar"
+   },
+   {
+    "n": "queso crema",
+    "note": "o stracchino"
+   },
+   {
+    "n": "rúcula"
+   }
+  ],
+  "steps": [
+   "Integra la manteca en la harina, la sal y el bicarbonato con los dedos hasta obtener una textura arenosa.",
+   "Añade el agua tibia y amasa 5 minutos hasta obtener una masa lisa y blanda.",
+   "Tápala y déjala reposar 30 minutos: sin reposo es imposible estirarla fina.",
+   "Divide en 8 y estira cada bola en un disco de unos 3 mm y 22 cm de diámetro.",
+   "Cocina en una plancha o sartén de hierro bien caliente y seca, sin nada de grasa, 1-2 minutos por lado. Pincha las burbujas grandes con un tenedor.",
+   "Deben salir con manchas doradas y seguir flexibles. Rellena de inmediato y dóblala."
+  ],
+  "tips": [
+   "Plancha seca y muy caliente. Nada de aceite: la grasa ya está en la masa.",
+   "Se come al momento. Fría se endurece y pierde toda la gracia.",
+   "El reposo de 30 minutos relaja el gluten y es lo que permite estirarla fina."
+  ],
+  "video": "piadina romagnola"
+ },
+ "en": {
+  "name": "Piadina",
+  "blurb": "Romagna's flatbread, made with lard and no yeast. It's cooked dry on a very hot griddle and eaten the same minute.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "lard",
+    "note": "or olive oil"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "prosciutto",
+    "note": "for filling"
+   },
+   {
+    "n": "cream cheese",
+    "note": "or stracchino"
+   },
+   {
+    "n": "arugula"
+   }
+  ],
+  "steps": [
+   "Rub the lard into the flour, salt and baking soda with your fingers until sandy.",
+   "Add the warm water and knead for 5 minutes into a smooth, soft dough.",
+   "Cover and rest for 30 minutes: without the rest it's impossible to roll thin.",
+   "Divide into 8 and roll each ball into a disc about 3 mm thick and 22 cm across.",
+   "Cook on a very hot, dry griddle or cast-iron pan, with no fat at all, for 1-2 minutes per side. Prick large bubbles with a fork.",
+   "They should come off spotted with gold and still pliable. Fill immediately and fold."
+  ],
+  "tips": [
+   "Dry, very hot griddle. No oil: the fat is already in the dough.",
+   "Eat it right away. Cold, it toughens and loses all its charm.",
+   "The 30-minute rest relaxes the gluten, and that's what lets you roll it thin."
+  ],
+  "video": "piadina romagnola"
+ }
+}

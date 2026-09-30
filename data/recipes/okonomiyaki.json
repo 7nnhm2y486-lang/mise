@@ -1,0 +1,228 @@
+{
+ "id": "okonomiyaki",
+ "country": "Japan",
+ "region": "east-asia",
+ "course": "main",
+ "time": 40,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 120,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "dashi",
+   "role": "liquid"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 350,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "apflour",
+   "role": "crunch"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "sauce"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "mayo",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "katsuobushi",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Okonomiyaki",
+  "blurb": "El ñame nagaimo rallado hace la masa ligera y algo cremosa. Sin él tienes una tortita; con él, okonomiyaki.",
+  "ing": [
+   {
+    "n": "harina"
+   },
+   {
+    "n": "dashi",
+    "note": "frío"
+   },
+   {
+    "n": "nagaimo",
+    "note": "rallado, o 2 cda más de harina"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "col",
+    "note": "picada, no en juliana"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "panza de cerdo",
+    "note": "en láminas finas"
+   },
+   {
+    "n": "tenkasu",
+    "note": "virutas de tempura"
+   },
+   {
+    "n": "jengibre encurtido"
+   },
+   {
+    "n": "salsa okonomi"
+   },
+   {
+    "n": "mayonesa kewpie"
+   },
+   {
+    "n": "katsuobushi"
+   },
+   {
+    "n": "aonori"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Bate la harina, el dashi y el ñame rallado y deja reposar la masa 30 minutos en el refrigerador.",
+   "Incorpora los huevos y luego la col, el cebollín, el tenkasu y el jengibre. Mantenlo suelto: la col debe estar apenas cubierta, no suspendida en masa.",
+   "Calienta una sartén a fuego medio con aceite. Forma un montículo de 2 cm de alto. No lo aplastes.",
+   "Coloca las láminas de cerdo encima. Cocina 5 minutos hasta que la base cuaje y dore.",
+   "Voltea con decisión, tapa y cocina 6 minutos más. Voltea otra vez y dale 2 minutos destapado.",
+   "Salsa, luego mayonesa en líneas, luego katsuobushi y aonori. Cómelo de inmediato, mientras las escamas se siguen moviendo."
+  ],
+  "tips": [
+   "Nunca lo aplastes. El aire atrapado es lo que lo hace ligero.",
+   "Pica la col en trozos en vez de rallarla: quieres textura, no ensalada.",
+   "Reposar la masa hidrata la harina y evita que sepa a engrudo."
+  ],
+  "video": "okonomiyaki de osaka"
+ },
+ "en": {
+  "name": "Okonomiyaki",
+  "blurb": "Grated nagaimo yam makes the batter light and slightly creamy. Without it you have a pancake; with it, okonomiyaki.",
+  "ing": [
+   {
+    "n": "flour"
+   },
+   {
+    "n": "dashi",
+    "note": "cold"
+   },
+   {
+    "n": "nagaimo",
+    "note": "grated, or 2 tbsp more flour"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "cabbage",
+    "note": "chopped, not shredded"
+   },
+   {
+    "n": "scallion"
+   },
+   {
+    "n": "pork belly",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "tenkasu",
+    "note": "tempura bits"
+   },
+   {
+    "n": "pickled ginger"
+   },
+   {
+    "n": "okonomi sauce"
+   },
+   {
+    "n": "Kewpie mayonnaise"
+   },
+   {
+    "n": "katsuobushi"
+   },
+   {
+    "n": "aonori"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Whisk the flour, dashi and grated yam and rest the batter for 30 minutes in the fridge.",
+   "Fold in the eggs, then the cabbage, scallion, tenkasu and ginger. Keep it loose: the cabbage should be barely coated, not suspended in batter.",
+   "Heat a pan over medium heat with oil. Form a mound 2 cm high. Don't flatten it.",
+   "Lay the pork slices on top. Cook 5 minutes until the base sets and browns.",
+   "Flip decisively, cover and cook 6 minutes more. Flip again and give it 2 minutes uncovered.",
+   "Sauce, then mayonnaise in lines, then katsuobushi and aonori. Eat immediately, while the flakes are still moving."
+  ],
+  "tips": [
+   "Never press it down. The trapped air is what makes it light.",
+   "Chop the cabbage into pieces rather than shredding it: you want texture, not slaw.",
+   "Resting the batter hydrates the flour and keeps it from tasting pasty."
+  ],
+  "video": "osaka okonomiyaki"
+ }
+}

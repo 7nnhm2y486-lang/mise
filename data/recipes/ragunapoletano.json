@@ -1,0 +1,186 @@
+{
+ "id": "ragunapoletano",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 420,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "tomatopaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "winered",
+   "role": "acid"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Ragù Napoletano",
+  "blurb": "Nada que ver con el boloñés: aquí la carne va en piezas enteras y se cocina seis horas hasta deshacerse. La salsa se come con pasta y la carne después, como segundo plato.",
+  "ing": [
+   {
+    "n": "falda de res",
+    "note": "en una pieza, enrollada"
+   },
+   {
+    "n": "costillas de cerdo"
+   },
+   {
+    "n": "salchicha"
+   },
+   {
+    "n": "cebolla",
+    "note": "en juliana"
+   },
+   {
+    "n": "concentrado de tomate"
+   },
+   {
+    "n": "passata de tomate"
+   },
+   {
+    "n": "vino tinto"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Dora las carnes enteras en aceite por todos lados, en tandas, y resérvalas.",
+   "Cocina las cebollas en la misma grasa 25 minutos, hasta que estén muy blandas y doradas.",
+   "Añade el concentrado de tomate y fríelo 5 minutos hasta que oscurezca.",
+   "Desglasa con el vino y deja evaporar por completo.",
+   "Devuelve las carnes, añade la passata y lleva al hervor más leve que tu fuego permita: una burbuja cada pocos segundos.",
+   "Cocina destapado 5-6 horas, removiendo de vez en cuando. La salsa oscurecerá hasta un rojo casi marrón y la carne se deshará al tocarla. Sirve la salsa con pasta y la carne aparte."
+  ],
+  "tips": [
+   "Piezas enteras, no picado. Es la diferencia estructural con el boloñés.",
+   "El hervor más leve posible durante horas. En Nápoles se dice que la salsa debe 'pippiare': susurrar.",
+   "Se hace el domingo por la mañana para comer a las dos. No hay versión rápida."
+  ],
+  "video": "ragù napoletano domingo"
+ },
+ "en": {
+  "name": "Ragù Napoletano",
+  "blurb": "Nothing like Bolognese: here the meat goes in whole pieces and cooks for six hours until it falls apart. The sauce is eaten with pasta and the meat afterward, as a second course.",
+  "ing": [
+   {
+    "n": "beef flank",
+    "note": "in one piece, rolled"
+   },
+   {
+    "n": "pork ribs"
+   },
+   {
+    "n": "sausage"
+   },
+   {
+    "n": "onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "tomato passata"
+   },
+   {
+    "n": "red wine"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Brown the whole pieces of meat in oil on all sides, in batches, and set aside.",
+   "Cook the onions in the same fat for 25 minutes, until very soft and golden.",
+   "Add the tomato paste and fry it for 5 minutes until it darkens.",
+   "Deglaze with the wine and let it evaporate completely.",
+   "Return the meat, add the passata and bring to the gentlest simmer your stove allows: one bubble every few seconds.",
+   "Cook uncovered for 5-6 hours, stirring now and then. The sauce will darken to an almost brown red and the meat will fall apart at a touch. Serve the sauce with pasta and the meat separately."
+  ],
+  "tips": [
+   "Whole pieces, not ground. That's the structural difference from Bolognese.",
+   "The gentlest possible simmer for hours. In Naples they say the sauce should 'pippiare': whisper.",
+   "It's made on Sunday morning to eat at two. There is no quick version."
+  ],
+  "video": "ragu napoletano neapolitan sunday sauce"
+ }
+}

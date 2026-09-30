@@ -1,0 +1,169 @@
+{
+ "id": "butterboard",
+ "country": "United States",
+ "region": "north-america",
+ "course": "starter",
+ "time": 20,
+ "serves": 6,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "honey",
+   "role": "sweet"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "pistachio",
+   "role": "crunch"
+  },
+  {
+   "q": 1,
+   "u": "loaf",
+   "k": "bread",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Tabla de Mantequilla",
+  "blurb": "Mantequilla extendida sobre una tabla y cubierta de aderezos. Es una forma de servir, no una receta, y depende por completo de dos cosas: la temperatura de la mantequilla y la calidad del pan.",
+  "ing": [
+   {
+    "n": "mantequilla",
+    "note": "de buena calidad, a 20 °C"
+   },
+   {
+    "n": "miel"
+   },
+   {
+    "n": "ajo confitado",
+    "note": "machacados"
+   },
+   {
+    "n": "ralladura de limón"
+   },
+   {
+    "n": "hierbas frescas",
+    "note": "tomillo, cebollín, eneldo"
+   },
+   {
+    "n": "hojuelas de chile"
+   },
+   {
+    "n": "sal en escamas"
+   },
+   {
+    "n": "pistachos",
+    "note": "picados"
+   },
+   {
+    "n": "pan de masa madre",
+    "note": "recién tostado"
+   }
+  ],
+  "steps": [
+   "Saca la mantequilla al menos una hora antes. Debe estar untable pero no derretida: alrededor de 20 °C.",
+   "Machaca el ajo confitado y mézclalo con la mitad de la mantequilla.",
+   "Extiende toda la mantequilla sobre una tabla de madera con el dorso de una cuchara, creando surcos y relieves que retengan los aderezos.",
+   "Distribuye la miel en hilos, no en charcos.",
+   "Esparce las hierbas, la ralladura, el chile, los pistachos y la sal en escamas por encima.",
+   "Sirve de inmediato con pan caliente recién tostado."
+  ],
+  "tips": [
+   "La mantequilla a 20 °C. Fría no se unta y derretida se convierte en un charco.",
+   "Los surcos no son decorativos: son lo que sostiene los aderezos al mojar el pan.",
+   "Si te preocupa compartir una tabla, sírvela en platos individuales. Funciona igual."
+  ],
+  "video": "butter board tabla de mantequilla"
+ },
+ "en": {
+  "name": "Butter Board",
+  "blurb": "Butter spread across a board and covered in toppings. It's a way of serving, not a recipe, and it depends entirely on two things: the butter's temperature and the quality of the bread.",
+  "ing": [
+   {
+    "n": "butter",
+    "note": "good quality, at 20 °C"
+   },
+   {
+    "n": "honey"
+   },
+   {
+    "n": "garlic confit",
+    "note": "mashed"
+   },
+   {
+    "n": "lemon zest"
+   },
+   {
+    "n": "fresh herbs",
+    "note": "thyme, chives, dill"
+   },
+   {
+    "n": "chile flakes"
+   },
+   {
+    "n": "flaky salt"
+   },
+   {
+    "n": "pistachios",
+    "note": "chopped"
+   },
+   {
+    "n": "sourdough bread",
+    "note": "freshly toasted"
+   }
+  ],
+  "steps": [
+   "Take the butter out at least an hour ahead. It should be spreadable but not melted: around 20 °C.",
+   "Mash the garlic confit and mix it into half the butter.",
+   "Spread all the butter over a wooden board with the back of a spoon, making grooves and ridges to hold the toppings.",
+   "Drizzle the honey in threads, not puddles.",
+   "Scatter the herbs, zest, chile, pistachios and flaky salt over the top.",
+   "Serve right away with warm, freshly toasted bread."
+  ],
+  "tips": [
+   "Butter at 20 °C. Cold, it won't spread; melted, it becomes a puddle.",
+   "The grooves aren't decorative: they're what holds the toppings when you drag the bread through.",
+   "If sharing a board bothers you, serve it on individual plates. Works the same."
+  ],
+  "video": "butter board recipe"
+ }
+}

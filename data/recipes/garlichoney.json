@@ -1,0 +1,106 @@
+{
+ "id": "garlichoney",
+ "country": "United States",
+ "region": "north-america",
+ "course": "sauce",
+ "time": 43200,
+ "serves": 16,
+ "ing": [
+  {
+   "q": 2,
+   "u": "head",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "honey",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Miel de Ajo Fermentada",
+  "blurb": "Ajo crudo sumergido en miel durante un mes. El agua del ajo diluye la miel lo justo para permitir una fermentación lenta, y el resultado es dulce, ácido y profundamente aromático.",
+  "ing": [
+   {
+    "n": "ajo",
+    "note": "dientes pelados y aplastados ligeramente"
+   },
+   {
+    "n": "miel cruda",
+    "note": "sin pasteurizar"
+   },
+   {
+    "n": "romero",
+    "note": "opcional"
+   },
+   {
+    "n": "hojuelas de chile",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Pela los dientes y aplástalos ligeramente con el lado del cuchillo: eso libera el agua que pone en marcha la fermentación.",
+   "Colócalos en un frasco limpio que llenen hasta la mitad como mucho.",
+   "Cubre por completo con miel cruda, dejando 3 cm libres arriba.",
+   "Cierra sin apretar del todo, o afloja la tapa a diario: se genera gas y un frasco sellado puede reventar.",
+   "Voltea el frasco cada día durante la primera semana para que todos los dientes queden bañados. Aparecerán burbujas y la miel se volverá más fluida.",
+   "A las 3-4 semanas los dientes se habrán oscurecido y hundido. Guárdala a temperatura ambiente; dura un año."
+  ],
+  "tips": [
+   "Afloja la tapa a diario la primera semana. El gas de la fermentación genera presión real.",
+   "Miel cruda. La pasteurizada no tiene las levaduras silvestres necesarias.",
+   "A diferencia del ajo en aceite, la acidez de la miel fermentada hace el medio hostil al botulismo. Aun así, si la miel no se vuelve más fluida ni burbujea en la primera semana, algo va mal: deséchala."
+  ],
+  "video": "miel de ajo fermentada"
+ },
+ "en": {
+  "name": "Fermented Garlic Honey",
+  "blurb": "Raw garlic submerged in honey for a month. The water from the garlic thins the honey just enough to allow a slow fermentation, and the result is sweet, sour and deeply aromatic.",
+  "ing": [
+   {
+    "n": "garlic",
+    "note": "peeled cloves, lightly crushed"
+   },
+   {
+    "n": "raw honey",
+    "note": "unpasteurized"
+   },
+   {
+    "n": "rosemary",
+    "note": "optional"
+   },
+   {
+    "n": "chile flakes",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Peel the cloves and crush them lightly with the flat of a knife: that releases the water that starts the fermentation.",
+   "Put them in a clean jar that they fill halfway at most.",
+   "Cover completely with raw honey, leaving 3 cm of headspace.",
+   "Close without fully tightening, or loosen the lid daily: gas builds up and a sealed jar can burst.",
+   "Turn the jar over every day for the first week so every clove gets coated. Bubbles will appear and the honey will get runnier.",
+   "After 3-4 weeks the cloves will have darkened and sunk. Store at room temperature; it keeps for a year."
+  ],
+  "tips": [
+   "Loosen the lid daily the first week. Fermentation gas builds real pressure.",
+   "Raw honey. Pasteurized honey lacks the wild yeasts it needs.",
+   "Unlike garlic in oil, the acidity of fermented honey makes it hostile to botulism. Even so, if the honey has not thinned or bubbled within the first week, something is wrong: throw it out."
+  ],
+  "video": "fermented garlic honey"
+ }
+}

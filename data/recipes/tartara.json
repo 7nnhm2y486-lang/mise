@@ -1,0 +1,190 @@
+{
+ "id": "tartara",
+ "country": "France",
+ "region": "western-europe",
+ "course": "sauce",
+ "time": 15,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "mayo",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "shallot",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "mustard",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Salsa Tártara",
+  "blurb": "Mayonesa con encurtidos picados, y la clave es la proporción: debe haber tanto sólido que la cuchara se sostenga. Una tártara que fluye está mal hecha.",
+  "ing": [
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "pepinillos",
+    "note": "en vinagre, picados"
+   },
+   {
+    "n": "alcaparras",
+    "note": "picadas"
+   },
+   {
+    "n": "chalota",
+    "note": "muy picada"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "estragón"
+   },
+   {
+    "n": "mostaza de Dijon"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "huevo cocido",
+    "note": "picado, opcional"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Pica los pepinillos y las alcaparras y escúrrelos sobre papel de cocina.",
+   "Remoja la chalota picada en el jugo de limón 10 minutos para suavizarla.",
+   "Mezcla la mayonesa con la mostaza.",
+   "Incorpora los encurtidos, la chalota con su limón, las hierbas y el huevo picado si lo usas.",
+   "Sazona y mezcla: debe quedar densa, con más tropiezos que salsa.",
+   "Reposa 30 minutos. Aguanta cuatro días."
+  ],
+  "tips": [
+   "Tanto sólido como salsa. Si fluye, añade más encurtido picado.",
+   "Escurre todo sobre papel antes de mezclar.",
+   "El estragón es lo que la diferencia de una simple mayonesa con pepinillos."
+  ],
+  "video": "salsa tártara casera"
+ },
+ "en": {
+  "name": "Tartar Sauce",
+  "blurb": "Mayonnaise with chopped pickles, and the key is the ratio: there should be so much solid that a spoon stands up. A tartar sauce that pours is made wrong.",
+  "ing": [
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "cornichons",
+    "note": "pickled, chopped"
+   },
+   {
+    "n": "capers",
+    "note": "chopped"
+   },
+   {
+    "n": "shallot",
+    "note": "finely minced"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "tarragon"
+   },
+   {
+    "n": "Dijon mustard"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "hard-boiled egg",
+    "note": "chopped, optional"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Chop the cornichons and capers and drain them on paper towels.",
+   "Soak the minced shallot in the lemon juice for 10 minutes to mellow it.",
+   "Mix the mayonnaise with the mustard.",
+   "Stir in the pickles, the shallot with its lemon juice, the herbs and the chopped egg, if using.",
+   "Season and mix: it should be thick, more bits than sauce.",
+   "Rest 30 minutes. It keeps for four days."
+  ],
+  "tips": [
+   "As much solid as sauce. If it pours, add more chopped pickle.",
+   "Drain everything on paper before mixing.",
+   "Tarragon is what separates it from plain mayonnaise with pickles."
+  ],
+  "video": "homemade tartar sauce"
+ }
+}

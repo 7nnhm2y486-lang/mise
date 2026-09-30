@@ -1,0 +1,166 @@
+{
+ "id": "peperonata",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "side",
+ "time": 70,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "bellpepper",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Peperonata",
+  "blurb": "Pimientos cocidos muy despacio hasta deshacerse en su propio jugo. Cuarenta minutos a fuego bajo, sin prisa y casi sin líquido añadido.",
+  "ing": [
+   {
+    "n": "pimientos rojos y amarillos",
+    "note": "en tiras anchas"
+   },
+   {
+    "n": "cebolla",
+    "note": "en juliana"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "tomate",
+    "note": "pelado"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "vinagre de vino tinto"
+   },
+   {
+    "n": "alcaparras",
+    "note": "opcional"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Corta los pimientos en tiras anchas, no finas: deben mantener algo de cuerpo tras la cocción larga.",
+   "Cocina las cebollas en el aceite 15 minutos a fuego medio-bajo.",
+   "Añade los pimientos y una pizca de sal, tapa y cocina 25 minutos, removiendo de vez en cuando. Soltarán su propia agua.",
+   "Destapa, añade el ajo y el tomate, y cocina 20 minutos más hasta que casi todo el líquido se evapore.",
+   "Añade el vinagre y las alcaparras y sube el fuego 2 minutos.",
+   "Fuera del fuego, añade la albahaca. Se come tibia o a temperatura ambiente."
+  ],
+  "tips": [
+   "Tapada al principio para que suden, destapada al final para que concentren.",
+   "Tiras anchas. Cortados finos se deshacen del todo en una hora de cocción.",
+   "Mejor al día siguiente, como casi todas las conservas de verdura italianas."
+  ],
+  "video": "peperonata italiana"
+ },
+ "en": {
+  "name": "Peperonata",
+  "blurb": "Peppers cooked very slowly until they collapse into their own juices. Forty minutes over low heat, no hurry and almost no added liquid.",
+  "ing": [
+   {
+    "n": "red and yellow bell peppers",
+    "note": "in wide strips"
+   },
+   {
+    "n": "onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "tomato",
+    "note": "peeled"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "red wine vinegar"
+   },
+   {
+    "n": "capers",
+    "note": "optional"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cut the peppers into wide strips, not thin ones: they need to keep some body after the long cook.",
+   "Cook the onions in the oil for 15 minutes over medium-low heat.",
+   "Add the peppers and a pinch of salt, cover and cook for 25 minutes, stirring now and then. They'll release their own water.",
+   "Uncover, add the garlic and tomato, and cook 20 minutes more until almost all the liquid has evaporated.",
+   "Add the vinegar and capers and turn up the heat for 2 minutes.",
+   "Off the heat, add the basil. Eat it warm or at room temperature."
+  ],
+  "tips": [
+   "Covered at first so they sweat, uncovered at the end so they concentrate.",
+   "Wide strips. Cut thin, they fall apart completely over an hour of cooking.",
+   "Better the next day, like almost every Italian vegetable preserve."
+  ],
+  "video": "italian peperonata"
+ }
+}

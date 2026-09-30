@@ -1,0 +1,182 @@
+{
+ "id": "arancini",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "starter",
+ "time": 180,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "tomato",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "mozzarella",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "breadcrumbs",
+   "role": "dredge"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Arancini",
+  "blurb": "Se hacen con risotto del día anterior, frío y firme. Con arroz recién hecho no se pueden formar y revientan en el aceite.",
+  "ing": [
+   {
+    "n": "risotto frío",
+    "note": "del día anterior, con azafrán"
+   },
+   {
+    "n": "ragú espeso",
+    "note": "muy reducido"
+   },
+   {
+    "n": "mozzarella",
+    "note": "en cubitos"
+   },
+   {
+    "n": "chícharos",
+    "note": "cocidos"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "pan rallado",
+    "note": "fino"
+   },
+   {
+    "n": "parmesano"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Usa risotto refrigerado toda la noche. Mézclalo con el parmesano y un huevo batido.",
+   "Mezcla el ragú muy reducido con los chícharos: el relleno debe ser casi seco o reventará la bola.",
+   "Toma una porción de arroz en la palma mojada, haz un hueco, pon una cucharadita de relleno y un cubo de mozzarella, y cierra formando un cono o una bola.",
+   "Refrigera las piezas formadas 30 minutos para que se afirmen.",
+   "Pasa por harina, huevo batido y pan rallado, presionando bien.",
+   "Fríe a 175 °C durante 4-5 minutos hasta que estén dorados. Escurre en rejilla y reposa 5 minutos."
+  ],
+  "tips": [
+   "Risotto frío y del día anterior. Es la condición sin la que nada funciona.",
+   "El relleno seco. Cualquier líquido se convierte en vapor y abre la bola.",
+   "Fríe pocos a la vez y no muevas el aceite en exceso."
+  ],
+  "video": "arancini sicilianos"
+ },
+ "en": {
+  "name": "Arancini",
+  "blurb": "Made with day-old risotto, cold and firm. Freshly made rice can't be shaped and bursts in the oil.",
+  "ing": [
+   {
+    "n": "cold risotto",
+    "note": "day-old, with saffron"
+   },
+   {
+    "n": "thick ragù",
+    "note": "well reduced"
+   },
+   {
+    "n": "mozzarella",
+    "note": "in small cubes"
+   },
+   {
+    "n": "peas",
+    "note": "cooked"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "breadcrumbs",
+    "note": "fine"
+   },
+   {
+    "n": "parmesan"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Use risotto that has been refrigerated overnight. Mix it with the parmesan and one beaten egg.",
+   "Mix the well-reduced ragù with the peas: the filling should be almost dry or the ball will burst.",
+   "Take a portion of rice in a wet palm, make a hollow, add a teaspoon of filling and a cube of mozzarella, and close it into a cone or a ball.",
+   "Refrigerate the shaped pieces for 30 minutes to firm up.",
+   "Coat in flour, beaten egg and breadcrumbs, pressing well.",
+   "Fry at 175 °C for 4-5 minutes until golden. Drain on a rack and rest 5 minutes."
+  ],
+  "tips": [
+   "Cold, day-old risotto. It's the condition without which nothing works.",
+   "Dry filling. Any liquid turns to steam and splits the ball open.",
+   "Fry a few at a time and don't stir the oil too much."
+  ],
+  "video": "sicilian arancini"
+ }
+}

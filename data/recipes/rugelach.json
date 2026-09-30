@@ -1,0 +1,201 @@
+{
+ "id": "rugelach",
+ "country": "Poland",
+ "region": "eastern-europe",
+ "course": "pastry",
+ "time": 240,
+ "serves": 32,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 280,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 225,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 225,
+   "u": "g",
+   "k": "creamcheese",
+   "role": "fat"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 0.75,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "walnut",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "glaze"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "sugar",
+   "role": "crunch"
+  }
+ ],
+ "es": {
+  "name": "Rugelach",
+  "blurb": "Una masa de queso crema, tierna e indulgente como no lo es una quebrada de mantequilla. Además dora estupendamente por su proteína extra.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "mantequilla",
+    "note": "fría"
+   },
+   {
+    "n": "queso crema",
+    "note": "frío"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "mermelada de albaricoque"
+   },
+   {
+    "n": "nueces",
+    "note": "picadas"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "azúcar demerara"
+   }
+  ],
+  "steps": [
+   "Procesa la harina, la mantequilla fría, el queso crema frío, el azúcar y la sal hasta que apenas se agrupe.",
+   "Divide en cuatro, aplana en discos y refrigera al menos 2 horas.",
+   "Estira cada disco en un círculo de 23 cm. Unta una capa fina de mermelada y esparce nueces, azúcar morena, canela y pasas.",
+   "Corta cada círculo en 8 gajos y enrolla cada uno desde el lado ancho hacia dentro.",
+   "Coloca con la punta hacia abajo, curva en media luna y congela 20 minutos.",
+   "Pinta con huevo, espolvorea demerara y hornea a 180 °C durante 22-25 minutos. Sácalos pronto de la bandeja: la mermelada que se escapa cuaja como pegamento."
+  ],
+  "tips": [
+   "Queso crema y mantequilla fríos. La masa se afloja rápido.",
+   "Capa fina de mermelada. Demasiada hierve fuera y los suelda a la bandeja.",
+   "Congelar las medias lunas formadas evita que se desenrollen en el horno."
+  ],
+  "video": "rugelach masa de queso crema"
+ },
+ "en": {
+  "name": "Rugelach",
+  "blurb": "A cream cheese dough, tender and rich in a way a butter shortcrust isn't. It also browns beautifully thanks to the extra protein.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter",
+    "note": "cold"
+   },
+   {
+    "n": "cream cheese",
+    "note": "cold"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "apricot jam"
+   },
+   {
+    "n": "walnuts",
+    "note": "chopped"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "cinnamon"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "demerara sugar"
+   }
+  ],
+  "steps": [
+   "Process the flour, cold butter, cold cream cheese, sugar and salt until it barely clumps.",
+   "Divide into four, flatten into discs and chill at least 2 hours.",
+   "Roll each disc into a 23 cm circle. Spread a thin layer of jam and scatter with walnuts, brown sugar, cinnamon and raisins.",
+   "Cut each circle into 8 wedges and roll each one up from the wide end inward.",
+   "Place point-side down, curve into crescents and freeze 20 minutes.",
+   "Brush with egg, sprinkle with demerara and bake at 180 °C for 22-25 minutes. Get them off the sheet early: jam that leaks out sets like glue."
+  ],
+  "tips": [
+   "Cold cream cheese and cold butter. The dough softens fast.",
+   "A thin layer of jam. Too much boils out and welds them to the sheet.",
+   "Freezing the shaped crescents keeps them from unrolling in the oven."
+  ],
+  "video": "rugelach cream cheese dough"
+ }
+}

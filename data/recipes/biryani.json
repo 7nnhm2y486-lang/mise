@@ -1,0 +1,228 @@
+{
+ "id": "biryani",
+ "country": "India",
+ "region": "south-asia",
+ "course": "main",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "yogurt",
+   "role": "acid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "ghee",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Biryani de Pollo",
+  "blurb": "Arroz y carne cocinados por separado a puntos distintos, luego montados en capas y cocidos al vapor sellados. El dum no es teatro: es cómo viajan los sabores.",
+  "ing": [
+   {
+    "n": "arroz basmati",
+    "note": "remojado 30 min"
+   },
+   {
+    "n": "pollo",
+    "note": "en piezas con hueso"
+   },
+   {
+    "n": "yogur"
+   },
+   {
+    "n": "cebolla",
+    "note": "en rodajas, fritas hasta crujir"
+   },
+   {
+    "n": "pasta de jengibre y ajo"
+   },
+   {
+    "n": "masala de biryani"
+   },
+   {
+    "n": "menta y cilantro"
+   },
+   {
+    "n": "azafrán",
+    "note": "en 60 ml de leche tibia"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "ghee"
+   },
+   {
+    "n": "chile verde"
+   },
+   {
+    "n": "especias enteras",
+    "note": "laurel, cardamomo, canela, clavo"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Fríe las cebollas en ghee hasta que estén muy doradas y crujientes. Escúrrelas: estas birista van al adobo y a las capas.",
+   "Marina el pollo con yogur, jengibre y ajo, masala, la mitad de las hierbas, la mitad de las cebollas fritas, limón y sal. Dos horas mínimo, toda la noche idealmente.",
+   "Cocina el pollo marinado en una olla pesada 20 minutos, hasta que esté casi hecho y la salsa haya espesado.",
+   "Hierve el arroz en agua muy salada con las especias enteras exactamente 5-6 minutos: al 70%, aún duro en el centro. Escurre de inmediato.",
+   "Extiende el arroz sobre el pollo. Esparce el resto de cebollas, hierbas, la leche con azafrán y cucharadas de ghee.",
+   "Sella la tapa con aluminio o masa. Cocina al fuego más bajo, o sobre una plancha, 25 minutos. Reposa 15 minutos antes de abrir y sirve levantando desde el fondo con una cuchara plana."
+  ],
+  "tips": [
+   "Deja el arroz deliberadamente crudo. Se termina en el vapor y en ningún otro sitio.",
+   "Remoja el basmati para que los granos se hidraten parejo y queden largos en vez de partirse.",
+   "No remuevas al servir. Levanta y pliega, o tendrás un pilaf."
+  ],
+  "video": "biryani de pollo hyderabadi dum"
+ },
+ "en": {
+  "name": "Chicken Biryani",
+  "blurb": "Rice and meat cooked separately to different stages, then layered and steamed under a seal. Dum isn't theater: it's how the flavors travel.",
+  "ing": [
+   {
+    "n": "basmati rice",
+    "note": "soaked 30 min"
+   },
+   {
+    "n": "chicken",
+    "note": "bone-in pieces"
+   },
+   {
+    "n": "yogurt"
+   },
+   {
+    "n": "onions",
+    "note": "sliced, fried until crisp"
+   },
+   {
+    "n": "ginger-garlic paste"
+   },
+   {
+    "n": "biryani masala"
+   },
+   {
+    "n": "mint and cilantro"
+   },
+   {
+    "n": "saffron",
+    "note": "in 60 ml warm milk"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "ghee"
+   },
+   {
+    "n": "green chiles"
+   },
+   {
+    "n": "whole spices",
+    "note": "bay leaf, cardamom, cinnamon, cloves"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Fry the onions in ghee until deep golden and crisp. Drain them: this birista goes into the marinade and the layers.",
+   "Marinate the chicken with the yogurt, ginger-garlic paste, masala, half the herbs, half the fried onions, lemon and salt. Two hours minimum, overnight ideally.",
+   "Cook the marinated chicken in a heavy pot for 20 minutes, until nearly done and the sauce has thickened.",
+   "Boil the rice in heavily salted water with the whole spices for exactly 5-6 minutes: 70% done, still hard in the center. Drain immediately.",
+   "Spread the rice over the chicken. Scatter over the rest of the onions and herbs, the saffron milk and spoonfuls of ghee.",
+   "Seal the lid with foil or dough. Cook over the lowest heat, or on a griddle, for 25 minutes. Rest 15 minutes before opening and serve by lifting from the bottom with a flat spoon."
+  ],
+  "tips": [
+   "Leave the rice deliberately underdone. It finishes in the steam and nowhere else.",
+   "Soak the basmati so the grains hydrate evenly and stay long instead of breaking.",
+   "Don't stir when serving. Lift and fold, or you'll have pilaf."
+  ],
+  "video": "hyderabadi chicken dum biryani"
+ }
+}

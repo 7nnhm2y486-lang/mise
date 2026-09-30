@@ -1,0 +1,113 @@
+{
+ "id": "tanghulu",
+ "country": "China",
+ "region": "east-asia",
+ "course": "sweet",
+ "time": 30,
+ "serves": 6,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Tanghulu",
+  "blurb": "Fruta bañada en caramelo a punto de quiebre duro. Un caramelo a 150 °C y fruta absolutamente seca: cualquier gota de agua lo vuelve pegajoso en vez de vidrioso.",
+  "ing": [
+   {
+    "n": "fresas o uvas",
+    "note": "firmes y secas"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "brochetas de bambú"
+   }
+  ],
+  "steps": [
+   "Lava la fruta con horas de antelación y sécala por completo, pieza por pieza. Esto no es un detalle: es el paso crítico.",
+   "Ensarta la fruta en las brochetas y déjala a temperatura ambiente. La fruta fría condensa humedad.",
+   "Hierve el azúcar, el agua y el limón sin remover, solo girando la olla.",
+   "Cocina hasta 150 °C exactos con termómetro. Sin termómetro: una gota en agua helada debe endurecerse y quebrarse al instante.",
+   "Inclina la olla y sumerge cada brocheta girándola, dejando escurrir el exceso.",
+   "Apóyalas sobre papel de horno engrasado. Endurece en un minuto y se come en la hora siguiente."
+  ],
+  "tips": [
+   "Fruta seca, seca de verdad. El agua es la causa de todo tanghulu fallido.",
+   "150 °C. A 140 queda blando y pegajoso; a 160 el caramelo amarga.",
+   "Se come el mismo día. La humedad de la fruta disuelve el caramelo desde dentro en unas horas."
+  ],
+  "video": "tanghulu fruta caramelizada"
+ },
+ "en": {
+  "name": "Tanghulu",
+  "blurb": "Fruit dipped in hard-crack candy. Sugar syrup at 150 °C and absolutely dry fruit: a single drop of water makes it sticky instead of glassy.",
+  "ing": [
+   {
+    "n": "strawberries or grapes",
+    "note": "firm and dry"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "bamboo skewers"
+   }
+  ],
+  "steps": [
+   "Wash the fruit hours ahead and dry it completely, piece by piece. This isn't a detail: it's the critical step.",
+   "Thread the fruit onto the skewers and leave it at room temperature. Cold fruit condenses moisture.",
+   "Boil the sugar, water and lemon juice without stirring, only swirling the pot.",
+   "Cook to exactly 150 °C on a thermometer. Without one: a drop in ice water should harden and snap instantly.",
+   "Tilt the pot and dip each skewer, turning it, and let the excess drip off.",
+   "Set them on greased parchment. They harden within a minute and should be eaten within the hour."
+  ],
+  "tips": [
+   "Dry fruit, truly dry. Water is behind every failed tanghulu.",
+   "150 °C. At 140 it stays soft and sticky; at 160 the candy turns bitter.",
+   "Eat it the same day. Moisture from the fruit dissolves the candy from the inside within a few hours."
+  ],
+  "video": "tanghulu candied fruit"
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "id": "fishandchips",
+ "country": "United Kingdom",
+ "region": "western-europe",
+ "course": "main",
+ "time": 90,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "loin",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "beer",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Pescado con Papas",
+  "blurb": "La masa con cerveza funciona porque el alcohol se evapora antes que el agua y la carbonatación deja huecos. Las papas se fríen dos veces: una para cocer, otra para dorar.",
+  "ing": [
+   {
+    "n": "bacalao o abadejo"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "cerveza fría",
+    "note": "lager, muy fría"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "papas harinosas",
+    "note": "en bastones gruesos"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "vinagre de malta"
+   }
+  ],
+  "steps": [
+   "Corta las papas, enjuaga el almidón superficial y luego cuécelas en agua salada 5 minutos hasta que apenas cedan. Escurre y sécalas por completo en una rejilla; una hora en el refrigerador es lo ideal.",
+   "Fríe las papas a 140 °C durante 6 minutos hasta que estén pálidas y blandas. Sácalas y déjalas enfriar. Esta primera fritura cuece el interior.",
+   "Bate las harinas, el polvo de hornear y la sal, y luego incorpora la cerveza muy fría solo hasta integrar. Los grumos están bien; batir de más no.",
+   "Enharina el pescado, sumérgelo en la masa y bájalo a aceite a 185 °C, sosteniéndolo unos segundos para que cuaje antes de soltarlo.",
+   "Fríe 6-7 minutos hasta dorado intenso. Escurre en rejilla.",
+   "Sube el aceite a 190 °C y fríe las papas por segunda vez 3 minutos hasta que crujan. Sala de inmediato."
+  ],
+  "tips": [
+   "Cerveza fría, y mezcla en el último segundo. Una masa reposada pierde las burbujas.",
+   "Dos frituras para las papas, a dos temperaturas. No hay forma de esquivarlo.",
+   "Rejilla, nunca papel. El vapor atrapado debajo ablanda la costra en un minuto."
+  ],
+  "video": "pescado rebozado con cerveza y papas"
+ },
+ "en": {
+  "name": "Fish and Chips",
+  "blurb": "Beer batter works because the alcohol evaporates before the water and the carbonation leaves pockets. The chips are fried twice: once to cook, once to brown.",
+  "ing": [
+   {
+    "n": "cod or haddock"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "cold beer",
+    "note": "lager, ice-cold"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "floury potatoes",
+    "note": "cut into thick batons"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "malt vinegar"
+   }
+  ],
+  "steps": [
+   "Cut the potatoes, rinse off the surface starch, then simmer them in salted water for 5 minutes until they just give. Drain and dry them completely on a rack; an hour in the fridge is ideal.",
+   "Fry the potatoes at 140 °C for 6 minutes until pale and soft. Lift out and let cool. This first fry cooks the inside.",
+   "Whisk the flours, baking powder and salt, then stir in the ice-cold beer just until combined. Lumps are fine; overmixing is not.",
+   "Dust the fish with flour, dip it in the batter and lower it into oil at 185 °C, holding it a few seconds so it sets before you let go.",
+   "Fry 6-7 minutes until deep golden. Drain on a rack.",
+   "Raise the oil to 190 °C and fry the potatoes a second time for 3 minutes until crisp. Salt immediately."
+  ],
+  "tips": [
+   "Cold beer, and mix at the last second. A rested batter loses its bubbles.",
+   "Two fries for the chips, at two temperatures. There is no getting around it.",
+   "A rack, never paper. Steam trapped underneath softens the crust in a minute."
+  ],
+  "video": "beer battered fish and chips"
+ }
+}

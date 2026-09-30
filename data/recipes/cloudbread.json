@@ -1,0 +1,128 @@
+{
+ "id": "cloudbread",
+ "country": "Korea",
+ "region": "east-asia",
+ "course": "sweet",
+ "time": 40,
+ "serves": 2,
+ "ovenC": 150,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "eggwhite",
+   "role": "aerate"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "aerate"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "cornstarch",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "drop",
+   "k": "",
+   "role": "garnish"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pan Nube",
+  "blurb": "Honestamente: es sobre todo estética. Tres ingredientes montados a merengue y horneados hasta quedar como una nube de colores. Sabe a merengue blando, no a pan, y conviene saberlo antes.",
+  "ing": [
+   {
+    "n": "claras de huevo",
+    "note": "a temperatura ambiente"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "colorante en gel",
+    "note": "opcional"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "sal fina"
+   }
+  ],
+  "steps": [
+   "Asegúrate de que el bol y las varillas estén absolutamente limpios de grasa: una traza impide que las claras monten.",
+   "Monta las claras con la sal a picos suaves.",
+   "Añade el azúcar en tres tandas, batiendo bien entre cada una, hasta picos firmes y brillantes.",
+   "Tamiza la fécula por encima e incorpórala con movimientos envolventes, junto con la vainilla y el colorante.",
+   "Forma un montículo alto sobre papel de horno, dándole forma de nube con una espátula.",
+   "Hornea a 150 °C durante 25 minutos, hasta que esté seco por fuera y todavía tierno dentro. Cómelo el mismo día."
+  ],
+  "tips": [
+   "Es un merengue blando, no un pan. Si esperas miga, te vas a decepcionar, y eso es culpa del nombre.",
+   "Bol sin nada de grasa. Es la única forma de que monte.",
+   "Se desinfla y se pone chicloso en pocas horas. Es un plato para mirar y comer enseguida."
+  ],
+  "video": "cloud bread pan nube"
+ },
+ "en": {
+  "name": "Cloud Bread",
+  "blurb": "Honestly: it's mostly about looks. Three ingredients whipped into a meringue and baked into a colorful cloud. It tastes like soft meringue, not bread, and it's worth knowing that going in.",
+  "ing": [
+   {
+    "n": "egg whites",
+    "note": "at room temperature"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "gel food coloring",
+    "note": "optional"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "fine salt"
+   }
+  ],
+  "steps": [
+   "Make sure the bowl and whisk are absolutely free of grease: a trace stops the whites from whipping.",
+   "Whip the whites with the salt to soft peaks.",
+   "Add the sugar in three additions, beating well between each, until stiff and glossy.",
+   "Sift the cornstarch over and fold it in, along with the vanilla and coloring.",
+   "Shape a tall mound on parchment, sculpting it into a cloud with a spatula.",
+   "Bake at 150 °C for 25 minutes, until dry outside and still soft inside. Eat it the same day."
+  ],
+  "tips": [
+   "It's a soft meringue, not a bread. If you expect crumb you'll be disappointed, and that's the name's fault.",
+   "A completely grease-free bowl. It's the only way it whips.",
+   "It deflates and turns chewy within a few hours. It's a dish to look at and eat right away."
+  ],
+  "video": "tiktok cloud bread"
+ }
+}

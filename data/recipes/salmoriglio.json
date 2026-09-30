@@ -1,0 +1,152 @@
+{
+ "id": "salmoriglio",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sauce",
+ "time": 10,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Salmoriglio",
+  "blurb": "La salsa siciliana para pescado a la brasa: aceite, limón y orégano emulsionados con agua caliente. El agua caliente es lo que la liga y lo que casi nadie usa.",
+  "ing": [
+   {
+    "n": "aceite de oliva",
+    "note": "virgen extra"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "agua caliente"
+   },
+   {
+    "n": "orégano seco",
+    "note": "siciliano si puedes"
+   },
+   {
+    "n": "ajo",
+    "note": "muy picado"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Disuelve la sal en el agua caliente.",
+   "Bate el aceite con el agua salada caliente: emulsionará y se volverá turbio y cremoso.",
+   "Incorpora el jugo de limón poco a poco, batiendo.",
+   "Añade el orégano seco frotándolo entre las palmas para despertarlo.",
+   "Incorpora el ajo y el perejil picados.",
+   "Úsala tibia sobre pescado o carne recién salidos de la brasa, y reserva un poco para la mesa."
+  ],
+  "tips": [
+   "Agua caliente, no fría. Es lo que permite que aceite y limón liguen sin separarse.",
+   "Orégano seco, no fresco: en Sicilia esta salsa se hace con orégano secado al sol.",
+   "Se sirve tibia, nunca fría del refrigerador."
+  ],
+  "video": "salmoriglio siciliano"
+ },
+ "en": {
+  "name": "Salmoriglio",
+  "blurb": "The Sicilian sauce for grilled fish: oil, lemon and oregano emulsified with hot water. The hot water is what binds it, and what almost nobody uses.",
+  "ing": [
+   {
+    "n": "olive oil",
+    "note": "extra virgin"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "hot water"
+   },
+   {
+    "n": "dried oregano",
+    "note": "Sicilian if you can"
+   },
+   {
+    "n": "garlic",
+    "note": "finely chopped"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Dissolve the salt in the hot water.",
+   "Whisk the oil with the hot salted water: it will emulsify and turn cloudy and creamy.",
+   "Whisk in the lemon juice a little at a time.",
+   "Add the dried oregano, rubbing it between your palms to wake it up.",
+   "Stir in the chopped garlic and parsley.",
+   "Use it warm over fish or meat straight off the grill, and keep some back for the table."
+  ],
+  "tips": [
+   "Hot water, not cold. It's what lets the oil and lemon bind without separating.",
+   "Dried oregano, not fresh: in Sicily this sauce is made with sun-dried oregano.",
+   "Serve it warm, never cold from the fridge."
+  ],
+  "video": "sicilian salmoriglio sauce"
+ }
+}

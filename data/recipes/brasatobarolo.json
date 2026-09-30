@@ -1,0 +1,222 @@
+{
+ "id": "brasatobarolo",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 300,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "bottle",
+   "k": "winered",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "stalk",
+   "k": "celery",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Brasato al Barolo",
+  "blurb": "Carne marinada una noche entera en vino tinto potente y luego braseada en ese mismo vino. El vino se reduce hasta perder todo el alcohol y convertirse en salsa casi negra.",
+  "ing": [
+   {
+    "n": "morcillo o aguja de res",
+    "note": "en una pieza, atada"
+   },
+   {
+    "n": "vino tinto",
+    "note": "Barolo o un Nebbiolo"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "zanahoria"
+   },
+   {
+    "n": "apio"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "clavo"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "romero"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Marina la carne atada con el vino, las verduras en trozos y todas las especias durante 12-24 horas en el refrigerador.",
+   "Saca la carne y sécala muy bien. Cuela la marinada separando vino y verduras.",
+   "Dora la carne en mantequilla y aceite por todas sus caras hasta que esté oscura. Retírala.",
+   "Sofríe las verduras escurridas 15 minutos, espolvorea la harina y cocina 2 minutos.",
+   "Devuelve la carne, añade todo el vino y lleva a hervor suave. Tapa y cocina a 150 °C durante 3 horas.",
+   "Saca la carne, tritura la salsa con las verduras y redúcela si hace falta. Lamina la carne tibia y devuélvela a la salsa caliente."
+  ],
+  "tips": [
+   "Seca bien la carne después de marinar o no se dorará: estará empapada en vino.",
+   "Tritura las verduras de la salsa: son el espesante natural del plato.",
+   "Se corta mejor tibia o al día siguiente. Recién salida se deshace al laminar."
+  ],
+  "video": "brasato al barolo piamontés"
+ },
+ "en": {
+  "name": "Brasato al Barolo",
+  "blurb": "Beef marinated overnight in big red wine and then braised in that same wine. The wine reduces until all its alcohol is gone and it becomes an almost black sauce.",
+  "ing": [
+   {
+    "n": "beef shank or chuck",
+    "note": "in one piece, tied"
+   },
+   {
+    "n": "red wine",
+    "note": "Barolo or a Nebbiolo"
+   },
+   {
+    "n": "onions"
+   },
+   {
+    "n": "carrots"
+   },
+   {
+    "n": "celery"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "rosemary"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Marinate the tied beef with the wine, the chunked vegetables and all the spices for 12-24 hours in the fridge.",
+   "Take out the meat and dry it very well. Strain the marinade, separating wine and vegetables.",
+   "Brown the meat in butter and oil on all sides until dark. Remove it.",
+   "Sauté the drained vegetables for 15 minutes, sprinkle over the flour and cook 2 minutes.",
+   "Return the meat, add all the wine and bring to a gentle simmer. Cover and cook at 150 °C for 3 hours.",
+   "Take out the meat, blend the sauce with the vegetables and reduce it if needed. Slice the meat while warm and return it to the hot sauce."
+  ],
+  "tips": [
+   "Dry the meat well after marinating or it won't brown: it will be soaked in wine.",
+   "Blend the vegetables into the sauce: they're the dish's natural thickener.",
+   "It slices better warm or the next day. Straight out of the pot it falls apart when you slice it."
+  ],
+  "video": "piedmontese brasato al barolo"
+ }
+}

@@ -1,0 +1,174 @@
+{
+ "id": "muhammara",
+ "country": "Syria",
+ "region": "middle-east",
+ "course": "sauce",
+ "time": 30,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "bellpepper",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "walnut",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "breadcrumbs",
+   "role": "thicken"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "acid"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Muhammara",
+  "blurb": "Pimiento asado y nuez con melaza de granada. La miga de pan no es relleno: absorbe el agua del pimiento y es lo que da cuerpo sin aceite de más.",
+  "ing": [
+   {
+    "n": "pimientos rojos",
+    "note": "asados y pelados"
+   },
+   {
+    "n": "nueces",
+    "note": "tostadas"
+   },
+   {
+    "n": "miga de pan"
+   },
+   {
+    "n": "melaza de granada"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "hojuelas de chile de Alepo"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Asa los pimientos sobre llama directa hasta que estén negros por fuera, tápalos 10 minutos y pélalos. No los enjuagues: el agua se lleva el sabor.",
+   "Tuesta las nueces 8 minutos a 180 °C y déjalas enfriar.",
+   "Tritura las nueces con la miga de pan hasta obtener una arena gruesa.",
+   "Añade los pimientos, el ajo, la melaza de granada, el comino, el chile y la sal, y pulsa hasta una pasta con textura.",
+   "Incorpora el aceite en hilo con la máquina en marcha.",
+   "Rectifica con limón y más melaza. Debe quedar dulce, ácido y ahumado a la vez."
+  ],
+  "tips": [
+   "No enjuagues los pimientos asados por mucha piel quemada que quede: lavas todo el sabor.",
+   "La melaza de granada es irremplazable. Si no la tienes, reduce jugo de granada con un poco de limón.",
+   "Mejor al día siguiente, cuando la nuez ha absorbido la humedad del pimiento."
+  ],
+  "video": "muhammara pimiento y nuez"
+ },
+ "en": {
+  "name": "Muhammara",
+  "blurb": "Roasted pepper and walnut with pomegranate molasses. The breadcrumbs aren't filler: they soak up the pepper's water and give body without extra oil.",
+  "ing": [
+   {
+    "n": "red bell peppers",
+    "note": "roasted and peeled"
+   },
+   {
+    "n": "walnuts",
+    "note": "toasted"
+   },
+   {
+    "n": "breadcrumbs"
+   },
+   {
+    "n": "pomegranate molasses"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "Aleppo pepper flakes"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Char the peppers over an open flame until black outside, cover them 10 minutes and peel. Don't rinse them: the water carries off the flavor.",
+   "Toast the walnuts 8 minutes at 180 °C and let them cool.",
+   "Blitz the walnuts with the breadcrumbs to a coarse sand.",
+   "Add the peppers, garlic, pomegranate molasses, cumin, chile and salt, and pulse to a textured paste.",
+   "Stream in the oil with the machine running.",
+   "Adjust with lemon and more molasses. It should be sweet, sour and smoky all at once."
+  ],
+  "tips": [
+   "Don't rinse the roasted peppers, however much charred skin is left: you wash away all the flavor.",
+   "Pomegranate molasses is irreplaceable. If you don't have it, reduce pomegranate juice with a little lemon.",
+   "Better the next day, once the walnuts have absorbed the moisture from the peppers."
+  ],
+  "video": "muhammara roasted red pepper walnut dip"
+ }
+}

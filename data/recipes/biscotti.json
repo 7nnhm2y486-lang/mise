@@ -1,0 +1,151 @@
+{
+ "id": "biscotti",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "cookie",
+ "time": 110,
+ "serves": 30,
+ "ovenC": 160,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "almond",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Biscotti",
+  "blurb": "Cocidos dos veces, que es lo que significa el nombre. El segundo horneado a baja temperatura los seca por completo, y por eso duran un mes.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "almendras enteras",
+    "note": "tostadas, con piel"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "ralladura de naranja"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "semilla de anís",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Bate los huevos y el azúcar hasta que palidezcan, y añade la ralladura y el anís.",
+   "Incorpora la harina, el polvo de hornear y la sal, y luego las almendras tostadas. La masa queda pegajosa.",
+   "Con las manos mojadas, forma dos troncos planos de unos 6 cm de ancho sobre una bandeja forrada.",
+   "Hornea a 160 °C durante 30 minutos hasta que estén firmes y dorados.",
+   "Enfría 20 minutos — lo justo para manejarlos, no tanto como para endurecerse — y corta en diagonal a 1,5 cm con un cuchillo de sierra.",
+   "Coloca las rebanadas con el corte hacia abajo y hornea 15-18 minutos más, girando una vez, hasta que estén secas y doradas pálidas."
+  ],
+  "tips": [
+   "Corta en tibio. Los troncos fríos se desmigajan y se rompen bajo el cuchillo.",
+   "Sin grasa en la masa, y por eso son duros y por eso se conservan tan bien.",
+   "Tuesta las almendras primero. Crudas dentro de una galleta bicocida quedan blandas y no saben a nada."
+  ],
+  "video": "biscotti cantucci"
+ },
+ "en": {
+  "name": "Biscotti",
+  "blurb": "Baked twice, which is what the name means. The second, low-temperature bake dries them out completely, and that's why they keep for a month.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "whole almonds",
+    "note": "toasted, skin on"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "orange zest"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "aniseed",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Beat the eggs and sugar until pale, and add the zest and aniseed.",
+   "Fold in the flour, baking powder and salt, then the toasted almonds. The dough will be sticky.",
+   "With wet hands, shape two flat logs about 6 cm wide on a lined sheet.",
+   "Bake at 160 °C for 30 minutes until firm and golden.",
+   "Cool 20 minutes — just enough to handle them, not so long that they harden — and slice on the diagonal at 1.5 cm with a serrated knife.",
+   "Lay the slices cut side down and bake 15-18 minutes more, turning once, until dry and pale golden."
+  ],
+  "tips": [
+   "Slice while warm. Cold logs crumble and break under the knife.",
+   "No fat in the dough, which is why they're hard and why they keep so well.",
+   "Toast the almonds first. Raw ones inside a twice-baked cookie stay soft and taste of nothing."
+  ],
+  "video": "biscotti cantucci"
+ }
+}

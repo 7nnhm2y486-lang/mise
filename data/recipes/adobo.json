@@ -1,0 +1,162 @@
+{
+ "id": "adobo",
+ "country": "Philippines",
+ "region": "southeast-asia",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 12,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Adobo de Pollo",
+  "blurb": "Vinagre, soja y ajo. La única regla es que el vinagre debe hervir sin removerse al principio, o el plato conserva un filo crudo y áspero.",
+  "ing": [
+   {
+    "n": "muslos y piernas de pollo"
+   },
+   {
+    "n": "vinagre de caña o de coco"
+   },
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "ajo",
+    "note": "machacados"
+   },
+   {
+    "n": "hojas de laurel"
+   },
+   {
+    "n": "pimienta negra en grano",
+    "note": "machacada"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "azúcar morena"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Marina el pollo en la soja, la mitad del ajo y la pimienta durante al menos una hora.",
+   "Saca el pollo y dóralo en aceite con la piel hacia abajo. Reserva.",
+   "Añade el resto del ajo a la olla y ablándalo.",
+   "Vierte el vinagre y déjalo hervir 2 minutos sin remover. Remover en esta fase atrapa los ácidos volátiles ásperos en vez de dejarlos escapar.",
+   "Añade el adobo, el agua, el laurel y el azúcar. Devuelve el pollo, tapa y cocina 30 minutos.",
+   "Destapa y reduce hasta que la salsa espese y cubra el pollo. Algunos cocineros lo fríen otra vez al final para la piel crujiente."
+  ],
+  "tips": [
+   "No remuevas el vinagre mientras rompe a hervir. Ese es todo el truco.",
+   "Mejora durante dos o tres días en el refrigerador conforme el ácido sigue trabajando la carne.",
+   "El equilibrio es personal: más vinagre para más filo, más soja para más oscuro y salado."
+  ],
+  "video": "adobo de pollo filipino"
+ },
+ "en": {
+  "name": "Chicken Adobo",
+  "blurb": "Vinegar, soy and garlic. The only rule is that the vinegar has to boil unstirred at first, or the dish keeps a raw, harsh edge.",
+  "ing": [
+   {
+    "n": "chicken thighs and drumsticks"
+   },
+   {
+    "n": "cane or coconut vinegar"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "black peppercorns",
+    "note": "cracked"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "brown sugar"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Marinate the chicken in the soy sauce, half the garlic and the pepper for at least an hour.",
+   "Lift out the chicken and brown it in oil, skin side down. Set aside.",
+   "Add the rest of the garlic to the pot and soften it.",
+   "Pour in the vinegar and let it boil for 2 minutes without stirring. Stirring at this stage traps the harsh volatile acids instead of letting them escape.",
+   "Add the marinade, the water, the bay leaves and the sugar. Return the chicken, cover and cook for 30 minutes.",
+   "Uncover and reduce until the sauce thickens and coats the chicken. Some cooks fry it again at the end for crisp skin."
+  ],
+  "tips": [
+   "Don't stir the vinegar while it comes to a boil. That's the whole trick.",
+   "It improves over two or three days in the fridge as the acid keeps working on the meat.",
+   "The balance is personal: more vinegar for more edge, more soy for darker and saltier."
+  ],
+  "video": "filipino chicken adobo"
+ }
+}

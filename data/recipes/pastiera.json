@@ -1,0 +1,215 @@
+{
+ "id": "pastiera",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 1500,
+ "serves": 12,
+ "ovenC": 170,
+ "ing": [
+  {
+   "q": 350,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 175,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 140,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "eggyolk",
+   "role": "binder"
+  },
+  {
+   "q": 350,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "ricottacheese",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sugar",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Pastiera Napoletana",
+  "blurb": "La tarta de Pascua de Nápoles: trigo cocido, ricotta y agua de azahar. Se hace el Jueves Santo para comerse el Domingo, porque necesita tres días para que los aromas se asienten.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "mantequilla",
+    "note": "fría"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "trigo cocido",
+    "note": "grano de trigo en conserva"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "ricotta",
+    "note": "escurrida"
+   },
+   {
+    "n": "azúcar",
+    "note": "para el relleno"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "agua de azahar"
+   },
+   {
+    "n": "fruta confitada"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "ralladura de naranja"
+   }
+  ],
+  "steps": [
+   "Haz la pasta frolla con la harina, la mantequilla fría, el azúcar y las yemas. Refrigera 2 horas.",
+   "Cocina el trigo con la leche, una nuez de mantequilla y la ralladura a fuego bajo 20 minutos, hasta que absorba casi toda la leche y quede cremoso. Enfría.",
+   "Escurre la ricotta al menos 4 horas y pásala por un tamiz para que quede perfectamente lisa.",
+   "Bate la ricotta con el azúcar, luego los huevos uno a uno, el agua de azahar, la canela y la fruta confitada.",
+   "Incorpora el trigo frío. Forra un molde con la masa, rellena y decora con tiras en enrejado.",
+   "Hornea a 170 °C durante 70-80 minutos hasta que esté dorada y apenas tiemble. Enfría por completo y espera al menos 24 horas, idealmente tres días."
+  ],
+  "tips": [
+   "Pasa la ricotta por un tamiz. Es la diferencia entre un relleno sedoso y uno granuloso.",
+   "Espera tres días. No es folclore: el agua de azahar y la canela necesitan ese tiempo para integrarse.",
+   "Debe quedar apenas cuajada, con un ligero temblor. Cocida de más queda seca y arenosa."
+  ],
+  "video": "pastiera napoletana"
+ },
+ "en": {
+  "name": "Pastiera Napoletana",
+  "blurb": "Naples' Easter tart: cooked wheat berries, ricotta and orange blossom water. It's made on Holy Thursday to be eaten on Sunday, because it needs three days for the aromas to settle.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter",
+    "note": "cold"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "cooked wheat",
+    "note": "jarred wheat berries"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "ricotta",
+    "note": "drained"
+   },
+   {
+    "n": "sugar",
+    "note": "for the filling"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "orange blossom water"
+   },
+   {
+    "n": "candied fruit"
+   },
+   {
+    "n": "cinnamon"
+   },
+   {
+    "n": "orange zest"
+   }
+  ],
+  "steps": [
+   "Make the pasta frolla with the flour, cold butter, sugar and yolks. Chill for 2 hours.",
+   "Cook the wheat with the milk, a knob of butter and the zest over low heat for 20 minutes, until it has absorbed nearly all the milk and turned creamy. Cool.",
+   "Drain the ricotta for at least 4 hours and push it through a sieve so it's perfectly smooth.",
+   "Beat the ricotta with the sugar, then the eggs one at a time, the orange blossom water, the cinnamon and the candied fruit.",
+   "Fold in the cold wheat. Line a pan with the pastry, fill it and top with a lattice of strips.",
+   "Bake at 170 °C for 70-80 minutes until golden and barely wobbling. Cool completely and wait at least 24 hours, ideally three days."
+  ],
+  "tips": [
+   "Push the ricotta through a sieve. It's the difference between a silky filling and a grainy one.",
+   "Wait three days. It isn't folklore: the orange blossom water and cinnamon need that long to come together.",
+   "It should be just set, with a slight wobble. Overbaked, it turns dry and grainy."
+  ],
+  "video": "pastiera napoletana"
+ }
+}

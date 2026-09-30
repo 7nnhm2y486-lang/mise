@@ -1,0 +1,41 @@
+{"id":"ragu","ing":1,"name":"panza de cerdo picada","issue":"key empty; ingredient is pork","suggest":"pork"}
+{"id":"ragu","ing":9,"name":"caldo de res","issue":"key empty; store-bought beef stock commonly contains celery and may contain wheat/gluten, soy or sulphites","suggest":"celery; possibly wheat, soy, sulphites (check label)"}
+{"id":"ragunapoletano","ing":1,"name":"costillas de cerdo","issue":"key empty; ingredient is pork","suggest":"pork"}
+{"id":"ragunapoletano","ing":2,"name":"salchicha","issue":"key 'chorizo' does not match an Italian sausage; sausage is typically pork and may contain milk, wheat/gluten, sulphites or wine","suggest":"pork; possibly milk, wheat, sulphites (use a sausage key)"}
+{"id":"ratatouille","ing":9,"name":"vinagre de vino tinto","issue":"key empty; wine vinegar contains sulphites","suggest":"sulphites"}
+{"id":"remoulade","ing":1,"name":"pepinillos","issue":"key empty; pickles/cornichons are brined in vinegar and commonly contain sulphites and sometimes mustard seed","suggest":"sulphites; possibly mustard"}
+{"id":"remoulade","ing":2,"name":"alcaparras","issue":"key empty; brined capers commonly contain sulphites (vinegar brine)","suggest":"sulphites"}
+{"id":"risotto","ing":2,"name":"caldo de res o pollo","issue":"key empty; store-bought stock commonly contains celery and may contain wheat/gluten, soy or sulphites","suggest":"celery; possibly wheat, soy, sulphites (check label)"}
+{"id":"risottofunghi","ing":3,"name":"caldo de verduras","issue":"key empty; store-bought vegetable stock almost always contains celery and may contain wheat/gluten or soy","suggest":"celery; possibly wheat, soy (check label)"}
+{"id":"romesco","ing":7,"name":"vinagre de jerez","issue":"key empty; sherry vinegar is wine-based and contains sulphites","suggest":"sulphites"}
+{"id":"ropavieja","ing":9,"name":"aceitunas verdes","issue":"key empty; brined/stuffed green olives may contain sulphites","suggest":"sulphites (check label)"}
+{"id":"ropavieja","ing":10,"name":"alcaparras","issue":"key empty; brined capers commonly contain sulphites","suggest":"sulphites"}
+{"id":"rosetteok","ing":0,"name":"pastelitos de arroz","issue":"key empty; many packaged tteok (esp. for tteokbokki) are made with or contain wheat flour","suggest":"wheat/gluten possible (check label)"}
+{"id":"rosetteok","ing":6,"name":"salchicha o tocino","issue":"key 'bacon' covers pork, but if sausage is used it may also contain milk, wheat or soy","suggest":"pork; possibly milk, wheat, soy"}
+{"id":"rugelach","ing":9,"name":"pasas","issue":"key empty; raisins (esp. golden) are commonly treated with sulphites","suggest":"sulphites"}
+{"id":"salsamacha","ing":7,"name":"aceite","issue":"key empty; unspecified 'neutral oil' is often soybean or corn oil (or peanut oil)","suggest":"soy/corn possible; specify oil or tag"}
+{"id":"salsaroja","ing":7,"name":"vinagre","issue":"key empty; unspecified vinegar may be wine vinegar (sulphites) or malt vinegar (barley/gluten); US white vinegar is often corn-derived","suggest":"sulphites/gluten/corn possible; specify vinegar type"}
+{"id":"salsaroja","ing":8,"name":"aceite","issue":"key empty; unspecified oil is often soybean or corn oil","suggest":"soy/corn possible; specify oil"}
+{"id":"salsaverde","ing":6,"name":"aceite","issue":"key empty; unspecified oil is often soybean or corn oil","suggest":"soy/corn possible; specify oil"}
+{"id":"sambar","ing":2,"name":"polvo de sambar","issue":"key 'chilli' is incomplete; commercial sambar powder usually contains chana/urad dal and asafoetida (often compounded with wheat flour), sometimes mustard","suggest":"wheat/gluten possible, mustard possible (check label)"}
+{"id":"sambar","ing":8,"name":"semilla de mostaza","issue":"key empty; this is mustard","suggest":"mustard"}
+{"id":"sambar","ing":11,"name":"asafétida","issue":"key empty; compounded asafoetida powder is usually cut with wheat flour","suggest":"wheat/gluten (use a GF rice-based one or tag)"}
+{"id":"satay","ing":9,"name":"aceite","issue":"key empty; unspecified frying oil is often soybean, corn or peanut oil","suggest":"soy/corn possible; specify oil"}
+{"id":"schnitzel","ing":0,"name":"lomo de ternera o cerdo","issue":"key empty; pork is one of the two options","suggest":"pork (when pork is used)"}
+{"id":"scones","ing":1,"name":"polvo de hornear","issue":"key empty; baking powder usually contains cornstarch (some brands wheat starch)","suggest":"corn; possibly wheat"}
+{"id":"semifreddo","ing":4,"name":"yemas de huevo","issue":"step/tip safety: tip says the hot syrup pasteurizes the whites, but the yolks are whipped raw and never heated; misleading for pregnant/immunocompromised diners","suggest":"use pasteurized eggs or cook yolks to a sabayon; reword tip"}
+{"id":"semifreddo","ing":5,"name":"extracto de vainilla","issue":"key empty; vanilla extract is ~35% alcohol and not cooked off in a frozen dessert","suggest":"alcohol"}
+{"id":"semifreddo","ing":7,"name":"chocolate negro","issue":"key 'darkchocolate' may not carry milk/soy; dark chocolate commonly contains milk (or traces) and soy lecithin","suggest":"milk (may contain), soy"}
+{"id":"sfogliatella","ing":10,"name":"fruta confitada","issue":"key empty; candied fruit is commonly preserved with sulphites and may contain corn syrup","suggest":"sulphites; corn possible"}
+{"id":"shortbread","ing":1,"name":"harina de arroz","issue":"tip suggests cornstarch as the substitute for rice flour; corn allergy should be noted there","suggest":"tip: note corn if cornstarch is used"}
+{"id":"shortbread","ing":5,"name":"extracto de vainilla","issue":"key empty; vanilla extract contains alcohol","suggest":"alcohol"}
+{"id":"shoyuramen","ing":1,"name":"manita de cerdo","issue":"key empty; ingredient is pork","suggest":"pork"}
+{"id":"shoyuramen","ing":8,"name":"chashu de panza de cerdo","issue":"key empty; pork belly braised in soy sauce/sake/mirin","suggest":"pork, soy, wheat, alcohol"}
+{"id":"shoyuramen","ing":9,"name":"huevos","issue":"key 'egg' only; the eggs are marinated (typically in soy sauce and mirin), which adds soy, wheat and alcohol not listed elsewhere","suggest":"egg, soy, wheat, alcohol"}
+{"id":"smashburger","ing":1,"name":"pan de hamburguesa","issue":"key 'bread' may only carry wheat; brioche buns contain egg and milk, and burger buns are often topped with sesame","suggest":"wheat, egg, milk; sesame possible"}
+{"id":"smashburger","ing":4,"name":"pepinillos","issue":"key empty; pickles commonly contain sulphites and sometimes mustard seed","suggest":"sulphites; mustard possible"}
+{"id":"smashburger","ing":6,"name":"kétchup","issue":"key 'tomato' does not reflect ketchup; it contains vinegar (often corn-derived; sometimes sulphites) and may contain celery","suggest":"corn, sulphites possible, celery possible"}
+{"id":"smashtacos","ing":4,"name":"pepinillos","issue":"key empty; pickles commonly contain sulphites and sometimes mustard seed","suggest":"sulphites; mustard possible"}
+{"id":"smashtacos","ing":7,"name":"kétchup","issue":"key 'tomato' does not reflect ketchup; it contains vinegar (often corn-derived; sometimes sulphites) and may contain celery","suggest":"corn, sulphites possible, celery possible"}
+{"id":"snickerdoodle","ing":9,"name":"extracto de vainilla","issue":"key empty; vanilla extract contains alcohol","suggest":"alcohol"}
+{"id":"sodabread","ing":4,"name":"avena","issue":"key empty; oats not certified gluten-free carry gluten (cross-contact)","suggest":"gluten (oats)"}

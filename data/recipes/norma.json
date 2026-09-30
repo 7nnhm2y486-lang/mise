@@ -1,0 +1,162 @@
+{
+ "id": "norma",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 700,
+   "u": "g",
+   "k": "eggplant",
+   "role": "structure"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "feta",
+   "role": "fat"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pasta alla Norma",
+  "blurb": "Berenjena frita, tomate y ricotta salada rallada por encima. La ricotta salada es el ingrediente que la define y no se sustituye por parmesano sin perder el plato.",
+  "ing": [
+   {
+    "n": "rigatoni o maccheroni"
+   },
+   {
+    "n": "berenjenas",
+    "note": "en cubos"
+   },
+   {
+    "n": "jitomate pelado"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "ricotta salada",
+    "note": "rallada gruesa"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "chile seco"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sala los cubos de berenjena 30 minutos y sécalos bien.",
+   "Fríelos en aceite abundante y caliente hasta que estén dorados y blandos. Escurre sobre papel.",
+   "En dos cucharadas de ese aceite, dora el ajo y el chile, retíralos y añade el jitomate.",
+   "Cocina la salsa 20 minutos hasta que espese y pierda la acidez.",
+   "Cuece la pasta, escúrrela un minuto antes y saltéala en la salsa con la mitad de la berenjena.",
+   "Sirve con el resto de la berenjena encima, mucha albahaca y la ricotta salada rallada al momento."
+  ],
+  "tips": [
+   "Fríe la berenjena en aceite generoso y bien caliente. Con poco aceite la absorbe toda y queda grasienta.",
+   "Parte de la berenjena va dentro y parte encima, para que no se deshaga toda.",
+   "Si no encuentras ricotta salada, un feta seco y duro se acerca más que el parmesano."
+  ],
+  "video": "pasta alla norma siciliana"
+ },
+ "en": {
+  "name": "Pasta alla Norma",
+  "blurb": "Fried eggplant, tomato and ricotta salata grated on top. Ricotta salata is the defining ingredient, and you can't swap in parmesan without losing the dish.",
+  "ing": [
+   {
+    "n": "rigatoni or maccheroni"
+   },
+   {
+    "n": "eggplants",
+    "note": "cubed"
+   },
+   {
+    "n": "peeled tomatoes"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "ricotta salata",
+    "note": "coarsely grated"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "dried chile"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Salt the eggplant cubes for 30 minutes and pat them very dry.",
+   "Fry them in plenty of hot oil until golden and soft. Drain on paper towels.",
+   "In two tablespoons of that oil, brown the garlic and chile, remove them and add the tomatoes.",
+   "Cook the sauce for 20 minutes until it thickens and loses its acidity.",
+   "Cook the pasta, drain it a minute early and toss it in the sauce with half the eggplant.",
+   "Serve with the rest of the eggplant on top, lots of basil and the ricotta salata grated at the last moment."
+  ],
+  "tips": [
+   "Fry the eggplant in generous, very hot oil. With too little oil it soaks it all up and turns greasy.",
+   "Some of the eggplant goes in and some on top, so it doesn't all fall apart.",
+   "If you can't find ricotta salata, a dry, hard feta comes closer than parmesan."
+  ],
+  "video": "pasta alla norma sicilian"
+ }
+}

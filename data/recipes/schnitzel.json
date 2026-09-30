@@ -1,0 +1,152 @@
+{
+ "id": "schnitzel",
+ "country": "Austria",
+ "region": "central-europe",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "breadcrumbs",
+   "role": "dredge"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Escalope Vienés",
+  "blurb": "El empanizado no debe pegarse a la carne. Un pan rallado suelto y grasa abundante en movimiento permiten que el vapor levante la costra en esa onda característica.",
+  "ing": [
+   {
+    "n": "lomo de ternera o cerdo",
+    "note": "aplanado a 4 mm"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "pan rallado",
+    "note": "fino, seco, no panko"
+   },
+   {
+    "n": "mantequilla clarificada",
+    "note": "o aceite neutro"
+   },
+   {
+    "n": "limón"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Aplana la carne entre plásticos hasta un grosor parejo de 4 mm. Sazona ambas caras.",
+   "Prepara harina, huevo batido aflojado con una cucharada de agua, y pan rallado.",
+   "Pasa por harina y sacude con fuerza, luego por huevo, y después apóyala en el pan rallado presionando solo ligeramente. El empanizado debe quedar suelto.",
+   "Fríe de inmediato en 1 cm de grasa a 170 °C. No lo dejes reposar: el empanizado se ablanda en minutos.",
+   "Mueve la sartén sin parar para que la grasa caliente bañe la superficie. Esto es lo que despega la costra de la carne.",
+   "Dos minutos por lado hasta dorado intenso. Escurre y sirve enseguida con limón."
+  ],
+  "tips": [
+   "Presiona el pan rallado con suavidad. Apretarlo lo pega y pierdes la onda.",
+   "Grasa suficiente para que el escalope casi flote, y la sartén siempre en movimiento.",
+   "Fríelo en cuanto lo empanices. Un escalope empanizado esperando en la encimera ya está arruinado."
+  ],
+  "video": "escalope vienés costra soufflé"
+ },
+ "en": {
+  "name": "Wiener Schnitzel",
+  "blurb": "The breading shouldn't stick to the meat. Loose crumbs and plenty of moving fat let steam lift the crust into its signature ripples.",
+  "ing": [
+   {
+    "n": "veal or pork loin",
+    "note": "pounded to 4 mm"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "breadcrumbs",
+    "note": "fine, dry, not panko"
+   },
+   {
+    "n": "clarified butter",
+    "note": "or neutral oil"
+   },
+   {
+    "n": "lemon"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Pound the meat between sheets of plastic to an even 4 mm. Season both sides.",
+   "Set out flour, beaten egg loosened with a tablespoon of water, and breadcrumbs.",
+   "Dredge in flour and shake hard, then egg, then lay it in the breadcrumbs pressing only lightly. The coating should stay loose.",
+   "Fry immediately in 1 cm of fat at 170 °C. Don't let it sit: the coating goes soggy within minutes.",
+   "Keep the pan moving so the hot fat washes over the top. This is what lifts the crust away from the meat.",
+   "Two minutes per side until deep golden. Drain and serve right away with lemon."
+  ],
+  "tips": [
+   "Press the crumbs on gently. Pressing hard glues them down and you lose the ripples.",
+   "Enough fat that the schnitzel almost floats, and the pan always moving.",
+   "Fry it as soon as it's breaded. A breaded schnitzel waiting on the counter is already ruined."
+  ],
+  "video": "wiener schnitzel souffle crust"
+ }
+}

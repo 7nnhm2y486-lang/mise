@@ -1,0 +1,168 @@
+{
+ "id": "bearnaise",
+ "country": "France",
+ "region": "western-europe",
+ "course": "sauce",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "shallot",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.75,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Salsa Bearnesa",
+  "blurb": "Una holandesa con una reducción de estragón y vinagre. El estragón va dos veces: cocido en la reducción y crudo al final, y esa segunda tanda es la que se nota.",
+  "ing": [
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "mantequilla",
+    "note": "clarificada"
+   },
+   {
+    "n": "vinagre de estragón"
+   },
+   {
+    "n": "vino blanco seco"
+   },
+   {
+    "n": "chalota",
+    "note": "muy picada"
+   },
+   {
+    "n": "estragón",
+    "note": "la mitad para la reducción"
+   },
+   {
+    "n": "perifollo",
+    "note": "opcional"
+   },
+   {
+    "n": "pimienta negra",
+    "note": "machacada"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Reduce el vinagre, el vino, la chalota, la pimienta y la mitad del estragón hasta que queden unas 3 cucharadas.",
+   "Cuela presionando bien y deja templar.",
+   "Bate las yemas con la reducción sobre agua humeante hasta que espesen y tripliquen, 4-5 minutos.",
+   "Fuera del calor, incorpora la mantequilla clarificada tibia en hilo fino, batiendo.",
+   "Añade el resto del estragón picado en crudo y el perifollo.",
+   "Rectifica de sal. Sírvela tibia con carne a la parrilla."
+  ],
+  "tips": [
+   "Estragón dos veces. El cocido da fondo, el crudo da el aroma que reconoces.",
+   "La reducción debe quedar en muy poca cantidad: es el concentrado de sabor de toda la salsa.",
+   "Nunca la calientes por encima de 55 °C una vez montada."
+  ],
+  "video": "salsa bearnesa estragón"
+ },
+ "en": {
+  "name": "Béarnaise Sauce",
+  "blurb": "A hollandaise with a tarragon and vinegar reduction. The tarragon goes in twice: cooked in the reduction and raw at the end, and that second batch is the one you taste.",
+  "ing": [
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "butter",
+    "note": "clarified"
+   },
+   {
+    "n": "tarragon vinegar"
+   },
+   {
+    "n": "dry white wine"
+   },
+   {
+    "n": "shallots",
+    "note": "very finely chopped"
+   },
+   {
+    "n": "tarragon",
+    "note": "half for the reduction"
+   },
+   {
+    "n": "chervil",
+    "note": "optional"
+   },
+   {
+    "n": "black pepper",
+    "note": "cracked"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Reduce the vinegar, wine, shallot, pepper and half the tarragon until about 3 tablespoons remain.",
+   "Strain, pressing hard, and let it cool slightly.",
+   "Whisk the yolks with the reduction over steaming water until they thicken and triple, 4-5 minutes.",
+   "Off the heat, whisk in the warm clarified butter in a thin stream.",
+   "Add the rest of the tarragon, chopped raw, and the chervil.",
+   "Adjust the salt. Serve it warm with grilled meat."
+  ],
+  "tips": [
+   "Tarragon twice. The cooked one gives depth, the raw one gives the aroma you recognize.",
+   "The reduction should be very small: it's the flavor concentrate for the whole sauce.",
+   "Never heat it above 55 °C once it's emulsified."
+  ],
+  "video": "béarnaise sauce tarragon"
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "id": "pizza",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "bread",
+ "time": 1500,
+ "serves": 4,
+ "ovenC": 250,
+ "ing": [
+  {
+   "q": 620,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 385,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 18,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "g",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "semolina",
+   "role": "dredge"
+  }
+ ],
+ "es": {
+  "name": "Masa de Pizza Napolitana",
+  "blurb": "Cuatro ingredientes y una fermentación larga en frío. Al 62% de hidratación se maneja bien a mano y aun así se ampolla en un horno doméstico.",
+  "ing": [
+   {
+    "n": "harina de fuerza",
+    "note": "tipo 00 si la consigues"
+   },
+   {
+    "n": "agua",
+    "note": "fría"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "levadura fresca",
+    "note": "o 0,7 g de levadura seca instantánea"
+   },
+   {
+    "n": "sémola",
+    "note": "para formar"
+   }
+  ],
+  "steps": [
+   "Disuelve la sal en el agua, añade una décima parte de la harina y bate hasta alisar. Desmenuza dentro la levadura.",
+   "Añade el resto de la harina y mezcla hasta formar una masa tosca. Reposa 20 minutos: la harina se hidrata sola y te ahorra amasado.",
+   "Amasa 8 minutos hasta que quede lisa y elástica, o haz cuatro tandas de pliegues cada 20 minutos.",
+   "Tapa y deja 2 horas a temperatura ambiente, luego refrigera de 24 a 48 horas.",
+   "Divide en cuatro bolas de 250 g, séllalas bien y déjalas tapadas a temperatura ambiente 4-6 horas hasta que estén hinchadas y relajadas.",
+   "Abre cada bola a mano sobre sémola, empujando el gas hacia el borde, sin tocar jamás un rodillo. Hornea a la máxima temperatura posible sobre piedra o acero precalentado, 6-8 minutos."
+  ],
+  "tips": [
+   "La fermentación en frío construye un sabor que ninguna cantidad de levadura imita.",
+   "El rodillo destruye el borde. Presiona desde el centro hacia fuera con las yemas.",
+   "Precalienta el acero una hora entera. Casi toda pizza casera falla porque la base nunca estuvo suficientemente caliente."
+  ],
+  "video": "masa pizza napolitana horno casero"
+ },
+ "en": {
+  "name": "Neapolitan Pizza Dough",
+  "blurb": "Four ingredients and a long cold ferment. At 62% hydration it's easy to handle by hand and still blisters in a home oven.",
+  "ing": [
+   {
+    "n": "bread flour",
+    "note": "type 00 if you can get it"
+   },
+   {
+    "n": "water",
+    "note": "cold"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "fresh yeast",
+    "note": "or 0.7 g instant dry yeast"
+   },
+   {
+    "n": "semolina",
+    "note": "for shaping"
+   }
+  ],
+  "steps": [
+   "Dissolve the salt in the water, add a tenth of the flour and whisk until smooth. Crumble in the yeast.",
+   "Add the rest of the flour and mix into a shaggy dough. Rest 20 minutes: the flour hydrates on its own and saves you kneading.",
+   "Knead for 8 minutes until smooth and elastic, or do four sets of folds every 20 minutes.",
+   "Cover and leave 2 hours at room temperature, then refrigerate for 24 to 48 hours.",
+   "Divide into four 250 g balls, seal them well and leave them covered at room temperature for 4-6 hours until puffy and relaxed.",
+   "Open each ball by hand on semolina, pushing the gas out toward the rim, never touching a rolling pin. Bake at the highest possible temperature on a preheated stone or steel, 6-8 minutes."
+  ],
+  "tips": [
+   "Cold fermentation builds a flavor no amount of yeast can imitate.",
+   "A rolling pin destroys the rim. Press from the center outward with your fingertips.",
+   "Preheat the steel for a full hour. Almost every homemade pizza fails because the base was never hot enough."
+  ],
+  "video": "neapolitan pizza dough home oven"
+ }
+}

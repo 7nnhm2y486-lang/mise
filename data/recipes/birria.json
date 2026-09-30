@@ -1,0 +1,244 @@
+{
+ "id": "birria",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 300,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 2,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "ancho",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 20,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "cheese",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Birria",
+  "blurb": "Chiles tostados, remojados y triturados en una salsa que brasea la carne. La grasa que sube a la superficie es donde se fríen los tacos.",
+  "ing": [
+   {
+    "n": "chambarete y costilla de res"
+   },
+   {
+    "n": "chiles guajillo"
+   },
+   {
+    "n": "chiles ancho"
+   },
+   {
+    "n": "chiles de árbol"
+   },
+   {
+    "n": "jitomates"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "orégano mexicano"
+   },
+   {
+    "n": "clavo"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "vinagre de manzana"
+   },
+   {
+    "n": "tortillas de maíz"
+   },
+   {
+    "n": "queso oaxaca",
+    "note": "o mozzarella"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Tuesta los chiles en un comal seco 30 segundos por lado y remójalos en agua caliente 20 minutos.",
+   "Asa los jitomates, la cebolla y el ajo en el mismo comal hasta que estén ennegrecidos a manchas.",
+   "Tritura los chiles, las verduras asadas, las especias y el vinagre con una taza del agua de remojo. Cuela por un colador.",
+   "Sazona la carne con generosidad, ponla en una olla, vierte la salsa encima y añade agua hasta apenas cubrir.",
+   "Tapa y cocina a 150 °C, o al fuego más bajo, durante 3,5 a 4 horas hasta que la carne se deshebre.",
+   "Retira la grasa roja de la superficie a un tazón. Deshebra la carne. Pasa las tortillas por esa grasa, dóralas en el comal con queso y carne, y sirve con una taza del consomé."
+  ],
+  "tips": [
+   "Cuela la salsa de chile. Las pieles nunca se deshacen y la vuelven arenosa.",
+   "La grasa de arriba es todo el sentido de la quesabirria. No la deseches.",
+   "Sirve el caldo aparte para mojar. No es una guarnición, es media comida."
+  ],
+  "video": "birria de res quesabirria"
+ },
+ "en": {
+  "name": "Birria",
+  "blurb": "Chiles toasted, soaked and blended into a sauce that braises the meat. The fat that rises to the surface is what you fry the tacos in.",
+  "ing": [
+   {
+    "n": "beef shank and short ribs"
+   },
+   {
+    "n": "guajillo chiles"
+   },
+   {
+    "n": "ancho chiles"
+   },
+   {
+    "n": "chiles de árbol"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "onions"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "Mexican oregano"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "apple cider vinegar"
+   },
+   {
+    "n": "corn tortillas"
+   },
+   {
+    "n": "Oaxaca cheese",
+    "note": "or mozzarella"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Toast the chiles on a dry comal for 30 seconds per side and soak them in hot water for 20 minutes.",
+   "Char the tomatoes, onion and garlic on the same comal until blackened in spots.",
+   "Blend the chiles, charred vegetables, spices and vinegar with a cup of the soaking water. Strain through a sieve.",
+   "Season the meat generously, put it in a pot, pour the sauce over and add water to barely cover.",
+   "Cover and cook at 150 °C, or over the lowest flame, for 3.5 to 4 hours until the meat shreds.",
+   "Skim the red fat off the surface into a bowl. Shred the meat. Dip the tortillas in that fat, crisp them on the comal with cheese and meat, and serve with a cup of the consommé."
+  ],
+  "tips": [
+   "Strain the chile sauce. The skins never break down and make it gritty.",
+   "The fat on top is the whole point of quesabirria. Don't throw it away.",
+   "Serve the broth on the side for dipping. It isn't a side dish, it's half the meal."
+  ],
+  "video": "beef birria quesabirria"
+ }
+}

@@ -1,0 +1,173 @@
+{
+ "id": "brownies",
+ "country": "United States",
+ "region": "north-america",
+ "course": "sweet",
+ "time": 90,
+ "serves": 16,
+ "ovenC": 175,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "aerate"
+  },
+  {
+   "q": 110,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Brownies de Chocolate",
+  "blurb": "La costra fina y agrietada es azúcar disuelta que subió a la superficie. Batir huevos y azúcar con fuerza durante cuatro minutos es lo que la pone ahí.",
+  "ing": [
+   {
+    "n": "chocolate negro",
+    "note": "al 70%"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "cacao en polvo"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "sal en escamas"
+   }
+  ],
+  "steps": [
+   "Derrite juntos el chocolate y la mantequilla y deja templar.",
+   "Bate los huevos y los dos azúcares a velocidad alta durante 4 minutos completos, hasta que espesen, palidezcan y casi tripliquen. Este paso, por sí solo, hace la costra agrietada.",
+   "Incorpora la mezcla de chocolate y la vainilla con suavidad para conservar el aire.",
+   "Tamiza encima la harina, el cacao y la sal e incorpora hasta apenas integrar.",
+   "Vierte en un molde cuadrado de 20 cm forrado y hornea a 175 °C durante 25-28 minutos. Una brocheta debe salir con migas gruesas, no limpia.",
+   "Sala y enfría por completo en el molde, al menos 3 horas; cortan mejor desde el refrigerador."
+  ],
+  "tips": [
+   "Cuatro minutos de batido. Cronometrados, no estimados. Es toda la diferencia entre una costra agrietada y una mate.",
+   "Una brocheta limpia significa que te pasaste. Busca migas húmedas.",
+   "Están estructuralmente líquidos en caliente. Cortarlos pronto da un desastre delicioso."
+  ],
+  "video": "brownies húmedos costra agrietada"
+ },
+ "en": {
+  "name": "Chocolate Brownies",
+  "blurb": "The thin, crackly crust is dissolved sugar that rose to the surface. Beating the eggs and sugar hard for four minutes is what puts it there.",
+  "ing": [
+   {
+    "n": "dark chocolate",
+    "note": "70%"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "cocoa powder"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "flaky salt"
+   }
+  ],
+  "steps": [
+   "Melt the chocolate and butter together and let cool slightly.",
+   "Beat the eggs and both sugars on high speed for a full 4 minutes, until thick, pale and nearly tripled. This step alone makes the crackly crust.",
+   "Gently fold in the chocolate mixture and the vanilla to keep the air.",
+   "Sift the flour, cocoa and salt over the top and fold until just combined.",
+   "Pour into a lined 20 cm square pan and bake at 175 °C for 25-28 minutes. A skewer should come out with thick crumbs, not clean.",
+   "Sprinkle with flaky salt and cool completely in the pan, at least 3 hours; they cut best straight from the fridge."
+  ],
+  "tips": [
+   "Four minutes of beating. Timed, not guessed. It's the whole difference between a crackly crust and a matte one.",
+   "A clean skewer means you've gone too far. Look for moist crumbs.",
+   "They're structurally liquid while hot. Cutting them early gives you a delicious mess."
+  ],
+  "video": "fudgy brownies crackly top"
+ }
+}

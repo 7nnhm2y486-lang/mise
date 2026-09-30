@@ -1,0 +1,156 @@
+{
+ "id": "gravlax",
+ "country": "Sweden",
+ "region": "nordic",
+ "course": "starter",
+ "time": 2880,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "salmon",
+   "role": "protein"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "mustard",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "honey",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Gravlax",
+  "blurb": "La sal y el azúcar extraen agua y compactan la carne. Dos días, sin calor, y un peso encima. La curación segura mantiene el pescado muy frío todo el tiempo.",
+  "ing": [
+   {
+    "n": "lomo de salmón",
+    "note": "con piel, sin espinas, calidad sashimi"
+   },
+   {
+    "n": "sal gruesa"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "eneldo",
+    "note": "picado grueso, con tallos"
+   },
+   {
+    "n": "pimienta blanca en grano",
+    "note": "machacada"
+   },
+   {
+    "n": "aquavit o vodka",
+    "note": "opcional"
+   },
+   {
+    "n": "mostaza",
+    "note": "para la salsa"
+   },
+   {
+    "n": "miel"
+   }
+  ],
+  "steps": [
+   "Mezcla la sal, el azúcar y la pimienta machacada.",
+   "Pon la mitad del eneldo en una bandeja, coloca el salmón con la piel abajo y cubre la carne con la mezcla. Tapa con el resto del eneldo y rocía el licor.",
+   "Envuelve bien en film, ponlo sobre una bandeja y colócale encima algo pesado y plano.",
+   "Refrigera 48 horas, girándolo cada 12 horas y escurriendo la salmuera que suelte.",
+   "Retira la curación y el eneldo, seca y corta en lonchas muy finas en diagonal, dejando la piel.",
+   "Sirve con una salsa de mostaza y miel aflojada con un poco de vinagre y aceite."
+  ],
+  "tips": [
+   "El peso compacta la carne y da la textura densa que permite lonchearlo.",
+   "Escurre la salmuera cada vez que lo gires, o el pescado se cura de forma despareja en su propio líquido.",
+   "Curado no es cocido. Compra pescado que comerías crudo, mantenlo por debajo de 4 °C y cómelo en cinco días."
+  ],
+  "video": "gravlax salmón curado"
+ },
+ "en": {
+  "name": "Gravlax",
+  "blurb": "Salt and sugar draw out water and firm up the flesh. Two days, no heat, and a weight on top. Safe curing keeps the fish very cold the whole time.",
+  "ing": [
+   {
+    "n": "salmon fillet",
+    "note": "skin on, pin-boned, sashimi grade"
+   },
+   {
+    "n": "coarse salt"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "dill",
+    "note": "roughly chopped, stems and all"
+   },
+   {
+    "n": "white peppercorns",
+    "note": "crushed"
+   },
+   {
+    "n": "aquavit or vodka",
+    "note": "optional"
+   },
+   {
+    "n": "mustard",
+    "note": "for the sauce"
+   },
+   {
+    "n": "honey"
+   }
+  ],
+  "steps": [
+   "Mix the salt, sugar and crushed pepper.",
+   "Spread half the dill in a dish, lay the salmon skin-side down and cover the flesh with the mixture. Top with the rest of the dill and sprinkle with the spirit.",
+   "Wrap tightly in plastic, set it on a tray and put something heavy and flat on top.",
+   "Refrigerate 48 hours, turning it every 12 hours and pouring off the brine it releases.",
+   "Scrape off the cure and dill, pat dry and slice very thin on the diagonal, leaving the skin behind.",
+   "Serve with a mustard-honey sauce loosened with a little vinegar and oil."
+  ],
+  "tips": [
+   "The weight compacts the flesh and gives the dense texture that lets you slice it thin.",
+   "Pour off the brine every time you turn it, or the fish cures unevenly in its own liquid.",
+   "Cured is not cooked. Buy fish you would eat raw, keep it below 4 °C and eat it within five days."
+  ],
+  "video": "gravlax cured salmon"
+ }
+}

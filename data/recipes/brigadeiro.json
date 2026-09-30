@@ -1,0 +1,110 @@
+{
+ "id": "brigadeiro",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 24,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "structure"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "chocolatechips",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Brigadeiros",
+  "blurb": "Leche condensada reducida con cacao hasta que se despega de la olla en una sola masa. La prueba es arrastrar una cuchara por el fondo y ver la olla durante un segundo entero.",
+  "ing": [
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "cacao en polvo"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "granas de chocolate"
+   }
+  ],
+  "steps": [
+   "Tamiza el cacao sobre la leche condensada en una olla pesada y bate hasta alisar antes de encender el fuego: los grumos ya no salen después.",
+   "Añade la mantequilla y la sal y cocina a fuego medio-bajo, removiendo sin parar con una espátula y raspando el fondo.",
+   "A los 10-12 minutos espesará y empezará a despegarse de las paredes.",
+   "La prueba: arrastra la espátula por el fondo. Si deja un canal limpio durante un segundo entero antes de cerrarse, está listo.",
+   "Vierte sobre un plato engrasado y enfría por completo, al menos 2 horas.",
+   "Engrasa tus manos, forma bolitas y rebózalas en granas."
+  ],
+  "tips": [
+   "Removido constante. Se quema en el fondo en cuanto te detienes.",
+   "Si te quedas corto tienes una salsa; si te pasas, un caramelo duro. La prueba del canal es fiable.",
+   "Para la versión blanda de cuchara, para dos minutos antes y sírvelo en vasitos."
+  ],
+  "video": "brigadeiro brasileño"
+ },
+ "en": {
+  "name": "Brigadeiros",
+  "blurb": "Condensed milk reduced with cocoa until it pulls away from the pot in a single mass. The test is dragging a spoon across the bottom and seeing the pot for a full second.",
+  "ing": [
+   {
+    "n": "sweetened condensed milk"
+   },
+   {
+    "n": "cocoa powder"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "chocolate sprinkles"
+   }
+  ],
+  "steps": [
+   "Sift the cocoa over the condensed milk in a heavy pot and whisk until smooth before turning on the heat: lumps won't come out later.",
+   "Add the butter and salt and cook over medium-low heat, stirring constantly with a spatula and scraping the bottom.",
+   "After 10-12 minutes it will thicken and start to pull away from the sides.",
+   "The test: drag the spatula across the bottom. If it leaves a clean channel for a full second before closing, it's done.",
+   "Pour onto a greased plate and cool completely, at least 2 hours.",
+   "Grease your hands, roll small balls and coat them in sprinkles."
+  ],
+  "tips": [
+   "Constant stirring. It burns on the bottom the moment you stop.",
+   "Stop short and you have a sauce; go too far and you have hard caramel. The channel test is reliable.",
+   "For the soft, spoonable version, stop two minutes early and serve it in little cups."
+  ],
+  "video": "brazilian brigadeiro"
+ }
+}

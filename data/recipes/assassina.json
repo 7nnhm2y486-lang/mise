@@ -1,0 +1,150 @@
+{
+ "id": "assassina",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 45,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "tomatopaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 600,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Spaghetti all'Assassina",
+  "blurb": "De Bari, y va contra todas las reglas: la pasta entra cruda a la sartén y se cocina como un risotto hasta quemarse a propósito. Las partes negras son el objetivo.",
+  "ing": [
+   {
+    "n": "espagueti",
+    "note": "crudos"
+   },
+   {
+    "n": "passata de tomate"
+   },
+   {
+    "n": "concentrado de tomate"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "chile seco"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "agua",
+    "note": "caliente"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Prepara un caldo de tomate: diluye la passata y el concentrado en el agua caliente con sal y mantenlo al fuego.",
+   "En una sartén de hierro ancha, dora el ajo y el chile en el aceite y retíralos.",
+   "Echa los espaguetis crudos a la sartén y déjalos quietos 2 minutos, hasta que se tuesten y se peguen al fondo. No los muevas.",
+   "Añade un cucharón del caldo de tomate. Chisporroteará con violencia. Deja que se absorba casi del todo antes del siguiente.",
+   "Repite durante 15-20 minutos, aplastando la pasta contra el fondo y dándole la vuelta en bloque de vez en cuando, dejando que se agarre entre adición y adición.",
+   "Está lista cuando la pasta esté al dente y cubierta de costras oscuras y crujientes. Sirve directamente de la sartén."
+  ],
+  "tips": [
+   "Lo quemado es el plato. Si no hay zonas negras, no la has hecho.",
+   "Sartén de hierro, nunca antiadherente: necesitas que se pegue.",
+   "Añade el caldo poco a poco, como un risotto, y deja que se seque entre cada vez."
+  ],
+  "video": "spaghetti all'assassina bari"
+ },
+ "en": {
+  "name": "Spaghetti all'Assassina",
+  "blurb": "From Bari, and it breaks every rule: the pasta goes into the pan raw and cooks like a risotto until it deliberately burns. The black bits are the point.",
+  "ing": [
+   {
+    "n": "spaghetti",
+    "note": "uncooked"
+   },
+   {
+    "n": "tomato passata"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "dried chile"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "water",
+    "note": "hot"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Make a tomato broth: dilute the passata and paste in the hot water with the salt and keep it on the heat.",
+   "In a wide cast-iron pan, brown the garlic and chile in the oil and remove them.",
+   "Add the raw spaghetti to the pan and leave it alone for 2 minutes, until it toasts and sticks to the bottom. Don't move it.",
+   "Add a ladle of the tomato broth. It will spit violently. Let it absorb almost completely before the next one.",
+   "Repeat for 15-20 minutes, pressing the pasta against the bottom and flipping it as a block now and then, letting it catch between additions.",
+   "It's ready when the pasta is al dente and covered in dark, crunchy crusts. Serve straight from the pan."
+  ],
+  "tips": [
+   "The burnt part is the dish. If there are no black patches, you haven't made it.",
+   "Cast iron, never nonstick: you need it to stick.",
+   "Add the broth little by little, like a risotto, and let it dry out between each addition."
+  ],
+  "video": "spaghetti all'assassina bari"
+ }
+}

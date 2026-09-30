@@ -1,0 +1,140 @@
+{
+ "id": "guacamole",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 15,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Guacamole",
+  "blurb": "Machacado en molcajete y con los aromáticos molidos antes que el aguacate. Moler el chile, la cebolla y la sal primero libera sus aceites; añadirlos crudos al final es otra cosa.",
+  "ing": [
+   {
+    "n": "aguacates",
+    "note": "maduros pero firmes"
+   },
+   {
+    "n": "chile serrano"
+   },
+   {
+    "n": "cebolla",
+    "note": "en dados finos"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "jitomate",
+    "note": "sin semillas, en dados"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "sal gruesa"
+   }
+  ],
+  "steps": [
+   "Machaca en el molcajete el chile, la mitad de la cebolla, la mitad del cilantro y la sal gruesa hasta obtener una pasta verde.",
+   "Añade la pulpa de aguacate y machaca solo parcialmente: debe quedar con trozos, no cremoso.",
+   "Incorpora el jugo de limón.",
+   "Añade el resto de la cebolla, el cilantro y el jitomate, y mezcla con cuidado con una cuchara.",
+   "Rectifica de sal: el aguacate absorbe muchísima más de la que parece.",
+   "Sírvelo de inmediato, en el mismo molcajete."
+  ],
+  "tips": [
+   "Muele los aromáticos primero. Ese paso extrae aceites que crudos se quedan dentro.",
+   "Deja trozos. Un guacamole completamente liso pierde toda la gracia.",
+   "Contra el oscurecimiento: film pegado directamente a la superficie, sin aire. El hueso dentro es un mito."
+  ],
+  "video": "guacamole molcajete"
+ },
+ "en": {
+  "name": "Guacamole",
+  "blurb": "Mashed in a molcajete, with the aromatics ground before the avocado goes in. Grinding the chile, onion and salt first releases their oils; adding them raw at the end is something else.",
+  "ing": [
+   {
+    "n": "avocados",
+    "note": "ripe but firm"
+   },
+   {
+    "n": "serrano chiles"
+   },
+   {
+    "n": "onion",
+    "note": "finely diced"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "tomato",
+    "note": "seeded, diced"
+   },
+   {
+    "n": "lime juice"
+   },
+   {
+    "n": "coarse salt"
+   }
+  ],
+  "steps": [
+   "In the molcajete, grind the chile, half the onion, half the cilantro and the coarse salt into a green paste.",
+   "Add the avocado flesh and mash it only partly: it should stay chunky, not creamy.",
+   "Stir in the lime juice.",
+   "Add the rest of the onion, cilantro and tomato, and fold gently with a spoon.",
+   "Adjust the salt: avocado absorbs far more than you would think.",
+   "Serve immediately, in the molcajete."
+  ],
+  "tips": [
+   "Grind the aromatics first. That step draws out oils that stay locked inside when raw.",
+   "Leave chunks. Completely smooth guacamole loses the whole point.",
+   "Against browning: plastic wrap pressed directly onto the surface, no air. The pit in the bowl is a myth."
+  ],
+  "video": "molcajete guacamole"
+ }
+}

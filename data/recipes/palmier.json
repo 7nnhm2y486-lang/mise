@@ -1,0 +1,103 @@
+{
+ "id": "palmier",
+ "country": "France",
+ "region": "western-europe",
+ "course": "pastry",
+ "time": 60,
+ "serves": 24,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "puffpastry",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Palmeras",
+  "blurb": "Dos ingredientes. Hojaldre estirado sobre azúcar en vez de harina, para que el azúcar caramelice contra la bandeja y la masa se confite al hornearse.",
+  "ing": [
+   {
+    "n": "hojaldre",
+    "note": "todo mantequilla"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "canela molida",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Esparce la mitad del azúcar sobre la mesa y estira el hojaldre encima, hasta un rectángulo de 30x25 cm. Usa azúcar en lugar de harina en todo momento.",
+   "Esparce el resto del azúcar, la sal y la canela por encima y presiónalos con el rodillo.",
+   "Pliega los dos lados largos hacia el centro, luego pliégalos otra vez hacia dentro, y cierra el conjunto como un libro.",
+   "Refrigera 30 minutos hasta que esté firme y corta piezas de 1 cm.",
+   "Colócalas con el corte hacia abajo, con mucho espacio, y aplasta ligeramente cada una.",
+   "Hornea a 200 °C durante 10 minutos, dales la vuelta con pinzas y hornea 6-8 minutos más hasta que estén bien caramelizadas por ambas caras."
+  ],
+  "tips": [
+   "Voltearlas a mitad es lo que caramela las dos caras. Sin eso, un lado queda pálido y blando.",
+   "Se extienden muchísimo. Seis por bandeja.",
+   "Vigila los últimos tres minutos: la línea entre caramelo y azúcar quemada es muy corta."
+  ],
+  "video": "palmeras de hojaldre"
+ },
+ "en": {
+  "name": "Palmiers",
+  "blurb": "Two ingredients. Puff pastry rolled out on sugar instead of flour, so the sugar caramelizes against the tray and the pastry candies as it bakes.",
+  "ing": [
+   {
+    "n": "puff pastry",
+    "note": "all-butter"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "ground cinnamon",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Scatter half the sugar on the counter and roll the puff pastry out on top, to a 30x25 cm rectangle. Use sugar instead of flour throughout.",
+   "Scatter the rest of the sugar, the salt and the cinnamon on top and press them in with the rolling pin.",
+   "Fold both long sides in to the center, then fold them in again, and close the whole thing like a book.",
+   "Chill for 30 minutes until firm and cut into 1 cm slices.",
+   "Lay them cut-side down, with plenty of space, and flatten each one slightly.",
+   "Bake at 200 °C for 10 minutes, flip them with tongs and bake 6-8 minutes more until well caramelized on both sides."
+  ],
+  "tips": [
+   "Flipping them halfway is what caramelizes both sides. Without it, one side stays pale and soft.",
+   "They spread enormously. Six per tray.",
+   "Watch the last three minutes: the line between caramel and burnt sugar is very thin."
+  ],
+  "video": "palmiers puff pastry"
+ }
+}

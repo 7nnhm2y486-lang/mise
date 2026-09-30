@@ -1,0 +1,210 @@
+{
+ "id": "massaman",
+ "country": "Thailand",
+ "region": "southeast-asia",
+ "course": "main",
+ "time": 180,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 900,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 800,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 5,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "shallot",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "peanut",
+   "role": "crunch"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "palmsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "fishsauce",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "pod",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Curry Massaman",
+  "blurb": "El curry tailandés con raíces persas e indias: especias enteras cálidas, papas, cacahuates y tamarindo. Se cuece durante horas, no minutos.",
+  "ing": [
+   {
+    "n": "aguja de res",
+    "note": "en cubos grandes"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "pasta de curry massaman"
+   },
+   {
+    "n": "papas"
+   },
+   {
+    "n": "chalota",
+    "note": "peladas enteras"
+   },
+   {
+    "n": "cacahuates tostados"
+   },
+   {
+    "n": "pasta de tamarindo"
+   },
+   {
+    "n": "azúcar de palma"
+   },
+   {
+    "n": "salsa de pescado"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "cardamomo"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "anís estrellado"
+   }
+  ],
+  "steps": [
+   "Rompe la crema de coco espesa en una olla pesada hasta que el aceite se separe.",
+   "Fríe la pasta con las especias enteras 5 minutos hasta que oscurezca y aromatice.",
+   "Añade la carne y cúbrela bien con la pasta.",
+   "Añade el resto de la leche de coco y cuece tapado, al fuego más bajo, durante 90 minutos.",
+   "Añade las papas y las chalotas enteras y cocina 40 minutos más hasta que todo esté tierno.",
+   "Sazona con tamarindo, azúcar de palma y salsa de pescado. Debe leerse primero dulce, luego ácido, luego salado. Incorpora los cacahuates al final."
+  ],
+  "tips": [
+   "El equilibrio es más dulce y menos picante que otros curries tailandeses. No lo corrijas hacia ellos.",
+   "Chalotas enteras, no en rodajas. Quedan blandas y dulces y mantienen la forma.",
+   "El tamarindo es la nota ácida que lo define: la lima no lo sustituye aquí."
+  ],
+  "video": "curry massaman de res"
+ },
+ "en": {
+  "name": "Massaman Curry",
+  "blurb": "The Thai curry with Persian and Indian roots: warm whole spices, potatoes, peanuts and tamarind. It simmers for hours, not minutes.",
+  "ing": [
+   {
+    "n": "beef chuck",
+    "note": "in large cubes"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "massaman curry paste"
+   },
+   {
+    "n": "potatoes"
+   },
+   {
+    "n": "shallots",
+    "note": "peeled, whole"
+   },
+   {
+    "n": "roasted peanuts"
+   },
+   {
+    "n": "tamarind paste"
+   },
+   {
+    "n": "palm sugar"
+   },
+   {
+    "n": "fish sauce"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "cardamom pods"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "star anise"
+   }
+  ],
+  "steps": [
+   "Crack the thick coconut cream in a heavy pot until the oil separates.",
+   "Fry the paste with the whole spices for 5 minutes until it darkens and smells fragrant.",
+   "Add the beef and coat it well in the paste.",
+   "Add the rest of the coconut milk and simmer covered, on the lowest heat, for 90 minutes.",
+   "Add the potatoes and whole shallots and cook 40 minutes more until everything is tender.",
+   "Season with tamarind, palm sugar and fish sauce. It should read sweet first, then sour, then salty. Stir in the peanuts at the end."
+  ],
+  "tips": [
+   "The balance is sweeter and less spicy than other Thai curries. Don't correct it toward them.",
+   "Whole shallots, not sliced. They turn soft and sweet and hold their shape.",
+   "Tamarind is the defining sour note: lime doesn't replace it here."
+  ],
+  "video": "beef massaman curry"
+ }
+}

@@ -1,0 +1,210 @@
+{
+ "id": "dhal-lk",
+ "country": "Sri Lanka",
+ "region": "south-asia",
+ "course": "main",
+ "time": 35,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 15,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "coconutoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Dhal de Coco de Sri Lanka",
+  "blurb": "Veinticinco minutos, una sola olla, y mejor que muchas cosas que tardan tres horas. La leche de coco entra tarde para que no se corte.",
+  "ing": [
+   {
+    "n": "lentejas rojas",
+    "note": "enjuagadas"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "hojas de curry"
+   },
+   {
+    "n": "hoja de pandan",
+    "note": "opcional"
+   },
+   {
+    "n": "cúrcuma"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "semilla de mostaza"
+   },
+   {
+    "n": "chile seco"
+   },
+   {
+    "n": "aceite de coco"
+   },
+   {
+    "n": "lima"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece las lentejas con la cúrcuma, la canela, el pandan y 500 ml de agua durante 15 minutos, hasta que estén blandas.",
+   "Añade la leche de coco y cuece suavemente 8 minutos más. No dejes que hierva fuerte o se separará.",
+   "En otra sartén, calienta el aceite de coco y revienta la semilla de mostaza.",
+   "Añade cebolla, ajo, hojas de curry y chile seco. Fríe hasta que la cebolla esté bien dorada.",
+   "Vierte casi todo sobre el dhal y mezcla. Rectifica de sal.",
+   "Termina con jugo de lima fuera del fuego y el resto del tadka por encima."
+  ],
+  "tips": [
+   "La leche de coco entra después de que las lentejas estén cocidas, nunca al principio.",
+   "Las hojas de curry tienen que ser frescas o congeladas. Las secas no saben a nada.",
+   "La lima al final. El ácido añadido pronto se apaga; añadido tarde levanta."
+  ],
+  "video": "dhal de coco cingalés"
+ },
+ "en": {
+  "name": "Sri Lankan Coconut Dhal",
+  "blurb": "Twenty-five minutes, one pot, and better than plenty of things that take three hours. The coconut milk goes in late so it doesn't split.",
+  "ing": [
+   {
+    "n": "red lentils",
+    "note": "rinsed"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "curry leaves"
+   },
+   {
+    "n": "pandan leaf",
+    "note": "optional"
+   },
+   {
+    "n": "turmeric"
+   },
+   {
+    "n": "cinnamon"
+   },
+   {
+    "n": "mustard seed"
+   },
+   {
+    "n": "dried chile"
+   },
+   {
+    "n": "coconut oil"
+   },
+   {
+    "n": "lime"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the lentils with the turmeric, cinnamon, pandan and 500 ml water for 15 minutes, until soft.",
+   "Add the coconut milk and simmer gently 8 minutes more. Don't let it boil hard or it will separate.",
+   "In another pan, heat the coconut oil and pop the mustard seed.",
+   "Add the onion, garlic, curry leaves and dried chile. Fry until the onion is well browned.",
+   "Pour most of it over the dhal and stir. Adjust the salt.",
+   "Finish with lime juice off the heat and the rest of the tadka on top."
+  ],
+  "tips": [
+   "The coconut milk goes in after the lentils are cooked, never at the start.",
+   "Curry leaves have to be fresh or frozen. Dried ones taste of nothing.",
+   "Lime at the end. Acid added early goes flat; added late, it lifts."
+  ],
+  "video": "sri lankan coconut dhal parippu"
+ }
+}

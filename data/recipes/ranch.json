@@ -1,0 +1,184 @@
+{
+ "id": "ranch",
+ "country": "United States",
+ "region": "north-america",
+ "course": "sauce",
+ "time": 15,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "mayo",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sourcream",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "buttermilk",
+   "role": "liquid"
+  },
+  {
+   "q": 15,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 15,
+   "u": "g",
+   "k": "chive",
+   "role": "aromatic"
+  },
+  {
+   "q": 15,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Aliño Ranch",
+  "blurb": "Suero de leche, hierbas frescas y una hora de reposo. El de sobre existe porque las hierbas secas no necesitan refrigeración, pero el fresco es otro producto.",
+  "ing": [
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "crema agria"
+   },
+   {
+    "n": "suero de leche"
+   },
+   {
+    "n": "eneldo",
+    "note": "fresco"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "cebolla en polvo"
+   },
+   {
+    "n": "vinagre de manzana"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Machaca el ajo con la sal hasta obtener una pasta.",
+   "Bate la mayonesa con la crema agria hasta que quede liso.",
+   "Incorpora el suero de leche poco a poco hasta la densidad que quieras: más espeso para mojar, más fluido para ensalada.",
+   "Pica las hierbas frescas muy finas y añádelas con el ajo, la cebolla en polvo y el vinagre.",
+   "Sazona con sal y mucha pimienta negra.",
+   "Refrigera al menos una hora antes de usar. Sin ese reposo las hierbas no han soltado nada."
+  ],
+  "tips": [
+   "Hierbas frescas y una hora de reposo. Ese es todo el motivo de hacerlo en casa.",
+   "El suero de leche aporta la acidez láctea característica; la leche normal no la da.",
+   "Aguanta una semana, aunque las hierbas pierden color al tercer día."
+  ],
+  "video": "aliño ranch casero hierbas frescas"
+ },
+ "en": {
+  "name": "Ranch Dressing",
+  "blurb": "Buttermilk, fresh herbs and an hour's rest. The packet exists because dried herbs don't need refrigeration, but fresh is a different product.",
+  "ing": [
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "sour cream"
+   },
+   {
+    "n": "buttermilk"
+   },
+   {
+    "n": "dill",
+    "note": "fresh"
+   },
+   {
+    "n": "chives"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "onion powder"
+   },
+   {
+    "n": "apple cider vinegar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Mash the garlic with the salt into a paste.",
+   "Whisk the mayonnaise with the sour cream until smooth.",
+   "Add the buttermilk gradually until it reaches the consistency you want: thicker for dipping, looser for salad.",
+   "Chop the fresh herbs very fine and add them with the garlic, onion powder and vinegar.",
+   "Season with salt and plenty of black pepper.",
+   "Refrigerate at least an hour before using. Without that rest the herbs haven't released anything."
+  ],
+  "tips": [
+   "Fresh herbs and an hour's rest. That's the whole reason to make it at home.",
+   "Buttermilk brings the signature dairy tang; regular milk doesn't.",
+   "It keeps a week, though the herbs lose their color by day three."
+  ],
+  "video": "homemade ranch dressing fresh herbs"
+ }
+}

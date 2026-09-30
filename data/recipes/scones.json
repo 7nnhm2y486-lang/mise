@@ -1,0 +1,151 @@
+{
+ "id": "scones",
+ "country": "United Kingdom",
+ "region": "western-europe",
+ "course": "pastry",
+ "time": 40,
+ "serves": 8,
+ "ovenC": 220,
+ "ing": [
+  {
+   "q": 350,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 85,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 175,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "glaze"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Scones",
+  "blurb": "Mantequilla fría, manipulación mínima y un corte recto hacia abajo. Girar el cortador sella los lados y el scone sube torcido.",
+  "ing": [
+   {
+    "n": "harina leudante"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "mantequilla",
+    "note": "fría, en cubos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "leche entera",
+    "note": "fría"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "jugo de limón"
+   }
+  ],
+  "steps": [
+   "Integra la mantequilla fría en la harina, el polvo de hornear, el azúcar y la sal hasta que parezca pan rallado grueso. Detente cuando queden trozos del tamaño de un guisante.",
+   "Añade el jugo de limón a la leche y déjala 5 minutos para que se acidifique un poco.",
+   "Vierte la leche y une con un cuchillo, no con las manos. La masa debe quedar blanda y algo pegajosa.",
+   "Vuélcala, aplánala a 3 cm de grosor — no la estires fina — y pliégala sobre sí misma dos veces para hacer capas.",
+   "Corta recto hacia abajo con un cortador enharinado y levanta sin girar.",
+   "Pinta solo la superficie, evitando los lados, y hornea a 220 °C durante 12-14 minutos."
+  ],
+  "tips": [
+   "Nunca gires el cortador. Sella el corte y el scone sube torcido o no sube.",
+   "3 cm de grosor como mínimo. Un scone fino no puede subir alto haga lo que haga.",
+   "El huevo en los lados pega las capas. Solo la superficie."
+  ],
+  "video": "scones altos técnica"
+ },
+ "en": {
+  "name": "Scones",
+  "blurb": "Cold butter, minimal handling and a straight-down cut. Twisting the cutter seals the sides and the scone rises crooked.",
+  "ing": [
+   {
+    "n": "self-rising flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "butter",
+    "note": "cold, cubed"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "whole milk",
+    "note": "cold"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "lemon juice"
+   }
+  ],
+  "steps": [
+   "Rub the cold butter into the flour, baking powder, sugar and salt until it looks like coarse breadcrumbs. Stop while there are still pea-sized pieces.",
+   "Add the lemon juice to the milk and let it sit 5 minutes to sour slightly.",
+   "Pour in the milk and bring it together with a knife, not your hands. The dough should be soft and a little sticky.",
+   "Turn it out, pat it to 3 cm thick — don't roll it thin — and fold it over on itself twice to build layers.",
+   "Cut straight down with a floured cutter and lift without twisting.",
+   "Brush only the tops, avoiding the sides, and bake at 220 °C for 12-14 minutes."
+  ],
+  "tips": [
+   "Never twist the cutter. It seals the cut and the scone rises crooked or not at all.",
+   "At least 3 cm thick. A thin scone can't rise tall whatever you do.",
+   "Egg on the sides glues the layers together. Tops only."
+  ],
+  "video": "tall scones technique"
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "id": "amatriciana",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 35,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "guanciale",
+   "role": "fat"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "pecorino",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Bucatini all'Amatriciana",
+  "blurb": "Guanciale, tomate y pecorino. La grasa del guanciale se rinde despacio desde la sartén fría y esa grasa, no el aceite de oliva, es el vehículo de toda la salsa.",
+  "ing": [
+   {
+    "n": "bucatini"
+   },
+   {
+    "n": "guanciale",
+    "note": "en bastones de 1 cm"
+   },
+   {
+    "n": "jitomate pelado",
+    "note": "de lata, machacado a mano"
+   },
+   {
+    "n": "pecorino romano",
+    "note": "rallado fino"
+   },
+   {
+    "n": "chile seco"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "sal",
+    "note": "para el agua"
+   }
+  ],
+  "steps": [
+   "Pon el guanciale en una sartén fría y llévalo a fuego medio-bajo. Deja que suelte la grasa durante 8-10 minutos hasta que los bordes estén dorados y crujientes.",
+   "Saca la mitad del guanciale y resérvalo: volverá al final para que conserve el crujido.",
+   "Añade el chile y desglasa con el vino, dejándolo evaporar por completo.",
+   "Añade el jitomate machacado y cocina 15 minutos, hasta que la salsa se oscurezca y el aceite anaranjado aflore en los bordes.",
+   "Cuece los bucatini dos minutos menos de lo indicado y termínalos en la sartén con un cucharón de agua de cocción.",
+   "Fuera del fuego, incorpora el pecorino y el guanciale reservado, moviendo con fuerza hasta que la salsa abrace la pasta."
+  ],
+  "tips": [
+   "Sartén fría al empezar. El guanciale echado a una sartén caliente se quema por fuera antes de rendir la grasa.",
+   "No añadas aceite de oliva. Doscientos gramos de guanciale sueltan toda la grasa que el plato necesita.",
+   "El pecorino siempre fuera del fuego, como en la cacio e pepe."
+  ],
+  "video": "bucatini all'amatriciana auténtica"
+ },
+ "en": {
+  "name": "Bucatini all'Amatriciana",
+  "blurb": "Guanciale, tomato and pecorino. The guanciale fat renders slowly from a cold pan, and that fat, not olive oil, carries the whole sauce.",
+  "ing": [
+   {
+    "n": "bucatini"
+   },
+   {
+    "n": "guanciale",
+    "note": "in 1 cm batons"
+   },
+   {
+    "n": "peeled tomatoes",
+    "note": "canned, crushed by hand"
+   },
+   {
+    "n": "pecorino romano",
+    "note": "finely grated"
+   },
+   {
+    "n": "dried chile"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "salt",
+    "note": "for the water"
+   }
+  ],
+  "steps": [
+   "Put the guanciale in a cold pan and bring it up over medium-low heat. Let it render for 8-10 minutes until the edges are golden and crisp.",
+   "Take out half the guanciale and set it aside: it goes back in at the end so it stays crisp.",
+   "Add the chile and deglaze with the wine, letting it cook off completely.",
+   "Add the crushed tomatoes and cook for 15 minutes, until the sauce darkens and orange oil shows at the edges.",
+   "Cook the bucatini two minutes less than the package says and finish them in the pan with a ladle of cooking water.",
+   "Off the heat, stir in the pecorino and the reserved guanciale, tossing hard until the sauce clings to the pasta."
+  ],
+  "tips": [
+   "Cold pan to start. Guanciale dropped into a hot pan burns on the outside before it renders its fat.",
+   "Don't add olive oil. Two hundred grams of guanciale gives off all the fat the dish needs.",
+   "Pecorino always goes in off the heat, as in cacio e pepe."
+  ],
+  "video": "authentic bucatini all'amatriciana"
+ }
+}

@@ -1,0 +1,192 @@
+{
+ "id": "ccc-gf",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 820,
+ "serves": 18,
+ "ovenC": 180,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1.5,
+   "u": "g",
+   "k": "",
+   "role": "binder"
+  },
+  {
+   "q": 230,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 210,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 90,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 280,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Galletas Sin Gluten",
+  "blurb": "Las galletas sin gluten fallan por una sola razón: los almidones nunca se hidratan y se nota la arenilla. Un reposo largo lo arregla del todo, y algo más de grasa reemplaza la estructura que daba el gluten.",
+  "lab": "Mezcla sin gluten + reposo largo · sin arenilla",
+  "ing": [
+   {
+    "n": "mezcla de harina sin gluten",
+    "note": "pesada, no medida en tazas"
+   },
+   {
+    "n": "goma xantana",
+    "note": "omítela si la mezcla ya lleva goma"
+   },
+   {
+    "n": "mantequilla",
+    "note": "tostada"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "yema de huevo"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro"
+   },
+   {
+    "n": "extracto de vainilla"
+   }
+  ],
+  "steps": [
+   "Tuesta la mantequilla y enfríala 10 minutos.",
+   "Bate dentro los dos azúcares, luego el huevo, la yema y la vainilla.",
+   "Incorpora la mezcla de harina, la xantana, el bicarbonato y la sal, y después el chocolate.",
+   "Ahora reposa la masa un mínimo de 12 horas, y 24 es mejor. Esto no es por sabor: es el tiempo que los almidones de arroz y tapioca necesitan para absorber agua. Sáltatelo y las galletas quedarán arenosas.",
+   "Hornea bolas de 55 g a 180 °C durante 12-13 minutos.",
+   "Enfría por completo en la bandeja; las masas sin gluten son frágiles en caliente."
+  ],
+  "tips": [
+   "Pesa la harina. Las mezclas sin gluten varían hasta un 40% en densidad, así que medir por tazas no significa nada.",
+   "El reposo es la receta entera. Todo lo demás es corriente.",
+   "La yema extra aporta la emulsión que habría dado la red de gluten ausente."
+  ],
+  "video": "galletas sin gluten chispas chocolate"
+ },
+ "en": {
+  "name": "Gluten-Free Cookies",
+  "blurb": "Gluten-free cookies fail for one reason: the starches never hydrate and you taste the grit. A long rest fixes it completely, and a bit more fat replaces the structure gluten used to provide.",
+  "lab": "Gluten-free blend + long rest · no grit",
+  "ing": [
+   {
+    "n": "gluten-free flour blend",
+    "note": "weighed, not measured in cups"
+   },
+   {
+    "n": "xanthan gum",
+    "note": "leave it out if the blend already contains gum"
+   },
+   {
+    "n": "butter",
+    "note": "browned"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "egg yolk"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate"
+   },
+   {
+    "n": "vanilla extract"
+   }
+  ],
+  "steps": [
+   "Brown the butter and cool it 10 minutes.",
+   "Beat in both sugars, then the egg, yolk and vanilla.",
+   "Fold in the flour blend, xanthan, baking soda and salt, then the chocolate.",
+   "Now rest the dough for at least 12 hours, and 24 is better. This isn't for flavor: it's the time the rice and tapioca starches need to absorb water. Skip it and the cookies will be gritty.",
+   "Bake 55 g balls at 180 °C for 12-13 minutes.",
+   "Cool completely on the sheet; gluten-free doughs are fragile while hot."
+  ],
+  "tips": [
+   "Weigh the flour. Gluten-free blends vary by up to 40% in density, so measuring by the cup means nothing.",
+   "The rest is the whole recipe. Everything else is standard.",
+   "The extra yolk provides the emulsion the missing gluten network would have given."
+  ],
+  "video": "gluten free chocolate chip cookies"
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "id": "mochi",
+ "country": "Japan",
+ "region": "east-asia",
+ "course": "sweet",
+ "time": 60,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "",
+   "role": "dredge"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "sugar",
+   "role": "structure"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Daifuku Mochi",
+  "blurb": "Harina de arroz glutinoso cocida al vapor hasta volverse elástica. El almidón debe cocerse por completo y por etapas o el centro queda calcáreo.",
+  "ing": [
+   {
+    "n": "harina de arroz glutinoso",
+    "note": "shiratamako o mochiko"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "almidón de papa",
+    "note": "para espolvorear"
+   },
+   {
+    "n": "pasta de judía roja",
+    "note": "anko"
+   },
+   {
+    "n": "fresas",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Forma bolas de 25 g con la pasta de judía, envolviendo una fresa en cada una si las usas. Refrigera.",
+   "Bate la harina de arroz, el azúcar y el agua hasta que quede completamente liso, sin grumos.",
+   "Tapa y calienta 1 minuto en microondas, remueve con fuerza con una espátula mojada, otro minuto, remueve otra vez, y 30-40 segundos más. Debe pasar de líquido blanco a una masa traslúcida, pegajosa y elástica.",
+   "Vuelca sobre una superficie muy espolvoreada con almidón de papa y espolvorea también por encima.",
+   "Divide en 12, aplana cada porción en un disco, coloca una bola de relleno en el centro y recoge los bordes pellizcando para cerrar.",
+   "Coloca con la costura abajo y sacude el exceso de almidón. Cómelos el mismo día: el mochi endurece de un día para otro."
+  ],
+  "tips": [
+   "La translucidez es la prueba de cocción. Cualquier zona blanca opaca es almidón crudo y textura calcárea.",
+   "Almidón de papa, no de maíz, para espolvorear. El de maíz sabe crudo.",
+   "Trabaja rápido mientras está caliente. El mochi frío no se estira y se rompe."
+  ],
+  "video": "daifuku mochi"
+ },
+ "en": {
+  "name": "Daifuku Mochi",
+  "blurb": "Glutinous rice flour steamed until it turns elastic. The starch has to cook through completely, in stages, or the center stays chalky.",
+  "ing": [
+   {
+    "n": "glutinous rice flour",
+    "note": "shiratamako or mochiko"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "potato starch",
+    "note": "for dusting"
+   },
+   {
+    "n": "sweet red bean paste",
+    "note": "anko"
+   },
+   {
+    "n": "strawberries",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Shape the bean paste into 25 g balls, wrapping each around a strawberry if using. Refrigerate.",
+   "Whisk the rice flour, sugar and water until completely smooth, with no lumps.",
+   "Cover and microwave 1 minute, stir hard with a wet spatula, another minute, stir again, and 30-40 seconds more. It should go from white liquid to a translucent, sticky, stretchy dough.",
+   "Turn out onto a surface heavily dusted with potato starch and dust the top too.",
+   "Divide into 12, flatten each piece into a disk, set a ball of filling in the center and gather the edges, pinching to seal.",
+   "Set seam side down and brush off the excess starch. Eat them the same day: mochi hardens overnight."
+  ],
+  "tips": [
+   "Translucence is the doneness test. Any opaque white patch is raw starch and a chalky texture.",
+   "Potato starch, not cornstarch, for dusting. Cornstarch tastes raw.",
+   "Work fast while it's hot. Cold mochi won't stretch and tears."
+  ],
+  "video": "daifuku mochi"
+ }
+}

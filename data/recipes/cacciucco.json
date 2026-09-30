@@ -1,0 +1,214 @@
+{
+ "id": "cacciucco",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 120,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "squid",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "squid",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "mussel",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "winered",
+   "role": "acid"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "leaf",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 6,
+   "u": "slice",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Cacciucco",
+  "blurb": "La sopa de pescado de Livorno: cinco tipos de pescado, uno por cada c del nombre. Los de cáscara y espina hacen el caldo, los nobles se añaden al final.",
+  "ing": [
+   {
+    "n": "pescado de roca",
+    "note": "para el caldo"
+   },
+   {
+    "n": "calamares",
+    "note": "en anillos"
+   },
+   {
+    "n": "pulpo",
+    "note": "precocido"
+   },
+   {
+    "n": "mejillones"
+   },
+   {
+    "n": "langostinos"
+   },
+   {
+    "n": "jitomate triturado"
+   },
+   {
+    "n": "vino tinto"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "chile seco"
+   },
+   {
+    "n": "salvia"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "pan rústico",
+    "note": "tostado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Haz un caldo con el pescado de roca, las cabezas y cáscaras de los langostinos y agua. Cuece 30 minutos y pásalo por un pasapurés.",
+   "Sofríe el ajo, el chile y la salvia en aceite hasta que aromaticen.",
+   "Añade los calamares y el pulpo y cocina 10 minutos: son los que más tardan.",
+   "Añade el vino tinto y deja evaporar, luego el jitomate y cocina 20 minutos.",
+   "Incorpora el caldo colado y cuece 20 minutos más, hasta que los calamares estén tiernos.",
+   "Añade los mejillones y los langostinos y cocina solo 4 minutos. Sirve sobre pan tostado frotado con ajo."
+  ],
+  "tips": [
+   "El caldo de pescado de roca es obligatorio: con agua sola esto es otro plato.",
+   "Vino tinto, no blanco. Es lo que distingue al cacciucco livornés.",
+   "Por orden de dureza: calamar y pulpo primero, marisco al final."
+  ],
+  "video": "cacciucco alla livornese"
+ },
+ "en": {
+  "name": "Cacciucco",
+  "blurb": "Livorno's fish soup: five kinds of seafood, one for each c in the name. The shell-on and bony ones make the broth; the prized ones go in at the end.",
+  "ing": [
+   {
+    "n": "rockfish",
+    "note": "for the broth"
+   },
+   {
+    "n": "squid",
+    "note": "in rings"
+   },
+   {
+    "n": "octopus",
+    "note": "precooked"
+   },
+   {
+    "n": "mussels"
+   },
+   {
+    "n": "prawns"
+   },
+   {
+    "n": "crushed tomatoes"
+   },
+   {
+    "n": "red wine"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "dried chile"
+   },
+   {
+    "n": "sage"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "rustic bread",
+    "note": "toasted"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Make a broth with the rockfish, the prawn heads and shells, and water. Simmer 30 minutes and pass it through a food mill.",
+   "Sauté the garlic, chile and sage in oil until fragrant.",
+   "Add the squid and octopus and cook 10 minutes: they take the longest.",
+   "Add the red wine and let it cook off, then the tomatoes, and cook 20 minutes.",
+   "Stir in the strained broth and simmer 20 minutes more, until the squid is tender.",
+   "Add the mussels and prawns and cook just 4 minutes. Serve over toasted bread rubbed with garlic."
+  ],
+  "tips": [
+   "The rockfish broth is mandatory: with plain water this is a different dish.",
+   "Red wine, not white. It's what sets Livorno's cacciucco apart.",
+   "In order of toughness: squid and octopus first, shellfish last."
+  ],
+  "video": "cacciucco alla livornese recipe"
+ }
+}

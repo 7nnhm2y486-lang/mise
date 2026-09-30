@@ -1,0 +1,217 @@
+{
+ "id": "grindersalad",
+ "country": "United States",
+ "region": "north-america",
+ "course": "main",
+ "time": 25,
+ "serves": 2,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 2,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "chilli",
+   "role": "acid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "mayo",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "pancetta",
+   "role": "protein"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "cheese",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Sándwich con Ensalada Grinder",
+  "blurb": "El truco no es el embutido: es picar la lechuga muy fina y aliñarla con una mayonesa avinagrada antes de meterla. La ensalada se convierte en salsa y estructura a la vez.",
+  "ing": [
+   {
+    "n": "pan tipo baguette"
+   },
+   {
+    "n": "lechuga iceberg",
+    "note": "picada muy fina"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "en pluma finísima"
+   },
+   {
+    "n": "pepperoncini",
+    "note": "encurtidos, picados"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "vinagre de vino tinto"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "ajo en polvo"
+   },
+   {
+    "n": "salami y mortadela",
+    "note": "en lonchas finas"
+   },
+   {
+    "n": "provolone",
+    "note": "en lonchas"
+   },
+   {
+    "n": "jitomate"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Pica la lechuga tan fina como puedas, casi como una juliana de repollo. Este es el paso que define el sándwich.",
+   "Mezcla la mayonesa con el vinagre, el orégano, el ajo en polvo, sal y pimienta.",
+   "Incorpora la lechuga, la cebolla y los pepperoncini a ese aliño y mezcla bien. Déjalo 10 minutos para que la lechuga se ablande un poco.",
+   "Abre el pan, retira algo de miga y coloca el queso directamente sobre el pan, no sobre la ensalada: hace de barrera contra la humedad.",
+   "Añade el embutido en pliegues sueltos, no plano, para que tenga volumen.",
+   "Corona con una cantidad generosa de la ensalada aliñada, cierra, presiona y córtalo en diagonal."
+  ],
+  "tips": [
+   "El queso va pegado al pan como barrera. Sin eso el pan se empapa en minutos.",
+   "Pliega el embutido en ondas en vez de apilarlo plano: se come mucho mejor.",
+   "El vinagre en la mayonesa es lo que evita que resulte pesado."
+  ],
+  "video": "sandwich italiano ensalada grinder"
+ },
+ "en": {
+  "name": "Grinder Salad Sandwich",
+  "blurb": "The trick is not the cold cuts: it is shredding the lettuce very fine and dressing it in a vinegary mayo before it goes in. The salad becomes sauce and structure at once.",
+  "ing": [
+   {
+    "n": "baguette-style bread"
+   },
+   {
+    "n": "iceberg lettuce",
+    "note": "very finely shredded"
+   },
+   {
+    "n": "red onion",
+    "note": "in paper-thin slivers"
+   },
+   {
+    "n": "pepperoncini",
+    "note": "pickled, chopped"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "red wine vinegar"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "garlic powder"
+   },
+   {
+    "n": "salami and mortadella",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "provolone",
+    "note": "sliced"
+   },
+   {
+    "n": "tomatoes"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Shred the lettuce as fine as you can, almost like shredded cabbage. This is the step that defines the sandwich.",
+   "Mix the mayonnaise with the vinegar, oregano, garlic powder, salt and pepper.",
+   "Add the lettuce, onion and pepperoncini to that dressing and toss well. Leave it 10 minutes so the lettuce softens slightly.",
+   "Split the bread, pull out some of the crumb and lay the cheese directly on the bread, not on the salad: it acts as a moisture barrier.",
+   "Add the cold cuts in loose folds, not flat, so they have volume.",
+   "Top with a generous amount of the dressed salad, close, press and cut on the diagonal."
+  ],
+  "tips": [
+   "The cheese goes against the bread as a barrier. Without it the bread is soggy in minutes.",
+   "Fold the cold cuts in waves instead of stacking them flat: it eats much better.",
+   "The vinegar in the mayo is what keeps it from feeling heavy."
+  ],
+  "video": "Italian grinder salad sandwich"
+ }
+}

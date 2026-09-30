@@ -1,0 +1,130 @@
+{
+ "id": "bagnacauda",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sauce",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 100,
+   "u": "g",
+   "k": "anchovy",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "head",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "plate",
+   "k": "",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Bagna Càuda",
+  "blurb": "Anchoa, ajo y aceite derretidos juntos en el Piamonte. El ajo se cuece antes en leche, que le quita la agresividad y lo deja dulce.",
+  "ing": [
+   {
+    "n": "anchoas",
+    "note": "en salazón, enjuagadas"
+   },
+   {
+    "n": "ajo",
+    "note": "dientes pelados"
+   },
+   {
+    "n": "leche entera",
+    "note": "para cocer el ajo"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "verduras crudas",
+    "note": "cardo, pimiento, apio, zanahoria, hinojo"
+   }
+  ],
+  "steps": [
+   "Cuece los dientes de ajo en la leche a fuego muy bajo 25-30 minutos, hasta que se aplasten sin resistencia. Descarta la leche.",
+   "Machaca el ajo cocido hasta obtener una pasta.",
+   "Enjuaga bien las anchoas si son de salazón y sécalas.",
+   "Pon el ajo, las anchoas y el aceite en una cazuela de barro a fuego muy bajo.",
+   "Cocina 20-25 minutos removiendo, hasta que las anchoas se deshagan por completo. No debe freír ni burbujear.",
+   "Incorpora la mantequilla fuera del fuego y sirve caliente sobre un hornillo, con las verduras crudas alrededor."
+  ],
+  "tips": [
+   "Cocer el ajo en leche es el paso tradicional y el que lo vuelve dulce en vez de agresivo.",
+   "Fuego mínimo todo el tiempo. Si el aceite fríe, las anchoas se queman y amargan.",
+   "Se come caliente y en el centro de la mesa. Enfriada se separa y pierde la gracia."
+  ],
+  "video": "bagna cauda piamontesa"
+ },
+ "en": {
+  "name": "Bagna Càuda",
+  "blurb": "Anchovy, garlic and oil melted together, Piedmont style. The garlic is first simmered in milk, which takes away its bite and leaves it sweet.",
+  "ing": [
+   {
+    "n": "anchovies",
+    "note": "salt-packed, rinsed"
+   },
+   {
+    "n": "garlic",
+    "note": "peeled cloves"
+   },
+   {
+    "n": "whole milk",
+    "note": "for simmering the garlic"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "raw vegetables",
+    "note": "cardoon, bell pepper, celery, carrot, fennel"
+   }
+  ],
+  "steps": [
+   "Simmer the garlic cloves in the milk over very low heat for 25-30 minutes, until they crush with no resistance. Discard the milk.",
+   "Mash the cooked garlic to a paste.",
+   "Rinse the anchovies well if salt-packed, and pat them dry.",
+   "Put the garlic, anchovies and oil in an earthenware pot over very low heat.",
+   "Cook for 20-25 minutes, stirring, until the anchovies dissolve completely. It must not fry or bubble.",
+   "Stir in the butter off the heat and serve hot over a warmer, with the raw vegetables around it."
+  ],
+  "tips": [
+   "Simmering the garlic in milk is the traditional step, and the one that makes it sweet instead of harsh.",
+   "Lowest heat the whole time. If the oil fries, the anchovies burn and turn bitter.",
+   "It's eaten hot, in the middle of the table. Once it cools it separates and loses its charm."
+  ],
+  "video": "piedmontese bagna cauda"
+ }
+}

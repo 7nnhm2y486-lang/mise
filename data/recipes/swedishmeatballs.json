@@ -1,0 +1,234 @@
+{
+ "id": "swedishmeatballs",
+ "country": "Sweden",
+ "region": "nordic",
+ "course": "main",
+ "time": 70,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "breadcrumbs",
+   "role": "binder"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "cream",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "cream",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Albóndigas Suecas",
+  "blurb": "Una panada de pan rallado y crema, y mezcla de cerdo y res. La salsa se termina con una cucharada de la mermelada que se sirve al lado, y eso es lo que equilibra la crema.",
+  "ing": [
+   {
+    "n": "res picada"
+   },
+   {
+    "n": "cerdo picado"
+   },
+   {
+    "n": "pan rallado"
+   },
+   {
+    "n": "crema espesa"
+   },
+   {
+    "n": "cebolla",
+    "note": "rallada"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "pimienta de Jamaica"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "caldo de res"
+   },
+   {
+    "n": "crema espesa",
+    "note": "para la salsa"
+   },
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "mermelada de arándano rojo"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja el pan rallado en la crema 10 minutos.",
+   "Mézclalo con las dos carnes, la cebolla rallada, el huevo, la pimienta de Jamaica, la nuez moscada y la sal. Trabájalo 2 minutos hasta que quede algo pegajoso.",
+   "Refrigera 30 minutos y forma bolitas con las manos mojadas.",
+   "Dóralas en mantequilla por tandas, girándolas, hasta que tomen color por todos lados. Terminan en la salsa, así que no las cocines del todo.",
+   "En la misma sartén haz un roux con mantequilla y harina, incorpora el caldo, luego la crema y la soja.",
+   "Devuelve las albóndigas y cocina 12 minutos. Incorpora una cucharada de mermelada a la salsa al final y sirve el resto aparte."
+  ],
+  "tips": [
+   "Ralla la cebolla en vez de picarla. Los trozos impiden que las albóndigas se sostengan.",
+   "La soja no es tradicional pero hace lo que las recetas antiguas conseguían con una reducción de caldo.",
+   "Un poco de mermelada en la salsa. Dulce y ácido contra la crema es todo el sentido del plato."
+  ],
+  "video": "albóndigas suecas köttbullar"
+ },
+ "en": {
+  "name": "Swedish Meatballs",
+  "blurb": "A panade of breadcrumbs and cream, and a mix of pork and beef. The sauce is finished with a spoonful of the jam served alongside, and that's what balances the cream.",
+  "ing": [
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "ground pork"
+   },
+   {
+    "n": "breadcrumbs"
+   },
+   {
+    "n": "heavy cream"
+   },
+   {
+    "n": "onion",
+    "note": "grated"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "allspice"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "beef stock"
+   },
+   {
+    "n": "heavy cream",
+    "note": "for the sauce"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "lingonberry jam"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the breadcrumbs in the cream for 10 minutes.",
+   "Mix with both meats, the grated onion, egg, allspice, nutmeg and salt. Work it for 2 minutes until slightly sticky.",
+   "Refrigerate 30 minutes and roll into small balls with wet hands.",
+   "Brown them in butter in batches, turning, until colored on all sides. They finish in the sauce, so don't cook them through.",
+   "In the same pan make a roux with butter and flour, whisk in the stock, then the cream and soy sauce.",
+   "Return the meatballs and cook for 12 minutes. Stir a spoonful of jam into the sauce at the end and serve the rest on the side."
+  ],
+  "tips": [
+   "Grate the onion instead of chopping it. Chunks keep the meatballs from holding together.",
+   "Soy sauce isn't traditional, but it does what old recipes got from a stock reduction.",
+   "A little jam in the sauce. Sweet and tart against the cream is the whole point of the dish."
+  ],
+  "video": "swedish meatballs köttbullar"
+ }
+}

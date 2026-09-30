@@ -1,0 +1,220 @@
+{
+ "id": "ragu",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 210,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "pancetta",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "stalk",
+   "k": "celery",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "tomatopaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Ragú a la Boloñesa",
+  "blurb": "Leche antes que vino, vino antes que tomate, y tres horas al hervor más leve posible. Aquí el tomate es un condimento, no la base.",
+  "ing": [
+   {
+    "n": "aguja de res picada"
+   },
+   {
+    "n": "panza de cerdo picada"
+   },
+   {
+    "n": "panceta",
+    "note": "en dados finos"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "zanahoria"
+   },
+   {
+    "n": "apio"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "vino blanco seco"
+   },
+   {
+    "n": "concentrado de tomate"
+   },
+   {
+    "n": "caldo de res"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "nuez moscada"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, zanahoria, apio y panceta muy picados en mantequilla y aceite 15 minutos, hasta que estén tiernos y dulces sin tomar color.",
+   "Sube el fuego, añade las dos carnes y cocínalas, deshaciéndolas, hasta que el agua se evapore y la carne empiece a freírse y dorarse: 15 minutos o más. No te saltes la fase gris.",
+   "Vierte la leche y deja que se reduzca casi por completo. Ablanda la carne y redondea la acidez que viene después.",
+   "Añade el vino y reduce otra vez casi a seco.",
+   "Incorpora el concentrado de tomate y el caldo. Sazona, añade nuez moscada y ponlo al hervor más leve: una burbuja cada varios segundos.",
+   "Cocina destapado de 2,5 a 3 horas, añadiendo agua si se seca. Termina con una nuez de mantequilla fuera del fuego."
+  ],
+  "tips": [
+   "Que la leche vaya primero no es folclore: su calcio y su caseína ablandan de verdad las proteínas de la carne.",
+   "Si borbotea en vez de temblar, la carne se tensa y queda granulosa.",
+   "Está mejor al día siguiente. Enfríalo rápido y recaliéntalo con suavidad."
+  ],
+  "video": "ragú boloñesa tradicional"
+ },
+ "en": {
+  "name": "Ragù alla Bolognese",
+  "blurb": "Milk before wine, wine before tomato, and three hours at the gentlest possible simmer. Here tomato is a seasoning, not the base.",
+  "ing": [
+   {
+    "n": "ground beef chuck"
+   },
+   {
+    "n": "ground pork belly"
+   },
+   {
+    "n": "pancetta",
+    "note": "finely diced"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "carrot"
+   },
+   {
+    "n": "celery"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "dry white wine"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "beef stock"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "nutmeg"
+   }
+  ],
+  "steps": [
+   "Sweat the finely chopped onion, carrot, celery and pancetta in butter and oil for 15 minutes, until soft and sweet without taking on color.",
+   "Turn up the heat, add both meats and cook, breaking them up, until the water evaporates and the meat starts to fry and brown: 15 minutes or more. Don't skip the gray phase.",
+   "Pour in the milk and let it reduce almost completely. It tenderizes the meat and rounds off the acidity that comes later.",
+   "Add the wine and reduce again until nearly dry.",
+   "Stir in the tomato paste and stock. Season, add nutmeg and bring to the gentlest simmer: one bubble every few seconds.",
+   "Cook uncovered for 2.5 to 3 hours, adding water if it dries out. Finish with a knob of butter off the heat."
+  ],
+  "tips": [
+   "Milk going in first isn't folklore: its calcium and casein genuinely soften the meat proteins.",
+   "If it bubbles instead of trembling, the meat tightens and turns grainy.",
+   "It's better the next day. Cool it quickly and reheat it gently."
+  ],
+  "video": "traditional ragu bolognese"
+ }
+}

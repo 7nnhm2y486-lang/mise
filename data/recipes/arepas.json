@@ -1,0 +1,154 @@
+{
+ "id": "arepas",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 45,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "cheese",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Arepas",
+  "blurb": "Harina de maíz precocida, no harina de maíz común ni masa harina. La masa está lista cuando deja de agrietarse en los bordes al aplanarla.",
+  "ing": [
+   {
+    "n": "harina de maíz precocida",
+    "note": "tipo P.A.N."
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "frijoles negros",
+    "note": "para rellenar"
+   },
+   {
+    "n": "queso fresco",
+    "note": "o mozzarella"
+   },
+   {
+    "n": "aguacate"
+   },
+   {
+    "n": "pollo deshebrado",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Disuelve la sal en el agua tibia y añade la harina en lluvia mientras remueves con la mano.",
+   "Amasa dentro del bol 3 minutos. Reposa 5 minutos: la harina sigue absorbiendo agua y firma bastante.",
+   "Prueba: aplana una bola en la palma. Si los bordes se agrietan, mójate las manos y amasa más agua. Bordes lisos significan que está lista.",
+   "Forma 8 discos de 1,5 cm de grosor.",
+   "Cocina en una plancha ligeramente engrasada a fuego medio 6-7 minutos por lado, hasta que se forme una costra firme y suenen huecas al golpearlas.",
+   "Termina en horno a 200 °C durante 10 minutos si las quieres infladas, luego ábrelas y rellénalas."
+  ],
+  "tips": [
+   "Solo funciona la harina de maíz precocida. La harina de maíz común no se hidrata en masa.",
+   "La prueba de la grieta es toda la habilidad. Bordes agrietados significan masa seca y arepa desmoronada.",
+   "Reposa la masa cinco minutos antes de formar. Cambia de consistencia de forma notable."
+  ],
+  "video": "arepas venezolanas"
+ },
+ "en": {
+  "name": "Arepas",
+  "blurb": "Precooked corn flour, not regular cornmeal and not masa harina. The dough is ready when the edges stop cracking as you flatten it.",
+  "ing": [
+   {
+    "n": "precooked corn flour",
+    "note": "P.A.N. style"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "black beans",
+    "note": "for filling"
+   },
+   {
+    "n": "queso fresco",
+    "note": "or mozzarella"
+   },
+   {
+    "n": "avocados"
+   },
+   {
+    "n": "shredded chicken",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Dissolve the salt in the warm water and rain in the flour while stirring with your hand.",
+   "Knead in the bowl for 3 minutes. Rest 5 minutes: the flour keeps absorbing water and firms up considerably.",
+   "Test: flatten a ball in your palm. If the edges crack, wet your hands and knead in more water. Smooth edges mean it's ready.",
+   "Shape 8 disks 1.5 cm thick.",
+   "Cook on a lightly oiled griddle over medium heat for 6-7 minutes per side, until a firm crust forms and they sound hollow when tapped.",
+   "Finish in a 200 °C oven for 10 minutes if you want them puffed, then split and fill."
+  ],
+  "tips": [
+   "Only precooked corn flour works. Regular cornmeal won't hydrate into a dough.",
+   "The crack test is the whole skill. Cracked edges mean dry dough and a crumbly arepa.",
+   "Rest the dough five minutes before shaping. Its consistency changes noticeably."
+  ],
+  "video": "venezuelan arepas"
+ }
+}

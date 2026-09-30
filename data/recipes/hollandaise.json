@@ -1,0 +1,150 @@
+{
+ "id": "hollandaise",
+ "country": "France",
+ "region": "western-europe",
+ "course": "sauce",
+ "time": 25,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "shallot",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 0.75,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Salsa Holandesa",
+  "blurb": "Yemas y mantequilla clarificada emulsionadas sobre calor suave. La ventana de temperatura es estrecha: por debajo no espesa, por encima se cuaja.",
+  "ing": [
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "mantequilla",
+    "note": "clarificada y tibia"
+   },
+   {
+    "n": "vinagre de vino blanco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "chalota",
+    "note": "picada, opcional"
+   },
+   {
+    "n": "pimienta blanca"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Reduce el vinagre con la chalota y la pimienta hasta la mitad y cuela. Añade el agua.",
+   "Bate las yemas con esa reducción en un bol sobre agua apenas humeante, nunca hirviendo.",
+   "Bate sin parar 4-5 minutos hasta que la mezcla espese y triplique. Cuando las varillas dejen un rastro que tarda en cerrarse, está lista la base.",
+   "Retira del calor y añade la mantequilla clarificada tibia en hilo muy fino, batiendo sin parar.",
+   "Si espesa demasiado, aflójala con unas gotas de agua tibia.",
+   "Termina con limón y sal. Mantenla a unos 50 °C hasta servir; no se recalienta."
+  ],
+  "tips": [
+   "La base de yemas debe cocinarse antes de la mantequilla. Si añades grasa a yemas crudas, nunca espesa.",
+   "Mantequilla tibia, no caliente. La caliente cuaja las yemas al instante.",
+   "Si se corta: bate una yema nueva con una cucharada de agua e incorpora la salsa rota gota a gota."
+  ],
+  "video": "salsa holandesa técnica"
+ },
+ "en": {
+  "name": "Hollandaise Sauce",
+  "blurb": "Yolks and clarified butter emulsified over gentle heat. The temperature window is narrow: below it the sauce won't thicken, above it the yolks scramble.",
+  "ing": [
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "butter",
+    "note": "clarified and warm"
+   },
+   {
+    "n": "white wine vinegar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "shallot",
+    "note": "minced, optional"
+   },
+   {
+    "n": "white pepper"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Reduce the vinegar with the shallot and pepper by half and strain. Add the water.",
+   "Whisk the yolks with that reduction in a bowl over barely steaming water, never boiling.",
+   "Whisk nonstop for 4-5 minutes until the mixture thickens and triples. When the whisk leaves a trail that is slow to close, the base is ready.",
+   "Take it off the heat and add the warm clarified butter in a very thin stream, whisking constantly.",
+   "If it gets too thick, loosen it with a few drops of warm water.",
+   "Finish with lemon and salt. Hold it at about 50 °C until serving; it does not reheat."
+  ],
+  "tips": [
+   "The yolk base has to cook before the butter goes in. Add fat to raw yolks and it never thickens.",
+   "Warm butter, not hot. Hot butter scrambles the yolks instantly.",
+   "If it splits: whisk a fresh yolk with a tablespoon of water and add the broken sauce drop by drop."
+  ],
+  "video": "hollandaise sauce technique"
+ }
+}

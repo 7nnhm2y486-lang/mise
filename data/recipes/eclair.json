@@ -1,0 +1,161 @@
+{
+ "id": "eclair",
+ "country": "France",
+ "region": "western-europe",
+ "course": "pastry",
+ "time": 180,
+ "serves": 12,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 1,
+   "u": "batch",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 45,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "thicken"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "cream",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Éclairs de Chocolate",
+  "blurb": "Choux, crema pastelera y un fondant vertido. Tres disciplinas distintas en un solo pastel, y por eso es una prueba clásica para un pastelero.",
+  "ing": [
+   {
+    "n": "pasta choux",
+    "note": "como en la receta anterior"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "vaina de vainilla"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "chocolate negro"
+   },
+   {
+    "n": "crema espesa"
+   }
+  ],
+  "steps": [
+   "Escudilla el choux en tiras de 12 cm con boquilla rizada: las estrías controlan por dónde se abre y hace que suba parejo. Hornea y seca como el choux.",
+   "Para la crema pastelera, infusiona la leche con la vainilla. Bate las yemas, el azúcar y la fécula hasta obtener una pasta.",
+   "Vierte un tercio de la leche caliente sobre las yemas batiendo, devuelve todo a la olla y cocina a fuego medio batiendo sin parar hasta que espese y luego hierva un minuto completo: la fécula necesita hervir para perder el sabor crudo, y el hervor destruye la enzima que después la licuaría.",
+   "Incorpora la mantequilla fuera del fuego, extiéndela en una bandeja, cúbrela a piel con film y enfríala rápido.",
+   "Haz tres agujeros en la base de cada éclair y rellena con la crema batida hasta alisar, hasta que pese.",
+   "Calienta la crema, viértela sobre el chocolate, remueve hasta obtener una ganache brillante y baña cada éclair boca abajo. Deja cuajar 20 minutos."
+  ],
+  "tips": [
+   "La crema pastelera tiene que hervir. Cruda queda floja y sabe a almidón; peor aún, una enzima de la yema la licuará durante la noche.",
+   "Bate la crema fría hasta alisarla antes de escudillar o quedará grumosa y tapará la boquilla.",
+   "Rellena pocas horas antes de servir. El choux se ablanda desde dentro."
+  ],
+  "video": "éclairs de chocolate crema pastelera"
+ },
+ "en": {
+  "name": "Chocolate Éclairs",
+  "blurb": "Choux, pastry cream and a poured glaze. Three separate disciplines in one pastry, which is why it's a classic test of a pastry cook.",
+  "ing": [
+   {
+    "n": "choux pastry",
+    "note": "as in the previous recipe"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "vanilla bean"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "dark chocolate"
+   },
+   {
+    "n": "heavy cream"
+   }
+  ],
+  "steps": [
+   "Pipe the choux into 12 cm lengths with a star tip: the ridges control where it cracks and make it rise evenly. Bake and dry as for choux.",
+   "For the pastry cream, infuse the milk with the vanilla. Whisk the yolks, sugar and cornstarch into a paste.",
+   "Whisk a third of the hot milk into the yolks, return everything to the pot and cook over medium heat, whisking constantly, until it thickens and then boils for a full minute: the starch needs to boil to lose its raw taste, and boiling destroys the enzyme that would later thin it out.",
+   "Stir in the butter off the heat, spread it on a tray, press plastic wrap onto the surface and chill it fast.",
+   "Poke three holes in the base of each éclair and fill with the pastry cream, whisked smooth, until it feels heavy.",
+   "Heat the cream, pour it over the chocolate, stir into a glossy ganache and dip each éclair upside down. Let it set 20 minutes."
+  ],
+  "tips": [
+   "The pastry cream has to boil. Undercooked, it's loose and tastes of starch; worse, an enzyme in the yolk will thin it overnight.",
+   "Whisk the cold pastry cream smooth before piping or it'll be lumpy and clog the tip.",
+   "Fill only a few hours before serving. The choux softens from the inside."
+  ],
+  "video": "chocolate eclairs pastry cream"
+ }
+}

@@ -1,0 +1,213 @@
+{
+ "id": "cochinita",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "main",
+ "time": 800,
+ "serves": 8,
+ "ovenC": 150,
+ "ing": [
+  {
+   "q": 2,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 8,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "garnish"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 20,
+   "u": "",
+   "k": "corntortilla",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Cochinita Pibil",
+  "blurb": "Cerdo marinado en achiote y naranja agria, envuelto en hoja de plátano y cocido hasta deshacerse. El ácido trabaja tanto como el calor.",
+  "ing": [
+   {
+    "n": "espaldilla de cerdo",
+    "note": "en trozos grandes"
+   },
+   {
+    "n": "pasta de achiote"
+   },
+   {
+    "n": "jugo de naranja agria",
+    "note": "o 2:1 naranja y limón"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "orégano"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "pimienta de Jamaica"
+   },
+   {
+    "n": "hojas de plátano"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "para encurtir"
+   },
+   {
+    "n": "habanero"
+   },
+   {
+    "n": "limón"
+   },
+   {
+    "n": "tortillas de maíz"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Tritura el achiote, el jugo de naranja agria, el ajo, el orégano, el comino, la pimienta de Jamaica y la sal en un adobo suelto.",
+   "Marina el cerdo al menos 8 horas, idealmente 24.",
+   "Ablanda las hojas de plátano pasándolas por la llama hasta que brillen y se doblen, y forra con ellas una fuente honda dejando mucho sobrante.",
+   "Vuelca el cerdo con todo el adobo y cierra las hojas por encima para sellarlo. Cubre con aluminio.",
+   "Cocina a 150 °C durante 4 horas hasta que se deshaga con un tenedor.",
+   "Mientras, encurte la cebolla morada con habanero, jugo de limón y sal al menos una hora. Deshebra el cerdo dentro de sus jugos y sirve en tortillas calientes con el encurtido."
+  ],
+  "tips": [
+   "La hoja de plátano no es solo envoltorio: aporta un sabor distinto, como a té. Pásala por la llama o no se doblará.",
+   "La naranja agria es el ácido auténtico. Dos partes de naranja por una de limón es el sustituto estándar.",
+   "Deshébralo dentro del líquido de cocción. Sacarlo seco desperdicia cuatro horas."
+  ],
+  "video": "cochinita pibil hoja de plátano"
+ },
+ "en": {
+  "name": "Cochinita Pibil",
+  "blurb": "Pork marinated in achiote and sour orange, wrapped in banana leaf and cooked until it falls apart. The acid works as hard as the heat.",
+  "ing": [
+   {
+    "n": "pork shoulder",
+    "note": "in large pieces"
+   },
+   {
+    "n": "achiote paste"
+   },
+   {
+    "n": "sour orange juice",
+    "note": "or 2:1 orange and lime"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "oregano"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "allspice"
+   },
+   {
+    "n": "banana leaves"
+   },
+   {
+    "n": "red onion",
+    "note": "for pickling"
+   },
+   {
+    "n": "habanero"
+   },
+   {
+    "n": "lime"
+   },
+   {
+    "n": "corn tortillas"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Blend the achiote, sour orange juice, garlic, oregano, cumin, allspice and salt into a loose marinade.",
+   "Marinate the pork at least 8 hours, ideally 24.",
+   "Soften the banana leaves by passing them over a flame until they turn glossy and pliable, and line a deep dish with them, leaving plenty of overhang.",
+   "Tip in the pork with all the marinade and fold the leaves over the top to seal it. Cover with foil.",
+   "Cook at 150 °C for 4 hours until it falls apart with a fork.",
+   "Meanwhile, pickle the red onion with habanero, lime juice and salt for at least an hour. Shred the pork into its juices and serve in warm tortillas with the pickle."
+  ],
+  "tips": [
+   "Banana leaf isn't just a wrapper: it adds a distinct, almost tea-like flavor. Pass it over the flame or it won't fold.",
+   "Sour orange is the authentic acid. Two parts orange to one part lime is the standard substitute.",
+   "Shred it in the cooking liquid. Pulling it out dry wastes four hours."
+  ],
+  "video": "cochinita pibil banana leaf"
+ }
+}

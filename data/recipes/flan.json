@@ -1,0 +1,163 @@
+{
+ "id": "flan",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 360,
+ "serves": 8,
+ "ovenC": 150,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 50,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "cream",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Flan",
+  "blurb": "El caramelo del fondo del molde se disuelve en salsa mientras el flan se hornea. Un baño maría y un horno suave evitan que los huevos cuajen como goma.",
+  "ing": [
+   {
+    "n": "azúcar",
+    "note": "para el caramelo"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "crema espesa"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "azúcar",
+    "note": "para la crema"
+   },
+   {
+    "n": "vaina de vainilla"
+   },
+   {
+    "n": "sal fina"
+   }
+  ],
+  "steps": [
+   "Cocina el azúcar y el agua hasta un caramelo ámbar oscuro y viértelo de inmediato en el molde, girándolo para cubrir el fondo. Cuaja en menos de un minuto.",
+   "Calienta la leche, la crema y la vainilla hasta justo antes del hervor e infusiona 20 minutos.",
+   "Bate los huevos, las yemas y el azúcar sin airear, y vierte encima la leche tibia en hilo.",
+   "Cuela, retira la espuma y vierte en el molde.",
+   "Hornea a baño maría a 150 °C durante 50-60 minutos, hasta que tiemble como una sola pieza.",
+   "Refrigera al menos 4 horas, idealmente toda la noche: el caramelo necesita ese tiempo para disolverse en salsa. Pasa un cuchillo por el borde y voltea."
+  ],
+  "tips": [
+   "Lleva el caramelo oscuro. Un caramelo pálido solo es dulce y el postre necesita el amargor.",
+   "El agua del baño debe llegar a media altura. Con poca agua, la crema se corta en los bordes.",
+   "La noche en el refrigerador es lo que convierte el disco duro de caramelo en un charco de salsa."
+  ],
+  "video": "flan de huevo caramelo"
+ },
+ "en": {
+  "name": "Flan",
+  "blurb": "The caramel in the bottom of the mold dissolves into sauce while the flan bakes. A water bath and a gentle oven keep the eggs from setting like rubber.",
+  "ing": [
+   {
+    "n": "sugar",
+    "note": "for the caramel"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "heavy cream"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "sugar",
+    "note": "for the custard"
+   },
+   {
+    "n": "vanilla bean"
+   },
+   {
+    "n": "fine salt"
+   }
+  ],
+  "steps": [
+   "Cook the sugar and water to a dark amber caramel and pour it straight into the mold, swirling to coat the bottom. It sets in under a minute.",
+   "Heat the milk, cream and vanilla to just below a boil and infuse for 20 minutes.",
+   "Whisk the eggs, yolks and sugar without aerating, and pour the warm milk over in a thin stream.",
+   "Strain, skim off the foam and pour into the mold.",
+   "Bake in a water bath at 150 °C for 50-60 minutes, until it wobbles as one piece.",
+   "Refrigerate at least 4 hours, ideally overnight: the caramel needs that time to dissolve into sauce. Run a knife around the edge and invert."
+  ],
+  "tips": [
+   "Take the caramel dark. A pale caramel is just sweet, and the dessert needs the bitterness.",
+   "The water in the bath should come halfway up. With too little water, the custard curdles at the edges.",
+   "The night in the fridge is what turns the hard disc of caramel into a pool of sauce."
+  ],
+  "video": "flan caramel custard"
+ }
+}

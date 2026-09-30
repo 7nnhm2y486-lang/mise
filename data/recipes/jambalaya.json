@@ -1,0 +1,244 @@
+{
+ "id": "jambalaya",
+ "country": "United States",
+ "region": "north-america",
+ "course": "main",
+ "time": 80,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "stalk",
+   "k": "celery",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 700,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "garnish"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Jambalaya",
+  "blurb": "Estilo criollo, con tomate. El arroz se cuece en la misma olla con todo lo demás y no debe removerse una vez que entra el líquido.",
+  "ing": [
+   {
+    "n": "arroz de grano largo"
+   },
+   {
+    "n": "salchicha andouille"
+   },
+   {
+    "n": "muslos de pollo",
+    "note": "en dados"
+   },
+   {
+    "n": "camarones"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "apio"
+   },
+   {
+    "n": "pimiento verde"
+   },
+   {
+    "n": "jitomate"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "sazonador cajún"
+   },
+   {
+    "n": "tomillo"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Dora la salchicha y luego el pollo en una olla pesada. Retira ambos.",
+   "Cocina la cebolla, el apio y el pimiento en esa grasa 10 minutos hasta ablandarlos, raspando el fondo.",
+   "Añade el ajo, el sazonador, el tomillo y el jitomate y cocina 5 minutos.",
+   "Incorpora el arroz y cúbrelo con la grasa y las especias 2 minutos.",
+   "Devuelve las carnes, añade el caldo y el laurel, lleva a hervor, tapa y baja al fuego mínimo 25 minutos. No levantes la tapa ni remuevas.",
+   "Esparce los camarones por encima, tapa y cocina 6 minutos más fuera del fuego. Suelta con un tenedor y añade cebollín."
+  ],
+  "tips": [
+   "Nada de remover una vez que entra el caldo. Remover suelta almidón y lo convierte en risotto.",
+   "Los camarones al final, cocidos con el vapor residual. Antes quedan como goma.",
+   "Deja que se forme el fondo al dorar la carne. Es casi todo el color y el sabor."
+  ],
+  "video": "jambalaya criolla"
+ },
+ "en": {
+  "name": "Jambalaya",
+  "blurb": "Creole style, with tomato. The rice cooks in the same pot as everything else and must not be stirred once the liquid goes in.",
+  "ing": [
+   {
+    "n": "long-grain rice"
+   },
+   {
+    "n": "andouille sausage"
+   },
+   {
+    "n": "chicken thighs",
+    "note": "diced"
+   },
+   {
+    "n": "shrimp"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "celery"
+   },
+   {
+    "n": "green bell pepper"
+   },
+   {
+    "n": "tomato"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "Cajun seasoning"
+   },
+   {
+    "n": "thyme"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "scallions"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Brown the sausage, then the chicken, in a heavy pot. Remove both.",
+   "Cook the onion, celery and bell pepper in that fat for 10 minutes until soft, scraping the bottom.",
+   "Add the garlic, seasoning, thyme and tomato and cook 5 minutes.",
+   "Stir in the rice and coat it in the fat and spices for 2 minutes.",
+   "Return the meats, add the stock and bay leaves, bring to a boil, cover and turn down to the lowest heat for 25 minutes. Do not lift the lid or stir.",
+   "Scatter the shrimp over the top, cover and cook 6 more minutes off the heat. Fluff with a fork and add the scallions."
+  ],
+  "tips": [
+   "No stirring once the stock goes in. Stirring releases starch and turns it into risotto.",
+   "Shrimp go in last, cooked by the residual steam. Any earlier and they turn rubbery.",
+   "Let a fond build while browning the meat. That's nearly all the color and flavor."
+  ],
+  "video": "Creole jambalaya recipe"
+ }
+}

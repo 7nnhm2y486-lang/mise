@@ -1,0 +1,164 @@
+{
+ "id": "carciofiromana",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "side",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 8,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 25,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Carciofi alla Romana",
+  "blurb": "Alcachofas rellenas de menta romana y ajo, braseadas boca abajo en aceite y agua. Se cocinan hasta que un cuchillo entra sin resistencia, mucho más de lo que parecería.",
+  "ing": [
+   {
+    "n": "alcachofas",
+    "note": "grandes y redondas"
+   },
+   {
+    "n": "menta",
+    "note": "o hierbabuena"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "limón",
+    "note": "para el agua acidulada"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Prepara un bol de agua con el jugo de los limones. Limpia las alcachofas quitando las hojas duras exteriores y pelando el tallo, y ve echándolas al agua acidulada.",
+   "Abre el centro de cada una con los dedos y retira la pelusa interior con una cucharilla.",
+   "Pica juntos la menta, el perejil y el ajo con sal y pimienta, y rellena el hueco de cada alcachofa.",
+   "Colócalas boca abajo, muy apretadas, en una olla donde quepan justas.",
+   "Añade el aceite y el agua hasta cubrir la mitad de su altura, tapa y cocina 35-40 minutos a fuego medio-bajo.",
+   "Están listas cuando un cuchillo atraviesa el corazón sin resistencia. Sírvelas tibias con su propio jugo."
+  ],
+  "tips": [
+   "Agua con limón desde el primer corte: la alcachofa se oxida en segundos.",
+   "Boca abajo y muy apretadas, para que se cuezan al vapor en su propio jugo.",
+   "Cocínalas más de lo que crees. Una alcachofa al dente es dura y desagradable."
+  ],
+  "video": "carciofi alla romana"
+ },
+ "en": {
+  "name": "Carciofi alla Romana",
+  "blurb": "Artichokes stuffed with Roman mint and garlic, braised upside down in oil and water. They cook until a knife slides in with no resistance, far longer than you'd think.",
+  "ing": [
+   {
+    "n": "artichokes",
+    "note": "large and round"
+   },
+   {
+    "n": "mint",
+    "note": "or spearmint"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "lemons",
+    "note": "for the acidulated water"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Make a bowl of water with the lemon juice. Trim the artichokes by removing the tough outer leaves and peeling the stem, dropping each into the acidulated water as you go.",
+   "Open the center of each one with your fingers and scoop out the choke with a teaspoon.",
+   "Chop the mint, parsley and garlic together with salt and pepper, and stuff the hollow of each artichoke.",
+   "Stand them upside down, packed tightly, in a pot they just fit.",
+   "Add the oil and water to come halfway up their sides, cover and cook 35-40 minutes over medium-low heat.",
+   "They're done when a knife passes through the heart with no resistance. Serve warm with their own juices."
+  ],
+  "tips": [
+   "Lemon water from the first cut: artichokes oxidize in seconds.",
+   "Upside down and packed tight, so they steam in their own juices.",
+   "Cook them longer than you think. An al dente artichoke is tough and unpleasant."
+  ],
+  "video": "carciofi alla romana roman artichokes"
+ }
+}

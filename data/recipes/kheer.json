@@ -1,0 +1,176 @@
+{
+ "id": "kheer",
+ "country": "India",
+ "region": "south-asia",
+ "course": "sweet",
+ "time": 75,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 80,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "ghee",
+   "role": "fat"
+  },
+  {
+   "q": 6,
+   "u": "pod",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "pistachio",
+   "role": "crunch"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "almond",
+   "role": "crunch"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Kheer",
+  "blurb": "Leche reducida a la mitad con el arroz cociéndose dentro todo el tiempo. Tostar el arroz en ghee primero evita que se convierta en engrudo.",
+  "ing": [
+   {
+    "n": "arroz basmati",
+    "note": "enjuagado y remojado 20 min"
+   },
+   {
+    "n": "leche entera",
+    "note": "entera"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "ghee"
+   },
+   {
+    "n": "cardamomo verde",
+    "note": "machacado"
+   },
+   {
+    "n": "azafrán"
+   },
+   {
+    "n": "pistachos"
+   },
+   {
+    "n": "almendras"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "agua de rosas"
+   }
+  ],
+  "steps": [
+   "Tuesta el arroz escurrido en el ghee 2 minutos, hasta que huela a nuez y cada grano quede cubierto.",
+   "Añade la leche, lleva a hervor y baja al hervor más leve.",
+   "Cocina 45-55 minutos, removiendo cada pocos minutos y raspando el fondo y las paredes, hasta reducir a la mitad y que el arroz se haya deshecho.",
+   "Añade el azúcar solo ahora. Añadirlo pronto impide que el arroz se ablande.",
+   "Incorpora el cardamomo, el azafrán, los frutos secos y las pasas y cocina 5 minutos más.",
+   "Fuera del fuego, añade el agua de rosas. Sirve tibio o frío: espesa mucho al enfriar."
+  ],
+  "tips": [
+   "Raspa las paredes según avanzas. La película de leche que se forma ahí es donde está el sabor.",
+   "El azúcar entra tarde. El azúcar temprano endurece el arroz.",
+   "Espesa muchísimo al enfriar. Detente cuando aún se vea suelto."
+  ],
+  "video": "kheer arroz con leche indio"
+ },
+ "en": {
+  "name": "Kheer",
+  "blurb": "Milk reduced by half with the rice cooking in it the whole time. Toasting the rice in ghee first keeps it from turning to paste.",
+  "ing": [
+   {
+    "n": "basmati rice",
+    "note": "rinsed and soaked 20 min"
+   },
+   {
+    "n": "whole milk",
+    "note": "whole"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "ghee"
+   },
+   {
+    "n": "green cardamom pods",
+    "note": "crushed"
+   },
+   {
+    "n": "saffron"
+   },
+   {
+    "n": "pistachios"
+   },
+   {
+    "n": "almonds"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "rose water"
+   }
+  ],
+  "steps": [
+   "Toast the drained rice in the ghee for 2 minutes, until it smells nutty and every grain is coated.",
+   "Add the milk, bring to a boil and lower to the gentlest simmer.",
+   "Cook 45-55 minutes, stirring every few minutes and scraping the bottom and sides, until reduced by half and the rice has broken down.",
+   "Add the sugar only now. Adding it early stops the rice from softening.",
+   "Stir in the cardamom, saffron, nuts and raisins and cook 5 minutes more.",
+   "Off the heat, add the rose water. Serve warm or cold: it thickens a lot as it cools."
+  ],
+  "tips": [
+   "Scrape the sides as you go. The milk film that forms there is where the flavor is.",
+   "Sugar goes in late. Early sugar toughens the rice.",
+   "It thickens enormously as it cools. Stop while it still looks loose."
+  ],
+  "video": "Indian kheer rice pudding"
+ }
+}

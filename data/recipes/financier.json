@@ -1,0 +1,137 @@
+{
+ "id": "financier",
+ "country": "France",
+ "region": "western-europe",
+ "course": "sweet",
+ "time": 90,
+ "serves": 16,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 5,
+   "u": "",
+   "k": "eggwhite",
+   "role": "aerate"
+  },
+  {
+   "q": 180,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "almondflour",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Financiers",
+  "blurb": "Claras de huevo, almendra molida y beurre noisette. Sin yemas y sin gasificante: la subida viene solo de las claras y del vapor.",
+  "ing": [
+   {
+    "n": "claras de huevo"
+   },
+   {
+    "n": "azúcar glas"
+   },
+   {
+    "n": "almendra molida"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "mantequilla",
+    "note": "tostada hasta oscurecer"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "extracto de vainilla"
+   }
+  ],
+  "steps": [
+   "Tuesta la mantequilla hasta que los sólidos estén realmente oscuros y huela con fuerza a avellana. Cuela y deja templar un poco.",
+   "Bate las claras solo a mano, hasta que estén sueltas y espumosas. No las montes a picos.",
+   "Bate dentro el azúcar glas, la almendra molida, la harina y la sal.",
+   "Incorpora batiendo la mantequilla tostada tibia y la vainilla hasta que quede lisa y brillante.",
+   "Reposa la masa al menos 1 hora, o toda la noche.",
+   "Llena moldes engrasados tres cuartos y hornea a 200 °C durante 13-15 minutos, hasta que estén dorados en los bordes y apenas cuajados en el centro."
+  ],
+  "tips": [
+   "Lleva la mantequilla más lejos que para cualquier otra cosa. Los financiers se llaman así por su color y viene de aquí.",
+   "No montes las claras. Las quieres sueltas para que la masa se pueda verter.",
+   "Se conservan mejor que las madeleines: tres días en una lata, y discutiblemente mejores al segundo día."
+  ],
+  "video": "financiers mantequilla tostada"
+ },
+ "en": {
+  "name": "Financiers",
+  "blurb": "Egg whites, ground almonds and beurre noisette. No yolks and no leavening: the rise comes only from the whites and the steam.",
+  "ing": [
+   {
+    "n": "egg whites"
+   },
+   {
+    "n": "powdered sugar"
+   },
+   {
+    "n": "ground almonds"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter",
+    "note": "browned until dark"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "vanilla extract"
+   }
+  ],
+  "steps": [
+   "Brown the butter until the solids are genuinely dark and it smells strongly of hazelnuts. Strain and let it cool slightly.",
+   "Whisk the whites by hand only, until loose and foamy. Do not beat them to peaks.",
+   "Whisk in the powdered sugar, ground almonds, flour and salt.",
+   "Whisk in the warm browned butter and the vanilla until smooth and glossy.",
+   "Rest the batter at least 1 hour, or overnight.",
+   "Fill greased molds three-quarters full and bake at 200 °C for 13-15 minutes, until golden at the edges and just set in the center."
+  ],
+  "tips": [
+   "Take the butter further than for anything else. Financiers are named for their color, and it comes from here.",
+   "Do not whip the whites. You want them loose so the batter pours.",
+   "They keep better than madeleines: three days in a tin, and arguably better on day two."
+  ],
+  "video": "brown butter financiers"
+ }
+}

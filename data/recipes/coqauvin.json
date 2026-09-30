@@ -1,0 +1,208 @@
+{
+ "id": "coqauvin",
+ "country": "France",
+ "region": "western-europe",
+ "course": "main",
+ "time": 180,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "winered",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "bacon",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "tomatopaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Coq au Vin",
+  "blurb": "Un braseado construido por etapas, cada elemento dorado por separado. Los lardones, champiñones y cebollitas vuelven al final para que sigan sabiendo a sí mismos.",
+  "ing": [
+   {
+    "n": "piernas de pollo"
+   },
+   {
+    "n": "vino tinto",
+    "note": "uno que te beberías"
+   },
+   {
+    "n": "lardones de tocino"
+   },
+   {
+    "n": "champiñones"
+   },
+   {
+    "n": "cebollitas perla"
+   },
+   {
+    "n": "zanahoria"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "concentrado de tomate"
+   },
+   {
+    "n": "harina"
+   },
+   {
+    "n": "caldo de pollo"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "tomillo y laurel"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Marina el pollo en el vino con las hierbas toda la noche si puedes. Escurre, guardando el vino, y seca muy bien las piezas.",
+   "Fríe los lardones hasta que estén crujientes; retíralos. Dora los champiñones con fuerza en esa grasa; retíralos. Dora las cebollitas; retíralas.",
+   "Dora el pollo en la misma olla, primero por la piel, hasta que esté bien dorado. Sazona sobre la marcha.",
+   "Añade zanahoria y ajo, espolvorea la harina y cocina 2 minutos. Incorpora el concentrado de tomate.",
+   "Vierte el vino y el caldo, raspando el fondo. Lleva a hervor suave, tapa y cocina a 150 °C durante 90 minutos.",
+   "Devuelve lardones, champiñones y cebollitas los últimos 15 minutos. Saca el pollo, reduce la salsa hasta que nape y monta con mantequilla fría fuera del fuego."
+  ],
+  "tips": [
+   "Seca el pollo o se cocerá al vapor en vez de dorarse. La carne mojada no puede dorar.",
+   "Dorar cada elemento por separado es tedioso y es la diferencia entre un buen braseado y uno excelente.",
+   "Si la salsa sabe áspera, necesita más reducción, no más azúcar."
+  ],
+  "video": "coq au vin"
+ },
+ "en": {
+  "name": "Coq au Vin",
+  "blurb": "A braise built in stages, each element browned separately. The lardons, mushrooms and pearl onions go back in at the end so they still taste like themselves.",
+  "ing": [
+   {
+    "n": "chicken legs"
+   },
+   {
+    "n": "red wine",
+    "note": "one you'd drink"
+   },
+   {
+    "n": "bacon lardons"
+   },
+   {
+    "n": "button mushrooms"
+   },
+   {
+    "n": "pearl onions"
+   },
+   {
+    "n": "carrot"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "flour"
+   },
+   {
+    "n": "chicken stock"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "thyme and bay leaf"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Marinate the chicken in the wine with the herbs overnight if you can. Drain, keeping the wine, and pat the pieces very dry.",
+   "Fry the lardons until crisp; remove. Brown the mushrooms hard in that fat; remove. Brown the pearl onions; remove.",
+   "Brown the chicken in the same pot, skin side first, until deeply golden. Season as you go.",
+   "Add the carrot and garlic, sprinkle in the flour and cook 2 minutes. Stir in the tomato paste.",
+   "Pour in the wine and stock, scraping the bottom. Bring to a gentle simmer, cover and cook at 150 °C for 90 minutes.",
+   "Return the lardons, mushrooms and onions for the last 15 minutes. Lift out the chicken, reduce the sauce until it coats a spoon and swirl in cold butter off the heat."
+  ],
+  "tips": [
+   "Dry the chicken or it will steam instead of browning. Wet meat can't brown.",
+   "Browning each element separately is tedious, and it's the difference between a good braise and a great one.",
+   "If the sauce tastes harsh, it needs more reduction, not more sugar."
+  ],
+  "video": "coq au vin"
+ }
+}

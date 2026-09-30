@@ -1,0 +1,206 @@
+{
+ "id": "ccc-ny",
+ "country": "United States",
+ "region": "north-america",
+ "course": "cookie",
+ "time": 2200,
+ "serves": 10,
+ "ovenC": 200,
+ "cat": "ccc",
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "butter",
+   "role": "aerate"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "moisture"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "spread"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "cornstarch",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "walnut",
+   "role": "crunch"
+  }
+ ],
+ "es": {
+  "name": "Galletas Gruesas Estilo Nueva York",
+  "blurb": "Enormes, abombadas y con el centro fundido. El grosor viene de la masa, del frío y de un horno fuerte: el exterior cuaja antes de que el centro pueda extenderse.",
+  "lab": "Porciones de 170 g · 36 horas de reposo, grosor de pastelería",
+  "ing": [
+   {
+    "n": "mantequilla",
+    "note": "fría del refrigerador, en cubos"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos",
+    "note": "fríos"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "harina de fuerza"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate en trozos",
+    "note": "grandes, picados grueso"
+   },
+   {
+    "n": "nueces",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Bate la mantequilla fría en cubos con los azúcares solo 2 minutos. Quieres que se integre, no que se airee: el aire hace que se extiendan.",
+   "Bate dentro los huevos fríos.",
+   "Añade las dos harinas, la fécula, los gasificantes y la sal. Mezcla a velocidad baja apenas hasta integrar.",
+   "Incorpora el chocolate y las nueces. La masa quedará rígida y de aspecto seco. Es lo correcto.",
+   "Forma bolas de 170 g, más altas que redondas, y refrigera al menos 24 horas, idealmente 36.",
+   "Hornea directamente del frío a 200 °C durante 15-17 minutos. Los bordes estarán dorados y las cúpulas pálidas y blandas. Reposa 20 minutos antes de moverlas: al salir son líquidas por dentro."
+  ],
+  "tips": [
+   "Todo frío, cremado mínimo, horno fuerte. Las tres cosas existen para impedir que la masa se extienda antes de cuajar.",
+   "La fécula suaviza la miga y evita que el interior quede apanado a este tamaño.",
+   "Sácalas crudas. A 170 g el calor residual es enorme y lleva el centro muy lejos."
+  ],
+  "video": "galletas gruesas estilo levain"
+ },
+ "en": {
+  "name": "Thick New York-Style Cookies",
+  "blurb": "Huge, domed and molten in the middle. The thickness comes from the dough, the cold and a hot oven: the outside sets before the center can spread.",
+  "lab": "170 g portions · 36-hour rest, bakery thickness",
+  "ing": [
+   {
+    "n": "butter",
+    "note": "cold from the refrigerator, cubed"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs",
+    "note": "cold"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "chocolate chunks",
+    "note": "large, coarsely chopped"
+   },
+   {
+    "n": "walnuts",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Beat the cold cubed butter with the sugars for just 2 minutes. You want it combined, not aerated: air makes them spread.",
+   "Beat in the cold eggs.",
+   "Add both flours, the cornstarch, the leaveners and the salt. Mix on low speed until just combined.",
+   "Fold in the chocolate and walnuts. The dough will be stiff and dry-looking. That's correct.",
+   "Shape 170 g balls, taller than they are round, and refrigerate at least 24 hours, ideally 36.",
+   "Bake straight from cold at 200 °C for 15-17 minutes. The edges will be golden and the domes pale and soft. Rest 20 minutes before moving them: they're liquid inside when they come out."
+  ],
+  "tips": [
+   "Everything cold, minimal creaming, hot oven. All three exist to stop the dough spreading before it sets.",
+   "The cornstarch softens the crumb and keeps the inside from turning bready at this size.",
+   "Pull them underdone. At 170 g the carryover heat is enormous and takes the center a long way."
+  ],
+  "video": "levain style thick new york cookies"
+ }
+}

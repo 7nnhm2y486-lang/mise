@@ -1,0 +1,154 @@
+{
+ "id": "pesto",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sauce",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 60,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "pinenut",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "pecorino",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Pesto alla Genovese",
+  "blurb": "En mortero, no en procesadora. Las cuchillas calientan y oxidan la albahaca, que es por lo que el pesto de máquina se pone oscuro y amargo en minutos.",
+  "ing": [
+   {
+    "n": "albahaca genovesa",
+    "note": "solo las hojas, sin lavar si es posible"
+   },
+   {
+    "n": "piñones"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "parmesano",
+    "note": "rallado"
+   },
+   {
+    "n": "pecorino",
+    "note": "rallado"
+   },
+   {
+    "n": "aceite de oliva",
+    "note": "suave, ligur si lo consigues"
+   },
+   {
+    "n": "sal gruesa"
+   },
+   {
+    "n": "trofie o linguine"
+   }
+  ],
+  "steps": [
+   "Machaca el ajo con la sal gruesa en el mortero hasta obtener una pasta.",
+   "Añade los piñones y machaca hasta que se integren.",
+   "Añade las hojas de albahaca en tandas, aplastándolas contra la pared del mortero con un movimiento giratorio en vez de golpearlas. Deben romperse, no picarse.",
+   "Cuando sea una pasta verde brillante, incorpora los dos quesos.",
+   "Añade el aceite en hilo removiendo con la mano del mortero, no batiendo.",
+   "Cuece la pasta, y afloja el pesto con dos cucharadas de agua de cocción antes de mezclarlo. Nunca lo calientes al fuego."
+  ],
+  "tips": [
+   "Movimiento giratorio, no de golpe. Aplastar libera los aceites; golpear rompe las células y oxida.",
+   "Un aceite de oliva suave. Uno picante y amargo pelea con la albahaca en vez de acompañarla.",
+   "Jamás cocines el pesto. Se mezcla con la pasta fuera del fuego, siempre."
+  ],
+  "video": "pesto genovés en mortero"
+ },
+ "en": {
+  "name": "Pesto alla Genovese",
+  "blurb": "In a mortar, not a food processor. The blades heat and oxidize the basil, which is why machine pesto turns dark and bitter within minutes.",
+  "ing": [
+   {
+    "n": "Genovese basil",
+    "note": "leaves only, unwashed if possible"
+   },
+   {
+    "n": "pine nuts"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "parmesan",
+    "note": "grated"
+   },
+   {
+    "n": "pecorino",
+    "note": "grated"
+   },
+   {
+    "n": "olive oil",
+    "note": "mild, Ligurian if you can get it"
+   },
+   {
+    "n": "coarse salt"
+   },
+   {
+    "n": "trofie or linguine"
+   }
+  ],
+  "steps": [
+   "Pound the garlic with the coarse salt in the mortar to a paste.",
+   "Add the pine nuts and pound until combined.",
+   "Add the basil leaves in batches, crushing them against the side of the mortar with a circular grinding motion rather than pounding. They should tear, not be chopped.",
+   "When it's a bright green paste, work in both cheeses.",
+   "Add the oil in a thin stream, stirring with the pestle, not whisking.",
+   "Cook the pasta, and loosen the pesto with two tablespoons of cooking water before tossing. Never heat it on the stove."
+  ],
+  "tips": [
+   "A grinding motion, not a pounding one. Crushing releases the oils; pounding ruptures the cells and oxidizes them.",
+   "A mild olive oil. A peppery, bitter one fights the basil instead of carrying it.",
+   "Never cook pesto. It's tossed with the pasta off the heat, always."
+  ],
+  "video": "pesto genovese mortar and pestle"
+ }
+}

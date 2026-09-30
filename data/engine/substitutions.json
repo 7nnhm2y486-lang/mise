@@ -1,0 +1,5988 @@
+{
+ "allergens": {
+  "milk": {
+   "major": true,
+   "es": "Lácteos",
+   "en": "Dairy"
+  },
+  "egg": {
+   "major": true,
+   "es": "Huevo",
+   "en": "Egg"
+  },
+  "wheat": {
+   "major": true,
+   "es": "Trigo / gluten",
+   "en": "Wheat / gluten"
+  },
+  "soy": {
+   "major": true,
+   "es": "Soja",
+   "en": "Soy"
+  },
+  "peanut": {
+   "major": true,
+   "es": "Cacahuate / maní",
+   "en": "Peanut"
+  },
+  "treenut": {
+   "major": true,
+   "es": "Frutos secos",
+   "en": "Tree nuts"
+  },
+  "sesame": {
+   "major": true,
+   "es": "Sésamo",
+   "en": "Sesame"
+  },
+  "fish": {
+   "major": true,
+   "es": "Pescado",
+   "en": "Fish"
+  },
+  "shellfish": {
+   "major": true,
+   "es": "Crustáceos",
+   "en": "Crustacean shellfish"
+  },
+  "mollusc": {
+   "major": true,
+   "es": "Moluscos",
+   "en": "Molluscs"
+  },
+  "mustard": {
+   "major": true,
+   "es": "Mostaza",
+   "en": "Mustard"
+  },
+  "celery": {
+   "major": true,
+   "es": "Apio",
+   "en": "Celery"
+  },
+  "sulphite": {
+   "major": true,
+   "es": "Sulfitos",
+   "en": "Sulphites"
+  },
+  "sugar": {
+   "major": false,
+   "es": "Azúcar",
+   "en": "Sugar"
+  },
+  "coconut": {
+   "major": false,
+   "es": "Coco",
+   "en": "Coconut"
+  },
+  "corn": {
+   "major": false,
+   "es": "Maíz",
+   "en": "Corn"
+  },
+  "allium": {
+   "major": false,
+   "es": "Cebolla y ajo",
+   "en": "Onion & garlic"
+  },
+  "nightshade": {
+   "major": false,
+   "es": "Solanáceas",
+   "en": "Nightshades"
+  },
+  "alcohol": {
+   "major": false,
+   "es": "Alcohol",
+   "en": "Alcohol"
+  },
+  "pork": {
+   "major": false,
+   "es": "Cerdo",
+   "en": "Pork"
+  },
+  "gelatin": {
+   "major": false,
+   "es": "Gelatina",
+   "en": "Gelatin"
+  }
+ },
+ "ingredients": {
+  "butter": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "mantequilla vegana en bloque",
+       "note": "Compra bloque firme, no untable de tarrina: las tarrinas llevan más agua y ablandan la masa."
+      },
+      "en": {
+       "to": "vegan block butter",
+       "note": "Buy a firm block, not a spreadable tub: tubs carry more water and soften the dough."
+      },
+      "may": [
+       "soy",
+       "coconut",
+       "treenut"
+      ]
+     },
+     {
+      "f": 0.8,
+      "carries": [],
+      "es": {
+       "to": "aceite de oliva",
+       "note": "Grasa por grasa, en peso. Sirve para saltear y para panes rápidos; no sirve donde la grasa deba estar sólida (hojaldre, cremado)."
+      },
+      "en": {
+       "to": "olive oil",
+       "note": "Fat for fat, by weight. Fine for sautéing and quick breads; no good where the fat has to stay solid (puff pastry, creaming)."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "coconut"
+      ],
+      "es": {
+       "to": "aceite de coco refinado",
+       "note": "Sólido a temperatura ambiente, así que funciona en masas quebradas. El refinado no sabe a coco; el virgen sí."
+      },
+      "en": {
+       "to": "refined coconut oil",
+       "note": "Solid at room temperature, so it works in shortcrust. Refined doesn't taste of coconut; virgin does."
+      }
+     }
+    ]
+   }
+  },
+  "ghee": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "coconut"
+      ],
+      "es": {
+       "to": "aceite de coco refinado",
+       "note": "Mismo punto de humo y misma solidez en frío."
+      },
+      "en": {
+       "to": "refined coconut oil",
+       "note": "Same smoke point, and just as solid when cold."
+      }
+     },
+     {
+      "f": 0.9,
+      "carries": [],
+      "es": {
+       "to": "aceite de oliva suave",
+       "note": "Para templar especias; pierdes la nota a nuez del ghee."
+      },
+      "en": {
+       "to": "mild olive oil",
+       "note": "For blooming spices; you lose ghee's nutty note."
+      }
+     }
+    ]
+   }
+  },
+  "milk": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "leche de avena",
+       "note": "La que mejor imita la textura y la única que dora bien. Usa la versión barista para todo lo caliente o ácido."
+      },
+      "en": {
+       "to": "oat milk",
+       "note": "The closest match for texture and the only one that browns well. Use the barista version for anything hot or acidic."
+      },
+      "may": [
+       "wheat"
+      ]
+     },
+     {
+      "f": 1,
+      "carries": [
+       "soy"
+      ],
+      "es": {
+       "to": "leche de soja",
+       "note": "La de más proteína, así que cuaja natillas y alimenta masas de levadura mejor que ninguna. Soja."
+      },
+      "en": {
+       "to": "soy milk",
+       "note": "The highest in protein, so it sets custards and feeds yeast doughs better than any other."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "leche de anacardo",
+       "note": "Rica y neutra. Frutos secos."
+      },
+      "en": {
+       "to": "cashew milk",
+       "note": "Rich and neutral."
+      }
+     }
+    ]
+   }
+  },
+  "cream": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "coconut"
+      ],
+      "es": {
+       "to": "leche de coco entera (solo la parte espesa)",
+       "note": "Se nota un fondo de coco: invisible en un curry, evidente en una panna cotta. Coco."
+      },
+      "en": {
+       "to": "full-fat coconut milk (the thick part only)",
+       "note": "There's a coconut undertone: invisible in a curry, obvious in a panna cotta."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "crema de anacardo",
+       "note": "100 g de anacardos remojados 4 h y triturados con 180 ml de agua. La opción más neutra. Frutos secos."
+      },
+      "en": {
+       "to": "cashew cream",
+       "note": "100 g cashews soaked 4 h and blended with 180 ml water. The most neutral option."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "crema de avena",
+       "note": "Buena en salsas, no monta."
+      },
+      "en": {
+       "to": "oat cream",
+       "note": "Good in sauces; won't whip."
+      },
+      "may": [
+       "wheat"
+      ]
+     }
+    ]
+   }
+  },
+  "heavycream": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "coconut"
+      ],
+      "es": {
+       "to": "leche de coco entera (solo la parte espesa)",
+       "note": "Se nota un fondo de coco: invisible en un curry, evidente en una panna cotta. Coco."
+      },
+      "en": {
+       "to": "full-fat coconut milk (the thick part only)",
+       "note": "There's a coconut undertone: invisible in a curry, obvious in a panna cotta."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "crema de anacardo",
+       "note": "100 g de anacardos remojados 4 h y triturados con 180 ml de agua. La opción más neutra. Frutos secos."
+      },
+      "en": {
+       "to": "cashew cream",
+       "note": "100 g cashews soaked 4 h and blended with 180 ml water. The most neutral option."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "crema de avena",
+       "note": "Buena en salsas, no monta."
+      },
+      "en": {
+       "to": "oat cream",
+       "note": "Good in sauces; won't whip."
+      },
+      "may": [
+       "wheat"
+      ]
+     }
+    ]
+   }
+  },
+  "yogurt": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "coconut"
+      ],
+      "es": {
+       "to": "yogur de coco",
+       "note": "Añade 1/2 cdta de jugo de limón por cada 100 g para devolver la acidez que ablanda las carnes. Coco."
+      },
+      "en": {
+       "to": "coconut yogurt",
+       "note": "Add 1/2 tsp lemon juice per 100 g to restore the acidity that tenderizes meat."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "yogur de anacardo",
+       "note": "Más espeso; ideal para marinar. Frutos secos."
+      },
+      "en": {
+       "to": "cashew yogurt",
+       "note": "Thicker; ideal for marinades."
+      }
+     }
+    ]
+   }
+  },
+  "buttermilk": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "soy"
+      ],
+      "es": {
+       "to": "leche de soja + 1 cda de vinagre por cada 240 ml",
+       "note": "Reposar 10 min hasta que corte. La proteína de la soja corta de forma más convincente. Soja."
+      },
+      "en": {
+       "to": "soy milk + 1 tbsp vinegar per 240 ml",
+       "note": "Let it sit 10 min until it curdles. Soy protein curdles more convincingly."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "leche de avena + 1 cda de jugo de limón por cada 240 ml",
+       "note": "Mismo truco, cuajo más fino."
+      },
+      "en": {
+       "to": "oat milk + 1 tbsp lemon juice per 240 ml",
+       "note": "Same trick, finer curd."
+      },
+      "may": [
+       "wheat"
+      ]
+     }
+    ]
+   }
+  },
+  "sourcream": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "coconut"
+      ],
+      "es": {
+       "to": "yogur de coco + limón",
+       "note": "Cuélalo en un paño 30 min para que tome cuerpo. Coco."
+      },
+      "en": {
+       "to": "coconut yogurt + lemon",
+       "note": "Strain it through a cloth for 30 min to give it body."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "soy"
+      ],
+      "es": {
+       "to": "tofu sedoso triturado + limón + sal",
+       "note": "Neutro y con mucha proteína. Soja."
+      },
+      "en": {
+       "to": "blended silken tofu + lemon + salt",
+       "note": "Neutral and high in protein."
+      }
+     }
+    ]
+   }
+  },
+  "parmesan": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 0.45,
+      "carries": [],
+      "es": {
+       "to": "levadura nutricional + sal fina (4:1)",
+       "note": "Puro sabor salado y umami, sin fundido. Usa la mitad del peso: concentra mucho más."
+      },
+      "en": {
+       "to": "nutritional yeast + fine salt (4:1)",
+       "note": "Pure salt and umami, no melt. Use half the weight: it's far more concentrated."
+      }
+     },
+     {
+      "f": 0.8,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "anacardos triturados + levadura nutricional + sal",
+       "note": "Aporta también la textura arenosa. Frutos secos."
+      },
+      "en": {
+       "to": "ground cashews + nutritional yeast + salt",
+       "note": "Brings the sandy texture too."
+      }
+     }
+    ]
+   }
+  },
+  "pecorino": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 0.45,
+      "carries": [],
+      "es": {
+       "to": "levadura nutricional + sal fina (4:1)",
+       "note": "Puro sabor salado y umami, sin fundido. Usa la mitad del peso: concentra mucho más."
+      },
+      "en": {
+       "to": "nutritional yeast + fine salt (4:1)",
+       "note": "Pure salt and umami, no melt. Use half the weight: it's far more concentrated."
+      }
+     },
+     {
+      "f": 0.8,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "anacardos triturados + levadura nutricional + sal",
+       "note": "Aporta también la textura arenosa. Frutos secos."
+      },
+      "en": {
+       "to": "ground cashews + nutritional yeast + salt",
+       "note": "Brings the sandy texture too."
+      }
+     }
+    ]
+   }
+  },
+  "cheddar": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "queso vegano a base de almidón",
+       "note": "Elige uno vendido como fundente; el resto se vuelve plástico con el calor."
+      },
+      "en": {
+       "to": "starch-based vegan cheese",
+       "note": "Pick one sold as melting; the rest turn plasticky in the heat."
+      },
+      "may": [
+       "coconut",
+       "treenut",
+       "soy"
+      ]
+     },
+     {
+      "f": 0.9,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "queso de anacardo",
+       "note": "Mejor sabor, menos hebra. Frutos secos."
+      },
+      "en": {
+       "to": "cashew cheese",
+       "note": "Better flavor, less stretch."
+      }
+     }
+    ]
+   }
+  },
+  "mozzarella": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "queso vegano a base de almidón",
+       "note": "Elige uno vendido como fundente; el resto se vuelve plástico con el calor."
+      },
+      "en": {
+       "to": "starch-based vegan cheese",
+       "note": "Pick one sold as melting; the rest turn plasticky in the heat."
+      },
+      "may": [
+       "coconut",
+       "treenut",
+       "soy"
+      ]
+     },
+     {
+      "f": 0.9,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "queso de anacardo",
+       "note": "Mejor sabor, menos hebra. Frutos secos."
+      },
+      "en": {
+       "to": "cashew cheese",
+       "note": "Better flavor, less stretch."
+      }
+     }
+    ]
+   }
+  },
+  "gruyere": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "queso vegano a base de almidón",
+       "note": "Elige uno vendido como fundente; el resto se vuelve plástico con el calor."
+      },
+      "en": {
+       "to": "starch-based vegan cheese",
+       "note": "Pick one sold as melting; the rest turn plasticky in the heat."
+      },
+      "may": [
+       "coconut",
+       "treenut",
+       "soy"
+      ]
+     },
+     {
+      "f": 0.9,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "queso de anacardo",
+       "note": "Mejor sabor, menos hebra. Frutos secos."
+      },
+      "en": {
+       "to": "cashew cheese",
+       "note": "Better flavor, less stretch."
+      }
+     }
+    ]
+   }
+  },
+  "cheese": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "queso vegano a base de almidón",
+       "note": "Elige uno vendido como fundente; el resto se vuelve plástico con el calor."
+      },
+      "en": {
+       "to": "starch-based vegan cheese",
+       "note": "Pick one sold as melting; the rest turn plasticky in the heat."
+      },
+      "may": [
+       "coconut",
+       "treenut",
+       "soy"
+      ]
+     },
+     {
+      "f": 0.9,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "queso de anacardo",
+       "note": "Mejor sabor, menos hebra. Frutos secos."
+      },
+      "en": {
+       "to": "cashew cheese",
+       "note": "Better flavor, less stretch."
+      }
+     }
+    ]
+   }
+  },
+  "cotija": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "queso vegano a base de almidón",
+       "note": "Elige uno vendido como fundente; el resto se vuelve plástico con el calor."
+      },
+      "en": {
+       "to": "starch-based vegan cheese",
+       "note": "Pick one sold as melting; the rest turn plasticky in the heat."
+      },
+      "may": [
+       "coconut",
+       "treenut",
+       "soy"
+      ]
+     },
+     {
+      "f": 0.9,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "queso de anacardo",
+       "note": "Mejor sabor, menos hebra. Frutos secos."
+      },
+      "en": {
+       "to": "cashew cheese",
+       "note": "Better flavor, less stretch."
+      }
+     }
+    ]
+   }
+  },
+  "queso": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "queso vegano a base de almidón",
+       "note": "Elige uno vendido como fundente; el resto se vuelve plástico con el calor."
+      },
+      "en": {
+       "to": "starch-based vegan cheese",
+       "note": "Pick one sold as melting; the rest turn plasticky in the heat."
+      },
+      "may": [
+       "coconut",
+       "treenut",
+       "soy"
+      ]
+     },
+     {
+      "f": 0.9,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "queso de anacardo",
+       "note": "Mejor sabor, menos hebra. Frutos secos."
+      },
+      "en": {
+       "to": "cashew cheese",
+       "note": "Better flavor, less stretch."
+      }
+     }
+    ]
+   }
+  },
+  "feta": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "soy"
+      ],
+      "es": {
+       "to": "tofu firme marinado en salmuera",
+       "note": "Salmuera al 3% con limón y orégano durante 2 h. Soja."
+      },
+      "en": {
+       "to": "firm tofu marinated in brine",
+       "note": "3% brine with lemon and oregano for 2 h."
+      }
+     }
+    ]
+   }
+  },
+  "paneer": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "soy"
+      ],
+      "es": {
+       "to": "tofu extrafirme prensado y sellado",
+       "note": "Prensar 30 min, cortar en cubos y freír fuerte para que aguante en la salsa. Soja."
+      },
+      "en": {
+       "to": "pressed, seared extra-firm tofu",
+       "note": "Press 30 min, cube, and fry hard so it holds up in the sauce."
+      }
+     }
+    ]
+   }
+  },
+  "halloumi": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "soy"
+      ],
+      "es": {
+       "to": "tofu extrafirme prensado y sellado",
+       "note": "Prensar 30 min, cortar en cubos y freír fuerte para que aguante en la salsa. Soja."
+      },
+      "en": {
+       "to": "pressed, seared extra-firm tofu",
+       "note": "Press 30 min, cube, and fry hard so it holds up in the sauce."
+      }
+     }
+    ]
+   }
+  },
+  "creamcheese": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "queso crema de anacardo",
+       "note": "Frutos secos."
+      },
+      "en": {
+       "to": "cashew cream cheese",
+       "note": ""
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "coconut"
+      ],
+      "es": {
+       "to": "yogur de coco espeso, colado toda la noche",
+       "note": "Más suelto; añade 1 cdta de fécula de maíz si va al horno. Coco."
+      },
+      "en": {
+       "to": "thick coconut yogurt, strained overnight",
+       "note": "Looser; add 1 tsp cornstarch if it's going in the oven."
+      }
+     }
+    ]
+   }
+  },
+  "condensedmilk": {
+   "a": [
+    "milk",
+    "sugar"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "coconut"
+      ],
+      "es": {
+       "to": "leche condensada de coco",
+       "note": "Se vende hecha, o reduce leche de coco con azúcar a la mitad. Coco."
+      },
+      "en": {
+       "to": "coconut condensed milk",
+       "note": "Sold ready-made, or reduce coconut milk with sugar by half."
+      }
+     }
+    ],
+    "sugar": [
+     {
+      "f": 1,
+      "carries": [
+       "milk"
+      ],
+      "es": {
+       "to": "crema o crema de coco reducida con alulosa",
+       "note": "Cocer 400 ml con 80 g de alulosa hasta reducir a la mitad."
+      },
+      "en": {
+       "to": "cream or coconut cream reduced with allulose",
+       "note": "Simmer 400 ml with 80 g allulose until reduced by half."
+      },
+      "may": [
+       "coconut"
+      ]
+     }
+    ]
+   }
+  },
+  "mascarpone": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "mascarpone de anacardo",
+       "note": "Tritura anacardos remojados con crema de coco y un chorro de limón. Frutos secos."
+      },
+      "en": {
+       "to": "cashew mascarpone",
+       "note": "Blend soaked cashews with coconut cream and a squeeze of lemon."
+      }
+     }
+    ]
+   }
+  },
+  "ricottacheese": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "soy"
+      ],
+      "es": {
+       "to": "tofu sedoso triturado con limón y sal",
+       "note": "Escúrrelo bien para cualquier cosa horneada. Soja."
+      },
+      "en": {
+       "to": "blended silken tofu with lemon and salt",
+       "note": "Drain it well for anything baked."
+      }
+     }
+    ]
+   }
+  },
+  "evaporatedmilk": {
+   "a": [
+    "milk"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "leche de avena o de soja reducida",
+       "note": "Hierve 500 ml hasta dejarlos en 300 ml."
+      },
+      "en": {
+       "to": "reduced oat or soy milk",
+       "note": "Boil 500 ml down to 300 ml."
+      },
+      "may": [
+       "soy",
+       "wheat"
+      ]
+     }
+    ]
+   }
+  },
+  "egg": {
+   "a": [
+    "egg"
+   ],
+   "sr": {
+    "binder": {
+     "egg": [
+      {
+       "f": 1,
+       "carries": [],
+       "es": {
+        "to": "huevo de linaza (1 cda de linaza molida + 3 cda de agua)",
+        "note": "Reposar 10 min hasta que gelifique. Liga albóndigas, hamburguesas y buñuelos igual de bien que el huevo."
+       },
+       "en": {
+        "to": "flax egg (1 tbsp ground flaxseed + 3 tbsp water)",
+        "note": "Let it sit 10 min until it gels. Binds meatballs, burgers and fritters as well as egg does."
+       }
+      },
+      {
+       "f": 1,
+       "carries": [],
+       "es": {
+        "to": "aquafaba (3 cda del líquido del garbanzo)",
+        "note": "Neutro de sabor, agarre algo más débil."
+       },
+       "en": {
+        "to": "aquafaba (3 tbsp chickpea liquid)",
+        "note": "Neutral in flavor, slightly weaker hold."
+       }
+      },
+      {
+       "f": 1,
+       "carries": [],
+       "es": {
+        "to": "puré de papa cocida (2 cda)",
+        "note": "Tradicional en croquetas y pasteles de pescado; aporta almidón, no sabor."
+       },
+       "en": {
+        "to": "mashed cooked potato (2 tbsp)",
+        "note": "Traditional in croquettes and fish cakes; adds starch, not flavor."
+       }
+      }
+     ]
+    },
+    "leaven": {
+     "egg": [
+      {
+       "f": 1,
+       "carries": [],
+       "es": {
+        "to": "1 cda de aceite + 1 cda de agua + 1/2 cdta de polvo de hornear",
+        "note": "Por huevo. Repone el impulso, no la riqueza: la miga saldrá algo más corta."
+       },
+       "en": {
+        "to": "1 tbsp oil + 1 tbsp water + 1/2 tsp baking powder",
+        "note": "Per egg. Replaces the lift, not the richness: the crumb will be a little shorter."
+       },
+       "may": [
+        "corn"
+       ]
+      },
+      {
+       "f": 1,
+       "carries": [],
+       "es": {
+        "to": "60 g de puré de manzana + 1/4 cdta más de polvo de hornear",
+        "note": "Por huevo. Húmedo y denso; bien en magdalenas y brownies, mal en bizcochos aireados."
+       },
+       "en": {
+        "to": "60 g applesauce + an extra 1/4 tsp baking powder",
+        "note": "Per egg. Moist and dense; good in muffins and brownies, bad in airy sponges."
+       },
+       "may": [
+        "corn"
+       ]
+      }
+     ]
+    },
+    "aerate": {
+     "egg": [
+      {
+       "f": 1,
+       "carries": [],
+       "es": {
+        "to": "aquafaba (3 cda por clara)",
+        "note": "Monta a picos firmes con una pizca de cremor tártaro. Tarda el doble y baja antes: incorpórala rápido."
+       },
+       "en": {
+        "to": "aquafaba (3 tbsp per white)",
+        "note": "Whips to stiff peaks with a pinch of cream of tartar. Takes twice as long and deflates sooner: fold it in fast."
+       }
+      }
+     ]
+    },
+    "enrich": {
+     "egg": [
+      {
+       "f": 1,
+       "carries": [
+        "corn"
+       ],
+       "es": {
+        "to": "1 cda de fécula de maíz + 60 ml de bebida vegetal",
+        "note": "Por huevo. Espesa natillas y rellenos; pierdes el sabor de la yema, así que añade vainilla o algo más de grasa. Maíz."
+       },
+       "en": {
+        "to": "1 tbsp cornstarch + 60 ml plant milk",
+        "note": "Per egg. Thickens custards and fillings; you lose the yolk flavor, so add vanilla or a bit more fat."
+       }
+      }
+     ]
+    },
+    "glaze": {
+     "egg": [
+      {
+       "f": 1,
+       "carries": [
+        "sugar"
+       ],
+       "es": {
+        "to": "bebida vegetal + jarabe de arce (1:1)",
+        "note": "Se pincela y dora. La aquafaba sola da brillo sin color."
+       },
+       "en": {
+        "to": "plant milk + maple syrup (1:1)",
+        "note": "Brush it on and it browns. Aquafaba alone gives shine without color."
+       },
+       "may": [
+        "soy",
+        "treenut",
+        "coconut",
+        "wheat"
+       ]
+      }
+     ]
+    },
+    "set": {
+     "egg": [
+      {
+       "f": 1,
+       "carries": [
+        "soy"
+       ],
+       "es": {
+        "to": "tofu sedoso triturado + 1 cdta de fécula de maíz por cada 100 g",
+        "note": "Cuaja como una natilla salada. Soja."
+       },
+       "en": {
+        "to": "blended silken tofu + 1 tsp cornstarch per 100 g",
+        "note": "Sets like a savory custard."
+       }
+      }
+     ]
+    }
+   }
+  },
+  "eggyolk": {
+   "a": [
+    "egg"
+   ],
+   "s": {
+    "egg": [
+     {
+      "f": 1,
+      "carries": [
+       "corn"
+      ],
+      "es": {
+       "to": "1 cda de fécula de maíz + 1 cda de agua + 1 cdta de aceite",
+       "note": "Por yema. Espesa y enriquece, pero emulsiona menos. Maíz."
+      },
+      "en": {
+       "to": "1 tbsp cornstarch + 1 tbsp water + 1 tsp oil",
+       "note": "Per yolk. Thickens and enriches, but emulsifies less."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "3 cda de aquafaba + 1 cdta de aceite",
+       "note": "Para mayonesa y alioli: sorprendentemente estable."
+      },
+      "en": {
+       "to": "3 tbsp aquafaba + 1 tsp oil",
+       "note": "For mayo and aioli: surprisingly stable."
+      }
+     }
+    ]
+   }
+  },
+  "eggwhite": {
+   "a": [
+    "egg"
+   ],
+   "s": {
+    "egg": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "aquafaba (3 cda)",
+       "note": "Monta y sostiene merengue; cuaja más blando y nunca queda del todo crujiente."
+      },
+      "en": {
+       "to": "aquafaba (3 tbsp)",
+       "note": "Whips and holds a meringue; sets softer and never gets fully crisp."
+      }
+     }
+    ]
+   }
+  },
+  "mayo": {
+   "a": [
+    "egg"
+   ],
+   "s": {
+    "egg": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "mayonesa de aquafaba",
+       "note": "Misma emulsión con líquido de garbanzo en vez de yema. La mayonesa vegana comercial se usa igual."
+      },
+      "en": {
+       "to": "aquafaba mayo",
+       "note": "Same emulsion, with chickpea liquid instead of yolk. Store-bought vegan mayo works the same way."
+      },
+      "may": [
+       "soy",
+       "mustard"
+      ]
+     }
+    ]
+   },
+   "may": [
+    "mustard"
+   ],
+   "label": {
+    "es": "Muchas mayonesas llevan mostaza: revisa la etiqueta.",
+    "en": "Many mayonnaises contain mustard: check the label."
+   }
+  },
+  "apflour": {
+   "a": [
+    "wheat"
+   ],
+   "sr": {
+    "structure": {
+     "wheat": [
+      {
+       "f": 1,
+       "carries": [],
+       "es": {
+        "to": "mezcla sin gluten 1:1, pesada y no medida en tazas",
+        "note": "Si la mezcla no lleva goma, añade xantana al 0,5% del peso de harina para bizcochos y al 1% para pan. Suma un 10% más de líquido y deja reposar la masa 20 min para que hidraten los almidones: ese único paso separa lo bueno de lo arenoso."
+       },
+       "en": {
+        "to": "1:1 gluten-free blend, weighed, not measured by the cup",
+        "note": "If the blend has no gum, add xanthan at 0.5% of the flour weight for cakes and 1% for bread. Add 10% more liquid and rest the batter or dough 20 min so the starches hydrate: that one step is the difference between good and gritty."
+       },
+       "may": [
+        "corn",
+        "soy"
+       ]
+      },
+      {
+       "f": 1,
+       "carries": [],
+       "es": {
+        "to": "harina de arroz fina + almidón de papa + tapioca (60:30:10)",
+        "note": "Mezcla casera. Aplican las mismas reglas de xantana y reposo."
+       },
+       "en": {
+        "to": "fine rice flour + potato starch + tapioca (60:30:10)",
+        "note": "Homemade blend. Same xanthan and resting rules apply."
+       }
+      }
+     ]
+    },
+    "thicken": {
+     "wheat": [
+      {
+       "f": 0.5,
+       "carries": [
+        "corn"
+       ],
+       "es": {
+        "to": "fécula de maíz",
+        "note": "La mitad del peso de la harina. Espesa al hervir y se afloja si se mantiene mucho al fuego. Maíz."
+       },
+       "en": {
+        "to": "cornstarch",
+        "note": "Half the weight of the flour. Thickens at a boil and thins out if held on the heat too long."
+       }
+      },
+      {
+       "f": 1,
+       "carries": [],
+       "es": {
+        "to": "harina de arroz",
+        "note": "Cambio directo en un roux; sabor más limpio, sin gusto a harina cruda."
+       },
+       "en": {
+        "to": "rice flour",
+        "note": "Direct swap in a roux; cleaner flavor, no raw-flour taste."
+       }
+      }
+     ]
+    },
+    "dredge": {
+     "wheat": [
+      {
+       "f": 1,
+       "carries": [
+        "corn"
+       ],
+       "es": {
+        "to": "harina de arroz + fécula de maíz (3:1)",
+        "note": "Queda más crujiente que el trigo y aguanta más: esto es una mejora, no un apaño. Maíz."
+       },
+       "en": {
+        "to": "rice flour + cornstarch (3:1)",
+        "note": "Crisper than wheat and stays crisp longer: this is an upgrade, not a workaround."
+       }
+      }
+     ]
+    }
+   }
+  },
+  "breadflour": {
+   "a": [
+    "wheat"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "mezcla panificable sin gluten + cáscara de psyllium al 3% del peso de harina",
+       "note": "El psyllium es lo único barato que imita la elasticidad del gluten. Hidrátalo primero en el agua. Espera una masa batida, no amasable: se extiende o se manga, no se amasa."
+      },
+      "en": {
+       "to": "gluten-free bread blend + psyllium husk at 3% of the flour weight",
+       "note": "Psyllium is the only cheap thing that mimics gluten's stretch. Hydrate it in the water first. Expect a batter, not a dough: you spread or pipe it, you don't knead it."
+      },
+      "may": [
+       "corn",
+       "soy"
+      ]
+     }
+    ]
+   }
+  },
+  "semolina": {
+   "a": [
+    "wheat"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "sémola de arroz",
+       "note": "Mismo grano y mismo comportamiento al espolvorear."
+      },
+      "en": {
+       "to": "rice semolina",
+       "note": "Same grain size, behaves the same when dusted."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "corn"
+      ],
+      "es": {
+       "to": "polenta fina",
+       "note": "Mismo comportamiento al espolvorear; algo más dulce."
+      },
+      "en": {
+       "to": "fine polenta",
+       "note": "Behaves the same when dusted; a little sweeter."
+      }
+     }
+    ]
+   }
+  },
+  "pasta": {
+   "a": [
+    "wheat"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "pasta de arroz integral",
+       "note": "Cuécela 1 min menos y termínala en la salsa; pasa de firme a papilla en un instante."
+      },
+      "en": {
+       "to": "brown rice pasta",
+       "note": "Cook it 1 minute less and finish it in the sauce; it goes from firm to mush fast."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "pasta de garbanzo",
+       "note": "La que mejor agarra la salsa y añade proteína."
+      },
+      "en": {
+       "to": "chickpea pasta",
+       "note": "Holds sauce best and adds protein."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "corn"
+      ],
+      "es": {
+       "to": "pasta de maíz",
+       "note": "Misma regla: 1 min menos y termínala en la salsa."
+      },
+      "en": {
+       "to": "corn pasta",
+       "note": "Same rule: 1 minute less, finish in the sauce."
+      }
+     }
+    ]
+   }
+  },
+  "noodles": {
+   "a": [
+    "wheat",
+    "soy"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "fideos de arroz",
+       "note": "Mordida más suave. Enjuágalos tras cocerlos para que no se peguen."
+      },
+      "en": {
+       "to": "rice noodles",
+       "note": "Softer bite. Rinse after cooking so they don't stick."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "soba de trigo sarraceno 100%",
+       "note": "Lee la etiqueta: casi todo el soba es mayoritariamente trigo."
+      },
+      "en": {
+       "to": "100% buckwheat soba",
+       "note": "Read the label: most soba is mostly wheat."
+      },
+      "may": [
+       "wheat"
+      ]
+     }
+    ]
+   }
+  },
+  "udon": {
+   "a": [
+    "wheat",
+    "soy"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "fideos de arroz",
+       "note": "Mordida más suave. Enjuágalos tras cocerlos para que no se peguen."
+      },
+      "en": {
+       "to": "rice noodles",
+       "note": "Softer bite. Rinse after cooking so they don't stick."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "soba de trigo sarraceno 100%",
+       "note": "Lee la etiqueta: casi todo el soba es mayoritariamente trigo."
+      },
+      "en": {
+       "to": "100% buckwheat soba",
+       "note": "Read the label: most soba is mostly wheat."
+      },
+      "may": [
+       "wheat"
+      ]
+     }
+    ]
+   }
+  },
+  "ramennoodles": {
+   "a": [
+    "wheat",
+    "soy"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "fideos de arroz",
+       "note": "Mordida más suave. Enjuágalos tras cocerlos para que no se peguen."
+      },
+      "en": {
+       "to": "rice noodles",
+       "note": "Softer bite. Rinse after cooking so they don't stick."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "soba de trigo sarraceno 100%",
+       "note": "Lee la etiqueta: casi todo el soba es mayoritariamente trigo."
+      },
+      "en": {
+       "to": "100% buckwheat soba",
+       "note": "Read the label: most soba is mostly wheat."
+      },
+      "may": [
+       "wheat"
+      ]
+     }
+    ]
+   }
+  },
+  "breadcrumbs": {
+   "a": [
+    "wheat"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "may": [
+       "egg",
+       "soy"
+      ],
+      "es": {
+       "to": "panko sin gluten certificado",
+       "note": "Cambio directo."
+      },
+      "en": {
+       "to": "certified gluten-free panko",
+       "note": "Direct swap."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "galletas de arroz trituradas",
+       "note": "Más grueso y crujiente; dora antes, así que baja el horno 10 °C."
+      },
+      "en": {
+       "to": "crushed rice crackers",
+       "note": "Coarser and crunchier; browns faster, so drop the oven 10 °C."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "corn"
+      ],
+      "es": {
+       "to": "hojuelas de maíz certificadas sin gluten, trituradas",
+       "note": "Las hojuelas de maíz normales llevan malta de cebada, que tiene gluten: solo las certificadas."
+      },
+      "en": {
+       "to": "certified gluten-free cornflakes, crushed",
+       "note": "Regular cornflakes contain barley malt, which has gluten: certified ones only."
+      }
+     }
+    ]
+   }
+  },
+  "panko": {
+   "a": [
+    "wheat"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "may": [
+       "egg",
+       "soy"
+      ],
+      "es": {
+       "to": "panko sin gluten certificado",
+       "note": "Cambio directo."
+      },
+      "en": {
+       "to": "certified gluten-free panko",
+       "note": "Direct swap."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "galletas de arroz trituradas",
+       "note": "Más grueso y crujiente; dora antes, así que baja el horno 10 °C."
+      },
+      "en": {
+       "to": "crushed rice crackers",
+       "note": "Coarser and crunchier; browns faster, so drop the oven 10 °C."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "corn"
+      ],
+      "es": {
+       "to": "hojuelas de maíz certificadas sin gluten, trituradas",
+       "note": "Las hojuelas de maíz normales llevan malta de cebada, que tiene gluten: solo las certificadas."
+      },
+      "en": {
+       "to": "certified gluten-free cornflakes, crushed",
+       "note": "Regular cornflakes contain barley malt, which has gluten: certified ones only."
+      }
+     }
+    ]
+   }
+  },
+  "bread": {
+   "a": [
+    "wheat"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "pan sin gluten de masa madre o con semillas",
+       "note": "Tuéstalo antes para cualquier uso estructural: el pan sin gluten se deshace mojado."
+      },
+      "en": {
+       "to": "gluten-free sourdough or seeded bread",
+       "note": "Toast it first for any structural use: gluten-free bread falls apart when wet."
+      },
+      "may": [
+       "egg",
+       "milk",
+       "soy"
+      ]
+     }
+    ]
+   }
+  },
+  "flourtortilla": {
+   "a": [
+    "wheat"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [
+       "corn"
+      ],
+      "es": {
+       "to": "tortilla de maíz",
+       "note": "Caliéntalas bien en comal seco o se rompen. Maíz."
+      },
+      "en": {
+       "to": "corn tortilla",
+       "note": "Heat them well in a dry skillet or they'll crack."
+      }
+     }
+    ]
+   }
+  },
+  "phyllo": {
+   "a": [
+    "wheat"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "masa filo sin gluten",
+       "note": "Existe aunque escasea; trabájala fría y rápido."
+      },
+      "en": {
+       "to": "gluten-free phyllo",
+       "note": "It exists, though it's hard to find; work it cold and fast."
+      },
+      "may": [
+       "egg",
+       "corn"
+      ]
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "papel de arroz pincelado con aceite",
+       "note": "No da el mismo quiebre, pero cruje y hace capas."
+      },
+      "en": {
+       "to": "rice paper brushed with oil",
+       "note": "Doesn't shatter the same way, but it crisps and layers."
+      }
+     }
+    ]
+   }
+  },
+  "couscous": {
+   "a": [
+    "wheat"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "mijo o quinoa",
+       "note": "Mismo esponjado, más sabor. Tuéstalos en seco 2 min primero."
+      },
+      "en": {
+       "to": "millet or quinoa",
+       "note": "Same fluff, more flavor. Dry-toast them 2 min first."
+      }
+     }
+    ]
+   }
+  },
+  "bulgur": {
+   "a": [
+    "wheat"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "quinoa o granos de trigo sarraceno",
+       "note": "Cuece y enfría antes de aliñar para que no se apelmace."
+      },
+      "en": {
+       "to": "quinoa or buckwheat groats",
+       "note": "Cook and cool before dressing so it doesn't clump."
+      }
+     }
+    ]
+   }
+  },
+  "barley": {
+   "a": [
+    "wheat"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "sorgo perlado o arroz integral de grano corto",
+       "note": "Misma mordida y misma liberación de almidón al caldo."
+      },
+      "en": {
+       "to": "pearled sorghum or short-grain brown rice",
+       "note": "Same chew, and releases starch into the broth the same way."
+      }
+     }
+    ]
+   }
+  },
+  "seitan": {
+   "a": [
+    "wheat"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "seta cardo desmenuzada y sellada",
+       "note": "La mordida viene de la fibra, no del gluten."
+      },
+      "en": {
+       "to": "shredded, seared king oyster mushroom",
+       "note": "The chew comes from fiber, not gluten."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "soy"
+      ],
+      "es": {
+       "to": "tofu extrafirme congelado y descongelado",
+       "note": "Congelarlo lo vuelve esponjoso y carnoso. Soja."
+      },
+      "en": {
+       "to": "frozen and thawed extra-firm tofu",
+       "note": "Freezing makes it spongy and meaty."
+      }
+     }
+    ]
+   }
+  },
+  "soysauce": {
+   "a": [
+    "soy",
+    "wheat"
+   ],
+   "s": {
+    "soy": [
+     {
+      "f": 1.25,
+      "carries": [
+       "coconut"
+      ],
+      "es": {
+       "to": "aminos de coco",
+       "note": "Más dulce y mucho menos salado: usa una cuarta parte más y añade 1/4 cdta de sal por cucharada. Coco."
+      },
+      "en": {
+       "to": "coconut aminos",
+       "note": "Sweeter and much less salty: use a quarter more and add 1/4 tsp salt per tablespoon."
+      }
+     }
+    ],
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [
+       "soy"
+      ],
+      "es": {
+       "to": "tamari",
+       "note": "Fermentado sin trigo. Sigue siendo soja. Soja."
+      },
+      "en": {
+       "to": "tamari",
+       "note": "Brewed without wheat. Still soy."
+      },
+      "may": [
+       "wheat"
+      ]
+     },
+     {
+      "f": 1.25,
+      "carries": [
+       "coconut"
+      ],
+      "es": {
+       "to": "aminos de coco",
+       "note": "Libre de ambos. Añade sal para compensar. Coco."
+      },
+      "en": {
+       "to": "coconut aminos",
+       "note": "Free of both. Add salt to make up the difference."
+      }
+     }
+    ]
+   }
+  },
+  "tamari": {
+   "a": [
+    "soy"
+   ],
+   "s": {
+    "soy": [
+     {
+      "f": 1.25,
+      "carries": [
+       "coconut"
+      ],
+      "es": {
+       "to": "aminos de coco",
+       "note": "Más 1/4 cdta de sal por cucharada. Coco."
+      },
+      "en": {
+       "to": "coconut aminos",
+       "note": "Plus 1/4 tsp salt per tablespoon."
+      }
+     }
+    ]
+   }
+  },
+  "miso": {
+   "a": [
+    "soy"
+   ],
+   "s": {
+    "soy": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "miso de garbanzo",
+       "note": "Se vende hecho, fermenta igual y sabe casi idéntico."
+      },
+      "en": {
+       "to": "chickpea miso",
+       "note": "Sold ready-made, fermented the same way, and tastes almost identical."
+      },
+      "may": [
+       "wheat",
+       "soy"
+      ]
+     }
+    ]
+   }
+  },
+  "tofu": {
+   "a": [
+    "soy"
+   ],
+   "s": {
+    "soy": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "tofu de garbanzo (tofu birmano)",
+       "note": "Cuaja a partir de harina de garbanzo; más sedoso y se fríe muy bien."
+      },
+      "en": {
+       "to": "chickpea tofu (Burmese tofu)",
+       "note": "Set from chickpea flour; silkier, and fries beautifully."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "milk"
+      ],
+      "es": {
+       "to": "paneer",
+       "note": "Para cualquier cosa braseada o frita. Lácteo."
+      },
+      "en": {
+       "to": "paneer",
+       "note": "For anything braised or fried."
+      }
+     }
+    ]
+   }
+  },
+  "tempeh": {
+   "a": [
+    "soy"
+   ],
+   "s": {
+    "soy": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "tempeh de garbanzo",
+       "note": "El mismo fermento sobre otra legumbre."
+      },
+      "en": {
+       "to": "chickpea tempeh",
+       "note": "The same ferment on a different legume."
+      }
+     }
+    ]
+   }
+  },
+  "edamame": {
+   "a": [
+    "soy"
+   ],
+   "s": {
+    "soy": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "habas o guisantes",
+       "note": "Mismo color y mismo dulzor."
+      },
+      "en": {
+       "to": "fava beans or peas",
+       "note": "Same color, same sweetness."
+      }
+     }
+    ]
+   }
+  },
+  "gochujang": {
+   "a": [
+    "soy",
+    "wheat",
+    "nightshade"
+   ],
+   "s": {
+    "soy": [
+     {
+      "f": 1,
+      "carries": [
+       "nightshade",
+       "sugar"
+      ],
+      "es": {
+       "to": "miso de garbanzo + gochugaru + miel (2:2:1)",
+       "note": "Mezcla y reposa una hora. Da las mismas notas dulce-picante-umami."
+      },
+      "en": {
+       "to": "chickpea miso + gochugaru + honey (2:2:1)",
+       "note": "Mix and rest for an hour. Hits the same sweet-hot-umami notes."
+      },
+      "may": [
+       "wheat",
+       "soy"
+      ]
+     }
+    ],
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [
+       "soy",
+       "nightshade",
+       "sugar"
+      ],
+      "es": {
+       "to": "gochujang certificado sin gluten",
+       "note": "Elaborado con jarabe de arroz en vez de malta de cebada; hay varias marcas."
+      },
+      "en": {
+       "to": "certified gluten-free gochujang",
+       "note": "Made with rice syrup instead of barley malt; several brands make one."
+      }
+     }
+    ]
+   }
+  },
+  "doubanjiang": {
+   "a": [
+    "soy",
+    "wheat",
+    "nightshade"
+   ],
+   "s": {
+    "soy": [
+     {
+      "f": 1,
+      "carries": [
+       "nightshade"
+      ],
+      "es": {
+       "to": "miso de garbanzo + hojuelas de chile + un chorro de vinagre",
+       "note": "Pierdes el fondo del haba añeja pero conservas el eje sal-picante."
+      },
+      "en": {
+       "to": "chickpea miso + chili flakes + a splash of vinegar",
+       "note": "You lose the aged-bean depth but keep the salty-hot backbone."
+      },
+      "may": [
+       "wheat",
+       "soy"
+      ]
+     }
+    ]
+   }
+  },
+  "hoisin": {
+   "a": [
+    "soy",
+    "wheat",
+    "sesame"
+   ],
+   "s": {
+    "soy": [
+     {
+      "f": 1,
+      "carries": [
+       "coconut",
+       "allium",
+       "sugar"
+      ],
+      "es": {
+       "to": "pasta de dátil + aminos de coco + cinco especias + ajo",
+       "note": "Dulce, oscuro y aromático: el mismo trabajo. Coco."
+      },
+      "en": {
+       "to": "date paste + coconut aminos + five-spice + garlic",
+       "note": "Sweet, dark and aromatic: does the same job."
+      }
+     }
+    ]
+   }
+  },
+  "oystersauce": {
+   "a": [
+    "mollusc",
+    "soy",
+    "wheat"
+   ],
+   "s": {
+    "mollusc": [
+     {
+      "f": 1,
+      "carries": [
+       "soy",
+       "wheat",
+       "sugar"
+      ],
+      "es": {
+       "to": "salsa vegetariana de shiitake para saltear",
+       "note": "Se vende junto a la original."
+      },
+      "en": {
+       "to": "vegetarian shiitake stir-fry sauce",
+       "note": "Sold right next to the original."
+      }
+     }
+    ],
+    "soy": [
+     {
+      "f": 1,
+      "carries": [
+       "coconut",
+       "sugar"
+      ],
+      "es": {
+       "to": "polvo de hongos + aminos de coco + un poco de azúcar",
+       "note": "Reduce brevemente hasta consistencia de jarabe. Coco."
+      },
+      "en": {
+       "to": "mushroom powder + coconut aminos + a little sugar",
+       "note": "Reduce briefly to a syrupy consistency."
+      }
+     }
+    ]
+   },
+   "may": [
+    "wheat"
+   ]
+  },
+  "peanut": {
+   "a": [
+    "peanut"
+   ],
+   "s": {
+    "peanut": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "mantequilla de semillas de girasol",
+       "note": "Misma grasa y mismo cuerpo. Aviso: con bicarbonato se vuelve verde. Es inofensivo, pero desconcierta en un pastel."
+      },
+      "en": {
+       "to": "sunflower seed butter",
+       "note": "Same fat, same body. Warning: it turns green with baking soda. Harmless, but unsettling in a cake."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "sesame"
+      ],
+      "es": {
+       "to": "tahini",
+       "note": "Mejor en salsas saladas; más fino y amargo, así que añade un poco de miel. Sésamo."
+      },
+      "en": {
+       "to": "tahini",
+       "note": "Best in savory sauces; thinner and more bitter, so add a little honey."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "mantequilla de semillas de calabaza",
+       "note": "Más oscura y terrosa; excelente en guisos."
+      },
+      "en": {
+       "to": "pumpkin seed butter",
+       "note": "Darker and earthier; excellent in stews."
+      }
+     }
+    ]
+   }
+  },
+  "peanutbutter": {
+   "a": [
+    "peanut"
+   ],
+   "s": {
+    "peanut": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "mantequilla de semillas de girasol",
+       "note": "Misma grasa y mismo cuerpo. Aviso: con bicarbonato se vuelve verde. Es inofensivo, pero desconcierta en un pastel."
+      },
+      "en": {
+       "to": "sunflower seed butter",
+       "note": "Same fat, same body. Warning: it turns green with baking soda. Harmless, but unsettling in a cake."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "sesame"
+      ],
+      "es": {
+       "to": "tahini",
+       "note": "Mejor en salsas saladas; más fino y amargo, así que añade un poco de miel. Sésamo."
+      },
+      "en": {
+       "to": "tahini",
+       "note": "Best in savory sauces; thinner and more bitter, so add a little honey."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "mantequilla de semillas de calabaza",
+       "note": "Más oscura y terrosa; excelente en guisos."
+      },
+      "en": {
+       "to": "pumpkin seed butter",
+       "note": "Darker and earthier; excellent in stews."
+      }
+     }
+    ]
+   }
+  },
+  "peanutoil": {
+   "a": [
+    "peanut"
+   ],
+   "s": {
+    "peanut": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "aceite refinado de girasol o de salvado de arroz",
+       "note": "Mismo punto de humo para freír."
+      },
+      "en": {
+       "to": "refined sunflower or rice bran oil",
+       "note": "Same smoke point for frying."
+      }
+     }
+    ]
+   }
+  },
+  "almond": {
+   "a": [
+    "treenut"
+   ],
+   "s": {
+    "treenut": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "semillas de girasol o calabaza tostadas",
+       "note": "Tuéstalas bien: de ahí sale realmente el sabor a fruto seco."
+      },
+      "en": {
+       "to": "toasted sunflower or pumpkin seeds",
+       "note": "Toast them well: that's where the nutty flavor actually comes from."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "garbanzos tostados o arroz inflado",
+       "note": "Solo para el crujiente, cuando el sabor lo aporta otra cosa."
+      },
+      "en": {
+       "to": "roasted chickpeas or puffed rice",
+       "note": "Only for crunch, when something else is carrying the flavor."
+      }
+     }
+    ]
+   }
+  },
+  "cashew": {
+   "a": [
+    "treenut"
+   ],
+   "s": {
+    "treenut": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "semillas de girasol o calabaza tostadas",
+       "note": "Tuéstalas bien: de ahí sale realmente el sabor a fruto seco."
+      },
+      "en": {
+       "to": "toasted sunflower or pumpkin seeds",
+       "note": "Toast them well: that's where the nutty flavor actually comes from."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "garbanzos tostados o arroz inflado",
+       "note": "Solo para el crujiente, cuando el sabor lo aporta otra cosa."
+      },
+      "en": {
+       "to": "roasted chickpeas or puffed rice",
+       "note": "Only for crunch, when something else is carrying the flavor."
+      }
+     }
+    ]
+   }
+  },
+  "walnut": {
+   "a": [
+    "treenut"
+   ],
+   "s": {
+    "treenut": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "semillas de girasol o calabaza tostadas",
+       "note": "Tuéstalas bien: de ahí sale realmente el sabor a fruto seco."
+      },
+      "en": {
+       "to": "toasted sunflower or pumpkin seeds",
+       "note": "Toast them well: that's where the nutty flavor actually comes from."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "garbanzos tostados o arroz inflado",
+       "note": "Solo para el crujiente, cuando el sabor lo aporta otra cosa."
+      },
+      "en": {
+       "to": "roasted chickpeas or puffed rice",
+       "note": "Only for crunch, when something else is carrying the flavor."
+      }
+     }
+    ]
+   }
+  },
+  "pistachio": {
+   "a": [
+    "treenut"
+   ],
+   "s": {
+    "treenut": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "semillas de girasol o calabaza tostadas",
+       "note": "Tuéstalas bien: de ahí sale realmente el sabor a fruto seco."
+      },
+      "en": {
+       "to": "toasted sunflower or pumpkin seeds",
+       "note": "Toast them well: that's where the nutty flavor actually comes from."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "garbanzos tostados o arroz inflado",
+       "note": "Solo para el crujiente, cuando el sabor lo aporta otra cosa."
+      },
+      "en": {
+       "to": "roasted chickpeas or puffed rice",
+       "note": "Only for crunch, when something else is carrying the flavor."
+      }
+     }
+    ]
+   }
+  },
+  "pinenut": {
+   "a": [
+    "treenut"
+   ],
+   "s": {
+    "treenut": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "semillas de girasol o calabaza tostadas",
+       "note": "Tuéstalas bien: de ahí sale realmente el sabor a fruto seco."
+      },
+      "en": {
+       "to": "toasted sunflower or pumpkin seeds",
+       "note": "Toast them well: that's where the nutty flavor actually comes from."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "garbanzos tostados o arroz inflado",
+       "note": "Solo para el crujiente, cuando el sabor lo aporta otra cosa."
+      },
+      "en": {
+       "to": "roasted chickpeas or puffed rice",
+       "note": "Only for crunch, when something else is carrying the flavor."
+      }
+     }
+    ]
+   }
+  },
+  "hazelnut": {
+   "a": [
+    "treenut"
+   ],
+   "s": {
+    "treenut": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "semillas de girasol o calabaza tostadas",
+       "note": "Tuéstalas bien: de ahí sale realmente el sabor a fruto seco."
+      },
+      "en": {
+       "to": "toasted sunflower or pumpkin seeds",
+       "note": "Toast them well: that's where the nutty flavor actually comes from."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "garbanzos tostados o arroz inflado",
+       "note": "Solo para el crujiente, cuando el sabor lo aporta otra cosa."
+      },
+      "en": {
+       "to": "roasted chickpeas or puffed rice",
+       "note": "Only for crunch, when something else is carrying the flavor."
+      }
+     }
+    ]
+   }
+  },
+  "pecan": {
+   "a": [
+    "treenut"
+   ],
+   "s": {
+    "treenut": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "semillas de girasol o calabaza tostadas",
+       "note": "Tuéstalas bien: de ahí sale realmente el sabor a fruto seco."
+      },
+      "en": {
+       "to": "toasted sunflower or pumpkin seeds",
+       "note": "Toast them well: that's where the nutty flavor actually comes from."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "garbanzos tostados o arroz inflado",
+       "note": "Solo para el crujiente, cuando el sabor lo aporta otra cosa."
+      },
+      "en": {
+       "to": "roasted chickpeas or puffed rice",
+       "note": "Only for crunch, when something else is carrying the flavor."
+      }
+     }
+    ]
+   }
+  },
+  "almondflour": {
+   "a": [
+    "treenut"
+   ],
+   "s": {
+    "treenut": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "harina de semillas de girasol",
+       "note": "Muele las semillas finas. Misma grasa y mismo comportamiento; vuelve a aplicar el aviso del color verde."
+      },
+      "en": {
+       "to": "sunflower seed flour",
+       "note": "Grind the seeds fine. Same fat, same behavior; the green-color warning applies again."
+      }
+     },
+     {
+      "f": 0.9,
+      "carries": [
+       "corn"
+      ],
+      "es": {
+       "to": "polenta fina",
+       "note": "Más seca: añade 1 cdta de aceite por cada 50 g."
+      },
+      "en": {
+       "to": "fine polenta",
+       "note": "Drier: add 1 tsp oil per 50 g."
+      }
+     },
+     {
+      "f": 0.9,
+      "carries": [],
+      "may": [
+       "wheat"
+      ],
+      "es": {
+       "to": "harina de avena certificada sin gluten",
+       "note": "Más seca: añade 1 cdta de aceite por cada 50 g."
+      },
+      "en": {
+       "to": "certified gluten-free oat flour",
+       "note": "Drier: add 1 tsp oil per 50 g."
+      }
+     }
+    ]
+   }
+  },
+  "tahini": {
+   "a": [
+    "sesame"
+   ],
+   "s": {
+    "sesame": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "mantequilla o semillas de girasol tostadas",
+       "note": "Más suave y menos amarga, así que reduce un poco el limón."
+      },
+      "en": {
+       "to": "toasted sunflower seed butter or seeds",
+       "note": "Milder and less bitter, so ease off the lemon a little."
+      }
+     }
+    ]
+   }
+  },
+  "sesameseed": {
+   "a": [
+    "sesame"
+   ],
+   "s": {
+    "sesame": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "mantequilla o semillas de girasol tostadas",
+       "note": "Más suave y menos amarga, así que reduce un poco el limón."
+      },
+      "en": {
+       "to": "toasted sunflower seed butter or seeds",
+       "note": "Milder and less bitter, so ease off the lemon a little."
+      }
+     }
+    ]
+   }
+  },
+  "sesameoil": {
+   "a": [
+    "sesame"
+   ],
+   "s": {
+    "sesame": [
+     {
+      "f": 0.7,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "aceite de nuez tostada",
+       "note": "Lo más cercano en aroma. Frutos secos."
+      },
+      "en": {
+       "to": "toasted walnut oil",
+       "note": "The closest in aroma."
+      }
+     },
+     {
+      "f": 0,
+      "carries": [],
+      "es": {
+       "to": "sin sustituto — omítelo",
+       "note": "El aroma del aceite de sésamo tostado no tiene equivalente real. El plato funciona sin él; no intentes fingirlo con aceite neutro."
+      },
+      "en": {
+       "to": "no substitute — leave it out",
+       "note": "Toasted sesame oil's aroma has no real equivalent. The dish works without it; don't try to fake it with neutral oil."
+      }
+     }
+    ]
+   }
+  },
+  "fishsauce": {
+   "a": [
+    "fish"
+   ],
+   "s": {
+    "fish": [
+     {
+      "f": 1,
+      "carries": [
+       "soy",
+       "wheat"
+      ],
+      "es": {
+       "to": "salsa de soja + jugo de lima + una pizca de azúcar (2:1)",
+       "note": "Cubre sal, acidez y umami. Soja y Trigo."
+      },
+      "en": {
+       "to": "soy sauce + lime juice + a pinch of sugar (2:1)",
+       "note": "Covers salt, acidity and umami."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "sazonador de hongos + sal + alga",
+       "note": "También libre de soja. Infusiona 10 min y cuela."
+      },
+      "en": {
+       "to": "mushroom seasoning + salt + seaweed",
+       "note": "Soy-free too. Steep 10 min and strain."
+      },
+      "may": [
+       "soy",
+       "wheat"
+      ]
+     }
+    ]
+   }
+  },
+  "anchovy": {
+   "a": [
+    "fish"
+   ],
+   "s": {
+    "fish": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "alcaparras + 1 cdta de su salmuera",
+       "note": "Sal y punzada."
+      },
+      "en": {
+       "to": "capers + 1 tsp of their brine",
+       "note": "Salt and punch."
+      },
+      "may": [
+       "sulphite"
+      ]
+     },
+     {
+      "f": 0.5,
+      "carries": [
+       "soy"
+      ],
+      "es": {
+       "to": "miso blanco",
+       "note": "Aporta el fondo umami que las alcaparras no tienen. Soja."
+      },
+      "en": {
+       "to": "white miso",
+       "note": "Brings the umami depth capers don't have."
+      },
+      "may": [
+       "wheat"
+      ]
+     }
+    ]
+   }
+  },
+  "dashi": {
+   "a": [
+    "fish"
+   ],
+   "s": {
+    "fish": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "dashi de kombu y shiitake seco",
+       "note": "Remoja el kombu 30 min en agua fría, calienta a 60 °C, añade el shiitake y reposa 20 min. Muy sabroso y del todo vegetal."
+      },
+      "en": {
+       "to": "kombu and dried shiitake dashi",
+       "note": "Soak the kombu 30 min in cold water, heat to 60 °C, add the shiitake and steep 20 min. Deeply savory and entirely plant-based."
+      }
+     }
+    ]
+   }
+  },
+  "katsuobushi": {
+   "a": [
+    "fish"
+   ],
+   "s": {
+    "fish": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "dashi de kombu y shiitake seco",
+       "note": "Remoja el kombu 30 min en agua fría, calienta a 60 °C, añade el shiitake y reposa 20 min. Muy sabroso y del todo vegetal."
+      },
+      "en": {
+       "to": "kombu and dried shiitake dashi",
+       "note": "Soak the kombu 30 min in cold water, heat to 60 °C, add the shiitake and steep 20 min. Deeply savory and entirely plant-based."
+      }
+     }
+    ]
+   }
+  },
+  "whitefish": {
+   "a": [
+    "fish"
+   ],
+   "s": {
+    "fish": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "seta cardo gruesa o palmitos marinados",
+       "note": "Sella fuerte y termina en la salsa. Un trozo de nori aporta la nota marina."
+      },
+      "en": {
+       "to": "thick-cut king oyster mushroom or marinated hearts of palm",
+       "note": "Sear hard and finish in the sauce. A piece of nori brings the taste of the sea."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "soy"
+      ],
+      "es": {
+       "to": "tofu firme prensado",
+       "note": "Para todo lo escalfado o al curry. Soja."
+      },
+      "en": {
+       "to": "pressed firm tofu",
+       "note": "For anything poached or curried."
+      }
+     }
+    ]
+   }
+  },
+  "salmon": {
+   "a": [
+    "fish"
+   ],
+   "s": {
+    "fish": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "seta cardo gruesa o palmitos marinados",
+       "note": "Sella fuerte y termina en la salsa. Un trozo de nori aporta la nota marina."
+      },
+      "en": {
+       "to": "thick-cut king oyster mushroom or marinated hearts of palm",
+       "note": "Sear hard and finish in the sauce. A piece of nori brings the taste of the sea."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "soy"
+      ],
+      "es": {
+       "to": "tofu firme prensado",
+       "note": "Para todo lo escalfado o al curry. Soja."
+      },
+      "en": {
+       "to": "pressed firm tofu",
+       "note": "For anything poached or curried."
+      }
+     }
+    ]
+   }
+  },
+  "tuna": {
+   "a": [
+    "fish"
+   ],
+   "s": {
+    "fish": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "seta cardo gruesa o palmitos marinados",
+       "note": "Sella fuerte y termina en la salsa. Un trozo de nori aporta la nota marina."
+      },
+      "en": {
+       "to": "thick-cut king oyster mushroom or marinated hearts of palm",
+       "note": "Sear hard and finish in the sauce. A piece of nori brings the taste of the sea."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "soy"
+      ],
+      "es": {
+       "to": "tofu firme prensado",
+       "note": "Para todo lo escalfado o al curry. Soja."
+      },
+      "en": {
+       "to": "pressed firm tofu",
+       "note": "For anything poached or curried."
+      }
+     }
+    ]
+   }
+  },
+  "shrimp": {
+   "a": [
+    "shellfish"
+   ],
+   "s": {
+    "shellfish": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "medallones de seta cardo marcados a cuchillo y sellados",
+       "note": "El corte hace que se ricen como camarones y agarren la salsa."
+      },
+      "en": {
+       "to": "scored, seared king oyster mushroom medallions",
+       "note": "The scoring makes them curl like shrimp and grab the sauce."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "palmitos",
+       "note": "Se deshojan de forma asombrosamente parecida en una crema o un rollo."
+      },
+      "en": {
+       "to": "hearts of palm",
+       "note": "They flake apart uncannily like the real thing in a bisque or a roll."
+      }
+     }
+    ]
+   }
+  },
+  "prawn": {
+   "a": [
+    "shellfish"
+   ],
+   "s": {
+    "shellfish": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "medallones de seta cardo marcados a cuchillo y sellados",
+       "note": "El corte hace que se ricen como camarones y agarren la salsa."
+      },
+      "en": {
+       "to": "scored, seared king oyster mushroom medallions",
+       "note": "The scoring makes them curl like shrimp and grab the sauce."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "palmitos",
+       "note": "Se deshojan de forma asombrosamente parecida en una crema o un rollo."
+      },
+      "en": {
+       "to": "hearts of palm",
+       "note": "They flake apart uncannily like the real thing in a bisque or a roll."
+      }
+     }
+    ]
+   }
+  },
+  "crab": {
+   "a": [
+    "shellfish"
+   ],
+   "s": {
+    "shellfish": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "medallones de seta cardo marcados a cuchillo y sellados",
+       "note": "El corte hace que se ricen como camarones y agarren la salsa."
+      },
+      "en": {
+       "to": "scored, seared king oyster mushroom medallions",
+       "note": "The scoring makes them curl like shrimp and grab the sauce."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "palmitos",
+       "note": "Se deshojan de forma asombrosamente parecida en una crema o un rollo."
+      },
+      "en": {
+       "to": "hearts of palm",
+       "note": "They flake apart uncannily like the real thing in a bisque or a roll."
+      }
+     }
+    ]
+   }
+  },
+  "lobster": {
+   "a": [
+    "shellfish"
+   ],
+   "s": {
+    "shellfish": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "medallones de seta cardo marcados a cuchillo y sellados",
+       "note": "El corte hace que se ricen como camarones y agarren la salsa."
+      },
+      "en": {
+       "to": "scored, seared king oyster mushroom medallions",
+       "note": "The scoring makes them curl like shrimp and grab the sauce."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "palmitos",
+       "note": "Se deshojan de forma asombrosamente parecida en una crema o un rollo."
+      },
+      "en": {
+       "to": "hearts of palm",
+       "note": "They flake apart uncannily like the real thing in a bisque or a roll."
+      }
+     }
+    ]
+   }
+  },
+  "crawfish": {
+   "a": [
+    "shellfish"
+   ],
+   "s": {
+    "shellfish": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "medallones de seta cardo marcados a cuchillo y sellados",
+       "note": "El corte hace que se ricen como camarones y agarren la salsa."
+      },
+      "en": {
+       "to": "scored, seared king oyster mushroom medallions",
+       "note": "The scoring makes them curl like shrimp and grab the sauce."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "palmitos",
+       "note": "Se deshojan de forma asombrosamente parecida en una crema o un rollo."
+      },
+      "en": {
+       "to": "hearts of palm",
+       "note": "They flake apart uncannily like the real thing in a bisque or a roll."
+      }
+     }
+    ]
+   }
+  },
+  "shrimppaste": {
+   "a": [
+    "shellfish"
+   ],
+   "s": {
+    "shellfish": [
+     {
+      "f": 1,
+      "carries": [
+       "soy"
+      ],
+      "es": {
+       "to": "miso blanco + nori tostada desmenuzada",
+       "note": "Sal, fondo fermentado y mar. Soja."
+      },
+      "en": {
+       "to": "white miso + crumbled toasted nori",
+       "note": "Salt, fermented depth and the sea."
+      },
+      "may": [
+       "wheat"
+      ]
+     }
+    ]
+   }
+  },
+  "clam": {
+   "a": [
+    "mollusc"
+   ],
+   "s": {
+    "mollusc": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "seta ostra sellada, con una tira de kombu en la olla",
+       "note": "El kombu aporta la profundidad mineral y salina."
+      },
+      "en": {
+       "to": "seared oyster mushrooms, with a strip of kombu in the pot",
+       "note": "The kombu brings the mineral, briny depth."
+      }
+     }
+    ]
+   }
+  },
+  "mussel": {
+   "a": [
+    "mollusc"
+   ],
+   "s": {
+    "mollusc": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "seta ostra sellada, con una tira de kombu en la olla",
+       "note": "El kombu aporta la profundidad mineral y salina."
+      },
+      "en": {
+       "to": "seared oyster mushrooms, with a strip of kombu in the pot",
+       "note": "The kombu brings the mineral, briny depth."
+      }
+     }
+    ]
+   }
+  },
+  "squid": {
+   "a": [
+    "mollusc"
+   ],
+   "s": {
+    "mollusc": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "seta ostra sellada, con una tira de kombu en la olla",
+       "note": "El kombu aporta la profundidad mineral y salina."
+      },
+      "en": {
+       "to": "seared oyster mushrooms, with a strip of kombu in the pot",
+       "note": "The kombu brings the mineral, briny depth."
+      }
+     }
+    ]
+   }
+  },
+  "scallop": {
+   "a": [
+    "mollusc"
+   ],
+   "s": {
+    "mollusc": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "seta ostra sellada, con una tira de kombu en la olla",
+       "note": "El kombu aporta la profundidad mineral y salina."
+      },
+      "en": {
+       "to": "seared oyster mushrooms, with a strip of kombu in the pot",
+       "note": "The kombu brings the mineral, briny depth."
+      }
+     }
+    ]
+   }
+  },
+  "oyster": {
+   "a": [
+    "mollusc"
+   ],
+   "s": {
+    "mollusc": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "seta ostra sellada, con una tira de kombu en la olla",
+       "note": "El kombu aporta la profundidad mineral y salina."
+      },
+      "en": {
+       "to": "seared oyster mushrooms, with a strip of kombu in the pot",
+       "note": "The kombu brings the mineral, briny depth."
+      }
+     }
+    ]
+   }
+  },
+  "mustard": {
+   "a": [
+    "mustard"
+   ],
+   "s": {
+    "mustard": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "es": {
+       "to": "1/2 cdta de miel por cada cdta de mostaza",
+       "note": "En una vinagreta el trabajo real de la mostaza es emulsionar, y la miel sostiene la emulsión casi igual de bien."
+      },
+      "en": {
+       "to": "1/2 tsp honey per tsp of mustard",
+       "note": "In a vinaigrette mustard's real job is emulsifying, and honey holds the emulsion almost as well."
+      }
+     },
+     {
+      "f": 0.5,
+      "carries": [],
+      "es": {
+       "to": "rábano picante fresco",
+       "note": "Si lo que buscabas era el picor y no la ligazón."
+      },
+      "en": {
+       "to": "fresh horseradish",
+       "note": "If you were after the heat, not the binding."
+      }
+     }
+    ]
+   }
+  },
+  "celery": {
+   "a": [
+    "celery"
+   ],
+   "s": {
+    "celery": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "tallo de hinojo",
+       "note": "Mismo crujido acuoso y misma base aromática."
+      },
+      "en": {
+       "to": "fennel stalk",
+       "note": "Same watery crunch, same aromatic base."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "nightshade"
+      ],
+      "es": {
+       "to": "pimiento verde",
+       "note": "Para un sofrito o la trinidad del gumbo. Solanácea."
+      },
+      "en": {
+       "to": "green bell pepper",
+       "note": "For a sofrito or the holy trinity in gumbo."
+      }
+     }
+    ]
+   }
+  },
+  "wine": {
+   "a": [
+    "alcohol",
+    "sulphite"
+   ],
+   "s": {
+    "alcohol": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "caldo + 1 cdta de vinagre por cada 60 ml",
+       "note": "Desglasa y aporta la acidez. Añade un poco más al final: pierdes el tanino del vino."
+      },
+      "en": {
+       "to": "stock + 1 tsp vinegar per 60 ml",
+       "note": "Deglazes and brings the acidity. Add a little more at the end: you lose the wine's tannin."
+      },
+      "may": [
+       "sulphite",
+       "celery",
+       "wheat"
+      ]
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "verjus o jugo de uva blanca + vinagre",
+       "note": "Lo más parecido al vino blanco."
+      },
+      "en": {
+       "to": "verjuice or white grape juice + vinegar",
+       "note": "The closest thing to white wine."
+      },
+      "may": [
+       "sulphite"
+      ]
+     }
+    ],
+    "sulphite": [
+     {
+      "f": 1,
+      "carries": [],
+      "may": [
+       "sulphite"
+      ],
+      "es": {
+       "to": "verjus etiquetado sin sulfitos añadidos",
+       "note": "Los sulfitos del vino dan más problemas de los que se suele pensar. Muchos vinagres (jerez, vino, a menudo manzana) también los llevan."
+      },
+      "en": {
+       "to": "verjuice labelled no added sulphites",
+       "note": "Wine sulphites cause more trouble than people think. Many vinegars (sherry, wine, often cider) contain them too."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "caldo casero + jugo de limón",
+       "note": "1 cdta de limón por cada 60 ml. Sin sulfitos y sin alcohol."
+      },
+      "en": {
+       "to": "homemade stock + lemon juice",
+       "note": "1 tsp lemon per 60 ml. No sulphites, no alcohol."
+      }
+     }
+    ]
+   }
+  },
+  "winered": {
+   "a": [
+    "alcohol",
+    "sulphite"
+   ],
+   "s": {
+    "alcohol": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "caldo + 1 cdta de vinagre por cada 60 ml",
+       "note": "Desglasa y aporta la acidez. Añade un poco más al final: pierdes el tanino del vino."
+      },
+      "en": {
+       "to": "stock + 1 tsp vinegar per 60 ml",
+       "note": "Deglazes and brings the acidity. Add a little more at the end: you lose the wine's tannin."
+      },
+      "may": [
+       "sulphite",
+       "celery",
+       "wheat"
+      ]
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "verjus o jugo de uva blanca + vinagre",
+       "note": "Lo más parecido al vino blanco."
+      },
+      "en": {
+       "to": "verjuice or white grape juice + vinegar",
+       "note": "The closest thing to white wine."
+      },
+      "may": [
+       "sulphite"
+      ]
+     }
+    ],
+    "sulphite": [
+     {
+      "f": 1,
+      "carries": [],
+      "may": [
+       "sulphite"
+      ],
+      "es": {
+       "to": "verjus etiquetado sin sulfitos añadidos",
+       "note": "Los sulfitos del vino dan más problemas de los que se suele pensar. Muchos vinagres (jerez, vino, a menudo manzana) también los llevan."
+      },
+      "en": {
+       "to": "verjuice labelled no added sulphites",
+       "note": "Wine sulphites cause more trouble than people think. Many vinegars (sherry, wine, often cider) contain them too."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "caldo casero + jugo de limón",
+       "note": "1 cdta de limón por cada 60 ml. Sin sulfitos y sin alcohol."
+      },
+      "en": {
+       "to": "homemade stock + lemon juice",
+       "note": "1 tsp lemon per 60 ml. No sulphites, no alcohol."
+      }
+     }
+    ]
+   }
+  },
+  "winewhite": {
+   "a": [
+    "alcohol",
+    "sulphite"
+   ],
+   "s": {
+    "alcohol": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "caldo + 1 cdta de vinagre por cada 60 ml",
+       "note": "Desglasa y aporta la acidez. Añade un poco más al final: pierdes el tanino del vino."
+      },
+      "en": {
+       "to": "stock + 1 tsp vinegar per 60 ml",
+       "note": "Deglazes and brings the acidity. Add a little more at the end: you lose the wine's tannin."
+      },
+      "may": [
+       "sulphite",
+       "celery",
+       "wheat"
+      ]
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "verjus o jugo de uva blanca + vinagre",
+       "note": "Lo más parecido al vino blanco."
+      },
+      "en": {
+       "to": "verjuice or white grape juice + vinegar",
+       "note": "The closest thing to white wine."
+      },
+      "may": [
+       "sulphite"
+      ]
+     }
+    ],
+    "sulphite": [
+     {
+      "f": 1,
+      "carries": [],
+      "may": [
+       "sulphite"
+      ],
+      "es": {
+       "to": "verjus etiquetado sin sulfitos añadidos",
+       "note": "Los sulfitos del vino dan más problemas de los que se suele pensar. Muchos vinagres (jerez, vino, a menudo manzana) también los llevan."
+      },
+      "en": {
+       "to": "verjuice labelled no added sulphites",
+       "note": "Wine sulphites cause more trouble than people think. Many vinegars (sherry, wine, often cider) contain them too."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "caldo casero + jugo de limón",
+       "note": "1 cdta de limón por cada 60 ml. Sin sulfitos y sin alcohol."
+      },
+      "en": {
+       "to": "homemade stock + lemon juice",
+       "note": "1 tsp lemon per 60 ml. No sulphites, no alcohol."
+      }
+     }
+    ]
+   }
+  },
+  "beer": {
+   "a": [
+    "alcohol",
+    "wheat",
+    "sulphite"
+   ],
+   "s": {
+    "alcohol": [
+     {
+      "f": 1,
+      "carries": [
+       "wheat"
+      ],
+      "may": [
+       "sulphite"
+      ],
+      "es": {
+       "to": "cerveza sin alcohol",
+       "note": "Sigue llevando cebada (gluten)."
+      },
+      "en": {
+       "to": "non-alcoholic beer",
+       "note": "Still made from barley (gluten)."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "may": [
+       "celery",
+       "wheat"
+      ],
+      "es": {
+       "to": "caldo + 1 cdta de melaza",
+       "note": "La melaza repone la malta."
+      },
+      "en": {
+       "to": "stock + 1 tsp molasses",
+       "note": "The molasses stands in for the malt."
+      }
+     }
+    ],
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [
+       "alcohol"
+      ],
+      "es": {
+       "to": "cerveza sin gluten o sidra",
+       "note": "La sidra aporta acidez: baja los otros elementos ácidos."
+      },
+      "en": {
+       "to": "gluten-free beer or hard cider",
+       "note": "Cider adds acidity: cut back on the other acidic elements."
+      },
+      "may": [
+       "sulphite"
+      ]
+     }
+    ]
+   }
+  },
+  "mirin": {
+   "a": [
+    "alcohol"
+   ],
+   "s": {
+    "alcohol": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "es": {
+       "to": "jugo de uva blanca + vinagre de arroz (3:1)",
+       "note": "Para el mirin, el azúcar importa tanto como el alcohol. Azúcar."
+      },
+      "en": {
+       "to": "white grape juice + rice vinegar (3:1)",
+       "note": "For mirin, the sugar matters as much as the alcohol."
+      },
+      "may": [
+       "sulphite"
+      ]
+     },
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "es": {
+       "to": "caldo + una pizca de azúcar",
+       "note": "Para el shaoxing en un braseado o un adobo. Azúcar."
+      },
+      "en": {
+       "to": "stock + a pinch of sugar",
+       "note": "For Shaoxing in a braise or a marinade."
+      },
+      "may": [
+       "celery",
+       "wheat"
+      ]
+     }
+    ]
+   },
+   "may": [
+    "corn"
+   ]
+  },
+  "sake": {
+   "a": [
+    "alcohol"
+   ],
+   "s": {
+    "alcohol": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "es": {
+       "to": "jugo de uva blanca + vinagre de arroz (3:1)",
+       "note": "Para el mirin, el azúcar importa tanto como el alcohol. Azúcar."
+      },
+      "en": {
+       "to": "white grape juice + rice vinegar (3:1)",
+       "note": "For mirin, the sugar matters as much as the alcohol."
+      },
+      "may": [
+       "sulphite"
+      ]
+     },
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "es": {
+       "to": "caldo + una pizca de azúcar",
+       "note": "Para el shaoxing en un braseado o un adobo. Azúcar."
+      },
+      "en": {
+       "to": "stock + a pinch of sugar",
+       "note": "For Shaoxing in a braise or a marinade."
+      },
+      "may": [
+       "celery",
+       "wheat"
+      ]
+     }
+    ]
+   }
+  },
+  "shaoxing": {
+   "a": [
+    "alcohol",
+    "wheat"
+   ],
+   "s": {
+    "alcohol": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "es": {
+       "to": "jugo de uva blanca + vinagre de arroz (3:1)",
+       "note": "Para el mirin, el azúcar importa tanto como el alcohol. Azúcar."
+      },
+      "en": {
+       "to": "white grape juice + rice vinegar (3:1)",
+       "note": "For mirin, the sugar matters as much as the alcohol."
+      },
+      "may": [
+       "sulphite"
+      ]
+     },
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "es": {
+       "to": "caldo + una pizca de azúcar",
+       "note": "Para el shaoxing en un braseado o un adobo. Azúcar."
+      },
+      "en": {
+       "to": "stock + a pinch of sugar",
+       "note": "For Shaoxing in a braise or a marinade."
+      },
+      "may": [
+       "celery",
+       "wheat"
+      ]
+     }
+    ]
+   }
+  },
+  "bacon": {
+   "a": [
+    "pork"
+   ],
+   "s": {
+    "pork": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "tocino de res o pavo ahumado",
+       "note": "Suelta menos grasa: empieza con una cucharada de aceite."
+      },
+      "en": {
+       "to": "beef bacon or smoked turkey",
+       "note": "Renders less fat: start with a tablespoon of oil."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "nightshade"
+      ],
+      "es": {
+       "to": "hongos ahumados + 1/2 cdta de pimentón ahumado",
+       "note": "El humo y el umami sin carne. Solanácea."
+      },
+      "en": {
+       "to": "smoked mushrooms + 1/2 tsp smoked paprika",
+       "note": "The smoke and umami without the meat."
+      }
+     }
+    ]
+   }
+  },
+  "pancetta": {
+   "a": [
+    "pork"
+   ],
+   "s": {
+    "pork": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "tocino de res o pavo ahumado",
+       "note": "Suelta menos grasa: empieza con una cucharada de aceite."
+      },
+      "en": {
+       "to": "beef bacon or smoked turkey",
+       "note": "Renders less fat: start with a tablespoon of oil."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "nightshade"
+      ],
+      "es": {
+       "to": "hongos ahumados + 1/2 cdta de pimentón ahumado",
+       "note": "El humo y el umami sin carne. Solanácea."
+      },
+      "en": {
+       "to": "smoked mushrooms + 1/2 tsp smoked paprika",
+       "note": "The smoke and umami without the meat."
+      }
+     }
+    ]
+   }
+  },
+  "guanciale": {
+   "a": [
+    "pork"
+   ],
+   "s": {
+    "pork": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "tocino de res o pavo ahumado",
+       "note": "Suelta menos grasa: empieza con una cucharada de aceite."
+      },
+      "en": {
+       "to": "beef bacon or smoked turkey",
+       "note": "Renders less fat: start with a tablespoon of oil."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "nightshade"
+      ],
+      "es": {
+       "to": "hongos ahumados + 1/2 cdta de pimentón ahumado",
+       "note": "El humo y el umami sin carne. Solanácea."
+      },
+      "en": {
+       "to": "smoked mushrooms + 1/2 tsp smoked paprika",
+       "note": "The smoke and umami without the meat."
+      }
+     }
+    ]
+   }
+  },
+  "ham": {
+   "a": [
+    "pork"
+   ],
+   "s": {
+    "pork": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "tocino de res o pavo ahumado",
+       "note": "Suelta menos grasa: empieza con una cucharada de aceite."
+      },
+      "en": {
+       "to": "beef bacon or smoked turkey",
+       "note": "Renders less fat: start with a tablespoon of oil."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "nightshade"
+      ],
+      "es": {
+       "to": "hongos ahumados + 1/2 cdta de pimentón ahumado",
+       "note": "El humo y el umami sin carne. Solanácea."
+      },
+      "en": {
+       "to": "smoked mushrooms + 1/2 tsp smoked paprika",
+       "note": "The smoke and umami without the meat."
+      }
+     }
+    ]
+   }
+  },
+  "prosciutto": {
+   "a": [
+    "pork"
+   ],
+   "s": {
+    "pork": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "tocino de res o pavo ahumado",
+       "note": "Suelta menos grasa: empieza con una cucharada de aceite."
+      },
+      "en": {
+       "to": "beef bacon or smoked turkey",
+       "note": "Renders less fat: start with a tablespoon of oil."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "nightshade"
+      ],
+      "es": {
+       "to": "hongos ahumados + 1/2 cdta de pimentón ahumado",
+       "note": "El humo y el umami sin carne. Solanácea."
+      },
+      "en": {
+       "to": "smoked mushrooms + 1/2 tsp smoked paprika",
+       "note": "The smoke and umami without the meat."
+      }
+     }
+    ]
+   }
+  },
+  "chorizo": {
+   "a": [
+    "pork",
+    "nightshade"
+   ],
+   "s": {
+    "pork": [
+     {
+      "f": 1,
+      "carries": [
+       "nightshade"
+      ],
+      "es": {
+       "to": "chorizo de res o de pollo",
+       "note": "Muy común; mismo perfil de especias."
+      },
+      "en": {
+       "to": "beef or chicken chorizo",
+       "note": "Very common; same spice profile."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "nightshade"
+      ],
+      "es": {
+       "to": "pimentón ahumado + hinojo + ajo en aceite",
+       "note": "Fríelos para obtener una grasa con sabor a chorizo. Solanácea."
+      },
+      "en": {
+       "to": "smoked paprika + fennel + garlic in oil",
+       "note": "Fry them for a chorizo-flavored fat."
+      }
+     }
+    ]
+   }
+  },
+  "lard": {
+   "a": [
+    "pork"
+   ],
+   "s": {
+    "pork": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "sebo de res",
+       "note": "Misma solidez para masas quebradas."
+      },
+      "en": {
+       "to": "beef tallow",
+       "note": "Same firmness for short pastry."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "coconut"
+      ],
+      "es": {
+       "to": "aceite de coco refinado",
+       "note": "Misma solidez; el refinado no sabe a coco."
+      },
+      "en": {
+       "to": "refined coconut oil",
+       "note": "Same firmness; refined doesn't taste of coconut."
+      }
+     }
+    ]
+   }
+  },
+  "gelatin": {
+   "a": [
+    "gelatin"
+   ],
+   "s": {
+    "gelatin": [
+     {
+      "f": 0.33,
+      "carries": [],
+      "es": {
+       "to": "agar agar en polvo",
+       "note": "Un tercio del peso, y debe hervir 2 minutos para activarse. Cuaja firme y cortable en vez de fundirse en la boca, así que reduce más para algo tipo mousse."
+      },
+      "en": {
+       "to": "agar agar powder",
+       "note": "A third of the weight, and it must boil for 2 minutes to activate. Sets firm and sliceable instead of melting in the mouth, so cut it back further for anything mousse-like."
+      }
+     }
+    ]
+   }
+  },
+  "honey": {
+   "a": [
+    "honey",
+    "sugar"
+   ],
+   "s": {
+    "honey": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "es": {
+       "to": "jarabe de arce",
+       "note": "Más fluido y menos floral; reduce el resto del líquido una cucharada. Azúcar."
+      },
+      "en": {
+       "to": "maple syrup",
+       "note": "Thinner and less floral; cut the other liquid by a tablespoon."
+      }
+     }
+    ],
+    "sugar": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "jarabe de alulosa o de monk fruit",
+       "note": "Cuerpo parecido. La miel además retiene mucha humedad, así que añade 1 cdta de glicerina si el horneado debe quedar tierno."
+      },
+      "en": {
+       "to": "allulose or monk fruit syrup",
+       "note": "Similar body. Honey also holds a lot of moisture, so add 1 tsp glycerin if the bake needs to stay soft."
+      }
+     }
+    ]
+   }
+  },
+  "cornstarch": {
+   "a": [
+    "corn"
+   ],
+   "s": {
+    "corn": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "arrurruz",
+       "note": "Más brillante, pero se rompe si hierve fuerte o se mantiene mucho tiempo."
+      },
+      "en": {
+       "to": "arrowroot",
+       "note": "Glossier, but breaks down if boiled hard or held too long."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "almidón de tapioca",
+       "note": "Más filante, ideal en rellenos de fruta."
+      },
+      "en": {
+       "to": "tapioca starch",
+       "note": "Stretchier; ideal in fruit fillings."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "nightshade"
+      ],
+      "es": {
+       "to": "almidón de papa",
+       "note": "Espesa rápido a menos calor; nunca lo hiervas."
+      },
+      "en": {
+       "to": "potato starch",
+       "note": "Thickens fast at lower heat; never boil it."
+      }
+     }
+    ]
+   }
+  },
+  "cornmeal": {
+   "a": [
+    "corn"
+   ],
+   "s": {
+    "corn": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "harina de mijo",
+       "note": "Misma textura de grano, sabor más suave."
+      },
+      "en": {
+       "to": "millet flour",
+       "note": "Same grainy texture, milder flavour."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "wheat"
+      ],
+      "es": {
+       "to": "sémola fina de trigo",
+       "note": "Misma textura de grano. Lleva trigo."
+      },
+      "en": {
+       "to": "fine wheat semolina",
+       "note": "Same grainy texture. Contains wheat."
+      }
+     }
+    ]
+   }
+  },
+  "polenta": {
+   "a": [
+    "corn"
+   ],
+   "s": {
+    "corn": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "harina de mijo",
+       "note": "Misma textura de grano, sabor más suave."
+      },
+      "en": {
+       "to": "millet flour",
+       "note": "Same grainy texture, milder flavour."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "wheat"
+      ],
+      "es": {
+       "to": "sémola fina de trigo",
+       "note": "Misma textura de grano. Lleva trigo."
+      },
+      "en": {
+       "to": "fine wheat semolina",
+       "note": "Same grainy texture. Contains wheat."
+      }
+     }
+    ]
+   }
+  },
+  "masa": {
+   "a": [
+    "corn"
+   ],
+   "s": {
+    "corn": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "tortillas o masa de harina de yuca",
+       "note": "La yuca da una tortilla flexible sin maíz ni trigo. Caliéntalas bien en comal seco."
+      },
+      "en": {
+       "to": "cassava flour tortillas or dough",
+       "note": "Cassava makes a pliable tortilla with no corn or wheat. Heat them well on a dry pan."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "wheat"
+      ],
+      "es": {
+       "to": "tortillas de harina de trigo",
+       "note": "Otro plato, pero el mismo uso."
+      },
+      "en": {
+       "to": "wheat flour tortillas",
+       "note": "A different result, same job."
+      }
+     }
+    ]
+   }
+  },
+  "corn": {
+   "a": [
+    "corn"
+   ],
+   "s": {
+    "corn": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "chícharos",
+       "note": "Mismo dulzor y mismo color alegre en el plato."
+      },
+      "en": {
+       "to": "green peas",
+       "note": "Same sweetness and the same pop of colour."
+      }
+     }
+    ]
+   }
+  },
+  "corntortilla": {
+   "a": [
+    "corn"
+   ],
+   "s": {
+    "corn": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "tortillas o masa de harina de yuca",
+       "note": "La yuca da una tortilla flexible sin maíz ni trigo. Caliéntalas bien en comal seco."
+      },
+      "en": {
+       "to": "cassava flour tortillas or dough",
+       "note": "Cassava makes a pliable tortilla with no corn or wheat. Heat them well on a dry pan."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "wheat"
+      ],
+      "es": {
+       "to": "tortillas de harina de trigo",
+       "note": "Otro plato, pero el mismo uso."
+      },
+      "en": {
+       "to": "wheat flour tortillas",
+       "note": "A different result, same job."
+      }
+     }
+    ]
+   }
+  },
+  "coconutmilk": {
+   "a": [
+    "coconut"
+   ],
+   "s": {
+    "coconut": [
+     {
+      "f": 1,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "crema de anacardo",
+       "note": "Misma untuosidad, sabor neutro. Frutos secos."
+      },
+      "en": {
+       "to": "cashew cream",
+       "note": "Same richness, neutral flavor."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "sesame"
+      ],
+      "es": {
+       "to": "crema de avena + 1 cda de tahini",
+       "note": "Sin frutos secos. El tahini devuelve la redondez grasa. Sésamo."
+      },
+      "en": {
+       "to": "oat cream + 1 tbsp tahini",
+       "note": "Nut-free. The tahini brings back the rich roundness."
+      },
+      "may": [
+       "wheat"
+      ]
+     }
+    ]
+   }
+  },
+  "coconutcream": {
+   "a": [
+    "coconut"
+   ],
+   "s": {
+    "coconut": [
+     {
+      "f": 1,
+      "carries": [
+       "treenut"
+      ],
+      "es": {
+       "to": "crema de anacardo",
+       "note": "Misma untuosidad, sabor neutro. Frutos secos."
+      },
+      "en": {
+       "to": "cashew cream",
+       "note": "Same richness, neutral flavor."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "sesame"
+      ],
+      "es": {
+       "to": "crema de avena + 1 cda de tahini",
+       "note": "Sin frutos secos. El tahini devuelve la redondez grasa. Sésamo."
+      },
+      "en": {
+       "to": "oat cream + 1 tbsp tahini",
+       "note": "Nut-free. The tahini brings back the rich roundness."
+      },
+      "may": [
+       "wheat"
+      ]
+     }
+    ]
+   }
+  },
+  "coconutoil": {
+   "a": [
+    "coconut"
+   ],
+   "s": {
+    "coconut": [
+     {
+      "f": 1,
+      "carries": [],
+      "may": [
+       "soy"
+      ],
+      "es": {
+       "to": "manteca vegetal",
+       "note": "Sólida a temperatura ambiente, que suele ser el motivo de usar coco."
+      },
+      "en": {
+       "to": "vegetable shortening",
+       "note": "Solid at room temperature, which is usually why coconut oil was used."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "may": [
+       "soy",
+       "treenut",
+       "coconut"
+      ],
+      "es": {
+       "to": "mantequilla vegana en bloque",
+       "note": "Revisa que no sea a base de coco."
+      },
+      "en": {
+       "to": "vegan block butter",
+       "note": "Check it isn't coconut-based."
+      }
+     }
+    ]
+   }
+  },
+  "desiccatedcoconut": {
+   "a": [
+    "coconut"
+   ],
+   "s": {
+    "coconut": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "avena molida con un poco de aceite, tostada",
+       "note": "Solo textura, sin perfume."
+      },
+      "en": {
+       "to": "ground oats with a little oil, toasted",
+       "note": "Texture only, no aroma."
+      },
+      "may": [
+       "wheat"
+      ]
+     }
+    ]
+   }
+  },
+  "onion": {
+   "a": [
+    "allium"
+   ],
+   "s": {
+    "allium": [
+     {
+      "f": 1,
+      "carries": [
+       "wheat"
+      ],
+      "es": {
+       "to": "1/4 cdta de asafétida (hing) por cebolla, abierta en grasa caliente",
+       "note": "El recurso clásico de la cocina india, y muy bueno. Revisa el bote: casi toda la asafétida va cortada con harina de trigo."
+      },
+      "en": {
+       "to": "1/4 tsp asafoetida (hing) per onion, bloomed in hot fat",
+       "note": "The classic Indian-kitchen move, and a very good one. Check the jar: most asafoetida is cut with wheat flour."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "bulbo de hinojo en dados finos",
+       "note": "Da la base aromática dulce sin los fructanos."
+      },
+      "en": {
+       "to": "finely diced fennel bulb",
+       "note": "Gives the sweet aromatic base without the fructans."
+      }
+     }
+    ]
+   }
+  },
+  "shallot": {
+   "a": [
+    "allium"
+   ],
+   "s": {
+    "allium": [
+     {
+      "f": 1,
+      "carries": [
+       "wheat"
+      ],
+      "es": {
+       "to": "1/4 cdta de asafétida (hing) por cebolla, abierta en grasa caliente",
+       "note": "El recurso clásico de la cocina india, y muy bueno. Revisa el bote: casi toda la asafétida va cortada con harina de trigo."
+      },
+      "en": {
+       "to": "1/4 tsp asafoetida (hing) per onion, bloomed in hot fat",
+       "note": "The classic Indian-kitchen move, and a very good one. Check the jar: most asafoetida is cut with wheat flour."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "bulbo de hinojo en dados finos",
+       "note": "Da la base aromática dulce sin los fructanos."
+      },
+      "en": {
+       "to": "finely diced fennel bulb",
+       "note": "Gives the sweet aromatic base without the fructans."
+      }
+     }
+    ]
+   }
+  },
+  "leek": {
+   "a": [
+    "allium"
+   ],
+   "s": {
+    "allium": [
+     {
+      "f": 1,
+      "carries": [
+       "wheat"
+      ],
+      "es": {
+       "to": "1/4 cdta de asafétida (hing) por cebolla, abierta en grasa caliente",
+       "note": "El recurso clásico de la cocina india, y muy bueno. Revisa el bote: casi toda la asafétida va cortada con harina de trigo."
+      },
+      "en": {
+       "to": "1/4 tsp asafoetida (hing) per onion, bloomed in hot fat",
+       "note": "The classic Indian-kitchen move, and a very good one. Check the jar: most asafoetida is cut with wheat flour."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "bulbo de hinojo en dados finos",
+       "note": "Da la base aromática dulce sin los fructanos."
+      },
+      "en": {
+       "to": "finely diced fennel bulb",
+       "note": "Gives the sweet aromatic base without the fructans."
+      }
+     }
+    ]
+   }
+  },
+  "scallion": {
+   "a": [
+    "allium"
+   ],
+   "s": {
+    "allium": [
+     {
+      "f": 1,
+      "carries": [
+       "wheat"
+      ],
+      "es": {
+       "to": "1/4 cdta de asafétida (hing) por cebolla, abierta en grasa caliente",
+       "note": "El recurso clásico de la cocina india, y muy bueno. Revisa el bote: casi toda la asafétida va cortada con harina de trigo."
+      },
+      "en": {
+       "to": "1/4 tsp asafoetida (hing) per onion, bloomed in hot fat",
+       "note": "The classic Indian-kitchen move, and a very good one. Check the jar: most asafoetida is cut with wheat flour."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "bulbo de hinojo en dados finos",
+       "note": "Da la base aromática dulce sin los fructanos."
+      },
+      "en": {
+       "to": "finely diced fennel bulb",
+       "note": "Gives the sweet aromatic base without the fructans."
+      }
+     }
+    ]
+   }
+  },
+  "chive": {
+   "a": [
+    "allium"
+   ],
+   "s": {
+    "allium": [
+     {
+      "f": 1,
+      "carries": [
+       "wheat"
+      ],
+      "es": {
+       "to": "1/4 cdta de asafétida (hing) por cebolla, abierta en grasa caliente",
+       "note": "El recurso clásico de la cocina india, y muy bueno. Revisa el bote: casi toda la asafétida va cortada con harina de trigo."
+      },
+      "en": {
+       "to": "1/4 tsp asafoetida (hing) per onion, bloomed in hot fat",
+       "note": "The classic Indian-kitchen move, and a very good one. Check the jar: most asafoetida is cut with wheat flour."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "bulbo de hinojo en dados finos",
+       "note": "Da la base aromática dulce sin los fructanos."
+      },
+      "en": {
+       "to": "finely diced fennel bulb",
+       "note": "Gives the sweet aromatic base without the fructans."
+      }
+     }
+    ]
+   }
+  },
+  "garlic": {
+   "a": [
+    "allium"
+   ],
+   "s": {
+    "allium": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "aceite infusionado con ajo",
+       "note": "Los compuestos de sabor son liposolubles y los fructanos no, así que el aceite infusionado es apto en dieta baja en FODMAP y sabe a ajo. Apto para dieta baja en FODMAP, NO para alergia al ajo."
+      },
+      "en": {
+       "to": "garlic-infused oil",
+       "note": "The flavour compounds are fat-soluble and the fructans aren't, so infused oil is low-FODMAP and still tastes of garlic. Fine for low-FODMAP, NOT for a garlic allergy."
+      },
+      "may": [
+       "allium"
+      ]
+     },
+     {
+      "f": 1,
+      "carries": [
+       "wheat"
+      ],
+      "es": {
+       "to": "1/8 cdta de asafétida por diente",
+       "note": "Ábrela primero en grasa."
+      },
+      "en": {
+       "to": "1/8 tsp asafoetida per clove",
+       "note": "Bloom it in fat first."
+      }
+     }
+    ]
+   }
+  },
+  "tomato": {
+   "a": [
+    "nightshade"
+   ],
+   "s": {
+    "nightshade": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "remolacha asada + zanahoria + 1 cdta de vinagre de vino tinto",
+       "note": "La base 'sin tomate' estándar: dulce, roja y ácida. Tritúrala fina."
+      },
+      "en": {
+       "to": "roasted beet + carrot + 1 tsp red wine vinegar",
+       "note": "The standard 'no-mato' base: sweet, red and tangy. Blend it smooth."
+      },
+      "may": [
+       "sulphite"
+      ]
+     }
+    ]
+   }
+  },
+  "tomatopaste": {
+   "a": [
+    "nightshade"
+   ],
+   "s": {
+    "nightshade": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "remolacha asada + zanahoria + 1 cdta de vinagre de vino tinto",
+       "note": "La base 'sin tomate' estándar: dulce, roja y ácida. Tritúrala fina."
+      },
+      "en": {
+       "to": "roasted beet + carrot + 1 tsp red wine vinegar",
+       "note": "The standard 'no-mato' base: sweet, red and tangy. Blend it smooth."
+      },
+      "may": [
+       "sulphite"
+      ]
+     }
+    ]
+   }
+  },
+  "paprika": {
+   "a": [
+    "nightshade"
+   ],
+   "s": {
+    "nightshade": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "remolacha en polvo para el color + pimienta blanca y jengibre para el picor",
+       "note": "Nada replica la capsaicina. Construye el picor con pimienta, jengibre y rábano picante."
+      },
+      "en": {
+       "to": "beet powder for color + white pepper and ginger for heat",
+       "note": "Nothing replicates capsaicin. Build the heat from pepper, ginger and horseradish."
+      }
+     }
+    ]
+   }
+  },
+  "cayenne": {
+   "a": [
+    "nightshade"
+   ],
+   "s": {
+    "nightshade": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "remolacha en polvo para el color + pimienta blanca y jengibre para el picor",
+       "note": "Nada replica la capsaicina. Construye el picor con pimienta, jengibre y rábano picante."
+      },
+      "en": {
+       "to": "beet powder for color + white pepper and ginger for heat",
+       "note": "Nothing replicates capsaicin. Build the heat from pepper, ginger and horseradish."
+      }
+     }
+    ]
+   }
+  },
+  "gochugaru": {
+   "a": [
+    "nightshade"
+   ],
+   "s": {
+    "nightshade": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "remolacha en polvo para el color + pimienta blanca y jengibre para el picor",
+       "note": "Nada replica la capsaicina. Construye el picor con pimienta, jengibre y rábano picante."
+      },
+      "en": {
+       "to": "beet powder for color + white pepper and ginger for heat",
+       "note": "Nothing replicates capsaicin. Build the heat from pepper, ginger and horseradish."
+      }
+     }
+    ]
+   }
+  },
+  "chipotle": {
+   "a": [
+    "nightshade"
+   ],
+   "s": {
+    "nightshade": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "remolacha en polvo para el color + pimienta blanca y jengibre para el picor",
+       "note": "Nada replica la capsaicina. Construye el picor con pimienta, jengibre y rábano picante."
+      },
+      "en": {
+       "to": "beet powder for color + white pepper and ginger for heat",
+       "note": "Nothing replicates capsaicin. Build the heat from pepper, ginger and horseradish."
+      }
+     }
+    ]
+   }
+  },
+  "ancho": {
+   "a": [
+    "nightshade"
+   ],
+   "s": {
+    "nightshade": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "remolacha en polvo para el color + pimienta blanca y jengibre para el picor",
+       "note": "Nada replica la capsaicina. Construye el picor con pimienta, jengibre y rábano picante."
+      },
+      "en": {
+       "to": "beet powder for color + white pepper and ginger for heat",
+       "note": "Nothing replicates capsaicin. Build the heat from pepper, ginger and horseradish."
+      }
+     }
+    ]
+   }
+  },
+  "chilli": {
+   "a": [
+    "nightshade"
+   ],
+   "s": {
+    "nightshade": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "remolacha en polvo para el color + pimienta blanca y jengibre para el picor",
+       "note": "Nada replica la capsaicina. Construye el picor con pimienta, jengibre y rábano picante."
+      },
+      "en": {
+       "to": "beet powder for color + white pepper and ginger for heat",
+       "note": "Nothing replicates capsaicin. Build the heat from pepper, ginger and horseradish."
+      }
+     }
+    ]
+   }
+  },
+  "potato": {
+   "a": [
+    "nightshade"
+   ],
+   "s": {
+    "nightshade": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "nabo o chirivía",
+       "note": "Se asa y se hace puré igual, algo más dulce."
+      },
+      "en": {
+       "to": "turnip or parsnip",
+       "note": "Roasts and mashes the same, a little sweeter."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [
+       "celery"
+      ],
+      "es": {
+       "to": "apionabo",
+       "note": "Muy buen puré. Es de la familia del apio."
+      },
+      "en": {
+       "to": "celeriac",
+       "note": "Makes a great mash. It is a type of celery."
+      }
+     }
+    ]
+   }
+  },
+  "bellpepper": {
+   "a": [
+    "nightshade"
+   ],
+   "s": {
+    "nightshade": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "calabacín o hinojo",
+       "note": "Cuerpo parecido una vez cocidos."
+      },
+      "en": {
+       "to": "zucchini or fennel",
+       "note": "Similar body once cooked."
+      }
+     }
+    ]
+   }
+  },
+  "eggplant": {
+   "a": [
+    "nightshade"
+   ],
+   "s": {
+    "nightshade": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "calabacín o hinojo",
+       "note": "Cuerpo parecido una vez cocidos."
+      },
+      "en": {
+       "to": "zucchini or fennel",
+       "note": "Similar body once cooked."
+      }
+     }
+    ]
+   }
+  },
+  "sugar": {
+   "a": [
+    "sugar"
+   ],
+   "s": {
+    "sugar": [
+     {
+      "f": 1.3,
+      "carries": [],
+      "es": {
+       "to": "alulosa",
+       "note": "Lo más parecido que existe. Es un azúcar real que dora y carameliza pero que el cuerpo casi no metaboliza. Usa un tercio más y baja el horno 10-15 °C: se colorea bastante antes que la sacarosa."
+      },
+      "en": {
+       "to": "allulose",
+       "note": "The closest thing there is. It's a real sugar that browns and caramelizes but the body barely metabolizes. Use a third more and drop the oven 10-15 °C: it colors well before sucrose does."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "mezcla de monk fruit y eritritol",
+       "note": "Se mide como el azúcar y sabe limpio. No carameliza y recristaliza al enfriar, así que espera un ligero crujido al día siguiente."
+      },
+      "en": {
+       "to": "monk fruit and erythritol blend",
+       "note": "Measures cup-for-cup like sugar and tastes clean. It doesn't caramelize and recrystallizes as it cools, so expect a slight crunch the next day."
+      }
+     },
+     {
+      "f": 1.3,
+      "carries": [],
+      "es": {
+       "to": "eritritol",
+       "note": "Barato y muy disponible, con una sensación fría clara en la lengua y cero dorado."
+      },
+      "en": {
+       "to": "erythritol",
+       "note": "Cheap and everywhere, with a distinct cooling feel on the tongue and zero browning."
+      }
+     }
+    ]
+   },
+   "sr": {
+    "spread": {
+     "sugar": [
+      {
+       "f": 1.3,
+       "carries": [],
+       "es": {
+        "to": "alulosa",
+        "note": "Las galletas con alulosa se extienden más, no menos, porque funde a menor temperatura. Enfría bien la masa y añade 2 cda de harina o tendrás una única lámina continua."
+       },
+       "en": {
+        "to": "allulose",
+        "note": "Allulose cookies spread more, not less, because it melts at a lower temperature. Chill the dough well and add 2 tbsp flour or you'll get one continuous sheet."
+       }
+      },
+      {
+       "f": 1,
+       "carries": [],
+       "es": {
+        "to": "mezcla de monk fruit y eritritol",
+        "note": "El problema contrario: apenas se extienden, así que aplasta las bolas antes de hornear o quedarán abombadas y arenosas."
+       },
+       "en": {
+        "to": "monk fruit and erythritol blend",
+        "note": "The opposite problem: they barely spread, so flatten the balls before baking or they'll bake up domed and sandy."
+       }
+      }
+     ]
+    },
+    "caramel": {
+     "sugar": [
+      {
+       "f": 1.3,
+       "carries": [],
+       "es": {
+        "to": "alulosa",
+        "note": "El único sustituto común que caramaliza de verdad. Dora antes y se quema antes: retíralo pronto."
+       },
+       "en": {
+        "to": "allulose",
+        "note": "The only common substitute that truly caramelizes. Browns sooner and burns sooner: pull it early."
+       }
+      },
+      {
+       "f": 0,
+       "carries": [],
+       "es": {
+        "to": "sin sustituto — replantea la receta",
+        "note": "Ni el eritritol, ni el xilitol, ni la estevia caramelizan a ninguna temperatura. Si el caramelo es el punto del plato, es alulosa o nada."
+       },
+       "en": {
+        "to": "no substitute — rethink the recipe",
+        "note": "Erythritol, xylitol and stevia don't caramelize at any temperature. If caramel is the point of the dish, it's allulose or nothing."
+       }
+      }
+     ]
+    },
+    "aerate": {
+     "sugar": [
+      {
+       "f": 1.3,
+       "carries": [],
+       "es": {
+        "to": "eritritol granulado o mezcla cristalina",
+        "note": "El cremado necesita cristales afilados que abran bolsas de aire en la mantequilla. Los edulcorantes en polvo o líquidos no pueden hacerlo."
+       },
+       "en": {
+        "to": "granulated erythritol or a crystalline blend",
+        "note": "Creaming needs sharp crystals to cut air pockets into the butter. Powdered or liquid sweeteners can't do it."
+       }
+      },
+      {
+       "f": 1.3,
+       "carries": [],
+       "es": {
+        "to": "alulosa",
+        "note": "Cristal más blando, así que incorpora menos aire. Bate dos minutos más para compensar."
+       },
+       "en": {
+        "to": "allulose",
+        "note": "Softer crystal, so it traps less air. Beat two minutes longer to make up for it."
+       }
+      }
+     ]
+    },
+    "moisture": {
+     "sugar": [
+      {
+       "f": 1.3,
+       "carries": [],
+       "es": {
+        "to": "alulosa",
+        "note": "Retiene el agua casi tan bien como el azúcar, por eso mantiene la miga tierna. El eritritol se reseca y se vuelve granuloso en un día."
+       },
+       "en": {
+        "to": "allulose",
+        "note": "Holds water almost as well as sugar, which is why it keeps the crumb tender. Erythritol dries out and turns gritty within a day."
+       }
+      },
+      {
+       "f": 1.3,
+       "carries": [],
+       "es": {
+        "to": "alulosa + 1 cdta de glicerina vegetal por cada 100 g",
+        "note": "La glicerina es muy higroscópica y mantiene tiernos los horneados sin azúcar durante días."
+       },
+       "en": {
+        "to": "allulose + 1 tsp vegetable glycerin per 100 g",
+        "note": "Glycerin is highly hygroscopic and keeps sugar-free bakes soft for days."
+       }
+      }
+     ]
+    },
+    "set": {
+     "sugar": [
+      {
+       "f": 1.3,
+       "carries": [],
+       "es": {
+        "to": "alulosa",
+        "note": "En natillas y helados baja el punto de congelación más que el azúcar, lo que da un helado más blando y fácil de servir."
+       },
+       "en": {
+        "to": "allulose",
+        "note": "In custards and ice cream it lowers the freezing point more than sugar does, giving a softer, more scoopable ice cream."
+       }
+      },
+      {
+       "f": 1,
+       "carries": [],
+       "es": {
+        "to": "mezcla de monk fruit",
+        "note": "Bien en una natilla; deja el helado duro como una piedra."
+       },
+       "en": {
+        "to": "monk fruit blend",
+        "note": "Fine in a custard; leaves ice cream rock-hard."
+       }
+      }
+     ]
+    },
+    "preserve": {
+     "sugar": [
+      {
+       "f": 1,
+       "carries": [],
+       "es": {
+        "to": "pectina de bajo metoxilo para mermeladas sin azúcar",
+        "note": "La mermelada normal cuaja por la alta concentración de azúcar. Sin ella necesitas una pectina que gelifique con calcio, y el bote vive en el refrigerador y se come en quince días."
+       },
+       "en": {
+        "to": "low-methoxyl pectin for sugar-free jams",
+        "note": "Regular jam sets because of its high sugar concentration. Without it you need a pectin that gels with calcium, and the jar lives in the fridge and gets eaten within two weeks."
+       }
+      }
+     ]
+    }
+   }
+  },
+  "brownsugar": {
+   "a": [
+    "sugar"
+   ],
+   "s": {
+    "sugar": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "sustituto de azúcar morena (alulosa con saborizante de melaza)",
+       "note": "Se vende hecho. La nota de melaza importa más de lo que parece: es casi todo lo que hace que una galleta masticable sepa a lo que sabe."
+      },
+      "en": {
+       "to": "brown sugar substitute (allulose with molasses flavoring)",
+       "note": "Sold ready-made. The molasses note matters more than you'd think: it's most of what makes a chewy cookie taste the way it does."
+      }
+     },
+     {
+      "f": 1.2,
+      "carries": [
+       "sugar"
+      ],
+      "es": {
+       "to": "alulosa + 1 cdta de melaza negra por cada 100 g",
+       "note": "La melaza es azúcar, pero una cucharadita aporta el sabor con una fracción de la carga. Azúcar."
+      },
+      "en": {
+       "to": "allulose + 1 tsp blackstrap molasses per 100 g",
+       "note": "Molasses is sugar, but a teaspoon brings the flavor at a fraction of the load."
+      }
+     }
+    ]
+   }
+  },
+  "icingsugar": {
+   "a": [
+    "sugar"
+   ],
+   "s": {
+    "sugar": [
+     {
+      "f": 1,
+      "carries": [
+       "corn"
+      ],
+      "es": {
+       "to": "eritritol o alulosa pulverizados",
+       "note": "Tritura el granulado en un molinillo si no lo encuentras en polvo. Añade 1 cdta de fécula de maíz por cada 100 g para que no se apelmace. Maíz."
+      },
+      "en": {
+       "to": "powdered erythritol or allulose",
+       "note": "Blitz the granulated kind in a grinder if you can't find it powdered. Add 1 tsp cornstarch per 100 g to keep it from clumping."
+      }
+     }
+    ]
+   }
+  },
+  "palmsugar": {
+   "a": [
+    "sugar"
+   ],
+   "s": {
+    "sugar": [
+     {
+      "f": 1.3,
+      "carries": [],
+      "es": {
+       "to": "alulosa + una pizca de sal y una gota de melaza",
+       "note": "El azúcar de palma es mineral y algo salado; la sal te acerca más que el dulzor."
+      },
+      "en": {
+       "to": "allulose + a pinch of salt and a drop of molasses",
+       "note": "Palm sugar is mineral and a little salty; the salt gets you closer than the sweetness does."
+      }
+     }
+    ]
+   }
+  },
+  "jaggery": {
+   "a": [
+    "sugar"
+   ],
+   "s": {
+    "sugar": [
+     {
+      "f": 1.3,
+      "carries": [],
+      "es": {
+       "to": "alulosa + una pizca de sal y una gota de melaza",
+       "note": "El azúcar de palma es mineral y algo salado; la sal te acerca más que el dulzor."
+      },
+      "en": {
+       "to": "allulose + a pinch of salt and a drop of molasses",
+       "note": "Palm sugar is mineral and a little salty; the salt gets you closer than the sweetness does."
+      }
+     }
+    ]
+   }
+  },
+  "maple": {
+   "a": [
+    "sugar"
+   ],
+   "s": {
+    "sugar": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "jarabe sin azúcar sabor arce, o jarabe de alulosa",
+       "note": "El jarabe de alulosa fluye y dora como el original, cosa que casi ningún jarabe edulcorado hace."
+      },
+      "en": {
+       "to": "sugar-free maple-flavored syrup, or allulose syrup",
+       "note": "Allulose syrup pours and browns like the original, which almost no sweetener syrup does."
+      }
+     }
+    ]
+   }
+  },
+  "molasses": {
+   "a": [
+    "sugar",
+    "corn"
+   ],
+   "s": {
+    "sugar": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "jarabe de alulosa",
+       "note": "Misma viscosidad y mismo dorado. Pierdes el amargor mineral de la melaza: añade una pizca de sal."
+      },
+      "en": {
+       "to": "allulose syrup",
+       "note": "Same viscosity, same browning. You lose molasses' mineral bitterness: add a pinch of salt."
+      }
+     }
+    ]
+   }
+  },
+  "treacle": {
+   "a": [
+    "sugar",
+    "corn"
+   ],
+   "s": {
+    "sugar": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "jarabe de alulosa",
+       "note": "Misma viscosidad y mismo dorado. Pierdes el amargor mineral de la melaza: añade una pizca de sal."
+      },
+      "en": {
+       "to": "allulose syrup",
+       "note": "Same viscosity, same browning. You lose molasses' mineral bitterness: add a pinch of salt."
+      }
+     }
+    ]
+   }
+  },
+  "goldensyrup": {
+   "a": [
+    "sugar",
+    "corn"
+   ],
+   "s": {
+    "sugar": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "jarabe de alulosa",
+       "note": "Misma viscosidad y mismo dorado. Pierdes el amargor mineral de la melaza: añade una pizca de sal."
+      },
+      "en": {
+       "to": "allulose syrup",
+       "note": "Same viscosity, same browning. You lose molasses' mineral bitterness: add a pinch of salt."
+      }
+     }
+    ]
+   }
+  },
+  "cornsyrup": {
+   "a": [
+    "sugar",
+    "corn"
+   ],
+   "s": {
+    "sugar": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "jarabe de alulosa",
+       "note": "Misma viscosidad y mismo dorado. Pierdes el amargor mineral de la melaza: añade una pizca de sal."
+      },
+      "en": {
+       "to": "allulose syrup",
+       "note": "Same viscosity, same browning. You lose molasses' mineral bitterness: add a pinch of salt."
+      }
+     }
+    ]
+   }
+  },
+  "darkchocolate": {
+   "a": [
+    "soy"
+   ],
+   "s": {
+    "soy": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "es": {
+       "to": "chocolate negro con lecitina de girasol",
+       "note": "Varias marcas la usan. Revisa la etiqueta: la lecitina de soja está en casi todo el chocolate industrial como emulsionante, en cantidades mínimas."
+      },
+      "en": {
+       "to": "dark chocolate made with sunflower lecithin",
+       "note": "Several brands use it. Check the label: soy lecithin is in almost all commercial chocolate as an emulsifier, in tiny amounts."
+      },
+      "may": [
+       "milk"
+      ]
+     }
+    ]
+   },
+   "may": [
+    "milk"
+   ],
+   "label": {
+    "es": "Casi todo el chocolate negro se hace en líneas con leche: revisa el aviso de trazas.",
+    "en": "Most dark chocolate is made on lines shared with milk: check the 'may contain' note."
+   }
+  },
+  "cocoanibs": {
+   "a": [
+    "soy"
+   ],
+   "s": {
+    "soy": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "es": {
+       "to": "chocolate negro con lecitina de girasol",
+       "note": "Varias marcas la usan. Revisa la etiqueta: la lecitina de soja está en casi todo el chocolate industrial como emulsionante, en cantidades mínimas."
+      },
+      "en": {
+       "to": "dark chocolate made with sunflower lecithin",
+       "note": "Several brands use it. Check the label: soy lecithin is in almost all commercial chocolate as an emulsifier, in tiny amounts."
+      },
+      "may": [
+       "milk"
+      ]
+     }
+    ]
+   },
+   "may": [
+    "milk"
+   ],
+   "label": {
+    "es": "Casi todo el chocolate negro se hace en líneas con leche: revisa el aviso de trazas.",
+    "en": "Most dark chocolate is made on lines shared with milk: check the 'may contain' note."
+   }
+  },
+  "milkchocolate": {
+   "a": [
+    "milk",
+    "soy",
+    "sugar"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "es": {
+       "to": "chocolate 'con leche' vegetal de avena o arroz",
+       "note": "Hoy es realmente bueno, cosa que no pasaba hace diez años."
+      },
+      "en": {
+       "to": "oat- or rice-based vegan 'milk' chocolate",
+       "note": "It's genuinely good now, which it wasn't ten years ago."
+      },
+      "may": [
+       "soy",
+       "wheat"
+      ]
+     }
+    ],
+    "sugar": [
+     {
+      "f": 1,
+      "carries": [
+       "milk"
+      ],
+      "es": {
+       "to": "chocolate sin azúcar con maltitol o alulosa",
+       "note": "Los de maltitol saben más parecido pero sientan mal en cantidad. Los de alulosa son más amables y más caros."
+      },
+      "en": {
+       "to": "sugar-free chocolate sweetened with maltitol or allulose",
+       "note": "Maltitol ones taste closer but don't sit well in quantity. Allulose ones are gentler and pricier."
+      },
+      "may": [
+       "soy"
+      ]
+     }
+    ]
+   }
+  },
+  "chocolatechips": {
+   "a": [
+    "milk",
+    "soy",
+    "sugar"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "es": {
+       "to": "chispas de chocolate sin lácteos, o chocolate negro al 70% picado",
+       "note": "Casi todo el chocolate por encima del 70% ya es sin lácteos, pero suele elaborarse en líneas compartidas."
+      },
+      "en": {
+       "to": "dairy-free chocolate chips, or chopped 70% dark chocolate",
+       "note": "Most chocolate above 70% is already dairy-free, but it is usually made on shared lines."
+      },
+      "may": [
+       "milk",
+       "soy"
+      ]
+     }
+    ],
+    "sugar": [
+     {
+      "f": 1,
+      "carries": [
+       "milk"
+      ],
+      "es": {
+       "to": "chispas de chocolate sin azúcar",
+       "note": "O pica una tableta sin azúcar: las chispas están diseñadas para mantener la forma y te dan menos charcos fundidos."
+      },
+      "en": {
+       "to": "sugar-free chocolate chips",
+       "note": "Or chop a sugar-free bar: chips are designed to hold their shape and give you fewer melty pools."
+      },
+      "may": [
+       "soy"
+      ]
+     }
+    ]
+   }
+  },
+  "whitechocolate": {
+   "a": [
+    "milk",
+    "soy",
+    "sugar"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "es": {
+       "to": "chocolate blanco vegetal",
+       "note": "El blanco es manteca de cacao, leche y azúcar, así que la versión vegetal reconstruye el cuerpo con leche de avena o coco en polvo."
+      },
+      "en": {
+       "to": "vegan white chocolate",
+       "note": "White chocolate is cocoa butter, milk and sugar, so the vegan version rebuilds the body with powdered oat or coconut milk."
+      },
+      "may": [
+       "soy",
+       "coconut",
+       "wheat"
+      ]
+     }
+    ]
+   }
+  },
+  "puffpastry": {
+   "a": [
+    "wheat",
+    "milk"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "hojaldre sin gluten",
+       "note": "Se vende congelado; manéjalo muy frío y espera menos subida."
+      },
+      "en": {
+       "to": "gluten-free puff pastry",
+       "note": "Sold frozen; handle it very cold and expect less rise."
+      },
+      "may": [
+       "milk",
+       "egg",
+       "corn"
+      ]
+     }
+    ],
+    "milk": [
+     {
+      "f": 1,
+      "carries": [
+       "wheat"
+      ],
+      "es": {
+       "to": "hojaldre hecho con bloque vegano",
+       "note": "El hojaldrado necesita grasa firme. Las tarrinas untables se escapan en el horno."
+      },
+      "en": {
+       "to": "puff pastry made with vegan block butter",
+       "note": "Lamination needs firm fat. Spreadable tubs leak out in the oven."
+      },
+      "may": [
+       "soy",
+       "coconut"
+      ]
+     }
+    ]
+   }
+  },
+  "marzipan": {
+   "a": [
+    "treenut",
+    "sugar"
+   ],
+   "s": {
+    "treenut": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "es": {
+       "to": "mazapán de semillas de girasol",
+       "note": "Muele girasol tostado con azúcar glas y un poco de agua. Aplica el aviso del color verde con cualquier gasificante. Azúcar."
+      },
+      "en": {
+       "to": "sunflower seed marzipan",
+       "note": "Grind toasted sunflower seeds with powdered sugar and a little water. The green-color warning applies with any leavener."
+      }
+     }
+    ]
+   }
+  },
+  "almondpaste": {
+   "a": [
+    "treenut",
+    "sugar"
+   ],
+   "s": {
+    "treenut": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "es": {
+       "to": "mazapán de semillas de girasol",
+       "note": "Muele girasol tostado con azúcar glas y un poco de agua. Aplica el aviso del color verde con cualquier gasificante. Azúcar."
+      },
+      "en": {
+       "to": "sunflower seed marzipan",
+       "note": "Grind toasted sunflower seeds with powdered sugar and a little water. The green-color warning applies with any leavener."
+      }
+     }
+    ]
+   }
+  },
+  "porkmince": {
+   "a": [
+    "pork"
+   ],
+   "s": {
+    "pork": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "carne molida de res o de pollo, con 1 cda de aceite por cada 250 g",
+       "note": "Menos grasa que el cerdo: el aceite la compensa."
+      },
+      "en": {
+       "to": "ground beef or chicken, with 1 tbsp oil per 250 g",
+       "note": "Leaner than pork: the oil makes up for it."
+      }
+     }
+    ]
+   }
+  },
+  "cookedwheat": {
+   "a": [
+    "wheat"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "sorgo perlado o arroz integral cocido",
+       "note": "Misma mordida entera."
+      },
+      "en": {
+       "to": "cooked pearled sorghum or brown rice",
+       "note": "Same whole-grain chew."
+      }
+     }
+    ]
+   }
+  },
+  "chinkiang": {
+   "a": [
+    "wheat",
+    "sugar"
+   ],
+   "may": [
+    "sulphite"
+   ],
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [
+       "sugar"
+      ],
+      "es": {
+       "to": "vinagre de arroz + una pizca de azúcar morena",
+       "note": "Pierdes el fondo malteado, conservas la acidez suave."
+      },
+      "en": {
+       "to": "rice vinegar + a pinch of brown sugar",
+       "note": "Loses the malty depth, keeps the soft acidity."
+      }
+     }
+    ]
+   }
+  },
+  "tonkatsu": {
+   "a": [
+    "wheat",
+    "soy",
+    "sugar"
+   ],
+   "may": [
+    "celery",
+    "sulphite"
+   ],
+   "label": {
+    "es": "Las salsas japonesas comerciales varían mucho: revisa la etiqueta.",
+    "en": "Commercial Japanese sauces vary a lot: check the label."
+   },
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [
+       "nightshade",
+       "coconut",
+       "sugar"
+      ],
+      "es": {
+       "to": "kétchup + aminos de coco + un poco de azúcar (2:1)",
+       "note": "Dulce, ácido y oscuro, sin trigo ni soja."
+      },
+      "en": {
+       "to": "ketchup + coconut aminos + a little sugar (2:1)",
+       "note": "Sweet, tangy and dark, with no wheat or soy."
+      }
+     }
+    ],
+    "soy": [
+     {
+      "f": 1,
+      "carries": [
+       "nightshade",
+       "coconut",
+       "sugar"
+      ],
+      "es": {
+       "to": "kétchup + aminos de coco + un poco de azúcar (2:1)",
+       "note": "Dulce, ácido y oscuro, sin trigo ni soja."
+      },
+      "en": {
+       "to": "ketchup + coconut aminos + a little sugar (2:1)",
+       "note": "Sweet, tangy and dark, with no wheat or soy."
+      }
+     }
+    ]
+   }
+  },
+  "okonomi": {
+   "a": [
+    "wheat",
+    "soy",
+    "sugar"
+   ],
+   "may": [
+    "celery",
+    "sulphite"
+   ],
+   "label": {
+    "es": "Las salsas japonesas comerciales varían mucho: revisa la etiqueta.",
+    "en": "Commercial Japanese sauces vary a lot: check the label."
+   },
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [
+       "nightshade",
+       "coconut",
+       "sugar"
+      ],
+      "es": {
+       "to": "kétchup + aminos de coco + un poco de azúcar (2:1)",
+       "note": "Dulce, ácido y oscuro, sin trigo ni soja."
+      },
+      "en": {
+       "to": "ketchup + coconut aminos + a little sugar (2:1)",
+       "note": "Sweet, tangy and dark, with no wheat or soy."
+      }
+     }
+    ],
+    "soy": [
+     {
+      "f": 1,
+      "carries": [
+       "nightshade",
+       "coconut",
+       "sugar"
+      ],
+      "es": {
+       "to": "kétchup + aminos de coco + un poco de azúcar (2:1)",
+       "note": "Dulce, ácido y oscuro, sin trigo ni soja."
+      },
+      "en": {
+       "to": "ketchup + coconut aminos + a little sugar (2:1)",
+       "note": "Sweet, tangy and dark, with no wheat or soy."
+      }
+     }
+    ]
+   }
+  },
+  "winevinegar": {
+   "a": [
+    "sulphite"
+   ],
+   "s": {
+    "sulphite": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "jugo de limón",
+       "note": "La misma acidez, sin sulfitos."
+      },
+      "en": {
+       "to": "lemon juice",
+       "note": "Same acidity, no sulphites."
+      }
+     },
+     {
+      "f": 1,
+      "carries": [],
+      "may": [
+       "sulphite"
+      ],
+      "es": {
+       "to": "vinagre de arroz",
+       "note": "Normalmente sin sulfitos añadidos; revisa la etiqueta."
+      },
+      "en": {
+       "to": "rice vinegar",
+       "note": "Usually no added sulphites; check the label."
+      }
+     }
+    ]
+   }
+  },
+  "almondextract": {
+   "a": [
+    "treenut"
+   ],
+   "s": {
+    "treenut": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "extracto de vainilla",
+       "note": "Otro aroma, mismo papel."
+      },
+      "en": {
+       "to": "vanilla extract",
+       "note": "A different aroma doing the same job."
+      }
+     }
+    ]
+   }
+  },
+  "asafoetida": {
+   "a": [
+    "wheat"
+   ],
+   "label": {
+    "es": "Casi toda la asafétida va cortada con harina de trigo: busca una certificada sin gluten.",
+    "en": "Most asafoetida is cut with wheat flour: look for a certified gluten-free one."
+   },
+   "s": {
+    "wheat": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "asafétida certificada sin gluten",
+       "note": "Cortada con harina de arroz en vez de trigo."
+      },
+      "en": {
+       "to": "certified gluten-free asafoetida",
+       "note": "Cut with rice flour instead of wheat."
+      }
+     }
+    ]
+   }
+  },
+  "stock": {
+   "a": [],
+   "may": [
+    "celery",
+    "wheat",
+    "soy",
+    "milk"
+   ],
+   "label": {
+    "es": "El caldo comprado suele llevar apio, trigo o soja: revisa la etiqueta o hazlo en casa.",
+    "en": "Store-bought stock often contains celery, wheat or soy: check the label or make your own."
+   }
+  },
+  "currypowder": {
+   "a": [],
+   "may": [
+    "mustard",
+    "wheat",
+    "celery"
+   ],
+   "label": {
+    "es": "Algunas mezclas de curry llevan mostaza, trigo o apio: revisa la etiqueta.",
+    "en": "Some curry powders contain mustard, wheat or celery: check the label."
+   }
+  },
+  "pickles": {
+   "a": [],
+   "may": [
+    "mustard",
+    "sulphite"
+   ],
+   "label": {
+    "es": "Los encurtidos comerciales suelen llevar semilla de mostaza o sulfitos.",
+    "en": "Commercial pickles often contain mustard seed or sulphites."
+   }
+  },
+  "oats": {
+   "a": [],
+   "may": [
+    "wheat"
+   ],
+   "label": {
+    "es": "La avena casi siempre tiene trazas de gluten: usa avena certificada sin gluten.",
+    "en": "Oats almost always carry gluten traces: use certified gluten-free oats."
+   }
+  },
+  "bakingpowder": {
+   "a": [],
+   "may": [
+    "corn"
+   ],
+   "label": {
+    "es": "La mayoría del polvo de hornear lleva fécula de maíz; hay versiones con almidón de papa.",
+    "en": "Most baking powder contains cornstarch; potato-starch versions exist."
+   }
+  },
+  "achiote": {
+   "a": [],
+   "may": [
+    "wheat",
+    "corn"
+   ],
+   "label": {
+    "es": "La pasta de achiote comercial a veces lleva harina de trigo o de maíz.",
+    "en": "Commercial achiote paste sometimes contains wheat or corn flour."
+   }
+  },
+  "risotto": {
+   "a": [
+    "milk"
+   ],
+   "may": [
+    "wheat"
+   ],
+   "s": {
+    "milk": [
+     {
+      "f": 1,
+      "carries": [],
+      "es": {
+       "to": "risotto hecho con aceite de oliva y levadura nutricional",
+       "note": "Sin mantequilla ni queso; queda algo menos cremoso."
+      },
+      "en": {
+       "to": "risotto made with olive oil and nutritional yeast",
+       "note": "No butter or cheese; a little less creamy."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "roles": {
+  "fat": {
+   "milk": [
+    {
+     "f": 0.8,
+     "carries": [],
+     "es": {
+      "to": "aceite de oliva",
+      "note": "Grasa por grasa, en peso."
+     },
+     "en": {
+      "to": "olive oil",
+      "note": "Fat for fat, by weight."
+     }
+    }
+   ]
+  },
+  "thicken": {
+   "wheat": [
+    {
+     "f": 0.5,
+     "carries": [
+      "corn"
+     ],
+     "es": {
+      "to": "fécula de maíz",
+      "note": "La mitad del peso; disuélvela antes en líquido frío. Maíz."
+     },
+     "en": {
+      "to": "cornstarch",
+      "note": "Half the weight; dissolve it in cold liquid first."
+     }
+    }
+   ]
+  },
+  "structure": {
+   "wheat": [
+    {
+     "f": 1,
+     "carries": [],
+     "es": {
+      "to": "mezcla sin gluten 1:1",
+      "note": "Pésala en vez de medirla, y deja reposar la masa 20 min."
+     },
+     "en": {
+      "to": "1:1 gluten-free blend",
+      "note": "Weigh it rather than measuring by volume, and rest the batter or dough 20 min."
+     },
+     "may": [
+      "corn",
+      "soy"
+     ]
+    }
+   ]
+  },
+  "binder": {
+   "egg": [
+    {
+     "f": 1,
+     "carries": [],
+     "es": {
+      "to": "huevo de linaza (1 cda de linaza molida + 3 cda de agua)",
+      "note": "Reposar 10 min antes de usar."
+     },
+     "en": {
+      "to": "flax egg (1 tbsp ground flaxseed + 3 tbsp water)",
+      "note": "Let it sit 10 min before using."
+     }
+    }
+   ]
+  },
+  "umami": {
+   "soy": [
+    {
+     "f": 1.25,
+     "carries": [
+      "coconut"
+     ],
+     "es": {
+      "to": "aminos de coco + una pizca de sal",
+      "note": "Más dulce y más flojo; prueba antes de añadir más. Coco."
+     },
+     "en": {
+      "to": "coconut aminos + a pinch of salt",
+      "note": "Sweeter and milder; taste before adding more."
+     }
+    }
+   ],
+   "fish": [
+    {
+     "f": 1,
+     "carries": [
+      "soy"
+     ],
+     "es": {
+      "to": "miso blanco diluido en agua",
+      "note": "Fondo umami sin pescado. Soja."
+     },
+     "en": {
+      "to": "white miso thinned with water",
+      "note": "Umami depth without the fish."
+     },
+     "may": [
+      "wheat"
+     ]
+    }
+   ]
+  },
+  "crunch": {
+   "treenut": [
+    {
+     "f": 1,
+     "carries": [],
+     "es": {
+      "to": "semillas de calabaza o girasol tostadas",
+      "note": "Tuéstalas hasta que salten."
+     },
+     "en": {
+      "to": "toasted pumpkin or sunflower seeds",
+      "note": "Toast them until they pop."
+     }
+    }
+   ],
+   "peanut": [
+    {
+     "f": 1,
+     "carries": [],
+     "es": {
+      "to": "semillas de girasol tostadas",
+      "note": "Mismo crujido, misma grasa."
+     },
+     "en": {
+      "to": "toasted sunflower seeds",
+      "note": "Same crunch, same fat."
+     }
+    }
+   ]
+  },
+  "sweet": {
+   "sugar": [
+    {
+     "f": 1.3,
+     "carries": [],
+     "es": {
+      "to": "alulosa",
+      "note": "Dora y caramaliza como el azúcar; usa un tercio más."
+     },
+     "en": {
+      "to": "allulose",
+      "note": "Browns and caramelizes like sugar; use a third more."
+     }
+    }
+   ]
+  },
+  "caramel": {
+   "sugar": [
+    {
+     "f": 1.3,
+     "carries": [],
+     "es": {
+      "to": "alulosa",
+      "note": "El único sustituto común que caramaliza."
+     },
+     "en": {
+      "to": "allulose",
+      "note": "The only common substitute that caramelizes."
+     }
+    }
+   ]
+  }
+ }
+}

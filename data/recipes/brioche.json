@@ -1,0 +1,151 @@
+{
+ "id": "brioche",
+ "country": "France",
+ "region": "western-europe",
+ "course": "bread",
+ "time": 900,
+ "serves": 10,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 12,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "glaze"
+  }
+ ],
+ "es": {
+  "name": "Brioche",
+  "blurb": "Entre el cincuenta y el ochenta por ciento de mantequilla sobre el peso de harina, añadida despacio a una masa ya desarrollada. Es una prueba de paciencia: la masa debe estar fuerte antes de que la grasa se acerque.",
+  "ing": [
+   {
+    "n": "harina de fuerza"
+   },
+   {
+    "n": "huevos",
+    "note": "fríos"
+   },
+   {
+    "n": "mantequilla",
+    "note": "fría, en cubos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "levadura seca instantánea"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "huevo"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, los huevos, la leche, el azúcar, la sal y la levadura. Amasa en batidora 10-12 minutos hasta que la masa quede lisa y se despegue limpia del bol.",
+   "Solo ahora empieza a añadir la mantequilla fría, unos cubos cada vez, esperando a que cada adición desaparezca. Esto toma 10-15 minutos y no se puede acelerar.",
+   "La masa terminada debe quedar brillante, floja y sostener una ventana al estirarla.",
+   "Refrigera al menos 6 horas, idealmente toda la noche. La masa de brioche templada es imposible de formar.",
+   "Forma en frío, en molde o en bollos individuales, y fermenta 2-3 horas a 24 °C hasta que triplique y tiemble.",
+   "Pinta con huevo dos veces y hornea a 180 °C durante 30-35 minutos, cubriendo con aluminio si dora pronto."
+  ],
+  "tips": [
+   "La mantequilla entra después de construir el gluten, nunca con él. La grasa recubre las proteínas e impide que se enlacen.",
+   "Todo frío: huevos fríos, mantequilla fría y un bol de batidora que no se haya calentado.",
+   "El reposo nocturno es obligatorio. Esta masa no se puede formar a temperatura ambiente."
+  ],
+  "video": "masa de brioche técnica"
+ },
+ "en": {
+  "name": "Brioche",
+  "blurb": "Fifty to eighty percent butter on flour weight, added slowly to an already developed dough. It's a test of patience: the dough must be strong before the fat comes near it.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "eggs",
+    "note": "cold"
+   },
+   {
+    "n": "butter",
+    "note": "cold, cubed"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "instant dry yeast"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "egg"
+   }
+  ],
+  "steps": [
+   "Mix the flour, eggs, milk, sugar, salt and yeast. Knead in a stand mixer for 10-12 minutes until the dough is smooth and pulls cleanly away from the bowl.",
+   "Only now start adding the cold butter, a few cubes at a time, waiting for each addition to disappear. This takes 10-15 minutes and can't be rushed.",
+   "The finished dough should be glossy, slack and hold a windowpane when stretched.",
+   "Refrigerate at least 6 hours, ideally overnight. Warm brioche dough is impossible to shape.",
+   "Shape it cold, in a loaf pan or as individual buns, and proof 2-3 hours at 24 °C until tripled and jiggly.",
+   "Brush with egg twice and bake at 180 °C for 30-35 minutes, covering with foil if it browns early."
+  ],
+  "tips": [
+   "The butter goes in after the gluten is built, never with it. Fat coats the proteins and keeps them from bonding.",
+   "Everything cold: cold eggs, cold butter and a mixer bowl that hasn't warmed up.",
+   "The overnight rest is mandatory. This dough can't be shaped at room temperature."
+  ],
+  "video": "brioche dough technique"
+ }
+}

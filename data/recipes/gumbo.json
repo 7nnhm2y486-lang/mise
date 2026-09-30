@@ -1,0 +1,228 @@
+{
+ "id": "gumbo",
+ "country": "United States",
+ "region": "north-america",
+ "course": "soup",
+ "time": 180,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 180,
+   "u": "g",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "stalk",
+   "k": "celery",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "thicken"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "scallion",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Gumbo de Pollo y Andouille",
+  "blurb": "Un roux oscuro, hasta el color de una moneda vieja, son cuarenta y cinco minutos de removido ininterrumpido. No hay forma de esquivarlo ni sustituto que valga.",
+  "ing": [
+   {
+    "n": "harina"
+   },
+   {
+    "n": "aceite",
+    "note": "neutro, de punto de humo alto"
+   },
+   {
+    "n": "cebolla",
+    "note": "en dados"
+   },
+   {
+    "n": "apio"
+   },
+   {
+    "n": "pimiento verde"
+   },
+   {
+    "n": "salchicha andouille",
+    "note": "en rodajas"
+   },
+   {
+    "n": "muslos de pollo"
+   },
+   {
+    "n": "caldo de pollo",
+    "note": "caliente"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "sazonador cajún"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "polvo de filé",
+    "note": "opcional, fuera del fuego"
+   },
+   {
+    "n": "cebollín y perejil"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Calienta el aceite en una olla pesada, incorpora la harina y prepárate. Remueve sin parar a fuego medio-bajo 40-50 minutos, hasta pasar de rubio a mantequilla de cacahuate y a chocolate oscuro. Si huele acre o ves puntos negros, tíralo y empieza de nuevo.",
+   "En cuanto alcance el color, echa la cebolla, el apio y el pimiento. Silbarán con violencia y detendrán la cocción del roux.",
+   "Cocina las verduras en el roux 10 minutos, luego añade el ajo y el sazonador.",
+   "Incorpora el caldo caliente cucharón a cucharón, batiendo, para que quede liso. Añade el laurel.",
+   "Añade la salchicha dorada y el pollo. Cocina destapado 90 minutos, retirando la grasa que aflore.",
+   "Deshebra el pollo, rectifica y añade el filé fuera del fuego. Sirve sobre arroz con cebollín."
+  ],
+  "tips": [
+   "Caldo caliente sobre roux caliente, poco a poco. El caldo frío lo agarrota en grumos.",
+   "Un roux quemado no se rescata y arruina ocho raciones. Empieza otra vez.",
+   "El polvo de filé entra fuera del fuego: hervido se vuelve filante."
+  ],
+  "video": "gumbo roux oscuro"
+ },
+ "en": {
+  "name": "Chicken and Andouille Gumbo",
+  "blurb": "A dark roux, the color of an old penny, is forty-five minutes of nonstop stirring. There is no way around it and no substitute that works.",
+  "ing": [
+   {
+    "n": "flour"
+   },
+   {
+    "n": "oil",
+    "note": "neutral, high smoke point"
+   },
+   {
+    "n": "onions",
+    "note": "diced"
+   },
+   {
+    "n": "celery"
+   },
+   {
+    "n": "green bell peppers"
+   },
+   {
+    "n": "andouille sausage",
+    "note": "sliced"
+   },
+   {
+    "n": "chicken thighs"
+   },
+   {
+    "n": "chicken stock",
+    "note": "hot"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "Cajun seasoning"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "filé powder",
+    "note": "optional, off the heat"
+   },
+   {
+    "n": "scallions and parsley"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Heat the oil in a heavy pot, whisk in the flour and settle in. Stir nonstop over medium-low heat for 40-50 minutes, from blond to peanut butter to dark chocolate. If it smells acrid or you see black specks, throw it out and start again.",
+   "The moment it reaches the color, add the onion, celery and bell pepper. They will hiss violently and stop the roux cooking.",
+   "Cook the vegetables in the roux for 10 minutes, then add the garlic and seasoning.",
+   "Add the hot stock a ladle at a time, whisking, so it stays smooth. Add the bay leaves.",
+   "Add the browned sausage and the chicken. Simmer uncovered for 90 minutes, skimming off the fat that rises.",
+   "Shred the chicken, adjust the seasoning and add the filé off the heat. Serve over rice with scallions."
+  ],
+  "tips": [
+   "Hot stock into hot roux, a little at a time. Cold stock seizes it into lumps.",
+   "A burnt roux can't be saved and it ruins eight servings. Start over.",
+   "Filé powder goes in off the heat: boiled, it turns stringy."
+  ],
+  "video": "gumbo dark roux"
+ }
+}

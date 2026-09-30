@@ -1,0 +1,174 @@
+{
+ "id": "alabamawhite",
+ "country": "United States",
+ "region": "north-america",
+ "course": "sauce",
+ "time": 10,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "mayo",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "mustard",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "mustard",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "cayenne",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Salsa Blanca de Alabama",
+  "blurb": "Mayonesa, vinagre y rábano picante. Es la única salsa de barbacoa que no lleva tomate y funciona sobre pollo ahumado como ninguna otra.",
+  "ing": [
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "vinagre de manzana"
+   },
+   {
+    "n": "rábano picante",
+    "note": "preparado"
+   },
+   {
+    "n": "mostaza"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "ajo en polvo"
+   },
+   {
+    "n": "cayena"
+   },
+   {
+    "n": "pimienta negra",
+    "note": "gruesa"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Bate la mayonesa con el vinagre poco a poco: se aflojará mucho y eso es correcto.",
+   "Incorpora el rábano picante y la mostaza.",
+   "Añade el limón, el azúcar, el ajo en polvo y la cayena.",
+   "Muele mucha pimienta negra gruesa: debe verse.",
+   "Rectifica de sal y vinagre. Tiene que quedar punzante, casi agresiva.",
+   "Refrigera al menos 2 horas. Aguanta dos semanas."
+  ],
+  "tips": [
+   "Debe quedar fina, casi como una vinagreta cremosa. Espesa no penetra en la carne.",
+   "Se usa para pincelar el pollo al salir del ahumador y también como salsa de mesa.",
+   "La pimienta gruesa visible es parte de la identidad de esta salsa."
+  ],
+  "video": "alabama white sauce"
+ },
+ "en": {
+  "name": "Alabama White Sauce",
+  "blurb": "Mayonnaise, vinegar and horseradish. It's the only barbecue sauce with no tomato, and on smoked chicken nothing else works like it.",
+  "ing": [
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "apple cider vinegar"
+   },
+   {
+    "n": "horseradish",
+    "note": "prepared"
+   },
+   {
+    "n": "mustard"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "garlic powder"
+   },
+   {
+    "n": "cayenne"
+   },
+   {
+    "n": "black pepper",
+    "note": "coarse"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Whisk the vinegar into the mayonnaise a little at a time: it will loosen a lot, and that's correct.",
+   "Stir in the horseradish and mustard.",
+   "Add the lemon, sugar, garlic powder and cayenne.",
+   "Grind in plenty of coarse black pepper: you should be able to see it.",
+   "Adjust the salt and vinegar. It should be sharp, almost aggressive.",
+   "Refrigerate for at least 2 hours. It keeps for two weeks."
+  ],
+  "tips": [
+   "It should be thin, almost like a creamy vinaigrette. A thick sauce won't get into the meat.",
+   "Use it to brush the chicken as it comes off the smoker and as a table sauce too.",
+   "Visible coarse pepper is part of this sauce's identity."
+  ],
+  "video": "alabama white sauce"
+ }
+}

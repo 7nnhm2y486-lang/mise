@@ -1,0 +1,190 @@
+{
+ "id": "bulgogi",
+ "country": "Korea",
+ "region": "east-asia",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 700,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 90,
+   "u": "ml",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sesameoil",
+   "role": "fat"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sesameseed",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "mirin",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Bulgogi",
+  "blurb": "La pera rallada del adobo no está por dulzor. Sus enzimas rompen la proteína muscular, y por eso el bulgogi fino sigue tierno sobre fuego fuerte.",
+  "ing": [
+   {
+    "n": "lomo o entrecot de res",
+    "note": "en láminas finísimas, semicongelado"
+   },
+   {
+    "n": "pera asiática",
+    "note": "rallada"
+   },
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "azúcar morena"
+   },
+   {
+    "n": "aceite de sésamo"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "cebolla",
+    "note": "rallada"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "semillas de sésamo"
+   },
+   {
+    "n": "mirin"
+   }
+  ],
+  "steps": [
+   "Congela la carne 40 minutos y córtala tan fina como puedas, contra la fibra.",
+   "Mezcla la pera, la cebolla, el ajo, la soja, el azúcar, el mirin, el aceite de sésamo y la pimienta.",
+   "Marina la carne de 2 a 4 horas. No toda la noche: las enzimas de la pera la vuelven pastosa si se pasa.",
+   "Pon una sartén pesada o una parrilla al rojo.",
+   "Cocina la carne por tandas en una sola capa, 60-90 segundos, hasta que los bordes se tuesten. Amontonarla la hace hervir en su propio adobo.",
+   "Esparce cebollín y sésamo. Sirve con arroz y hojas de lechuga."
+  ],
+  "tips": [
+   "El adobo tiene una ventana. Cuatro horas está bien, doce es demasiado.",
+   "Por tandas. Es la diferencia entre tostado y guisado.",
+   "Semicongelar es la única forma realista de cortar tan fino en casa."
+  ],
+  "video": "bulgogi barbacoa coreana"
+ },
+ "en": {
+  "name": "Bulgogi",
+  "blurb": "The grated pear in the marinade isn't there for sweetness. Its enzymes break down muscle protein, which is why thin-sliced bulgogi stays tender over high heat.",
+  "ing": [
+   {
+    "n": "beef tenderloin or rib-eye",
+    "note": "sliced paper-thin, half-frozen"
+   },
+   {
+    "n": "Asian pear",
+    "note": "grated"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "brown sugar"
+   },
+   {
+    "n": "sesame oil"
+   },
+   {
+    "n": "garlic",
+    "note": "minced"
+   },
+   {
+    "n": "onion",
+    "note": "grated"
+   },
+   {
+    "n": "scallions"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "sesame seeds"
+   },
+   {
+    "n": "mirin"
+   }
+  ],
+  "steps": [
+   "Freeze the beef for 40 minutes and slice it as thin as you can, against the grain.",
+   "Mix the pear, onion, garlic, soy sauce, sugar, mirin, sesame oil and pepper.",
+   "Marinate the beef for 2 to 4 hours. Not overnight: the pear enzymes turn it mushy if it goes too long.",
+   "Get a heavy skillet or grill ripping hot.",
+   "Cook the beef in batches in a single layer, 60-90 seconds, until the edges char. Crowding it makes it boil in its own marinade.",
+   "Scatter with scallions and sesame seeds. Serve with rice and lettuce leaves."
+  ],
+  "tips": [
+   "The marinade has a window. Four hours is fine; twelve is too many.",
+   "Batches. It's the difference between seared and stewed.",
+   "Half-freezing is the only realistic way to slice this thin at home."
+  ],
+  "video": "bulgogi korean bbq beef recipe"
+ }
+}

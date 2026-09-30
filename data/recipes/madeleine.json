@@ -1,0 +1,149 @@
+{
+ "id": "madeleine",
+ "country": "France",
+ "region": "western-europe",
+ "course": "sweet",
+ "time": 120,
+ "serves": 24,
+ "ovenC": 210,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "aerate"
+  },
+  {
+   "q": 130,
+   "u": "g",
+   "k": "sugar",
+   "role": "aerate"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "honey",
+   "role": "moisture"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Magdalenas Madeleine",
+  "blurb": "La joroba viene de un choque térmico: masa fría en molde frío entrando en un horno muy caliente. Todo lo demás es un bizcocho corriente.",
+  "ing": [
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "mantequilla",
+    "note": "tostada y enfriada"
+   },
+   {
+    "n": "miel"
+   },
+   {
+    "n": "ralladura de limón"
+   },
+   {
+    "n": "sal fina"
+   }
+  ],
+  "steps": [
+   "Bate los huevos y el azúcar 5 minutos hasta que espesen, palidezcan y sostengan una cinta.",
+   "Incorpora la harina, el polvo de hornear y la sal.",
+   "Incorpora la mantequilla tostada, la miel y la ralladura.",
+   "Refrigera la masa al menos 1 hora, idealmente toda la noche.",
+   "Engrasa y enharina el molde y refrigéralo también. Escudilla masa fría en moldes fríos, tres cuartos de capacidad.",
+   "Hornea a 210 °C durante 4 minutos, luego baja a 180 °C por 5-6 minutos. Desmolda de inmediato."
+  ],
+  "tips": [
+   "Masa fría, molde frío, horno caliente. Ese diferencial de temperatura es lo único que crea la joroba.",
+   "Están en su mejor momento veinte minutos después de salir del horno, y notablemente peor al día siguiente.",
+   "Llenar de más aplasta la joroba. Tres cuartos, no más."
+  ],
+  "video": "madeleines técnica de la joroba"
+ },
+ "en": {
+  "name": "Madeleines",
+  "blurb": "The hump comes from thermal shock: cold batter in a cold pan going into a very hot oven. Everything else is an ordinary sponge.",
+  "ing": [
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "butter",
+    "note": "browned and cooled"
+   },
+   {
+    "n": "honey"
+   },
+   {
+    "n": "lemon zest"
+   },
+   {
+    "n": "fine salt"
+   }
+  ],
+  "steps": [
+   "Beat the eggs and sugar for 5 minutes until thick, pale and holding a ribbon.",
+   "Fold in the flour, baking powder and salt.",
+   "Fold in the brown butter, honey and zest.",
+   "Refrigerate the batter at least 1 hour, ideally overnight.",
+   "Grease and flour the pan and chill it too. Pipe cold batter into the cold molds, three-quarters full.",
+   "Bake at 210 °C for 4 minutes, then lower to 180 °C for 5-6 minutes. Unmold immediately."
+  ],
+  "tips": [
+   "Cold batter, cold pan, hot oven. That temperature difference is the only thing that creates the hump.",
+   "They're at their best twenty minutes out of the oven, and noticeably worse the next day.",
+   "Overfilling flattens the hump. Three-quarters, no more."
+  ],
+  "video": "madeleines hump technique"
+ }
+}

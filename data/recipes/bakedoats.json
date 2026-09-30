@@ -1,0 +1,184 @@
+{
+ "id": "bakedoats",
+ "country": "United States",
+ "region": "north-america",
+ "course": "sweet",
+ "time": 45,
+ "serves": 2,
+ "ovenC": 180,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "maple",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "peanutbutter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Avena Horneada",
+  "blurb": "Avena triturada hasta hacerse harina y horneada como un bizcocho individual. Triturarla es la única diferencia entre esto y un plato de avena caliente, y cambia todo.",
+  "ing": [
+   {
+    "n": "avena en hojuelas"
+   },
+   {
+    "n": "plátano maduro"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "jarabe de arce"
+   },
+   {
+    "n": "mantequilla de cacahuate"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "chocolate negro"
+   },
+   {
+    "n": "canela"
+   }
+  ],
+  "steps": [
+   "Tritura la avena sola hasta convertirla en harina fina. Este paso es lo que hace que suba como un bizcocho.",
+   "Añade el plátano, el huevo, la leche, el jarabe, la vainilla, la canela y la sal, y tritura de nuevo.",
+   "Incorpora el polvo de hornear con una espátula al final, sin volver a triturar.",
+   "Vierte en dos moldes individuales engrasados y hunde trozos de chocolate.",
+   "Hornea a 180 °C durante 25-28 minutos, hasta que suba y esté firme al tacto.",
+   "Calienta la mantequilla de cacahuate unos segundos y viértela por encima al servir."
+  ],
+  "tips": [
+   "Tritura la avena. Sin ese paso tienes un budín de avena, no un bizcocho.",
+   "El polvo de hornear al final y sin batir, para que no pierda fuerza.",
+   "El plátano tiene que estar muy maduro: es casi todo el dulzor."
+  ],
+  "video": "avena horneada tipo bizcocho"
+ },
+ "en": {
+  "name": "Baked Oats",
+  "blurb": "Oats blended into flour and baked like a single-serve cake. Blending is the only difference between this and a bowl of hot oatmeal, and it changes everything.",
+  "ing": [
+   {
+    "n": "rolled oats"
+   },
+   {
+    "n": "ripe banana"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "maple syrup"
+   },
+   {
+    "n": "peanut butter"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "dark chocolate"
+   },
+   {
+    "n": "cinnamon"
+   }
+  ],
+  "steps": [
+   "Blend the oats on their own into a fine flour. This step is what makes it rise like a cake.",
+   "Add the banana, egg, milk, syrup, vanilla, cinnamon and salt, and blend again.",
+   "Fold in the baking powder with a spatula at the end, without blending again.",
+   "Pour into two greased individual ramekins and push in pieces of chocolate.",
+   "Bake at 180 °C for 25-28 minutes, until risen and firm to the touch.",
+   "Warm the peanut butter for a few seconds and pour it over to serve."
+  ],
+  "tips": [
+   "Blend the oats. Without that step you have oat pudding, not cake.",
+   "Baking powder goes in last and isn't blended, so it keeps its strength.",
+   "The banana has to be very ripe: it's nearly all the sweetness."
+  ],
+  "video": "cake-style baked oats"
+ }
+}

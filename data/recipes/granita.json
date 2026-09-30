@@ -1,0 +1,128 @@
+{
+ "id": "granita",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 300,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 700,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "cream",
+   "role": "fat"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Granita Siciliana",
+  "blurb": "Sin máquina: se raspa cada media hora. Esos cristales gruesos y separados son exactamente lo contrario de un sorbete, y son el objetivo.",
+  "ing": [
+   {
+    "n": "café espresso fuerte",
+    "note": "o jugo de limón y agua"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "crema espesa",
+    "note": "montada, para servir"
+   },
+   {
+    "n": "brioche",
+    "note": "para acompañar"
+   }
+  ],
+  "steps": [
+   "Disuelve el azúcar en el agua caliente con la pizca de sal y deja enfriar del todo.",
+   "Mézclalo con el café frío. Prueba: debe estar algo más dulce de lo que te gustaría, porque el frío apaga el dulzor.",
+   "Vierte en una bandeja metálica ancha, con no más de 2 cm de profundidad, y mete al congelador.",
+   "A los 30 minutos, raspa con un tenedor los bordes congelados hacia el centro.",
+   "Repite cada 30 minutos durante 3-4 horas. Cada raspado crea los cristales.",
+   "Sirve en vaso con crema montada encima y un brioche al lado para mojar, como en Sicilia en verano."
+  ],
+  "tips": [
+   "Bandeja ancha y poca profundidad: congela rápido y parejo.",
+   "Raspar, no batir. Batir da sorbete; raspar da granita.",
+   "Endulza de más en caliente. El frío reduce mucho la percepción del dulce."
+  ],
+  "video": "granita siciliana café"
+ },
+ "en": {
+  "name": "Sicilian Granita",
+  "blurb": "No machine: you scrape it every half hour. Those coarse, separate crystals are the exact opposite of a sorbet, and they are the whole point.",
+  "ing": [
+   {
+    "n": "strong espresso",
+    "note": "or lemon juice and water"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "heavy cream",
+    "note": "whipped, for serving"
+   },
+   {
+    "n": "brioche",
+    "note": "on the side"
+   }
+  ],
+  "steps": [
+   "Dissolve the sugar in the hot water with the pinch of salt and let it cool completely.",
+   "Mix it with the cold coffee. Taste: it should be a little sweeter than you would like, because cold dulls sweetness.",
+   "Pour into a wide metal tray no more than 2 cm deep and put it in the freezer.",
+   "After 30 minutes, scrape the frozen edges toward the center with a fork.",
+   "Repeat every 30 minutes for 3-4 hours. Each scrape builds the crystals.",
+   "Serve in a glass with whipped cream on top and a brioche alongside for dunking, the way they do in Sicily in summer."
+  ],
+  "tips": [
+   "A wide, shallow tray: it freezes fast and evenly.",
+   "Scrape, don't whisk. Whisking gives sorbet; scraping gives granita.",
+   "Oversweeten while warm. Cold greatly reduces how sweet it tastes."
+  ],
+  "video": "Sicilian coffee granita"
+ }
+}

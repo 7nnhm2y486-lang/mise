@@ -1,0 +1,174 @@
+{
+ "id": "rasmalai",
+ "country": "India",
+ "region": "south-asia",
+ "course": "sweet",
+ "time": 120,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 2,
+   "u": "l",
+   "k": "milk",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1.2,
+   "u": "l",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "pod",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "pistachio",
+   "role": "garnish"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "almond",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Rasmalai",
+  "blurb": "Queso fresco cortado de la leche, amasado hasta alisar, escalfado en almíbar y luego reposado en crema de azafrán. El amasado es lo que los hace esponjosos y no quebradizos.",
+  "ing": [
+   {
+    "n": "leche entera",
+    "note": "para el chenna"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "leche entera",
+    "note": "para la rabri"
+   },
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "azafrán"
+   },
+   {
+    "n": "cardamomo verde"
+   },
+   {
+    "n": "pistachos"
+   },
+   {
+    "n": "almendras"
+   }
+  ],
+  "steps": [
+   "Lleva 2 litros de leche a hervor, retírala del fuego e incorpora el jugo de limón hasta que se corte limpiamente en cuajada y suero verdoso.",
+   "Cuela por muselina y enjuaga bajo agua fría para quitar la acidez. Cuelga 30 minutos, no más, o se seca.",
+   "Amasa el chenna sobre una tabla con el talón de la mano 8-10 minutos, hasta que quede completamente liso y algo graso. Esta es toda la técnica.",
+   "Forma discos lisos y aplánalos un poco.",
+   "Hierve el azúcar y el agua, echa los discos, tapa y hierve fuerte 15 minutos. Doblarán de tamaño.",
+   "Reduce el segundo litro de leche un tercio con azafrán, cardamomo y leche condensada. Exprime el almíbar de los discos y déjalos reposar en la rabri tibia 4 horas."
+  ],
+  "tips": [
+   "Diez minutos de amasado. Un chenna poco amasado da rasmalai granuloso y quebradizo.",
+   "Hierve fuerte con la tapa puesta. Un hervor suave no los expande.",
+   "Exprime cada disco con suavidad antes de pasarlo a la crema, o queda pesado y almibarado."
+  ],
+  "video": "rasmalai técnica del chenna"
+ },
+ "en": {
+  "name": "Rasmalai",
+  "blurb": "Fresh cheese curdled from milk, kneaded until smooth, poached in syrup and then soaked in saffron cream. The kneading is what makes them spongy rather than crumbly.",
+  "ing": [
+   {
+    "n": "whole milk",
+    "note": "for the chhena"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "whole milk",
+    "note": "for the rabri"
+   },
+   {
+    "n": "condensed milk"
+   },
+   {
+    "n": "saffron"
+   },
+   {
+    "n": "green cardamom"
+   },
+   {
+    "n": "pistachios"
+   },
+   {
+    "n": "almonds"
+   }
+  ],
+  "steps": [
+   "Bring 2 liters of milk to a boil, take it off the heat and stir in the lemon juice until it splits cleanly into curds and greenish whey.",
+   "Strain through muslin and rinse under cold water to remove the acidity. Hang for 30 minutes, no longer, or it dries out.",
+   "Knead the chhena on a board with the heel of your hand for 8-10 minutes, until completely smooth and slightly greasy. This is the entire technique.",
+   "Shape into smooth discs and flatten them slightly.",
+   "Boil the sugar and water, drop in the discs, cover and boil hard for 15 minutes. They'll double in size.",
+   "Reduce the second liter of milk by a third with the saffron, cardamom and condensed milk. Squeeze the syrup out of the discs and let them soak in the warm rabri for 4 hours."
+  ],
+  "tips": [
+   "Ten minutes of kneading. Under-kneaded chhena gives grainy, crumbly rasmalai.",
+   "Boil hard with the lid on. A gentle simmer won't puff them.",
+   "Gently squeeze each disc before moving it to the cream, or it ends up heavy and syrupy."
+  ],
+  "video": "rasmalai chhena technique"
+ }
+}

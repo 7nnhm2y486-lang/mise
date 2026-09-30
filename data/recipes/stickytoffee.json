@@ -1,0 +1,205 @@
+{
+ "id": "stickytoffee",
+ "country": "United Kingdom",
+ "region": "western-europe",
+ "course": "sweet",
+ "time": 90,
+ "serves": 8,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "butter",
+   "role": "aerate"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "aerate"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "molasses",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "cream",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "caramel"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pudín de Dátiles y Toffee",
+  "blurb": "Dátiles ablandados con bicarbonato, que rompe su fibra en una pasta. Esa pasta es a la vez la humedad y el color.",
+  "ing": [
+   {
+    "n": "dátiles medjool",
+    "note": "sin hueso"
+   },
+   {
+    "n": "agua hirviendo"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "mantequilla",
+    "note": "ablandada"
+   },
+   {
+    "n": "azúcar morena oscura"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "harina leudante"
+   },
+   {
+    "n": "melaza negra"
+   },
+   {
+    "n": "crema espesa",
+    "note": "para la salsa"
+   },
+   {
+    "n": "azúcar morena oscura",
+    "note": "para la salsa"
+   },
+   {
+    "n": "mantequilla",
+    "note": "para la salsa"
+   },
+   {
+    "n": "sal fina"
+   }
+  ],
+  "steps": [
+   "Vierte el agua hirviendo sobre los dátiles, incorpora el bicarbonato y déjalos 20 minutos. El bicarbonato sube el pH y disuelve los dátiles en una pasta oscura.",
+   "Tritura o machaca los dátiles con su líquido, dejando algo de textura.",
+   "Crema la mantequilla y el azúcar, bate dentro los huevos y la melaza, e incorpora la harina y la mezcla de dátiles. La masa quedará muy líquida.",
+   "Hornea en un molde forrado a 180 °C durante 30-35 minutos.",
+   "Para la salsa, hierve la crema, el azúcar, la mantequilla y la sal 4-5 minutos hasta que oscurezca y nape una cuchara.",
+   "Vierte un tercio de la salsa sobre el pudín caliente y déjalo empapar 10 minutos. Sirve con el resto."
+  ],
+  "tips": [
+   "El bicarbonato hace química sobre los dátiles, no leva el bizcocho. No lo omitas.",
+   "Empapa el bizcocho mientras está caliente. Frío no toma la salsa.",
+   "Sala bien la salsa. Una salsa de toffee sin sal empalaga."
+  ],
+  "video": "sticky toffee pudding"
+ },
+ "en": {
+  "name": "Sticky Toffee Pudding",
+  "blurb": "Dates softened with baking soda, which breaks their fiber down into a paste. That paste is both the moisture and the color.",
+  "ing": [
+   {
+    "n": "Medjool dates",
+    "note": "pitted"
+   },
+   {
+    "n": "boiling water"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "butter",
+    "note": "softened"
+   },
+   {
+    "n": "dark brown sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "self-rising flour"
+   },
+   {
+    "n": "black treacle"
+   },
+   {
+    "n": "heavy cream",
+    "note": "for the sauce"
+   },
+   {
+    "n": "dark brown sugar",
+    "note": "for the sauce"
+   },
+   {
+    "n": "butter",
+    "note": "for the sauce"
+   },
+   {
+    "n": "fine salt"
+   }
+  ],
+  "steps": [
+   "Pour the boiling water over the dates, stir in the baking soda and leave for 20 minutes. The baking soda raises the pH and dissolves the dates into a dark paste.",
+   "Blend or mash the dates with their liquid, leaving some texture.",
+   "Cream the butter and sugar, beat in the eggs and the treacle, then fold in the flour and the date mixture. The batter will be very loose.",
+   "Bake in a lined pan at 180 °C for 30-35 minutes.",
+   "For the sauce, boil the cream, sugar, butter and salt for 4-5 minutes until it darkens and coats a spoon.",
+   "Pour a third of the sauce over the hot pudding and let it soak in for 10 minutes. Serve with the rest."
+  ],
+  "tips": [
+   "The baking soda is doing chemistry on the dates, not leavening the cake. Don't leave it out.",
+   "Soak the cake while it's hot. Cold, it won't take the sauce.",
+   "Salt the sauce well. Unsalted toffee sauce is cloying."
+  ],
+  "video": "sticky toffee pudding"
+ }
+}

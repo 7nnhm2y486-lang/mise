@@ -1,0 +1,200 @@
+{
+ "id": "risottofunghi",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 320,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 25,
+   "u": "g",
+   "k": "",
+   "role": "umami"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "shallot",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "acid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Risotto ai Funghi",
+  "blurb": "El agua de remojo de los porcini secos es el caldo. Tirarla es desperdiciar la mitad del sabor del plato.",
+  "ing": [
+   {
+    "n": "arroz carnaroli"
+   },
+   {
+    "n": "porcini secos"
+   },
+   {
+    "n": "setas frescas",
+    "note": "mixtas"
+   },
+   {
+    "n": "caldo de verduras"
+   },
+   {
+    "n": "chalota",
+    "note": "muy picada"
+   },
+   {
+    "n": "vino blanco seco"
+   },
+   {
+    "n": "mantequilla",
+    "note": "fría"
+   },
+   {
+    "n": "parmesano"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Remoja los porcini en 300 ml de agua caliente 30 minutos. Sácalos, pícalos y cuela el agua por un paño: se une al caldo.",
+   "Saltea las setas frescas en aceite a fuego fuerte con el ajo hasta que estén doradas. Resérvalas: van al final para que no se ablanden.",
+   "Sofríe la chalota en 30 g de mantequilla hasta translúcida, añade los porcini picados.",
+   "Tuesta el arroz 2 minutos, añade el vino y deja evaporar.",
+   "Añade el caldo caliente cucharón a cucharón durante 16-18 minutos, removiendo.",
+   "Fuera del fuego, incorpora las setas salteadas, la mantequilla fría restante y el parmesano, batiendo con fuerza. Reposa 2 minutos y añade perejil."
+  ],
+  "tips": [
+   "El agua de los porcini colada es el ingrediente secreto. Cuélala siempre: trae arena.",
+   "Las setas frescas se saltean aparte y entran al final, o se convierten en papilla.",
+   "La mantecatura con mantequilla fría es lo que da la cremosidad, igual que en cualquier risotto."
+  ],
+  "video": "risotto ai funghi porcini"
+ },
+ "en": {
+  "name": "Risotto ai Funghi",
+  "blurb": "The soaking water from the dried porcini is the stock. Throwing it out wastes half the dish's flavor.",
+  "ing": [
+   {
+    "n": "Carnaroli rice"
+   },
+   {
+    "n": "dried porcini"
+   },
+   {
+    "n": "fresh mushrooms",
+    "note": "mixed"
+   },
+   {
+    "n": "vegetable stock"
+   },
+   {
+    "n": "shallot",
+    "note": "finely chopped"
+   },
+   {
+    "n": "dry white wine"
+   },
+   {
+    "n": "butter",
+    "note": "cold"
+   },
+   {
+    "n": "Parmesan"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the porcini in 300 ml of hot water for 30 minutes. Lift them out, chop them and strain the water through a cloth: it joins the stock.",
+   "Sauté the fresh mushrooms in oil over high heat with the garlic until golden. Set them aside: they go in at the end so they don't go soft.",
+   "Sweat the shallot in 30 g of butter until translucent, then add the chopped porcini.",
+   "Toast the rice for 2 minutes, add the wine and let it evaporate.",
+   "Add the hot stock a ladle at a time over 16-18 minutes, stirring.",
+   "Off the heat, stir in the sautéed mushrooms, the remaining cold butter and the Parmesan, beating hard. Rest 2 minutes and add parsley."
+  ],
+  "tips": [
+   "Strained porcini water is the secret ingredient. Always strain it: it carries grit.",
+   "Fresh mushrooms are sautéed separately and go in at the end, or they turn to mush.",
+   "The mantecatura with cold butter is what makes it creamy, same as any risotto."
+  ],
+  "video": "risotto ai funghi porcini"
+ }
+}

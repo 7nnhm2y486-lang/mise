@@ -1,0 +1,217 @@
+{
+ "id": "chilicrisp",
+ "country": "China",
+ "region": "east-asia",
+ "course": "sauce",
+ "time": 60,
+ "serves": 12,
+ "cat": "viral",
+ "ing": [
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "shallot",
+   "role": "crunch"
+  },
+  {
+   "q": 1,
+   "u": "head",
+   "k": "garlic",
+   "role": "crunch"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "sesameseed",
+   "role": "crunch"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "",
+   "role": "umami"
+  }
+ ],
+ "es": {
+  "name": "Aceite de Chile Crujiente",
+  "blurb": "Aceite infusionado en dos temperaturas: primero los aromáticos a fuego bajo para que se frían sin quemarse, después vertido caliente sobre los chiles para abrirlos sin carbonizarlos.",
+  "ing": [
+   {
+    "n": "aceite neutro"
+   },
+   {
+    "n": "chalota",
+    "note": "en rodajas finas"
+   },
+   {
+    "n": "ajo",
+    "note": "en láminas"
+   },
+   {
+    "n": "jengibre",
+    "note": "en juliana"
+   },
+   {
+    "n": "hojuelas de chile",
+    "note": "coreanas o de Sichuan, de molienda gruesa"
+   },
+   {
+    "n": "pimienta de Sichuan"
+   },
+   {
+    "n": "anís estrellado"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "semillas de sésamo"
+   },
+   {
+    "n": "salsa de soja"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "hongos secos",
+    "note": "triturados a polvo, opcional"
+   }
+  ],
+  "steps": [
+   "Pon las hojuelas de chile, el sésamo, el azúcar, la sal y el polvo de hongos en un bol resistente al calor. Este será el receptor.",
+   "En una olla, calienta el aceite a fuego medio-bajo con la chalota, el ajo, el jengibre, el anís y la canela.",
+   "Fríelos muy despacio, 25-30 minutos, hasta que la chalota y el ajo estén dorados y crujientes. Paciencia: a fuego fuerte se queman y amargan todo el bote.",
+   "Saca los sólidos con una espumadera y resérvalos sobre papel. Retira el anís y la canela.",
+   "Sube el aceite a 190 °C y viértelo sobre el bol de chiles en tres tandas, removiendo entre cada una. Chisporroteará con fuerza.",
+   "Cuando enfríe, incorpora la soja y los crujientes reservados. Guárdalo en un frasco: aguanta un mes en el refrigerador."
+  ],
+  "tips": [
+   "Dos temperaturas y dos etapas. Los aromáticos a fuego lento, los chiles con aceite muy caliente.",
+   "Viértelo en tres tandas. De golpe, la temperatura quema las hojuelas.",
+   "Hojuelas de molienda gruesa. Las finas se carbonizan al instante."
+  ],
+  "video": "chili crisp casero"
+ },
+ "en": {
+  "name": "Chili Crisp",
+  "blurb": "Oil infused at two temperatures: first the aromatics over low heat so they fry without burning, then poured hot over the chiles to open them up without scorching.",
+  "ing": [
+   {
+    "n": "neutral oil"
+   },
+   {
+    "n": "shallot",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "garlic",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "ginger",
+    "note": "julienned"
+   },
+   {
+    "n": "chile flakes",
+    "note": "Korean or Sichuan, coarsely ground"
+   },
+   {
+    "n": "Sichuan peppercorns"
+   },
+   {
+    "n": "star anise"
+   },
+   {
+    "n": "cinnamon"
+   },
+   {
+    "n": "sesame seeds"
+   },
+   {
+    "n": "soy sauce"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "dried mushrooms",
+    "note": "ground to a powder, optional"
+   }
+  ],
+  "steps": [
+   "Put the chile flakes, sesame, sugar, salt and mushroom powder in a heatproof bowl. This is the receiver.",
+   "In a pot, heat the oil over medium-low with the shallot, garlic, ginger, star anise and cinnamon.",
+   "Fry them very slowly, 25-30 minutes, until the shallot and garlic are golden and crisp. Be patient: over high heat they burn and turn the whole jar bitter.",
+   "Lift out the solids with a slotted spoon and set them aside on paper. Remove the star anise and cinnamon.",
+   "Bring the oil up to 190 °C and pour it over the chile bowl in three additions, stirring between each. It will sizzle hard.",
+   "Once cool, stir in the soy sauce and the reserved crispy bits. Store in a jar: it keeps a month in the fridge."
+  ],
+  "tips": [
+   "Two temperatures, two stages. Aromatics low and slow, chiles with very hot oil.",
+   "Pour in three additions. All at once, the heat burns the flakes.",
+   "Coarse flakes. Fine ones scorch instantly."
+  ],
+  "video": "homemade chili crisp"
+ }
+}

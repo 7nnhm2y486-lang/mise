@@ -1,0 +1,140 @@
+{
+ "id": "nuocham",
+ "country": "Vietnam",
+ "region": "southeast-asia",
+ "course": "sauce",
+ "time": 10,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "fishsauce",
+   "role": "salt"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Nuoc Cham",
+  "blurb": "La salsa vietnamita de mesa, y el error universal es hacerla demasiado concentrada. Se prepara diluida y debe poder beberse a cucharadas sin que resulte agresiva.",
+  "ing": [
+   {
+    "n": "salsa de pescado"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "jugo de lima"
+   },
+   {
+    "n": "ajo",
+    "note": "muy picado"
+   },
+   {
+    "n": "chile ojo de pájaro",
+    "note": "en rodajas"
+   },
+   {
+    "n": "zanahoria",
+    "note": "en juliana muy fina, opcional"
+   }
+  ],
+  "steps": [
+   "Disuelve el azúcar por completo en el agua tibia. Si quedan cristales, la salsa sabrá desequilibrada.",
+   "Deja templar y añade la salsa de pescado.",
+   "Incorpora el jugo de lima recién exprimido.",
+   "Añade el ajo y el chile picados. Flotarán, que es lo correcto: si se hunden, hay demasiado azúcar sin disolver.",
+   "Prueba: debe estar equilibrada entre dulce, salada y ácida, y notablemente más suave de lo que esperas.",
+   "Añade la zanahoria en juliana si la usas. Se consume en dos o tres días."
+  ],
+  "tips": [
+   "Diluida, no concentrada. Es el error que casi todo el mundo comete la primera vez.",
+   "El azúcar se disuelve en agua tibia antes de nada más.",
+   "Que el ajo flote es la señal visual de que la proporción está bien."
+  ],
+  "video": "nuoc cham vietnamita"
+ },
+ "en": {
+  "name": "Nuoc Cham",
+  "blurb": "The Vietnamese table sauce, and the universal mistake is making it too concentrated. It's meant to be dilute: you should be able to drink it by the spoonful without it being harsh.",
+  "ing": [
+   {
+    "n": "fish sauce"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "lime juice"
+   },
+   {
+    "n": "garlic",
+    "note": "finely chopped"
+   },
+   {
+    "n": "bird's eye chile",
+    "note": "sliced"
+   },
+   {
+    "n": "carrot",
+    "note": "very finely julienned, optional"
+   }
+  ],
+  "steps": [
+   "Dissolve the sugar completely in the warm water. If crystals remain, the sauce will taste unbalanced.",
+   "Let it cool and add the fish sauce.",
+   "Stir in the freshly squeezed lime juice.",
+   "Add the chopped garlic and chile. They'll float, which is correct: if they sink, there's too much undissolved sugar.",
+   "Taste: it should be balanced between sweet, salty and sour, and noticeably milder than you expect.",
+   "Add the julienned carrot if using. Use within two or three days."
+  ],
+  "tips": [
+   "Dilute, not concentrated. It's the mistake almost everyone makes the first time.",
+   "The sugar dissolves in warm water before anything else.",
+   "Floating garlic is the visual sign that the ratio is right."
+  ],
+  "video": "nuoc cham vietnamese dipping sauce"
+ }
+}

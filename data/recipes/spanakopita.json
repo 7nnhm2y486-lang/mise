@@ -1,0 +1,185 @@
+{
+ "id": "spanakopita",
+ "country": "Greece",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 100,
+ "serves": 8,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "feta",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "ricottacheese",
+   "role": "fat"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "phyllo",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Spanakopita",
+  "blurb": "Espinaca exprimida hasta que crees que ya no suelta más, y luego exprimida otra vez. Toda spanakopita fallida es una spanakopita mojada.",
+  "ing": [
+   {
+    "n": "espinaca"
+   },
+   {
+    "n": "queso feta",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "ricotta"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "eneldo"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "masa filo"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Marchita la espinaca por tandas, enfríala y exprímela en un paño con toda tu fuerza. De un kilo deberías quedarte con unos 350 g.",
+   "Pícala y mézclala con el feta, la ricotta, el cebollín, el eneldo, los huevos, la nuez moscada y la pimienta. Ve con cuidado con la sal: el feta trae bastante.",
+   "Engrasa un molde y coloca 6 hojas de filo, aceitando cada una y dejando que sobresalgan.",
+   "Extiende el relleno y nivélalo.",
+   "Cubre con 6 hojas más aceitadas, arrugando la última para dar textura, y remete lo que sobresale.",
+   "Marca las porciones atravesando solo las capas superiores y hornea a 180 °C durante 45-50 minutos hasta que esté bien dorada."
+  ],
+  "tips": [
+   "Exprime, y vuelve a exprimir. Esa es la receta entera.",
+   "Marca antes de hornear. Cortar filo horneado lo hace añicos.",
+   "Aceita todas las hojas, o quedan zonas pálidas y correosas."
+  ],
+  "video": "spanakopita pastel de espinaca"
+ },
+ "en": {
+  "name": "Spanakopita",
+  "blurb": "Spinach squeezed until you think it can't give any more, and then squeezed again. Every failed spanakopita is a wet spanakopita.",
+  "ing": [
+   {
+    "n": "spinach"
+   },
+   {
+    "n": "feta cheese",
+    "note": "crumbled"
+   },
+   {
+    "n": "ricotta"
+   },
+   {
+    "n": "scallions"
+   },
+   {
+    "n": "dill"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "phyllo dough"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Wilt the spinach in batches, cool it and wring it out in a towel with all your strength. From a kilo you should be left with about 350 g.",
+   "Chop it and mix with the feta, ricotta, scallions, dill, eggs, nutmeg and pepper. Go easy on the salt: the feta brings plenty.",
+   "Oil a baking dish and lay in 6 sheets of phyllo, oiling each one and letting them overhang.",
+   "Spread the filling and level it.",
+   "Cover with 6 more oiled sheets, crumpling the last one for texture, and tuck in the overhang.",
+   "Score the portions through the top layers only and bake at 180 °C for 45-50 minutes until deep golden."
+  ],
+  "tips": [
+   "Squeeze, and squeeze again. That's the whole recipe.",
+   "Score before baking. Cutting baked phyllo shatters it.",
+   "Oil every sheet, or you'll get pale, leathery patches."
+  ],
+  "video": "spanakopita greek spinach pie"
+ }
+}

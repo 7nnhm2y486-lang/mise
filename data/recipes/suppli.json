@@ -1,0 +1,186 @@
+{
+ "id": "suppli",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "starter",
+ "time": 150,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "tomato",
+   "role": "protein"
+  },
+  {
+   "q": 900,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "mozzarella",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "breadcrumbs",
+   "role": "dredge"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Supplì",
+  "blurb": "El primo romano del arancino, con ragú y mozzarella. El nombre completo es supplì al telefono, por el hilo de queso que se forma al partirlo por la mitad.",
+  "ing": [
+   {
+    "n": "arroz carnaroli"
+   },
+   {
+    "n": "ragú de carne"
+   },
+   {
+    "n": "caldo de carne"
+   },
+   {
+    "n": "mozzarella",
+    "note": "en bastones, bien escurrida"
+   },
+   {
+    "n": "parmesano"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "pan rallado"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla en mantequilla, añade el arroz y tuéstalo 2 minutos.",
+   "Cocina como un risotto con el caldo y el ragú, hasta que el arroz esté hecho y muy seco.",
+   "Incorpora el parmesano y un huevo batido, extiende en una bandeja y refrigera al menos 3 horas.",
+   "Toma una porción en la palma mojada, coloca un bastón de mozzarella en el centro y ciérralo formando un óvalo.",
+   "Pasa por huevo batido y luego por pan rallado, presionando bien.",
+   "Fríe a 175 °C durante 4 minutos hasta dorar. Déjalos 2 minutos y pártelos: la mozzarella debe hacer hilo."
+  ],
+  "tips": [
+   "El arroz debe quedar seco, más que un risotto normal. Húmedo no se puede formar.",
+   "Mozzarella escurrida y en bastón, no rallada: así hace el hilo del teléfono.",
+   "Frío del refrigerador es obligatorio antes de formar."
+  ],
+  "video": "supplì al telefono romanos"
+ },
+ "en": {
+  "name": "Supplì",
+  "blurb": "The Roman cousin of the arancino, with ragù and mozzarella. The full name is supplì al telefono, for the string of cheese that forms when you pull one in half.",
+  "ing": [
+   {
+    "n": "Carnaroli rice"
+   },
+   {
+    "n": "meat ragù"
+   },
+   {
+    "n": "beef stock"
+   },
+   {
+    "n": "mozzarella",
+    "note": "cut into sticks, well drained"
+   },
+   {
+    "n": "Parmesan"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "breadcrumbs"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Sweat the onion in butter, add the rice and toast it for 2 minutes.",
+   "Cook it like a risotto with the stock and the ragù, until the rice is done and very dry.",
+   "Stir in the Parmesan and one beaten egg, spread on a tray and refrigerate for at least 3 hours.",
+   "Take a portion in a wet palm, set a stick of mozzarella in the center and close it into an oval.",
+   "Dip in beaten egg and then in breadcrumbs, pressing well.",
+   "Fry at 175 °C for 4 minutes until golden. Let them sit 2 minutes and pull one apart: the mozzarella should string."
+  ],
+  "tips": [
+   "The rice should be dry, drier than a normal risotto. Wet, it won't hold a shape.",
+   "Drained mozzarella in sticks, not grated: that's what makes the telephone cord.",
+   "Fridge-cold is mandatory before shaping."
+  ],
+  "video": "roman supplì al telefono"
+ }
+}

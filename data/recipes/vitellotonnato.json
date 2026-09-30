@@ -1,0 +1,210 @@
+{
+ "id": "vitellotonnato",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "starter",
+ "time": 300,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "stalk",
+   "k": "celery",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "acid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "tuna",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "fillet",
+   "k": "anchovy",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "mayo",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Vitello Tonnato",
+  "blurb": "Ternera escalfada en frío y laminada finísima bajo una salsa de atún y alcaparras. Se sirve frío y la carne se corta el día siguiente, cuando está firme.",
+  "ing": [
+   {
+    "n": "redondo de ternera"
+   },
+   {
+    "n": "zanahoria"
+   },
+   {
+    "n": "apio"
+   },
+   {
+    "n": "cebolla"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "atún en aceite",
+    "note": "escurrido"
+   },
+   {
+    "n": "anchoas"
+   },
+   {
+    "n": "alcaparras"
+   },
+   {
+    "n": "yemas de huevo",
+    "note": "cocidas"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Ata el redondo y ponlo en una olla con las verduras, el vino, el laurel y agua a cubrir.",
+   "Lleva a un temblor suave y escalfa 60-75 minutos, sin hervir nunca, hasta alcanzar 58-60 °C en el centro.",
+   "Deja enfriar la carne dentro de su propio caldo y refrigérala toda la noche. Este paso es lo que permite laminarla fina.",
+   "Tritura el atún, las anchoas, las yemas cocidas, la mitad de las alcaparras y el limón con un poco del caldo colado.",
+   "Incorpora la mayonesa a mano hasta obtener una salsa fluida que nape una cuchara.",
+   "Lamina la ternera fría lo más fina posible, cúbrela con la salsa y corona con el resto de las alcaparras."
+  ],
+  "tips": [
+   "Sin hervir jamás. Un hervor tensa el redondo y lo vuelve imposible de laminar.",
+   "Enfriar dentro del caldo mantiene la carne jugosa; sacarla en caliente la reseca.",
+   "La salsa debe verterse, no untarse. Aflójala con caldo hasta que caiga sola."
+  ],
+  "video": "vitello tonnato piamontés"
+ },
+ "en": {
+  "name": "Vitello Tonnato",
+  "blurb": "Veal gently poached and sliced paper-thin under a tuna and caper sauce. It's served cold, and the meat is sliced the next day, once it's firm.",
+  "ing": [
+   {
+    "n": "veal eye of round"
+   },
+   {
+    "n": "carrot"
+   },
+   {
+    "n": "celery"
+   },
+   {
+    "n": "onion"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "tuna in oil",
+    "note": "drained"
+   },
+   {
+    "n": "anchovy fillets"
+   },
+   {
+    "n": "capers"
+   },
+   {
+    "n": "egg yolks",
+    "note": "hard-boiled"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Tie the roast and put it in a pot with the vegetables, wine, bay leaves and water to cover.",
+   "Bring to a bare shiver and poach 60-75 minutes, never boiling, until the center reaches 58-60 °C.",
+   "Let the meat cool in its own broth and refrigerate it overnight. This step is what lets you slice it thin.",
+   "Blend the tuna, anchovies, cooked yolks, half the capers and the lemon juice with a little of the strained broth.",
+   "Stir in the mayonnaise by hand to a fluid sauce that coats a spoon.",
+   "Slice the cold veal as thin as possible, cover with the sauce and top with the remaining capers."
+  ],
+  "tips": [
+   "Never let it boil. A boil tightens the roast and makes it impossible to slice.",
+   "Cooling in the broth keeps the meat juicy; taking it out hot dries it out.",
+   "The sauce should pour, not spread. Loosen it with broth until it falls off on its own."
+  ],
+  "video": "vitello tonnato piedmont"
+ }
+}

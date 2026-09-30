@@ -1,0 +1,179 @@
+{
+ "id": "cornbread",
+ "country": "United States",
+ "region": "north-america",
+ "course": "bread",
+ "time": 45,
+ "serves": 8,
+ "ovenC": 220,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "buttermilk",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "bacon",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Pan de Maíz en Sartén",
+  "blurb": "La sartén de hierro va al horno vacía hasta que la grasa humea. La masa entra chisporroteando y esa costra frita es la mitad del plato.",
+  "ing": [
+   {
+    "n": "harina de maíz",
+    "note": "de molienda media"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "suero de leche"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "mantequilla",
+    "note": "derretida"
+   },
+   {
+    "n": "tocino o manteca",
+    "note": "para la sartén"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "azúcar",
+    "note": "opcional y polémico"
+   }
+  ],
+  "steps": [
+   "Pon una sartén de hierro de 25 cm con la grasa de tocino en el horno y caliéntalo todo a 220 °C.",
+   "Mezcla las harinas, el bicarbonato, el polvo de hornear, la sal y el azúcar si lo usas.",
+   "Bate el suero de leche con los huevos y la mantequilla derretida.",
+   "Une húmedo y seco removiendo lo justo. Los grumos están bien; el exceso de mezclado no.",
+   "Saca la sartén ardiendo, vierte la masa de golpe. Debe sisear con fuerza en cuanto toque.",
+   "Hornea 20-22 minutos hasta que esté dorado y firme. Desmóldalo enseguida sobre una rejilla."
+  ],
+  "tips": [
+   "La sartén tiene que estar ardiendo y la grasa humeando. De ahí sale la corteza.",
+   "No batas de más. Es pan rápido: mezcla y al horno.",
+   "El azúcar es opcional y depende de a quién le preguntes. En el sur suele omitirse."
+  ],
+  "video": "pan de maíz sartén de hierro"
+ },
+ "en": {
+  "name": "Skillet Cornbread",
+  "blurb": "The cast-iron skillet goes into the oven empty until the fat smokes. The batter goes in sizzling, and that fried crust is half the dish.",
+  "ing": [
+   {
+    "n": "cornmeal",
+    "note": "medium grind"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "buttermilk"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "butter",
+    "note": "melted"
+   },
+   {
+    "n": "bacon fat or lard",
+    "note": "for the skillet"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "sugar",
+    "note": "optional and controversial"
+   }
+  ],
+  "steps": [
+   "Put a 25 cm cast-iron skillet with the bacon fat in the oven and heat it all to 220 °C.",
+   "Mix the cornmeal and flour, baking soda, baking powder, salt, and the sugar if using.",
+   "Whisk the buttermilk with the eggs and melted butter.",
+   "Combine wet and dry, stirring only just enough. Lumps are fine; overmixing isn't.",
+   "Pull out the blazing-hot skillet and pour the batter in all at once. It should hiss loudly the moment it hits.",
+   "Bake 20-22 minutes until golden and firm. Turn it out onto a rack right away."
+  ],
+  "tips": [
+   "The skillet has to be blazing and the fat smoking. That's where the crust comes from.",
+   "Don't overmix. It's a quick bread: mix and into the oven.",
+   "Sugar is optional and depends on who you ask. In the South it's usually left out."
+  ],
+  "video": "cast iron skillet cornbread"
+ }
+}

@@ -1,0 +1,151 @@
+{
+ "id": "lemontart",
+ "country": "France",
+ "region": "western-europe",
+ "course": "sweet",
+ "time": 180,
+ "serves": 10,
+ "ovenC": 150,
+ "ing": [
+  {
+   "q": 1,
+   "u": "base",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "cream",
+   "role": "liquid"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Tarta de Limón",
+  "blurb": "Una crema de limón horneada, no una cuajada removida al fuego. El horno suave la cuaja sin la más mínima piel ni burbuja.",
+  "ing": [
+   {
+    "n": "masa quebrada dulce",
+    "note": "horneada en blanco"
+   },
+   {
+    "n": "jugo de limón",
+    "note": "unos 6 limones"
+   },
+   {
+    "n": "ralladura de limón"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "crema espesa"
+   },
+   {
+    "n": "sal fina"
+   }
+  ],
+  "steps": [
+   "Frota la ralladura con el azúcar entre los dedos hasta que quede húmeda e intensamente aromática. Esto extrae mucho más aceite que simplemente mezclarla.",
+   "Bate dentro los huevos y las yemas, luego el jugo de limón, luego la crema y la sal. No batas aire.",
+   "Reposa 30 minutos y retira todas las burbujas de la superficie.",
+   "Cuela a una jarra. Coloca el fondo horneado sobre la rejilla del horno y vierte el relleno allí mismo, hasta el borde: llevar una tarta llena por la cocina nunca acaba bien.",
+   "Hornea a 150 °C durante 30-35 minutos, hasta que el centro tiemble como una sola lámina.",
+   "Enfría por completo y refrigera 2 horas. Espolvorea azúcar glas o quema la superficie con soplete justo antes de servir."
+  ],
+  "tips": [
+   "Suave y lento. Un horno fuerte cuaja los huevos de golpe y da una tarta granulosa que llora.",
+   "Retira las burbujas o se hornean como una espuma pálida sobre la superficie.",
+   "Rellénala dentro del horno. Todo pastelero con experiencia ha derramado una haciéndolo al revés."
+  ],
+  "video": "tarta de limón horneada"
+ },
+ "en": {
+  "name": "Lemon Tart",
+  "blurb": "A baked lemon custard, not a curd stirred on the stove. The gentle oven sets it without the slightest skin or bubble.",
+  "ing": [
+   {
+    "n": "sweet shortcrust pastry",
+    "note": "blind-baked"
+   },
+   {
+    "n": "lemon juice",
+    "note": "about 6 lemons"
+   },
+   {
+    "n": "lemon zest"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "heavy cream"
+   },
+   {
+    "n": "fine salt"
+   }
+  ],
+  "steps": [
+   "Rub the zest into the sugar with your fingers until it's damp and intensely fragrant. This pulls out far more oil than just stirring it in.",
+   "Whisk in the eggs and yolks, then the lemon juice, then the cream and salt. Don't whisk in air.",
+   "Rest 30 minutes and skim every bubble off the surface.",
+   "Strain into a jug. Set the baked shell on the oven rack and pour the filling in right there, up to the rim: carrying a full tart across the kitchen never ends well.",
+   "Bake at 150 °C for 30-35 minutes, until the center wobbles as a single sheet.",
+   "Cool completely and refrigerate 2 hours. Dust with powdered sugar or torch the surface just before serving."
+  ],
+  "tips": [
+   "Low and slow. A hot oven sets the eggs all at once and gives a grainy tart that weeps.",
+   "Skim the bubbles or they bake into a pale foam on the surface.",
+   "Fill it in the oven. Every experienced pastry cook has spilled one doing it the other way."
+  ],
+  "video": "baked French lemon tart"
+ }
+}

@@ -1,0 +1,228 @@
+{
+ "id": "pho",
+ "country": "Vietnam",
+ "region": "southeast-asia",
+ "course": "soup",
+ "time": 390,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 2,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 700,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "fishsauce",
+   "role": "salt"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "plate",
+   "k": "",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Phở Bò",
+  "blurb": "Aromáticos quemados, huesos blanqueados y seis horas de un caldo que no debe hervir jamás. La claridad es la medida de un buen pho.",
+  "ing": [
+   {
+    "n": "huesos de res y rabo"
+   },
+   {
+    "n": "falda de res"
+   },
+   {
+    "n": "cebolla",
+    "note": "partida y quemada"
+   },
+   {
+    "n": "jengibre",
+    "note": "partido y quemado"
+   },
+   {
+    "n": "anís estrellado"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "semilla de cilantro"
+   },
+   {
+    "n": "clavo"
+   },
+   {
+    "n": "salsa de pescado"
+   },
+   {
+    "n": "azúcar mascabado en trozo"
+   },
+   {
+    "n": "fideos de arroz",
+    "note": "banh pho"
+   },
+   {
+    "n": "lomo de res",
+    "note": "en láminas finísimas"
+   },
+   {
+    "n": "hierbas y germinados",
+    "note": "albahaca, cilantro, lima, chile"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cubre los huesos con agua fría, hierve fuerte 10 minutos, tira el agua y friega huesos y olla. Este paso feo es la razón de que un buen pho sea transparente.",
+   "Quema la cebolla y el jengibre directamente sobre la llama o bajo el grill hasta que estén ennegrecidos a manchas.",
+   "Tuesta las especias enteras en seco 2 minutos y átalas en un paño.",
+   "Devuelve los huesos a la olla limpia con 6 litros de agua fría, los aromáticos quemados, la bolsa de especias y la falda. Lleva al hervor más leve posible.",
+   "Que no hierva nunca. Espuma cada 30 minutos. Saca la falda a los 90 minutos y mantén el resto 5-6 horas.",
+   "Sazona con salsa de pescado, azúcar y sal. Cuela. Vierte el caldo hirviendo sobre los fideos cocidos y el lomo crudo laminado: el calor del caldo lo cuece. Sirve las hierbas aparte."
+  ],
+  "tips": [
+   "Blanquear y enjuagar. Saltártelo da un caldo gris y turbio, siempre.",
+   "El hervor fuerte emulsiona la grasa en el líquido y lo enturbia. Solo superficie temblorosa.",
+   "Sazona el caldo al final, cuando horas de reducción ya lo han concentrado."
+  ],
+  "video": "pho bo caldo claro técnica"
+ },
+ "en": {
+  "name": "Phở Bò",
+  "blurb": "Charred aromatics, blanched bones and six hours of a broth that must never boil. Clarity is the measure of good pho.",
+  "ing": [
+   {
+    "n": "beef bones and oxtail"
+   },
+   {
+    "n": "beef brisket"
+   },
+   {
+    "n": "onion",
+    "note": "halved and charred"
+   },
+   {
+    "n": "ginger",
+    "note": "halved and charred"
+   },
+   {
+    "n": "star anise"
+   },
+   {
+    "n": "cinnamon"
+   },
+   {
+    "n": "coriander seed"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "fish sauce"
+   },
+   {
+    "n": "rock sugar"
+   },
+   {
+    "n": "rice noodles",
+    "note": "banh pho"
+   },
+   {
+    "n": "beef sirloin",
+    "note": "sliced paper-thin"
+   },
+   {
+    "n": "herbs and sprouts",
+    "note": "basil, cilantro, lime, chile"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cover the bones with cold water, boil hard for 10 minutes, dump the water and scrub the bones and pot. This ugly step is why good pho is clear.",
+   "Char the onion and ginger directly over the flame or under the broiler until blackened in spots.",
+   "Dry-toast the whole spices for 2 minutes and tie them in cheesecloth.",
+   "Return the bones to the clean pot with 6 liters of cold water, the charred aromatics, the spice bag and the brisket. Bring to the barest possible simmer.",
+   "Never let it boil. Skim every 30 minutes. Pull the brisket at 90 minutes and keep the rest going for 5-6 hours.",
+   "Season with fish sauce, sugar and salt. Strain. Pour the boiling broth over the cooked noodles and the raw sliced sirloin: the heat of the broth cooks it. Serve the herbs on the side."
+  ],
+  "tips": [
+   "Blanch and rinse. Skip it and you get a gray, cloudy broth, every time.",
+   "A hard boil emulsifies the fat into the liquid and clouds it. Just a trembling surface.",
+   "Season the broth at the end, once hours of reduction have concentrated it."
+  ],
+  "video": "pho bo clear broth technique"
+ }
+}

@@ -1,0 +1,212 @@
+{
+ "id": "khaosoi",
+ "country": "Thailand",
+ "region": "southeast-asia",
+ "course": "soup",
+ "time": 75,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "noodles",
+   "role": "structure"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 800,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "fishsauce",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "palmsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "shallot",
+   "role": "garnish"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "mustard",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Khao Soi",
+  "blurb": "Curry con fideos del norte de Tailandia, con el mismo fideo hervido y frito. El nido crujiente de encima no es adorno: es la mitad de la textura del tazón.",
+  "ing": [
+   {
+    "n": "fideos de huevo",
+    "note": "la mitad para freír"
+   },
+   {
+    "n": "piernas de pollo"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "pasta de curry khao soi o rojo"
+   },
+   {
+    "n": "curry en polvo"
+   },
+   {
+    "n": "cúrcuma"
+   },
+   {
+    "n": "salsa de pescado"
+   },
+   {
+    "n": "azúcar de palma"
+   },
+   {
+    "n": "chalota",
+    "note": "cruda, en rodajas"
+   },
+   {
+    "n": "mostaza china encurtida"
+   },
+   {
+    "n": "lima"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír los fideos"
+   },
+   {
+    "n": "cilantro"
+   }
+  ],
+  "steps": [
+   "Fríe una cuarta parte de los fideos en aceite a 180 °C durante 30 segundos hasta que se inflen y doren. Escurre sobre papel.",
+   "Rompe la crema de coco en una olla hasta que el aceite se separe, y fríe en él la pasta de curry, el curry en polvo y la cúrcuma 4 minutos.",
+   "Añade el pollo y muévelo en la pasta.",
+   "Añade el resto de la leche de coco y cuece 35 minutos hasta que el pollo esté tierno.",
+   "Sazona con salsa de pescado y azúcar de palma: debe quedar rico, levemente dulce y salado.",
+   "Hierve los fideos restantes, repártelos en tazones, baña con el curry y corona con los fideos fritos, chalota cruda, encurtido, cilantro y lima."
+  ],
+  "tips": [
+   "Fríe los fideos primero, con el aceite limpio. Se conservan un día en una lata.",
+   "La chalota cruda y el encurtido cortan la grasa del coco. Servirlo sin ellos vuelve el tazón empalagoso.",
+   "Rompe la crema de coco, como en todo curry tailandés. Siempre es el primer paso."
+  ],
+  "video": "khao soi tailandés del norte"
+ },
+ "en": {
+  "name": "Khao Soi",
+  "blurb": "Northern Thai curry noodles, with the same noodle both boiled and fried. The crispy nest on top isn't garnish: it's half the texture of the bowl.",
+  "ing": [
+   {
+    "n": "egg noodles",
+    "note": "half for frying"
+   },
+   {
+    "n": "chicken legs"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "khao soi or red curry paste"
+   },
+   {
+    "n": "curry powder"
+   },
+   {
+    "n": "turmeric"
+   },
+   {
+    "n": "fish sauce"
+   },
+   {
+    "n": "palm sugar"
+   },
+   {
+    "n": "shallots",
+    "note": "raw, sliced"
+   },
+   {
+    "n": "pickled Chinese mustard greens"
+   },
+   {
+    "n": "limes"
+   },
+   {
+    "n": "oil",
+    "note": "for frying the noodles"
+   },
+   {
+    "n": "cilantro"
+   }
+  ],
+  "steps": [
+   "Fry a quarter of the noodles in oil at 180 °C for 30 seconds until puffed and golden. Drain on paper.",
+   "Crack the coconut cream in a pot until the oil separates, and fry the curry paste, curry powder and turmeric in it for 4 minutes.",
+   "Add the chicken and turn it in the paste.",
+   "Add the rest of the coconut milk and simmer 35 minutes until the chicken is tender.",
+   "Season with fish sauce and palm sugar: it should taste rich, slightly sweet and salty.",
+   "Boil the remaining noodles, divide among bowls, ladle the curry over and top with the fried noodles, raw shallot, pickled greens, cilantro and lime."
+  ],
+  "tips": [
+   "Fry the noodles first, in clean oil. They keep for a day in a tin.",
+   "The raw shallot and pickled greens cut the richness of the coconut. Serving it without them makes the bowl cloying.",
+   "Crack the coconut cream, as in every Thai curry. It's always the first step."
+  ],
+  "video": "northern Thai khao soi"
+ }
+}

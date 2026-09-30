@@ -1,0 +1,149 @@
+{
+ "id": "focaccia",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "bread",
+ "time": 900,
+ "serves": 8,
+ "ovenC": 230,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "g",
+   "k": "",
+   "role": "leaven"
+  },
+  {
+   "q": 12,
+   "u": "g",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Focaccia",
+  "blurb": "Ochenta por ciento de hidratación y una fermentación larga en frío. Sin amasado, solo pliegues, y una cantidad generosa de aceite en la bandeja.",
+  "ing": [
+   {
+    "n": "harina de fuerza"
+   },
+   {
+    "n": "agua",
+    "note": "templada"
+   },
+   {
+    "n": "levadura seca instantánea"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal en escamas"
+   },
+   {
+    "n": "romero"
+   },
+   {
+    "n": "agua para la salmuera"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el agua y la levadura en una masa tosca y húmeda. Reposa 30 minutos y luego integra la sal apretándola con la mano.",
+   "Haz cuatro tandas de pliegues dentro del bol, cada 30 minutos. La masa pasará de sopa a lisa y aireada.",
+   "Tapa y refrigera de 12 a 24 horas.",
+   "Vierte 60 ml de aceite en una bandeja de 30x20 cm. Vuelca la masa, gírala para cubrirla y déjala 3-4 horas a temperatura ambiente hasta que llene la bandeja.",
+   "Mezcla el aceite restante con las 2 cda de agua y viértelo por encima. Hunde los dedos con fuerza hasta el fondo, dejando la superficie llena de cráteres.",
+   "Esparce romero y sal en escamas. Hornea a 230 °C durante 22-25 minutos. Sácala del molde de inmediato para que la base siga crujiente."
+  ],
+  "tips": [
+   "La salmuera de aceite y agua por encima es lo que da esa corteza ampollada y como frita.",
+   "Hunde los dedos con convicción. Los hoyos tímidos desaparecen en el horno.",
+   "Sácala del molde nada más salir o la base se ablanda con su propio vapor."
+  ],
+  "video": "focaccia sin amasado alta hidratación"
+ },
+ "en": {
+  "name": "Focaccia",
+  "blurb": "Eighty percent hydration and a long cold ferment. No kneading, just folds, and a generous amount of oil in the pan.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "water",
+    "note": "lukewarm"
+   },
+   {
+    "n": "instant dry yeast"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "flaky salt"
+   },
+   {
+    "n": "rosemary"
+   },
+   {
+    "n": "water for the brine"
+   }
+  ],
+  "steps": [
+   "Mix the flour, water and yeast into a rough, wet dough. Rest 30 minutes, then squeeze in the salt by hand.",
+   "Do four sets of folds in the bowl, every 30 minutes. The dough will go from soup to smooth and airy.",
+   "Cover and refrigerate 12 to 24 hours.",
+   "Pour 60 ml of oil into a 30x20 cm pan. Tip in the dough, turn it to coat, and leave it 3-4 hours at room temperature until it fills the pan.",
+   "Mix the remaining oil with the 2 tbsp water and pour it over. Press your fingers firmly all the way to the bottom, leaving the surface full of craters.",
+   "Scatter with rosemary and flaky salt. Bake at 230 °C for 22-25 minutes. Take it out of the pan immediately so the base stays crisp."
+  ],
+  "tips": [
+   "The oil-and-water brine on top is what gives that blistered, almost fried crust.",
+   "Dimple with conviction. Timid holes disappear in the oven.",
+   "Get it out of the pan straight away or the base goes soft in its own steam."
+  ],
+  "video": "no knead high hydration focaccia"
+ }
+}

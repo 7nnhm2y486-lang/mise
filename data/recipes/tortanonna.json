@@ -1,0 +1,191 @@
+{
+ "id": "tortanonna",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 150,
+ "serves": 10,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 600,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 130,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "thicken"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "pinenut",
+   "role": "crunch"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Torta della Nonna",
+  "blurb": "Pasta frolla rellena de crema pastelera al limón y cubierta de piñones. Los piñones se hunden ligeramente para que no se quemen antes de que la tarta esté hecha.",
+  "ing": [
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "mantequilla",
+    "note": "fría"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "leche entera",
+    "note": "para la crema"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "azúcar",
+    "note": "para la crema"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "limones",
+    "note": "la cáscara"
+   },
+   {
+    "n": "piñones"
+   },
+   {
+    "n": "azúcar glas"
+   }
+  ],
+  "steps": [
+   "Haz la pasta frolla integrando la mantequilla fría en la harina y el azúcar, y uniendo con los huevos. Refrigera 1 hora.",
+   "Infusiona la leche con la cáscara de limón 20 minutos y cuélala.",
+   "Bate las yemas con el azúcar y la fécula, incorpora la leche caliente y cocina batiendo hasta que hierva un minuto completo.",
+   "Enfría la crema con film pegado a la superficie.",
+   "Forra un molde de 24 cm con dos tercios de la masa, rellena con la crema fría y cubre con el resto de la masa estirada, sellando los bordes.",
+   "Esparce los piñones y presiónalos ligeramente para hundirlos. Hornea a 180 °C durante 45 minutos. Enfría y espolvorea azúcar glas."
+  ],
+  "tips": [
+   "Hunde los piñones. Si quedan encima se queman antes de que la tarta cuaje.",
+   "La crema tiene que estar fría antes de montar, o ablanda la masa de la base.",
+   "Deja que hierva un minuto: la fécula necesita ese hervor y la enzima de la yema también."
+  ],
+  "video": "torta della nonna piñones"
+ },
+ "en": {
+  "name": "Torta della Nonna",
+  "blurb": "Pasta frolla filled with lemon pastry cream and topped with pine nuts. The pine nuts are pressed in slightly so they don't burn before the tart is done.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter",
+    "note": "cold"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "whole milk",
+    "note": "for the pastry cream"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "sugar",
+    "note": "for the pastry cream"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "lemons",
+    "note": "the zest"
+   },
+   {
+    "n": "pine nuts"
+   },
+   {
+    "n": "powdered sugar"
+   }
+  ],
+  "steps": [
+   "Make the pasta frolla by working the cold butter into the flour and sugar and bringing it together with the eggs. Refrigerate 1 hour.",
+   "Infuse the milk with the lemon zest for 20 minutes and strain.",
+   "Whisk the yolks with the sugar and cornstarch, whisk in the hot milk and cook, whisking, until it boils for one full minute.",
+   "Cool the pastry cream with plastic wrap pressed onto the surface.",
+   "Line a 24 cm pan with two-thirds of the dough, fill with the cold pastry cream and cover with the rest of the dough rolled out, sealing the edges.",
+   "Scatter the pine nuts and press them in lightly. Bake at 180 °C for 45 minutes. Cool and dust with powdered sugar."
+  ],
+  "tips": [
+   "Press the pine nuts in. Left on top, they burn before the tart sets.",
+   "The pastry cream must be cold before assembling, or it softens the bottom crust.",
+   "Let it boil for a minute: the cornstarch needs that boil, and so does the enzyme in the yolk."
+  ],
+  "video": "torta della nonna pine nuts"
+ }
+}

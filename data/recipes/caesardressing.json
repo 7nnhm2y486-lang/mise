@@ -1,0 +1,174 @@
+{
+ "id": "caesardressing",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 15,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 6,
+   "u": "fillet",
+   "k": "anchovy",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "mustard",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "anchovy",
+   "role": "umami"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "parmesan",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Aliño César",
+  "blurb": "El original nació en Tijuana y lleva anchoa, aunque durante décadas se negara. Sin ella el aliño es solo mayonesa con queso.",
+  "ing": [
+   {
+    "n": "anchoas"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "mostaza de Dijon"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "salsa Worcestershire"
+   },
+   {
+    "n": "aceite de oliva",
+    "note": "suave"
+   },
+   {
+    "n": "aceite neutro"
+   },
+   {
+    "n": "parmesano",
+    "note": "rallado fino"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Machaca las anchoas y el ajo en un mortero hasta obtener una pasta lisa.",
+   "Pásala a un bol y bate con las yemas, la mostaza, el limón y la Worcestershire.",
+   "Añade los dos aceites mezclados en hilo muy fino, batiendo sin parar, como una mayonesa.",
+   "Cuando esté espeso y brillante, incorpora el parmesano rallado.",
+   "Afloja con una cucharada de agua fría hasta que caiga de la cuchara en cinta.",
+   "Muele pimienta con generosidad. Se conserva tres días en el refrigerador."
+  ],
+  "tips": [
+   "Las anchoas se disuelven en pasta, no se pican. Nadie debe encontrar un trozo.",
+   "Mezcla los dos aceites: solo de oliva queda amargo al emulsionar a alta velocidad.",
+   "Si te preocupa el huevo crudo, usa yemas pasteurizadas: la textura es idéntica."
+  ],
+  "video": "aliño césar original anchoa"
+ },
+ "en": {
+  "name": "Caesar Dressing",
+  "blurb": "The original was born in Tijuana and contains anchovy, even though that was denied for decades. Without it, the dressing is just mayonnaise with cheese.",
+  "ing": [
+   {
+    "n": "anchovies"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "Dijon mustard"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "Worcestershire sauce"
+   },
+   {
+    "n": "olive oil",
+    "note": "mild"
+   },
+   {
+    "n": "neutral oil"
+   },
+   {
+    "n": "Parmesan",
+    "note": "finely grated"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Pound the anchovies and garlic in a mortar into a smooth paste.",
+   "Transfer to a bowl and whisk with the yolks, mustard, lemon and Worcestershire.",
+   "Add the two oils, combined, in a very thin stream, whisking constantly, like a mayonnaise.",
+   "When it's thick and glossy, fold in the grated Parmesan.",
+   "Loosen with a tablespoon of cold water until it falls from the spoon in a ribbon.",
+   "Grind in pepper generously. Keeps three days in the refrigerator."
+  ],
+  "tips": [
+   "The anchovies dissolve into a paste; they don't get chopped. Nobody should find a piece.",
+   "Blend the two oils: straight olive oil turns bitter when emulsified at high speed.",
+   "If raw egg worries you, use pasteurized yolks: the texture is identical."
+  ],
+  "video": "original caesar dressing with anchovy"
+ }
+}

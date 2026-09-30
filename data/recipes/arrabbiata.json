@@ -1,0 +1,152 @@
+{
+ "id": "arrabbiata",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 25,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "pecorino",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Penne all'Arrabbiata",
+  "blurb": "Enfadada, literalmente, por el chile. La clave es infusionar el chile en el aceite antes que nada: el picante debe estar en la grasa, no flotando en el tomate.",
+  "ing": [
+   {
+    "n": "penne rigate"
+   },
+   {
+    "n": "tomate pelado"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "chiles secos",
+    "note": "enteros, partidos"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "pecorino",
+    "note": "opcional"
+   },
+   {
+    "n": "sal",
+    "note": "para el agua"
+   }
+  ],
+  "steps": [
+   "Pon el aceite, el ajo entero aplastado y los chiles partidos en la sartén fría.",
+   "Calienta a fuego bajo 6-8 minutos, hasta que el aceite huela intensamente a chile y el ajo esté dorado.",
+   "Retira el ajo si quieres una salsa limpia, o déjalo.",
+   "Añade el tomate machacado y la sal y cocina 15 minutos a fuego vivo.",
+   "Cuece la penne al dente, escúrrela un minuto antes y termínala en la sartén con un poco de agua de cocción.",
+   "Mucho perejil al final. El pecorino es opcional y en Roma se discute."
+  ],
+  "tips": [
+   "El chile se infusiona en el aceite frío. Echado al tomate solo pica, no aromatiza.",
+   "Fuego vivo con el tomate: la arrabbiata debe quedar concentrada y brillante.",
+   "El perejil no es adorno: es el contrapunto fresco que necesita el picante."
+  ],
+  "video": "penne all'arrabbiata"
+ },
+ "en": {
+  "name": "Penne all'Arrabbiata",
+  "blurb": "Angry, literally, because of the chile. The key is infusing the chile into the oil before anything else: the heat should live in the fat, not float in the tomato.",
+  "ing": [
+   {
+    "n": "penne rigate"
+   },
+   {
+    "n": "peeled tomatoes"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "dried chiles",
+    "note": "whole, split"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "pecorino",
+    "note": "optional"
+   },
+   {
+    "n": "salt",
+    "note": "for the water"
+   }
+  ],
+  "steps": [
+   "Put the oil, the whole crushed garlic and the split chiles in a cold pan.",
+   "Heat over low for 6-8 minutes, until the oil smells strongly of chile and the garlic is golden.",
+   "Remove the garlic if you want a clean sauce, or leave it in.",
+   "Add the crushed tomatoes and the salt and cook for 15 minutes over high heat.",
+   "Cook the penne al dente, drain it a minute early and finish it in the pan with a little cooking water.",
+   "Lots of parsley at the end. Pecorino is optional, and in Rome it's argued about."
+  ],
+  "tips": [
+   "The chile infuses into cold oil. Added to the tomato it only burns, it doesn't perfume.",
+   "High heat for the tomato: arrabbiata should end up concentrated and glossy.",
+   "The parsley isn't garnish: it's the fresh counterpoint the heat needs."
+  ],
+  "video": "penne all'arrabbiata"
+ }
+}

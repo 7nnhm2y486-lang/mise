@@ -1,0 +1,126 @@
+{
+ "id": "fiorentina",
+ "country": "Italy",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "sprig",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Bistecca alla Fiorentina",
+  "blurb": "Un chuletón de cinco centímetros sobre brasas vivas, servido al punto rojo. La carne sale del refrigerador dos horas antes y no se sazona hasta después de sellarla.",
+  "ing": [
+   {
+    "n": "chuletón con hueso",
+    "note": "de 5 cm de grosor"
+   },
+   {
+    "n": "sal gruesa"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "aceite de oliva",
+    "note": "crudo, para servir"
+   },
+   {
+    "n": "romero"
+   },
+   {
+    "n": "limón"
+   }
+  ],
+  "steps": [
+   "Saca la carne del refrigerador 2 horas antes. Un chuletón frío por dentro es imposible de cocinar bien.",
+   "Prepara brasas muy vivas. Seca la superficie de la carne con papel.",
+   "Asa 5-6 minutos por cada lado sin moverla, hasta formar una costra oscura.",
+   "Ponla de pie sobre el hueso y el borde de grasa otros 5-7 minutos, hasta alcanzar 48-50 °C en el centro.",
+   "Sálala ahora, generosamente, con sal gruesa por ambas caras.",
+   "Reposa 10 minutos sobre una rejilla, corta el lomo y el solomillo separándolos del hueso, y lamina contra la fibra. Aceite crudo y limón al servir."
+  ],
+  "tips": [
+   "Sal después de sellar. La sal antes extrae humedad y estorba la costra.",
+   "48-50 °C al salir del fuego: la cocción residual en una pieza así es enorme.",
+   "Al punto rojo o no la hagas. Este corte pasado es simplemente carne dura y cara."
+  ],
+  "video": "bistecca alla fiorentina"
+ },
+ "en": {
+  "name": "Bistecca alla Fiorentina",
+  "blurb": "A five-centimeter bone-in steak over live coals, served rare. The meat comes out of the fridge two hours ahead and is not salted until after searing.",
+  "ing": [
+   {
+    "n": "bone-in porterhouse",
+    "note": "5 cm thick"
+   },
+   {
+    "n": "coarse salt"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "olive oil",
+    "note": "raw, for serving"
+   },
+   {
+    "n": "rosemary"
+   },
+   {
+    "n": "lemon"
+   }
+  ],
+  "steps": [
+   "Take the steak out of the fridge 2 hours ahead. A steak that is cold inside is impossible to cook well.",
+   "Build very hot coals. Pat the surface of the meat dry with paper towels.",
+   "Grill 5-6 minutes per side without moving it, until a dark crust forms.",
+   "Stand it up on the bone and fat edge for another 5-7 minutes, until the center reaches 48-50 °C.",
+   "Salt it now, generously, with coarse salt on both sides.",
+   "Rest 10 minutes on a rack, cut the strip and the tenderloin off the bone, and slice against the grain. Raw olive oil and lemon at the table."
+  ],
+  "tips": [
+   "Salt after searing. Salt beforehand draws out moisture and gets in the way of the crust.",
+   "48-50 °C off the heat: carryover cooking in a cut this size is enormous.",
+   "Rare or don't bother. This cut cooked through is just tough, expensive meat."
+  ],
+  "video": "bistecca alla fiorentina"
+ }
+}

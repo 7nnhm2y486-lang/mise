@@ -1,0 +1,202 @@
+{
+ "id": "remoulade",
+ "country": "France",
+ "region": "western-europe",
+ "course": "sauce",
+ "time": 15,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "mayo",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "mustard",
+   "role": "aromatic"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 15,
+   "u": "g",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "chive",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "fillet",
+   "k": "anchovy",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Salsa Remoulade",
+  "blurb": "Mayonesa con encurtidos, alcaparras y hierbas. La versión de Luisiana lleva pimentón y mostaza criolla y es otra salsa: incluyo las dos.",
+  "ing": [
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "pepinillos",
+    "note": "picados finos"
+   },
+   {
+    "n": "alcaparras",
+    "note": "picadas"
+   },
+   {
+    "n": "mostaza de Dijon"
+   },
+   {
+    "n": "estragón"
+   },
+   {
+    "n": "perejil"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "anchoa",
+    "note": "opcional"
+   },
+   {
+    "n": "jugo de limón"
+   },
+   {
+    "n": "pimentón ahumado",
+    "note": "para la versión criolla"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   }
+  ],
+  "steps": [
+   "Escurre bien los pepinillos y las alcaparras y pícalos muy finos. El exceso de salmuera afloja la salsa.",
+   "Pica las hierbas al momento, no con antelación.",
+   "Mezcla la mayonesa con la mostaza y el limón.",
+   "Incorpora los encurtidos, las alcaparras, las hierbas y la anchoa machacada si la usas.",
+   "Para la versión criolla de Luisiana, añade el pimentón ahumado y un poco de cayena, y sube la mostaza.",
+   "Rectifica y reposa una hora. Aguanta cinco días."
+  ],
+  "tips": [
+   "Escurre bien los encurtidos. Es la diferencia entre una salsa firme y una aguada.",
+   "La anchoa no se nota como pescado: aporta el fondo salado que todo el mundo echa de menos sin saberlo.",
+   "Va con pescado frito, marisco frío, papas y carnes frías."
+  ],
+  "video": "salsa remoulade francesa"
+ },
+ "en": {
+  "name": "Rémoulade",
+  "blurb": "Mayonnaise with pickles, capers and herbs. The Louisiana version adds paprika and Creole mustard and is a different sauce: I've included both.",
+  "ing": [
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "cornichons",
+    "note": "finely chopped"
+   },
+   {
+    "n": "capers",
+    "note": "chopped"
+   },
+   {
+    "n": "Dijon mustard"
+   },
+   {
+    "n": "tarragon"
+   },
+   {
+    "n": "parsley"
+   },
+   {
+    "n": "chives"
+   },
+   {
+    "n": "anchovy",
+    "note": "optional"
+   },
+   {
+    "n": "lemon juice"
+   },
+   {
+    "n": "smoked paprika",
+    "note": "for the Creole version"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Drain the cornichons and capers well and chop them very fine. Excess brine loosens the sauce.",
+   "Chop the herbs at the last minute, not ahead of time.",
+   "Mix the mayonnaise with the mustard and lemon.",
+   "Stir in the pickles, capers, herbs and the mashed anchovy if using.",
+   "For the Louisiana Creole version, add the smoked paprika and a little cayenne, and increase the mustard.",
+   "Adjust the seasoning and let it rest an hour. It keeps five days."
+  ],
+  "tips": [
+   "Drain the pickles well. It's the difference between a firm sauce and a watery one.",
+   "The anchovy doesn't read as fish: it adds the savory backbone everyone misses without knowing it.",
+   "Goes with fried fish, cold seafood, fries and cold cuts."
+  ],
+  "video": "french remoulade sauce"
+ }
+}

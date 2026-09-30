@@ -1,0 +1,200 @@
+{
+ "id": "koshari",
+ "country": "Egypt",
+ "region": "north-africa",
+ "course": "main",
+ "time": 90,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 240,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "onion",
+   "role": "crunch"
+  },
+  {
+   "q": 700,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 5,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Koshari",
+  "blurb": "Arroz, lentejas, pasta, garbanzos, salsa de tomate y cebolla frita en un solo tazón. Cada componente se cocina aparte y la cebolla crujiente no es opcional.",
+  "ing": [
+   {
+    "n": "lentejas pardinas"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "pasta pequeña",
+    "note": "codos o ditalini"
+   },
+   {
+    "n": "garbanzos",
+    "note": "cocidos"
+   },
+   {
+    "n": "cebolla",
+    "note": "en rodajas finas"
+   },
+   {
+    "n": "passata de tomate"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "hojuelas de chile"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Fríe las cebollas en el aceite a fuego medio 25 minutos hasta que estén muy doradas y crujientes. Escurre sobre papel y guarda el aceite.",
+   "Cuece las lentejas 20 minutos hasta que estén tiernas pero enteras. Escurre.",
+   "Cuece el arroz por absorción con parte del aceite de cebolla y algo del agua de las lentejas.",
+   "Hierve la pasta aparte y escúrrela.",
+   "Para la salsa, fríe el ajo en aceite de cebolla, añade el comino y el chile, luego la passata y el vinagre. Cuece 20 minutos hasta que espese y esté punzante.",
+   "Monta capas de arroz, lentejas, pasta y garbanzos, baña con la salsa y corona con la cebolla crujiente."
+  ],
+  "tips": [
+   "Las cebollas son el plato. Llévalas más allá del dorado, hasta el marrón oscuro.",
+   "La salsa debe quedar agresivamente avinagrada: está cortando muchísimo almidón.",
+   "Todo por separado. Cocinarlo como una sola olla te da un puré."
+  ],
+  "video": "koshari egipcio"
+ },
+ "en": {
+  "name": "Koshari",
+  "blurb": "Rice, lentils, pasta, chickpeas, tomato sauce and fried onions in a single bowl. Each component is cooked separately, and the crispy onions are not optional.",
+  "ing": [
+   {
+    "n": "brown lentils"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "small pasta",
+    "note": "elbows or ditalini"
+   },
+   {
+    "n": "chickpeas",
+    "note": "cooked"
+   },
+   {
+    "n": "onions",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "tomato passata"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "chile flakes"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Fry the onions in the oil over medium heat for 25 minutes until deep golden and crisp. Drain on paper and save the oil.",
+   "Boil the lentils 20 minutes until tender but whole. Drain.",
+   "Cook the rice by absorption with some of the onion oil and a little of the lentil water.",
+   "Boil the pasta separately and drain.",
+   "For the sauce, fry the garlic in onion oil, add the cumin and chile, then the passata and vinegar. Simmer 20 minutes until thick and sharp.",
+   "Layer rice, lentils, pasta and chickpeas, spoon the sauce over and top with the crispy onions."
+  ],
+  "tips": [
+   "The onions are the dish. Take them past golden, all the way to dark brown.",
+   "The sauce should be aggressively vinegary: it's cutting through a huge amount of starch.",
+   "Everything separately. Cook it as a one-pot and you get mush."
+  ],
+  "video": "Egyptian koshari"
+ }
+}

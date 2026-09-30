@@ -1,0 +1,188 @@
+{
+ "id": "churros",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 45,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "",
+   "role": "liquid"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 280,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "cornstarch",
+   "role": "thicken"
+  }
+ ],
+ "es": {
+  "name": "Churros",
+  "blurb": "Una pasta de harina escaldada, no una masa líquida. La boquilla rizada es estructural: las estrías dan la superficie que los hace crujientes en vez de correosos.",
+  "ing": [
+   {
+    "n": "agua"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "harina común"
+   },
+   {
+    "n": "sal fina"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "azúcar",
+    "note": "para rebozar"
+   },
+   {
+    "n": "canela"
+   },
+   {
+    "n": "chocolate negro",
+    "note": "para mojar"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "fécula de maíz"
+   }
+  ],
+  "steps": [
+   "Hierve el agua, la mantequilla, la sal y el azúcar. Echa toda la harina de una vez y bate con fuerza hasta formar una bola lisa que deje la olla.",
+   "Bate 2 minutos más fuera del fuego para que temple. La pasta debe quedar rígida y brillante.",
+   "Pásala a una manga con boquilla de estrella cerrada grande. Una boquilla redonda te da un interior crudo, así que esto importa.",
+   "Calienta el aceite a 180 °C y escudilla tiras directamente dentro, cortando con tijeras. Fríe 2 minutos por lado hasta dorar bien.",
+   "Escurre un momento y reboza en azúcar con canela mientras estén calientes.",
+   "Para el chocolate, calienta la leche con la fécula disuelta y bate dentro el chocolate hasta que espese lo bastante para napar una cuchara."
+  ],
+  "tips": [
+   "Boquilla de estrella cerrada y una manga resistente: la pasta es rígida y reventará una fina.",
+   "180 °C exactos. Más fríos absorben aceite; más calientes cuajan por fuera antes de cocerse por dentro y revientan.",
+   "Cómelos en diez minutos. Los churros no esperan."
+  ],
+  "video": "churros con chocolate"
+ },
+ "en": {
+  "name": "Churros",
+  "blurb": "A scalded flour paste, not a batter. The star tip is structural: the ridges create the surface area that makes them crisp instead of chewy.",
+  "ing": [
+   {
+    "n": "water"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "fine salt"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "sugar",
+    "note": "for coating"
+   },
+   {
+    "n": "cinnamon"
+   },
+   {
+    "n": "dark chocolate",
+    "note": "for dipping"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "cornstarch"
+   }
+  ],
+  "steps": [
+   "Boil the water, butter, salt and sugar. Add all the flour at once and beat hard until it forms a smooth ball that leaves the sides of the pot.",
+   "Beat 2 more minutes off the heat to cool it slightly. The paste should be stiff and glossy.",
+   "Transfer to a piping bag with a large closed star tip. A round tip gives you a raw center, so this matters.",
+   "Heat the oil to 180 °C and pipe lengths straight in, snipping with scissors. Fry 2 minutes per side until deep golden.",
+   "Drain briefly and roll in cinnamon sugar while hot.",
+   "For the chocolate, heat the milk with the dissolved cornstarch and whisk in the chocolate until thick enough to coat a spoon."
+  ],
+  "tips": [
+   "Closed star tip and a sturdy bag: the paste is stiff and will burst a thin one.",
+   "Exactly 180 °C. Cooler and they soak up oil; hotter and they set outside before cooking through, and burst.",
+   "Eat them within ten minutes. Churros don't wait."
+  ],
+  "video": "churros con chocolate"
+ }
+}

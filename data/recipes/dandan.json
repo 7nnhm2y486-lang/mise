@@ -1,0 +1,214 @@
+{
+ "id": "dandan",
+ "country": "China",
+ "region": "east-asia",
+ "course": "main",
+ "time": 35,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "noodles",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "tahini",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "chilli",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "garnish"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "peanut",
+   "role": "crunch"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Fideos Dan Dan",
+  "blurb": "La salsa espera en el fondo del tazón y se mezcla en la mesa. Pasta de sésamo, aceite de chile y pimienta de Sichuan, con cerdo crujiente encima.",
+  "ing": [
+   {
+    "n": "fideos de trigo",
+    "note": "finos"
+   },
+   {
+    "n": "cerdo picado"
+   },
+   {
+    "n": "ya cai",
+    "note": "verdura encurtida"
+   },
+   {
+    "n": "pasta de sésamo china"
+   },
+   {
+    "n": "aceite de chile",
+    "note": "con su sedimento"
+   },
+   {
+    "n": "salsa de soja clara"
+   },
+   {
+    "n": "vinagre de Chinkiang"
+   },
+   {
+    "n": "pimienta de Sichuan",
+    "note": "molida"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "cebollín"
+   },
+   {
+    "n": "cacahuates"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Fríe el cerdo con fuerza en aceite, deshaciéndolo, 6-8 minutos hasta que esté genuinamente crujiente y oscuro, no solo cocido.",
+   "Añade el ya cai y fríe 2 minutos más. Reserva.",
+   "En cada tazón, bate la pasta de sésamo, la soja, el vinagre, el azúcar, el ajo machacado y la pimienta molida con 3 cucharadas del agua de los fideos hasta alisar.",
+   "Añade el aceite de chile, sedimento incluido: el sedimento es donde está el sabor.",
+   "Hierve los fideos y pásalos directamente a los tazones con algo del agua adherida.",
+   "Corona con el cerdo crujiente, cebollín y cacahuates machacados. Mezcla bien antes de comer."
+  ],
+  "tips": [
+   "La pasta de sésamo china se hace con semillas tostadas y es mucho más oscura que el tahini. El tahini sirve, pero sabe más ligero.",
+   "Fríe el cerdo hasta que esté realmente crujiente. Un picado blando vuelve pesado el tazón.",
+   "Afloja la salsa con agua de los fideos, no con agua sola. El almidón la ayuda a adherirse."
+  ],
+  "video": "fideos dan dan sichuan"
+ },
+ "en": {
+  "name": "Dan Dan Noodles",
+  "blurb": "The sauce waits at the bottom of the bowl and gets mixed at the table. Sesame paste, chili oil and Sichuan pepper, with crispy pork on top.",
+  "ing": [
+   {
+    "n": "wheat noodles",
+    "note": "thin"
+   },
+   {
+    "n": "ground pork"
+   },
+   {
+    "n": "ya cai",
+    "note": "pickled vegetable"
+   },
+   {
+    "n": "Chinese sesame paste"
+   },
+   {
+    "n": "chili oil",
+    "note": "with its sediment"
+   },
+   {
+    "n": "light soy sauce"
+   },
+   {
+    "n": "Chinkiang vinegar"
+   },
+   {
+    "n": "Sichuan pepper",
+    "note": "ground"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "scallions"
+   },
+   {
+    "n": "peanuts"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Fry the pork hard in oil, breaking it up, for 6-8 minutes until genuinely crisp and dark, not just cooked.",
+   "Add the ya cai and fry 2 minutes more. Set aside.",
+   "In each bowl, whisk the sesame paste, soy sauce, vinegar, sugar, crushed garlic and ground pepper with 3 tablespoons of the noodle water until smooth.",
+   "Add the chili oil, sediment included: the sediment is where the flavor is.",
+   "Boil the noodles and transfer them straight to the bowls with some of the water still clinging.",
+   "Top with the crispy pork, scallions and crushed peanuts. Mix well before eating."
+  ],
+  "tips": [
+   "Chinese sesame paste is made from toasted seeds and is much darker than tahini. Tahini works, but tastes lighter.",
+   "Fry the pork until it's really crisp. Soft ground meat makes the bowl heavy.",
+   "Loosen the sauce with noodle water, not plain water. The starch helps it cling."
+  ],
+  "video": "sichuan dan dan noodles"
+ }
+}

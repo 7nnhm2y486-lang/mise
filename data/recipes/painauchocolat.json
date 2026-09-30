@@ -1,0 +1,129 @@
+{
+ "id": "painauchocolat",
+ "country": "France",
+ "region": "western-europe",
+ "course": "pastry",
+ "time": 1800,
+ "serves": 10,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 1,
+   "u": "batch",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 20,
+   "u": "",
+   "k": "darkchocolate",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "glaze"
+  },
+  {
+   "q": 280,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 55,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Pain au Chocolat",
+  "blurb": "La misma masa laminada, cortada en rectángulos alrededor de dos barritas de chocolate. Más fácil que el croissant porque no hay técnica de enrollado que puedas arruinar.",
+  "ing": [
+   {
+    "n": "masa de croissant",
+    "note": "laminada como en la receta anterior"
+   },
+   {
+    "n": "barritas de chocolate",
+    "note": "o 20 tiras de chocolate al 60%"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "mantequilla",
+    "note": "en el laminado"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "azúcar"
+   }
+  ],
+  "steps": [
+   "Haz y lamina la masa exactamente como para croissants, con los tres pliegues completos.",
+   "Estira a 4 mm y corta rectángulos de unos 8 por 14 cm.",
+   "Coloca una barrita cruzada en un extremo, dobla la masa sobre ella, pon la segunda barrita sobre la costura y enrolla para que termine con la costura abajo.",
+   "Presiona la costura con suavidad y coloca las piezas con la costura hacia abajo para que no se desenrollen.",
+   "Fermenta 2-3 horas a 24-26 °C hasta que estén visiblemente hinchados y temblorosos.",
+   "Pinta con huevo y hornea a 200 °C durante 16-18 minutos, hasta que estén bien dorados también por debajo."
+  ],
+  "tips": [
+   "Costura abajo, siempre. Una pieza que se desenrolla en el horno pierde toda su mantequilla.",
+   "Dos barritas, no una, para que el chocolate se distribuya en vez de acumularse en un bloque.",
+   "El chocolate por encima del 60% mantiene la forma; uno más dulce se vuelve líquido y se escapa."
+  ],
+  "video": "pain au chocolat"
+ },
+ "en": {
+  "name": "Pain au Chocolat",
+  "blurb": "The same laminated dough, cut into rectangles around two chocolate batons. Easier than a croissant because there's no rolling technique to ruin.",
+  "ing": [
+   {
+    "n": "croissant dough",
+    "note": "laminated as in the previous recipe"
+   },
+   {
+    "n": "chocolate batons",
+    "note": "or 20 strips of 60% chocolate"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "butter",
+    "note": "in the lamination"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "sugar"
+   }
+  ],
+  "steps": [
+   "Make and laminate the dough exactly as for croissants, with all three folds.",
+   "Roll out to 4 mm and cut rectangles of about 8 by 14 cm.",
+   "Lay one baton across one end, fold the dough over it, place the second baton over the seam and roll so it finishes seam-side down.",
+   "Press the seam gently and set the pieces seam-side down so they don't unroll.",
+   "Proof for 2-3 hours at 24-26 °C until visibly puffed and wobbly.",
+   "Brush with egg and bake at 200 °C for 16-18 minutes, until deeply golden underneath too."
+  ],
+  "tips": [
+   "Seam down, always. A piece that unrolls in the oven loses all its butter.",
+   "Two batons, not one, so the chocolate is spread out instead of pooling in a single block.",
+   "Chocolate above 60% holds its shape; a sweeter one turns liquid and runs out."
+  ],
+  "video": "pain au chocolat"
+ }
+}

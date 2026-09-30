@@ -1,0 +1,168 @@
+{
+ "id": "harissa",
+ "country": "Tunisia",
+ "region": "north-africa",
+ "course": "sauce",
+ "time": 60,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 80,
+   "u": "g",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "structure"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Harissa",
+  "blurb": "Chiles secos rehidratados con alcaravea y comino. La alcaravea es el ingrediente que casi nadie identifica y sin el cual no sabe a harissa.",
+  "ing": [
+   {
+    "n": "chiles secos",
+    "note": "mezcla de dulces y picantes"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "alcaravea",
+    "note": "tostada"
+   },
+   {
+    "n": "comino",
+    "note": "tostado"
+   },
+   {
+    "n": "semilla de cilantro",
+    "note": "tostada"
+   },
+   {
+    "n": "pimientos rojos",
+    "note": "asados y pelados"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "vinagre de vino tinto"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Retira los tallos y la mayoría de las semillas de los chiles y remójalos en agua caliente 30 minutos.",
+   "Tuesta la alcaravea, el comino y el cilantro en seco 1 minuto y muélelos.",
+   "Asa y pela los pimientos rojos.",
+   "Escurre los chiles y tritúralos con los pimientos, el ajo, las especias, el vinagre y la sal hasta obtener una pasta espesa.",
+   "Incorpora el aceite en hilo con la máquina en marcha.",
+   "Guarda en un frasco con una capa de aceite encima. Aguanta un mes en el refrigerador."
+  ],
+  "tips": [
+   "La alcaravea es obligatoria. Es lo que distingue la harissa de cualquier otra pasta de chile.",
+   "Mezcla chiles dulces y picantes para tener color y sabor sin un picor insoportable.",
+   "La capa de aceite encima no es decorativa: es lo que la conserva."
+  ],
+  "video": "harissa tunecina casera"
+ },
+ "en": {
+  "name": "Harissa",
+  "blurb": "Rehydrated dried chiles with caraway and cumin. Caraway is the ingredient almost nobody can pick out, and without it, it doesn't taste like harissa.",
+  "ing": [
+   {
+    "n": "dried chiles",
+    "note": "a mix of mild and hot"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "caraway",
+    "note": "toasted"
+   },
+   {
+    "n": "cumin",
+    "note": "toasted"
+   },
+   {
+    "n": "coriander seed",
+    "note": "toasted"
+   },
+   {
+    "n": "red bell peppers",
+    "note": "roasted and peeled"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "red wine vinegar"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Remove the stems and most of the seeds from the chiles and soak them in hot water for 30 minutes.",
+   "Dry-toast the caraway, cumin and coriander for 1 minute and grind them.",
+   "Roast and peel the red peppers.",
+   "Drain the chiles and blend them with the peppers, garlic, spices, vinegar and salt into a thick paste.",
+   "Stream in the oil with the machine running.",
+   "Store in a jar with a layer of oil on top. It keeps a month in the fridge."
+  ],
+  "tips": [
+   "Caraway is mandatory. It is what sets harissa apart from any other chile paste.",
+   "Mix mild and hot chiles for color and flavor without unbearable heat.",
+   "The layer of oil on top isn't decoration: it's what preserves it."
+  ],
+  "video": "homemade Tunisian harissa"
+ }
+}
