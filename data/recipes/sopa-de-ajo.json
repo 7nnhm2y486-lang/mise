@@ -1,0 +1,149 @@
+{
+ "id": "sopa-de-ajo",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 5,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 8,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "prosciutto",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Sopa de ajo castellana",
+  "blurb": "Sopa de pan, ajo y pimentón con huevo escalfado y jamón. Humilde y reconfortante, de Castilla.",
+  "ing": [
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "ajo",
+    "note": "en láminas"
+   },
+   {
+    "n": "pan del día anterior",
+    "note": "en rebanadas finas"
+   },
+   {
+    "n": "pimentón de la Vera"
+   },
+   {
+    "n": "agua caliente"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "jamón serrano",
+    "note": "en dados"
+   }
+  ],
+  "steps": [
+   "Dora el ajo en el aceite a fuego bajo 3 minutos. Añade el jamón y el pan y cuece 3 minutos.",
+   "Retira del fuego y añade el pimentón.",
+   "Añade el agua caliente y la sal y cuece 15 minutos.",
+   "Casca los huevos en la sopa y escálfalos 4 minutos.",
+   "Sirve en cazuelas de barro."
+  ],
+  "tips": [
+   "Retira del fuego antes del pimentón: se quema en segundos.",
+   "Tradicionalmente se termina en el horno en cazuelitas individuales."
+  ],
+  "video": "sopa de ajo castellana"
+ },
+ "en": {
+  "name": "Sopa de Ajo (Castilian Garlic Soup)",
+  "blurb": "A soup of bread, garlic and paprika with poached egg and ham. Humble and comforting, from Castile.",
+  "ing": [
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "garlic",
+    "note": "sliced"
+   },
+   {
+    "n": "day-old bread",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "smoked paprika"
+   },
+   {
+    "n": "hot water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "Spanish cured ham",
+    "note": "diced"
+   }
+  ],
+  "steps": [
+   "Gently brown the garlic in the oil for 3 minutes. Add the ham and bread and cook 3 minutes.",
+   "Take off the heat and add the paprika.",
+   "Add the hot water and salt and cook 15 minutes.",
+   "Crack the eggs into the soup and poach 4 minutes.",
+   "Serve in clay bowls."
+  ],
+  "tips": [
+   "Take it off the heat before the paprika: it burns in seconds.",
+   "Traditionally it's finished in the oven in individual dishes."
+  ],
+  "video": "castilian garlic soup recipe"
+ },
+ "added": "2026-09-30"
+}

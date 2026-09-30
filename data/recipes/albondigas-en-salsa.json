@@ -1,0 +1,237 @@
+{
+ "id": "albondigas-en-salsa",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "porkmince",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "bread",
+   "role": "binder"
+  },
+  {
+   "q": 50,
+   "u": "ml",
+   "k": "milk",
+   "role": "moisture"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Albóndigas en salsa",
+  "blurb": "Albóndigas tiernas en una salsa de cebolla, zanahoria y vino blanco. Comida de casa en toda España.",
+  "ing": [
+   {
+    "n": "carne picada de res"
+   },
+   {
+    "n": "carne picada de cerdo"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "miga de pan",
+    "note": "remojada en leche"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "zanahoria",
+    "note": "picada"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "azafrán"
+   }
+  ],
+  "steps": [
+   "Mezcla la carne, el huevo, la miga remojada, el ajo, el perejil y la sal. Forma bolas de 3 cm y pásalas por la harina.",
+   "Dóralas en el aceite 5 minutos. Sácalas.",
+   "Sofríe la cebolla y la zanahoria en el mismo aceite 10 minutos.",
+   "Añade el vino, el agua y el azafrán, cuece 5 minutos y tritura la salsa.",
+   "Vuelve a poner las albóndigas en la salsa y cuece 20 minutos a fuego bajo."
+  ],
+  "tips": [
+   "Humedece las manos para formar las bolas sin que se peguen.",
+   "Con patatas fritas en dados al lado quedan perfectas."
+  ],
+  "video": "albóndigas en salsa española"
+ },
+ "en": {
+  "name": "Albóndigas en Salsa (Spanish Meatballs)",
+  "blurb": "Tender meatballs in an onion, carrot and white wine sauce. Home cooking all over Spain.",
+  "ing": [
+   {
+    "n": "minced beef"
+   },
+   {
+    "n": "minced pork"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "bread crumb (soft)",
+    "note": "soaked in milk"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "carrot",
+    "note": "chopped"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "saffron"
+   }
+  ],
+  "steps": [
+   "Mix the meat, egg, soaked bread, garlic, parsley and salt. Shape 3 cm balls and dredge in the flour.",
+   "Brown them in the oil for 5 minutes. Remove.",
+   "Cook the onion and carrot in the same oil for 10 minutes.",
+   "Add the wine, water and saffron, cook 5 minutes and blend the sauce.",
+   "Return the meatballs to the sauce and simmer 20 minutes on low."
+  ],
+  "tips": [
+   "Wet your hands to shape the balls without sticking.",
+   "Diced fried potatoes on the side make them perfect."
+  ],
+  "video": "spanish meatballs in sauce recipe"
+ },
+ "added": "2026-09-30"
+}

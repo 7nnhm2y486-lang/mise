@@ -1,0 +1,111 @@
+{
+ "id": "pan-con-tomate",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "breakfast",
+ "time": 10,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pan con tomate",
+  "blurb": "Pan tostado frotado con ajo y tomate maduro, con aceite y sal. Pa amb tomàquet, el desayuno catalán.",
+  "ing": [
+   {
+    "n": "rebanadas gruesas de pan de payés"
+   },
+   {
+    "n": "tomates maduros",
+    "note": "en mitades"
+   },
+   {
+    "n": "ajo",
+    "note": "pelado"
+   },
+   {
+    "n": "aceite de oliva virgen extra"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Tuesta el pan.",
+   "Frota el ajo sobre el pan caliente, con suavidad.",
+   "Frota el tomate cortado hasta que solo quede la piel.",
+   "Riega con el aceite.",
+   "Sala y sirve."
+  ],
+  "tips": [
+   "Usa los tomates más maduros: los de colgar son los tradicionales.",
+   "El ajo es opcional en muchas casas catalanas."
+  ],
+  "video": "pan con tomate receta"
+ },
+ "en": {
+  "name": "Pan con Tomate (Catalan Tomato Bread)",
+  "blurb": "Toasted bread rubbed with garlic and ripe tomato, with oil and salt. Pa amb tomàquet, the Catalan breakfast.",
+  "ing": [
+   {
+    "n": "thick slices of rustic bread"
+   },
+   {
+    "n": "ripe tomatoes",
+    "note": "halved"
+   },
+   {
+    "n": "garlic",
+    "note": "peeled"
+   },
+   {
+    "n": "extra virgin olive oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Toast the bread.",
+   "Rub the garlic gently over the hot bread.",
+   "Rub the cut tomato over it until only the skin remains.",
+   "Drizzle with the oil.",
+   "Salt and serve."
+  ],
+  "tips": [
+   "Use the ripest tomatoes: hanging tomatoes are traditional.",
+   "Garlic is optional in many Catalan homes."
+  ],
+  "video": "pan con tomate recipe"
+ },
+ "added": "2026-09-30"
+}

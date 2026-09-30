@@ -1,0 +1,153 @@
+{
+ "id": "ensaladilla-rusa",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "starter",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "tuna",
+   "role": "protein"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "olives",
+   "role": "umami"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "mayo",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Ensaladilla rusa",
+  "blurb": "Patata, zanahoria, guisantes, huevo y atún con mayonesa. La tapa fría de todos los bares de España.",
+  "ing": [
+   {
+    "n": "patatas",
+    "note": "peladas, en dados"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en dados"
+   },
+   {
+    "n": "guisantes"
+   },
+   {
+    "n": "huevos duros",
+    "note": "picados"
+   },
+   {
+    "n": "atún en aceite",
+    "note": "escurrido"
+   },
+   {
+    "n": "aceitunas verdes",
+    "note": "en rodajas"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece la patata y la zanahoria en agua con sal 12 minutos. Añade los guisantes el último minuto.",
+   "Escurre y enfría por completo.",
+   "Mezcla con el huevo, el atún y las aceitunas.",
+   "Añade la mayonesa y la sal y mezcla.",
+   "Refrigera 1 hora. Cubre con un poco más de mayonesa si quieres."
+  ],
+  "tips": [
+   "Las verduras deben estar frías antes de la mayonesa.",
+   "Mejor al día siguiente."
+  ],
+  "video": "ensaladilla rusa receta"
+ },
+ "en": {
+  "name": "Ensaladilla Rusa (Spanish Potato Salad)",
+  "blurb": "Potato, carrot, peas, egg and tuna in mayonnaise. The cold tapa in every bar in Spain.",
+  "ing": [
+   {
+    "n": "potatoes",
+    "note": "peeled, diced"
+   },
+   {
+    "n": "carrots",
+    "note": "diced"
+   },
+   {
+    "n": "peas"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "chopped"
+   },
+   {
+    "n": "tuna in oil",
+    "note": "drained"
+   },
+   {
+    "n": "green olives",
+    "note": "sliced"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Boil the potato and carrot in salted water for 12 minutes. Add the peas for the last minute.",
+   "Drain and cool completely.",
+   "Mix with the egg, tuna and olives.",
+   "Add the mayonnaise and salt and fold together.",
+   "Chill 1 hour. Top with a little more mayonnaise if you like."
+  ],
+  "tips": [
+   "The vegetables must be cold before the mayonnaise goes in.",
+   "Better the next day."
+  ],
+  "video": "spanish potato salad recipe"
+ },
+ "added": "2026-09-30"
+}

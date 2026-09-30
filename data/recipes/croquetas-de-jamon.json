@@ -1,0 +1,157 @@
+{
+ "id": "croquetas-de-jamon",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "starter",
+ "time": 240,
+ "serves": 30,
+ "ing": [
+  {
+   "q": 80,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "prosciutto",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "breadcrumbs",
+   "role": "dredge"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oliveoil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Croquetas de jamón",
+  "blurb": "Croquetas de bechamel cremosísima con jamón serrano, crujientes por fuera. La tapa de las abuelas españolas.",
+  "ing": [
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "jamón serrano",
+    "note": "picado muy fino"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "huevos batidos"
+   },
+   {
+    "n": "pan rallado"
+   },
+   {
+    "n": "aceite de oliva suave para freír"
+   }
+  ],
+  "steps": [
+   "Derrite la mantequilla con el aceite y sofríe el jamón 1 minuto. Añade la harina y cuece 3 minutos.",
+   "Añade la leche caliente poco a poco, batiendo, y cuece 12 minutos a fuego bajo sin parar de remover, hasta que la masa se despegue.",
+   "Añade la nuez moscada, extiende en una fuente, tapa con film en contacto y refrigera 4 horas.",
+   "Forma croquetas, pásalas por el huevo y el pan rallado.",
+   "Fríe a 180 °C en tandas 2 minutos, hasta que estén doradas."
+  ],
+  "tips": [
+   "No añadas sal hasta probar: el jamón ya sala la masa.",
+   "El film en contacto evita que se forme costra."
+  ],
+  "video": "croquetas de jamón caseras"
+ },
+ "en": {
+  "name": "Spanish Ham Croquetas",
+  "blurb": "Croquettes of ultra-creamy béchamel with cured ham, crisp outside. Grandma's tapa in Spain.",
+  "ing": [
+   {
+    "n": "butter"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "Spanish cured ham",
+    "note": "very finely chopped"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "beaten eggs"
+   },
+   {
+    "n": "breadcrumbs"
+   },
+   {
+    "n": "light olive oil for frying"
+   }
+  ],
+  "steps": [
+   "Melt the butter with the oil and fry the ham 1 minute. Add the flour and cook 3 minutes.",
+   "Add the hot milk gradually, whisking, and cook 12 minutes on low, stirring constantly, until the mixture pulls away.",
+   "Add the nutmeg, spread in a dish, press cling film onto the surface and chill 4 hours.",
+   "Shape croquettes, dip in the egg and the breadcrumbs.",
+   "Fry at 180 °C in batches for 2 minutes, until golden."
+  ],
+  "tips": [
+   "Don't salt until you taste: the ham already seasons it.",
+   "Film pressed on the surface stops a skin forming."
+  ],
+  "video": "spanish ham croquettes recipe"
+ },
+ "added": "2026-09-30"
+}

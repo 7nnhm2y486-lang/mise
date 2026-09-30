@@ -1,0 +1,143 @@
+{
+ "id": "natillas",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 30,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "thicken"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "wafer",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Natillas con galleta",
+  "blurb": "Crema de huevo y leche con limón y canela, con una galleta María encima. El postre de las casas españolas.",
+  "ing": [
+   {
+    "n": "leche"
+   },
+   {
+    "n": "cáscara de limón"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "galletas María"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Calienta 600 ml de la leche con el limón y la canela. Deja infusionar 10 minutos.",
+   "Bate las yemas con el azúcar y la fécula disuelta en el resto de la leche.",
+   "Cuela la leche caliente sobre las yemas, batiendo, y vuelve a la olla.",
+   "Cuece a fuego bajo sin parar de remover 8 minutos, hasta que cubra la cuchara, sin hervir.",
+   "Reparte en cuencos, pon una galleta encima y espolvorea canela. Refrigera 2 horas."
+  ],
+  "tips": [
+   "Si se corta, pásala por la batidora en caliente.",
+   "La galleta se ablanda con la crema; ponla justo antes de enfriar."
+  ],
+  "video": "natillas caseras con galleta"
+ },
+ "en": {
+  "name": "Natillas (Spanish Custard)",
+  "blurb": "A lemon and cinnamon egg custard with a Marie biscuit on top. The dessert of Spanish homes.",
+  "ing": [
+   {
+    "n": "milk"
+   },
+   {
+    "n": "lemon peel"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "Marie biscuits"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Heat 600 ml of the milk with the lemon and cinnamon. Infuse 10 minutes.",
+   "Whisk the yolks with the sugar and the cornstarch dissolved in the rest of the milk.",
+   "Strain the hot milk onto the yolks, whisking, and return to the pot.",
+   "Cook on low, stirring constantly, for 8 minutes, until it coats the spoon, without boiling.",
+   "Divide into bowls, top each with a biscuit and dust with cinnamon. Chill 2 hours."
+  ],
+  "tips": [
+   "If it splits, blitz it while hot with a blender.",
+   "The biscuit softens in the custard; add it just before chilling."
+  ],
+  "video": "natillas recipe"
+ },
+ "added": "2026-09-30"
+}

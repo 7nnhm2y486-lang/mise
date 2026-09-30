@@ -1,0 +1,175 @@
+{
+ "id": "fideua",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "squid",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "prawn",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 900,
+   "u": "ml",
+   "k": "fishstock",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Fideuá",
+  "blurb": "La prima de la paella hecha con fideos cortos tostados y marisco. Nació en Gandía, Valencia.",
+  "ing": [
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "fideos gruesos de fideuá"
+   },
+   {
+    "n": "sepia o calamar",
+    "note": "en dados"
+   },
+   {
+    "n": "gambas",
+    "note": "peladas"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tomate",
+    "note": "rallado"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "azafrán"
+   },
+   {
+    "n": "caldo de pescado caliente"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Tuesta los fideos en el aceite 4 minutos, removiendo, hasta que estén dorados. Sácalos.",
+   "Dora la sepia 4 minutos en el mismo aceite. Añade el ajo, el tomate y el pimentón y cuece 4 minutos.",
+   "Añade los fideos, el caldo, el azafrán y la sal. Cuece 8 minutos.",
+   "Añade las gambas y cuece 4 minutos más, hasta que el caldo se absorba.",
+   "Deja reposar 3 minutos; los fideos se levantan de punta."
+  ],
+  "tips": [
+   "Tostar los fideos antes evita que se pasen.",
+   "Para que se levanten, mete la paellera 2 minutos bajo el grill al final."
+  ],
+  "video": "fideuá receta"
+ },
+ "en": {
+  "name": "Fideuà (Seafood Noodle Paella)",
+  "blurb": "Paella's cousin made with short toasted noodles and seafood. Born in Gandía, Valencia.",
+  "ing": [
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "short thick fideuà noodles"
+   },
+   {
+    "n": "cuttlefish or squid",
+    "note": "diced"
+   },
+   {
+    "n": "prawns",
+    "note": "peeled"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato",
+    "note": "grated"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "saffron"
+   },
+   {
+    "n": "hot fish stock"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Toast the noodles in the oil for 4 minutes, stirring, until golden. Remove.",
+   "Brown the cuttlefish 4 minutes in the same oil. Add the garlic, tomato and paprika and cook 4 minutes.",
+   "Add the noodles, stock, saffron and salt. Cook 8 minutes.",
+   "Add the prawns and cook 4 minutes more, until the stock is absorbed.",
+   "Rest 3 minutes; the noodles curl upward."
+  ],
+  "tips": [
+   "Toasting the noodles first stops them going soft.",
+   "To make them stand up, put the pan under the grill for 2 minutes at the end."
+  ],
+  "video": "fideua recipe"
+ },
+ "added": "2026-09-30"
+}

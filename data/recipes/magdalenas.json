@@ -1,0 +1,144 @@
+{
+ "id": "magdalenas",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 90,
+ "serves": 12,
+ "ovenC": 220,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "aerate"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Magdalenas",
+  "blurb": "Bizcochitos de limón con copete alto y azúcar crujiente arriba. El desayuno de las panaderías españolas.",
+  "ing": [
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "aceite de girasol u oliva suave"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "ralladura de limón"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "azúcar para espolvorear"
+   }
+  ],
+  "steps": [
+   "Bate los huevos con el azúcar 5 minutos, hasta que blanqueen.",
+   "Añade el aceite, la leche y la ralladura y mezcla.",
+   "Añade la harina y el polvo de hornear y mezcla solo hasta integrar. Refrigera 1 hora.",
+   "Llena cápsulas de papel hasta tres cuartos y espolvorea el azúcar.",
+   "Hornea a 220 °C durante 15 minutos, hasta que suban y doren."
+  ],
+  "tips": [
+   "El contraste de masa fría y horno caliente forma el copete.",
+   "No abras el horno los primeros 10 minutos."
+  ],
+  "video": "magdalenas caseras receta"
+ },
+ "en": {
+  "name": "Magdalenas (Spanish Lemon Muffins)",
+  "blurb": "Lemon sponge cakes with a tall domed top and crunchy sugar. The breakfast of Spanish bakeries.",
+  "ing": [
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "sunflower or light olive oil"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "lemon zest"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "sugar for sprinkling"
+   }
+  ],
+  "steps": [
+   "Whisk the eggs with the sugar for 5 minutes, until pale.",
+   "Add the oil, milk and zest and mix.",
+   "Add the flour and baking powder and mix just until combined. Chill 1 hour.",
+   "Fill paper cases three-quarters full and sprinkle with the sugar.",
+   "Bake at 220 °C for 15 minutes, until risen and golden."
+  ],
+  "tips": [
+   "Cold batter in a hot oven forms the dome.",
+   "Don't open the oven for the first 10 minutes."
+  ],
+  "video": "magdalenas recipe"
+ },
+ "added": "2026-09-30"
+}

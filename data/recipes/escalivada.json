@@ -1,0 +1,122 @@
+{
+ "id": "escalivada",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "side",
+ "time": 70,
+ "serves": 4,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 2,
+   "u": "",
+   "k": "eggplant",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Escalivada",
+  "blurb": "Berenjena, pimiento y cebolla asados enteros, pelados en tiras y aliñados con aceite. De Cataluña.",
+  "ing": [
+   {
+    "n": "berenjenas"
+   },
+   {
+    "n": "pimientos rojos"
+   },
+   {
+    "n": "cebollas"
+   },
+   {
+    "n": "aceite de oliva virgen extra"
+   },
+   {
+    "n": "sal en escamas"
+   },
+   {
+    "n": "ajo",
+    "note": "picado fino"
+   }
+  ],
+  "steps": [
+   "Pinta las verduras enteras con un poco del aceite.",
+   "Ásalas a 200 °C: los pimientos y las berenjenas 45 minutos, las cebollas 60 minutos, girándolas a mitad.",
+   "Tapa en un bol 15 minutos para que suden.",
+   "Pela y corta en tiras.",
+   "Aliña con el resto del aceite, la sal y el ajo."
+  ],
+  "tips": [
+   "Asadas a la brasa quedan con más sabor ahumado.",
+   "Se come tibia o fría, sobre pan tostado o como guarnición."
+  ],
+  "video": "escalivada catalana receta"
+ },
+ "en": {
+  "name": "Escalivada (Catalan Roast Vegetables)",
+  "blurb": "Aubergine, pepper and onion roasted whole, peeled into strips and dressed with oil. From Catalonia.",
+  "ing": [
+   {
+    "n": "aubergines"
+   },
+   {
+    "n": "red bell peppers"
+   },
+   {
+    "n": "onions"
+   },
+   {
+    "n": "extra virgin olive oil"
+   },
+   {
+    "n": "flaky salt"
+   },
+   {
+    "n": "garlic",
+    "note": "finely chopped"
+   }
+  ],
+  "steps": [
+   "Brush the whole vegetables with a little of the oil.",
+   "Roast at 200 °C: peppers and aubergines 45 minutes, onions 60 minutes, turning halfway.",
+   "Cover in a bowl for 15 minutes to steam.",
+   "Peel and cut into strips.",
+   "Dress with the rest of the oil, the salt and the garlic."
+  ],
+  "tips": [
+   "Roasted over embers they taste smokier.",
+   "Eat warm or cold, on toast or as a side."
+  ],
+  "video": "escalivada recipe"
+ },
+ "added": "2026-09-30"
+}

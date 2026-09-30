@@ -1,0 +1,163 @@
+{
+ "id": "arroz-negro",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 50,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "squid",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 320,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 8,
+   "u": "g",
+   "k": "squid",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "fishstock",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Arroz negro",
+  "blurb": "Arroz seco teñido con tinta de sepia, con sus trozos tiernos. Se sirve con alioli en la costa mediterránea.",
+  "ing": [
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sepia o calamar",
+    "note": "en dados"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tomate",
+    "note": "rallado"
+   },
+   {
+    "n": "arroz bomba o redondo"
+   },
+   {
+    "n": "tinta de sepia o calamar"
+   },
+   {
+    "n": "caldo de pescado caliente"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Dora la sepia en el aceite 5 minutos en una paellera.",
+   "Añade la cebolla y el ajo y cuece 8 minutos. Añade el tomate y cuece 5 minutos.",
+   "Añade el arroz y remueve 2 minutos.",
+   "Disuelve la tinta en el caldo caliente, añádelo con la sal y cuece 18 minutos sin remover.",
+   "Deja reposar 5 minutos tapado con un paño."
+  ],
+  "tips": [
+   "No remuevas después de añadir el caldo: así se forma el socarrat.",
+   "Si usas tinta en sobres, 2 sobres equivalen a unos 8 g."
+  ],
+  "video": "arroz negro receta"
+ },
+ "en": {
+  "name": "Arroz Negro (Black Squid Ink Rice)",
+  "blurb": "Dry rice stained black with cuttlefish ink, with tender pieces of it. Served with alioli on the Mediterranean coast.",
+  "ing": [
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "cuttlefish or squid",
+    "note": "diced"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato",
+    "note": "grated"
+   },
+   {
+    "n": "bomba or short-grain rice"
+   },
+   {
+    "n": "cuttlefish or squid ink"
+   },
+   {
+    "n": "hot fish stock"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Brown the cuttlefish in the oil for 5 minutes in a paella pan.",
+   "Add the onion and garlic and cook 8 minutes. Add the tomato and cook 5 minutes.",
+   "Add the rice and stir 2 minutes.",
+   "Dissolve the ink in the hot stock, add with the salt and cook 18 minutes without stirring.",
+   "Rest 5 minutes covered with a cloth."
+  ],
+  "tips": [
+   "Don't stir after the stock goes in: that's how the socarrat crust forms.",
+   "If using ink sachets, 2 sachets are about 8 g."
+  ],
+  "video": "arroz negro recipe"
+ },
+ "added": "2026-09-30"
+}
