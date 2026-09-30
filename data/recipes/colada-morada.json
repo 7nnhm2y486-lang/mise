@@ -1,0 +1,183 @@
+{
+ "id": "colada-morada",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 75,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "fruit",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Colada morada",
+  "blurb": "Bebida espesa de maíz morado con moras, mortiño, piña y especias. Se toma en Ecuador el Día de los Difuntos.",
+  "ing": [
+   {
+    "n": "harina de maíz morado"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "pimientas de dulce"
+   },
+   {
+    "n": "hierbaluisa y cedrón"
+   },
+   {
+    "n": "moras"
+   },
+   {
+    "n": "mortiños o arándanos"
+   },
+   {
+    "n": "piña",
+    "note": "en dados"
+   },
+   {
+    "n": "fresas",
+    "note": "en dados"
+   },
+   {
+    "n": "azúcar"
+   }
+  ],
+  "steps": [
+   "Hierve 2 l del agua con las especias y las hierbas 20 minutos. Cuela.",
+   "Licúa las moras y la mitad de los mortiños con 500 ml del agua y cuela.",
+   "Disuelve la harina de maíz en el resto del agua fría.",
+   "Añade el jugo de moras y la harina disuelta al agua especiada y cuece 20 minutos, removiendo, hasta que espese.",
+   "Añade el azúcar, la piña, las fresas y el resto de los mortiños y cuece 5 minutos. Sirve caliente o fría."
+  ],
+  "tips": [
+   "Remueve siempre: la harina se asienta y se pega.",
+   "Se acompaña con guaguas de pan."
+  ],
+  "video": "colada morada receta ecuatoriana"
+ },
+ "en": {
+  "name": "Colada Morada (Purple Corn and Berry Drink)",
+  "blurb": "A thick drink of purple corn with blackberries, mortiño, pineapple and spices. Drunk in Ecuador on the Day of the Dead.",
+  "ing": [
+   {
+    "n": "purple corn flour"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "whole cloves"
+   },
+   {
+    "n": "allspice berries"
+   },
+   {
+    "n": "lemongrass and lemon verbena"
+   },
+   {
+    "n": "blackberries"
+   },
+   {
+    "n": "mortiño or blueberries"
+   },
+   {
+    "n": "pineapple",
+    "note": "diced"
+   },
+   {
+    "n": "strawberries",
+    "note": "diced"
+   },
+   {
+    "n": "sugar"
+   }
+  ],
+  "steps": [
+   "Boil 2 l of the water with the spices and herbs for 20 minutes. Strain.",
+   "Blend the blackberries and half the mortiño with 500 ml of the water and strain.",
+   "Dissolve the corn flour in the rest of the cold water.",
+   "Add the berry juice and dissolved flour to the spiced water and cook 20 minutes, stirring, until thick.",
+   "Add the sugar, pineapple, strawberries and the rest of the mortiño and cook 5 minutes. Serve hot or cold."
+  ],
+  "tips": [
+   "Keep stirring: the flour settles and sticks.",
+   "It is served with guaguas de pan, bread babies."
+  ],
+  "video": "colada morada recipe"
+ },
+ "added": "2026-09-30"
+}

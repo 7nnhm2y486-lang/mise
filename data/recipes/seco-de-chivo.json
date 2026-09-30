@@ -1,0 +1,215 @@
+{
+ "id": "seco-de-chivo",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "main",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "goat",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "fruit",
+   "role": "acid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Seco de chivo",
+  "blurb": "Chivo guisado despacio en jugo de naranjilla y naranja con achiote y cilantro. Plato costeño de fiesta en Ecuador.",
+  "ing": [
+   {
+    "n": "carne de chivo o cordero",
+    "note": "en trozos"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "achiote en polvo"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "jugo de naranjilla"
+   },
+   {
+    "n": "jugo de naranja"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Adoba la carne con el ajo, el comino y la sal al menos 2 horas.",
+   "Dora la carne en el aceite 10 minutos. Añade el achiote, la cebolla, el pimiento y el tomate y cuece 8 minutos.",
+   "Añade los jugos, el agua y la mitad del cilantro.",
+   "Tapa y cuece a fuego bajo 90 minutos, hasta que la carne esté muy tierna y la salsa espesa.",
+   "Termina con el resto del cilantro. Sirve con arroz amarillo y maduro frito."
+  ],
+  "tips": [
+   "Con cordero, reduce la cocción a 60 minutos.",
+   "Si no encuentras naranjilla, usa pulpa de lulo congelada."
+  ],
+  "video": "seco de chivo ecuatoriano receta"
+ },
+ "en": {
+  "name": "Seco de Chivo (Ecuadorian Goat Stew)",
+  "blurb": "Goat stewed slowly in naranjilla and orange juice with annatto and cilantro. A coastal Ecuadorian feast dish.",
+  "ing": [
+   {
+    "n": "goat or lamb",
+    "note": "in pieces"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "naranjilla (lulo) juice"
+   },
+   {
+    "n": "orange juice"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Season the meat with the garlic, cumin and salt for at least 2 hours.",
+   "Brown the meat in the oil for 10 minutes. Add the annatto, onion, pepper and tomato and cook 8 minutes.",
+   "Add the juices, water and half the cilantro.",
+   "Cover and cook on low for 90 minutes, until very tender and the sauce is thick.",
+   "Finish with the rest of the cilantro. Serve with yellow rice and fried ripe plantain."
+  ],
+  "tips": [
+   "With lamb, cut the cooking to 60 minutes.",
+   "If you can't find naranjilla, use frozen lulo pulp."
+  ],
+  "video": "seco de chivo recipe"
+ },
+ "added": "2026-09-30"
+}

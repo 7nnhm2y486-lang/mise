@@ -1,0 +1,205 @@
+{
+ "id": "bollos-de-pescado",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "main",
+ "time": 90,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 5,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "peanutbutter",
+   "role": "enrich"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  }
+ ],
+ "es": {
+  "name": "Bollos de pescado",
+  "blurb": "Masa de plátano verde y maní con pescado guisado, envuelta en hoja y cocida. De Manabí y Esmeraldas.",
+  "ing": [
+   {
+    "n": "plátanos verdes",
+    "note": "pelados y rallados"
+   },
+   {
+    "n": "pasta de maní natural"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "achiote en polvo"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "filetes de pescado blanco o albacora",
+    "note": "en trozos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "hojas de plátano o bijao",
+    "note": "pasadas por el fuego"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el pimiento, el ajo, el comino y el achiote en el aceite 8 minutos. Aparta la mitad.",
+   "Añade al resto del sofrito el pescado, 1 cucharadita de sal y el cilantro y cuece 5 minutos.",
+   "Mezcla el plátano rallado con la pasta de maní, el sofrito apartado y el resto de la sal hasta tener una masa.",
+   "Pon masa sobre cada hoja, un trozo de pescado encima, más masa, y envuelve en paquete. Ata.",
+   "Cuece en agua hirviendo 45 minutos."
+  ],
+  "tips": [
+   "Pasa las hojas por la llama para que se ablanden y no se rompan.",
+   "Se comen con arroz o solos, con limón."
+  ],
+  "video": "bollos de pescado manabitas"
+ },
+ "en": {
+  "name": "Bollos de Pescado (Plantain and Fish Parcels)",
+  "blurb": "Green plantain and peanut dough with stewed fish, wrapped in leaves and boiled. From Manabí and Esmeraldas.",
+  "ing": [
+   {
+    "n": "green plantains",
+    "note": "peeled and grated"
+   },
+   {
+    "n": "natural peanut paste"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "white fish or albacore fillets",
+    "note": "in pieces"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "banana or bijao leaves",
+    "note": "softened over the flame"
+   }
+  ],
+  "steps": [
+   "Cook the onion, pepper, garlic, cumin and annatto in the oil for 8 minutes. Set half aside.",
+   "Add the fish, 1 teaspoon of salt and the cilantro to the remaining mixture and cook 5 minutes.",
+   "Mix the grated plantain with the peanut paste, the reserved mixture and the rest of the salt to a dough.",
+   "Put dough on each leaf, a piece of fish on top, more dough, and wrap into a parcel. Tie.",
+   "Boil in water for 45 minutes."
+  ],
+  "tips": [
+   "Pass the leaves over a flame so they soften and don't tear.",
+   "Eaten with rice or on their own, with lime."
+  ],
+  "video": "bollos de pescado recipe"
+ },
+ "added": "2026-09-30"
+}

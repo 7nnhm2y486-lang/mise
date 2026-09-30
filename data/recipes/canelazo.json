@@ -1,0 +1,107 @@
+{
+ "id": "canelazo",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 20,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "fruit",
+   "role": "acid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "spirit",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Canelazo",
+  "blurb": "Bebida caliente de canela, panela y naranjilla con aguardiente. Calienta las noches de Quito.",
+  "ing": [
+   {
+    "n": "agua"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "panela"
+   },
+   {
+    "n": "jugo de naranjilla"
+   },
+   {
+    "n": "aguardiente de caña"
+   }
+  ],
+  "steps": [
+   "Hierve el agua con la canela 15 minutos.",
+   "Añade la panela y remueve hasta que se disuelva.",
+   "Añade el jugo de naranjilla y calienta sin que hierva.",
+   "Retira del fuego y añade el aguardiente.",
+   "Sirve caliente en vasos pequeños."
+  ],
+  "tips": [
+   "No hiervas después de añadir el aguardiente o se evapora.",
+   "Sin el aguardiente es una bebida caliente para toda la familia."
+  ],
+  "video": "canelazo quiteño receta"
+ },
+ "en": {
+  "name": "Canelazo (Hot Cinnamon Cane Punch)",
+  "blurb": "A hot drink of cinnamon, panela and naranjilla with cane spirit. Warms Quito's nights.",
+  "ing": [
+   {
+    "n": "water"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "panela"
+   },
+   {
+    "n": "naranjilla (lulo) juice"
+   },
+   {
+    "n": "cane spirit (aguardiente)"
+   }
+  ],
+  "steps": [
+   "Boil the water with the cinnamon for 15 minutes.",
+   "Add the panela and stir until dissolved.",
+   "Add the naranjilla juice and heat without boiling.",
+   "Take off the heat and add the spirit.",
+   "Serve hot in small glasses."
+  ],
+  "tips": [
+   "Don't boil after adding the spirit or it evaporates.",
+   "Without the spirit it's a hot drink for the whole family."
+  ],
+  "video": "canelazo recipe"
+ },
+ "added": "2026-09-30"
+}

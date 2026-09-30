@@ -1,0 +1,153 @@
+{
+ "id": "tigrillo",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Tigrillo",
+  "blurb": "Plátano verde majado y revuelto con huevo, cebolla y queso. El desayuno de Zaruma, en el sur de Ecuador.",
+  "ing": [
+   {
+    "n": "plátanos verdes",
+    "note": "pelados, en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "huevos",
+    "note": "batidos"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Hierve el plátano en el agua con 1 cucharadita de sal 20 minutos. Escurre y maja grueso.",
+   "Sofríe la cebolla en la mantequilla 4 minutos.",
+   "Añade el plátano y dora 3 minutos.",
+   "Añade los huevos, el queso y el resto de la sal y revuelve 2 minutos, hasta que el huevo cuaje.",
+   "Termina con el cilantro."
+  ],
+  "tips": [
+   "Deja trozos en el majado; no debe ser un puré.",
+   "Se acompaña con café pasado."
+  ],
+  "video": "tigrillo zarumeño receta"
+ },
+ "en": {
+  "name": "Tigrillo (Plantain and Egg Scramble)",
+  "blurb": "Mashed green plantain scrambled with egg, onion and cheese. Breakfast in Zaruma, southern Ecuador.",
+  "ing": [
+   {
+    "n": "green plantains",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "eggs",
+    "note": "beaten"
+   },
+   {
+    "n": "fresh cheese",
+    "note": "crumbled"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Boil the plantain in the water with 1 teaspoon of salt for 20 minutes. Drain and mash coarsely.",
+   "Cook the onion in the butter for 4 minutes.",
+   "Add the plantain and brown 3 minutes.",
+   "Add the eggs, cheese and the rest of the salt and scramble 2 minutes, until the egg sets.",
+   "Finish with the cilantro."
+  ],
+  "tips": [
+   "Leave some chunks in the mash; it shouldn't be a purée.",
+   "It is served with filter coffee."
+  ],
+  "video": "tigrillo recipe"
+ },
+ "added": "2026-09-30"
+}

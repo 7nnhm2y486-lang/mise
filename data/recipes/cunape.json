@@ -1,0 +1,122 @@
+{
+ "id": "cunape",
+ "country": "Bolivia",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 40,
+ "serves": 20,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "cassavastarch",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Cuñapé",
+  "blurb": "Bollitos de almidón de yuca y queso, crujientes por fuera y elásticos por dentro. Del oriente boliviano.",
+  "ing": [
+   {
+    "n": "almidón de yuca"
+   },
+   {
+    "n": "queso fresco o menonita",
+    "note": "rallado"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Mezcla el almidón, el queso, el polvo de hornear y la sal.",
+   "Añade el huevo y la leche poco a poco y amasa hasta tener una masa suave que no se pegue.",
+   "Forma bolitas de 30 g.",
+   "Colócalas en una bandeja con papel, separadas.",
+   "Hornea a 200 °C durante 18 minutos, hasta que estén doradas."
+  ],
+  "tips": [
+   "Añade la leche de a poco: según el queso, puede hacer falta menos.",
+   "Cómelos tibios; al enfriarse se endurecen."
+  ],
+  "video": "cuñapé boliviano receta"
+ },
+ "en": {
+  "name": "Cuñapé (Bolivian Cheese Bread)",
+  "blurb": "Cassava starch and cheese rolls, crisp outside and chewy within. From eastern Bolivia.",
+  "ing": [
+   {
+    "n": "cassava starch"
+   },
+   {
+    "n": "fresh or Mennonite cheese",
+    "note": "grated"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Mix the starch, cheese, baking powder and salt.",
+   "Add the egg and milk a little at a time and knead to a soft dough that doesn't stick.",
+   "Shape into 30 g balls.",
+   "Set them apart on a lined tray.",
+   "Bake at 200 °C for 18 minutes, until golden."
+  ],
+  "tips": [
+   "Add the milk gradually: depending on the cheese, you may need less.",
+   "Eat them warm; they harden as they cool."
+  ],
+  "video": "bolivian cunape recipe"
+ },
+ "added": "2026-09-30"
+}

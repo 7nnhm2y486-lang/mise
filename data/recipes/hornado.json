@@ -1,0 +1,136 @@
+{
+ "id": "hornado",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "main",
+ "time": 300,
+ "serves": 10,
+ "ovenC": 170,
+ "ing": [
+  {
+   "q": 3,
+   "u": "kg",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 10,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Hornado",
+  "blurb": "Pierna de cerdo adobada con ajo, comino y achiote, asada hasta que la piel cruje. Se sirve con llapingachos y mote.",
+  "ing": [
+   {
+    "n": "pierna de cerdo con piel"
+   },
+   {
+    "n": "ajo",
+    "note": "molido"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "achiote en polvo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "jugo de naranja"
+   },
+   {
+    "n": "cebollas",
+    "note": "picadas"
+   }
+  ],
+  "steps": [
+   "Mezcla el ajo, el comino, el achiote, la sal y la cebolla licuados con el jugo de naranja.",
+   "Haz cortes profundos en la carne y úntala con el adobo. Refrigera 24 horas.",
+   "Asa a 170 °C durante 4 horas, bañando con los jugos cada hora.",
+   "Sube a 220 °C y asa 30 minutos, hasta que la piel cruja.",
+   "Deja reposar 15 minutos y corta."
+  ],
+  "tips": [
+   "El jugo de la bandeja, el agrio, se sirve por encima de la carne.",
+   "Cubre con papel de aluminio si se dora antes de tiempo."
+  ],
+  "video": "hornado ecuatoriano receta"
+ },
+ "en": {
+  "name": "Hornado (Ecuadorian Roast Pork)",
+  "blurb": "Pork leg rubbed with garlic, cumin and annatto, roasted until the skin crackles. Served with potato patties and hominy.",
+  "ing": [
+   {
+    "n": "skin-on pork leg"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "orange juice"
+   },
+   {
+    "n": "onions",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Blend the garlic, cumin, annatto, salt and onion with the orange juice.",
+   "Cut deep slits in the meat and rub with the marinade. Refrigerate 24 hours.",
+   "Roast at 170 °C for 4 hours, basting with the juices every hour.",
+   "Raise to 220 °C and roast 30 minutes, until the skin crackles.",
+   "Rest 15 minutes and carve."
+  ],
+  "tips": [
+   "The pan juice, called agrio, is spooned over the meat.",
+   "Cover with foil if it browns too early."
+  ],
+  "video": "hornado recipe"
+ },
+ "added": "2026-09-30"
+}

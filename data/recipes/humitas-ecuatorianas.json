@@ -1,0 +1,147 @@
+{
+ "id": "humitas-ecuatorianas",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 90,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 6,
+   "u": "",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Humitas ecuatorianas",
+  "blurb": "Choclo molido con huevo, mantequilla y queso, envuelto en sus hojas y cocido al vapor. Esponjosas y suaves.",
+  "ing": [
+   {
+    "n": "choclos tiernos con sus hojas"
+   },
+   {
+    "n": "mantequilla derretida"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "picada fina"
+   },
+   {
+    "n": "queso fresco",
+    "note": "desmenuzado"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Saca las hojas de los choclos con cuidado y guárdalas. Desgrana y muele los granos.",
+   "Sofríe la cebolla en 1 cucharada de la mantequilla 4 minutos.",
+   "Mezcla el choclo con la cebolla, el resto de la mantequilla, los huevos, el azúcar, el polvo de hornear y la sal.",
+   "Pon 2 cucharadas de masa y un poco de queso sobre 2 hojas y dobla en paquete.",
+   "Cuece al vapor, de pie en la olla, 45 minutos."
+  ],
+  "tips": [
+   "Están listas cuando la hoja se despega sola de la humita.",
+   "Se comen con café en el desayuno o la merienda."
+  ],
+  "video": "humitas ecuatorianas receta"
+ },
+ "en": {
+  "name": "Ecuadorian Humitas (Steamed Corn Cakes)",
+  "blurb": "Ground fresh corn with egg, butter and cheese, wrapped in husks and steamed. Fluffy and soft.",
+  "ing": [
+   {
+    "n": "young corn cobs with their husks"
+   },
+   {
+    "n": "melted butter"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "white onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "fresh cheese",
+    "note": "crumbled"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Remove the husks carefully and keep them. Cut off and grind the kernels.",
+   "Cook the onion in 1 tablespoon of the butter for 4 minutes.",
+   "Mix the corn with the onion, the rest of the butter, the eggs, sugar, baking powder and salt.",
+   "Put 2 tablespoons of batter and a little cheese on 2 husks and fold into a parcel.",
+   "Steam, standing upright in the pot, for 45 minutes."
+  ],
+  "tips": [
+   "They're ready when the husk peels away from the humita by itself.",
+   "Eaten with coffee at breakfast or teatime."
+  ],
+  "video": "ecuadorian humitas recipe"
+ },
+ "added": "2026-09-30"
+}

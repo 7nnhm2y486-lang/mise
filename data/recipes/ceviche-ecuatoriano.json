@@ -1,0 +1,167 @@
+{
+ "id": "ceviche-ecuatoriano",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "ketchup",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Ceviche de camarón ecuatoriano",
+  "blurb": "Camarones cocidos en un jugo de limón, naranja y tomate. Caldoso, se come con chifles y canguil.",
+  "ing": [
+   {
+    "n": "camarones",
+    "note": "pelados"
+   },
+   {
+    "n": "cebolla roja",
+    "note": "en pluma fina"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "naranjas",
+    "note": "en jugo"
+   },
+   {
+    "n": "tomates",
+    "note": "en dados"
+   },
+   {
+    "n": "salsa de tomate (kétchup)"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece los camarones en agua hirviendo con sal 1 minuto y pásalos a agua con hielo. Guarda 200 ml del agua de cocción y enfríala.",
+   "Remoja la cebolla en agua con sal 10 minutos y escúrrela.",
+   "Mezcla los jugos de limón y naranja, el kétchup, el aceite, la sal y el agua de cocción fría.",
+   "Añade los camarones, la cebolla, el tomate y el cilantro.",
+   "Refrigera 20 minutos y sirve bien frío con su jugo."
+  ],
+  "tips": [
+   "A diferencia del peruano, el camarón se cuece antes.",
+   "Debe quedar con bastante jugo, casi como una sopa fría."
+  ],
+  "video": "ceviche de camarón ecuatoriano"
+ },
+ "en": {
+  "name": "Ecuadorian Shrimp Ceviche",
+  "blurb": "Cooked shrimp in a lime, orange and tomato juice. Soupy, eaten with plantain chips and popcorn.",
+  "ing": [
+   {
+    "n": "shrimp",
+    "note": "peeled"
+   },
+   {
+    "n": "red onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "oranges",
+    "note": "juiced"
+   },
+   {
+    "n": "tomatoes",
+    "note": "diced"
+   },
+   {
+    "n": "ketchup"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the shrimp in boiling salted water for 1 minute and plunge into iced water. Keep 200 ml of the cooking water and chill it.",
+   "Soak the onion in salted water for 10 minutes and drain.",
+   "Mix the lime and orange juice, ketchup, oil, salt and the cold cooking water.",
+   "Add the shrimp, onion, tomato and cilantro.",
+   "Chill 20 minutes and serve very cold with its juice."
+  ],
+  "tips": [
+   "Unlike Peruvian ceviche, the shrimp is cooked first.",
+   "It should be juicy, almost like a cold soup."
+  ],
+  "video": "ecuadorian shrimp ceviche recipe"
+ },
+ "added": "2026-09-30"
+}

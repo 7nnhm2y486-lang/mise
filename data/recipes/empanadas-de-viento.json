@@ -1,0 +1,183 @@
+{
+ "id": "empanadas-de-viento",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 60,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "sugar",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Empanadas de viento",
+  "blurb": "Empanadas de queso que se inflan como globos al freír, espolvoreadas con azúcar. Sal y dulce a la vez.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "mantequilla fría"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "agua fría"
+   },
+   {
+    "n": "queso fresco",
+    "note": "rallado"
+   },
+   {
+    "n": "cebolla blanca",
+    "note": "picada muy fina"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "azúcar para espolvorear"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el polvo de hornear, 1 cucharada de azúcar y la sal. Frota la mantequilla y añade el huevo y el agua. Amasa 3 minutos y deja 20 minutos.",
+   "Mezcla el queso con la cebolla.",
+   "Estira la masa fina y corta círculos de 12 cm.",
+   "Pon una cucharada de queso en cada círculo, dobla y sella con un repulgue.",
+   "Fríe a 180 °C durante 2 minutos por lado, hasta que se inflen y doren. Espolvorea el azúcar."
+  ],
+  "tips": [
+   "El aceite debe estar bien caliente para que se inflen.",
+   "Espolvorea el azúcar mientras están calientes."
+  ],
+  "video": "empanadas de viento ecuatorianas"
+ },
+ "en": {
+  "name": "Empanadas de Viento (Puffed Cheese Empanadas)",
+  "blurb": "Cheese empanadas that puff like balloons in the oil, dusted with sugar. Salty and sweet at once.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cold butter"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "cold water"
+   },
+   {
+    "n": "fresh cheese",
+    "note": "grated"
+   },
+   {
+    "n": "white onion",
+    "note": "very finely chopped"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "sugar for dusting"
+   }
+  ],
+  "steps": [
+   "Mix the flour, baking powder, 1 tablespoon of sugar and the salt. Rub in the butter and add the egg and water. Knead 3 minutes and rest 20 minutes.",
+   "Mix the cheese with the onion.",
+   "Roll the dough thin and cut 12 cm circles.",
+   "Put a spoonful of cheese on each, fold and seal with a crimped edge.",
+   "Fry at 180 °C for 2 minutes a side, until puffed and golden. Dust with the sugar."
+  ],
+  "tips": [
+   "The oil must be very hot for them to puff.",
+   "Dust with the sugar while they're hot."
+  ],
+  "video": "empanadas de viento recipe"
+ },
+ "added": "2026-09-30"
+}
