@@ -1,0 +1,142 @@
+{
+ "id": "polvorones",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "cookie",
+ "time": 45,
+ "serves": 24,
+ "ovenC": 175,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "pecan",
+   "role": "crunch"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Polvorones de nuez",
+  "blurb": "Bolitas de mantequilla y nuez pecana que se deshacen en la boca, revolcadas en azúcar glas. Las galletas de las bodas.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "mantequilla",
+    "note": "suave"
+   },
+   {
+    "n": "azúcar glas",
+    "note": "para la masa"
+   },
+   {
+    "n": "nueces pecanas",
+    "note": "molidas finas"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "azúcar glas",
+    "note": "para cubrir"
+   }
+  ],
+  "steps": [
+   "Calienta el horno a 175 °C.",
+   "Bate la mantequilla con el azúcar glas de la masa y la vainilla hasta que esté cremosa.",
+   "Añade la harina, las nueces y la sal. Mezcla solo hasta integrar.",
+   "Forma 24 bolitas y ponlas en una charola con papel.",
+   "Hornea 15 minutos, hasta que la base apenas se dore.",
+   "Deja enfriar 5 minutos y revuélcalas en el azúcar glas. Cuando estén frías, revuélcalas otra vez."
+  ],
+  "tips": [
+   "Tibias se rompen: espera los 5 minutos antes de la primera capa de azúcar.",
+   "Sin nueces, usa 100 gramos más de harina tostada en sartén hasta que huela a galleta."
+  ],
+  "video": "polvorones de nuez receta"
+ },
+ "en": {
+  "name": "Mexican Wedding Cookies (Polvorones)",
+  "blurb": "Butter and pecan balls that melt in the mouth, rolled in powdered sugar. The wedding cookie.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter",
+    "note": "soft"
+   },
+   {
+    "n": "powdered sugar",
+    "note": "for the dough"
+   },
+   {
+    "n": "pecans",
+    "note": "finely ground"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "powdered sugar",
+    "note": "for coating"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 175 °C.",
+   "Beat the butter with the dough's powdered sugar and the vanilla until creamy.",
+   "Add the flour, pecans and salt. Mix just until combined.",
+   "Shape 24 balls and set them on a lined tray.",
+   "Bake 15 minutes, until the bases barely colour.",
+   "Cool 5 minutes, then roll in the powdered sugar. When cold, roll them again."
+  ],
+  "tips": [
+   "Warm, they break: wait the 5 minutes before the first coat of sugar.",
+   "No nuts? Use 100 grams more flour toasted in a pan until it smells like cookies."
+  ],
+  "video": "mexican wedding cookies recipe"
+ },
+ "added": "2026-09-30"
+}

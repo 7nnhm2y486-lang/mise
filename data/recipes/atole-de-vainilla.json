@@ -1,0 +1,121 @@
+{
+ "id": "atole-de-vainilla",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 20,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "masa",
+   "role": "thicken"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "vanillabean",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Atole de vainilla",
+  "blurb": "Bebida caliente y espesa de masa de maíz con piloncillo, canela y vainilla. El desayuno de puesto de tamales.",
+  "ing": [
+   {
+    "n": "agua"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "masa fresca de maíz"
+   },
+   {
+    "n": "piloncillo",
+    "note": "picado"
+   },
+   {
+    "n": "raja de canela"
+   },
+   {
+    "n": "vaina de vainilla",
+    "note": "abierta"
+   }
+  ],
+  "steps": [
+   "Deshaz la masa en el agua con las manos o licúala hasta que no queden grumos.",
+   "Cuélala a una olla con la leche, el piloncillo, la canela y la vainilla.",
+   "Cuece a fuego medio-bajo 12 minutos, moviendo sin parar, hasta que espese.",
+   "Saca la canela y la vainilla y sirve caliente."
+  ],
+  "tips": [
+   "Si queda muy espeso, añade leche caliente.",
+   "Para atole de fresa, licúa 250 gramos de fresas con el agua."
+  ],
+  "video": "atole de vainilla receta"
+ },
+ "en": {
+  "name": "Vanilla Atole",
+  "blurb": "A thick hot drink of corn masa with piloncillo, cinnamon and vanilla. Breakfast from the tamale stand.",
+  "ing": [
+   {
+    "n": "water"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "fresh corn masa"
+   },
+   {
+    "n": "piloncillo (unrefined cane sugar)",
+    "note": "chopped"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "vanilla pod",
+    "note": "split"
+   }
+  ],
+  "steps": [
+   "Break up the masa in the water with your hands or blend until there are no lumps.",
+   "Strain it into a pot with the milk, piloncillo, cinnamon and vanilla.",
+   "Cook over medium-low heat for 12 minutes, stirring constantly, until thick.",
+   "Remove the cinnamon and vanilla and serve hot."
+  ],
+  "tips": [
+   "If it's too thick, add hot milk.",
+   "For strawberry atole, blend 250 grams of strawberries with the water."
+  ],
+  "video": "atole recipe"
+ },
+ "added": "2026-09-30"
+}

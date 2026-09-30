@@ -1,0 +1,107 @@
+{
+ "id": "agua-de-jamaica",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 30,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 60,
+   "u": "g",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "ice",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Agua de jamaica",
+  "blurb": "Agua fresca color rubí de flor de jamaica: ácida, ligeramente astringente y endulzada al gusto.",
+  "ing": [
+   {
+    "n": "flor de jamaica seca"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "limón",
+    "note": "en jugo, opcional"
+   },
+   {
+    "n": "hielo"
+   }
+  ],
+  "steps": [
+   "Enjuaga la flor de jamaica en un colador.",
+   "Hierve 500 ml del agua, apaga, añade la flor y deja reposar 15 minutos.",
+   "Cuela apretando las flores. Disuelve el azúcar en el concentrado caliente.",
+   "Añade el resto del agua fría y el limón. Sirve con hielo."
+  ],
+  "tips": [
+   "Más de 20 minutos de reposo y amarga.",
+   "Las flores ya usadas sirven para tacos: se guisan con cebolla y chile."
+  ],
+  "video": "agua de jamaica receta"
+ },
+ "en": {
+  "name": "Hibiscus Agua Fresca (Agua de Jamaica)",
+  "blurb": "Ruby-red hibiscus agua fresca: tart, slightly tannic and sweetened to taste.",
+  "ing": [
+   {
+    "n": "dried hibiscus flowers"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "lime",
+    "note": "juiced, optional"
+   },
+   {
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Rinse the hibiscus in a sieve.",
+   "Boil 500 ml of the water, turn it off, add the flowers and steep 15 minutes.",
+   "Strain, pressing the flowers. Dissolve the sugar in the hot concentrate.",
+   "Add the rest of the water, cold, and the lime. Serve over ice."
+  ],
+  "tips": [
+   "Steep longer than 20 minutes and it turns bitter.",
+   "The spent flowers make good tacos: cook them with onion and chile."
+  ],
+  "video": "agua de jamaica recipe"
+ },
+ "added": "2026-09-30"
+}

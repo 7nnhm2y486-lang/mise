@@ -1,0 +1,95 @@
+{
+ "id": "agua-de-tamarindo",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 40,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "tamarind",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "ice",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Agua de tamarindo",
+  "blurb": "Agua fresca agridulce de pulpa de tamarindo. Color café claro y sabor que despierta.",
+  "ing": [
+   {
+    "n": "vainas de tamarindo",
+    "note": "peladas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "hielo"
+   }
+  ],
+  "steps": [
+   "Hierve el tamarindo pelado en 1 litro del agua 10 minutos, hasta que la pulpa se ablande.",
+   "Deja enfriar 15 minutos y deshaz la pulpa con las manos para separarla de las semillas.",
+   "Cuela apretando bien. Tira las semillas y las fibras.",
+   "Añade el resto del agua y el azúcar, mezcla hasta disolver y sirve con hielo."
+  ],
+  "tips": [
+   "Con pulpa de tamarindo en bloque, usa 150 gramos y remójala en agua caliente.",
+   "El concentrado dura 5 días en el refrigerador."
+  ],
+  "video": "agua de tamarindo receta"
+ },
+ "en": {
+  "name": "Tamarind Agua Fresca",
+  "blurb": "A sweet-sour agua fresca of tamarind pulp. Light brown and wakes you up.",
+  "ing": [
+   {
+    "n": "tamarind pods",
+    "note": "shelled"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Boil the shelled tamarind in 1 litre of the water for 10 minutes, until the pulp softens.",
+   "Cool 15 minutes and squeeze the pulp off the seeds with your hands.",
+   "Strain, pressing well. Discard the seeds and fibres.",
+   "Add the rest of the water and the sugar, stir to dissolve and serve over ice."
+  ],
+  "tips": [
+   "With block tamarind pulp, use 150 grams and soak it in hot water.",
+   "The concentrate keeps 5 days in the fridge."
+  ],
+  "video": "tamarind agua fresca recipe"
+ },
+ "added": "2026-09-30"
+}

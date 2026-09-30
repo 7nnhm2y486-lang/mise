@@ -1,0 +1,97 @@
+{
+ "id": "cajeta",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 150,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 2,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "bakingsoda",
+   "role": "set"
+  }
+ ],
+ "es": {
+  "name": "Cajeta",
+  "blurb": "El dulce de leche de cabra de Celaya: leche con azúcar reducida durante horas hasta quedar color ámbar y espesa.",
+  "ing": [
+   {
+    "n": "leche de cabra"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "raja de canela"
+   },
+   {
+    "n": "bicarbonato de sodio",
+    "note": "disuelto en 1 cucharada de agua"
+   }
+  ],
+  "steps": [
+   "En una olla grande y ancha, calienta la leche con el azúcar y la canela, moviendo, hasta que el azúcar se disuelva.",
+   "Cuando esté por hervir, retira del fuego y añade el bicarbonato disuelto. Hará mucha espuma: por eso la olla grande.",
+   "Regresa al fuego medio-bajo y cuece 2 horas, moviendo cada 5 minutos al principio y sin parar al final.",
+   "Está lista cuando es color caramelo y al pasar una cuchara por el fondo se ve la olla un segundo.",
+   "Saca la canela y pásala a frascos limpios. Espesa al enfriar."
+  ],
+  "tips": [
+   "El bicarbonato evita que la leche se corte y le da el color oscuro.",
+   "Con leche de vaca sale igual de buena, un poco menos intensa."
+  ],
+  "video": "cajeta de leche de cabra receta"
+ },
+ "en": {
+  "name": "Cajeta (Goat's Milk Caramel)",
+  "blurb": "Celaya's goat's milk caramel: milk and sugar reduced for hours until amber and thick.",
+  "ing": [
+   {
+    "n": "goat's milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "baking soda",
+    "note": "dissolved in 1 tablespoon of water"
+   }
+  ],
+  "steps": [
+   "In a large, wide pot, heat the milk with the sugar and cinnamon, stirring, until the sugar dissolves.",
+   "Just before it boils, take it off the heat and add the dissolved baking soda. It foams a lot: hence the big pot.",
+   "Return to medium-low heat and cook 2 hours, stirring every 5 minutes at first and constantly at the end.",
+   "It is ready when caramel-coloured and a spoon dragged across the bottom shows the pot for a second.",
+   "Remove the cinnamon and pour into clean jars. It thickens as it cools."
+  ],
+  "tips": [
+   "The baking soda keeps the milk from curdling and gives the dark colour.",
+   "Cow's milk makes an equally good one, a little milder."
+  ],
+  "video": "cajeta recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,178 @@
+{
+ "id": "capirotada",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 75,
+ "serves": 8,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 6,
+   "u": "",
+   "k": "bread",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "peanut",
+   "role": "crunch"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "cheese",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "plantain",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Capirotada",
+  "blurb": "El budín de pan de Cuaresma: capas de bolillo tostado, miel de piloncillo con canela, pasas, cacahuate y queso salado.",
+  "ing": [
+   {
+    "n": "bolillos del día anterior",
+    "note": "en rebanadas"
+   },
+   {
+    "n": "mantequilla",
+    "note": "derretida"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "piloncillo"
+   },
+   {
+    "n": "rajas de canela"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "cacahuates tostados"
+   },
+   {
+    "n": "queso Cotija o añejo",
+    "note": "desmoronado"
+   },
+   {
+    "n": "plátano macho maduro",
+    "note": "en rodajas"
+   }
+  ],
+  "steps": [
+   "Calienta el horno a 180 °C. Unta el pan con la mantequilla y tuéstalo en charolas 10 minutos, hasta que esté dorado y seco.",
+   "Hierve el agua con el piloncillo, la canela y el clavo 15 minutos, hasta que sea una miel ligera. Cuela.",
+   "En un refractario, haz capas: pan, pasas, cacahuates, plátano y queso. Repite hasta terminar.",
+   "Vierte la miel encima poco a poco, dejando que el pan la absorba.",
+   "Tapa con aluminio y hornea 25 minutos. Destapa y hornea 10 minutos más.",
+   "Deja reposar 15 minutos antes de servir, tibia o fría."
+  ],
+  "tips": [
+   "El pan debe estar bien seco o se deshace en la miel.",
+   "El queso salado contra la miel es lo que la hace capirotada; no lo quites si puedes."
+  ],
+  "video": "capirotada receta"
+ },
+ "en": {
+  "name": "Capirotada (Mexican Bread Pudding)",
+  "blurb": "The Lenten bread pudding: layers of toasted bolillo, piloncillo syrup with cinnamon, raisins, peanuts and salty cheese.",
+  "ing": [
+   {
+    "n": "day-old bolillo rolls",
+    "note": "sliced"
+   },
+   {
+    "n": "butter",
+    "note": "melted"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "piloncillo (unrefined cane sugar)"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "roasted peanuts"
+   },
+   {
+    "n": "Cotija or aged cheese",
+    "note": "crumbled"
+   },
+   {
+    "n": "ripe plantain",
+    "note": "sliced"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 180 °C. Butter the bread and toast it on trays for 10 minutes, until golden and dry.",
+   "Boil the water with the piloncillo, cinnamon and cloves for 15 minutes, into a light syrup. Strain.",
+   "In a baking dish, make layers: bread, raisins, peanuts, plantain and cheese. Repeat until used up.",
+   "Pour the syrup over little by little, letting the bread soak it up.",
+   "Cover with foil and bake 25 minutes. Uncover and bake 10 minutes more.",
+   "Rest 15 minutes before serving, warm or cold."
+  ],
+  "tips": [
+   "The bread must be very dry or it falls apart in the syrup.",
+   "Salty cheese against the syrup is what makes it capirotada; keep it if you can."
+  ],
+  "video": "capirotada recipe"
+ },
+ "added": "2026-09-30"
+}

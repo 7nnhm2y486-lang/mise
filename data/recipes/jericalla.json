@@ -1,0 +1,124 @@
+{
+ "id": "jericalla",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 75,
+ "serves": 6,
+ "ovenC": 160,
+ "ing": [
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "vanillabean",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  }
+ ],
+ "es": {
+  "name": "Jericalla",
+  "blurb": "El flan de Guadalajara con la superficie quemada. Leche con canela y vainilla cuajada con yemas, sin caramelo.",
+  "ing": [
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "raja de canela"
+   },
+   {
+    "n": "vaina de vainilla",
+    "note": "abierta"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "huevo"
+   }
+  ],
+  "steps": [
+   "Calienta la leche con la canela, la vainilla y el azúcar hasta que humee. Apaga y deja infusionar 15 minutos.",
+   "Calienta el horno a 160 °C. Pon 6 moldes en un refractario.",
+   "Bate las yemas y el huevo sin hacer espuma. Vierte la leche tibia poco a poco, batiendo. Cuela.",
+   "Llena los moldes y vierte agua caliente en el refractario hasta la mitad de los moldes.",
+   "Hornea 35 minutos, hasta que el centro tiemble apenas.",
+   "Pásalos a la parte alta del horno con el grill encendido 3 a 5 minutos, hasta que la superficie tenga manchas oscuras. Enfría y refrigera 2 horas."
+  ],
+  "tips": [
+   "Las manchas quemadas son la gracia; vigílalas porque pasan de doradas a negras en segundos.",
+   "Si salen burbujas, el horno estaba muy caliente."
+  ],
+  "video": "jericalla receta"
+ },
+ "en": {
+  "name": "Jericalla (Guadalajara Custard)",
+  "blurb": "Guadalajara's custard with a scorched top. Milk infused with cinnamon and vanilla, set with yolks, no caramel.",
+  "ing": [
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "vanilla pod",
+    "note": "split"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "egg"
+   }
+  ],
+  "steps": [
+   "Heat the milk with the cinnamon, vanilla and sugar until steaming. Turn off and infuse 15 minutes.",
+   "Heat the oven to 160 °C. Set 6 ramekins in a baking dish.",
+   "Whisk the yolks and egg without making foam. Pour in the warm milk slowly, whisking. Strain.",
+   "Fill the ramekins and pour hot water into the dish halfway up their sides.",
+   "Bake 35 minutes, until the centres barely wobble.",
+   "Move them to the top of the oven under the grill for 3 to 5 minutes, until the tops have dark spots. Cool and chill 2 hours."
+  ],
+  "tips": [
+   "The scorched spots are the point; watch closely, they go from golden to black in seconds.",
+   "If they come out bubbly, the oven was too hot."
+  ],
+  "video": "jericalla recipe"
+ },
+ "added": "2026-09-30"
+}

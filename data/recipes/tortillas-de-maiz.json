@@ -1,0 +1,85 @@
+{
+ "id": "tortillas-de-maiz",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "masa",
+   "role": "structure"
+  },
+  {
+   "q": 330,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Tortillas de maíz",
+  "blurb": "Tortillas hechas en casa con harina de maíz nixtamalizado, agua y sal. Se inflan en el comal cuando la masa está bien.",
+  "ing": [
+   {
+    "n": "harina de maíz nixtamalizado"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la sal y el agua. Amasa 2 minutos, hasta que se sienta como plastilina y no se pegue.",
+   "Tapa con un trapo húmedo y deja reposar 15 minutos.",
+   "Calienta un comal a fuego medio-alto. Forma 16 bolas.",
+   "Aplana cada bola en una prensa entre 2 hojas de plástico, a unos 2 milímetros.",
+   "Cuece 30 segundos, voltea y cuece 1 minuto, voltea otra vez: debe inflarse. Presiona con un trapo si no se infla.",
+   "Guárdalas apiladas en un trapo para que se suavicen con su propio vapor."
+  ],
+  "tips": [
+   "Si los bordes se agrietan al prensar, a la masa le falta agua.",
+   "Si se pegan al plástico, le sobra agua: añade un poco de harina."
+  ],
+  "video": "tortillas de maiz hechas en casa receta"
+ },
+ "en": {
+  "name": "Homemade Corn Tortillas",
+  "blurb": "Tortillas made at home with masa harina, water and salt. They puff on the griddle when the dough is right.",
+  "ing": [
+   {
+    "n": "masa harina"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Mix the masa harina, salt and water. Knead 2 minutes, until it feels like modelling clay and doesn't stick.",
+   "Cover with a damp towel and rest 15 minutes.",
+   "Heat a griddle over medium-high heat. Shape 16 balls.",
+   "Flatten each ball in a press between 2 sheets of plastic, to about 2 millimetres.",
+   "Cook 30 seconds, flip and cook 1 minute, flip again: it should puff. Press with a towel if it doesn't.",
+   "Keep them stacked in a towel so they soften in their own steam."
+  ],
+  "tips": [
+   "If the edges crack when pressed, the dough needs more water.",
+   "If it sticks to the plastic, it has too much: add a little masa harina."
+  ],
+  "video": "homemade corn tortillas recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,194 @@
+{
+ "id": "conchas",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 210,
+ "serves": 12,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 7,
+   "u": "g",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 180,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "icingsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "shortening",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "cocoa",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Conchas",
+  "blurb": "El pan dulce más querido de México: bollo suave de huevo y mantequilla con una costra de azúcar marcada como concha.",
+  "ing": [
+   {
+    "n": "harina de trigo de fuerza"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "leche tibia"
+   },
+   {
+    "n": "mantequilla",
+    "note": "suave"
+   },
+   {
+    "n": "harina de trigo",
+    "note": "para la cubierta"
+   },
+   {
+    "n": "azúcar glas",
+    "note": "para la cubierta"
+   },
+   {
+    "n": "manteca vegetal",
+    "note": "para la cubierta"
+   },
+   {
+    "n": "cacao en polvo",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina de fuerza, la levadura, el azúcar y la sal. Añade los huevos y la leche y amasa 5 minutos.",
+   "Añade la mantequilla en trozos y amasa 10 minutos más, hasta que la masa esté lisa y elástica.",
+   "Tapa y deja crecer 90 minutos, hasta que doble su tamaño.",
+   "Para la cubierta, mezcla la harina, el azúcar glas y la manteca vegetal hasta formar una pasta. Divide en 2 y añade el cacao a una mitad.",
+   "Divide la masa en 12 bolas y ponlas en charolas con papel. Aplana 12 bolitas de cubierta entre plástico y cubre cada pan. Marca las rayas con un cuchillo.",
+   "Deja crecer 60 minutos más. Calienta el horno a 180 °C.",
+   "Hornea 18 a 20 minutos, hasta que la base esté dorada y la cubierta siga clara."
+  ],
+  "tips": [
+   "La cubierta no debe dorarse: si se oscurece, baja la charola una rejilla.",
+   "Congeladas duran 1 mes; se recalientan 5 minutos en el horno."
+  ],
+  "video": "conchas pan dulce receta"
+ },
+ "en": {
+  "name": "Conchas (Mexican Sweet Bread)",
+  "blurb": "Mexico's favourite sweet bread: a soft egg and butter bun with a sugar crust scored like a shell.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "instant yeast"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "warm milk"
+   },
+   {
+    "n": "butter",
+    "note": "soft"
+   },
+   {
+    "n": "all-purpose flour",
+    "note": "for the topping"
+   },
+   {
+    "n": "powdered sugar",
+    "note": "for the topping"
+   },
+   {
+    "n": "vegetable shortening",
+    "note": "for the topping"
+   },
+   {
+    "n": "cocoa powder",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Mix the bread flour, yeast, sugar and salt. Add the eggs and milk and knead 5 minutes.",
+   "Add the butter in pieces and knead 10 minutes more, until smooth and elastic.",
+   "Cover and let rise 90 minutes, until doubled.",
+   "For the topping, mix the flour, powdered sugar and shortening into a paste. Divide in 2 and add the cocoa to one half.",
+   "Divide the dough into 12 balls and set them on lined trays. Flatten 12 balls of topping between plastic and cover each bun. Score the lines with a knife.",
+   "Let rise 60 minutes more. Heat the oven to 180 °C.",
+   "Bake 18 to 20 minutes, until the base is golden and the topping still pale."
+  ],
+  "tips": [
+   "The topping shouldn't brown: if it darkens, move the tray down a rack.",
+   "Frozen they keep 1 month; reheat 5 minutes in the oven."
+  ],
+  "video": "conchas recipe"
+ },
+ "added": "2026-09-30"
+}

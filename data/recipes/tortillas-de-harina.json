@@ -1,0 +1,109 @@
+{
+ "id": "tortillas-de-harina",
+ "country": "Mexico",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Tortillas de harina",
+  "blurb": "Las tortillas suaves del norte, con manteca. Delgadas, con manchas doradas y dobladas sin romperse.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "manteca de cerdo o vegetal"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "agua caliente"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el polvo de hornear y la sal. Frota la manteca con los dedos hasta que parezca arena.",
+   "Añade el agua caliente y amasa 5 minutos, hasta que la masa esté lisa.",
+   "Forma 12 bolas, tapa y deja reposar 30 minutos.",
+   "Extiende cada bola con rodillo en un círculo delgado de 20 centímetros.",
+   "Cuece en un comal caliente sin grasa 30 segundos por lado, hasta que salgan burbujas y manchas doradas.",
+   "Guárdalas en un trapo mientras haces las demás."
+  ],
+  "tips": [
+   "El reposo relaja el gluten: sin él la masa se encoge al estirarla.",
+   "Con manteca vegetal quedan igual de suaves y sin cerdo."
+  ],
+  "video": "tortillas de harina receta"
+ },
+ "en": {
+  "name": "Flour Tortillas",
+  "blurb": "The soft tortillas of northern Mexico, made with lard. Thin, spotted golden and they fold without cracking.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "lard or vegetable shortening"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "hot water"
+   }
+  ],
+  "steps": [
+   "Mix the flour, baking powder and salt. Rub in the lard with your fingertips until it looks like sand.",
+   "Add the hot water and knead 5 minutes, until smooth.",
+   "Shape 12 balls, cover and rest 30 minutes.",
+   "Roll each ball into a thin 20 centimetre circle.",
+   "Cook on a hot dry griddle for 30 seconds per side, until bubbles and golden spots appear.",
+   "Keep them in a towel while you make the rest."
+  ],
+  "tips": [
+   "Resting relaxes the gluten: without it the dough shrinks back when rolled.",
+   "Vegetable shortening makes them just as soft with no pork."
+  ],
+  "video": "flour tortillas recipe"
+ },
+ "added": "2026-09-30"
+}
