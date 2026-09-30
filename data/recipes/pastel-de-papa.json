@@ -1,0 +1,226 @@
+{
+ "id": "pastel-de-papa",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 75,
+ "serves": 6,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 12,
+   "u": "",
+   "k": "olives",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "glaze"
+  }
+ ],
+ "es": {
+  "name": "Pastel de papa",
+  "blurb": "Carne picada con huevo y aceitunas bajo una capa de puré gratinado. La comida casera argentina por excelencia.",
+  "ing": [
+   {
+    "n": "papas",
+    "note": "peladas"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "morrón rojo",
+    "note": "picado"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "huevos duros",
+    "note": "picados"
+   },
+   {
+    "n": "aceitunas verdes",
+    "note": "picadas"
+   },
+   {
+    "n": "yema de huevo"
+   }
+  ],
+  "steps": [
+   "Hierve las papas en agua con sal 20 minutos. Haz puré con la mantequilla, la leche, la nuez moscada y 1 cucharadita de sal.",
+   "Sofríe la cebolla y el morrón en el aceite 8 minutos. Añade la carne, el pimentón, el comino y el resto de la sal y cuece 10 minutos.",
+   "Apaga y mezcla con el huevo y las aceitunas.",
+   "Calienta el horno a 200 °C. Pon la carne en una fuente y cubre con el puré. Marca rayas con un tenedor.",
+   "Pinta con la yema y hornea 25 minutos, hasta que esté dorado."
+  ],
+  "tips": [
+   "Se puede armar el día antes y hornear al momento.",
+   "Las rayas del tenedor se doran y hacen la costra."
+  ],
+  "video": "pastel de papa argentino receta"
+ },
+ "en": {
+  "name": "Pastel de Papa (Argentine Cottage Pie)",
+  "blurb": "Minced beef with egg and olives under a layer of browned mash. Argentine home cooking at its most typical.",
+  "ing": [
+   {
+    "n": "potatoes",
+    "note": "peeled"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "chopped"
+   },
+   {
+    "n": "green olives",
+    "note": "chopped"
+   },
+   {
+    "n": "egg yolk"
+   }
+  ],
+  "steps": [
+   "Boil the potatoes in salted water for 20 minutes. Mash with the butter, milk, nutmeg and 1 teaspoon of salt.",
+   "Cook the onion and bell pepper in the oil for 8 minutes. Add the beef, paprika, cumin and the rest of the salt and cook 10 minutes.",
+   "Turn off and mix in the egg and olives.",
+   "Heat the oven to 200 °C. Put the beef in a dish and cover with the mash. Score lines with a fork.",
+   "Brush with the yolk and bake 25 minutes, until golden."
+  ],
+  "tips": [
+   "It can be assembled the day before and baked when needed.",
+   "The fork lines brown and make the crust."
+  ],
+  "video": "argentine pastel de papa recipe"
+ },
+ "added": "2026-09-30"
+}

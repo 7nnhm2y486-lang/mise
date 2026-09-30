@@ -1,0 +1,160 @@
+{
+ "id": "pastafrola",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 75,
+ "serves": 10,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "eggyolk",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "quincepaste",
+   "role": "spread"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Pastafrola",
+  "blurb": "Tarta de masa dulce rellena de dulce de membrillo con enrejado encima. La merienda con mate de toda Argentina.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "mantequilla",
+    "note": "fría"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "yema de huevo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "ralladura de limón"
+   },
+   {
+    "n": "dulce de membrillo"
+   },
+   {
+    "n": "agua caliente"
+   }
+  ],
+  "steps": [
+   "Bate la mantequilla con el azúcar. Añade el huevo, la yema y la ralladura.",
+   "Añade la harina y el polvo de hornear y une sin amasar de más. Envuelve y refrigera 30 minutos.",
+   "Deshaz el membrillo con el agua caliente con un tenedor hasta que se pueda untar.",
+   "Calienta el horno a 180 °C. Estira dos tercios de la masa y forra un molde de 24 centímetros.",
+   "Rellena con el membrillo. Con el resto de la masa haz tiras y forma un enrejado encima.",
+   "Hornea 35 minutos, hasta que la masa esté dorada. Enfría antes de cortar."
+  ],
+  "tips": [
+   "El dulce de batata es la otra versión clásica.",
+   "La masa se rompe fácil: estírala entre 2 hojas de papel."
+  ],
+  "video": "pastafrola receta"
+ },
+ "en": {
+  "name": "Pastafrola (Quince Lattice Tart)",
+  "blurb": "A sweet pastry tart filled with quince paste under a lattice. Argentina's afternoon snack with mate.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter",
+    "note": "cold"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "egg yolk"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "lemon zest"
+   },
+   {
+    "n": "quince paste"
+   },
+   {
+    "n": "hot water"
+   }
+  ],
+  "steps": [
+   "Beat the butter with the sugar. Add the egg, yolk and zest.",
+   "Add the flour and baking powder and bring together without overworking. Wrap and chill 30 minutes.",
+   "Mash the quince paste with the hot water using a fork until spreadable.",
+   "Heat the oven to 180 °C. Roll out two thirds of the dough and line a 24 centimetre tin.",
+   "Fill with the quince. Cut the rest of the dough into strips and form a lattice on top.",
+   "Bake 35 minutes, until golden. Cool before cutting."
+  ],
+  "tips": [
+   "Sweet potato paste is the other classic version.",
+   "The dough breaks easily: roll it between 2 sheets of paper."
+  ],
+  "video": "pastafrola recipe"
+ },
+ "added": "2026-09-30"
+}

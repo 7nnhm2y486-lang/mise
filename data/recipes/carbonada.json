@@ -1,0 +1,221 @@
+{
+ "id": "carbonada",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "corn",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "fruit",
+   "role": "sweet"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Carbonada criolla",
+  "blurb": "Guiso de carne con zapallo, batata, choclo y durazno. Dulce y salado, y en las fiestas se sirve dentro de un zapallo.",
+  "ing": [
+   {
+    "n": "carne de res para guisar",
+    "note": "en cubos"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "morrón rojo",
+    "note": "picado"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "caldo de carne"
+   },
+   {
+    "n": "zapallo",
+    "note": "en cubos"
+   },
+   {
+    "n": "batata",
+    "note": "en cubos"
+   },
+   {
+    "n": "papa",
+    "note": "en cubos"
+   },
+   {
+    "n": "choclos",
+    "note": "en rodajas"
+   },
+   {
+    "n": "duraznos",
+    "note": "en cubos"
+   },
+   {
+    "n": "orejones de durazno"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Dora la carne en el aceite en tandas. Sácala.",
+   "Sofríe la cebolla y el morrón 8 minutos. Añade el tomate y cuece 5 minutos.",
+   "Regresa la carne con el caldo y la sal. Tapa y cuece 60 minutos a fuego bajo.",
+   "Añade la papa, la batata, el zapallo y el choclo y cuece 20 minutos.",
+   "Añade los duraznos y los orejones y cuece 10 minutos más. Sirve caliente."
+  ],
+  "tips": [
+   "Para servir en zapallo, hornea un zapallo entero ahuecado 40 minutos y llénalo con la carbonada.",
+   "El durazno va al final para que no se deshaga."
+  ],
+  "video": "carbonada criolla receta"
+ },
+ "en": {
+  "name": "Carbonada Criolla (Beef and Peach Stew)",
+  "blurb": "A beef stew with squash, sweet potato, corn and peach. Sweet and savoury, and at festivals it's served inside a pumpkin.",
+  "ing": [
+   {
+    "n": "stewing beef",
+    "note": "cubed"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "beef stock"
+   },
+   {
+    "n": "winter squash",
+    "note": "cubed"
+   },
+   {
+    "n": "sweet potato",
+    "note": "cubed"
+   },
+   {
+    "n": "potato",
+    "note": "cubed"
+   },
+   {
+    "n": "ears of corn",
+    "note": "in rounds"
+   },
+   {
+    "n": "peaches",
+    "note": "diced"
+   },
+   {
+    "n": "dried peaches or apricots"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Brown the beef in the oil in batches. Remove.",
+   "Cook the onion and bell pepper for 8 minutes. Add the tomato and cook 5 minutes.",
+   "Return the beef with the stock and salt. Cover and simmer 60 minutes on low.",
+   "Add the potato, sweet potato, squash and corn and cook 20 minutes.",
+   "Add the peaches and dried fruit and cook 10 minutes more. Serve hot."
+  ],
+  "tips": [
+   "To serve in a pumpkin, bake a whole hollowed pumpkin for 40 minutes and fill it with the stew.",
+   "The peach goes in last so it doesn't fall apart."
+  ],
+  "video": "carbonada criolla recipe"
+ },
+ "added": "2026-09-30"
+}

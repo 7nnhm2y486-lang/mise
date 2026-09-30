@@ -1,0 +1,166 @@
+{
+ "id": "medialunas",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 300,
+ "serves": 16,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 10,
+   "u": "g",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "glaze"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "water",
+   "role": "glaze"
+  }
+ ],
+ "es": {
+  "name": "Medialunas de manteca",
+  "blurb": "Las medialunas de confitería: masa hojaldrada con levadura, dulce, brillante de almíbar. Con café con leche.",
+  "ing": [
+   {
+    "n": "harina de trigo de fuerza"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "leche tibia"
+   },
+   {
+    "n": "mantequilla",
+    "note": "fría, para laminar"
+   },
+   {
+    "n": "azúcar",
+    "note": "para el almíbar"
+   },
+   {
+    "n": "agua",
+    "note": "para el almíbar"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la levadura, el azúcar, la sal, 1 huevo y la leche. Amasa 8 minutos. Refrigera tapada 60 minutos.",
+   "Aplana la mantequilla fría entre papel en un cuadrado de 15 centímetros.",
+   "Estira la masa en un rectángulo, pon la mantequilla en el centro y cierra. Estira a lo largo y dobla en tres. Refrigera 30 minutos. Repite 2 veces más.",
+   "Estira a medio centímetro, corta triángulos de 10 centímetros de base y enrolla desde la base, curvando las puntas.",
+   "Deja crecer 90 minutos en un lugar tibio, hasta que casi doblen. Calienta el horno a 200 °C.",
+   "Pinta con el huevo batido y hornea 15 minutos, hasta que estén doradas.",
+   "Hierve el azúcar con el agua 3 minutos y pinta las medialunas calientes con el almíbar."
+  ],
+  "tips": [
+   "Si la mantequilla se asoma o se derrite, refrigera 15 minutos más antes de seguir.",
+   "Crecen mejor en el horno apagado con un recipiente de agua caliente."
+  ],
+  "video": "medialunas de manteca receta"
+ },
+ "en": {
+  "name": "Medialunas (Argentine Croissants)",
+  "blurb": "Café-style medialunas: sweet, flaky yeast dough, glossy with syrup. With milky coffee.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "instant yeast"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "warm milk"
+   },
+   {
+    "n": "butter",
+    "note": "cold, for laminating"
+   },
+   {
+    "n": "sugar",
+    "note": "for the syrup"
+   },
+   {
+    "n": "water",
+    "note": "for the syrup"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar, salt, 1 egg and the milk. Knead 8 minutes. Chill covered 60 minutes.",
+   "Flatten the cold butter between paper into a 15 centimetre square.",
+   "Roll the dough into a rectangle, put the butter in the centre and enclose it. Roll out lengthwise and fold in three. Chill 30 minutes. Repeat 2 more times.",
+   "Roll to half a centimetre, cut triangles with a 10 centimetre base and roll up from the base, curving the tips.",
+   "Let rise 90 minutes somewhere warm, until nearly doubled. Heat the oven to 200 °C.",
+   "Brush with the beaten egg and bake 15 minutes, until golden.",
+   "Boil the sugar with the water for 3 minutes and brush the hot medialunas with the syrup."
+  ],
+  "tips": [
+   "If the butter breaks through or melts, chill 15 minutes more before carrying on.",
+   "They rise best in the switched-off oven with a dish of hot water."
+  ],
+  "video": "medialunas recipe"
+ },
+ "added": "2026-09-30"
+}

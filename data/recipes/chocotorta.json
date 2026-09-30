@@ -1,0 +1,109 @@
+{
+ "id": "chocotorta",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 30,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "chocolatecookies",
+   "role": "structure"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "dulcedeleche",
+   "role": "spread"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "creamcheese",
+   "role": "spread"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "coffee",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "cocoa",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Chocotorta",
+  "blurb": "La torta sin horno de los cumpleaños argentinos: galletas de chocolate mojadas en café con crema de dulce de leche y queso.",
+  "ing": [
+   {
+    "n": "galletas de chocolate"
+   },
+   {
+    "n": "dulce de leche repostero"
+   },
+   {
+    "n": "queso crema"
+   },
+   {
+    "n": "café",
+    "note": "frío"
+   },
+   {
+    "n": "cacao en polvo",
+    "note": "opcional"
+   }
+  ],
+  "steps": [
+   "Bate el dulce de leche con el queso crema hasta que quede liso.",
+   "Moja cada galleta 2 segundos en el café y ponla en una fuente, formando una capa.",
+   "Cubre con una capa de crema. Repite hasta tener 4 capas de galletas, terminando con crema.",
+   "Espolvorea cacao y refrigera al menos 4 horas, mejor toda la noche."
+  ],
+  "tips": [
+   "Solo 2 segundos en el café: más y se deshacen.",
+   "Para niños, moja las galletas en leche con chocolate en vez de café."
+  ],
+  "video": "chocotorta receta"
+ },
+ "en": {
+  "name": "Chocotorta",
+  "blurb": "The no-bake cake of Argentine birthdays: chocolate biscuits dipped in coffee, layered with dulce de leche and cream cheese.",
+  "ing": [
+   {
+    "n": "chocolate biscuits"
+   },
+   {
+    "n": "thick dulce de leche"
+   },
+   {
+    "n": "cream cheese"
+   },
+   {
+    "n": "coffee",
+    "note": "cold"
+   },
+   {
+    "n": "cocoa powder",
+    "note": "optional"
+   }
+  ],
+  "steps": [
+   "Beat the dulce de leche with the cream cheese until smooth.",
+   "Dip each biscuit in the coffee for 2 seconds and lay it in a dish to form a layer.",
+   "Cover with a layer of cream. Repeat until you have 4 layers of biscuits, ending with cream.",
+   "Dust with cocoa and chill at least 4 hours, better overnight."
+  ],
+  "tips": [
+   "Just 2 seconds in the coffee: longer and they fall apart.",
+   "For kids, dip the biscuits in chocolate milk instead of coffee."
+  ],
+  "video": "chocotorta recipe"
+ },
+ "added": "2026-09-30"
+}

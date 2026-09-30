@@ -1,0 +1,148 @@
+{
+ "id": "fugazzeta",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 180,
+ "serves": 6,
+ "ovenC": 250,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 7,
+   "u": "g",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 320,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "mozzarella",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Fugazzeta rellena",
+  "blurb": "La pizza porteña de dos capas de masa rellena de mozzarella y cubierta de cebolla. Herencia genovesa en Buenos Aires.",
+  "ing": [
+   {
+    "n": "harina de trigo de fuerza"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "mozzarella",
+    "note": "en cubos"
+   },
+   {
+    "n": "cebollas blancas",
+    "note": "en pluma fina"
+   },
+   {
+    "n": "orégano seco"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la levadura, el agua, la sal y 2 cucharadas de aceite. Amasa 10 minutos. Deja crecer 90 minutos.",
+   "Mezcla la cebolla con 1 cucharadita de sal, deja 20 minutos y escúrrela apretando.",
+   "Divide la masa en 2. Estira una y forra un molde aceitado de 30 centímetros. Cubre con la mozzarella dejando 2 centímetros de borde.",
+   "Estira la otra mitad, tapa y sella los bordes. Deja crecer 30 minutos. Calienta el horno a 250 °C.",
+   "Cubre con la cebolla, el orégano y el resto del aceite. Hornea 20 minutos, hasta que la base suene hueca y la cebolla dore."
+  ],
+  "tips": [
+   "Salar y escurrir la cebolla evita que moje la masa.",
+   "Se come con fainá encima en las pizzerías de Buenos Aires."
+  ],
+  "video": "fugazzeta rellena receta"
+ },
+ "en": {
+  "name": "Fugazzeta (Stuffed Onion Pizza)",
+  "blurb": "Buenos Aires's double-crust pizza stuffed with mozzarella and topped with onion. A Genoese legacy in the city.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "instant yeast"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "mozzarella",
+    "note": "cubed"
+   },
+   {
+    "n": "white onions",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "dried oregano"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, water, salt and 2 tablespoons of oil. Knead 10 minutes. Let rise 90 minutes.",
+   "Toss the onion with 1 teaspoon of salt, leave 20 minutes and squeeze dry.",
+   "Divide the dough in 2. Roll out one piece and line an oiled 30 centimetre pan. Cover with the mozzarella, leaving a 2 centimetre border.",
+   "Roll out the other half, cover and seal the edges. Let rise 30 minutes. Heat the oven to 250 °C.",
+   "Top with the onion, oregano and the rest of the oil. Bake 20 minutes, until the base sounds hollow and the onion browns."
+  ],
+  "tips": [
+   "Salting and squeezing the onion keeps it from soaking the dough.",
+   "In Buenos Aires pizzerias it's eaten with fainá on top."
+  ],
+  "video": "fugazzeta recipe"
+ },
+ "added": "2026-09-30"
+}

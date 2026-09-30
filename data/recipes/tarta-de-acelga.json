@@ -1,0 +1,176 @@
+{
+ "id": "tarta-de-acelga",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 75,
+ "serves": 6,
+ "ovenC": 190,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "parmesan",
+   "role": "umami"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Tarta de acelga",
+  "blurb": "Tarta salada de acelga, cebolla, huevo y queso rallado en una masa de aceite. La cena liviana de las casas argentinas.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "aceite",
+    "note": "para la masa"
+   },
+   {
+    "n": "agua tibia"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "acelga",
+    "note": "sin tallos gruesos"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "aceite",
+    "note": "para el relleno"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "queso rallado"
+   },
+   {
+    "n": "nuez moscada"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el aceite de la masa, el agua y 1 cucharadita de sal. Amasa 3 minutos y reposa 20 minutos.",
+   "Hierve la acelga 3 minutos, escúrrela, apriétala bien y pícala.",
+   "Sofríe la cebolla en el aceite 8 minutos. Mezcla con la acelga, los huevos batidos, el queso, la nuez moscada y el resto de la sal.",
+   "Calienta el horno a 190 °C. Estira dos tercios de la masa y forra un molde de 26 centímetros. Rellena y cubre con el resto de la masa. Pincha la tapa.",
+   "Hornea 40 minutos, hasta que esté dorada."
+  ],
+  "tips": [
+   "Aprieta bien la acelga o la tarta sale aguada.",
+   "Se come tibia o fría; aguanta 2 días en la heladera."
+  ],
+  "video": "tarta de acelga receta"
+ },
+ "en": {
+  "name": "Swiss Chard Pie (Tarta de Acelga)",
+  "blurb": "A savoury pie of chard, onion, egg and grated cheese in an olive-oil pastry. The light supper of Argentine homes.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "oil",
+    "note": "for the dough"
+   },
+   {
+    "n": "warm water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "Swiss chard",
+    "note": "thick stems removed"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "oil",
+    "note": "for the filling"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "grated hard cheese"
+   },
+   {
+    "n": "nutmeg"
+   }
+  ],
+  "steps": [
+   "Mix the flour, the dough oil, water and 1 teaspoon of salt. Knead 3 minutes and rest 20 minutes.",
+   "Boil the chard 3 minutes, drain, squeeze hard and chop.",
+   "Cook the onion in the oil for 8 minutes. Mix with the chard, beaten eggs, cheese, nutmeg and the rest of the salt.",
+   "Heat the oven to 190 °C. Roll out two thirds of the dough and line a 26 centimetre tin. Fill and cover with the rest of the dough. Prick the top.",
+   "Bake 40 minutes, until golden."
+  ],
+  "tips": [
+   "Squeeze the chard hard or the pie comes out watery.",
+   "Eat warm or cold; keeps 2 days in the fridge."
+  ],
+  "video": "swiss chard pie recipe"
+ },
+ "added": "2026-09-30"
+}

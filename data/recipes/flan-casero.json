@@ -1,0 +1,126 @@
+{
+ "id": "flan-casero",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 90,
+ "serves": 8,
+ "ovenC": 170,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "dulcedeleche",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Flan casero con dulce de leche",
+  "blurb": "El flan de huevo de la abuela, con caramelo oscuro, servido con una cucharada grande de dulce de leche. Mixto, si lleva crema también.",
+  "ing": [
+   {
+    "n": "azúcar",
+    "note": "para el caramelo"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "azúcar",
+    "note": "para el flan"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "extracto de vainilla"
+   },
+   {
+    "n": "dulce de leche",
+    "note": "para servir"
+   }
+  ],
+  "steps": [
+   "Derrite el azúcar del caramelo en el molde a fuego medio hasta que esté ámbar. Cubre el fondo y deja enfriar.",
+   "Calienta la leche con la vainilla hasta que humee.",
+   "Bate los huevos con el azúcar sin hacer espuma. Añade la leche caliente poco a poco, batiendo. Cuela sobre el caramelo.",
+   "Calienta el horno a 170 °C. Pon el molde en una bandeja con agua caliente y hornea 60 minutos, hasta que el centro apenas tiemble.",
+   "Enfría y refrigera 4 horas. Desmolda y sirve con dulce de leche."
+  ],
+  "tips": [
+   "Si el agua del baño hierve, el flan sale con agujeros: añade agua fría si hace falta.",
+   "El caramelo se derrite solo en la heladera y queda como salsa."
+  ],
+  "video": "flan casero con dulce de leche"
+ },
+ "en": {
+  "name": "Flan with Dulce de Leche",
+  "blurb": "Grandma's egg flan with dark caramel, served with a big spoonful of dulce de leche. Called mixto if cream comes too.",
+  "ing": [
+   {
+    "n": "sugar",
+    "note": "for the caramel"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "sugar",
+    "note": "for the custard"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "dulce de leche",
+    "note": "to serve"
+   }
+  ],
+  "steps": [
+   "Melt the caramel sugar in the mould over medium heat until amber. Coat the bottom and let it cool.",
+   "Heat the milk with the vanilla until steaming.",
+   "Whisk the eggs with the sugar without making foam. Add the hot milk slowly, whisking. Strain over the caramel.",
+   "Heat the oven to 170 °C. Set the mould in a tray of hot water and bake 60 minutes, until the centre barely wobbles.",
+   "Cool and chill 4 hours. Turn out and serve with dulce de leche."
+  ],
+  "tips": [
+   "If the water bath boils, the flan comes out full of holes: add cold water if needed.",
+   "The caramel melts in the fridge and becomes a sauce."
+  ],
+  "video": "flan with dulce de leche recipe"
+ },
+ "added": "2026-09-30"
+}

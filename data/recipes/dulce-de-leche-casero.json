@@ -1,0 +1,97 @@
+{
+ "id": "dulce-de-leche-casero",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 180,
+ "serves": 12,
+ "ing": [
+  {
+   "q": 2,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "bakingsoda",
+   "role": "set"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "vanillabean",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Dulce de leche casero",
+  "blurb": "Leche y azúcar reducidas despacio hasta volverse una crema color caramelo. El sabor nacional de Argentina.",
+  "ing": [
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "bicarbonato de sodio"
+   },
+   {
+    "n": "vaina de vainilla",
+    "note": "abierta"
+   }
+  ],
+  "steps": [
+   "Pon la leche, el azúcar y la vainilla en una olla grande y ancha. Calienta moviendo hasta que el azúcar se disuelva.",
+   "Cuando hierva, añade el bicarbonato. Hará espuma: baja el fuego.",
+   "Cuece a fuego bajo 2 horas y media, moviendo cada 10 minutos al principio y seguido al final.",
+   "Está listo cuando una gota en un plato frío no se corre y la cuchara deja un surco en el fondo.",
+   "Saca la vainilla y pasa a frascos limpios. Espesa al enfriar."
+  ],
+  "tips": [
+   "El bicarbonato ayuda al color y evita que se corte.",
+   "Si queda grumoso, pásalo por la licuadora tibio."
+  ],
+  "video": "dulce de leche casero receta"
+ },
+ "en": {
+  "name": "Homemade Dulce de Leche",
+  "blurb": "Milk and sugar reduced slowly into a caramel-coloured cream. Argentina's national flavour.",
+  "ing": [
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "baking soda"
+   },
+   {
+    "n": "vanilla pod",
+    "note": "split"
+   }
+  ],
+  "steps": [
+   "Put the milk, sugar and vanilla in a large, wide pot. Heat, stirring, until the sugar dissolves.",
+   "When it boils, add the baking soda. It will foam: lower the heat.",
+   "Cook on low for 2 and a half hours, stirring every 10 minutes at first and constantly at the end.",
+   "It's ready when a drop on a cold plate doesn't run and the spoon leaves a trail on the bottom.",
+   "Remove the vanilla and pour into clean jars. It thickens as it cools."
+  ],
+  "tips": [
+   "The baking soda helps the colour and stops it curdling.",
+   "If it turns grainy, blend it while warm."
+  ],
+  "video": "homemade dulce de leche recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,151 @@
+{
+ "id": "revuelto-gramajo",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 20,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "ham",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Revuelto gramajo",
+  "blurb": "Papas pay fritas, jamón, cebolla y arvejas revueltos con huevo. Invento de bodegón porteño, rápido y contundente.",
+  "ing": [
+   {
+    "n": "papas",
+    "note": "en bastones muy finos"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "cebolla",
+    "note": "en pluma"
+   },
+   {
+    "n": "jamón cocido",
+    "note": "en tiras"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "arvejas",
+    "note": "cocidas"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Fríe las papas en el aceite a 170 °C 5 minutos, hasta que estén doradas y crujientes. Escurre y sala.",
+   "Derrite la mantequilla en un sartén y sofríe la cebolla 5 minutos. Añade el jamón y las arvejas 2 minutos.",
+   "Bate los huevos, viértelos y mueve a fuego bajo 1 minuto.",
+   "Añade las papas y mezcla hasta que el huevo cuaje suave. Sirve enseguida."
+  ],
+  "tips": [
+   "Las papas se añaden al final para que no pierdan el crujiente.",
+   "El huevo debe quedar cremoso, no seco."
+  ],
+  "video": "revuelto gramajo receta"
+ },
+ "en": {
+  "name": "Revuelto Gramajo (Potato, Ham and Egg Scramble)",
+  "blurb": "Crisp shoestring potatoes, ham, onion and peas scrambled with egg. A Buenos Aires bistro invention, quick and hearty.",
+  "ing": [
+   {
+    "n": "potatoes",
+    "note": "in very thin matchsticks"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "onion",
+    "note": "sliced"
+   },
+   {
+    "n": "cooked ham",
+    "note": "in strips"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "peas",
+    "note": "cooked"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Fry the potatoes in the oil at 170 °C for 5 minutes, until golden and crisp. Drain and salt.",
+   "Melt the butter in a pan and cook the onion 5 minutes. Add the ham and peas for 2 minutes.",
+   "Beat the eggs, pour them in and stir on low for 1 minute.",
+   "Add the potatoes and toss until the egg is softly set. Serve right away."
+  ],
+  "tips": [
+   "The potatoes go in last so they stay crisp.",
+   "The egg should be creamy, not dry."
+  ],
+  "video": "revuelto gramajo recipe"
+ },
+ "added": "2026-09-30"
+}
