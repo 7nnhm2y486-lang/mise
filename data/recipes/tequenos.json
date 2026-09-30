@@ -1,0 +1,149 @@
+{
+ "id": "tequenos",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 60,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Tequeños",
+  "blurb": "Bastones de queso blanco envueltos en espiral con masa y fritos. El pasapalo de toda fiesta venezolana.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "mantequilla",
+    "note": "fría, en cubos"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "agua fría"
+   },
+   {
+    "n": "queso blanco duro o halloumi",
+    "note": "en bastones de 1 cm"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el azúcar y la sal. Frota la mantequilla hasta que parezca arena.",
+   "Añade el huevo y el agua y amasa 5 minutos, hasta que esté lisa. Tapa y refrigera 30 minutos.",
+   "Estira la masa muy delgada, de 2 milímetros, y corta tiras de 1 centímetro de ancho.",
+   "Enrolla cada tira en espiral alrededor de un bastón de queso, solapando un poco y cubriendo las puntas.",
+   "Fríe en aceite a 180 °C 3 minutos, hasta que estén dorados. Escurre y sirve calientes."
+  ],
+  "tips": [
+   "Cubre bien las puntas o el queso se sale al freír.",
+   "Crudos se congelan en una capa y se fríen sin descongelar."
+  ],
+  "video": "tequeños venezolanos receta"
+ },
+ "en": {
+  "name": "Tequeños (Cheese Sticks)",
+  "blurb": "Sticks of white cheese wrapped in a spiral of dough and fried. The party snack of every Venezuelan celebration.",
+  "ing": [
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "butter",
+    "note": "cold, cubed"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cold water"
+   },
+   {
+    "n": "firm white cheese or halloumi",
+    "note": "in 1 cm sticks"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   }
+  ],
+  "steps": [
+   "Mix the flour, sugar and salt. Rub in the butter until it looks like sand.",
+   "Add the egg and water and knead 5 minutes, until smooth. Cover and chill 30 minutes.",
+   "Roll the dough very thin, 2 millimetres, and cut strips 1 centimetre wide.",
+   "Wind each strip in a spiral around a cheese stick, overlapping slightly and covering the ends.",
+   "Fry in oil at 180 °C for 3 minutes, until golden. Drain and serve hot."
+  ],
+  "tips": [
+   "Cover the ends well or the cheese leaks out in the oil.",
+   "Raw, they freeze in a single layer and fry from frozen."
+  ],
+  "video": "tequeños recipe"
+ },
+ "added": "2026-09-30"
+}

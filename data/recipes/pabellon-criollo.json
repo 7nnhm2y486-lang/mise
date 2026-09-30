@@ -1,0 +1,207 @@
+{
+ "id": "pabellon-criollo",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "main",
+ "time": 180,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "plantain",
+   "role": "sweet"
+  }
+ ],
+ "es": {
+  "name": "Pabellón criollo",
+  "blurb": "El plato nacional de Venezuela: carne mechada, caraotas negras, arroz blanco y tajadas de plátano maduro.",
+  "ing": [
+   {
+    "n": "falda de res"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebollas",
+    "note": "picadas"
+   },
+   {
+    "n": "pimentones rojos",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "caraotas negras (frijoles negros)",
+    "note": "remojadas toda la noche"
+   },
+   {
+    "n": "arroz blanco"
+   },
+   {
+    "n": "plátanos maduros",
+    "note": "en tajadas"
+   }
+  ],
+  "steps": [
+   "Cuece las caraotas escurridas en agua nueva 90 minutos, hasta que estén blandas. Deja 250 ml de su líquido.",
+   "Cuece la carne con el agua y 1 cucharadita de sal 90 minutos, hasta que esté tierna. Deja enfriar y desmecha en hebras finas.",
+   "Sofríe la cebolla, el pimentón y el ajo en 2 cucharadas de aceite 10 minutos. Divide en 2.",
+   "A una mitad añade el tomate, el comino y la carne con 250 ml del líquido de la carne. Cuece 15 minutos hasta que se seque un poco.",
+   "Añade la otra mitad del sofrito a las caraotas con 1 cucharadita de sal y cuece 20 minutos, hasta que espesen.",
+   "Cuece el arroz con la sal restante. Fríe las tajadas de plátano en el resto del aceite hasta que estén doradas.",
+   "Sirve todo junto en el plato: arroz, carne, caraotas y tajadas."
+  ],
+  "tips": [
+   "Desmecha la carne tibia: fría cuesta más y caliente quema.",
+   "Con un huevo frito encima se llama pabellón a caballo."
+  ],
+  "video": "pabellon criollo receta"
+ },
+ "en": {
+  "name": "Pabellón Criollo",
+  "blurb": "Venezuela's national dish: shredded beef, black beans, white rice and fried sweet plantain.",
+  "ing": [
+   {
+    "n": "beef flank"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onions",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell peppers",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "black beans",
+    "note": "soaked overnight"
+   },
+   {
+    "n": "white rice"
+   },
+   {
+    "n": "ripe plantains",
+    "note": "sliced lengthwise"
+   }
+  ],
+  "steps": [
+   "Cook the drained beans in fresh water for 90 minutes, until soft. Keep 250 ml of their liquid.",
+   "Simmer the beef with the water and 1 teaspoon of salt for 90 minutes, until tender. Cool and shred into fine strands.",
+   "Cook the onion, bell pepper and garlic in 2 tablespoons of oil for 10 minutes. Divide in 2.",
+   "To one half add the tomato, cumin and beef with 250 ml of the beef liquid. Cook 15 minutes until slightly dry.",
+   "Add the other half of the sofrito to the beans with 1 teaspoon of salt and cook 20 minutes, until thick.",
+   "Cook the rice with the remaining salt. Fry the plantain slices in the rest of the oil until golden.",
+   "Serve everything together on the plate: rice, beef, beans and plantain."
+  ],
+  "tips": [
+   "Shred the beef while warm: cold it's harder and hot it burns.",
+   "With a fried egg on top it's called pabellón a caballo."
+  ],
+  "video": "pabellon criollo recipe"
+ },
+ "added": "2026-09-30"
+}

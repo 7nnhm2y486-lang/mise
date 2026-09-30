@@ -1,0 +1,123 @@
+{
+ "id": "perico",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 15,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Perico venezolano",
+  "blurb": "Huevos revueltos con tomate, cebolla y ají dulce. El relleno de arepa de todas las mañanas.",
+  "ing": [
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "tomate",
+    "note": "picado"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajíes dulces o 1/4 de pimentón",
+    "note": "picados"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Calienta el aceite y sofríe la cebolla y el ají 4 minutos.",
+   "Añade el tomate y cuece 3 minutos, hasta que suelte su jugo.",
+   "Bate los huevos con la sal, viértelos y revuelve a fuego bajo hasta que cuajen suaves.",
+   "Sirve solo o dentro de una arepa."
+  ],
+  "tips": [
+   "Fuego bajo al final: el perico debe quedar húmedo, no seco.",
+   "Con queso rallado encima es el desayuno completo."
+  ],
+  "video": "perico venezolano receta"
+ },
+ "en": {
+  "name": "Venezuelan Perico (Scrambled Eggs)",
+  "blurb": "Eggs scrambled with tomato, onion and sweet ají pepper. The everyday morning arepa filling.",
+  "ing": [
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "tomato",
+    "note": "chopped"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet ají peppers or 1/4 bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Heat the oil and cook the onion and pepper for 4 minutes.",
+   "Add the tomato and cook 3 minutes, until it releases its juice.",
+   "Beat the eggs with the salt, pour them in and stir over low heat until softly set.",
+   "Serve on its own or inside an arepa."
+  ],
+  "tips": [
+   "Low heat at the end: perico should be moist, not dry.",
+   "With grated cheese on top it's the full breakfast."
+  ],
+  "video": "venezuelan perico recipe"
+ },
+ "added": "2026-09-30"
+}

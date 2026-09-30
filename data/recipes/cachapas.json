@@ -1,0 +1,137 @@
+{
+ "id": "cachapas",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "breakfast",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "corn",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Cachapas",
+  "blurb": "Panqueques gruesos de maíz tierno, dulces y un poco rústicos, doblados sobre queso de mano con mantequilla.",
+  "ing": [
+   {
+    "n": "granos de maíz tierno",
+    "note": "frescos o congelados"
+   },
+   {
+    "n": "harina de maíz precocida"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "mantequilla",
+    "note": "y más para servir"
+   },
+   {
+    "n": "queso de mano o mozzarella fresca",
+    "note": "en tajadas"
+   }
+  ],
+  "steps": [
+   "Licúa el maíz con la leche hasta que quede un puré con algo de textura.",
+   "Mezcla con la harina, el azúcar y la sal. Reposa 10 minutos.",
+   "Calienta un sartén o budare a fuego medio con un poco de mantequilla.",
+   "Vierte un cucharón de mezcla y extiende a 15 centímetros. Cuece 4 minutos, hasta que los bordes se sequen, voltea y cuece 3 minutos más.",
+   "Unta con mantequilla, pon el queso en la mitad y dobla."
+  ],
+  "tips": [
+   "Si se rompen al voltear, añade 1 cucharada más de harina.",
+   "El queso de mano es suave y salado; la mozzarella fresca es lo más parecido."
+  ],
+  "video": "cachapas receta"
+ },
+ "en": {
+  "name": "Cachapas (Sweet Corn Pancakes)",
+  "blurb": "Thick, sweet, slightly rustic fresh corn pancakes folded over soft cheese with butter.",
+  "ing": [
+   {
+    "n": "sweet corn kernels",
+    "note": "fresh or frozen"
+   },
+   {
+    "n": "precooked cornmeal (masarepa)"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "butter",
+    "note": "plus more to serve"
+   },
+   {
+    "n": "queso de mano or fresh mozzarella",
+    "note": "sliced"
+   }
+  ],
+  "steps": [
+   "Blend the corn with the milk into a purée with some texture.",
+   "Mix with the cornmeal, sugar and salt. Rest 10 minutes.",
+   "Heat a pan or griddle over medium heat with a little butter.",
+   "Pour in a ladle of batter and spread to 15 centimetres. Cook 4 minutes, until the edges dry, flip and cook 3 minutes more.",
+   "Butter it, put the cheese on one half and fold."
+  ],
+  "tips": [
+   "If they tear when flipped, add 1 more tablespoon of cornmeal.",
+   "Queso de mano is soft and salty; fresh mozzarella is the closest match."
+  ],
+  "video": "cachapas recipe"
+ },
+ "added": "2026-09-30"
+}

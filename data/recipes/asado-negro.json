@@ -1,0 +1,189 @@
+{
+ "id": "asado-negro",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "main",
+ "time": 180,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "pepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "worcestershire",
+   "role": "umami"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "jaggery",
+   "role": "caramel"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "winered",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Asado negro",
+  "blurb": "Muchacho de res dorado en papelón caramelizado y cocido en vino hasta quedar negro por fuera y tierno por dentro. El asado de las fiestas caraqueñas.",
+  "ing": [
+   {
+    "n": "muchacho redondo de res",
+    "note": "en una pieza"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "salsa inglesa (Worcestershire)"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "papelón rallado"
+   },
+   {
+    "n": "cebollas",
+    "note": "picadas"
+   },
+   {
+    "n": "pimentón rojo",
+    "note": "picado"
+   },
+   {
+    "n": "vino tinto"
+   },
+   {
+    "n": "agua"
+   }
+  ],
+  "steps": [
+   "Unta la carne con el ajo, la sal, la pimienta y la salsa inglesa. Refrigera toda la noche.",
+   "Calienta el aceite en una olla gruesa y derrite el papelón hasta que esté oscuro y humee, 3 minutos.",
+   "Dora la carne en el caramelo 10 minutos, girándola, hasta que esté negra por todos lados.",
+   "Añade la cebolla y el pimentón y sofríe 5 minutos. Añade el vino y el agua.",
+   "Tapa y cuece a fuego bajo 2 horas y media, volteando cada 30 minutos.",
+   "Saca la carne, licúa la salsa y redúcela hasta que espese. Rebana fino y sirve con la salsa."
+  ],
+  "tips": [
+   "El caramelo debe humear un poco pero no oler a quemado.",
+   "Se sirve con arroz blanco y plátano maduro."
+  ],
+  "video": "asado negro venezolano receta"
+ },
+ "en": {
+  "name": "Asado Negro (Venezuelan Black Roast)",
+  "blurb": "Beef eye of round browned in caramelised papelón and braised in wine until black outside and tender within. The roast of Caracas celebrations.",
+  "ing": [
+   {
+    "n": "beef eye of round",
+    "note": "in one piece"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "Worcestershire sauce"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "grated papelón (unrefined cane sugar)"
+   },
+   {
+    "n": "onions",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "red wine"
+   },
+   {
+    "n": "water"
+   }
+  ],
+  "steps": [
+   "Rub the beef with the garlic, salt, pepper and Worcestershire. Chill overnight.",
+   "Heat the oil in a heavy pot and melt the papelón until dark and smoking, 3 minutes.",
+   "Brown the beef in the caramel for 10 minutes, turning, until black all over.",
+   "Add the onion and bell pepper and cook 5 minutes. Add the wine and water.",
+   "Cover and cook on low for 2 and a half hours, turning every 30 minutes.",
+   "Lift out the beef, blend the sauce and reduce until thick. Slice thinly and serve with the sauce."
+  ],
+  "tips": [
+   "The caramel should smoke a little but not smell burned.",
+   "Serve with white rice and sweet plantain."
+  ],
+  "video": "asado negro recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,124 @@
+{
+ "id": "quesillo",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 90,
+ "serves": 8,
+ "ovenC": 170,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 395,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Quesillo venezolano",
+  "blurb": "El flan de Venezuela: más denso y con agujeritos como un queso, sobre un caramelo oscuro.",
+  "ing": [
+   {
+    "n": "azúcar",
+    "note": "para el caramelo"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "extracto de vainilla"
+   }
+  ],
+  "steps": [
+   "Derrite el azúcar con el agua en el molde de quesillo a fuego medio, sin mover, hasta que esté color ámbar oscuro. Gira el molde para cubrir el fondo y los lados.",
+   "Calienta el horno a 170 °C.",
+   "Licúa la leche condensada, la leche, los huevos y la vainilla 30 segundos. Vierte sobre el caramelo.",
+   "Tapa el molde con aluminio y ponlo en una bandeja con agua caliente hasta la mitad.",
+   "Hornea 60 minutos, hasta que al insertar un cuchillo salga limpio.",
+   "Enfría y refrigera al menos 4 horas. Desmolda pasando un cuchillo por el borde y volteando sobre un plato."
+  ],
+  "tips": [
+   "Licuarlo es lo que crea los agujeritos que le dan el nombre.",
+   "Si el caramelo se endurece antes de cubrir el molde, caliéntalo un momento."
+  ],
+  "video": "quesillo venezolano receta"
+ },
+ "en": {
+  "name": "Venezuelan Quesillo (Flan)",
+  "blurb": "Venezuela's flan: denser, with little holes like a cheese, over a dark caramel.",
+  "ing": [
+   {
+    "n": "sugar",
+    "note": "for the caramel"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "sweetened condensed milk"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "vanilla extract"
+   }
+  ],
+  "steps": [
+   "Melt the sugar with the water in the flan mould over medium heat, without stirring, until dark amber. Tilt the mould to coat the bottom and sides.",
+   "Heat the oven to 170 °C.",
+   "Blend the condensed milk, milk, eggs and vanilla for 30 seconds. Pour over the caramel.",
+   "Cover the mould with foil and set it in a tray of hot water halfway up.",
+   "Bake 60 minutes, until a knife comes out clean.",
+   "Cool and chill at least 4 hours. Run a knife round the edge and turn out onto a plate."
+  ],
+  "tips": [
+   "Blending is what creates the little holes that give it its name.",
+   "If the caramel hardens before coating the mould, warm it briefly."
+  ],
+  "video": "quesillo recipe"
+ },
+ "added": "2026-09-30"
+}

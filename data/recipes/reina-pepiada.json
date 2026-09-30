@@ -1,0 +1,175 @@
+{
+ "id": "reina-pepiada",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 2,
+   "u": "",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "avocado",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "mayo",
+   "role": "fat"
+  },
+  {
+   "q": 0.25,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 375,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Arepa reina pepiada",
+  "blurb": "Arepa rellena de pollo desmechado con aguacate y mayonesa. Nombrada por una reina de belleza venezolana.",
+  "ing": [
+   {
+    "n": "pechugas de pollo"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aguacates maduros"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "limón",
+    "note": "en jugo"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "harina de maíz precocida"
+   },
+   {
+    "n": "agua tibia para la masa"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo en el agua con 1 cucharadita de sal 20 minutos. Enfría y desmecha.",
+   "Machaca los aguacates con la mayonesa, la cebolla, el limón y el cilantro. Mezcla con el pollo y prueba de sal.",
+   "Amasa la harina con el agua tibia y el resto de la sal. Reposa 5 minutos.",
+   "Forma 8 bolas y aplánalas a 1 centímetro de grueso.",
+   "Cuécelas en un sartén o budare a fuego medio 6 minutos por lado, hasta que tengan costra y suenen huecas al tocarlas.",
+   "Ábrelas por un lado y rellena con la mezcla."
+  ],
+  "tips": [
+   "El limón evita que el aguacate se oscurezca.",
+   "Si la arepa suena hueca al darle golpecitos, está lista por dentro."
+  ],
+  "video": "reina pepiada receta"
+ },
+ "en": {
+  "name": "Reina Pepiada Arepa",
+  "blurb": "An arepa filled with shredded chicken, avocado and mayonnaise. Named for a Venezuelan beauty queen.",
+  "ing": [
+   {
+    "n": "chicken breasts"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ripe avocados"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "lime",
+    "note": "juiced"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "precooked cornmeal (masarepa)"
+   },
+   {
+    "n": "warm water for the dough"
+   }
+  ],
+  "steps": [
+   "Poach the chicken in the water with 1 teaspoon of salt for 20 minutes. Cool and shred.",
+   "Mash the avocados with the mayonnaise, onion, lime and cilantro. Mix with the chicken and taste for salt.",
+   "Knead the cornmeal with the warm water and the rest of the salt. Rest 5 minutes.",
+   "Shape 8 balls and flatten to 1 centimetre thick.",
+   "Cook in a pan or griddle over medium heat for 6 minutes per side, until crusted and hollow-sounding when tapped.",
+   "Slit them open along one side and fill with the mixture."
+  ],
+  "tips": [
+   "The lime keeps the avocado from browning.",
+   "If the arepa sounds hollow when tapped, it's cooked inside."
+  ],
+  "video": "reina pepiada recipe"
+ },
+ "added": "2026-09-30"
+}

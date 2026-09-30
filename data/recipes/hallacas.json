@@ -1,0 +1,327 @@
+{
+ "id": "hallacas",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "main",
+ "time": 360,
+ "serves": 20,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 10,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 8,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "winered",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "jaggery",
+   "role": "sweet"
+  },
+  {
+   "q": 4,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "cornmeal",
+   "role": "structure"
+  },
+  {
+   "q": 1.2,
+   "u": "l",
+   "k": "stock",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "olives",
+   "role": "garnish"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "capers",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "garnish"
+  },
+  {
+   "q": 20,
+   "u": "leaf",
+   "k": "veg",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Hallacas",
+  "blurb": "El plato de Navidad venezolano: masa de maíz con onoto rellena de un guiso de tres carnes con vino y papelón, adornada con aceitunas, pasas y alcaparras, envuelta en hoja de plátano.",
+  "ing": [
+   {
+    "n": "cerdo",
+    "note": "en cubos pequeños"
+   },
+   {
+    "n": "res",
+    "note": "en cubos pequeños"
+   },
+   {
+    "n": "pollo sin hueso",
+    "note": "en cubos pequeños"
+   },
+   {
+    "n": "cebollas",
+    "note": "picadas"
+   },
+   {
+    "n": "pimentones rojos",
+    "note": "picados"
+   },
+   {
+    "n": "ajíes dulces",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tallos de cebollín",
+    "note": "picados"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "vino tinto"
+   },
+   {
+    "n": "papelón rallado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "harina de maíz precocida"
+   },
+   {
+    "n": "caldo de pollo tibio"
+   },
+   {
+    "n": "aceite coloreado con achiote"
+   },
+   {
+    "n": "semillas de onoto (achiote)"
+   },
+   {
+    "n": "aceitunas verdes sin hueso"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "alcaparras"
+   },
+   {
+    "n": "pimentón rojo",
+    "note": "en tiras"
+   },
+   {
+    "n": "hojas de plátano",
+    "note": "limpias, en cuadros de 30 cm"
+   }
+  ],
+  "steps": [
+   "Calienta el aceite con las semillas de onoto 3 minutos a fuego bajo hasta que se tiña de rojo. Cuela.",
+   "Sofríe las cebollas, los pimentones, los ajíes, el ajo y el cebollín en 4 cucharadas del aceite rojo 10 minutos.",
+   "Añade las tres carnes y dóralas 10 minutos. Añade el tomate, el vino, el papelón y 2 cucharaditas de sal. Cuece tapado 60 minutos, hasta que esté espeso. Enfría toda la noche.",
+   "Amasa la harina con el caldo tibio, el resto de la sal y 120 ml del aceite rojo hasta que esté suave y no se pegue.",
+   "Unta una hoja con aceite rojo. Extiende una bola de masa en una capa delgada de 20 centímetros.",
+   "Pon 2 cucharadas de guiso en el centro con 1 aceituna, unas pasas, alcaparras y 1 tira de pimentón.",
+   "Dobla la hoja para cerrar la masa sobre el relleno como un sobre, envuelve en otra hoja y amarra con pabilo en cruz.",
+   "Hierve las hallacas en una olla grande de agua con sal 60 minutos. Escurre y sirve, o enfría y congela."
+  ],
+  "tips": [
+   "Es trabajo de familia: una persona extiende, otra rellena y otra amarra.",
+   "Congeladas duran 3 meses; se hierven 30 minutos sin descongelar."
+  ],
+  "video": "hallacas venezolanas receta"
+ },
+ "en": {
+  "name": "Hallacas (Venezuelan Christmas Tamales)",
+  "blurb": "Venezuela's Christmas dish: annatto corn dough filled with a three-meat stew with wine and papelón, topped with olives, raisins and capers, wrapped in banana leaves.",
+  "ing": [
+   {
+    "n": "pork",
+    "note": "in small cubes"
+   },
+   {
+    "n": "beef",
+    "note": "in small cubes"
+   },
+   {
+    "n": "boneless chicken",
+    "note": "in small cubes"
+   },
+   {
+    "n": "onions",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell peppers",
+    "note": "chopped"
+   },
+   {
+    "n": "sweet ají peppers",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "green onion stalks",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "red wine"
+   },
+   {
+    "n": "grated papelón (unrefined cane sugar)"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "precooked cornmeal (masarepa)"
+   },
+   {
+    "n": "warm chicken stock"
+   },
+   {
+    "n": "oil coloured with annatto"
+   },
+   {
+    "n": "annatto seeds"
+   },
+   {
+    "n": "pitted green olives"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "capers"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "in strips"
+   },
+   {
+    "n": "banana leaves",
+    "note": "cleaned, in 30 cm squares"
+   }
+  ],
+  "steps": [
+   "Heat the oil with the annatto seeds for 3 minutes on low until it turns red. Strain.",
+   "Cook the onions, bell peppers, ají peppers, garlic and green onion in 4 tablespoons of the red oil for 10 minutes.",
+   "Add the three meats and brown 10 minutes. Add the tomato, wine, papelón and 2 teaspoons of salt. Cook covered 60 minutes, until thick. Chill overnight.",
+   "Knead the cornmeal with the warm stock, the rest of the salt and 120 ml of the red oil until soft and not sticky.",
+   "Brush a leaf with red oil. Spread a ball of dough into a thin 20 centimetre layer.",
+   "Put 2 tablespoons of stew in the centre with 1 olive, a few raisins, capers and 1 strip of bell pepper.",
+   "Fold the leaf to close the dough over the filling like an envelope, wrap in another leaf and tie with string in a cross.",
+   "Boil the hallacas in a large pot of salted water for 60 minutes. Drain and serve, or cool and freeze."
+  ],
+  "tips": [
+   "It's a family job: one person spreads, one fills and one ties.",
+   "Frozen they keep 3 months; boil 30 minutes from frozen."
+  ],
+  "video": "hallacas recipe"
+ },
+ "added": "2026-09-30"
+}

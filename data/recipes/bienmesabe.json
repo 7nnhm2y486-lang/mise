@@ -1,0 +1,119 @@
+{
+ "id": "bienmesabe",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutcream",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 5,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 24,
+   "u": "",
+   "k": "ladyfingers",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Bienmesabe",
+  "blurb": "Capas de bizcocho empapadas en una crema espesa de coco y yemas, con canela. El postre de coco más querido de Venezuela.",
+  "ing": [
+   {
+    "n": "crema de coco"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "raja de canela"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "bizcochos de soletilla"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Calienta la crema de coco con el azúcar y la canela 10 minutos a fuego bajo, moviendo.",
+   "Bate las yemas. Vierte encima un cucharón de la crema caliente batiendo, y luego regresa todo a la olla.",
+   "Cuece a fuego bajo 8 minutos, moviendo sin parar, hasta que espese como natilla. No hiervas. Saca la canela.",
+   "En un molde, pon una capa de bizcochos, cubre con crema y repite hasta terminar con crema.",
+   "Espolvorea canela y refrigera 4 horas antes de servir."
+  ],
+  "tips": [
+   "Si hierve después de las yemas, se corta: fuego bajo y paciencia.",
+   "Tradicionalmente se moja el bizcocho en vino dulce; aquí no lleva alcohol."
+  ],
+  "video": "bienmesabe venezolano receta"
+ },
+ "en": {
+  "name": "Bienmesabe (Coconut Cream Trifle)",
+  "blurb": "Layers of sponge soaked in a thick coconut and egg-yolk custard, with cinnamon. Venezuela's favourite coconut dessert.",
+  "ing": [
+   {
+    "n": "coconut cream"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "ladyfingers"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Heat the coconut cream with the sugar and cinnamon for 10 minutes on low, stirring.",
+   "Whisk the yolks. Pour in a ladle of the hot cream while whisking, then return everything to the pot.",
+   "Cook on low for 8 minutes, stirring constantly, until thick like custard. Don't boil. Remove the cinnamon.",
+   "In a dish, lay a layer of ladyfingers, cover with cream and repeat, ending with cream.",
+   "Dust with cinnamon and chill 4 hours before serving."
+  ],
+  "tips": [
+   "If it boils after the yolks go in, it curdles: low heat and patience.",
+   "Traditionally the sponge is soaked in sweet wine; this version has no alcohol."
+  ],
+  "video": "bienmesabe recipe"
+ },
+ "added": "2026-09-30"
+}

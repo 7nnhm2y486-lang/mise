@@ -1,0 +1,186 @@
+{
+ "id": "pan-de-jamon",
+ "country": "Venezuela",
+ "region": "latin-america",
+ "course": "bread",
+ "time": 180,
+ "serves": 10,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "breadflour",
+   "role": "structure"
+  },
+  {
+   "q": 7,
+   "u": "g",
+   "k": "yeast",
+   "role": "leaven"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "ham",
+   "role": "protein"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "olives",
+   "role": "garnish"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "glaze"
+  }
+ ],
+ "es": {
+  "name": "Pan de jamón",
+  "blurb": "El pan de Navidad de Caracas: masa dulce enrollada con jamón, aceitunas y pasas, barnizada y dorada.",
+  "ing": [
+   {
+    "n": "harina de trigo de fuerza"
+   },
+   {
+    "n": "levadura seca"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "leche tibia"
+   },
+   {
+    "n": "mantequilla",
+    "note": "suave"
+   },
+   {
+    "n": "jamón cocido en lonjas"
+   },
+   {
+    "n": "aceitunas verdes sin hueso",
+    "note": "en rodajas"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "huevo para barnizar"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, la levadura, el azúcar y la sal. Añade el huevo y la leche y amasa 5 minutos. Añade la mantequilla y amasa 8 minutos más.",
+   "Tapa y deja crecer 60 minutos, hasta que doble.",
+   "Divide en 2 y estira cada parte en un rectángulo de 30 por 40 centímetros.",
+   "Cubre con el jamón, las aceitunas y las pasas, dejando 2 centímetros de borde. Enrolla desde el lado largo y sella.",
+   "Pon en una bandeja con el cierre abajo, pincha la superficie con un tenedor y deja crecer 30 minutos. Calienta el horno a 180 °C.",
+   "Barniza con el huevo batido y hornea 30 a 35 minutos, hasta que esté dorado y suene hueco por debajo."
+  ],
+  "tips": [
+   "Pincha el pan antes de hornear para que el vapor salga y no se abra.",
+   "Frío o tibio, rebanado grueso, en la mesa de Navidad."
+  ],
+  "video": "pan de jamon venezolano receta"
+ },
+ "en": {
+  "name": "Pan de Jamón (Venezuelan Ham Bread)",
+  "blurb": "Caracas's Christmas bread: sweet dough rolled with ham, olives and raisins, glazed and golden.",
+  "ing": [
+   {
+    "n": "bread flour"
+   },
+   {
+    "n": "instant yeast"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "warm milk"
+   },
+   {
+    "n": "butter",
+    "note": "soft"
+   },
+   {
+    "n": "sliced cooked ham"
+   },
+   {
+    "n": "pitted green olives",
+    "note": "sliced"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "egg to glaze"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar and salt. Add the egg and milk and knead 5 minutes. Add the butter and knead 8 minutes more.",
+   "Cover and let rise 60 minutes, until doubled.",
+   "Divide in 2 and roll each piece into a 30 by 40 centimetre rectangle.",
+   "Cover with the ham, olives and raisins, leaving a 2 centimetre border. Roll up from the long side and seal.",
+   "Set seam-down on a tray, prick the top with a fork and let rise 30 minutes. Heat the oven to 180 °C.",
+   "Brush with the beaten egg and bake 30 to 35 minutes, until golden and hollow-sounding underneath."
+  ],
+  "tips": [
+   "Prick the bread before baking so steam escapes and it doesn't split.",
+   "Cold or warm, thickly sliced, on the Christmas table."
+  ],
+  "video": "pan de jamon recipe"
+ },
+ "added": "2026-09-30"
+}
