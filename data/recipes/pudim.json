@@ -1,0 +1,108 @@
+{
+ "id": "pudim",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 80,
+ "serves": 10,
+ "ovenC": 160,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "caramel"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 395,
+   "u": "g",
+   "k": "condensedmilk",
+   "role": "sweet"
+  },
+  {
+   "q": 395,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  }
+ ],
+ "es": {
+  "name": "Pudim de leite",
+  "blurb": "El flan brasileño de leche condensada: denso, liso y bañado en caramelo.",
+  "ing": [
+   {
+    "n": "azúcar para el caramelo"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "leche condensada"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "huevos"
+   }
+  ],
+  "steps": [
+   "Cuece el azúcar con el agua sin remover hasta tener un caramelo ámbar. Viértelo en un molde de corona de 22 cm y gíralo para cubrir.",
+   "Licúa la leche condensada, la leche y los huevos 1 minuto. Deja reposar 5 minutos para que baje la espuma.",
+   "Vierte en el molde y cubre con papel de aluminio.",
+   "Hornea al baño María a 160 °C durante 60 minutos, hasta que cuaje con un temblor en el centro.",
+   "Enfría y refrigera al menos 6 horas. Desmolda pasando un cuchillo por el borde."
+  ],
+  "tips": [
+   "Usa la lata de leche condensada vacía para medir la leche.",
+   "Los agujeritos salen si el horno está demasiado fuerte; baja 10 grados la próxima vez."
+  ],
+  "video": "pudim de leite condensado receita"
+ },
+ "en": {
+  "name": "Pudim (Brazilian Flan)",
+  "blurb": "Brazil's condensed-milk flan: dense, smooth and bathed in caramel.",
+  "ing": [
+   {
+    "n": "sugar for the caramel"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "condensed milk"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "eggs"
+   }
+  ],
+  "steps": [
+   "Cook the sugar with the water without stirring to an amber caramel. Pour into a 22 cm ring mould and swirl to coat.",
+   "Blend the condensed milk, milk and eggs for 1 minute. Leave 5 minutes for the foam to settle.",
+   "Pour into the mould and cover with foil.",
+   "Bake in a water bath at 160 °C for 60 minutes, until set with a wobble in the centre.",
+   "Cool and refrigerate at least 6 hours. Turn out after running a knife round the edge."
+  ],
+  "tips": [
+   "Use the empty condensed-milk can to measure the milk.",
+   "Little holes mean the oven was too hot; drop it 10 degrees next time."
+  ],
+  "video": "brazilian pudim recipe"
+ },
+ "added": "2026-09-30"
+}

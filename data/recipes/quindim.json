@@ -1,0 +1,108 @@
+{
+ "id": "quindim",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 12,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 12,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "desiccatedcoconut",
+   "role": "structure"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Quindim",
+  "blurb": "Pequeños flanes amarillos de yema y coco, brillantes arriba y con base de coco. Herencia de los conventos portugueses en Bahía.",
+  "ing": [
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "coco rallado"
+   },
+   {
+    "n": "mantequilla derretida"
+   },
+   {
+    "n": "leche de coco"
+   }
+  ],
+  "steps": [
+   "Mezcla las yemas con el azúcar sin batir, solo hasta integrar. Pásalas por un colador.",
+   "Añade el coco, la mantequilla y la leche de coco y mezcla. Deja reposar 30 minutos.",
+   "Engrasa 12 moldes pequeños y espolvorea con azúcar. Reparte la mezcla.",
+   "Hornea al baño María a 180 °C durante 40 minutos, hasta que estén firmes y dorados arriba.",
+   "Enfría y desmolda. El coco queda abajo y la yema brillante arriba al darles la vuelta."
+  ],
+  "tips": [
+   "No batas las yemas: si entra aire pierden el brillo.",
+   "Guarda las claras para merengues o una tortilla."
+  ],
+  "video": "quindim receita"
+ },
+ "en": {
+  "name": "Quindim (Coconut Yolk Custards)",
+  "blurb": "Small yellow custards of yolk and coconut, glossy on top with a coconut base. A legacy of Portuguese convents in Bahia.",
+  "ing": [
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "desiccated coconut"
+   },
+   {
+    "n": "melted butter"
+   },
+   {
+    "n": "coconut milk"
+   }
+  ],
+  "steps": [
+   "Mix the yolks with the sugar without whisking, just until combined. Pass through a sieve.",
+   "Add the coconut, butter and coconut milk and mix. Leave 30 minutes.",
+   "Grease 12 small moulds and dust with sugar. Divide the mixture between them.",
+   "Bake in a water bath at 180 °C for 40 minutes, until firm and golden on top.",
+   "Cool and turn out. The coconut sits at the bottom and the glossy yolk on top once inverted."
+  ],
+  "tips": [
+   "Don't whisk the yolks: air takes away the shine.",
+   "Keep the whites for meringues or an omelette."
+  ],
+  "video": "quindim recipe"
+ },
+ "added": "2026-09-30"
+}

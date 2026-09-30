@@ -1,0 +1,123 @@
+{
+ "id": "picanha",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "pepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Picaña a la brasa",
+  "blurb": "El corte estrella del churrasco: rodajas gruesas con su grasa, solo sal gruesa y fuego fuerte.",
+  "ing": [
+   {
+    "n": "picaña con su capa de grasa"
+   },
+   {
+    "n": "sal gruesa"
+   },
+   {
+    "n": "pimienta negra molida"
+   },
+   {
+    "n": "ajo",
+    "note": "picado fino"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Corta la picaña a favor de la veta en filetes de 3 cm y dóblalos en forma de C con la grasa por fuera.",
+   "Cubre con la sal gruesa y ensártalos en brochetas.",
+   "Asa a fuego fuerte con la grasa hacia el fuego 5 minutos, luego 4 minutos por cada lado para término medio.",
+   "Mezcla el ajo, el aceite, el perejil y la pimienta.",
+   "Deja reposar la carne 5 minutos, córtala en láminas finas contra la veta y rocía con el aceite de ajo."
+  ],
+  "tips": [
+   "Sacude el exceso de sal antes de cortar.",
+   "Sirve con vinagrete brasileño."
+  ],
+  "video": "picanha na brasa"
+ },
+ "en": {
+  "name": "Grilled Picanha",
+  "blurb": "The star cut of churrasco: thick slices with their fat cap, just coarse salt and strong fire.",
+  "ing": [
+   {
+    "n": "picanha (rump cap) with its fat cap"
+   },
+   {
+    "n": "coarse salt"
+   },
+   {
+    "n": "ground black pepper"
+   },
+   {
+    "n": "garlic",
+    "note": "finely chopped"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Cut the picanha with the grain into 3 cm steaks and curl them into a C with the fat on the outside.",
+   "Cover with the coarse salt and thread onto skewers.",
+   "Grill over high heat with the fat facing the fire for 5 minutes, then 4 minutes each side for medium.",
+   "Mix the garlic, oil, parsley and pepper.",
+   "Rest the meat 5 minutes, slice thinly against the grain and drizzle with the garlic oil."
+  ],
+  "tips": [
+   "Shake off the excess salt before slicing.",
+   "Serve with Brazilian vinagrete."
+  ],
+  "video": "picanha recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,181 @@
+{
+ "id": "feijao-tropeiro",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "bacon",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sausage",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Feijão tropeiro",
+  "blurb": "Frijoles salteados con tocino, linguiça, huevo y harina de mandioca. El plato de los arrieros de Minas Gerais.",
+  "ing": [
+   {
+    "n": "tocino ahumado",
+    "note": "en dados"
+   },
+   {
+    "n": "linguiça (salchicha de cerdo)",
+    "note": "en rodajas"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "frijoles pintos cocidos",
+    "note": "escurridos"
+   },
+   {
+    "n": "harina de mandioca"
+   },
+   {
+    "n": "col rizada (couve)",
+    "note": "en tiras finas"
+   },
+   {
+    "n": "cebolletas",
+    "note": "picadas"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Fríe el tocino 5 minutos en una sartén grande. Añade la linguiça y dora 5 minutos.",
+   "Añade la cebolla y el ajo y cuece 4 minutos. Empuja a un lado, rompe los huevos en el hueco y revuélvelos 2 minutos.",
+   "Añade los frijoles y saltea 3 minutos.",
+   "Añade la harina de mandioca poco a poco, mezclando, hasta que absorba la grasa y quede suelto.",
+   "Saltea la col en la misma sartén 2 minutos, sala y termina con las cebolletas."
+  ],
+  "tips": [
+   "Los frijoles deben estar bien escurridos; si están mojados, la harina se apelmaza.",
+   "La col se añade al final para que quede verde y crujiente."
+  ],
+  "video": "feijão tropeiro receita"
+ },
+ "en": {
+  "name": "Feijão Tropeiro (Drover's Beans)",
+  "blurb": "Beans tossed with bacon, linguiça, egg and cassava flour. The dish of the mule drivers of Minas Gerais.",
+  "ing": [
+   {
+    "n": "smoked bacon",
+    "note": "diced"
+   },
+   {
+    "n": "linguiça (pork sausage)",
+    "note": "sliced"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "cooked pinto beans",
+    "note": "drained"
+   },
+   {
+    "n": "cassava flour (farinha de mandioca)"
+   },
+   {
+    "n": "collard greens (couve)",
+    "note": "finely shredded"
+   },
+   {
+    "n": "scallions",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Fry the bacon for 5 minutes in a large frying pan. Add the linguiça and brown 5 minutes.",
+   "Add the onion and garlic and cook 4 minutes. Push to one side, crack the eggs into the space and scramble 2 minutes.",
+   "Add the beans and toss 3 minutes.",
+   "Add the cassava flour a little at a time, mixing, until it soaks up the fat and turns loose.",
+   "Toss the greens in the same pan for 2 minutes, salt and finish with the scallions."
+  ],
+  "tips": [
+   "The beans must be well drained; if wet, the flour goes lumpy.",
+   "The greens go in last so they stay green and crisp."
+  ],
+  "video": "feijao tropeiro recipe"
+ },
+ "added": "2026-09-30"
+}

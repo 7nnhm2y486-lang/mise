@@ -1,0 +1,207 @@
+{
+ "id": "bobo-de-camarao",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "main",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Bobó de camarão",
+  "blurb": "Camarones en una crema de yuca, leche de coco y aceite de dendê. Un clásico de Bahía.",
+  "ing": [
+   {
+    "n": "yuca",
+    "note": "pelada, en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "camarones",
+    "note": "pelados y limpios"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite de palma (dendê)"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento rojo",
+    "note": "picado"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Cuece la yuca en el agua 25 minutos, hasta que esté muy tierna. Quita la fibra central y lícuala con 250 ml del agua de cocción.",
+   "Mezcla los camarones con el jugo de limón, el ajo y 1 cucharadita de sal. Deja 15 minutos.",
+   "Calienta el dendê y sofríe la cebolla, el pimiento y el tomate 8 minutos.",
+   "Añade la crema de yuca y la leche de coco y cuece 5 minutos a fuego bajo, removiendo.",
+   "Añade los camarones con su marinada y cuece 4 minutos, hasta que estén rosados. Sala y termina con el cilantro."
+  ],
+  "tips": [
+   "No cuezas los camarones más de 4 minutos o se endurecen.",
+   "El dendê da el color naranja y el sabor bahiano; con aceite neutro sale más pálido pero bueno."
+  ],
+  "video": "bobó de camarão receita"
+ },
+ "en": {
+  "name": "Bobó de Camarão (Shrimp in Cassava Cream)",
+  "blurb": "Shrimp in a cream of cassava, coconut milk and dendê oil. A classic from Bahia.",
+  "ing": [
+   {
+    "n": "cassava",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "shrimp",
+    "note": "peeled and deveined"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "palm oil (dendê)"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Boil the cassava in the water for 25 minutes, until very tender. Remove the woody core and blend with 250 ml of the cooking water.",
+   "Mix the shrimp with the lime juice, garlic and 1 teaspoon of salt. Leave 15 minutes.",
+   "Heat the dendê and cook the onion, pepper and tomato for 8 minutes.",
+   "Add the cassava cream and coconut milk and cook 5 minutes over low heat, stirring.",
+   "Add the shrimp with their marinade and cook 4 minutes, until pink. Salt and finish with the cilantro."
+  ],
+  "tips": [
+   "Don't cook the shrimp more than 4 minutes or they toughen.",
+   "Dendê gives the orange colour and Bahian flavour; with neutral oil it's paler but still good."
+  ],
+  "video": "bobo de camarao recipe"
+ },
+ "added": "2026-09-30"
+}

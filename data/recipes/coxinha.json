@@ -1,0 +1,209 @@
+{
+ "id": "coxinha",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 120,
+ "serves": 24,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "tomatopaste",
+   "role": "umami"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "creamcheese",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "breadcrumbs",
+   "role": "dredge"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Coxinhas",
+  "blurb": "Croquetas brasileñas con forma de muslo, masa de harina cocida y relleno de pollo con requeijão.",
+  "ing": [
+   {
+    "n": "pechuga de pollo"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "pasta de tomate"
+   },
+   {
+    "n": "requesón cremoso (requeijão)"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "pan rallado"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Cuece el pollo en el agua con 1 cucharadita de sal 20 minutos. Sácalo, desmenúzalo y guarda 500 ml del agua de cocción.",
+   "Sofríe la cebolla y el ajo en el aceite 5 minutos. Añade el pollo, la pasta de tomate y las hierbas y cuece 5 minutos. Enfría y mezcla con el requeijão.",
+   "Hierve el agua reservada con la mantequilla y el resto de la sal. Echa la harina de golpe y remueve 3 minutos, hasta que la masa se despegue de la olla. Enfría 15 minutos.",
+   "Amasa hasta que esté lisa. Toma bolitas de 40 g, ahuécalas, rellena con una cucharada de pollo y cierra en forma de gota.",
+   "Moja cada coxinha en agua, pásala por el pan rallado y fríe a 180 °C durante 4 minutos, hasta que esté dorada."
+  ],
+  "tips": [
+   "Amasa la masa todavía tibia; fría se agrieta.",
+   "Se pueden congelar crudas ya empanizadas y freír sin descongelar, 1 minuto más."
+  ],
+  "video": "coxinha receta brasileña"
+ },
+ "en": {
+  "name": "Coxinhas (Brazilian Chicken Croquettes)",
+  "blurb": "Brazilian croquettes shaped like a drumstick, with a cooked-flour dough and a chicken and requeijão filling.",
+  "ing": [
+   {
+    "n": "chicken breast"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "tomato paste"
+   },
+   {
+    "n": "requeijão (Brazilian cream cheese)"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "breadcrumbs"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken in the water with 1 teaspoon of salt for 20 minutes. Lift out, shred and keep 500 ml of the cooking water.",
+   "Cook the onion and garlic in the oil for 5 minutes. Add the chicken, tomato paste and herbs and cook 5 minutes. Cool and mix with the requeijão.",
+   "Boil the reserved water with the butter and the rest of the salt. Tip in the flour all at once and stir 3 minutes, until the dough leaves the pot. Cool 15 minutes.",
+   "Knead until smooth. Take 40 g balls, hollow them, fill with a spoonful of chicken and close into a teardrop.",
+   "Dip each coxinha in water, roll in the breadcrumbs and fry at 180 °C for 4 minutes, until golden."
+  ],
+  "tips": [
+   "Knead the dough while still warm; cold, it cracks.",
+   "They freeze raw once crumbed; fry from frozen, 1 minute longer."
+  ],
+  "video": "coxinha recipe"
+ },
+ "added": "2026-09-30"
+}

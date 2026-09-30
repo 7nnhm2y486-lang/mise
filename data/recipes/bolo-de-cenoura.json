@@ -1,0 +1,182 @@
+{
+ "id": "bolo-de-cenoura",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 12,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "cocoa",
+   "role": "glaze"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "sugar",
+   "role": "glaze"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "glaze"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "milk",
+   "role": "glaze"
+  }
+ ],
+ "es": {
+  "name": "Bolo de cenoura",
+  "blurb": "Bizcocho naranja de zanahoria licuada con una capa de chocolate brillante. La merienda brasileña.",
+  "ing": [
+   {
+    "n": "zanahorias",
+    "note": "peladas, en trozos"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cacao en polvo"
+   },
+   {
+    "n": "azúcar para la cobertura"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "leche"
+   }
+  ],
+  "steps": [
+   "Licúa la zanahoria, los huevos y el aceite hasta que esté liso. Pasa a un bol.",
+   "Añade 300 g de azúcar y mezcla. Añade la harina, el polvo de hornear y la sal y mezcla solo hasta integrar.",
+   "Vierte en un molde de 22 x 33 cm engrasado y hornea a 180 °C durante 40 minutos.",
+   "Para la cobertura, cuece el cacao, 100 g de azúcar, la mantequilla y la leche 5 minutos a fuego medio, removiendo, hasta que espese un poco.",
+   "Vierte la cobertura caliente sobre el bizcocho caliente y deja enfriar."
+  ],
+  "tips": [
+   "Pincha el bizcocho con un tenedor antes de cubrirlo para que la cobertura penetre.",
+   "El color naranja intenso viene de licuar la zanahoria cruda, no rallada."
+  ],
+  "video": "bolo de cenoura com cobertura de chocolate"
+ },
+ "en": {
+  "name": "Bolo de Cenoura (Brazilian Carrot Cake)",
+  "blurb": "An orange cake of blended carrot under a glossy chocolate layer. The Brazilian afternoon snack.",
+  "ing": [
+   {
+    "n": "carrots",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cocoa powder"
+   },
+   {
+    "n": "sugar for the topping"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "milk"
+   }
+  ],
+  "steps": [
+   "Blend the carrot, eggs and oil until smooth. Transfer to a bowl.",
+   "Add 300 g of sugar and mix. Add the flour, baking powder and salt and mix just until combined.",
+   "Pour into a greased 22 x 33 cm tin and bake at 180 °C for 40 minutes.",
+   "For the topping, cook the cocoa, 100 g of sugar, the butter and milk for 5 minutes over medium heat, stirring, until slightly thickened.",
+   "Pour the hot topping over the hot cake and let cool."
+  ],
+  "tips": [
+   "Prick the cake with a fork before topping so the chocolate soaks in.",
+   "The bright orange comes from blending raw carrot, not grating it."
+  ],
+  "video": "brazilian carrot cake recipe"
+ },
+ "added": "2026-09-30"
+}

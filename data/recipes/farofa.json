@@ -1,0 +1,123 @@
+{
+ "id": "farofa",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "side",
+ "time": 15,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 40,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "bacon",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Farofa",
+  "blurb": "Harina de mandioca tostada en mantequilla con tocino y cebolla. Crujiente, salada, va con todo en Brasil.",
+  "ing": [
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "tocino ahumado",
+    "note": "en dados"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "harina de mandioca tostada"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Fríe el tocino en una sartén 5 minutos, hasta que suelte la grasa.",
+   "Añade la mantequilla y la cebolla y cuece 4 minutos.",
+   "Añade la harina de mandioca poco a poco, removiendo, y tuesta 4 minutos a fuego medio hasta que huela a nuez.",
+   "Sala, termina con el perejil y sirve."
+  ],
+  "tips": [
+   "Remueve sin parar: la harina de mandioca pasa de dorada a quemada muy rápido.",
+   "Se sirve espolvoreada sobre frijoles o carne asada."
+  ],
+  "video": "farofa receta"
+ },
+ "en": {
+  "name": "Farofa (Toasted Cassava Flour)",
+  "blurb": "Cassava flour toasted in butter with bacon and onion. Crunchy, salty, served with everything in Brazil.",
+  "ing": [
+   {
+    "n": "butter"
+   },
+   {
+    "n": "smoked bacon",
+    "note": "diced"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "toasted cassava flour (farinha de mandioca)"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Fry the bacon in a frying pan for 5 minutes, until it renders its fat.",
+   "Add the butter and onion and cook 4 minutes.",
+   "Add the cassava flour a little at a time, stirring, and toast 4 minutes over medium heat until it smells nutty.",
+   "Salt, finish with the parsley and serve."
+  ],
+  "tips": [
+   "Stir constantly: cassava flour goes from golden to burnt very fast.",
+   "It is sprinkled over beans or grilled meat."
+  ],
+  "video": "brazilian farofa recipe"
+ },
+ "added": "2026-09-30"
+}

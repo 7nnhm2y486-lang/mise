@@ -1,0 +1,192 @@
+{
+ "id": "escondidinho",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "main",
+ "time": 90,
+ "serves": 6,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "driedmeat",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 50,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "milk",
+   "role": "moisture"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "creamcheese",
+   "role": "enrich"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "cheese",
+   "role": "glaze"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Escondidinho de carne seca",
+  "blurb": "Carne seca desmenuzada escondida bajo un puré de yuca cremoso y gratinado. Comida de domingo del nordeste.",
+  "ing": [
+   {
+    "n": "carne seca (tasajo)",
+    "note": "desalada 24 horas"
+   },
+   {
+    "n": "yuca",
+    "note": "pelada, en trozos"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "requesón cremoso (requeijão)"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "queso rallado (parmesano o coalho)"
+   },
+   {
+    "n": "cebolletas",
+    "note": "picadas"
+   }
+  ],
+  "steps": [
+   "Cuece la carne desalada en agua 40 minutos. Escúrrela y desmenúzala.",
+   "Cuece la yuca en agua 25 minutos, quita la fibra central y haz un puré con la mantequilla, la leche y el requeijão.",
+   "Sofríe la cebolla y el ajo en el aceite 5 minutos. Añade el tomate y la carne y cuece 8 minutos.",
+   "En una fuente, pon la carne, cubre con el puré y espolvorea el queso.",
+   "Hornea a 200 °C durante 20 minutos, hasta que esté dorado. Termina con las cebolletas."
+  ],
+  "tips": [
+   "Prueba la carne después de cocerla; si sigue muy salada, hiérvela 10 minutos más en agua limpia.",
+   "No hace falta sal extra: la carne seca ya la aporta."
+  ],
+  "video": "escondidinho de carne seca receita"
+ },
+ "en": {
+  "name": "Escondidinho (Dried Beef and Cassava Bake)",
+  "blurb": "Shredded dried beef hidden under a creamy, gratinéed cassava mash. Northeastern Sunday food.",
+  "ing": [
+   {
+    "n": "carne seca (salted dried beef)",
+    "note": "desalted for 24 hours"
+   },
+   {
+    "n": "cassava",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "requeijão (Brazilian cream cheese)"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "grated cheese (parmesan or coalho)"
+   },
+   {
+    "n": "scallions",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Simmer the desalted meat in water for 40 minutes. Drain and shred.",
+   "Boil the cassava in water for 25 minutes, remove the woody core and mash with the butter, milk and requeijão.",
+   "Cook the onion and garlic in the oil for 5 minutes. Add the tomato and the meat and cook 8 minutes.",
+   "In a dish, spread the meat, cover with the mash and sprinkle with the cheese.",
+   "Bake at 200 °C for 20 minutes, until golden. Finish with the scallions."
+  ],
+  "tips": [
+   "Taste the meat after simmering; if still very salty, boil it 10 minutes more in fresh water.",
+   "No extra salt needed: the dried beef brings it."
+  ],
+  "video": "escondidinho de carne seca recipe"
+ },
+ "added": "2026-09-30"
+}

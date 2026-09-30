@@ -1,0 +1,135 @@
+{
+ "id": "vinagrete",
+ "country": "Brazil",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 15,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "whitevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Vinagrete brasileño",
+  "blurb": "Tomate, cebolla y pimiento picados en vinagre y aceite. El acompañante obligado del churrasco.",
+  "ing": [
+   {
+    "n": "tomates firmes",
+    "note": "sin semillas, en dados pequeños"
+   },
+   {
+    "n": "cebolla",
+    "note": "en dados pequeños"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "en dados pequeños"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Mezcla el tomate, la cebolla, el pimiento y el perejil en un bol.",
+   "Añade el vinagre, el aceite y la sal y mezcla.",
+   "Deja reposar 10 minutos antes de servir."
+  ],
+  "tips": [
+   "Pica todo del mismo tamaño pequeño; así cada cucharada lleva de todo.",
+   "Se come el mismo día; al día siguiente el tomate se ablanda."
+  ],
+  "video": "vinagrete para churrasco receta"
+ },
+ "en": {
+  "name": "Brazilian Vinagrete",
+  "blurb": "Diced tomato, onion and pepper in vinegar and oil. The must-have partner for churrasco.",
+  "ing": [
+   {
+    "n": "firm tomatoes",
+    "note": "seeded, finely diced"
+   },
+   {
+    "n": "onion",
+    "note": "finely diced"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "finely diced"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Mix the tomato, onion, pepper and parsley in a bowl.",
+   "Add the vinegar, oil and salt and mix.",
+   "Leave 10 minutes before serving."
+  ],
+  "tips": [
+   "Dice everything the same small size so each spoonful has a bit of all of it.",
+   "Eat it the same day; by the next day the tomato goes soft."
+  ],
+  "video": "brazilian vinagrete recipe"
+ },
+ "added": "2026-09-30"
+}
