@@ -1,0 +1,158 @@
+{
+ "id": "tallarines-verdes",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "veg",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Tallarines verdes",
+  "blurb": "El pesto peruano: espinaca, albahaca, queso fresco y leche evaporada licuados sobre tallarines. Sin piñones.",
+  "ing": [
+   {
+    "n": "tallarines"
+   },
+   {
+    "n": "espinaca"
+   },
+   {
+    "n": "albahaca"
+   },
+   {
+    "n": "queso fresco"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Hierve la espinaca y la albahaca 30 segundos y pásalas a agua con hielo. Escurre.",
+   "Sofríe la cebolla y el ajo en 2 cucharadas del aceite 5 minutos.",
+   "Licúa las hojas, el sofrito, el queso, la leche, el resto del aceite y la sal hasta que esté liso.",
+   "Cuece la pasta en agua con sal. Escurre y guarda un poco del agua.",
+   "Mezcla la pasta con la salsa en la olla a fuego bajo 1 minuto, con agua de la pasta si hace falta."
+  ],
+  "tips": [
+   "El blanqueado rápido mantiene el verde brillante.",
+   "Con un bistec encima es el menú de los domingos."
+  ],
+  "video": "tallarines verdes receta"
+ },
+ "en": {
+  "name": "Tallarines Verdes (Peruvian Pesto Pasta)",
+  "blurb": "Peru's pesto: spinach, basil, queso fresco and evaporated milk blended over linguine. No pine nuts.",
+  "ing": [
+   {
+    "n": "linguine"
+   },
+   {
+    "n": "spinach"
+   },
+   {
+    "n": "basil"
+   },
+   {
+    "n": "queso fresco"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Blanch the spinach and basil for 30 seconds and plunge into ice water. Drain.",
+   "Cook the onion and garlic in 2 tablespoons of the oil for 5 minutes.",
+   "Blend the leaves, the onion mixture, cheese, milk, the rest of the oil and salt until smooth.",
+   "Cook the pasta in salted water. Drain, keeping a little of the water.",
+   "Toss the pasta with the sauce in the pot over low heat for 1 minute, with pasta water if needed."
+  ],
+  "tips": [
+   "Quick blanching keeps the green bright.",
+   "With a steak on top it's the Sunday lunch."
+  ],
+  "video": "tallarines verdes recipe"
+ },
+ "added": "2026-09-30"
+}

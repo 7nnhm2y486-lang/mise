@@ -1,0 +1,214 @@
+{
+ "id": "sopa-criolla",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 35,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "enrich"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "slice",
+   "k": "bread",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Sopa criolla",
+  "blurb": "Sopa limeña de carne con cabellos de ángel, leche y un huevo escalfado, con pan tostado. Reconfortante y rápida.",
+  "ing": [
+   {
+    "n": "carne de res",
+    "note": "en tiras finas"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají panca"
+   },
+   {
+    "n": "tomate",
+    "note": "picado"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cabellos de ángel"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "pan",
+    "note": "tostado"
+   }
+  ],
+  "steps": [
+   "Saltea la carne en el aceite 3 minutos. Añade la cebolla, el ajo, el ají y el tomate y cuece 5 minutos.",
+   "Añade el agua y la sal y hierve 10 minutos.",
+   "Añade la pasta y cuece 4 minutos.",
+   "Baja el fuego, rompe los huevos dentro y cuece 3 minutos. Añade la leche y el orégano y calienta sin hervir.",
+   "Sirve con 1 huevo por plato y pan tostado."
+  ],
+  "tips": [
+   "Frota el orégano entre las manos al echarlo para despertar su aroma.",
+   "Rompe la pasta en trozos cortos para comerla con cuchara."
+  ],
+  "video": "sopa criolla peruana receta"
+ },
+ "en": {
+  "name": "Sopa Criolla (Peruvian Beef Noodle Soup)",
+  "blurb": "A Lima soup of beef, angel hair pasta, milk and a poached egg, with toast. Comforting and quick.",
+  "ing": [
+   {
+    "n": "beef",
+    "note": "in thin strips"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "tomato",
+    "note": "chopped"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "angel hair pasta"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "bread",
+    "note": "toasted"
+   }
+  ],
+  "steps": [
+   "Stir-fry the beef in the oil for 3 minutes. Add the onion, garlic, ají and tomato and cook 5 minutes.",
+   "Add the water and salt and boil 10 minutes.",
+   "Add the pasta and cook 4 minutes.",
+   "Lower the heat, crack in the eggs and cook 3 minutes. Add the milk and oregano and heat without boiling.",
+   "Serve with 1 egg per bowl and toast."
+  ],
+  "tips": [
+   "Rub the oregano between your hands as you add it to wake up its aroma.",
+   "Break the pasta into short pieces so it's easy to eat with a spoon."
+  ],
+  "video": "sopa criolla recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,144 @@
+{
+ "id": "aji-verde",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "sauce",
+ "time": 10,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 2,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "mayo",
+   "role": "fat"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "queso",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Ají verde de pollería",
+  "blurb": "La salsa verde cremosa de las pollerías: jalapeño, cilantro, mayonesa y queso licuados.",
+  "ing": [
+   {
+    "n": "chiles jalapeños",
+    "note": "sin semillas"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "mayonesa"
+   },
+   {
+    "n": "queso fresco o parmesano"
+   },
+   {
+    "n": "ajo"
+   },
+   {
+    "n": "limón",
+    "note": "en jugo"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Licúa todo hasta que quede liso y de un verde intenso.",
+   "Prueba y ajusta sal y limón.",
+   "Refrigera 15 minutos antes de servir."
+  ],
+  "tips": [
+   "Con semillas queda más picante.",
+   "Dura 3 días en el refrigerador."
+  ],
+  "video": "aji verde peruano receta"
+ },
+ "en": {
+  "name": "Peruvian Green Sauce (Ají Verde)",
+  "blurb": "The creamy green sauce of Peruvian chicken shops: jalapeño, cilantro, mayonnaise and cheese blended.",
+  "ing": [
+   {
+    "n": "jalapeño chiles",
+    "note": "seeded"
+   },
+   {
+    "n": "cilantro"
+   },
+   {
+    "n": "mayonnaise"
+   },
+   {
+    "n": "queso fresco or parmesan"
+   },
+   {
+    "n": "garlic"
+   },
+   {
+    "n": "lime",
+    "note": "juiced"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Blend everything until smooth and deep green.",
+   "Taste and adjust salt and lime.",
+   "Chill 15 minutes before serving."
+  ],
+  "tips": [
+   "Leave the seeds in for more heat.",
+   "Keeps 3 days in the fridge."
+  ],
+  "video": "peruvian green sauce recipe"
+ },
+ "added": "2026-09-30"
+}

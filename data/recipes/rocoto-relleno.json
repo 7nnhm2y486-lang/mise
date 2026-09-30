@@ -1,0 +1,271 @@
+{
+ "id": "rocoto-relleno",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 90,
+ "serves": 6,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 6,
+   "u": "",
+   "k": "chilli",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "sugar",
+   "role": "preserve"
+  },
+  {
+   "q": 120,
+   "u": "ml",
+   "k": "whitevinegar",
+   "role": "preserve"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "peanut",
+   "role": "crunch"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "olives",
+   "role": "garnish"
+  },
+  {
+   "q": 6,
+   "u": "slice",
+   "k": "queso",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "set"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "set"
+  }
+ ],
+ "es": {
+  "name": "Rocoto relleno arequipeño",
+  "blurb": "Rocotos rellenos de un picadillo de carne con maní y pasas, cubiertos de queso y horneados en leche con huevo. Picante de Arequipa.",
+  "ing": [
+   {
+    "n": "rocotos"
+   },
+   {
+    "n": "azúcar",
+    "note": "para el blanqueado"
+   },
+   {
+    "n": "vinagre blanco",
+    "note": "para el blanqueado"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají panca"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "maní tostado",
+    "note": "picado"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "huevos duros",
+    "note": "picados"
+   },
+   {
+    "n": "aceitunas negras"
+   },
+   {
+    "n": "queso fresco",
+    "note": "en tajadas"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "huevos",
+    "note": "para la mezcla de leche"
+   }
+  ],
+  "steps": [
+   "Corta la tapa de los rocotos y quita semillas y venas. Hiérvelos 5 minutos en agua con la mitad del azúcar y del vinagre. Escurre y repite con agua nueva y el resto. Esto baja el picante.",
+   "Sofríe la cebolla, el ajo, el ají panca y el comino en el aceite 8 minutos. Añade la carne y la sal y cuece 10 minutos. Añade el maní y las pasas.",
+   "Rellena los rocotos con la carne, un trozo de huevo y una aceituna. Pon una tajada de queso encima.",
+   "Calienta el horno a 180 °C. Pon los rocotos en una fuente con sus tapas al lado.",
+   "Bate la leche con los huevos y viértela alrededor. Hornea 25 minutos, hasta que el queso se funda y la leche cuaje.",
+   "Sirve con pastel de papa o papas doradas."
+  ],
+  "tips": [
+   "Usa guantes para limpiar los rocotos: queman la piel y los ojos.",
+   "Si los quieres más suaves, blanquéalos una tercera vez."
+  ],
+  "video": "rocoto relleno receta"
+ },
+ "en": {
+  "name": "Arequipa Stuffed Rocoto Peppers",
+  "blurb": "Rocoto peppers stuffed with a beef picadillo with peanuts and raisins, topped with cheese and baked in egg and milk. Arequipa heat.",
+  "ing": [
+   {
+    "n": "rocoto peppers"
+   },
+   {
+    "n": "sugar",
+    "note": "for blanching"
+   },
+   {
+    "n": "white vinegar",
+    "note": "for blanching"
+   },
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "roasted peanuts",
+    "note": "chopped"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "chopped"
+   },
+   {
+    "n": "black olives"
+   },
+   {
+    "n": "queso fresco",
+    "note": "sliced"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "eggs",
+    "note": "for the milk mixture"
+   }
+  ],
+  "steps": [
+   "Cut the tops off the rocotos and remove the seeds and veins. Boil them 5 minutes in water with half the sugar and vinegar. Drain and repeat with fresh water and the rest. This tames the heat.",
+   "Cook the onion, garlic, ají panca and cumin in the oil for 8 minutes. Add the beef and salt and cook 10 minutes. Add the peanuts and raisins.",
+   "Fill the rocotos with the beef, a piece of egg and an olive. Put a slice of cheese on top.",
+   "Heat the oven to 180 °C. Set the rocotos in a dish with their tops beside them.",
+   "Whisk the milk with the eggs and pour around them. Bake 25 minutes, until the cheese melts and the milk sets.",
+   "Serve with potato gratin or browned potatoes."
+  ],
+  "tips": [
+   "Wear gloves to clean rocotos: they burn skin and eyes.",
+   "For milder ones, blanch them a third time."
+  ],
+  "video": "rocoto relleno recipe"
+ },
+ "added": "2026-09-30"
+}

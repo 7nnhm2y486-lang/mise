@@ -1,0 +1,256 @@
+{
+ "id": "parihuela",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "crab",
+   "role": "protein"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "mussel",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "squid",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "fishstock",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Parihuela",
+  "blurb": "La sopa de mariscos más potente del Perú: pescado, cangrejo, choros, calamar y camarones en un caldo rojo de ají panca y tomate.",
+  "ing": [
+   {
+    "n": "pescado blanco firme",
+    "note": "en trozos"
+   },
+   {
+    "n": "camarones o langostinos"
+   },
+   {
+    "n": "cangrejos",
+    "note": "partidos"
+   },
+   {
+    "n": "choros (mejillones)",
+    "note": "limpios"
+   },
+   {
+    "n": "calamar",
+    "note": "en aros"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají panca"
+   },
+   {
+    "n": "pasta de ají amarillo"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "caldo de pescado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "limones"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo, los ajíes y el tomate en el aceite 10 minutos.",
+   "Añade el vino y reduce 3 minutos. Añade el caldo y los cangrejos y hierve 10 minutos.",
+   "Añade los choros, tapa y cuece 4 minutos, hasta que se abran. Tira los que sigan cerrados.",
+   "Añade el pescado y el calamar, 3 minutos. Añade los camarones, 2 minutos.",
+   "Añade la sal, apaga y sirve con cilantro y limón."
+  ],
+  "tips": [
+   "Los cangrejos van primero porque dan sabor al caldo.",
+   "Tradicionalmente lleva chicha de jora en vez de vino."
+  ],
+  "video": "parihuela receta"
+ },
+ "en": {
+  "name": "Parihuela (Peruvian Seafood Soup)",
+  "blurb": "Peru's most powerful seafood soup: fish, crab, mussels, squid and shrimp in a red broth of ají panca and tomato.",
+  "ing": [
+   {
+    "n": "firm white fish",
+    "note": "in pieces"
+   },
+   {
+    "n": "shrimp or prawns"
+   },
+   {
+    "n": "crabs",
+    "note": "halved"
+   },
+   {
+    "n": "mussels",
+    "note": "cleaned"
+   },
+   {
+    "n": "squid",
+    "note": "in rings"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "fish stock"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "limes"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic, ají pastes and tomato in the oil for 10 minutes.",
+   "Add the wine and reduce 3 minutes. Add the stock and crabs and boil 10 minutes.",
+   "Add the mussels, cover and cook 4 minutes, until they open. Discard any that stay shut.",
+   "Add the fish and squid, 3 minutes. Add the shrimp, 2 minutes.",
+   "Add the salt, turn off and serve with cilantro and lime."
+  ],
+  "tips": [
+   "The crabs go first because they flavour the broth.",
+   "Traditionally it uses chicha de jora instead of wine."
+  ],
+  "video": "parihuela recipe"
+ },
+ "added": "2026-09-30"
+}

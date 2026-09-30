@@ -1,0 +1,270 @@
+{
+ "id": "chupe-de-camarones",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "shrimp",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "fishstock",
+   "role": "liquid"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "corn",
+   "role": "protein"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "rice",
+   "role": "thicken"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "evaporatedmilk",
+   "role": "enrich"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Chupe de camarones",
+  "blurb": "La sopa espesa de Arequipa con camarones, papa, choclo, leche, queso y huevo escalfado. Una comida en un plato.",
+  "ing": [
+   {
+    "n": "camarones",
+    "note": "pelados"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají panca"
+   },
+   {
+    "n": "tomate",
+    "note": "picado"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "caldo de pescado o de cabezas de camarón"
+   },
+   {
+    "n": "papas amarillas",
+    "note": "en cubos"
+   },
+   {
+    "n": "choclos",
+    "note": "en rodajas"
+   },
+   {
+    "n": "arroz"
+   },
+   {
+    "n": "arvejas"
+   },
+   {
+    "n": "leche evaporada"
+   },
+   {
+    "n": "queso fresco",
+    "note": "en cubos"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huacatay o cilantro",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo, el ají panca, el tomate y el orégano en el aceite 10 minutos.",
+   "Añade el caldo y hierve. Añade la papa, el choclo y el arroz y cuece 15 minutos.",
+   "Añade las arvejas y cuece 5 minutos.",
+   "Baja el fuego. Rompe los huevos dentro de la sopa uno a uno y cuece 3 minutos sin mover.",
+   "Añade los camarones y cuece 2 minutos. Añade la leche, el queso y la sal y calienta sin hervir.",
+   "Sirve con huacatay picado, con 1 huevo por plato."
+  ],
+  "tips": [
+   "Si la sopa hierve después de la leche, se corta.",
+   "Las cabezas de camarón dan el caldo más sabroso: hiérvelas 20 minutos y cuela."
+  ],
+  "video": "chupe de camarones receta"
+ },
+ "en": {
+  "name": "Shrimp Chupe (Arequipa Shrimp Chowder)",
+  "blurb": "Arequipa's thick soup of shrimp, potato, corn, milk, cheese and a poached egg. A meal in a bowl.",
+  "ing": [
+   {
+    "n": "shrimp",
+    "note": "peeled"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "tomato",
+    "note": "chopped"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "fish or shrimp-head stock"
+   },
+   {
+    "n": "yellow potatoes",
+    "note": "cubed"
+   },
+   {
+    "n": "ears of corn",
+    "note": "in rounds"
+   },
+   {
+    "n": "rice"
+   },
+   {
+    "n": "peas"
+   },
+   {
+    "n": "evaporated milk"
+   },
+   {
+    "n": "queso fresco",
+    "note": "cubed"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "huacatay or cilantro",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic, ají panca, tomato and oregano in the oil for 10 minutes.",
+   "Add the stock and bring to a boil. Add the potato, corn and rice and cook 15 minutes.",
+   "Add the peas and cook 5 minutes.",
+   "Lower the heat. Crack the eggs into the soup one at a time and cook 3 minutes without stirring.",
+   "Add the shrimp and cook 2 minutes. Add the milk, cheese and salt and heat without boiling.",
+   "Serve with chopped huacatay, 1 egg per bowl."
+  ],
+  "tips": [
+   "If the soup boils after the milk goes in, it curdles.",
+   "Shrimp heads make the tastiest stock: boil them 20 minutes and strain."
+  ],
+  "video": "chupe de camarones recipe"
+ },
+ "added": "2026-09-30"
+}

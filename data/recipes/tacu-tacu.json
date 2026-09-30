@@ -1,0 +1,176 @@
+{
+ "id": "tacu-tacu",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "plantain",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Tacu tacu",
+  "blurb": "Frijoles y arroz sobrantes aplastados y dorados en sartén como una tortilla gruesa y crujiente. Con huevo frito y plátano.",
+  "ing": [
+   {
+    "n": "frijoles canarios cocidos"
+   },
+   {
+    "n": "arroz blanco cocido"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají amarillo"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos",
+    "note": "fritos"
+   },
+   {
+    "n": "plátanos maduros",
+    "note": "fritos"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo y el ají en 1 cucharada de aceite 5 minutos.",
+   "Añade los frijoles, aplasta la mitad con un tenedor, y el orégano y la sal. Mezcla con el arroz.",
+   "Calienta el resto del aceite en un sartén. Pon la mezcla y dale forma de óvalo alargado moviendo el sartén.",
+   "Dora 5 minutos, voltéalo con ayuda de un plato y dora 5 minutos más, hasta que tenga costra.",
+   "Sirve con huevo frito y plátano."
+  ],
+  "tips": [
+   "Los frijoles medio aplastados son el pegamento: si están enteros, se desarma.",
+   "Con lomo saltado encima es un clásico de Lima."
+  ],
+  "video": "tacu tacu receta"
+ },
+ "en": {
+  "name": "Tacu Tacu (Crispy Rice and Beans)",
+  "blurb": "Leftover beans and rice mashed and browned in a pan like a thick, crusty omelette. With a fried egg and plantain.",
+  "ing": [
+   {
+    "n": "cooked canary beans"
+   },
+   {
+    "n": "cooked white rice"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají amarillo paste"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "eggs",
+    "note": "fried"
+   },
+   {
+    "n": "ripe plantains",
+    "note": "fried"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic and ají in 1 tablespoon of oil for 5 minutes.",
+   "Add the beans, mashing half with a fork, plus the oregano and salt. Mix with the rice.",
+   "Heat the rest of the oil in a pan. Add the mixture and shape it into a long oval by shaking the pan.",
+   "Brown 5 minutes, flip it using a plate and brown 5 minutes more, until crusted.",
+   "Serve with fried egg and plantain."
+  ],
+  "tips": [
+   "Half-mashed beans are the glue: whole, it falls apart.",
+   "With lomo saltado on top it's a Lima classic."
+  ],
+  "video": "tacu tacu recipe"
+ },
+ "added": "2026-09-30"
+}

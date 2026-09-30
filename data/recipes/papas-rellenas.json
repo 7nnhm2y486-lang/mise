@@ -1,0 +1,228 @@
+{
+ "id": "papas-rellenas",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 90,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 1.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "garnish"
+  },
+  {
+   "q": 8,
+   "u": "",
+   "k": "olives",
+   "role": "garnish"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "dredge"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Papas rellenas",
+  "blurb": "Croquetas grandes de puré de papa rellenas de picadillo con huevo, aceituna y pasas, fritas hasta dorar. Con salsa criolla.",
+  "ing": [
+   {
+    "n": "papas blancas harinosas"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "carne molida de res"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají panca"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "huevos duros",
+    "note": "picados"
+   },
+   {
+    "n": "aceitunas negras",
+    "note": "picadas"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "huevo",
+    "note": "batido"
+   },
+   {
+    "n": "aceite",
+    "note": "para freír"
+   }
+  ],
+  "steps": [
+   "Hierve las papas con piel 25 minutos. Pélalas calientes, haz puré y mezcla con 1 cucharadita de sal. Enfría.",
+   "Sofríe la cebolla, el ajo, el ají y el comino en 2 cucharadas de aceite 5 minutos. Añade la carne y el resto de la sal y cuece 10 minutos. Añade las pasas. Enfría y mezcla con el huevo y las aceitunas.",
+   "Con las manos húmedas, aplana una porción de puré en la palma, pon 1 cucharada de relleno, cierra y dale forma de papa.",
+   "Pasa cada papa por harina, luego por huevo batido.",
+   "Fríe en aceite a 180 °C 4 minutos, girándolas, hasta que estén doradas. Escurre y sirve con salsa criolla."
+  ],
+  "tips": [
+   "El puré debe estar frío para que se pueda moldear.",
+   "Con las manos húmedas el puré no se pega."
+  ],
+  "video": "papas rellenas peruanas receta"
+ },
+ "en": {
+  "name": "Papas Rellenas (Stuffed Potato Croquettes)",
+  "blurb": "Large mashed potato croquettes stuffed with beef picadillo, egg, olive and raisins, fried until golden. With salsa criolla.",
+  "ing": [
+   {
+    "n": "floury white potatoes"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "ground beef"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "chopped"
+   },
+   {
+    "n": "black olives",
+    "note": "chopped"
+   },
+   {
+    "n": "all-purpose flour"
+   },
+   {
+    "n": "egg",
+    "note": "beaten"
+   },
+   {
+    "n": "oil",
+    "note": "for frying"
+   }
+  ],
+  "steps": [
+   "Boil the potatoes in their skins for 25 minutes. Peel hot, mash and mix with 1 teaspoon of salt. Cool.",
+   "Cook the onion, garlic, ají and cumin in 2 tablespoons of oil for 5 minutes. Add the beef and the rest of the salt and cook 10 minutes. Add the raisins. Cool and mix with the egg and olives.",
+   "With wet hands, flatten a portion of mash in your palm, add 1 tablespoon of filling, close and shape like a potato.",
+   "Roll each one in flour, then in beaten egg.",
+   "Fry in oil at 180 °C for 4 minutes, turning, until golden. Drain and serve with salsa criolla."
+  ],
+  "tips": [
+   "The mash must be cold to hold its shape.",
+   "Wet hands keep the mash from sticking."
+  ],
+  "video": "papas rellenas recipe"
+ },
+ "added": "2026-09-30"
+}

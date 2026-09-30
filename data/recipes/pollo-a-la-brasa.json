@@ -1,0 +1,185 @@
+{
+ "id": "pollo-a-la-brasa",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 4,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 1.6,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "soysauce",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "pepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Pollo a la brasa",
+  "blurb": "El pollo asado de Perú: marinado en sillao, ají panca, ajo y comino, y asado hasta quedar con piel oscura y crujiente.",
+  "ing": [
+   {
+    "n": "pollo entero"
+   },
+   {
+    "n": "sillao (salsa de soja)"
+   },
+   {
+    "n": "limones",
+    "note": "en jugo"
+   },
+   {
+    "n": "ajo",
+    "note": "molido"
+   },
+   {
+    "n": "pasta de ají panca"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "pimentón"
+   },
+   {
+    "n": "pimienta negra"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Mezcla todos los ingredientes menos el pollo hasta tener una pasta.",
+   "Abre el pollo por la espalda y aplánalo. Úntalo con la marinada, también bajo la piel. Refrigera toda la noche.",
+   "Calienta el horno a 200 °C. Pon el pollo sobre una rejilla encima de una bandeja, con la piel arriba.",
+   "Asa 50 a 60 minutos, hasta que la piel esté muy dorada y los jugos del muslo salgan claros.",
+   "Reposa 10 minutos y sirve con papas fritas, ensalada y ají verde."
+  ],
+  "tips": [
+   "La rejilla deja que el aire rodee el pollo: sin ella, la parte de abajo queda cocida al vapor.",
+   "La noche de marinada es lo que da sabor hasta el hueso."
+  ],
+  "video": "pollo a la brasa en horno receta"
+ },
+ "en": {
+  "name": "Peruvian Roast Chicken (Pollo a la Brasa)",
+  "blurb": "Peru's roast chicken: marinated in soy sauce, ají panca, garlic and cumin and roasted until the skin is dark and crisp.",
+  "ing": [
+   {
+    "n": "whole chicken"
+   },
+   {
+    "n": "soy sauce (sillao)"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "paprika"
+   },
+   {
+    "n": "black pepper"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Mix everything except the chicken into a paste.",
+   "Split the chicken down the back and flatten it. Rub it with the marinade, under the skin too. Chill overnight.",
+   "Heat the oven to 200 °C. Set the chicken skin-side up on a rack over a tray.",
+   "Roast 50 to 60 minutes, until the skin is deep golden and the thigh juices run clear.",
+   "Rest 10 minutes and serve with fries, salad and ají verde."
+  ],
+  "tips": [
+   "The rack lets air circulate: without it, the underside steams.",
+   "The overnight marinade is what flavours it to the bone."
+  ],
+  "video": "peruvian chicken recipe"
+ },
+ "added": "2026-09-30"
+}

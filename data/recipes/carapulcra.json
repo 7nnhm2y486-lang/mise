@@ -1,0 +1,212 @@
+{
+ "id": "carapulcra",
+ "country": "Peru",
+ "countryEs": "Perú",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "ajipaste",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "peanut",
+   "role": "thicken"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 0.25,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Carapulcra",
+  "blurb": "Guiso afroperuano de papa seca tostada con cerdo, ají panca y maní. Espeso, rojizo y con un fondo dulce de clavo y canela.",
+  "ing": [
+   {
+    "n": "papa seca"
+   },
+   {
+    "n": "carne de cerdo",
+    "note": "en cubos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla morada",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pasta de ají panca"
+   },
+   {
+    "n": "pasta de ají mirasol"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "maní tostado",
+    "note": "molido"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "canela molida"
+   },
+   {
+    "n": "agua"
+   }
+  ],
+  "steps": [
+   "Tuesta la papa seca en un sartén seco 5 minutos, moviendo, hasta que huela a nuez. Remójala en agua 30 minutos y escurre.",
+   "Sala el cerdo y dóralo en el aceite 10 minutos. Sácalo.",
+   "Sofríe la cebolla, el ajo, los ajíes y el comino 10 minutos.",
+   "Regresa el cerdo con la papa seca, el maní, el clavo, la canela y el agua.",
+   "Cuece a fuego bajo 60 minutos, moviendo seguido para que no se pegue, hasta que la papa esté suave y espesa. Añade agua si hace falta."
+  ],
+  "tips": [
+   "La papa seca se pega fácil: mueve cada 5 minutos y raspa el fondo.",
+   "Se sirve con arroz y sopa seca en la tradición de Chincha."
+  ],
+  "video": "carapulcra receta"
+ },
+ "en": {
+  "name": "Carapulcra (Dried Potato and Pork Stew)",
+  "blurb": "An Afro-Peruvian stew of toasted dried potato with pork, ají panca and peanuts. Thick, reddish and with a sweet undertone of clove and cinnamon.",
+  "ing": [
+   {
+    "n": "dried potato (papa seca)"
+   },
+   {
+    "n": "pork shoulder",
+    "note": "cubed"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "ají panca paste"
+   },
+   {
+    "n": "ají mirasol paste"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "roasted peanuts",
+    "note": "ground"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "ground cinnamon"
+   },
+   {
+    "n": "water"
+   }
+  ],
+  "steps": [
+   "Toast the dried potato in a dry pan for 5 minutes, stirring, until it smells nutty. Soak it in water for 30 minutes and drain.",
+   "Salt the pork and brown it in the oil for 10 minutes. Remove.",
+   "Cook the onion, garlic, ají pastes and cumin for 10 minutes.",
+   "Return the pork with the dried potato, peanuts, cloves, cinnamon and water.",
+   "Simmer on low for 60 minutes, stirring often so it doesn't stick, until the potato is soft and thick. Add water if needed."
+  ],
+  "tips": [
+   "Dried potato sticks easily: stir every 5 minutes and scrape the bottom.",
+   "In the Chincha tradition it's served with rice and sopa seca."
+  ],
+  "video": "carapulcra recipe"
+ },
+ "added": "2026-09-30"
+}
