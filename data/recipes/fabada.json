@@ -1,0 +1,135 @@
+{
+ "id": "fabada",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 210,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "sausage",
+   "role": "protein"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "pancetta",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Fabada asturiana",
+  "blurb": "Fabes cremosas cocidas despacio con chorizo, morcilla y panceta. El plato de invierno de Asturias.",
+  "ing": [
+   {
+    "n": "fabes (alubias blancas grandes)",
+    "note": "remojadas 12 horas"
+   },
+   {
+    "n": "chorizos asturianos"
+   },
+   {
+    "n": "morcillas asturianas"
+   },
+   {
+    "n": "panceta",
+    "note": "en un trozo"
+   },
+   {
+    "n": "agua fría"
+   },
+   {
+    "n": "azafrán"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Pon las fabes escurridas, el chorizo, la morcilla y la panceta en una olla y cubre con el agua fría.",
+   "Hierve a fuego medio y retira la espuma.",
+   "Añade el azafrán, baja el fuego al mínimo y cuece 3 horas sin remover, solo moviendo la olla.",
+   "Cada 30 minutos añade un chorrito de agua fría para cortar el hervor y que las fabes no se rompan.",
+   "Sala al final, corta las carnes y sirve con las fabes."
+  ],
+  "tips": [
+   "No remuevas nunca con cuchara; se rompen las fabes. Mueve la olla por las asas.",
+   "Mejor de un día para otro."
+  ],
+  "video": "fabada asturiana receta"
+ },
+ "en": {
+  "name": "Fabada Asturiana (Asturian Bean Stew)",
+  "blurb": "Creamy fabes simmered slowly with chorizo, morcilla and pancetta. Asturias' winter dish.",
+  "ing": [
+   {
+    "n": "fabes (large white beans)",
+    "note": "soaked 12 hours"
+   },
+   {
+    "n": "Asturian chorizos"
+   },
+   {
+    "n": "Asturian morcillas (blood sausages)"
+   },
+   {
+    "n": "pancetta",
+    "note": "in one piece"
+   },
+   {
+    "n": "cold water"
+   },
+   {
+    "n": "saffron"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Put the drained beans, chorizo, morcilla and pancetta in a pot and cover with the cold water.",
+   "Bring to a boil over medium heat and skim the foam.",
+   "Add the saffron, turn the heat to the lowest and cook 3 hours without stirring, only shaking the pot.",
+   "Every 30 minutes add a splash of cold water to calm the boil so the beans don't split.",
+   "Salt at the end, slice the meats and serve with the beans."
+  ],
+  "tips": [
+   "Never stir with a spoon; the beans break. Shake the pot by its handles.",
+   "Better the next day."
+  ],
+  "video": "fabada asturiana recipe"
+ },
+ "added": "2026-09-30"
+}

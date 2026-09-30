@@ -1,0 +1,147 @@
+{
+ "id": "pollo-al-ajillo",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 45,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 80,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 12,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "sprig",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Pollo al ajillo",
+  "blurb": "Pollo dorado con ajos enteros, vino blanco y laurel. Sencillo, de bar de pueblo y de domingo en casa.",
+  "ing": [
+   {
+    "n": "pollo en trozos pequeños"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "ajo",
+    "note": "sin pelar, aplastados"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "hojas de laurel"
+   },
+   {
+    "n": "tomillo"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Sala el pollo.",
+   "Dora el pollo en el aceite a fuego medio 15 minutos, hasta que esté dorado por todos lados.",
+   "Añade los ajos y cuece 5 minutos más.",
+   "Añade el vino, el laurel y el tomillo, tapa y cuece 15 minutos, hasta que el vino reduzca.",
+   "Termina con el perejil y sirve con su salsa."
+  ],
+  "tips": [
+   "Los ajos sin pelar no se queman y quedan cremosos por dentro.",
+   "Corta el pollo en trozos pequeños para que se dore bien por todas partes."
+  ],
+  "video": "pollo al ajillo receta"
+ },
+ "en": {
+  "name": "Pollo al Ajillo (Spanish Garlic Chicken)",
+  "blurb": "Chicken browned with whole garlic, white wine and bay. Simple village-bar and Sunday food.",
+  "ing": [
+   {
+    "n": "chicken in small pieces"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "garlic",
+    "note": "unpeeled, crushed"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "thyme"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Salt the chicken.",
+   "Brown the chicken in the oil over medium heat for 15 minutes, until golden all over.",
+   "Add the garlic and cook 5 minutes more.",
+   "Add the wine, bay and thyme, cover and cook 15 minutes, until the wine reduces.",
+   "Finish with the parsley and serve with its sauce."
+  ],
+  "tips": [
+   "Unpeeled garlic doesn't burn and turns creamy inside.",
+   "Cut the chicken small so it browns everywhere."
+  ],
+  "video": "spanish garlic chicken recipe"
+ },
+ "added": "2026-09-30"
+}

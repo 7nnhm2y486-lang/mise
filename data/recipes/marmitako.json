@@ -1,0 +1,193 @@
+{
+ "id": "marmitako",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 50,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "tuna",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "bellpepper",
+   "role": "umami"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 1.2,
+   "u": "l",
+   "k": "fishstock",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Marmitako",
+  "blurb": "Guiso de bonito y patata de los pescadores vascos. El bonito entra al final, casi crudo.",
+  "ing": [
+   {
+    "n": "bonito del norte fresco",
+    "note": "en dados de 3 cm"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "carne de pimiento choricero"
+   },
+   {
+    "n": "tomate",
+    "note": "rallado"
+   },
+   {
+    "n": "patatas",
+    "note": "en trozos rotos"
+   },
+   {
+    "n": "caldo de pescado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el pimiento y el ajo en el aceite 10 minutos.",
+   "Añade la pasta de choricero y el tomate y cuece 5 minutos.",
+   "Añade la patata, rehoga 2 minutos, cubre con el caldo y cuece 25 minutos.",
+   "Sala el bonito y añádelo. Apaga el fuego, tapa y deja 5 minutos.",
+   "Termina con el perejil."
+  ],
+  "tips": [
+   "El bonito se cuece con el calor residual; si hierve, se seca.",
+   "Rompe la patata con el cuchillo para que suelte almidón y espese."
+  ],
+  "video": "marmitako de bonito receta"
+ },
+ "en": {
+  "name": "Marmitako (Basque Tuna and Potato Stew)",
+  "blurb": "The tuna and potato stew of Basque fishermen. The tuna goes in at the end, almost raw.",
+  "ing": [
+   {
+    "n": "fresh albacore tuna",
+    "note": "in 3 cm dice"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "choricero pepper paste"
+   },
+   {
+    "n": "tomato",
+    "note": "grated"
+   },
+   {
+    "n": "potatoes",
+    "note": "snapped into chunks"
+   },
+   {
+    "n": "fish stock"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Cook the onion, pepper and garlic in the oil for 10 minutes.",
+   "Add the choricero paste and tomato and cook 5 minutes.",
+   "Add the potato, stir 2 minutes, cover with the stock and cook 25 minutes.",
+   "Salt the tuna and add it. Turn off the heat, cover and leave 5 minutes.",
+   "Finish with the parsley."
+  ],
+  "tips": [
+   "The tuna cooks in the residual heat; if it boils, it dries out.",
+   "Snap the potato with the knife so it releases starch and thickens."
+  ],
+  "video": "marmitako recipe"
+ },
+ "added": "2026-09-30"
+}

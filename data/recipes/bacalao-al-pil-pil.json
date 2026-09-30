@@ -1,0 +1,99 @@
+{
+ "id": "bacalao-al-pil-pil",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 6,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "chilli",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Bacalao al pil pil",
+  "blurb": "Bacalao confitado en aceite de ajo, con la salsa ligada solo por la gelatina de la piel. Un clásico vasco.",
+  "ing": [
+   {
+    "n": "lomos de bacalao desalado con piel"
+   },
+   {
+    "n": "aceite de oliva suave"
+   },
+   {
+    "n": "ajo",
+    "note": "en láminas"
+   },
+   {
+    "n": "guindilla seca",
+    "note": "en aros"
+   }
+  ],
+  "steps": [
+   "Seca muy bien el bacalao.",
+   "Dora el ajo y la guindilla en el aceite a fuego suave en una cazuela de barro. Sácalos y deja templar el aceite.",
+   "Pon el bacalao con la piel hacia arriba en el aceite templado y confita a fuego muy bajo 10 minutos, moviendo la cazuela, sin que hierva.",
+   "Saca el bacalao. Mueve la cazuela en círculos o bate con un colador hasta que el aceite se emulsione con la gelatina y espese como una mayonesa ligera.",
+   "Vuelve a poner el bacalao, cúbrelo con la salsa y termina con el ajo y la guindilla."
+  ],
+  "tips": [
+   "El aceite debe estar templado, a unos 60 °C, para que el bacalao suelte la gelatina.",
+   "Si no liga, añade una cucharada de agua tibia y sigue moviendo."
+  ],
+  "video": "bacalao al pil pil receta"
+ },
+ "en": {
+  "name": "Bacalao al Pil Pil (Salt Cod in Garlic Emulsion)",
+  "blurb": "Salt cod poached in garlic oil, the sauce bound only by gelatin from the skin. A Basque classic.",
+  "ing": [
+   {
+    "n": "desalted salt cod loins, skin on"
+   },
+   {
+    "n": "mild olive oil"
+   },
+   {
+    "n": "garlic",
+    "note": "sliced"
+   },
+   {
+    "n": "dried chilli",
+    "note": "in rings"
+   }
+  ],
+  "steps": [
+   "Pat the cod very dry.",
+   "Gently brown the garlic and chilli in the oil in a clay dish. Remove them and let the oil cool slightly.",
+   "Put the cod skin side up in the warm oil and poach on very low heat for 10 minutes, shaking the dish, without boiling.",
+   "Remove the cod. Swirl the dish or whisk with a sieve until the oil emulsifies with the gelatin and thickens like a light mayonnaise.",
+   "Return the cod, spoon the sauce over and finish with the garlic and chilli."
+  ],
+  "tips": [
+   "The oil should be warm, about 60 °C, for the cod to release its gelatin.",
+   "If it won't bind, add a spoonful of warm water and keep swirling."
+  ],
+  "video": "bacalao al pil pil recipe"
+ },
+ "added": "2026-09-30"
+}

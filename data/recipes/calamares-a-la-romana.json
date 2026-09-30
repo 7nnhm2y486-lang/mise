@@ -1,0 +1,135 @@
+{
+ "id": "calamares-a-la-romana",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "starter",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "squid",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Calamares a la romana",
+  "blurb": "Anillas de calamar en rebozado ligero y crujiente. La ración de todas las terrazas de España.",
+  "ing": [
+   {
+    "n": "calamares limpios",
+    "note": "en anillas de 1 cm"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "huevo"
+   },
+   {
+    "n": "agua con gas muy fría"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "limón",
+    "note": "en gajos"
+   }
+  ],
+  "steps": [
+   "Seca muy bien las anillas con papel.",
+   "Bate la harina, el huevo, el agua con gas y la sal hasta tener una masa lisa.",
+   "Calienta el aceite a 180 °C.",
+   "Pasa las anillas por la masa y fríelas en tandas 2 minutos, hasta que estén doradas.",
+   "Escurre sobre papel y sirve con el limón."
+  ],
+  "tips": [
+   "Más de 2 minutos los vuelve gomosos.",
+   "El agua con gas muy fría hace el rebozado más ligero."
+  ],
+  "video": "calamares a la romana receta"
+ },
+ "en": {
+  "name": "Calamares a la Romana (Fried Squid Rings)",
+  "blurb": "Squid rings in a light, crisp batter. The plate on every terrace in Spain.",
+  "ing": [
+   {
+    "n": "cleaned squid",
+    "note": "in 1 cm rings"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "egg"
+   },
+   {
+    "n": "ice-cold sparkling water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "lemon",
+    "note": "in wedges"
+   }
+  ],
+  "steps": [
+   "Pat the rings very dry with paper.",
+   "Whisk the flour, egg, sparkling water and salt to a smooth batter.",
+   "Heat the oil to 180 °C.",
+   "Dip the rings in the batter and fry in batches for 2 minutes, until golden.",
+   "Drain on paper and serve with the lemon."
+  ],
+  "tips": [
+   "More than 2 minutes makes them rubbery.",
+   "Ice-cold sparkling water makes the batter lighter."
+  ],
+  "video": "calamares a la romana recipe"
+ },
+ "added": "2026-09-30"
+}

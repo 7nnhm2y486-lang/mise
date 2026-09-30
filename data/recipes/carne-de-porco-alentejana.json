@@ -1,0 +1,179 @@
+{
+ "id": "carne-de-porco-alentejana",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 700,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "clam",
+   "role": "protein"
+  },
+  {
+   "q": 600,
+   "u": "g",
+   "k": "potato",
+   "role": "serve"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Carne de cerdo a la alentejana",
+  "blurb": "Cerdo marinado en pasta de pimiento y vino, con almejas y patatas fritas. Mar y montaña del sur de Portugal.",
+  "ing": [
+   {
+    "n": "magro de cerdo",
+    "note": "en dados de 3 cm"
+   },
+   {
+    "n": "pasta de pimiento rojo (massa de pimentão)"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "hoja de laurel"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "almejas",
+    "note": "purgadas en agua con sal"
+   },
+   {
+    "n": "patatas",
+    "note": "en dados de 2 cm, fritas"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "limón",
+    "note": "en gajos"
+   }
+  ],
+  "steps": [
+   "Marina el cerdo con la pasta de pimiento, el ajo, el vino y el laurel al menos 4 horas.",
+   "Escurre el cerdo, guarda la marinada, y dóralo en la manteca 8 minutos a fuego fuerte.",
+   "Añade la marinada y cuece 15 minutos, hasta que reduzca.",
+   "Añade las almejas, tapa y cuece 5 minutos, hasta que se abran. Tira las que sigan cerradas.",
+   "Mezcla con las patatas fritas, termina con el cilantro y sirve con el limón."
+  ],
+  "tips": [
+   "La massa de pimentão es salada; no añadas sal hasta probar.",
+   "Deja las almejas en agua con sal 1 hora para que suelten la arena."
+  ],
+  "video": "carne de porco à alentejana receita"
+ },
+ "en": {
+  "name": "Carne de Porco à Alentejana (Pork and Clams)",
+  "blurb": "Pork marinated in red pepper paste and wine, with clams and fried potatoes. Surf and turf from southern Portugal.",
+  "ing": [
+   {
+    "n": "lean pork",
+    "note": "in 3 cm dice"
+   },
+   {
+    "n": "red pepper paste (massa de pimentão)"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "bay leaf"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "clams",
+    "note": "purged in salted water"
+   },
+   {
+    "n": "potatoes",
+    "note": "in 2 cm dice, fried"
+   },
+   {
+    "n": "cilantro",
+    "note": "chopped"
+   },
+   {
+    "n": "lemon",
+    "note": "in wedges"
+   }
+  ],
+  "steps": [
+   "Marinate the pork with the pepper paste, garlic, wine and bay for at least 4 hours.",
+   "Drain the pork, keeping the marinade, and brown it in the lard for 8 minutes over high heat.",
+   "Add the marinade and cook 15 minutes, until reduced.",
+   "Add the clams, cover and cook 5 minutes, until they open. Discard any that stay shut.",
+   "Toss with the fried potatoes, finish with the cilantro and serve with the lemon."
+  ],
+  "tips": [
+   "Massa de pimentão is salty; don't add salt until you've tasted.",
+   "Leave the clams in salted water for 1 hour so they release their sand."
+  ],
+  "video": "carne de porco a alentejana recipe"
+ },
+ "added": "2026-09-30"
+}

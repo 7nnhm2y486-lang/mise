@@ -1,0 +1,81 @@
+{
+ "id": "pimientos-de-padron",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "starter",
+ "time": 10,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "bellpepper",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pimientos de Padrón",
+  "blurb": "Pimientos pequeños fritos hasta que se ampollan, con sal en escamas. Unos pican y otros no.",
+  "ing": [
+   {
+    "n": "pimientos de Padrón"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "sal en escamas"
+   }
+  ],
+  "steps": [
+   "Lava y seca muy bien los pimientos.",
+   "Calienta el aceite a fuego fuerte en una sartén grande.",
+   "Fríe los pimientos 4 minutos, moviéndolos, hasta que la piel se ampolle y se dore.",
+   "Escurre sobre papel, espolvorea la sal y sirve enseguida."
+  ],
+  "tips": [
+   "Deben estar secos o el aceite salta.",
+   "Uno de cada diez más o menos pica; es parte del juego."
+  ],
+  "video": "pimientos de padrón receta"
+ },
+ "en": {
+  "name": "Padrón Peppers",
+  "blurb": "Small peppers fried until blistered, with flaky salt. Some are hot and some are not.",
+  "ing": [
+   {
+    "n": "Padrón peppers"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "flaky salt"
+   }
+  ],
+  "steps": [
+   "Wash and dry the peppers very well.",
+   "Heat the oil over high heat in a large frying pan.",
+   "Fry the peppers for 4 minutes, tossing, until the skin blisters and browns.",
+   "Drain on paper, sprinkle with the salt and serve at once."
+  ],
+  "tips": [
+   "They must be dry or the oil spits.",
+   "About one in ten is hot; that's part of the game."
+  ],
+  "video": "padron peppers recipe"
+ },
+ "added": "2026-09-30"
+}

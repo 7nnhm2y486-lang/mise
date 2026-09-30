@@ -1,0 +1,137 @@
+{
+ "id": "bolinhos-de-bacalhau",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "snack",
+ "time": 60,
+ "serves": 24,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Bolinhos de bacalhau",
+  "blurb": "Croquetas de bacalao y patata en forma de quenelle, doradas por fuera y esponjosas por dentro.",
+  "ing": [
+   {
+    "n": "bacalao desalado"
+   },
+   {
+    "n": "patatas harinosas",
+    "note": "cocidas y hechas puré"
+   },
+   {
+    "n": "cebolla pequeña",
+    "note": "rallada"
+   },
+   {
+    "n": "perejil",
+    "note": "picado fino"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Cuece el bacalao en agua 5 minutos. Escúrrelo, quita piel y espinas y desmígalo muy fino.",
+   "Mezcla el bacalao, el puré de patata, la cebolla, el perejil y la nuez moscada.",
+   "Añade los huevos uno a uno y bate con cuchara 3 minutos, hasta que la masa esté ligera.",
+   "Forma quenelles con dos cucharas.",
+   "Fríe a 175 °C durante 4 minutos, hasta que estén doradas. Escurre sobre papel."
+  ],
+  "tips": [
+   "El puré debe estar seco; patatas acuosas hacen bolinhos que se abren.",
+   "Prueba la masa antes de freír: el bacalao suele aportar toda la sal."
+  ],
+  "video": "bolinhos de bacalhau receita"
+ },
+ "en": {
+  "name": "Bolinhos de Bacalhau (Salt Cod Fritters)",
+  "blurb": "Salt cod and potato fritters shaped like quenelles, golden outside and fluffy within.",
+  "ing": [
+   {
+    "n": "desalted salt cod"
+   },
+   {
+    "n": "floury potatoes",
+    "note": "boiled and mashed"
+   },
+   {
+    "n": "small onion",
+    "note": "grated"
+   },
+   {
+    "n": "parsley",
+    "note": "finely chopped"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Simmer the cod in water for 5 minutes. Drain, remove skin and bones and flake very finely.",
+   "Mix the cod, mashed potato, onion, parsley and nutmeg.",
+   "Add the eggs one at a time and beat with a spoon for 3 minutes, until light.",
+   "Shape into quenelles with two spoons.",
+   "Fry at 175 °C for 4 minutes, until golden. Drain on paper."
+  ],
+  "tips": [
+   "The mash must be dry; watery potatoes make fritters that split.",
+   "Taste the mixture before frying: the cod usually brings all the salt."
+  ],
+  "video": "bolinhos de bacalhau recipe"
+ },
+ "added": "2026-09-30"
+}

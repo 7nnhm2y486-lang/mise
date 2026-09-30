@@ -1,0 +1,145 @@
+{
+ "id": "arroz-doce",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 60,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 200,
+   "u": "g",
+   "k": "rice",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Arroz doce",
+  "blurb": "Arroz con leche portugués ligado con yemas y decorado con dibujos de canela. Dulce de fiestas y bodas.",
+  "ing": [
+   {
+    "n": "arroz redondo"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "cáscara de limón",
+    "note": "en una tira"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "leche caliente"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Cuece el arroz en el agua con la cáscara de limón y la sal 10 minutos, hasta que absorba el agua.",
+   "Añade la leche caliente poco a poco y cuece 30 minutos a fuego bajo, removiendo a menudo.",
+   "Añade el azúcar y cuece 5 minutos más.",
+   "Retira del fuego y saca el limón. Tempera las yemas con un poco del arroz y añádelas, removiendo rápido.",
+   "Reparte en una fuente y, cuando esté frío, dibuja con la canela."
+  ],
+  "tips": [
+   "Añade las yemas fuera del fuego para que no cuajen.",
+   "Los dibujos de canela se hacen con una plantilla de papel o espolvoreando entre los dedos."
+  ],
+  "video": "arroz doce receita portuguesa"
+ },
+ "en": {
+  "name": "Arroz Doce (Portuguese Rice Pudding)",
+  "blurb": "Portuguese rice pudding enriched with yolks and decorated with cinnamon patterns. For feasts and weddings.",
+  "ing": [
+   {
+    "n": "short-grain rice"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "lemon peel",
+    "note": "in one strip"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "hot milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Cook the rice in the water with the lemon peel and salt for 10 minutes, until absorbed.",
+   "Add the hot milk a little at a time and cook 30 minutes on low, stirring often.",
+   "Add the sugar and cook 5 minutes more.",
+   "Take off the heat and remove the lemon. Temper the yolks with a little of the rice and stir them in quickly.",
+   "Spread in a dish and, once cold, draw patterns with the cinnamon."
+  ],
+  "tips": [
+   "Add the yolks off the heat so they don't scramble.",
+   "The cinnamon patterns are made with a paper stencil or by sprinkling between your fingers."
+  ],
+  "video": "portuguese rice pudding recipe"
+ },
+ "added": "2026-09-30"
+}

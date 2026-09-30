@@ -1,0 +1,111 @@
+{
+ "id": "huevos-rotos",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 30,
+ "serves": 2,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "protein"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "prosciutto",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Huevos rotos con jamón",
+  "blurb": "Patatas fritas con huevos de yema líquida rotos por encima y jamón. Plato de taberna madrileña.",
+  "ing": [
+   {
+    "n": "patatas",
+    "note": "en bastones"
+   },
+   {
+    "n": "aceite de oliva para freír"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "jamón serrano",
+    "note": "en lonchas"
+   }
+  ],
+  "steps": [
+   "Fríe las patatas en el aceite a 150 °C durante 10 minutos, hasta que estén tiernas.",
+   "Sube el fuego y fríe 3 minutos más, hasta que estén doradas. Escurre y sala.",
+   "Fríe los huevos en el mismo aceite, con la yema líquida.",
+   "Pon las patatas en un plato, los huevos encima y el jamón.",
+   "Rompe los huevos con el tenedor en la mesa y mezcla."
+  ],
+  "tips": [
+   "El aceite de oliva da un sabor que el de girasol no tiene.",
+   "Los huevos deben quedar con puntilla y la yema cruda."
+  ],
+  "video": "huevos rotos con jamón receta"
+ },
+ "en": {
+  "name": "Huevos Rotos (Broken Eggs with Ham)",
+  "blurb": "Chips with runny eggs broken over them and cured ham. A Madrid tavern dish.",
+  "ing": [
+   {
+    "n": "potatoes",
+    "note": "in batons"
+   },
+   {
+    "n": "olive oil for frying"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "Spanish cured ham",
+    "note": "sliced"
+   }
+  ],
+  "steps": [
+   "Fry the potatoes in the oil at 150 °C for 10 minutes, until tender.",
+   "Raise the heat and fry 3 minutes more, until golden. Drain and salt.",
+   "Fry the eggs in the same oil, with runny yolks.",
+   "Pile the potatoes on a plate with the eggs and ham on top.",
+   "Break the eggs with a fork at the table and mix."
+  ],
+  "tips": [
+   "Olive oil adds a flavour sunflower oil doesn't.",
+   "The eggs should have lacy edges and raw yolks."
+  ],
+  "video": "huevos rotos recipe"
+ },
+ "added": "2026-09-30"
+}

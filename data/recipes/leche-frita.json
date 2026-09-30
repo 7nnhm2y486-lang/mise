@@ -1,0 +1,181 @@
+{
+ "id": "leche-frita",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 60,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 120,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "cornstarch",
+   "role": "set"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "apflour",
+   "role": "dredge"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "sugar",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Leche frita",
+  "blurb": "Crema espesa de leche con limón y canela, cortada en cuadros, rebozada y frita. Dulce del norte de España.",
+  "ing": [
+   {
+    "n": "leche"
+   },
+   {
+    "n": "cáscara de limón",
+    "note": "en una tira"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "fécula de maíz"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "huevos batidos"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "azúcar para rebozar"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Calienta 600 ml de la leche con el limón y la canela. Deja infusionar 10 minutos y cuela.",
+   "Mezcla el resto de la leche con 120 g de azúcar, la fécula y las yemas. Añade a la leche caliente y cuece 5 minutos, removiendo, hasta que esté muy espesa.",
+   "Extiende en una fuente engrasada con 2 cm de grosor y refrigera 4 horas.",
+   "Corta en cuadrados, pásalos por la harina y el huevo y fríelos a 180 °C durante 1 minuto por lado.",
+   "Rebózalos en el azúcar mezclado con la canela."
+  ],
+  "tips": [
+   "La crema debe estar muy firme antes de cortarla; si no, se deshace al freír.",
+   "Se come templada o fría."
+  ],
+  "video": "leche frita receta"
+ },
+ "en": {
+  "name": "Leche Frita (Fried Milk Custard)",
+  "blurb": "A thick lemon and cinnamon milk custard, cut into squares, coated and fried. A sweet from northern Spain.",
+  "ing": [
+   {
+    "n": "milk"
+   },
+   {
+    "n": "lemon peel",
+    "note": "in one strip"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cornstarch"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "beaten eggs"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "sugar for coating"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Heat 600 ml of the milk with the lemon and cinnamon. Infuse 10 minutes and strain.",
+   "Mix the rest of the milk with 120 g of sugar, the cornstarch and yolks. Add to the hot milk and cook 5 minutes, stirring, until very thick.",
+   "Spread 2 cm thick in a greased dish and refrigerate 4 hours.",
+   "Cut into squares, coat in the flour and egg and fry at 180 °C for 1 minute a side.",
+   "Roll in the sugar mixed with the cinnamon."
+  ],
+  "tips": [
+   "The custard must be very firm before cutting; otherwise it falls apart in the oil.",
+   "Eat it warm or cold."
+  ],
+  "video": "leche frita recipe"
+ },
+ "added": "2026-09-30"
+}

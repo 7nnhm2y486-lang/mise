@@ -1,0 +1,209 @@
+{
+ "id": "cocido-madrileno",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 240,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "pancetta",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "ham",
+   "role": "umami"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "chorizo",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "sausage",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Cocido madrileño",
+  "blurb": "Garbanzos, carnes y verduras cocidos juntos y servidos en tres vuelcos: sopa, garbanzos con verdura y carnes.",
+  "ing": [
+   {
+    "n": "garbanzos",
+    "note": "remojados 12 horas"
+   },
+   {
+    "n": "morcillo de res"
+   },
+   {
+    "n": "gallina o pollo"
+   },
+   {
+    "n": "tocino fresco"
+   },
+   {
+    "n": "hueso de jamón"
+   },
+   {
+    "n": "chorizos"
+   },
+   {
+    "n": "morcilla"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "patatas",
+    "note": "peladas"
+   },
+   {
+    "n": "zanahorias"
+   },
+   {
+    "n": "repollo",
+    "note": "en tiras"
+   },
+   {
+    "n": "fideos finos"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Pon la res, la gallina, el tocino y el hueso en el agua, hierve y quita la espuma. Añade los garbanzos en una red y cuece 2 horas y media a fuego bajo.",
+   "Añade las patatas y las zanahorias y cuece 30 minutos más.",
+   "Cuece aparte el chorizo, la morcilla y el repollo en agua con sal 30 minutos.",
+   "Cuela 1,5 l del líquido del cocido y cuece en él los fideos 4 minutos. Sala.",
+   "Sirve primero la sopa, luego los garbanzos con las verduras y al final las carnes."
+  ],
+  "tips": [
+   "El chorizo y la morcilla se cuecen aparte para que no tiñan ni engrasen la sopa.",
+   "Los restos se fríen al día siguiente como ropa vieja."
+  ],
+  "video": "cocido madrileño receta tres vuelcos"
+ },
+ "en": {
+  "name": "Cocido Madrileño (Madrid Chickpea Stew)",
+  "blurb": "Chickpeas, meats and vegetables cooked together and served in three courses: soup, chickpeas with vegetables, then meats.",
+  "ing": [
+   {
+    "n": "chickpeas",
+    "note": "soaked 12 hours"
+   },
+   {
+    "n": "beef shin"
+   },
+   {
+    "n": "boiling hen or chicken"
+   },
+   {
+    "n": "fresh pork belly"
+   },
+   {
+    "n": "ham bone"
+   },
+   {
+    "n": "chorizos"
+   },
+   {
+    "n": "morcilla (blood sausage)"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "potatoes",
+    "note": "peeled"
+   },
+   {
+    "n": "carrots"
+   },
+   {
+    "n": "cabbage",
+    "note": "shredded"
+   },
+   {
+    "n": "fine noodles"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Put the beef, hen, pork belly and ham bone in the water, bring to a boil and skim. Add the chickpeas in a net bag and simmer 2 and a half hours on low.",
+   "Add the potatoes and carrots and cook 30 minutes more.",
+   "Separately, boil the chorizo, morcilla and cabbage in salted water for 30 minutes.",
+   "Strain 1.5 l of the cooking liquid and cook the noodles in it for 4 minutes. Salt.",
+   "Serve the soup first, then the chickpeas with the vegetables and finally the meats."
+  ],
+  "tips": [
+   "The chorizo and morcilla cook separately so they don't stain or grease the soup.",
+   "Leftovers are fried the next day as ropa vieja."
+  ],
+  "video": "cocido madrileno recipe"
+ },
+ "added": "2026-09-30"
+}

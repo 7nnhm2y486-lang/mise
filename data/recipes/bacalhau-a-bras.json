@@ -1,0 +1,167 @@
+{
+ "id": "bacalhau-a-bras",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 6,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "olives",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Bacalhau à Brás",
+  "blurb": "Bacalao desmigado con patatas paja y cebolla, ligado con huevo cremoso. Un clásico de las tascas de Lisboa.",
+  "ing": [
+   {
+    "n": "bacalao desalado",
+    "note": "desmigado"
+   },
+   {
+    "n": "patatas",
+    "note": "en bastones muy finos"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebollas",
+    "note": "en juliana"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "huevos",
+    "note": "batidos"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "aceitunas negras"
+   }
+  ],
+  "steps": [
+   "Fríe las patatas en el aceite a 170 °C durante 4 minutos, hasta que estén doradas y crujientes. Escúrrelas.",
+   "Pocha la cebolla y el ajo en el aceite de oliva 10 minutos, hasta que estén blandos.",
+   "Añade el bacalao y cuece 3 minutos.",
+   "Añade las patatas y luego los huevos, removiendo a fuego bajo, solo hasta que el huevo esté cremoso.",
+   "Retira del fuego, termina con el perejil y las aceitunas."
+  ],
+  "tips": [
+   "Retira del fuego cuando el huevo aún esté brillante; sigue cuajando con el calor.",
+   "Prueba antes de salar: el bacalao desalado conserva algo de sal."
+  ],
+  "video": "bacalhau à brás receita"
+ },
+ "en": {
+  "name": "Bacalhau à Brás (Salt Cod with Eggs and Potatoes)",
+  "blurb": "Flaked salt cod with matchstick potatoes and onion, bound with creamy egg. A classic of Lisbon taverns.",
+  "ing": [
+   {
+    "n": "desalted salt cod",
+    "note": "flaked"
+   },
+   {
+    "n": "potatoes",
+    "note": "in very thin matchsticks"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onions",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "eggs",
+    "note": "beaten"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "black olives"
+   }
+  ],
+  "steps": [
+   "Fry the potatoes in the oil at 170 °C for 4 minutes, until golden and crisp. Drain.",
+   "Cook the onion and garlic gently in the olive oil for 10 minutes, until soft.",
+   "Add the cod and cook 3 minutes.",
+   "Add the potatoes and then the eggs, stirring over low heat, just until the egg is creamy.",
+   "Take off the heat and finish with the parsley and olives."
+  ],
+  "tips": [
+   "Take it off the heat while the egg still looks glossy; it keeps setting.",
+   "Taste before salting: desalted cod keeps some salt."
+  ],
+  "video": "bacalhau a bras recipe"
+ },
+ "added": "2026-09-30"
+}

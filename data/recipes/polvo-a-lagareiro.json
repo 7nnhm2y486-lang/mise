@@ -1,0 +1,152 @@
+{
+ "id": "polvo-a-lagareiro",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 90,
+ "serves": 4,
+ "ovenC": 200,
+ "ing": [
+  {
+   "q": 1.5,
+   "u": "kg",
+   "k": "squid",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 8,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Pulpo a lagareiro",
+  "blurb": "Pulpo cocido y luego asado, con patatas a murro y un baño de aceite caliente con ajo.",
+  "ing": [
+   {
+    "n": "pulpo",
+    "note": "congelado y descongelado"
+   },
+   {
+    "n": "cebolla",
+    "note": "en mitades"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "patatas pequeñas"
+   },
+   {
+    "n": "sal gruesa"
+   },
+   {
+    "n": "ajo",
+    "note": "laminado"
+   },
+   {
+    "n": "aceite de oliva virgen extra"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   }
+  ],
+  "steps": [
+   "Cuece el pulpo con la cebolla en el agua 40 minutos, hasta que esté tierno. Escúrrelo.",
+   "Asa las patatas con la mitad de la sal gruesa a 200 °C durante 35 minutos. Dales un golpe con el puño para abrirlas.",
+   "Pon el pulpo en una fuente con las patatas y asa 15 minutos más.",
+   "Calienta el aceite con el ajo hasta que el ajo empiece a dorarse.",
+   "Vierte el aceite caliente sobre el pulpo y las patatas y termina con el resto de la sal y el perejil."
+  ],
+  "tips": [
+   "Las patatas a murro se golpean para que el aceite entre en la pulpa.",
+   "Si no tienes horno, dora el pulpo cocido en una plancha muy caliente 3 minutos por lado."
+  ],
+  "video": "polvo à lagareiro receita"
+ },
+ "en": {
+  "name": "Polvo à Lagareiro (Roast Octopus with Garlic Oil)",
+  "blurb": "Boiled then roasted octopus with punched potatoes and a bath of hot garlic oil.",
+  "ing": [
+   {
+    "n": "octopus",
+    "note": "frozen and thawed"
+   },
+   {
+    "n": "onion",
+    "note": "halved"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "small potatoes"
+   },
+   {
+    "n": "coarse salt"
+   },
+   {
+    "n": "garlic",
+    "note": "sliced"
+   },
+   {
+    "n": "extra virgin olive oil"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   }
+  ],
+  "steps": [
+   "Simmer the octopus with the onion in the water for 40 minutes, until tender. Drain.",
+   "Roast the potatoes with half the coarse salt at 200 °C for 35 minutes. Give each a punch to split it.",
+   "Put the octopus in a dish with the potatoes and roast 15 minutes more.",
+   "Heat the oil with the garlic until the garlic begins to colour.",
+   "Pour the hot oil over the octopus and potatoes and finish with the rest of the salt and the parsley."
+  ],
+  "tips": [
+   "The potatoes are punched so the oil gets into the flesh.",
+   "Without an oven, brown the boiled octopus on a very hot griddle for 3 minutes a side."
+  ],
+  "video": "polvo a lagareiro recipe"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,171 @@
+{
+ "id": "espinacas-con-garbanzos",
+ "country": "Spain",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 5,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bread",
+   "role": "thicken"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "winevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "legume",
+   "role": "protein"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Espinacas con garbanzos",
+  "blurb": "Espinacas y garbanzos en una salsa de pan frito, ajo, comino y pimentón. Tapa sevillana de herencia morisca.",
+  "ing": [
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "rebanadas de pan"
+   },
+   {
+    "n": "ajo",
+    "note": "en láminas"
+   },
+   {
+    "n": "comino molido"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "vinagre de Jerez"
+   },
+   {
+    "n": "espinacas frescas"
+   },
+   {
+    "n": "garbanzos cocidos",
+    "note": "escurridos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Fríe el pan y el ajo en 3 cucharadas del aceite 3 minutos, hasta que estén dorados.",
+   "Machaca el pan y el ajo con el comino, el pimentón y el vinagre hasta tener una pasta.",
+   "Saltea las espinacas en el resto del aceite 3 minutos, hasta que se ablanden.",
+   "Añade los garbanzos, la pasta, el agua y la sal y cuece 10 minutos.",
+   "Sirve caliente."
+  ],
+  "tips": [
+   "El pan frito es lo que liga la salsa; no lo quites.",
+   "Con espinacas congeladas, descongélalas y escúrrelas bien primero."
+  ],
+  "video": "espinacas con garbanzos sevillanas"
+ },
+ "en": {
+  "name": "Espinacas con Garbanzos (Spinach and Chickpeas)",
+  "blurb": "Spinach and chickpeas in a sauce of fried bread, garlic, cumin and paprika. A Seville tapa with Moorish roots.",
+  "ing": [
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "slices of bread"
+   },
+   {
+    "n": "garlic",
+    "note": "sliced"
+   },
+   {
+    "n": "ground cumin"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "sherry vinegar"
+   },
+   {
+    "n": "fresh spinach"
+   },
+   {
+    "n": "cooked chickpeas",
+    "note": "drained"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Fry the bread and garlic in 3 tablespoons of the oil for 3 minutes, until golden.",
+   "Pound the bread and garlic with the cumin, paprika and vinegar to a paste.",
+   "Sauté the spinach in the rest of the oil for 3 minutes, until wilted.",
+   "Add the chickpeas, paste, water and salt and cook 10 minutes.",
+   "Serve hot."
+  ],
+  "tips": [
+   "The fried bread is what binds the sauce; don't leave it out.",
+   "With frozen spinach, thaw and squeeze it well first."
+  ],
+  "video": "spinach and chickpeas recipe"
+ },
+ "added": "2026-09-30"
+}

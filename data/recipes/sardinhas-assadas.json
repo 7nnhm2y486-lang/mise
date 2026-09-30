@@ -1,0 +1,133 @@
+{
+ "id": "sardinhas-assadas",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 12,
+   "u": "",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "bellpepper",
+   "role": "serve"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "serve"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "winevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "potato",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Sardinas asadas a la portuguesa",
+  "blurb": "Sardinas enteras a la brasa con sal gruesa, pimientos asados y patatas. El olor de las fiestas de junio en Lisboa.",
+  "ing": [
+   {
+    "n": "sardinas frescas enteras"
+   },
+   {
+    "n": "sal gruesa"
+   },
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "pimientos rojos"
+   },
+   {
+    "n": "cebolla",
+    "note": "en juliana"
+   },
+   {
+    "n": "vinagre de vino"
+   },
+   {
+    "n": "patatas pequeñas"
+   }
+  ],
+  "steps": [
+   "Cubre las sardinas con la sal gruesa y deja 30 minutos. Sacude el exceso.",
+   "Cuece las patatas en agua con sal 20 minutos.",
+   "Asa los pimientos en la parrilla 15 minutos, pélalos y córtalos en tiras. Aliña con la cebolla, el vinagre y la mitad del aceite.",
+   "Asa las sardinas a fuego fuerte 3 minutos por lado, hasta que la piel se ampolle.",
+   "Sirve con las patatas y los pimientos, con el resto del aceite por encima."
+  ],
+  "tips": [
+   "No escames ni limpies las sardinas pequeñas: la tripa da sabor y se come alrededor.",
+   "Engrasa bien la parrilla para que la piel no se pegue."
+  ],
+  "video": "sardinhas assadas receita"
+ },
+ "en": {
+  "name": "Portuguese Grilled Sardines",
+  "blurb": "Whole sardines grilled with coarse salt, roasted peppers and potatoes. The smell of Lisbon's June festivals.",
+  "ing": [
+   {
+    "n": "whole fresh sardines"
+   },
+   {
+    "n": "coarse salt"
+   },
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "red bell peppers"
+   },
+   {
+    "n": "onion",
+    "note": "thinly sliced"
+   },
+   {
+    "n": "wine vinegar"
+   },
+   {
+    "n": "small potatoes"
+   }
+  ],
+  "steps": [
+   "Cover the sardines with the coarse salt and leave 30 minutes. Shake off the excess.",
+   "Boil the potatoes in salted water for 20 minutes.",
+   "Grill the peppers for 15 minutes, peel and slice. Dress with the onion, vinegar and half the oil.",
+   "Grill the sardines over high heat for 3 minutes a side, until the skin blisters.",
+   "Serve with the potatoes and peppers, with the rest of the oil on top."
+  ],
+  "tips": [
+   "Don't scale or gut small sardines: the insides add flavour and you eat around them.",
+   "Oil the grill well so the skin doesn't stick."
+  ],
+  "video": "portuguese grilled sardines recipe"
+ },
+ "added": "2026-09-30"
+}

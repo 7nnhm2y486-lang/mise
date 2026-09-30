@@ -1,0 +1,145 @@
+{
+ "id": "bifanas",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "main",
+ "time": 30,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 200,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "lard",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "bread",
+   "role": "serve"
+  }
+ ],
+ "es": {
+  "name": "Bifanas",
+  "blurb": "Filetes finos de cerdo marinados en vino y ajo, en un panecillo. El bocadillo de la calle en Portugal.",
+  "ing": [
+   {
+    "n": "filetes finos de lomo de cerdo"
+   },
+   {
+    "n": "ajo",
+    "note": "machacado"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "pimentón dulce"
+   },
+   {
+    "n": "hoja de laurel"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "manteca de cerdo"
+   },
+   {
+    "n": "panecillos"
+   }
+  ],
+  "steps": [
+   "Golpea los filetes hasta dejarlos de 3 mm.",
+   "Marina el cerdo con el ajo, el vino, el pimentón, el laurel y la sal al menos 1 hora.",
+   "Calienta la manteca en una sartén y dora los filetes escurridos 1 minuto por lado.",
+   "Añade la marinada y cuece 5 minutos, hasta que la salsa reduzca a la mitad.",
+   "Abre los panecillos, moja el interior en la salsa y rellena con la carne."
+  ],
+  "tips": [
+   "Los filetes deben ser muy finos para que queden tiernos con tan poca cocción.",
+   "Moja bien el pan en la salsa: es la mitad del sabor."
+  ],
+  "video": "bifanas receita"
+ },
+ "en": {
+  "name": "Bifanas (Portuguese Pork Sandwiches)",
+  "blurb": "Thin pork steaks marinated in wine and garlic, in a soft roll. Portugal's street sandwich.",
+  "ing": [
+   {
+    "n": "thin pork loin steaks"
+   },
+   {
+    "n": "garlic",
+    "note": "crushed"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "sweet paprika"
+   },
+   {
+    "n": "bay leaf"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "lard"
+   },
+   {
+    "n": "bread rolls"
+   }
+  ],
+  "steps": [
+   "Pound the steaks to 3 mm.",
+   "Marinate the pork with the garlic, wine, paprika, bay and salt for at least 1 hour.",
+   "Heat the lard in a frying pan and brown the drained steaks 1 minute a side.",
+   "Add the marinade and cook 5 minutes, until the sauce reduces by half.",
+   "Split the rolls, dip the insides in the sauce and fill with the meat."
+  ],
+  "tips": [
+   "The steaks must be very thin to stay tender with so little cooking.",
+   "Soak the bread well in the sauce: it is half the flavour."
+  ],
+  "video": "bifanas recipe"
+ },
+ "added": "2026-09-30"
+}

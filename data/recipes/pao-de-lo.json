@@ -1,0 +1,110 @@
+{
+ "id": "pao-de-lo",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "sweet",
+ "time": 60,
+ "serves": 10,
+ "ovenC": 180,
+ "ing": [
+  {
+   "q": 6,
+   "u": "",
+   "k": "egg",
+   "role": "aerate"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "eggyolk",
+   "role": "enrich"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Pão de ló",
+  "blurb": "Bizcocho portugués solo de huevo, azúcar y harina, esponjoso por fuera y cremoso por dentro.",
+  "ing": [
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "harina de trigo",
+    "note": "tamizada"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Forra un molde de 24 cm con papel de horno arrugado.",
+   "Bate los huevos, las yemas, el azúcar y la sal 15 minutos a velocidad alta, hasta que tripliquen su volumen.",
+   "Incorpora la harina con espátula en tres veces, con movimientos envolventes.",
+   "Vierte en el molde y hornea a 180 °C durante 25 minutos. El centro debe quedar húmedo.",
+   "Deja enfriar en el molde y sirve con el papel."
+  ],
+  "tips": [
+   "El batido largo es la única levadura: no lo acortes.",
+   "No abras el horno en los primeros 20 minutos o se hunde."
+  ],
+  "video": "pão de ló de ovar receita"
+ },
+ "en": {
+  "name": "Pão de Ló (Portuguese Sponge)",
+  "blurb": "A Portuguese sponge of just egg, sugar and flour, fluffy outside and creamy in the middle.",
+  "ing": [
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "plain flour",
+    "note": "sifted"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Line a 24 cm tin with crumpled baking paper.",
+   "Whisk the eggs, yolks, sugar and salt for 15 minutes on high, until tripled in volume.",
+   "Fold in the flour with a spatula in three goes.",
+   "Pour into the tin and bake at 180 °C for 25 minutes. The centre should stay moist.",
+   "Cool in the tin and serve on its paper."
+  ],
+  "tips": [
+   "The long whisking is the only leavening: don't cut it short.",
+   "Don't open the oven for the first 20 minutes or it will sink."
+  ],
+  "video": "pao de lo recipe"
+ },
+ "added": "2026-09-30"
+}

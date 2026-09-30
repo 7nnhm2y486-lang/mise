@@ -1,0 +1,153 @@
+{
+ "id": "caldo-verde",
+ "country": "Portugal",
+ "region": "mediterranean",
+ "course": "soup",
+ "time": 45,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 4,
+   "u": "tbsp",
+   "k": "oliveoil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "chorizo",
+   "role": "protein"
+  }
+ ],
+ "es": {
+  "name": "Caldo verde",
+  "blurb": "Crema de patata con tiras finísimas de berza y rodajas de chouriço. La sopa nacional de Portugal.",
+  "ing": [
+   {
+    "n": "aceite de oliva"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "patatas harinosas",
+    "note": "en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "col gallega o berza",
+    "note": "en tiras finísimas"
+   },
+   {
+    "n": "chouriço (chorizo portugués)",
+    "note": "en rodajas finas"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla y el ajo en 2 cucharadas del aceite 5 minutos.",
+   "Añade la patata, el agua y la sal y cuece 20 minutos, hasta que la patata esté tierna.",
+   "Tritura hasta tener una crema lisa.",
+   "Añade la berza y cuece 5 minutos sin tapar, para que quede verde.",
+   "Dora el chouriço en una sartén 2 minutos. Sirve la sopa con el chouriço y el resto del aceite por encima."
+  ],
+  "tips": [
+   "Enrolla las hojas de berza como un puro y córtalas lo más fino posible; así se cuecen en 5 minutos.",
+   "No tapes la olla después de añadir la berza o pierde el color."
+  ],
+  "video": "caldo verde receita portuguesa"
+ },
+ "en": {
+  "name": "Caldo Verde (Portuguese Kale Soup)",
+  "blurb": "A potato purée with very fine ribbons of kale and slices of chouriço. Portugal's national soup.",
+  "ing": [
+   {
+    "n": "olive oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "floury potatoes",
+    "note": "in chunks"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "Portuguese cabbage or kale",
+    "note": "in very fine shreds"
+   },
+   {
+    "n": "chouriço (Portuguese chorizo)",
+    "note": "thinly sliced"
+   }
+  ],
+  "steps": [
+   "Cook the onion and garlic in 2 tablespoons of the oil for 5 minutes.",
+   "Add the potato, water and salt and cook 20 minutes, until tender.",
+   "Blend until smooth.",
+   "Add the kale and cook 5 minutes uncovered, so it stays green.",
+   "Brown the chouriço in a frying pan for 2 minutes. Serve the soup with the chouriço and the rest of the oil on top."
+  ],
+  "tips": [
+   "Roll the leaves like a cigar and slice as thin as you can; that way they cook in 5 minutes.",
+   "Don't cover the pot after adding the kale or it loses its colour."
+  ],
+  "video": "caldo verde recipe"
+ },
+ "added": "2026-09-30"
+}
