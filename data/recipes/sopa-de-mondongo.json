@@ -1,0 +1,233 @@
+{
+ "id": "sopa-de-mondongo",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 180,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "pork",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 3,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "cassava",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 3,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Sopa de mondongo",
+  "blurb": "Sopa contundente de callo y cerdo con papa y yuca. Almuerzo de fonda en Antioquia y todo Colombia.",
+  "ing": [
+   {
+    "n": "mondongo (callo de res) limpio",
+    "note": "en tiras"
+   },
+   {
+    "n": "carne de cerdo",
+    "note": "en cubos"
+   },
+   {
+    "n": "limones"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebollas largas",
+    "note": "picadas"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "papas",
+    "note": "en cubos"
+   },
+   {
+    "n": "yuca",
+    "note": "en trozos"
+   },
+   {
+    "n": "zanahorias",
+    "note": "en dados"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Frota el mondongo con el limón, enjuágalo y cuécelo en el agua 2 horas, hasta que esté tierno.",
+   "Añade el cerdo y cuece 30 minutos.",
+   "Sofríe la cebolla, el tomate, el ajo y el comino en el aceite 8 minutos y añádelo a la olla.",
+   "Añade la papa, la yuca, la zanahoria y la sal y cuece 25 minutos.",
+   "Termina con el cilantro."
+  ],
+  "tips": [
+   "En olla a presión el mondongo tarda 45 minutos.",
+   "Sírvela con arroz blanco."
+  ],
+  "video": "sopa de mondongo colombiana"
+ },
+ "en": {
+  "name": "Sopa de Mondongo (Colombian Tripe Soup)",
+  "blurb": "A hearty soup of tripe and pork with potato and cassava. Diner lunch in Antioquia and across Colombia.",
+  "ing": [
+   {
+    "n": "cleaned beef tripe",
+    "note": "in strips"
+   },
+   {
+    "n": "pork shoulder",
+    "note": "cubed"
+   },
+   {
+    "n": "limes"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "spring onions",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "potatoes",
+    "note": "cubed"
+   },
+   {
+    "n": "cassava",
+    "note": "in chunks"
+   },
+   {
+    "n": "carrots",
+    "note": "diced"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Rub the tripe with the lime, rinse and simmer it in the water for 2 hours, until tender.",
+   "Add the pork and cook 30 minutes.",
+   "Cook the spring onion, tomato, garlic and cumin in the oil for 8 minutes and add to the pot.",
+   "Add the potato, cassava, carrot and salt and cook 25 minutes.",
+   "Finish with the coriander."
+  ],
+  "tips": [
+   "In a pressure cooker the tripe takes 45 minutes.",
+   "Serve with white rice."
+  ],
+  "video": "colombian mondongo soup"
+ },
+ "added": "2026-09-30"
+}

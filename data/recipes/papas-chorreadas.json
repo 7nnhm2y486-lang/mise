@@ -1,0 +1,149 @@
+{
+ "id": "papas-chorreadas",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "side",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "cream",
+   "role": "enrich"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "mozzarella",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Papas chorreadas",
+  "blurb": "Papas cocidas bañadas en un hogao cremoso con queso derretido. Acompañante clásico del altiplano colombiano.",
+  "ing": [
+   {
+    "n": "papas pequeñas"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "cebollas largas",
+    "note": "picadas"
+   },
+   {
+    "n": "tomates",
+    "note": "picados"
+   },
+   {
+    "n": "crema de leche"
+   },
+   {
+    "n": "queso doble crema o mozzarella",
+    "note": "rallado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "comino"
+   }
+  ],
+  "steps": [
+   "Cuece las papas con piel en agua con sal 20 minutos.",
+   "Derrite la mantequilla y sofríe la cebolla larga 5 minutos.",
+   "Añade el tomate y el comino y cocina 8 minutos.",
+   "Añade la crema y el queso y remueve hasta que se funda.",
+   "Baña las papas con la salsa."
+  ],
+  "tips": [
+   "La papa sabanera o criolla es la ideal.",
+   "Baña las papas justo antes de servir."
+  ],
+  "video": "papas chorreadas colombianas"
+ },
+ "en": {
+  "name": "Papas Chorreadas (Colombian Potatoes in Cheese Sauce)",
+  "blurb": "Boiled potatoes smothered in a creamy tomato and spring onion sauce with melted cheese. A classic side from the Colombian highlands.",
+  "ing": [
+   {
+    "n": "small potatoes"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "spring onions",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "chopped"
+   },
+   {
+    "n": "single cream"
+   },
+   {
+    "n": "Colombian melting cheese or mozzarella",
+    "note": "grated"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "cumin"
+   }
+  ],
+  "steps": [
+   "Boil the potatoes in their skins in salted water for 20 minutes.",
+   "Melt the butter and cook the spring onion for 5 minutes.",
+   "Add the tomato and cumin and cook 8 minutes.",
+   "Add the cream and cheese and stir until melted.",
+   "Pour the sauce over the potatoes."
+  ],
+  "tips": [
+   "Waxy yellow potatoes work best.",
+   "Sauce the potatoes just before serving."
+  ],
+  "video": "colombian papas chorreadas"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,119 @@
+{
+ "id": "postre-de-natas",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 180,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 2,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "eggyolk",
+   "role": "set"
+  },
+  {
+   "q": 200,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Postre de natas",
+  "blurb": "Postre bogotano hecho con las natas que se forman al hervir la leche, en almíbar de leche con pasas.",
+  "ing": [
+   {
+    "n": "leche entera"
+   },
+   {
+    "n": "yemas de huevo"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "uvas pasas"
+   },
+   {
+    "n": "esencia de vainilla"
+   }
+  ],
+  "steps": [
+   "Hierve la leche y déjala enfriar sin tocar 30 minutos. Retira la nata que se forma y guárdala. Repite 3 veces.",
+   "Cuece la leche restante con el azúcar y la canela 60 minutos, removiendo, hasta que se reduzca a la mitad.",
+   "Bate las yemas con un poco de la leche reducida y añádelas a la olla. Cuece 5 minutos sin hervir.",
+   "Añade las natas, las pasas y la vainilla y cuece 10 minutos a fuego bajo.",
+   "Sirve frío."
+  ],
+  "tips": [
+   "Usa leche entera sin homogeneizar si la encuentras: forma más nata.",
+   "No hiervas tras añadir las yemas o se cortan."
+  ],
+  "video": "postre de natas bogotano"
+ },
+ "en": {
+  "name": "Postre de Natas (Colombian Milk Skin Pudding)",
+  "blurb": "A Bogotá dessert made from the skins that form on boiled milk, in a milk syrup with raisins.",
+  "ing": [
+   {
+    "n": "whole milk"
+   },
+   {
+    "n": "egg yolks"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "vanilla extract"
+   }
+  ],
+  "steps": [
+   "Boil the milk and leave it undisturbed for 30 minutes. Lift off the skin that forms and set aside. Repeat 3 times.",
+   "Cook the remaining milk with the sugar and cinnamon for 60 minutes, stirring, until reduced by half.",
+   "Whisk the yolks with a little of the reduced milk and stir into the pan. Cook 5 minutes without boiling.",
+   "Add the skins, raisins and vanilla and cook 10 minutes on low.",
+   "Serve cold."
+  ],
+  "tips": [
+   "Use unhomogenised whole milk if you can find it: it forms more skin.",
+   "Don't boil once the yolks are in or they'll curdle."
+  ],
+  "video": "colombian postre de natas"
+ },
+ "added": "2026-09-30"
+}

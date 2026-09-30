@@ -1,0 +1,95 @@
+{
+ "id": "limonada-de-coco",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 10,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "coconutmilk",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "ice",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Limonada de coco",
+  "blurb": "Limonada frappé con leche de coco, cremosa y ácida. La bebida de Cartagena en las tardes de calor.",
+  "ing": [
+   {
+    "n": "leche de coco"
+   },
+   {
+    "n": "limones",
+    "note": "exprimidos"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "hielo"
+   }
+  ],
+  "steps": [
+   "Pon el hielo en la licuadora.",
+   "Añade la leche de coco, el jugo de limón y el azúcar.",
+   "Licúa 1 minuto, hasta que quede espumosa y granizada.",
+   "Sirve de inmediato."
+  ],
+  "tips": [
+   "No licúes la cáscara del limón: amarga.",
+   "Sirve enseguida, antes de que se derrita."
+  ],
+  "video": "limonada de coco cartagenera"
+ },
+ "en": {
+  "name": "Limonada de Coco (Frozen Coconut Limeade)",
+  "blurb": "Frozen limeade blended with coconut milk, creamy and tart. Cartagena's drink on hot afternoons.",
+  "ing": [
+   {
+    "n": "coconut milk"
+   },
+   {
+    "n": "limes",
+    "note": "juiced"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Put the ice in the blender.",
+   "Add the coconut milk, lime juice and sugar.",
+   "Blend 1 minute, until frothy and slushy.",
+   "Serve at once."
+  ],
+  "tips": [
+   "Don't blend the lime peel: it turns bitter.",
+   "Serve straight away, before it melts."
+  ],
+  "video": "colombian coconut limeade"
+ },
+ "added": "2026-09-30"
+}

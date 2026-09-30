@@ -1,0 +1,187 @@
+{
+ "id": "menestra-de-lentejas",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "side",
+ "time": 50,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 1.2,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Menestra de lentejas",
+  "blurb": "Lentejas espesas con refrito de achiote y comino. Acompaña el arroz y la carne asada en todo Ecuador.",
+  "ing": [
+   {
+    "n": "lentejas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla colorada",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento verde",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tomate",
+    "note": "picado"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "achiote molido"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Cuece las lentejas en el agua 25 minutos.",
+   "Sofríe la cebolla, el pimiento, el ajo y el tomate en el aceite 8 minutos. Añade el comino y el achiote.",
+   "Añade el refrito a las lentejas con la sal y cuece 15 minutos, hasta que espesen.",
+   "Termina con el cilantro."
+  ],
+  "tips": [
+   "Debe quedar espesa, no caldosa: machaca algunas lentejas.",
+   "Sírvela con arroz blanco, como en los puestos de Guayaquil."
+  ],
+  "video": "menestra de lentejas ecuatoriana"
+ },
+ "en": {
+  "name": "Menestra de Lentejas (Ecuadorian Lentil Stew)",
+  "blurb": "Thick lentils with an annatto and cumin base. Served with rice and grilled meat across Ecuador.",
+  "ing": [
+   {
+    "n": "lentils"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "green bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomato",
+    "note": "chopped"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer the lentils in the water for 25 minutes.",
+   "Cook the onion, pepper, garlic and tomato in the oil for 8 minutes. Add the cumin and annatto.",
+   "Stir this into the lentils with the salt and cook 15 minutes, until thick.",
+   "Finish with the coriander."
+  ],
+  "tips": [
+   "It should be thick, not soupy: crush some lentils.",
+   "Serve with white rice, as Guayaquil's street stalls do."
+  ],
+  "video": "ecuadorian lentil menestra"
+ },
+ "added": "2026-09-30"
+}

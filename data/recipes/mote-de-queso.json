@@ -1,0 +1,165 @@
+{
+ "id": "mote-de-queso",
+ "country": "Colombia",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 50,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "queso",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Mote de queso",
+  "blurb": "Sopa espesa de ñame con queso costeño que se derrite a medias. La sopa de la costa del Caribe colombiano.",
+  "ing": [
+   {
+    "n": "ñame",
+    "note": "pelado y en trozos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "queso costeño",
+    "note": "en cubos"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "limones"
+   }
+  ],
+  "steps": [
+   "Cuece el ñame en el agua 25 minutos, hasta que empiece a deshacerse.",
+   "Sofríe la cebolla y el ajo en el aceite 5 minutos y añádelos a la olla.",
+   "Aplasta parte del ñame para espesar.",
+   "Añade el queso y cuece 3 minutos, hasta que se ablande sin derretirse del todo.",
+   "Termina con el cilantro, prueba de sal y sirve con limón."
+  ],
+  "tips": [
+   "Añade la sal al final: el queso costeño es muy salado.",
+   "Remueve a menudo: el ñame se pega al fondo."
+  ],
+  "video": "mote de queso costeño"
+ },
+ "en": {
+  "name": "Mote de Queso (Colombian Yam and Cheese Soup)",
+  "blurb": "A thick yam soup with salty cheese that half melts. The soup of Colombia's Caribbean coast.",
+  "ing": [
+   {
+    "n": "white yam",
+    "note": "peeled, in chunks"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "queso costeño (salty white cheese)",
+    "note": "cubed"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "limes"
+   }
+  ],
+  "steps": [
+   "Simmer the yam in the water for 25 minutes, until it starts to fall apart.",
+   "Cook the onion and garlic in the oil for 5 minutes and add to the pot.",
+   "Crush some of the yam to thicken.",
+   "Add the cheese and cook 3 minutes, until soft but not fully melted.",
+   "Finish with the coriander, taste for salt and serve with lime."
+  ],
+  "tips": [
+   "Salt at the end: queso costeño is very salty.",
+   "Stir often: yam sticks to the bottom."
+  ],
+  "video": "colombian mote de queso"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,179 @@
+{
+ "id": "pristinos",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 20,
+ "ing": [
+  {
+   "q": 500,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Pristiños",
+  "blurb": "Aros de masa frita bañados en miel de panela con canela y clavo. Dulce navideño de Ecuador.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "panela"
+   },
+   {
+    "n": "agua (segunda parte)"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "clavos de olor"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el polvo de hornear y la sal. Añade la mantequilla, los huevos y el agua y amasa 5 minutos. Reposa 20 minutos.",
+   "Estira a 3 mm, corta tiras de 3 x 15 cm y une las puntas en aro.",
+   "Fríe a 175 °C 2 minutos por lado, hasta que se inflen y doren.",
+   "Hierve la panela con el agua de la segunda parte, la canela y el clavo 10 minutos, hasta que espese.",
+   "Sirve los pristiños bañados en la miel tibia."
+  ],
+  "tips": [
+   "Pincha la masa antes de freír si quieres que se inflen menos.",
+   "La miel se espesa al enfriar: caliéntala antes de servir."
+  ],
+  "video": "pristiños ecuatorianos"
+ },
+ "en": {
+  "name": "Pristiños (Ecuadorian Fried Pastry Rings)",
+  "blurb": "Fried pastry rings drenched in cane-sugar syrup with cinnamon and clove. An Ecuadorian Christmas sweet.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "panela (unrefined cane sugar)"
+   },
+   {
+    "n": "water (second part)"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "cloves"
+   }
+  ],
+  "steps": [
+   "Mix the flour, baking powder and salt. Add the butter, eggs and water and knead 5 minutes. Rest 20 minutes.",
+   "Roll to 3 mm, cut 3 x 15 cm strips and join the ends into rings.",
+   "Fry at 175 °C for 2 minutes per side, until puffed and golden.",
+   "Boil the panela with the second part of the water, the cinnamon and cloves for 10 minutes, until thick.",
+   "Serve the rings drenched in the warm syrup."
+  ],
+  "tips": [
+   "Prick the dough before frying if you want less puff.",
+   "The syrup thickens as it cools: warm it before serving."
+  ],
+  "video": "ecuadorian pristinos"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,141 @@
+{
+ "id": "morocho",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 150,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 250,
+   "u": "g",
+   "k": "hominy",
+   "role": "structure"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "driedfruit",
+   "role": "garnish"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Morocho",
+  "blurb": "Bebida espesa y caliente de maíz blanco con leche, canela y pasas. Se toma con empanadas en las tardes de Quito.",
+  "ing": [
+   {
+    "n": "maíz morocho partido"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "leche"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "ramas de canela"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "pasas"
+   },
+   {
+    "n": "canela molida"
+   }
+  ],
+  "steps": [
+   "Remoja el morocho 12 horas y escúrrelo.",
+   "Cuécelo en el agua con la canela y el clavo 90 minutos, removiendo, hasta que esté suave.",
+   "Añade la leche y el azúcar y cuece 20 minutos más, removiendo.",
+   "Añade las pasas los últimos 5 minutos. Sirve caliente con canela molida."
+  ],
+  "tips": [
+   "Si espesa demasiado, añade leche caliente.",
+   "Remueve a menudo: se pega al fondo."
+  ],
+  "video": "morocho ecuatoriano"
+ },
+ "en": {
+  "name": "Morocho (Ecuadorian Corn Milk Drink)",
+  "blurb": "A thick, hot drink of white corn with milk, cinnamon and raisins. An afternoon warmer in Quito.",
+  "ing": [
+   {
+    "n": "cracked white corn"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "cinnamon sticks"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "raisins"
+   },
+   {
+    "n": "ground cinnamon"
+   }
+  ],
+  "steps": [
+   "Soak the corn 12 hours and drain.",
+   "Simmer it in the water with the cinnamon and cloves for 90 minutes, stirring, until soft.",
+   "Add the milk and sugar and cook 20 minutes more, stirring.",
+   "Add the raisins for the last 5 minutes. Serve hot with ground cinnamon."
+  ],
+  "tips": [
+   "If it gets too thick, add hot milk.",
+   "Stir often: it catches on the bottom."
+  ],
+  "video": "ecuadorian morocho drink"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,157 @@
+{
+ "id": "corviche",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "snack",
+ "time": 60,
+ "serves": 10,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "plantain",
+   "role": "structure"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "peanutbutter",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Corviche",
+  "blurb": "Masa de verde rallado con maní, rellena de pescado y frita. Antojo de la costa de Manabí.",
+  "ing": [
+   {
+    "n": "plátanos verdes"
+   },
+   {
+    "n": "pasta de maní sin azúcar"
+   },
+   {
+    "n": "achiote molido"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "albacora o pescado blanco"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "aceite (para el relleno)"
+   },
+   {
+    "n": "aceite para freír"
+   }
+  ],
+  "steps": [
+   "Cuece el pescado en agua 8 minutos y desmenúzalo. Sofríe la cebolla en el aceite del relleno 5 minutos y mézclala con el pescado y el cilantro.",
+   "Ralla los plátanos crudos y mézclalos con la pasta de maní, el achiote y la sal hasta tener una masa.",
+   "Toma porciones de masa, aplánalas, rellena con el pescado y forma torpedos.",
+   "Fríe a 175 °C 5 minutos, hasta que estén dorados."
+  ],
+  "tips": [
+   "Unta aceite en las manos para trabajar la masa.",
+   "El pescado original es albacora, pero sirve cualquier pescado firme."
+  ],
+  "video": "corviche manabita"
+ },
+ "en": {
+  "name": "Corviche (Plantain Peanut Fish Fritters)",
+  "blurb": "Grated green plantain dough with peanut, stuffed with fish and fried. A snack from Manabí on Ecuador's coast.",
+  "ing": [
+   {
+    "n": "green plantains"
+   },
+   {
+    "n": "unsweetened peanut butter"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "white fish"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "oil (for the filling)"
+   },
+   {
+    "n": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Poach the fish in water for 8 minutes and flake it. Cook the onion in the filling oil for 5 minutes and mix with the fish and coriander.",
+   "Grate the raw plantains and mix with the peanut butter, annatto and salt into a dough.",
+   "Take portions of dough, flatten, fill with the fish and shape into torpedoes.",
+   "Fry at 175 °C for 5 minutes, until golden."
+  ],
+  "tips": [
+   "Oil your hands to work the dough.",
+   "The original uses albacore, but any firm fish works."
+  ],
+  "video": "ecuadorian corviche"
+ },
+ "added": "2026-09-30"
+}

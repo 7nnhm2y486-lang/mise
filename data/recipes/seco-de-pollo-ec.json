@@ -1,0 +1,201 @@
+{
+ "id": "seco-de-pollo-ec",
+ "country": "Ecuador",
+ "region": "latin-america",
+ "course": "main",
+ "time": 70,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 1.2,
+   "u": "kg",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "achiote",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "fruit",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 1,
+   "u": "bunch",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Seco de pollo",
+  "blurb": "Pollo guisado en tomate, naranjilla y panela con mucho cilantro. Almuerzo de todos los días en Ecuador.",
+  "ing": [
+   {
+    "n": "pollo en presas"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla colorada",
+    "note": "picada"
+   },
+   {
+    "n": "pimiento rojo",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tomates",
+    "note": "licuados"
+   },
+   {
+    "n": "comino"
+   },
+   {
+    "n": "achiote molido"
+   },
+   {
+    "n": "jugo de naranjilla"
+   },
+   {
+    "n": "panela rallada"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sala el pollo y dóralo en el aceite 8 minutos. Sácalo.",
+   "Sofríe la cebolla, el pimiento y el ajo 6 minutos. Añade el comino y el achiote.",
+   "Añade el tomate, el jugo de naranjilla, la panela y la mitad del cilantro. Cocina 5 minutos.",
+   "Añade el pollo, tapa y cuece 40 minutos, hasta que la salsa espese.",
+   "Termina con el resto del cilantro."
+  ],
+  "tips": [
+   "Si no hay naranjilla, usa jugo de lulo o de naranja agria.",
+   "Sírvelo con arroz blanco."
+  ],
+  "video": "seco de pollo ecuatoriano"
+ },
+ "en": {
+  "name": "Seco de Pollo (Ecuadorian Chicken Stew)",
+  "blurb": "Chicken stewed in tomato, naranjilla and cane sugar with lots of coriander. Everyday lunch in Ecuador.",
+  "ing": [
+   {
+    "n": "chicken pieces"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "red onion",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "tomatoes",
+    "note": "blended"
+   },
+   {
+    "n": "cumin"
+   },
+   {
+    "n": "ground annatto"
+   },
+   {
+    "n": "naranjilla (lulo) juice"
+   },
+   {
+    "n": "grated panela"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Salt the chicken and brown it in the oil for 8 minutes. Remove.",
+   "Cook the onion, pepper and garlic for 6 minutes. Add the cumin and annatto.",
+   "Add the tomato, naranjilla juice, panela and half the coriander. Cook 5 minutes.",
+   "Add the chicken, cover and simmer 40 minutes, until the sauce thickens.",
+   "Finish with the rest of the coriander."
+  ],
+  "tips": [
+   "No naranjilla? Use lulo or sour orange juice.",
+   "Serve with white rice."
+  ],
+  "video": "ecuadorian seco de pollo"
+ },
+ "added": "2026-09-30"
+}
