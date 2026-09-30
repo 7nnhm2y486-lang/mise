@@ -1,0 +1,181 @@
+{
+ "id": "sopaipillas-pasadas",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "sweet",
+ "time": 60,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 300,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "bakingpowder",
+   "role": "leaven"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 750,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "brownsugar",
+   "role": "sweet"
+  },
+  {
+   "q": 400,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "cornstarch",
+   "role": "thicken"
+  }
+ ],
+ "es": {
+  "name": "Sopaipillas pasadas",
+  "blurb": "Sopaipillas de zapallo remojadas en almíbar de chancaca. Se comen en Chile los días de lluvia.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "zapallo cocido",
+    "note": "en puré"
+   },
+   {
+    "n": "mantequilla derretida"
+   },
+   {
+    "n": "polvo de hornear"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "aceite para freír"
+   },
+   {
+    "n": "chancaca"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "cáscara de naranja"
+   },
+   {
+    "n": "maicena"
+   }
+  ],
+  "steps": [
+   "Mezcla la harina, el zapallo, la mantequilla, el polvo de hornear y la sal. Amasa y deja reposar 15 minutos.",
+   "Estira a 5 mm, corta círculos de 8 cm y pincha cada uno.",
+   "Fríe a 175 °C 2 minutos por lado. Escurre.",
+   "Hierve la chancaca con el agua, la canela y la cáscara 15 minutos. Espesa con la maicena disuelta en un poco de agua.",
+   "Pasa las sopaipillas por el almíbar caliente 2 minutos y sirve."
+  ],
+  "tips": [
+   "Deben quedar blandas y empapadas, no crujientes.",
+   "Sin pasar por el almíbar también se comen solas."
+  ],
+  "video": "sopaipillas pasadas chilenas"
+ },
+ "en": {
+  "name": "Sopaipillas Pasadas (Pumpkin Fritters in Cane Syrup)",
+  "blurb": "Pumpkin fritters soaked in chancaca syrup. Eaten in Chile on rainy days.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "cooked pumpkin",
+    "note": "puréed"
+   },
+   {
+    "n": "melted butter"
+   },
+   {
+    "n": "baking powder"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "oil for frying"
+   },
+   {
+    "n": "chancaca (unrefined cane sugar)"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "orange peel"
+   },
+   {
+    "n": "cornflour"
+   }
+  ],
+  "steps": [
+   "Mix the flour, pumpkin, butter, baking powder and salt. Knead and rest 15 minutes.",
+   "Roll to 5 mm, cut 8 cm circles and prick each one.",
+   "Fry at 175 °C for 2 minutes per side. Drain.",
+   "Boil the chancaca with the water, cinnamon and peel for 15 minutes. Thicken with the cornflour mixed with a little water.",
+   "Dip the sopaipillas in the hot syrup for 2 minutes and serve."
+  ],
+  "tips": [
+   "They should be soft and soaked, not crisp.",
+   "Unsoaked, they're also eaten plain."
+  ],
+  "video": "chilean sopaipillas pasadas"
+ },
+ "added": "2026-09-30"
+}

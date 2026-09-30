@@ -1,0 +1,187 @@
+{
+ "id": "lengua-a-la-vinagreta",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 180,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 0.5,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 60,
+   "u": "ml",
+   "k": "winevinegar",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Lengua a la vinagreta",
+  "blurb": "Lengua de res tierna en rodajas, cubierta con vinagreta de morrón, huevo y perejil. Entrada de las fiestas argentinas.",
+  "ing": [
+   {
+    "n": "lengua de res"
+   },
+   {
+    "n": "cebolla (para la cocción)"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada fina"
+   },
+   {
+    "n": "morrón rojo",
+    "note": "picado fino"
+   },
+   {
+    "n": "huevos duros",
+    "note": "picados"
+   },
+   {
+    "n": "perejil",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado fino"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "vinagre de vino"
+   }
+  ],
+  "steps": [
+   "Cuece la lengua en agua con la cebolla, el laurel y la sal 2 horas y media, hasta que esté tierna.",
+   "Pélala en caliente y deja enfriar. Córtala en rodajas finas.",
+   "Mezcla la cebolla, el morrón, el huevo, el perejil, el ajo, el aceite y el vinagre.",
+   "Cubre las rodajas con la vinagreta y refrigera 2 horas."
+  ],
+  "tips": [
+   "Pela la lengua en caliente: en frío la piel no sale.",
+   "Mejor preparada el día anterior."
+  ],
+  "video": "lengua a la vinagreta"
+ },
+ "en": {
+  "name": "Lengua a la Vinagreta (Beef Tongue Vinaigrette)",
+  "blurb": "Tender sliced beef tongue topped with a pepper, egg and parsley vinaigrette. A festive Argentine starter.",
+  "ing": [
+   {
+    "n": "beef tongue"
+   },
+   {
+    "n": "onion (for cooking)"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "onion",
+    "note": "finely chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "finely chopped"
+   },
+   {
+    "n": "hard-boiled eggs",
+    "note": "chopped"
+   },
+   {
+    "n": "parsley",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "finely chopped"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "wine vinegar"
+   }
+  ],
+  "steps": [
+   "Simmer the tongue in water with the onion, bay and salt for 2 and a half hours, until tender.",
+   "Peel it while hot and let it cool. Slice thinly.",
+   "Mix the onion, pepper, egg, parsley, garlic, oil and vinegar.",
+   "Cover the slices with the vinaigrette and chill 2 hours."
+  ],
+  "tips": [
+   "Peel the tongue hot: cold, the skin won't come off.",
+   "Best made the day before."
+  ],
+  "video": "argentine beef tongue vinaigrette"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,213 @@
+{
+ "id": "caldillo-de-congrio",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "soup",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 800,
+   "u": "g",
+   "k": "whitefish",
+   "role": "protein"
+  },
+  {
+   "q": 1.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 3,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "veg",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "tomato",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "potato",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 100,
+   "u": "ml",
+   "k": "cream",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "handful",
+   "k": "herb",
+   "role": "garnish"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Caldillo de congrio",
+  "blurb": "Sopa chilena de congrio con papas, tomate y vino, a la que Pablo Neruda dedicó una oda.",
+  "ing": [
+   {
+    "n": "congrio en postas"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "en pluma"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "zanahoria",
+    "note": "en rodajas"
+   },
+   {
+    "n": "tomates",
+    "note": "pelados y picados"
+   },
+   {
+    "n": "pimentón"
+   },
+   {
+    "n": "papas",
+    "note": "en rodajas"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "crema de leche"
+   },
+   {
+    "n": "cilantro",
+    "note": "picado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Sofríe la cebolla, el ajo y la zanahoria en el aceite 6 minutos. Añade el tomate y el pimentón y cocina 5 minutos.",
+   "Añade el agua, las papas y la sal y cuece 15 minutos.",
+   "Añade el vino y el congrio y cuece 10 minutos a fuego suave.",
+   "Apaga, añade la crema y termina con el cilantro."
+  ],
+  "tips": [
+   "Si no hay congrio, usa merluza o corvina.",
+   "No remuevas tras añadir el pescado para que no se deshaga."
+  ],
+  "video": "caldillo de congrio chileno"
+ },
+ "en": {
+  "name": "Caldillo de Congrio (Chilean Conger Eel Soup)",
+  "blurb": "A Chilean conger eel soup with potatoes, tomato and wine, the subject of an ode by Pablo Neruda.",
+  "ing": [
+   {
+    "n": "conger eel steaks"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "sliced"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "carrot",
+    "note": "sliced"
+   },
+   {
+    "n": "tomatoes",
+    "note": "peeled and chopped"
+   },
+   {
+    "n": "paprika"
+   },
+   {
+    "n": "potatoes",
+    "note": "sliced"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "single cream"
+   },
+   {
+    "n": "coriander",
+    "note": "chopped"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the onion, garlic and carrot in the oil for 6 minutes. Add the tomato and paprika and cook 5 minutes.",
+   "Add the water, potatoes and salt and simmer 15 minutes.",
+   "Add the wine and fish and cook 10 minutes on a gentle simmer.",
+   "Turn off, stir in the cream and finish with the coriander."
+  ],
+  "tips": [
+   "No conger? Use hake or sea bass.",
+   "Don't stir once the fish is in so it doesn't break up."
+  ],
+  "video": "chilean conger eel soup"
+ },
+ "added": "2026-09-30"
+}

@@ -1,0 +1,159 @@
+{
+ "id": "berenjenas-en-escabeche",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 60,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1,
+   "u": "kg",
+   "k": "eggplant",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "whitevinegar",
+   "role": "acid"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 4,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "chilli",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "ml",
+   "k": "oil",
+   "role": "fat"
+  }
+ ],
+ "es": {
+  "name": "Berenjenas en escabeche",
+  "blurb": "Tiras de berenjena en vinagre y aceite con ajo, orégano y ají. La picada infaltable de las casas argentinas.",
+  "ing": [
+   {
+    "n": "berenjenas",
+    "note": "peladas en tiras"
+   },
+   {
+    "n": "sal gruesa"
+   },
+   {
+    "n": "vinagre blanco"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "ajo",
+    "note": "laminado"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "ají molido"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "aceite"
+   }
+  ],
+  "steps": [
+   "Espolvorea las berenjenas con la sal y deja escurrir 2 horas. Enjuaga.",
+   "Hierve el vinagre con el agua. Cuece la berenjena 5 minutos y escurre muy bien.",
+   "Mezcla con el ajo, el orégano, el ají y el laurel.",
+   "Pon en frascos limpios y cubre con el aceite.",
+   "Refrigera 24 horas antes de comer."
+  ],
+  "tips": [
+   "Aprieta bien la berenjena al escurrir para que no agüe el aceite.",
+   "Se conservan 2 semanas en la nevera cubiertas de aceite."
+  ],
+  "video": "berenjenas en escabeche"
+ },
+ "en": {
+  "name": "Berenjenas en Escabeche (Pickled Aubergine)",
+  "blurb": "Aubergine strips in vinegar and oil with garlic, oregano and chilli. A must on every Argentine snack board.",
+  "ing": [
+   {
+    "n": "aubergines",
+    "note": "peeled, in strips"
+   },
+   {
+    "n": "coarse salt"
+   },
+   {
+    "n": "white vinegar"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "garlic",
+    "note": "sliced"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "crushed chilli flakes"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "oil"
+   }
+  ],
+  "steps": [
+   "Sprinkle the aubergines with the salt and drain 2 hours. Rinse.",
+   "Bring the vinegar and water to the boil. Cook the aubergine 5 minutes and drain very well.",
+   "Mix with the garlic, oregano, chilli and bay.",
+   "Pack into clean jars and cover with the oil.",
+   "Chill 24 hours before eating."
+  ],
+  "tips": [
+   "Squeeze the aubergine hard when draining so the oil stays clear.",
+   "They keep 2 weeks in the fridge covered in oil."
+  ],
+  "video": "argentine pickled eggplant"
+ },
+ "added": "2026-09-30"
+}

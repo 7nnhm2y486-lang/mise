@@ -1,0 +1,143 @@
+{
+ "id": "pollo-al-verdeo",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 40,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 4,
+   "u": "",
+   "k": "chicken",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 30,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 2,
+   "u": "bunch",
+   "k": "scallion",
+   "role": "aromatic"
+  },
+  {
+   "q": 150,
+   "u": "ml",
+   "k": "winewhite",
+   "role": "liquid"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "heavycream",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "pepper",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Pollo al verdeo",
+  "blurb": "Pechugas en salsa de crema con mucha cebolla de verdeo y vino blanco. Plato de bodegón porteño.",
+  "ing": [
+   {
+    "n": "pechugas de pollo"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla de verdeo",
+    "note": "picada"
+   },
+   {
+    "n": "vino blanco"
+   },
+   {
+    "n": "crema de leche"
+   },
+   {
+    "n": "pimienta"
+   }
+  ],
+  "steps": [
+   "Sala el pollo y dóralo en la mantequilla con el aceite 5 minutos por lado. Sácalo.",
+   "Sofríe el verdeo en la misma sartén 4 minutos.",
+   "Añade el vino y deja reducir 3 minutos.",
+   "Añade la crema y la pimienta, vuelve a poner el pollo y cuece 8 minutos a fuego bajo."
+  ],
+  "tips": [
+   "Guarda un poco de la parte verde del verdeo para decorar.",
+   "Sírvelo con arroz blanco."
+  ],
+  "video": "pollo al verdeo"
+ },
+ "en": {
+  "name": "Pollo al Verdeo (Chicken in Spring Onion Cream)",
+  "blurb": "Chicken breasts in a cream sauce with lots of spring onion and white wine. A Buenos Aires tavern dish.",
+  "ing": [
+   {
+    "n": "chicken breasts"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "spring onions",
+    "note": "chopped"
+   },
+   {
+    "n": "white wine"
+   },
+   {
+    "n": "double cream"
+   },
+   {
+    "n": "pepper"
+   }
+  ],
+  "steps": [
+   "Salt the chicken and brown it in the butter and oil for 5 minutes per side. Remove.",
+   "Cook the spring onion in the same pan for 4 minutes.",
+   "Add the wine and reduce 3 minutes.",
+   "Add the cream and pepper, return the chicken and simmer 8 minutes on low."
+  ],
+  "tips": [
+   "Keep some of the green tops to garnish.",
+   "Serve with white rice."
+  ],
+  "video": "argentine chicken spring onion cream"
+ },
+ "added": "2026-09-30"
+}

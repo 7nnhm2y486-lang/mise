@@ -1,0 +1,205 @@
+{
+ "id": "canelones-de-verdura",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 90,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 150,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 350,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 250,
+   "u": "g",
+   "k": "ricottacheese",
+   "role": "enrich"
+  },
+  {
+   "q": 80,
+   "u": "g",
+   "k": "parmesan",
+   "role": "enrich"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "egg",
+   "role": "binder"
+  },
+  {
+   "q": 1,
+   "u": "pinch",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "butter",
+   "role": "fat"
+  },
+  {
+   "q": 40,
+   "u": "g",
+   "k": "apflour",
+   "role": "thicken"
+  },
+  {
+   "q": 500,
+   "u": "ml",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 400,
+   "u": "g",
+   "k": "tomato",
+   "role": "sauce"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  }
+ ],
+ "es": {
+  "name": "Canelones de verdura",
+  "blurb": "Panqueques rellenos de acelga y ricota, con salsa blanca y tomate. Clásico de las fiestas familiares en Argentina.",
+  "ing": [
+   {
+    "n": "harina de trigo (para los panqueques)"
+   },
+   {
+    "n": "huevos (para los panqueques)"
+   },
+   {
+    "n": "leche (para los panqueques)"
+   },
+   {
+    "n": "acelga",
+    "note": "hervida y picada"
+   },
+   {
+    "n": "ricota"
+   },
+   {
+    "n": "queso rallado"
+   },
+   {
+    "n": "huevo (para el relleno)"
+   },
+   {
+    "n": "nuez moscada"
+   },
+   {
+    "n": "mantequilla"
+   },
+   {
+    "n": "harina de trigo (para la salsa blanca)"
+   },
+   {
+    "n": "leche (para la salsa blanca)"
+   },
+   {
+    "n": "tomate triturado"
+   },
+   {
+    "n": "sal"
+   }
+  ],
+  "steps": [
+   "Bate la harina, los huevos y la leche de los panqueques. Haz 12 panqueques finos en una sartén untada.",
+   "Escurre muy bien la acelga y mézclala con la ricota, la mitad del queso, el huevo, la nuez moscada y sal.",
+   "Derrite la mantequilla, añade la harina y cocina 1 minuto. Añade la leche batiendo y cuece 8 minutos hasta espesar.",
+   "Rellena y enrolla los panqueques. Ponlos en una fuente sobre el tomate.",
+   "Cubre con la salsa blanca y el resto del queso. Hornea a 200 °C 20 minutos."
+  ],
+  "tips": [
+   "Exprime bien la acelga o el relleno quedará aguado.",
+   "Se pueden armar el día anterior y hornear al momento."
+  ],
+  "video": "canelones de verdura argentinos"
+ },
+ "en": {
+  "name": "Canelones de Verdura (Chard and Ricotta Cannelloni)",
+  "blurb": "Crêpes filled with chard and ricotta, with white sauce and tomato. A classic of Argentine family gatherings.",
+  "ing": [
+   {
+    "n": "plain flour (for the crêpes)"
+   },
+   {
+    "n": "eggs (for the crêpes)"
+   },
+   {
+    "n": "milk (for the crêpes)"
+   },
+   {
+    "n": "chard",
+    "note": "blanched and chopped"
+   },
+   {
+    "n": "ricotta"
+   },
+   {
+    "n": "grated parmesan"
+   },
+   {
+    "n": "egg (for the filling)"
+   },
+   {
+    "n": "nutmeg"
+   },
+   {
+    "n": "butter"
+   },
+   {
+    "n": "plain flour (for the white sauce)"
+   },
+   {
+    "n": "milk (for the white sauce)"
+   },
+   {
+    "n": "crushed tomatoes"
+   },
+   {
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Whisk the crêpe flour, eggs and milk. Make 12 thin crêpes in a greased pan.",
+   "Squeeze the chard very dry and mix with the ricotta, half the cheese, the egg, nutmeg and salt.",
+   "Melt the butter, add the flour and cook 1 minute. Whisk in the milk and cook 8 minutes until thick.",
+   "Fill and roll the crêpes. Lay them in a dish over the tomato.",
+   "Cover with the white sauce and the rest of the cheese. Bake at 200 °C for 20 minutes."
+  ],
+  "tips": [
+   "Squeeze the chard well or the filling will be watery.",
+   "Assemble them the day before and bake when needed."
+  ],
+  "video": "argentine chard cannelloni"
+ },
+ "added": "2026-09-30"
+}

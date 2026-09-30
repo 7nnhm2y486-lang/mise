@@ -1,0 +1,223 @@
+{
+ "id": "tallarines-con-tuco",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "main",
+ "time": 120,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "apflour",
+   "role": "structure"
+  },
+  {
+   "q": 4,
+   "u": "",
+   "k": "egg",
+   "role": "structure"
+  },
+  {
+   "q": 0.5,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 500,
+   "u": "g",
+   "k": "beef",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "bellpepper",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 800,
+   "u": "g",
+   "k": "tomato",
+   "role": "liquid"
+  },
+  {
+   "q": 2,
+   "u": "leaf",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 60,
+   "u": "g",
+   "k": "parmesan",
+   "role": "garnish"
+  }
+ ],
+ "es": {
+  "name": "Tallarines caseros con tuco",
+  "blurb": "Tallarines de huevo hechos a mano con tuco de carne cocido despacio. El almuerzo de domingo de la nona en Argentina.",
+  "ing": [
+   {
+    "n": "harina de trigo"
+   },
+   {
+    "n": "huevos"
+   },
+   {
+    "n": "sal (para la masa)"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "carne de res para guiso (roast beef)",
+    "note": "en trozos"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "morrón rojo",
+    "note": "picado"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "tomate triturado"
+   },
+   {
+    "n": "laurel"
+   },
+   {
+    "n": "orégano seco"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "queso rallado"
+   }
+  ],
+  "steps": [
+   "Haz un volcán con la harina y la sal, pon los huevos en el centro y amasa 10 minutos. Reposa 30 minutos tapada.",
+   "Dora la carne en el aceite 6 minutos. Añade la cebolla, el morrón y el ajo y cocina 8 minutos.",
+   "Añade el tomate, el laurel, el orégano, el azúcar y la sal. Cuece tapado 60 minutos a fuego bajo.",
+   "Estira la masa muy fina, enharínala, enróllala y corta tiras de 5 mm.",
+   "Cuece los tallarines en agua hirviendo con sal 3 minutos. Sirve con el tuco y el queso."
+  ],
+  "tips": [
+   "Deja secar los tallarines 15 minutos sobre un paño antes de cocerlos.",
+   "El azúcar corrige la acidez del tomate."
+  ],
+  "video": "tallarines caseros con tuco"
+ },
+ "en": {
+  "name": "Tallarines con Tuco (Homemade Noodles with Meat Sauce)",
+  "blurb": "Hand-made egg noodles with a slow-cooked beef tomato sauce. Nonna's Sunday lunch in Argentina.",
+  "ing": [
+   {
+    "n": "plain flour"
+   },
+   {
+    "n": "eggs"
+   },
+   {
+    "n": "salt (for the dough)"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "beef braising cut",
+    "note": "in pieces"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "red bell pepper",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "crushed tomatoes"
+   },
+   {
+    "n": "bay leaves"
+   },
+   {
+    "n": "dried oregano"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "grated parmesan"
+   }
+  ],
+  "steps": [
+   "Make a well in the flour and salt, crack the eggs into it and knead 10 minutes. Rest 30 minutes covered.",
+   "Brown the beef in the oil for 6 minutes. Add the onion, pepper and garlic and cook 8 minutes.",
+   "Add the tomato, bay, oregano, sugar and salt. Cover and simmer 60 minutes on low.",
+   "Roll the dough very thin, flour it, roll it up and cut 5 mm strips.",
+   "Cook the noodles in boiling salted water for 3 minutes. Serve with the sauce and cheese."
+  ],
+  "tips": [
+   "Let the noodles dry 15 minutes on a cloth before cooking.",
+   "The sugar balances the tomato's acidity."
+  ],
+  "video": "argentine homemade noodles tuco"
+ },
+ "added": "2026-09-30"
+}

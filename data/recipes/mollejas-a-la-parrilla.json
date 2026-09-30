@@ -1,0 +1,81 @@
+{
+ "id": "mollejas-a-la-parrilla",
+ "country": "Argentina",
+ "region": "latin-america",
+ "course": "starter",
+ "time": 60,
+ "serves": 4,
+ "ing": [
+  {
+   "q": 600,
+   "u": "g",
+   "k": "veal",
+   "role": "protein"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 2,
+   "u": "",
+   "k": "citrus",
+   "role": "acid"
+  }
+ ],
+ "es": {
+  "name": "Mollejas a la parrilla",
+  "blurb": "Mollejas crujientes por fuera y tiernas por dentro, con limón. La achura favorita del asado argentino.",
+  "ing": [
+   {
+    "n": "mollejas de ternera"
+   },
+   {
+    "n": "sal gruesa"
+   },
+   {
+    "n": "limones"
+   }
+  ],
+  "steps": [
+   "Hierve las mollejas 5 minutos y enfríalas en agua con hielo.",
+   "Retira la grasa y las membranas más gruesas.",
+   "Ásalas a la parrilla a fuego medio 20 minutos, dándoles la vuelta, hasta que estén doradas y crujientes.",
+   "Sala, corta en trozos y sirve con limón."
+  ],
+  "tips": [
+   "El hervor previo las mantiene firmes en la parrilla.",
+   "También se hacen en una sartén de hierro bien caliente."
+  ],
+  "video": "mollejas a la parrilla"
+ },
+ "en": {
+  "name": "Grilled Sweetbreads (Mollejas)",
+  "blurb": "Sweetbreads crisp outside and tender inside, with lemon. The favourite offal cut of an Argentine asado.",
+  "ing": [
+   {
+    "n": "veal sweetbreads"
+   },
+   {
+    "n": "coarse salt"
+   },
+   {
+    "n": "lemons"
+   }
+  ],
+  "steps": [
+   "Blanch the sweetbreads 5 minutes and cool them in iced water.",
+   "Remove the fat and the thickest membranes.",
+   "Grill over medium heat for 20 minutes, turning, until golden and crisp.",
+   "Salt, cut into pieces and serve with lemon."
+  ],
+  "tips": [
+   "Blanching keeps them firm on the grill.",
+   "A very hot cast-iron pan works too."
+  ],
+  "video": "argentine grilled sweetbreads"
+ },
+ "added": "2026-09-30"
+}

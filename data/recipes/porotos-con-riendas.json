@@ -1,0 +1,175 @@
+{
+ "id": "porotos-con-riendas",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "main",
+ "time": 150,
+ "serves": 6,
+ "ing": [
+  {
+   "q": 400,
+   "u": "g",
+   "k": "legume",
+   "role": "structure"
+  },
+  {
+   "q": 2.5,
+   "u": "l",
+   "k": "water",
+   "role": "liquid"
+  },
+  {
+   "q": 3,
+   "u": "tbsp",
+   "k": "oil",
+   "role": "fat"
+  },
+  {
+   "q": 1,
+   "u": "",
+   "k": "onion",
+   "role": "aromatic"
+  },
+  {
+   "q": 2,
+   "u": "clove",
+   "k": "garlic",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "paprika",
+   "role": "aromatic"
+  },
+  {
+   "q": 300,
+   "u": "g",
+   "k": "veg",
+   "role": "structure"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "pasta",
+   "role": "structure"
+  },
+  {
+   "q": 2,
+   "u": "tsp",
+   "k": "salt",
+   "role": "salt"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "herb",
+   "role": "aromatic"
+  }
+ ],
+ "es": {
+  "name": "Porotos con riendas",
+  "blurb": "Porotos guisados con zapallo y tallarines, las riendas. Almuerzo de invierno chileno.",
+  "ing": [
+   {
+    "n": "porotos tórtola secos"
+   },
+   {
+    "n": "agua"
+   },
+   {
+    "n": "aceite"
+   },
+   {
+    "n": "cebolla",
+    "note": "picada"
+   },
+   {
+    "n": "ajo",
+    "note": "picado"
+   },
+   {
+    "n": "pimentón"
+   },
+   {
+    "n": "zapallo",
+    "note": "en cubos"
+   },
+   {
+    "n": "tallarines",
+    "note": "partidos"
+   },
+   {
+    "n": "sal"
+   },
+   {
+    "n": "orégano seco"
+   }
+  ],
+  "steps": [
+   "Remoja los porotos 12 horas y escúrrelos.",
+   "Cuécelos en el agua 90 minutos, hasta que estén tiernos.",
+   "Sofríe la cebolla y el ajo en el aceite 6 minutos. Añade el pimentón y el orégano.",
+   "Añade el sofrito, el zapallo y la sal a los porotos y cuece 20 minutos.",
+   "Añade los tallarines y cuece 10 minutos más, removiendo."
+  ],
+  "tips": [
+   "El zapallo se deshace y espesa el guiso.",
+   "Si espesa demasiado, añade agua."
+  ],
+  "video": "porotos con riendas"
+ },
+ "en": {
+  "name": "Porotos con Riendas (Chilean Beans with Noodles)",
+  "blurb": "Beans stewed with pumpkin and spaghetti, the 'reins'. A Chilean winter lunch.",
+  "ing": [
+   {
+    "n": "dried cranberry beans"
+   },
+   {
+    "n": "water"
+   },
+   {
+    "n": "oil"
+   },
+   {
+    "n": "onion",
+    "note": "chopped"
+   },
+   {
+    "n": "garlic",
+    "note": "chopped"
+   },
+   {
+    "n": "paprika"
+   },
+   {
+    "n": "pumpkin",
+    "note": "cubed"
+   },
+   {
+    "n": "spaghetti",
+    "note": "broken"
+   },
+   {
+    "n": "salt"
+   },
+   {
+    "n": "dried oregano"
+   }
+  ],
+  "steps": [
+   "Soak the beans 12 hours and drain.",
+   "Simmer them in the water for 90 minutes, until tender.",
+   "Cook the onion and garlic in the oil for 6 minutes. Add the paprika and oregano.",
+   "Add this, the pumpkin and salt to the beans and simmer 20 minutes.",
+   "Add the spaghetti and cook 10 minutes more, stirring."
+  ],
+  "tips": [
+   "The pumpkin melts in and thickens the stew.",
+   "Add water if it gets too thick."
+  ],
+  "video": "chilean beans with noodles"
+ },
+ "added": "2026-09-30"
+}

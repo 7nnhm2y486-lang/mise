@@ -1,0 +1,141 @@
+{
+ "id": "cola-de-mono",
+ "country": "Chile",
+ "region": "latin-america",
+ "course": "drink",
+ "time": 30,
+ "serves": 8,
+ "ing": [
+  {
+   "q": 1,
+   "u": "l",
+   "k": "milk",
+   "role": "liquid"
+  },
+  {
+   "q": 150,
+   "u": "g",
+   "k": "sugar",
+   "role": "sweet"
+  },
+  {
+   "q": 2,
+   "u": "tbsp",
+   "k": "coffee",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 4,
+   "u": "piece",
+   "k": "spice",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "piece",
+   "k": "citrus",
+   "role": "aromatic"
+  },
+  {
+   "q": 1,
+   "u": "tsp",
+   "k": "vanilla",
+   "role": "aromatic"
+  },
+  {
+   "q": 250,
+   "u": "ml",
+   "k": "spirit",
+   "role": "liquid"
+  }
+ ],
+ "es": {
+  "name": "Cola de mono",
+  "blurb": "Bebida navideña chilena de leche con café, especias y aguardiente, servida muy fría.",
+  "ing": [
+   {
+    "n": "leche"
+   },
+   {
+    "n": "azúcar"
+   },
+   {
+    "n": "café instantáneo"
+   },
+   {
+    "n": "rama de canela"
+   },
+   {
+    "n": "clavos de olor"
+   },
+   {
+    "n": "cáscara de naranja"
+   },
+   {
+    "n": "esencia de vainilla"
+   },
+   {
+    "n": "aguardiente o pisco"
+   }
+  ],
+  "steps": [
+   "Hierve la leche con el azúcar, la canela, el clavo y la cáscara 10 minutos.",
+   "Apaga, añade el café y la vainilla y deja enfriar.",
+   "Cuela y añade el aguardiente.",
+   "Refrigera toda la noche y sirve muy frío."
+  ],
+  "tips": [
+   "Añade el alcohol en frío para que no se evapore.",
+   "Contiene alcohol: para niños, hazla sin el aguardiente."
+  ],
+  "video": "cola de mono chilena"
+ },
+ "en": {
+  "name": "Cola de Mono (Chilean Coffee Milk Punch)",
+  "blurb": "Chile's Christmas drink of milk with coffee, spices and aguardiente, served very cold.",
+  "ing": [
+   {
+    "n": "milk"
+   },
+   {
+    "n": "sugar"
+   },
+   {
+    "n": "instant coffee"
+   },
+   {
+    "n": "cinnamon stick"
+   },
+   {
+    "n": "cloves"
+   },
+   {
+    "n": "orange peel"
+   },
+   {
+    "n": "vanilla extract"
+   },
+   {
+    "n": "aguardiente or pisco"
+   }
+  ],
+  "steps": [
+   "Boil the milk with the sugar, cinnamon, cloves and peel for 10 minutes.",
+   "Turn off, add the coffee and vanilla and cool.",
+   "Strain and add the aguardiente.",
+   "Chill overnight and serve very cold."
+  ],
+  "tips": [
+   "Add the spirit when cold so it doesn't evaporate.",
+   "Contains alcohol: for children, make it without the aguardiente."
+  ],
+  "video": "chilean cola de mono"
+ },
+ "added": "2026-09-30"
+}
